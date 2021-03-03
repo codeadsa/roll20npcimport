@@ -15,14 +15,12 @@ Issues parsing
 1) Bad Ecology location
 	https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/clamor
 
-Sources	
+Sources	used in testing
 	https://www.d20pfsrd.com/bestiary/npc-s/
 	https://www.d20pfsrd.com/bestiary/
 	http://www.thegm.org/npcs.php
 	https://aonprd.com/Monsters.aspx
 	http://www.monsteradvancer.com/send/monster/quickenedMonsterAdvancer.ma?pfMode
-graphic of current development timeline.
-
 
 Parsing tips
 Things to look out for
