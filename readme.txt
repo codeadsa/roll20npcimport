@@ -1,4 +1,15 @@
-Started project 2020-04-14
+Overview:
+I have created a small Java tool that allows you to paste in the NPC/Monster stat block. The tool will then parse the data and paste it into a Pathfinder Community Sheet, to create a fully fledged Roll20 token with all the standard macros of the PF community sheet enabled. The tool will be free to use. Released to https://kroythegm.itch.io/roll20-pathfinder-npc-import-tool
+
+Features:
+	Supports the "Pathfinder Community" along with "Pathfinder by Roll20" sheet
+	Converts most of the NPC stats.
+	Pasting from PDF's may require some manual correction due to display/formatting creating line breaks.
+	Requires Java 1.8 or higher
+	Tested on Windows & Mac
+
+Tutorial: https://itch.io/t/768563/how-to-a-tutorial
+Tips and Tricks: https://itch.io/t/769898/tips-and-tricks
 
 Issues parsing
 1) Bad Ecology location
@@ -25,6 +36,4 @@ Do not click the "Parse" button again, it will inflate the character and lag the
 Issues
 https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-felius +1+1 two ended weapon.
 
-
-Mac
-When opening get error message
+Started project 2020-04-14
