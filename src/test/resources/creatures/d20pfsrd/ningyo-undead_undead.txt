@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ningyo-undead
+Undead Ningyo CR 1
+XP 400
+NE Small undead (aquatic)
+Init +1; Senses Perception +2
+DEFENSE
+AC 14, touch 12, flat-footed 13 (+1 Dex, +2 natural, +1 size)
+hp 15 (2d8+6)
+Fort +3, Ref +1, Will +5
+Immune undead traits
+OFFENSE
+Speed 10 ft., swim 20 ft.
+Melee 2 claws +3 (1d3+1), bite +3 (1d4+1)
+Special Attacks group grapplers, startle
+STATISTICS
+Str 12, Dex 13, Con —, Int 5, Wis 15, Cha 16
+Base Atk +1; CMB +1; CMD 12
+Feats Step Up
+Skills Stealth +9, Swim +10
+SQ nocturnal undeath, poison flesh
+SPECIAL ABILITIES
+Startle (Su) Any creature of 5 Hit Dice or fewer that is attacked by an undead ningyo in a surprise round must make a DC 14 Will save or be frightened for 1d4 rounds. If the subject succeeds on a Will save, it is shaken for 1 round. Whether or not the save is successful, the affected creature is immune to the same undead ningyo’s startle attack for 24 hours. Creatures with 6 or more HD are immune to this effect. This is a mind-affecting fear effect. The save DC is Charisma-based.

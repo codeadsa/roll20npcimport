@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/cikavak-mb
+Cikavak CR 2
+XP 600
+N Tiny magical beast
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +6
+DEFENSE
+AC 18, touch 17, flat-footed 13 (+5 Dex, +1 natural, +2 size)
+hp 11 (2d10)
+Fort +3, Ref +8, Will +1
+Resist acid 5, fire 5
+OFFENSE
+Speed 10 ft., fly 40 ft. (average)
+Melee bite +9 (1d4-3)
+Space 2 1/2 ft.; Reach 0 ft.
+Spell-Like Abilities (CL 3rd; concentration +0)
+At will—speak with animals
+1/day—silence
+STATISTICS
+Str 4, Dex 20, Con 10, Int 12, Wis 12, Cha 4
+Base Atk +2; CMB +5; CMD 12
+Feats Weapon Finesse
+Skills Fly +14, Perception +6, Sense Motive +2, Stealth +17
+Languages understands Common; telepathy (touch)

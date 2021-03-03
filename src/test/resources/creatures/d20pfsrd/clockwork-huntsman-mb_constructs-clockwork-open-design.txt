@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-open-design/clockwork-huntsman-mb
+Clockwork Huntsman CR 3
+XP 800
+N Medium construct
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +8
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 36 (3d10+20)
+Fort +1, Ref +3, Will +1
+Immune construct traits
+OFFENSE
+Speed 40 ft.
+Melee mwk longsword +8 (1d8+3/19–20), slam +6 (1d4+4)
+Special Attacks net cannon
+STATISTICS
+Str 17, Dex 14, Con —, Int 4, Wis 10, Cha 1
+Base Atk +3; CMB +6; CMD 18
+Feats Power Attack, Weapon Focus (longsword)
+Skills Perception +8; Racial Modifiers Acrobatics (+4 when jumping), +5 Perception
+Languages understands Common
+SQ diligent sentinel
+SPECIAL ABILITIES
+Diligent Sentinel (Ex) Clockwork huntsmen are designed to seek prey. They gain a +5 racial bonus to Perception checks.
+Net Cannon (Ex) A mechanism within the clockwork huntsman’s chest can fire a net at any target it is aware of 1/round as a standard action. This is a ranged touch attack that does not provoke an attack of opportunity. It has a range increment of 10 ft. with a maximum range of 30 ft. and a 30 ft. trailing cable (hardness 3, 10 hp) anchored within the huntsman’s chest. It functions in all other ways as a standard net. Up to four nets may be fired from the huntsman. It is a full round action to retract and re-arm a net that has missed. This mechanism explodes when a clockwork huntsman is destroyed, projecting superheated steam and shrapnel at each creature within 5 ft. of the construct (3d6 damage, Reflex DC 15 for half).
+Clockwork Huntsman Construction
+Though different of build, clockwork huntsmen and clockwork hounds are typically made at the same time and use very similar materials. Both are reinforced constructs demanding a heavy chassis of iron, steel, and some mithral. After construction of the bodies, a 4-day ritual involving 500 gp in special oils and chemicals activate the clockworks.
+CL 5th; Price 10,500 gp
+CONSTRUCTION REQUIREMENTS
+Craft Construct, animate object, expeditious retreat, grease; Special creator must be CL 5th; Skill Craft (clockworks) and Craft (alchemy) DC 22; Cost 5,500 gp

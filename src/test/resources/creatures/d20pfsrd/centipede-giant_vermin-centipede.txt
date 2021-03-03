@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/centipede-giant
+Giant Centipede CR 1/2
+XP 200
+N Medium vermin
+Init +2; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 5 (1d8+1)
+Fort +3, Ref +2, Will +0
+Immune mind-affecting effects
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee bite +2 (1d6–1 plus poison)
+Special Attacks poison
+STATISTICS
+Str 9, Dex 15, Con 12, Int —, Wis 10, Cha 2
+Base Atk +0; CMB –1; CMD 11 (can’t be tripped)
+Feats Weapon FinesseB
+Skills Climb +10, Perception +4, Stealth +10; Racial Modifiers +4 Perception, +8 Stealth
+SPECIAL ABILITIES
+Poison (EX) Bite—injury; save Fort DC 13; frequency 1/round for 6 rounds; effect 1d3 Dex damage; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.

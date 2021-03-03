@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-brimorak
+Brimorak CR 5
+XP 1,600
+CE Small outsider (chaotic, demon, evil, extraplanar)
+Init +7; Senses darkvision 60 ft.; Perception +18
+Aura smoke breath (5 ft., DC 17)
+DEFENSE
+AC 18, touch 14, flat-footed 15 (+3 Dex, +4 natural, +1 size)
+hp 57 (6d10+24)
+Fort +9, Ref +8, Will +3
+Defensive Abilities boiling blood; DR 5/cold iron or good; Immune electricity, fire; Resist acid 10, cold 10; SR 16
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 30 ft.
+Melee longsword +11/+6 (1d6+3/19–20 plus 1d6 fire), hoof +5 (1d3+1 plus 1d6 fire)
+Special Attacks burning hooves, breath weapon (20-ft. line of boiling blood, 5d6 fire damage, Ref DC 17 half, once every 1d4 rounds)
+Spell-Like Abilities (CL 6th; concentration +8)
+3/day—dispel magic, heat metal (DC 14), produce flame
+1/day—air walk, fireball (DC 15), greater teleport (self plus 50 lbs. of objects only), summon (level 3, 1 brimorak 50%)
+STATISTICS
+Str 17, Dex 16, Con 19, Int 12, Wis 12, Cha 15
+Base Atk +6; CMB +8; CMD 21
+Feats Combat Casting, Improved Initiative, Weapon Focus (longsword)
+Skills Acrobatics +12, Bluff +11, Knowledge (engineering, planes) +10, Perception +18, Sense Motive +10, Stealth +16; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Draconic, Ignan; telepathy 100 ft.
+SQ flaming weapon
+SPECIAL ABILITIES
+Boiling Blood (Su) Any creature that damages a brimorak with a non-reach slashing or piercing melee weapon is sprayed with its blood, taking 1d4 points of fire damage on each successful hit with such a weapon.
+Burning Hooves (Su) A brimorak’s burning hooves leave scorched prints. Survival checks to track a brimorak are attempted with a +8 circumstance bonus. Against a prone foe, a brimorak can make two hoof attacks rather than just one.
+Flaming Weapon (Su) As a free action, a brimorak can cause a single wielded melee weapon to deal 1d6 additional points of fire damage on a successful hit. This fire damage stacks with any fire damage that the weapon might also deal. The weapon loses this ability if it leaves the demon’s grasp.
+Smoke Breath (Su) A brimorak’s breath surrounds it to a radius of 5 feet. A creature who begins its turn in this area must make a successful DC 17 Fortitude save or become sickened for 1 round.
+A creature gains immunity to a particular brimorak’s breath for 24 hours with a successful save. This is a poison effect. The save DC is Constitution-based.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/swarm-raven-undead-tohc
+Undead Raven Swarm CR 9
+XP 6,400
+NE Tiny undead (swarm)
+Init +6; Senses darkvision 60 ft., scent; Perception +24
+DEFENSE
+AC 16, touch 14, flat-footed 14 (+2 Dex, +2 natural, +2 size)
+hp 105 (14d8+28 plus 14)
+Fort +8, Ref +8, Will +13
+Defensive Abilities half damage from piercing and slashing;
+Immune swarm traits, undead traits
+Weaknesses swarm traits
+OFFENSE
+Speed 10 ft., fly 40 ft. (average)
+Melee swarm (3d6 plus eye-rake plus disease)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 18), eye-rake (DC 18)
+STATISTICS
+Str 2, Dex 15, Con —, Int 2, Wis 15, Cha 12
+Base Atk +10; CMB –; CMD —
+Feats Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Skill Focus (Perception), Toughness, Weapon Finesse
+Skills Fly +10, Perception +24
+SPECIAL ABILITIES
+Disease (Su) Raven plague: Swarm—injury; save Fort DC 18; onset 1 day; frequency 1/day; effect 1d4 Con damage and 1d2 Str damage; cure 2 consecutive saves. The save DC is Charisma-based.
+Eye-Rake (Ex) Any living creature damaged by a raven swarm must succeed on a DC 18 Reflex save or be blinded as the swarm scratches and tears at the victim’s eyes. The blindness lasts for 1d4 days or until healed with a remove blindness or a successful DC 18 Heal check. The save DC is Constitution-based.
+Family Ties
+Raven Swarm

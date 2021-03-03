@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/tendriculos
+Tendriculos CR 6
+XP 2,400
+N Huge plant
+Init +3; Senses low-light vision; Perception +7
+DEFENSE
+AC 19, touch 7, flat-footed 19 (–1 Dex, +12 natural, –2 size)
+hp 76 (9d8+36); regeneration 10 (bludgeoning or fire)
+Fort +10, Ref +4, Will +4
+Immune acid, plant traits
+OFFENSE
+Speed 20 ft.
+Melee bite +11 (2d6+7 plus grab), 2 tentacles +6 (1d6+3 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks paralysis (3d6 rounds, DC 18), swallow whole (2d6 acid damage plus paralysis, AC 15, 7 hp)
+STATISTICS
+Str 24, Dex 9, Con 18, Int 3, Wis 8, Cha 3
+Base Atk +6; CMB +15 (+19 grapple); CMD 24 (can’t be tripped)
+Feats Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Stealth)
+Skills Perception +7, Stealth +1 (+9 in undergrowth); Racial Modifiers +8 Stealth in undergrowth
+Languages Sylvan (cannot speak)

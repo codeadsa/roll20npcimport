@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/drakes/drake-rift
+Rift Drake CR 9
+XP 6,400
+CE Large dragon (earth)
+Init +7; Senses darkvision 60 ft., low-light vision, scent; Perception +14
+DEFENSE
+AC 23, touch 12, flat-footed 20 (+3 Dex, +11 natural, -1 size)
+hp 126 (11d12+55)
+Fort +12, Ref +10, Will +8
+Immune paralysis, sleep; Resist acid 30
+OFFENSE
+Speed 30 ft., climb 20 ft., fly 60 ft. (average)
+Melee bite +18 (2d8+10/19-20 plus bleed), tail slap +12 (1d10+3 plus trip)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bleed (1d6), clinging corrosion, pounce, savage bite
+STATISTICS
+Str 25, Dex 17, Con 20, Int 8, Wis 12, Cha 11
+Base Atk +11; CMB +19; CMD 32
+Feats Bleeding Critical, Critical Focus, Flyby Attack, Improved Initiative, Power Attack, Weapon Focus (bite)
+Skills Climb +15, Fly +14, Intimidate +12, Perception +14, Sense Motive +11, Stealth +12, Survival +13
+Languages Draconic
+SQ speed surge
+SPECIAL ABILITIES
+Clinging Corrosion (Su) As a standard action, a rift drake can spit a ball of caustic gas that bursts into a cloud upon impact. This attack has a range of 60 feet and deals 5d10 points of acid damage to all creatures within the resulting 15-foot-radius spread. Additionally, any creature damaged by this attack is affected as though by the spell slow for 1d4 rounds. A successful DC 20 Reflex save halves the damage and negates the slowing effect. Once a rift drake uses its breath weapon, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+Savage Bite (Ex) A rift drake applies 1-1/2 times its Strength bonus to damage dealt with its bite attack, and it threatens a critical hit on a 19-20.
+Speed Surge (Ex) Three times per day as a swift action, a rift drake can draw on its draconic heritage for a boost of strength and speed that allows it to take an additional move action that round.

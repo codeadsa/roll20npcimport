@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/construct-elemental-tohc/elemental-construct-air-tohc
+Air Elemental Construct CR 13
+XP 25,600
+N Huge construct (air, elemental, extraplanar)
+Init +11; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 30, touch 19, flat-footed 19 (+11 Dex, +11 natural, –2 size)
+hp 205 (30d10+40)
+Fort +10; Ref +21; Will +10
+Defensive Abilities air mastery, insubstantial form; DR 10/adamantine; Immune construct traits, elemental traits, magic
+OFFENSE
+Speed fly 100 ft. (perfect)
+Melee 2 slams +36 (2d6+8)
+Space 15 ft.; Reach 15 ft.
+Special Attacks wind blast (30 ft. radius, Ref DC 25 half, 2d6+12 bludgeoning, useable every 1d4 rounds)
+STATISTICS
+Str 27, Dex 33, Con —, Int —, Wis 11, Cha 1
+Base Atk +30; CMB +40; CMD 61
+Skills Fly +15
+SPECIAL ABILITIES
+Air Mastery (Ex) Airborne creatures take a –2 penalty on attack and damage rolls against an air elemental construct.
+Immunity to Magic (Ex) An air elemental construct is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A control weather spell deals 1d6 points of damage per caster level to an air elemental construct. The construct can attempt a Fortitude save (DC 17 + caster’s relevant ability score modifier) for half damage.
+An iron body or ice storm spell slows (as the slow spell) an air elemental construct for 2d6 rounds. Note the iron body spell does not change the construct’s form, nor does an ice storm spell actually damage the construct.
+A control winds spell heals an air elemental construct of all of its lost hit points.
+Insubstantial Form (Ex) An air elemental construct cannot run, wear armor, or enter water or other liquids. It can pass through holes and small openings—even cracks. It can also occupy spaces occupied by its enemies. (This ability is similar to a gaseous form spell—note the air elemental construct is not subject to wind effects like the gaseous form spell.) Any piercing or slashing attack against an air elemental construct has a 20% miss chance. Bludgeoning attacks deal damage normally.
+Wind Blast (Ex) An air elemental construct can transform the air in radius around it into a forceful blast of wind and debris. The save DC is Constitution-based.

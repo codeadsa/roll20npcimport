@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/sprite-tohc
+Sprite CR 1
+XP 400
+N(G) Small fey
+Init +4; Senses low-light vision; Perception +7
+DEFENSE
+AC 16, touch 16, flat-footed 11 (+4 Dex, +1 dodge, +1 size)
+hp 4 (1d6+1)
+Fort +1, Ref +6, Will +5
+DR 5/cold iron
+OFFENSE
+Speed 30 ft., fly 50 ft. (good)
+Melee short sword +5 (1d4-1/19-20)
+Ranged shortbow +5 (1d4/x3 plus poison)
+Spell-like Abilities (CL 8th)
+At will—detect evil (range 150 ft.), detect good (range 150 ft.), invisibility (self only)
+TACTICS
+Sprites are shy and reclusive, avoiding contact with other races; only druids have regular contact with sprites, and indeed many druids get their training from sprites. However, sprites detest evil and attack it on sight with their weapons, preferring to strike from ambush while invisible. If possible, they render their victim unconscious using their envenomed arrows, then spirit the creature away to some remote location where it is placed without weapons or gear and left to fend for itself. Creatures that have demonstrated especially evil characteristics may be slain outright, however.
+Unlike their pixie cousins, sprites are not especially mischievous by nature, and prefer to be left alone.
+STATISTICS
+Str 8, Dex 18, Con 12, Int 12, Wis 16, Cha 16
+Base Atk +0; CMB -2 ; CMD 13
+Feats Dodge, Weapon FinesseB
+Skills Bluff +7, Craft (any one) +5, Fly +13, Knowledge (local or nature) +5, Perception +7, Perform (any one) +7, Sense Motive +7, Stealth +9
+Languages Common, Elven, Sylvan; speak with animals
+SQ immortal, poison use
+Gear short sword, shortbow, 20 poisoned arrows (sprite poison)
+SPECIAL ABILITIES
+Immortal (Ex) Sprites are one of the few races that are truly immortal, never aging. They cannot die from natural causes. They still need to eat, sleep, and breathe, and can be killed normally.
+Poison Use (Ex) A sprite is never at risk of poisoning itself when handling poison. They use sprite poison on their arrows.
+Sprite Poison Type injury; save DC 15; frequency 1/min. for 2 min.; effect unconscious 1 minute/2d4 hours; cure 1 save.
+Speak with Animals (Su) Sprites can communicate with animals as the spell of the same name. This innate supernatural ability is always active and cannot be negated or dispelled.

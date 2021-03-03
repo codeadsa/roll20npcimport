@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-stone
+Stone Golem CR 11
+XP 12,800
+N Large construct
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 26, touch 8, flat-footed 26 (–1 Dex, +18 natural, –1 size)
+hp 107 (14d10+30)
+Fort +4, Ref +3, Will +4
+DR 10/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +22 (2d10+9)
+Space 10 ft.; Reach 10 ft.
+Special Attacks slow
+STATISTICS
+Str 28, Dex 9, Con —, Int —, Wis 11, Cha 1
+Base Atk +14; CMB +24; CMD 33
+SPECIAL ABILITIES
+Immunity to Magic (Ex) A stone golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A transmute rock to mud spell slows a stone golem (as the slow spell) for 2d6 rounds, with no saving throw, while transmute mud to rock heals all of its lost hit points. A stone to flesh spell does not actually change the golem’s structure but negates its damage reduction and immunity to magic for 1 full round. Slow (Su) A stone golem can use a slow effect, as the spell, as a free action once every 2 rounds. The effect has a range of 10 feet in a burst centered on the golem and a duration of 7 rounds, requiring a DC 17 Will save to negate. The save DC is Constitution-based.

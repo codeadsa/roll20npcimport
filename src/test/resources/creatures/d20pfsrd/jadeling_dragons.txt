@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/jadeling
+Jadeling CR 6
+XP 2,400
+Any E Small dragon ( air)
+Init +1; Senses dragon senses; Perception +12 DEFENSE
+AC 16, touch 12, flat-footed 15 (+1 Dex, +4 natural, +1 size)
+hp 52 (7d12+7)
+Fort +6, Ref +6, Will +7
+Immune acid, paralysis, sleep OFFENSE
+Speed 40 ft., fly 100 ft. (average), swim 40 ft.
+Melee bite +8 (1d6) and 2 claws +8 (1d4)
+Space 5 ft.; Reach 5 ft.
+Special Attacks breath weapon (20-ft. cone, 2d6 acid damage, Reflex DC 16 for half, usable every 1d4 rounds)
+STATISTICS
+Str 11, Dex 12, Con 12, Int 13, Wis 14, Cha 15
+Base Atk +7; CMB +6; CMD 17 (21 vs. trip)
+Feats Ability Focus (breath weapon), Flyby Attack, Skill Focus (Use Magic Device)
+Skills Diplomacy +12, Fly +13, Knowledge (any two) +11, Perception +12, Sense Motive +12, Use Magic Device +15; Racial +8 on Swim checks to perform a special action or avoid a hazard.
+Languages Common, Draconic
+SPECIAL ABILITIES
+Water Breathing (Ex) A jadeling can breathe underwater indefinitely and can freely use its breath weapon and other abilities while submerged.

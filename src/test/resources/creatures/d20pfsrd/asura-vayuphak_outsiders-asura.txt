@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/asura/asura-vayuphak
+Vayuphak CR 5
+XP 1,600
+LE Medium outsider (asura, evil, extraplanar, lawful)
+Init +3; Senses darkvision 60 ft.; Perception +18; Aura elusive (30 ft.), mental static (30 ft., DC 18)
+DEFENSE
+AC 18, touch 14, flat-footed 14 (+3 Dex, +1 dodge, +4 natural)
+hp 52 (8d10+8); fast healing 5
+Fort +3, Ref +11, Will +9; +2 vs. enchantments
+Defensive Abilities enveloping winds; DR 5/cold iron or good; Immune curse effects, disease, poison; Resist acid 10, electricity 10; SR 16
+OFFENSE
+Speed 30 ft., fly 40 ft. (good)
+Melee mwk spear +12/+7 (1d8+4/×3), 2 wings +6 (1d4+1)
+Psychic Magic (CL 5th; concentration +9)
+7 PE—dispel magic (3 PE), id insinuation I (2 PE, DC 16), object reading (1 PE), scorching ray (2 PE)
+Spell-Like Abilities (CL 5th; concentration +9)
+At will—greater teleport (self plus 50 lbs. of objects only)
+1/day—summon (level 4, 1 vayuphak 35%)
+STATISTICS
+Str 16, Dex 16, Con 13, Int 15, Wis 16, Cha 19
+Base Atk +8; CMB +11; CMD 25
+Feats Dodge, Flyby Attack, Lightning Reflexes, Mobility
+Skills Acrobatics +13, Bluff +15, Diplomacy +10, Escape Artist +15, Fly +15, Intimidate +12, Knowledge (planes) +10, Perception +18, Perform (dance) +13, Spellcraft +9, Stealth +10; Racial Modifiers +6 Escape Artist, +4 Perception
+Languages Common, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Enveloping Winds (Su) As an immediate action, a vayuphak can surround itself with a whirling torrent of air to protect it from ranged attacks. All ranged attacks made with physical weapons have a 20% miss chance against the vayuphak, except for attacks from massive weapons such as a giant’s thrown rock or a ballista. This ability has no effect on ray attacks.

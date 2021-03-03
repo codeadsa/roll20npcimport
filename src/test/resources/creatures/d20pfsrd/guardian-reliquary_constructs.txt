@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/guardian-reliquary
+Reliquary Guardian CR 13
+XP 25,600
+LE Large construct
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +25
+DEFENSE
+AC 28, touch 10, flat-footed 27 (+1 Dex, + 18 natural, -1 size)
+hp 118 (16d10+30); fast healing 10
+Fort +7, Ref +6, Will +10
+DR 10/chaotic and good; Immune magic, construct traits
+OFFENSE
+Speed 30 ft.
+Melee +1 unholy greatsword +26/+21/+16/+11 (3d6+16/19- 20) or 2 slams +25 (3d8+10)
+Space 10 ft.; Reach 10 ft.
+Special Attacks magic weapon, pronouncement
+Spell-like Abilities (CL 16th):
+1/day—align weapon (evil only), dispel good (DC 18), magic circle against good, protection from good, unholy blight (DC 17)
+TACTICS
+A reliquary guardian begins combat by making a pronouncement against its foes. Those that survive or manage to escape it relatively unharmed are assaulted by a barrage of spell-like abilities and repeated blows by the reliquary guardian’s mighty greatsword.
+STATISTICS
+Str 31, Dex 12, Con –, Int 10, Wis 17, Cha 16
+Base Atk +16; CMB +27; CMD 38
+Feats Cleave, Combat Casting, Critical Focus, Great Fortitude, Iron Will, Power Attack, Skill Focus (Perception), Vital Strike
+Skills Knowledge (religion) +16, Perception +25
+Languages Common, Infernal
+SQ alignment subtype
+Gear +1 unholy greatsword
+SPECIAL ABILITIES
+Alignment Subtype (Ex) Because a reliquary is infused with a spark from their creator’s deity, the creature gains the appropriate subtype(s) based on its alignment. Thus, a lawful good reliquary guardian has both the Good and Lawful subtypes. In addition, a reliquary guardian’s weapons and natural attacks can overcome this type of damage reduction as if its weapons and natural attacks had an alignment (or alignments) that match the reliquary guardian’s subtype(s). Further, its damage reduction is based on its alignment subtype(s). Thus a chaotic evil reliquary guardian has damage reduction 10/lawful and good while a lawful good reliquary guardian has damage reduction 10/chaotic and evil.
+Immunity to Magic (Ex) A reliquary guardian is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against a reliquary guardian, as noted below.
+A dispel (chaos/evil/good/law) spell targeted against an appropriately aligned reliquary guardian deals 4d6 points of damage to it.
+A blasphemy spell heals an evil-aligned reliquary guardian of all its lost hit points. Likewise, a dictum spell heals a law-aligned reliquary guardian; a holy word spell heals a good-aligned reliquary guardian; and a word of chaos spell heals a chaos-aligned reliquary guardian.
+Magic Weapon (Ex) A reliquary guardian carries a +1 greatsword with an alignment special quality that matches its alignment on the good-evil axis or the law-chaos axis. Thus, a chaotic evil reliquary guardian might carry a +1 anarchic greatsword or a +1 unholy greatsword while a lawful good reliquary guardian would carry either a +1 axiomatic greatsword or a +1 holy greatsword.
+Pronouncement (Su) Once per day, a reliquary guardian can make a pronouncement that affects all creatures within 60 feet that hear it. This pronouncement otherwise functions as a blasphemy, dictum, holy word, or word of chaos spell. Note: a reliquary guardian only has one type of pronouncement. It is set during the construction process based on the creator’s alignment and the reliquary guardian’s alignment and cannot be changed.
+The Will save, where applicable, has a DC of 21. The save DC is Wisdom-based.
+Blasphemy: CE, LE, or NE reliquary guardians. Dictum: LG, LE, or LN reliquary guardians. Holy Word: CG, LG, or NG reliquary guardians. Word of Chaos: CE, CG, or CN reliquary guardians. Spell-Like Abilities (Sp) A reliquary guardian has a total of five spell-like abilities (one each of spell levels 1st thru 5th), each usable once per day. Its spell-like abilities are based on its alignment and are drawn from one of the following cleric domains: Chaos, Evil, Good, or Law. A reliquary guardian whose alignment is CE, CG, LG, or LE must be assigned a single domain (one that matches one of its alignment axes) during construction. This domain can never be changed.
+Regardless of the reliquary guardian’s alignment, its spelllike abilities function at caster level 16th. The save DCs are Wisdom-based.

@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/herald-of-the-demon-queen
+Herald of the Demon Queen CR 15
+XP 51,200
+CE Large outsider (chaotic, evil, extraplanar, herald)
+Init +9; Senses darkvision 60 ft., scent; Perception +33
+DEFENSE
+AC 32, touch 14, flat-footed 27 (+5 Dex, +18 natural, –1 size)
+hp 207 (18d10+108)
+Fort +17, Ref +11, Will +17
+Defensive Abilities soul scream, DR 15/good; Immune fire; SR 26
+OFFENSE
+Speed 50 ft., fly 100 ft. (good)
+Melee bite +25 (6d6+8/19–20), bite +25 (3d6+8/19–20 plus poison)
+Ranged poison gout +22 touch (6d10 acid plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bay, breath weapon (30-ft. cone, 12d10 fire and see below, Reflex DC 25 half, usable every 1d4 rounds), poison
+Spell-Like Abilities (CL 15th; concentration +21)
+At will—blindness/deafness (DC 18), locate creature, rage (DC 19), veil (DC 22)
+3/day—baleful polymorph (DC 21), feeblemind (DC 21), greater dispel magic, plane shift (self and willing targets only), summon (level 4, 1d3 yeth hounds 100%)
+1/day—control weather, unhallow
+TACTICS
+Before Combat An intelligent, vicious hunter, heralds of the demon queen track their prey relentlessly. They begin combat by baying in an attempt to panic and divide its targets.
+During Combat Heralds of the demon queen try to catch a large group in its madding vision, and then rely on its poison gout to disable remaining victims, so it may dispatch them in a savage, horrific manner.
+Morale As an apex abyssal predator, a herald of the demon queen has little to fear, and will fight to the death.
+STATISTICS
+Str 26, Dex 20, Con 22, Int 17, Wis 23, Cha 22
+Base Atk +18; CMB +27 (+29 bull rush or drag); CMD 42 (44 vs. bull rush or drag, 46 vs. trip)
+Feats Cleave, Flyby Attack, Hover, Improved Bull Rush, Improved Critical (bite), Improved Drag, Improved Initiative, Power Attack, Skill Focus (Perception)
+Skills Acrobatics +26, Bluff +27, Climb +17, Fly +7, Intimidate +27, Knowledge (planes) +24, Knowledge (religion) +15, Perception +33, Sense Motive +27, Stealth +22, Survival +27
+Languages Abyssal, Common, Infernal
+SPECIAL ABILITIES
+Bay (Su) When heralds of the demon queen howl or bark, each creature within a 300-foot-radius spread must succeed at a DC 25 Will save or be panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. Evil outsiders are immune to this ability.
+Whether or not it succeeds at its save, a creature in the area is immune to the bay for 24 hours. The save DC is Charisma-based.
+Breath Weapon (Su) The heralds of the demon queen’s breath weapon is a jet of smoke. Any nonchaotic creature that takes damage from this breath weapon must succeed at a DC 25 Will save or be confused for 1d6 rounds. The save DC is Constitution-based.
+Soul Scream (Su) Anytime a herald of the demon queen takes piercing or slashing damage, its wounds create a terrifying cacophony equivalent to its bay ability. Creatures within 10 feet of it take a –4 penalty on their saves against this effect.
+Poison (Ex) Contact or bite—injury; save Fort DC 25; frequency 1/round for 4 rounds; effect 1d6 Str; cure 2 consecutive saves.

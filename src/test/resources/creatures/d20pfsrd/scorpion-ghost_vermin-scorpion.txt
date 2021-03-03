@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/scorpion/scorpion-ghost
+Ghost Scorpion CR 1/2
+XP 200
+N Small vermin
+Init +0; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +4
+DEFENSE
+AC 12, touch 11, flat-footed 12 (+1 natural, +1 size)
+hp 13 (2d8+4)
+Fort +5, Ref +0, Will +0
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +2 (1d3), sting +2 (1d3 plus poison)
+Special Attacks pounce
+STATISTICS
+Str 10, Dex 11, Con 14, Int —, Wis 10, Cha 2
+Base Atk +1; CMB +0; CMD 10 (22 vs. trip)
+Skills Perception +4, Stealth +8; Racial Modifiers +4 Perception, +4 Stealth
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1 Str damage; cure 1 save.
+Source dundjinni.com forums

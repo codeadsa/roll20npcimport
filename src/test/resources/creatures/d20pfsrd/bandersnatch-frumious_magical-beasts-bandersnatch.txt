@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bandersnatch/bandersnatch-frumious
+Frumious Bandersnatch CR 19
+XP 204,800
+N Gargantuan magical beast
+Init +11; Senses blindsense 120 ft., darkvision 120 ft., low-light vision, scent; Perception +26
+DEFENSE
+AC 33, touch 13, flat-footed 26 (+7 Dex, +20 natural, -4 size)
+hp 310 (23d10+184); fast healing 10
+Fort +21, Ref +20, Will +11
+Defensive Abilities quick recovery, quill defense; Immune fear, paralysis, poison, sleep; Resist fire 30
+OFFENSE
+Speed 60 ft., climb 20 ft.
+Melee bite +32 (2d8+13 plus grab), 2 claws +32 (2d6+13/19-20), tail slap +27 (2d8+19/x3 plus pain)
+Ranged 4 quills +26 (1d10+13/19-20)
+Space 20 ft.; Reach 15 ft. (20 ft. with tail slap)
+Special Attacks bounding charge, brutal tail, gaze, lash out, pounce, rake (4 claws, +32, 2d6+13/19-20), rend (2 claws, 2d6+19)
+STATISTICS
+Str 36, Dex 25, Con 27, Int 2, Wis 15, Cha 18
+Base Atk +23; CMB +40 (+44 grapple); CMD 57 (65 vs. trip)
+Feats Bleeding Critical, Combat Reflexes, Critical Focus, Critical Mastery, Exhausting Critical, Improved Critical (claws), Improved Critical (quills), Improved Initiative, Improved Iron Will, Iron Will, Skill Focus (Stealth), Tiring Critical
+Skills Acrobatics +19 (+31 when jumping), Climb +21, Perception +26, Stealth +18 (+26 forests), Survival +3 (+23 tracking); Racial Modifiers +8 Acrobatics, +10 Perception, +4 Stealth (+12 forests), +20 Survival when tracking
+SQ fury, planar acclimation, relentless tracker
+SPECIAL ABILITIES
+Bounding Charge (Ex) A frumious bandersnatch can move through difficult terrain when it charges.
+Brutal Tail (Ex) The quills and barbs on a frumious bandersnatch’s tail cause triple damage on a critical hit from its tail slap. A bandersnatch adds 1-1/2 times its strength bonus on attack rolls when using its tail slap.
+Fury (Su) A frumious bandersnatch seethes with barely repressed rage and anger. If it misses with its bite attack or falls below half of its hit points, it succumbs to such uncontrollable fury that it bursts into flame. While engulfed in these flames, a frumious bandersnatch is affected as by a haste spell (this effect cannot be dispelled) and causes an additional 2d6 points of fire damage with each of its melee attacks and its quill defense ability. The fury lasts for 5 rounds, after which the bandersnatch cannot enter a fury again for another 5 rounds.
+Gaze (Su) Confused, range 30 feet, Fortitude DC 29 negates. A frumious bandersnatch can direct its gaze attack against a single foe as a swift action. This is a mind-affecting compulsion effect. The save DC is Constitution-based.
+Lash Out (Ex) As a swift action, a frumious bandersnatch can make a single attack with a bite, claw, or tail slap. A frumious bandersnatch cannot lash out on the same round it charges.
+Pain (Ex) Whenever a creature takes damage from a frumious bandersnatch’s tail slap attack, quills, or quill defense, that creature must make a DC 28 Reflex save or a quill lodges in its flesh, causing the creature to become sickened until the quill is removed. Removing one quill requires a DC 20 Heal check made as a full-round action. For every 5 by which the check exceeds the DC, one additional quill can be removed. On a failed check, a quill is still removed, but the process deals 1d10+6 points of damage to the victim. The save DC is Dexterity-based.
+Planar Acclimation (Ex) A frumious bandersnatch is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the extraplanar subtype.
+Quill Defense (Ex) Any creature that strikes a frumious bandersnatch with a non-reach melee weapon, unarmed strike, or natural weapon takes 1d10* points of piercing damage from the frumious bandersnatch’s quills and suffers from the bandersnatch’s pain attack, plus 2d6 fire damage is the frumious bandersnatch is raging.
+Quick Recovery (Su) A debilitated frumious bandersnatch recovers with frightening speed. If a frumious bandersnatch starts its turn affected by any or all of the following conditions, these conditions end at the end of its turn: confused, dazed, dazzled, exhausted, fatigued, nauseated, sickened, and stunned. Furthermore, a frumious bandersnatch affected by ability damage, ability drain, or a mind-affecting effect that allows a save receives a single additional save against the effect of its choice at the original DC at the end of its turn in order to shake off the effect.
+Quills (Ex) With a snap of its tail, a frumious bandersnatch can loose a volley of four quills as a standard action (make an attack roll for each spike). This attack has a range of 300 feet with no range increment. All targets must be within 30 feet of each other. Launched quills regrow in a single round, during which the frumious bandersnatch’s defensive abilities are unaffected.
+Relentless Tracker (Ex) A frumious bandersnatch can move at up to double its speed and still track without penalty. It gains a +10 competence bonus on Survival checks made to track creatures it has wounded.

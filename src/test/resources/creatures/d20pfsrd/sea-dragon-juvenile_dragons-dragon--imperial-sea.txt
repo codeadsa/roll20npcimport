@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sea/sea-dragon-juvenile
+Juvenile Sea Dragon CR 9
+XP 6,400
+CG Large dragon (water)
+Init +5; Senses dragon senses; Perception +22
+Aura frightful presence (120 ft., DC 19)
+DEFENSE
+AC 24, touch 10, flat-footed 23 (+1 Dex, +14 natural, -1 size)
+hp 115 (11d12+44)
+Fort +13, Ref +8, Will +11
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor), swim 70 ft.
+Melee bite +16 (2d6+9), 2 claws +16 (1d8+6), gore +16 (1d8+9), tail slap +14 (1d8+9)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite and gore)
+Special Attacks breath weapon (40-ft. cone, 8d6 fire damage, DC 19), torrent breath
+Spell-Like Abilities (CL 11th; concentration +15)
+At will—create water, hydraulic push
+Spells Known (CL 3rd; concentration +7)
+1st (6/day)—chill touch (DC 15), color spray (DC 15), sleep (DC 15)
+0 (at will)—acid splash, detect magic, mage hand, ray of frost, resistance
+STATISTICS
+Str 23, Dex 12, Con 19, Int 18, Wis 19, Cha 18
+Base Atk +11; CMB +18; CMD 29 (33 vs. trip)
+Feats Alertness, Great Fortitude, Improved Initiative, Lunge, Multiattack
+Skills Diplomacy +18, Fly +9, Intimidate +18, Knowledge (arcana, nature) +18, Perception +22, Sense Motive +22, Stealth +11, Survival +18, Swim +28
+Languages Aquan, Common, Draconic
+SQ change shape, unfettered swimmer, water breathing
+SPECIAL ABILITIES
+Change Shape (Su) A young or older sea dragon can assume any humanoid form three times per day as if using polymorph.
+Torrent Breath (Su) Instead of a cone of super-heated steam, a very young or older sea dragon can breathe a line of pressurized water twice the length of the sea dragon’s cone breath weapon. This line deals bludgeoning damage.
+Unfettered Swimmer (Su) A juvenile sea dragon gains a 10-foot bonus to its swim speed. The sea dragon’s swim speed continues to increase by an additional 10 feet every two age categories. Furthermore, while swimming, the sea dragon is treated as if under the effects of the spell freedom of movement.

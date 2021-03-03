@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/crag-man
+Crag Man CR 5
+XP 1,600
+CE Medium aberration (earth)
+Init +1; Senses darkvision 60 ft., tremorsense 100 ft.; Perception +13
+DEFENSE
+AC 19, touch 11, flat-footed 18 (+8 deflection, +1 Dex)
+hp 45 (6d8+18)
+Fort +5; Ref +3; Will +6
+Defensive Abilities stalagmite form; DR 5/—
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +8 (1d6+3)
+Special Attacks pierce
+Spell-like Abilities (CL 3rd)
+1/day—passwall, summon (level 3, 2d10 piercers 50%)
+STATISTICS
+Str 17, Dex 13, Con 17, Int 6, Wis 12, Cha 6
+Base Atk +4; CMB +7; CMD 18
+Feats Power Attack, Skill Focus (Perception), Weapon Focus (slam)
+Skills Perception +13, Stealth +10 (+18 in stony area); Racial Modifiers +8 Stealth when hiding in a stony environment
+Languages Crag Man
+SPECIAL ABILITIES
+Pierce (Ex) As a free action, a crag man can transform its hands into stony points. When striking with its hands in this manner, it deals piercing damage instead of bludgeoning with its slam attack.
+Stalagmite Form (Ex) Once per round as a swift action a crag man can transform itself to or from the form of a stalagmite of equivalent size. This stalagmite is the crag man’s natural form; while in this form it does not radiate magic and true seeing does not reveal its humanoid form.

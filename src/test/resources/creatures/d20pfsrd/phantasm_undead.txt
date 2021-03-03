@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/phantasm
+Phantasm CR 8
+XP 4,800
+CE Medium undead (incorporeal)
+Init +9; Senses darkvision 60 ft.; Perception +21; Aura desecrating aura (10 ft.), unnatural aura (30 ft.)
+DEFENSE
+AC 18, touch 18, flat-footed 13 (+3 deflection, +5 Dex)
+hp 114 (12d8+36 plus 24)
+Fort +11, Ref +11, Will +12
+Defensive Abilities incorporeal; Immune undead traits
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee incorporeal touch +17 (1d6+2 plus energy drain)
+Special Attacks energy drain (1 level, DC 19), possession
+STATISTICS
+Str –, Dex 21, Con –, Int 15, Wis 15, Cha 16
+Base Atk +9; CMB +9; CMD 24
+Feats Ability Focus (possession), Alertness, Blind-Fight, Great Fortitude, Improved Initiative, Weapon Focus (incorporeal touch)
+Skills Bluff +15, Fly +28, Intimidate +18, Perception +21, Sense Motive +21, Stealth +20
+Languages Abyssal, Common
+SPECIAL ABILITIES
+Possession (Su) Once per round, by making a successful incorporeal touch attack, a phantasm can merge its body with a creature on the Material Plane. This ability is similar to a magic jar spell, except that it doesn’t require a receptacle. If the attack succeeds, the phantasm’s body vanishes into the opponent’s body. The target can resist the attack with a successful Will save (DC 21). A creature that successfully saves is immune to that phantasm’s possession ability for one day.
+A possessing phantasm automatically deals one negative level (from its energy drain ability) each round. A possessed creature can attempt a Will save (DC 19) each round to force the phantasm out of its body. If successful, the phantasm is ejected from the host and cannot attempt to possess the same host for 1 minute. If turned or subjected to a dismissal spell while possessing a host, the phantasm is likewise ejected. The save DCs are Charisma-based.

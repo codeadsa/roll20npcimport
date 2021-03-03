@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/cetacean/dolphin/orca
+Orca CR 5
+XP 1,600
+N Huge animal
+Init +6; Senses blindsight 120 ft., low-light vision; Perception +19
+DEFENSE
+AC 16, touch 10, flat-footed 14 (+2 Dex, +6 natural, –2 size)
+hp 67 (9d8+27)
+Fort +9, Ref +8, Will +5
+OFFENSE
+Speed swim 80 ft.
+Melee bite +13 (2d6+12)
+Space 15 ft.; Reach 10 ft.
+STATISTICS
+Str 27, Dex 15, Con 16, Int 2, Wis 15, Cha 6
+Base Atk +6; CMB +16; CMD 28
+Feats Endurance, Improved Initiative, Skill Focus (Perception, Swim), Weapon Focus (bite)
+Skills Perception +19, Swim +28; Racial Modifiers +8 Perception
+SQ hold breath
+SPECIAL ABILITIES
+Hold Breath (Ex) An orca can hold its breath for a number of minutes equal to 6 times its Constitution score before it risks drowning.

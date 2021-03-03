@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/ant-lion-giant/ant-lion-giant-adult
+Giant Adult Ant Lion CR 6
+XP 2,400
+N Huge vermin
+Init +3; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 19, touch 11, flat-footed 16 (+8 armor*, +3 Dex, -2 size)
+hp 85 (10d8+40)
+Fort +11, Ref +6, Will +3
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee bite +12 (2d8+10)
+Space 15 ft.; Reach 10 ft.
+STATISTICS
+Str 24, Dex 16, Con 19, Int —, Wis 11, Cha 10
+Base Atk +7; CMB +16; CMD 29 (37 vs. trip)
+Skills Fly +7
+Editor’s Note
+It is doubtful that this creature wears armor, thus the armor bonus in the stat block is likely meant to be natural armor.

@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/couatl
+Couatl CR 10
+XP 9,600
+LG Large outsider (native)
+Init +7; Senses darkvision 60 ft., detect chaos/evil/good/law; Perception +23
+DEFENSE
+AC 22, touch 13, flat-footed 18 (+3 Dex, +1 dodge, +9 natural, –1 size)
+hp 126 (12d10+60)
+Fort +9, Ref +13, Will +14
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee bite +16 (1d8+7 plus grab and poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (1d8+7)
+Spell-Like Abilities (CL 9th)
+Constant—detect chaos, detect evil, detect good, detect law
+At will—detect thoughts (DC 15), ethereal jaunt (CL 16th), invisibility, plane shift (DC 20)
+Spells Known (CL 9th)
+4th (4/day)—charm monster (DC 17), freedom of movement
+3rd (7/day)—gaseous form, magic circle against evil, summon monster III
+2nd (7/day)—cure moderate wounds, eagle’s splendor, scorching ray, silence (DC 15)
+1st (7/day)—endure elements, mage armor, obscuring mist, protection from chaos, true strike
+0 (at will)—daze, disrupt undead, light, ray of frost, read magic, resistance, stabilize
+STATISTICS
+Str 20, Dex 16, Con 20, Int 17, Wis 19, Cha 17
+Base Atk +12; CMB +18 (+22 grapple); CMD 32 (can’t be tripped)
+Feats Alertness, Dodge, Empower Spell, Eschew MaterialsB, Improved Initiative, Iron Will, Lightning Reflexes
+Skills Acrobatics +18, Bluff +9, Diplomacy +18, Fly +20, Knowledge (arcana) +9, Knowledge (religion) +12, Perception +23, Sense Motive +15, Spellcraft +15, Survival +16, Use Magic Device +18
+Languages Celestial, Common, Draconic; telepathy 100 ft.
+SPECIAL ABILITIES
+Spells A couatl casts spells as a 9th-level sorcerer, and can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a couatl, meaning that the creature does not need a divine focus to cast them.
+Poison (Ex) Injury—bite; save Fortitude DC 16; frequency 1/minute for 10 minutes; effect 1d4 Str; cure 2 consecutive saves. The DC is Constitution-based.

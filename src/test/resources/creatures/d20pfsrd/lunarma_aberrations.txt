@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/lunarma
+Lunarma CR 6
+XP 2,400
+N Medium aberration
+Init +5; Senses all-around vision, darkvision 60 ft.; Perception +10
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+1 Dex, +6 natural)
+hp 76 (9d8+36)
+Fort +9, Ref +4, Will +9
+Defensive Abilities barbed carapace; Immune cold, poison; Resist electricity 5, fire 5
+OFFENSE
+Speed 0 ft., fly 60 ft. (good)
+Melee 3 claws +9 (1d8+3 plus grab), bite +10 (1d6+3)
+Space 5 ft.; Reach 5 ft. (10 ft. with claws)
+Special Attacks breath weapon (30-ft. line, 2d6 acid damage plus recurring damage, Reflex DC 18 half, usable every 1d4 rounds), constrict (1d8+3), implant eggs
+STATISTICS
+Str 16, Dex 12, Con 19, Int 5, Wis 12, Cha 10
+Base Atk +6; CMB +9 (+13 grapple); CMD 20
+Feats Great Fortitude, Hover, Improved Initiative, Iron Will, Weapon Focus (bite)
+Skills Fly +5, Perception +10, Stealth +7
+Languages Common (can’t speak); telepathy 120 ft. (other lunarma only)
+SQ no breath
+SPECIAL ABILITIES
+Barbed Carapace (Ex) A lunarma’s carapace is covered in jagged barbs. Any creature that grapples a lunarma or attacks it with unarmed strikes or natural weapons takes 1d4 points of damage from the vicious barbs. Using a reach weapon does not endanger the attacker this way.
+Breath Weapon (Su) The acid from a lunarma’s breath weapon lasts for 1d4 additional rounds, dealing 2d6 points of acid damage on its turn to any creature that took damage from the breath weapon. Washing off the acid with water or other liquid is a full-round action that ends the continuing damage.
+Implant Eggs (Ex) As a full-round action, a lunarma can lay 2d6 eggs in a helpless creature. The eggs hatch after 24 hours and each deals 1 point of Con damage per hour as they feed on the host. After 1d2 days of eating, the larvae crawl out and find a safe place to mature into adults. A remove disease spell rids a creature of all implanted eggs or larvae, or they can be removed one at a time by using the Heal skill to treat deadly wounds.

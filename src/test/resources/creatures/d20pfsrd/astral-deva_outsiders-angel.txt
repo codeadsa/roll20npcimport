@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/astral-deva
+Astral Deva CR 14
+XP 38,400
+NG Medium outsider (angel, extraplanar, good)
+Init +8; Senses darkvision 60 ft., low-light vision; Perception +26
+Aura protective aura
+DEFENSE
+AC 29, touch 14, flat-footed 25 (+4 Dex, +15 natural; +4 deflection vs. evil)
+hp 172 (15d10+90)
+Fort +16, Ref +13, Will +11; +4 vs. poison, +4 resistance vs. evil
+Defensive Abilities uncanny dodge; DR 10/evil; Immune acid, cold, petrification; Resist electricity 10, fire 10; SR 25
+OFFENSE
+Speed 50 ft., fly 100 ft. (good)
+Melee +2 disrupting warhammer +26/+21/+16 (1d8+14/×3 plus stun) or slam +23 (1d8+12)
+Spell-Like Abilities (CL 13th)
+At Will—aid, continual flame, detect evil, discern lies (DC 20), dispel evil (DC 21), dispel magic, holy aura (DC 24), holy smite (DC 20), holy word (DC 23), invisibility (self only), plane shift (DC 23), remove curse, remove disease, remove fear
+7/day—cure light wounds, see invisibility
+1/day—blade barrier (DC 22), heal
+STATISTICS
+Str 26, Dex 19, Con 21, Int 18, Wis 18, Cha 23
+Base Atk +15; CMB +23; CMD 37
+Feats Alertness, Cleave, Great Fortitude, Improved Initiative, Iron Will, Power Attack, Toughness, Weapon Focus (warhammer)
+Skills Acrobatics +22, Craft (any one) +22, Diplomacy +24, Fly +26, Intimidate +24, Knowledge (planes) +22, Knowledge (religion) +19, Perception +26, Sense Motive +26, Stealth +22
+Languages Celestial, Draconic, Infernal; truespeech
+SQ change shape (alter self)
+SPECIAL ABILITIES
+Stun (Su) If an astral deva strikes an opponent twice in one round with its warhammer, that creature must succeed on a DC 25 Fortitude save or be stunned for 1d6 rounds. The save DC is Strength-based.

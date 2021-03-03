@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/taniniver
+Taniniver CR 18
+XP 153,600
+NE Huge dragon
+Init +4; Senses darkvision 120 ft., deathwatch; Perception +26; Aura frightful presence (180 ft., DC 25)
+DEFENSE
+AC 33, touch 8, flat-footed 33 (+25 natural, –2 size)
+hp 270 (20d12+140)
+Fort +21, Ref +12, Will +15
+Defensive Abilities negative energy affinity; DR 15/good and magic; Immune paralysis, sleep, visual effects; Resist acid 30, cold 30, electricity 30, fire 30; SR 29
+OFFENSE
+Speed 30 ft., fly 200 ft. (clumsy)
+Melee bite +30 (4d6+11 plus disease), 2 claws +30 (2d8+11 plus disease), tail slap +24 (2d8+5 plus disease)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (60-ft. cone, 1d6 Str drain plus mummy rot, Fortitude DC 27 negates, usable every 1d4 rounds)
+Spell-Like Abilities (CL 20th; concentration +25) Constant—deathwatch
+3/day—animate dead, inflict serious wounds (DC 18)
+1/day—eyebite (DC 21), horrid wilting (DC 23), symbol of pain (DC 20)
+STATISTICS
+Str 33, Dex 11, Con 25, Int 18, Wis 17, Cha 20
+Base Atk +20; CMB +33; CMD 43 (can’t be tripped)
+Feats Cleave, Combat Reflexes, Critical Focus, Great Fortitude, Improved Initiative, Power Attack, Sickening Critical, Vital Strike, Weapon Focus (bite), Weapon Focus (claw)
+Skills Bluff +28, Fly –12, Heal +26, Intimidate +28, Knowledge (arcana) +27, Knowledge (religion) +27, Perception +26, Sense Motive +26, Spellcraft +27, Stealth +15, Use Magic Device +28
+Languages Common, Draconic, Undercommon
+SPECIAL ABILITIES
+Breath Weapon (Ex) A taniniver’s breath weapon is a hideous gray cloud of disease particles. Any creature in the area must succeed at a DC 27 Fortitude save or contract mummy rot. The disease is contracted immediately (the onset period does not apply) and is an instantaneous effect. Ongoing saving throws against the disease use the dragon’s breath weapon DC. The save DC is Constitution-based.
+Disease (Ex) A taniniver’s natural attacks infect its opponent with a random disease from the following list: blinding sickness, bubonic plague, cackle fever, leprosy, mindfire, or shakes. The initial saving throw against these diseases uses the breath weapon’s DC.

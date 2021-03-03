@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-shoggti
+Shoggti CR 7
+XP 3,200
+CE Large outsider (chaotic, evil, extraplanar, qlippoth)
+Init +7; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 21, touch 12, flat-footed 18 (+3 Dex, +9 natural, –1 size)
+hp 80 (7d10+42)
+Fort +11, Ref +5, Will +9
+Defensive Abilities uncanny dodge; DR 10/cold iron or lawful; Immune cold, poison, mind-affecting effects; Resist acid 10, electricity 10, fire 10
+OFFENSE
+Speed 30 ft.
+Melee bite +12 (1d8+6), 4 tentacles +8 (1d4+3 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks braincloud, horrific appearance (DC 15), constrict (1d4+6)
+Spell-Like Abilities (CL 7th; concentration +9)
+Constant— tongues
+At will— command (DC 13)
+3/day— charm person (DC 13), protection from law
+1/day— charm monster (DC 16), dimension door STATISTICS
+Str 22, Dex 16, Con 23, Int 12, Wis 19, Cha 15
+Base Atk +7; CMB +14 (+18 grapple); CMD 27 (31 vs. trip)
+Feats Combat Reflexes, Improved Initiative, Skill Focus (Use Magic Device), Weapon Focus (tentacles)
+Skills Escape Artist +13, Intimidate +16, Knowledge (planes) +11, Perception +18, Sense Motive +14, Stealth +9, Use Magic Device +19; Racial Modifiers +4 Intimidate, +4 Perception, +4 Use Magic Device
+Languages Abyssal; telepathy 100 ft.
+SPECIAL ABILITIES
+Braincloud (Su) Once per round, in place of a melee attack with a tentacle, a shoggti can make a melee touch attack with the pincer on the end of that tentacle. If it hits, the target takes 1d4 points of Wisdom damage. Shoggti use this ability to mentally debilitate their victims so they can more easily use their charm spell-like abilities against them.
+Horrific Appearance (Su) Creatures that succumb to a shoggti’s horrific appearance become fascinated by the creature’s hypnotically wriggling tentacles and the strange, shimmering colors in its eyes. This effect persists for 1d6 rounds (but can be ended by the normal methods of defeating the fascinated condition).

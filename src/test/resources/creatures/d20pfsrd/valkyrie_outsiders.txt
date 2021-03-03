@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/valkyrie
+Valkyrie CR 12
+XP 19,200
+CN Medium outsider (extraplanar)
+Init +3; Senses darkvision 60 ft., deathwatch; Perception +24
+DEFENSE
+AC 27, touch 19, flat-footed 24 (+8 armor, +6 deflection, +3 Dex)
+hp 168 (16d10+80)
+Fort +10, Ref +13, Will +15
+DR 10/cold iron and lawful; Immune cold, electricity, poison; Resist acid 10, fire 10; SR 23
+OFFENSE
+Speed 30 ft., fly 100 ft. (perfect)
+Melee +2 returning spear +23/+18/+13/+8 (1d8+8/x3)
+Ranged +2 returning spear +22 (1d8+6/x3)
+Spell-Like Abilities (CL 12th; concentration +18)
+Constant—deathwatch, tongues
+At will—aid, death ward, gentle repose, plane shift (self and mount only)
+3/day—call lightning storm (DC 21), divine power, geas/quest
+1/day—breath of life, heal, summon (level 8, 1 sleipnir 100%)
+STATISTICS
+Str 18, Dex 17, Con 20, Int 13, Wis 20, Cha 23
+Base Atk +16; CMB +20; CMD 39
+Feats Mounted Combat, Power Attack, Ride-By Attack, Skill Focus (Ride), Spirited Charge, Trample, Vital Strike, Weapon Focus (spear)
+Skills Fly +27, Handle Animal +25, Heal +24, Knowledge (planes) +20, Perception +24, Ride +28, Sense Motive +24
+Languages Celestial, Common; tongues
+SQ battle trained, choose the slain, holy zeal
+SPECIAL ABILITIES
+Battle Trained (Ex) A valkyrie is proficient with all armor. Armor never impacts a valkyrie’s speed, nor does a valkyrie take armor check penalties on Ride checks.
+Choose the Slain (Su) A valkyrie can draw the soul from a newly dead body and store it in her spear for transport to the Outer Planes. This functions as soul bind, but the dead creature must be willing to have its soul taken. If the creature is unwilling, this ability has no effect.
+Holy Zeal (Su) A valkyrie adds her Charisma modifier as a deflection bonus to her Armor Class.

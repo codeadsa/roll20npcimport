@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/lacridaemon
+Lacridaemon CR 3
+XP 800
+NE Medium outsider (daemon, evil, extraplanar)
+Init +7; Senses darkvision 60 ft., detect good, detect magic; Perception +8; Aura weeping aura 100 ft.
+DEFENSE
+AC 15, touch 13, flat-footed 12 (+3 Dex, +2 natural)
+hp 30 (4d10+8)
+Fort +6, Ref +4, Will +5
+DR 5/good or silver; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 14
+OFFENSE
+Speed 40 ft.
+Melee bite +6 (1d4+2 plus 1d4 acid and poison), 2 claws +7 (1d4+2 plus 1d4 acid)
+Special Attacks poisonous tears
+Spell-Like Abilities (CL 4th; concentration +5)
+Constant—detect good, detect magic
+At will—pass without trace
+3/day—overwhelming grief (DC 14), teleport (self plus 50 lbs. of objects only)
+1/day—hold person (DC 14), invisibility, snare, summon (level 4, 1 lacridaemon, 50%)
+STATISTICS
+Str 14, Dex 17, Con 14, Int 11, Wis 13, Cha 12
+Base Atk +4; CMB +6; CMD 19
+Feats Improved Initiative, Weapon Focus (claws)
+Skills Acrobatics +10 (+14 jump), Bluff +8, Climb +9, Perception +8, Sense Motive +8, Stealth +10
+Languages Abyssal, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Poisonous Tears (Su) A lacridaemon’s tears are poisonous to other creatures. As a move action that provokes an attack of opportunity, a lacridaemon can coat both of its claws with its tears, giving its next attack the possibility of poisoning its victim. A lacridaemon must attack with its claws on the same round or the round immediately after it applies its tears in order to use this ability; after that time, the tears lose their potency. Once it has attacked a creature using its tear-coated claws, a lacridaemon must reapply the tears again in order to use this ability. A lacridaemon’s bite attack is always treated as having its poisonous tears applied to it.
+Lacridaemon poison: Injury; save Fortitude DC 14; frequency 1/round for 6 rounds; effect 1 Wis plus staggered for 1 round; cure 2 consecutive saves.
+Weeping Aura (Su) A lacridaemon emits an invisible aura that sounds like the whimpers of a crying child. The whimpers sound almost as if they’re coming from all directions at once, or perhaps from one’s own mind, disorienting those within the aura’s area. Any creature that enters this area takes a –5 penalty on Survival checks to avoid becoming lost. Creatures within the aura’s range need not be able to physically hear the whimpers in order to be affected by this ability (and those who try to identify its origin so they can get nearer take a –5 penalty on their Perception checks to do so). A lacridaemon can suppress or reactivate its aura as a free action, and the effects from multiple lacridaemon auras stack (up to a maximum penalty of –20). This aura is a sonic, mind-affecting effect.
+About this Daemon Type… With the voices of suffering children but horrific, ravaged faces, lacridaemons form from the souls of mortals who die of neglect or exposure. These blasphemous terrors carry the burden of grief and loneliness with them throughout their fiendish existence, allaying their misery only by eating the souls of lesser creatures—often clutching such spirits like lovers, parents, or beloved children for hours before devouring them. When not actively on the hunt, they wander in isolation, unconsciously mimicking their own mortal deaths. Most spellcasters who summon lacridaemons find them most useful when kept at a distance from other living minions, as the disturbing daemons tend to affect even the most emotionless and fearless souls.
+Personification of Death: Neglect or exposure.
+Preferred Sacrifice: A living creature bound and left to die, with no witness save for the lacridaemon itself.

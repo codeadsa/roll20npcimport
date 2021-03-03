@@ -1,0 +1,41 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-forest/forest-dragon-very-old
+Very old Forest Dragon CR 18
+XP 153,600
+CE Gargantuan dragon (earth)
+Init +3; Senses dragon senses, tremorsense 60 ft.; Perception +30; Aura frightful presence (270 ft., DC 25)
+DEFENSE
+AC 36, touch 5, flat-footed 36 (-1 Dex, +31 natural, -4 size)
+hp 333 (23d12+161)
+Fort +20, Ref +12, Will +19
+DR 10/adamantine; Immune paralysis, poison, sleep; SR 29
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 30 ft., fly 250 ft. (clumsy)
+Melee bite +32 (4d6+18/19-20), 2 claws +31 (2d8+12), gore +31 (2d8+18), tail slap +29 (2d8+18)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite and gore)
+Special Attacks breath weapon (60-ft. cone, 18d6 piercing damage, DC 28) crush (DC 28, 4d6+18), destructive crush, tail sweep (2d6+18, DC 28)
+Spell-Like Abilities (CL 23th; concentration +27)
+At will—entangle (DC 15), blight (DC 19), pass without trace, tree stride
+Spells Known (CL 13th; concentration +17)
+6th (4/day)—acid fog, disintegrate (DC 20)
+5th (6/day)—baleful polymorph (DC 19), cloudkill (DC 19), feeblemind (DC 19)
+4th (7/day)—bestow curse (DC 18), charm monster (DC 18), solid fog, stone shape
+3rd (7/day)—lightning bolt (DC 17), wind wall, slow (DC 17), stinking cloud (DC 17)
+2nd (7/day)—fog cloud, glitterdust, hideous laughter, invisibility, touch of idiocy
+1st (7/day)—hypnotism (DC 15), obscuring mist, magic missile, ray of enfeeblement (DC 15), shield
+0 (at-will)—dancing lights, daze (DC 14), detect magic, ghost sound, mage hand, mending, read magic, resistance, touch of fatigue
+STATISTICS
+Str 35, Dex 8, Con 24, Int 18, Wis 19, Cha 18
+Base Atk +23; CMB +39; CMD 48 (52 vs. trip)
+Feats Combat Casting, Deceitful, Improved Critical (bite), Improved Initiative, Improved Natural Armor, Iron Will, Multiattack, Power Attack, Skill Focus (Stealth), Stealthy, Toughness, Weapon Focus (bite)
+Skills Acrobatics +22 (+26 when jumping), Bluff +34, Climb +46, Disguise +6, Escape Artist +26, Fly -15, Intimidate +30, Knowledge (arcana) +19, Knowledge (nature) +18, Perception +30, Spellcraft +30, Stealth +19, Survival +30
+Languages Common, Draconic, Elven, Goblin, Sylvan, Terran
+SQ change shape, sound imitation, woodland stride
+SPECIAL ABILITIES
+Change Shape (Su) An adult or older forest dragon can assume any humanoid form three times per day as if using polymorph.
+Destructive Crush (Su) When an old or older forest dragon makes a crush attack, the impact kicks up debris in a 20-foot-radius burst for 1d6 rounds. The debris obscures the vision of creatures within the debris field and grants concealment to those creatures. The forest dragon can see normally within and through the debris field.
+Sound Imitation (Ex) A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener’s Sense Motive check.
+Woodland Stride (Ex) As the druid ability of the same name.
+Built by:
+Brett, d20pfsrd Beastmaster I “Chinese Earth Dragon”
+(c) 2012 Shoshanna Bauer http://shoshannabauer.com
+All Rights Reserved.

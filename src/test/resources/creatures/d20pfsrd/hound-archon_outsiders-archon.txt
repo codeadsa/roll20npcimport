@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/hound-archon
+Hound Archon CR 4
+XP 1,200
+LG Medium outsider (archon, extraplanar, good, lawful)
+Init +4; Senses darkvision 60 ft., detect evil, low-light vision, scent; Perception +10
+Aura aura of menace (DC 16), magic circle against evil
+DEFENSE
+AC 19, touch 10, flat-footed 19 (+9 natural; +2 deflection vs. evil)
+hp 39 (6d10+6)
+Fort +6, Ref +5, Will +5; +4 vs. poison, +2 resistance vs. evil
+DR 10/evil; Immune electricity, petrification; SR 15
+OFFENSE
+Speed 40 ft.
+Melee bite +8 (1d8+3), slam +8 (1d4+1) or mwk greatsword +9/+4 (2d6+3), bite +3 (1d8+2)
+Spell-Like Abilities (CL 6th)
+Constant—detect evil, magic circle against evil
+At Will—aid, continual flame, greater teleport (self plus 50 lbs. of objects only), message
+STATISTICS
+Str 15, Dex 10, Con 13, Int 10, Wis 13, Cha 12
+Base Atk +6; CMB +8; CMD 18
+Feats Improved Initiative, Iron Will, Power Attack
+Skills Acrobatics +9, Intimidate +10, Perception +10, Sense Motive +10, Stealth +13, Survival +14; Racial Modifiers +4 Stealth, +4 Survival
+Languages Celestial, Draconic, Infernal; truespeech
+SQ change shape (beast shape II)
+SPECIAL ABILITIES
+Change Shape (Su) A hound archon can assume any canine form of Small to Large size, as if using beast shape II. While in canine form, the hound archon loses its bite, slam, and greatsword attacks, but gains the bite attack of the form it chooses. For the purposes of this ability, canines include any dog-like or wolf-like creature of the animal type.

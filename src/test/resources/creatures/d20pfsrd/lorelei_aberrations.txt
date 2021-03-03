@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/lorelei
+Lorelei CR 12
+XP 19,200
+NE Large aberration (aquatic)
+Init +5; Senses darkvision 60 ft.; Perception +24
+DEFENSE
+AC 27, touch 10, flat-footed 26 (+1 Dex, +17 natural, –1 size)
+hp 162 (12d8+108)
+Fort +13, Ref +5, Will +13
+Immune sonic; Resist cold 10
+OFFENSE
+Speed 20 ft., climb 20 ft., swim 20 ft.
+Melee 4 tentacles +18 (1d8+9 plus poison)
+Space 10 ft.; Reach 15 ft.
+Special Attacks murmur, poison, vortex
+Spell-Like Abilities (CL 12th; concentration +17)
+At will—ghost sound (DC 15), speak with dead (DC 18), ventriloquism (DC 16), whispering wind
+3/day—command undead (DC 17), control water, fog cloud
+STATISTICS
+Str 28, Dex 13, Con 29, Int 11, Wis 16, Cha 20
+Base Atk +9; CMB +19; CMD 30 (can’t be tripped)
+Feats Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (tentacle)
+Skills Bluff +15, Climb +21, Perception +24, Sense Motive +15, Stealth +18 (+26 in rocky areas), Swim +21; Racial Modifiers +8 Stealth in rocky areas
+Languages Aquan, Common
+SQ freeze, water dependency
+SPECIAL ABILITIES
+Murmur (Su) A lorelei’s murmur has the power to infect the minds of those that hear it. This effect even influences undead creatures despite their usual immunity to mind-affecting effects. When a lorelei murmurs, all creatures aside from other lorelei within a 300-foot spread must succeed on a DC 20 Will saving throw or become captivated. A creature that successfully saves is not subject to the same lorelei’s song for 24 hours. A victim under the effects of the murmur moves toward the lorelei using the most direct means available. If the path leads them into a dangerous area such as through fire or off a cliff, that creature receives a second saving throw to end the effect before moving into peril. Affected creatures can take no actions other than to defend themselves. A victim within 5 feet of the lorelei simply stands and offers no resistance to its attacks. This effect continues for as long as the lorelei murmurs and for 1 round thereafter. This is a sonic mind-affecting charm effect. The save DC is Charisma-based.
+Poison (Ex) Tentacle—injury; save Fort DC 25; frequency 1/round for 4 rounds; effect 1d4 Str; cure 2 consecutive saves.
+Vortex (Su) A lorelei can create a whirlpool as a standard action, at will. This ability functions identically to the whirlwind special attack, but can form only underwater and cannot leave the water. A creature must succeed at a DC 25 Reflex save or be snared by the churning waters. The vortex is 20 feet across and 80 feet deep, and deals 2d8+9 points of damage. The save DC is Constitution-based.

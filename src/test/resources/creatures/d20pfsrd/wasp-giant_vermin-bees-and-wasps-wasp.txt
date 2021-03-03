@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/bees-and-wasps/wasp/wasp-giant
+Giant Wasp CR 3
+XP 800
+N Large vermin
+Init +1; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 14, touch 10, flat-footed 13; (+1 Dex, +4 natural, –1 size)
+hp 34 (4d8+16)
+Fort +8, Ref +2, Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee sting +6 (1d8+6 plus poison)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 18, Dex 12, Con 18, Int —, Wis 13, Cha 11
+Base Atk +3; CMB +8; CMD 19
+Skills Fly +3, Perception +9; Racial Modifiers +8 Perception
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d2 Dexterity damage; cure 1 save. The save DC is Constitution-based, and includes a +2 racial bonus.

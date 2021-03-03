@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-shrroth-squid-demon-tohc
+Shrroth CR 12
+XP 19,200
+CE Huge outsider (aquatic, chaotic, demon, evil, extraplanar)
+Init +4; Senses darkvision 60 ft.; Perception +26
+DEFENSE
+AC 23, touch 12, flat-footed 23 (+11 natural, –2 size, +4 profane)
+hp 162 (12d10+96)
+Fort +16, Ref +10, Will +7
+DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 23
+OFFENSE
+Speed 20 ft., swim 60 ft.
+Melee trident +19/+12/+9 (3d6+9) or 2 claws +19 (1d6+9), bite +19 (1d8+9), 6 tentacles +14 (2d6+4 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks constrict (tentacle, 2d6+4), sickening cloud
+Spell-Like Abilities (CL 12th)
+At will—chaos hammer (DC 18), dispel magic, mirror image, greater teleport (self plus 50 pounds of objects only), water breathing (others only) (DC 17)
+2/day—feeblemind (DC 19)
+1/day—power word blind, summon (level 9, 2d8 melethzu demons [aquatic dretches, swim speed 50 ft.] 50% or 1 shrroth 35%)
+STATISTICS
+Str 28, Dex 10, Con 27, Int 14, Wis 16, Cha 18
+Base Atk +12; CMB +23 (+27 grapple); CMD 37
+Feats Blind-Fight, Cleave, Deceitful, Improved Initiative, Lightning Reflexes, Power Attack
+Skills Bluff +23, Diplomacy +19, Disguise +6, Intimidate +19, Knowledge (planes) +17, Perception +26, Sense Motive +18, Stealth +7, Swim +32; Racial Modifiers +8 Perception
+Languages Abyssal, Common, plus one more; telepathy 100 ft.
+SQ amphibious, jet
+SPECIAL ABILITIES
+Sickening Cloud (Ex) A shrroth can emit a cloud of grayish liquid in a 40-foot spread once per minute as a free action. The cloud provides concealment and any creature in the area or entering the area must make a successful DC 24 Fortitude save or be sickened for 3 rounds. The save DC is Constitution-based.
+Jet (Ex) A shrroth can jet backward once per round as a full-round action at a speed of 240 feet. It must move in a straight line, and does not provoke attacks of opportunity while jetting.

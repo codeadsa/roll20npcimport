@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/meladaemon
+Meladaemon CR 11
+XP 12,800
+NE Large outsider (daemon, evil, extraplanar)
+Init +6; Senses darkvision 60 ft., detect good, detect magic; Perception +20
+Aura consumptive aura (20 ft.)
+DEFENSE
+AC 25, touch 15, flat-footed 19 (+6 Dex, +10 natural, –1 size)
+hp 147 (14d10+70)
+Fort +11, Ref +15, Will +14
+DR 10/good; Immune acid, critical hits, death effects, disease, poison, sneak attack; Resist cold 10, electricity 10, fire 10; SR 22
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee bite +20 (2d8+6/19–20 plus disease), 2 claws +19 (2d6+6 plus hunger)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 11th; concentration +15)
+Constant—detect good, detect magic, see invisibility
+At will—cause fear (DC 15), deeper darkness, greater teleport (self plus 50 lbs. of objects only)
+3/day—blight (DC 19), diminish plants, quickened magic missile
+1/day—horrid wilting (DC 22), waves of fatigue
+STATISTICS
+Str 22, Dex 22, Con 21, Int 21, Wis 17, Cha 18
+Base Atk +14; CMB +21; CMD 37
+Feats Blind-Fight, Combat Reflexes, Great Fortitude, Improved Critical (bite), Iron Will, Quicken Spell-Like Ability (magic missile), Weapon Focus (bite)
+Skills Bluff +21, Fly +17, Heal +11, Intimidate +21, Knowledge (planes) +22, Knowledge (religion) +22, Perception +20, Sense Motive +20, Spellcraft +22, Stealth +19, Survival +20, Use Magic Device +14
+Languages Abyssal, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Consumptive Aura (su) A meladaemon radiates an aura of hunger to a radius of 20 feet. Every round a creature begins its turn within this aura, it must succeed on a DC 22 Fortitude save or take 1d6 nonlethal damage and become fatigued from extreme hunger. Creatures that do not need to eat are immune to this effect. The save DC is Constitution-based.
+Disease (Ex) Daemonic wasting: Bite—injury; save Fort DC 22; onset 1 day; frequency 1/day; effect 1d4 Con and 1d4 Cha damage; cure 2 consecutive saves. The save DC is Constitution-based.
+Hunger (Su) A meladaemon’s claw attack deals an additional 1d6 points of nonlethal damage as it causes sudden pangs of horrific hunger in its foe. Creatures that do not need to eat are immune to this effect.
+About this Daemon Type… Deacon servitors of the Horseman of Famine, meladaemons appear as starving, humanoid jackals with vaguely amoebic bodies. Like lesser versions of their master in behavior as well as appearance, meladaemons prefer to work alone rather than collectively, seeking personal glory. Embodying famine and wasting, meladaemons radiate want by their presence and spread starvation with a touch. These fiends delight in the spread of famine by any means possible, sticking around to observe the effects. They endlessly experiment with new ways to accomplish this goal, obsessed with the process almost as much as the result. Most revile being bound to a conjurer’s service, except for when a spellcaster’s desires dovetail with their own goals. Meladaemons delight in the ritualized consumption of souls, exploring the tastes and preparation of such delicacies like a combination of researchers, religious zealots, and desperate addicts.
+Personification of Death: Starvation.
+Preferred Sacrifice: A good-aligned cleric or outsider capable of casting create food and water, and prepared the main course of a feast.

@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/shrieker/shrieker-singing
+Singing Shrieker CR 5
+XP 1,600
+N Small plant
+Init +0; Senses blindsight 60 ft.; Perception +1
+DEFENSE
+AC 14, touch 11, flat-footed 13 (+3 natural, +1 size)
+hp 11 (2d8+2)
+Fort +4, Ref +0, Will +1
+Immune sonic, plant traits
+OFFENSE
+Speed 5 ft.
+Space 5 ft.; Reach 0 ft.
+Special Attacks sing (DC 15 Will)
+STATISTICS
+Str 9, Dex 10, Con 13, Int –, Wis 12, Cha 10
+Base Atk +1; CMB -1; CMD 9 (can’t be tripped)
+Languages none
+SPECIAL ABILITIES
+Sing (Ex) These underground plants call out in the normal manner of shriekers, but instead of a loud wail, produce a pleasing, melodic sound. All creatures within 60 feet of a singing shrieker must succeed on a DC 15 Will save or become captivated. The save DC includes a +4 racial bonus. A creature that successfully saves is not subject to the same singing shrieker’s song for 24 hours. The victim moves toward the shrieker in the most direct manner available. If the path leads them through a dangerous area, the victim receives another saving throw to end the effect before moving into peril. Captivated creatures can take no other actions other than to defend themselves. This effect continues for as long as the shrieker sings and 1 round thereafter. This is a sonic, mind-affecting charm effect.

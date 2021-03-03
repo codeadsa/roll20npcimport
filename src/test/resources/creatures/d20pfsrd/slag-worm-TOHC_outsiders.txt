@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/slag-worm-TOHC
+Slag Worm CR 20
+XP 307,200
+N Gargantuan outsider (earth, elemental, extraplanar, fire)
+Init +2; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +35; Aura intense heat (10 ft., DC 30, 4d6 fire)
+DEFENSE
+AC 36, touch 8, flat-footed 34 (+2 Dex, +28 natural, -4 size)
+hp 348 (24d10+192 plus 24)
+Fort +18, Ref +18, Will +20
+Defensive Abilities fire absorption; DR 15/adamantine;
+Immune fire, elemental traits
+Weaknesses susceptible to rust, vulnerability to cold
+OFFENSE
+Speed 30 ft., burrow 30 ft.
+Melee bite +36 (6d10+22/19-20 plus grab)
+Space 20 ft.; Reach 15 ft.
+Special Attacks deafening roar, intense heat, swallow whole (4d6 plus 4d6 fire damage, AC 24, 34 hp)
+STATISTICS
+Str 41, Dex 14, Con 26, Int 18, Wis 19, Cha 10
+Base Atk +24; CMB +43 (+45 bull rush, +47 grapple); CMD 55 (57 vs. bull rush, can’t be tripped)
+Feats Alertness, Cleave, Great Cleave, Great Fortitude, Improved Bull Rush, Improved Critical (bite), Iron Will, Lightning Reflexes, Power Attack, Toughness, Vital Strike, Weapon Focus (bite)
+Skills Appraise +28, Bluff +27, Climb +39, Intimidate +27, Knowledge (dungeoneering) +31, Knowledge (engineering) +31, Knowledge (planes) +31, Perception +35, Sense Motive +35, Survival +31
+Languages Ignan, Terran
+SPECIAL ABILITIES
+Deafening Roar (Su) Whenever a slag worm moves at least half of its speed in a single round it creates a grinding roar of metal on metal from its body. Creatures within 50 feet that hear this grinding roar must succeed on a DC 30 Fortitude save or be deafened for 2d4 rounds. The save DC is Constitution-based.
+Intense Heat (Ex) A slag worm’s body generates intense heat. Anything within 10 feet of its body takes 4d6 points of fire damage each round. A DC 30 Fortitude save reduces the damage by half. Any weapon that strikes a slag worm must succeed on a DC 30 Fortitude save or melt into slag. (Magic weapons gain their enhancement bonus to their save.) A creature striking a slag worm with a natural attack or unarmed takes the same 4d6 points of damage each time an attack hits. The save DCs are Constitution-based.
+Fire Absorption (Ex) Fire deals no damage to a slag worm. Instead, the slag worm absorbs the effect and heals 1 point of damage for each 3 points the effect would otherwise deal. If the amount of healing would cause the slag worm to exceed its full normal hit points, it gains any excess as temporary hit points.
+Susceptible to Rust (Ex) Attacks that cause rusting (such as a rusting grasp spell or the touch of a rust monster) deal 2d6 points of damage to a slag worm.

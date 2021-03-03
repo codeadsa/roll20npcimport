@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/the-grim-white-stag
+The Grim White Stag CR 15
+XP 51,200
+LG Colossal outsider (extraplanar, good, lawful)
+Init +2; Senses darkvision 60 ft., low-light vision, detect evil; Perception +22; Aura protective aura (20 ft.)
+DEFENSE
+AC 25, touch 5, flat-footed 22 (+2 Dex, +1 dodge, +20 natural, –8 size; +4 deflection vs. evil)
+hp 225 (18d10+126); regeneration 5 (evil weapons and effects)
+Fort +18, Ref +13, Will +7; +4 vs. poison, +4 resistance vs. evil
+DR 10/evil and silver; Immune electricity, petrification; Resist cold 10, sonic 10; SR 26
+OFFENSE
+Speed 40 ft.
+Melee gore +25 (4d6+14/19–20 plus push), 2 hooves +19 (2d8+7)
+Space 30 ft.; Reach 20 ft.
+Special Attacks lay on hands (10/day, 9d6), push (gore, 10 ft.), trample (2d8+21, DC 33)
+Spell-Like Abilities (CL 18th; concentration +19)
+Constant—detect evil
+3/day—neutralize poison, remove disease 1/month—heroes’ feast (see below)
+STATISTICS
+Str 39, Dex 14, Con 25, Int 10, Wis 13, Cha 12
+Base Atk +18; CMB +40 (+44 bull rush); CMD 53 (55 vs. bull rush, 57 vs. trip)
+Feats Dodge, Endurance, Greater Bull Rush, Improved Bull Rush, Improved Critical (gore), Mobility, Power Attack, Run, Weapon Focus (gore)
+Skills Acrobatics +11, Handle Animal +13, Intimidate +19, Knowledge (nature) +12, Perception +22, Sense Motive +13, Stealth +7 (+15 in forests), Survival +13, Swim +26; Racial Modifiers +8 Stealth in forests
+Languages Celestial, Common, Druidic, Sylvan (can’t speak any language); speak with animals
+SQ bugle, cascade of spears
+SPECIAL ABILITIES
+Bugle (Ex) The Stag can make a distinctive call that can be heard for miles. All who worship the god it serves immediately recognize the sound and know the direction and general distance to it.
+Cascade of Spears (Su) Once per day, the Stag can shed fragments of its antlers, creating up to 18 +1 shortspears, +1 spears, or +1 longspears in any combination (or substitute five +1 arrows or +1 crossbow bolts for each spear). These weapons retain their magic for 18 minutes, after which they become common weapons made of antler.
+Heroes’ Feast (Sp) The Stag lies down and dies to begin the “casting” of this ability, its body becoming a magical feast feeding up to 18 creatures. At the next sunrise, it returns to life with full hit points.
+Protective Aura (Su) This ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws, but only against attacks or effects from evil creatures.

@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/kirin/kirin-emperor
+Emperor Kirin CR 14
+XP 3,200
+Advanced kirin
+LG Large magical beast (air)
+Init +8; Senses darkvision 60 ft., detect evil, low-light vision, scent; Perception +25
+DEFENSE
+AC 24, touch 17, flat-footed 16 (+8 Dex, +7 natural, -1 size)
+hp 187 (15d10+105)
+Fort +15, Ref +17, Will +14
+Resist cold 10, electricity 30, fire 10; SR 25
+OFFENSE
+Speed 60 ft., fly 120 ft. (good)
+Melee gore +22 (1d8+7/19-20), 2 hooves +16 (1d6+4)
+Space 10 ft.; Reach 5 ft.
+Special Attacks breath weapon (15-ft. cone, 8d6 fire damage, Reflex DC 23 for half, usable every 1d4 rounds), powerful charge (gore, 2d8+22)
+Spell-Like Abilities (CL 15th; concentration +24)
+Constant—detect evil, water walk
+At will—gaseous form, gust of wind
+1/day—break enchantment, create food and water, major creation, wind walk (self only)
+Spells Known (CL 12th; concentration +21)
+6th (4/day)—chain lightning (DC 25)
+5th (6/day)—breath of life, true seeing
+4th (8/day)—cure critical wounds, holy smite (DC 23), restoration
+3rd (8/day)—haste, lightning bolt (DC 22), searing light, wind wall
+2nd (8/day)—alter self, cure moderate wounds, lesser restoration, resist energy, scorching ray
+1st (8/day)—color spray (DC 20), cure light wounds, disguise self, remove fear, sanctuary (DC 20)
+0 (at will)—arcane mark, create water, detect magic, guidance, mage hand, mending, message, resistance, stabilize
+STATISTICS
+Str 24, Dex 27, Con 22, Int 22, Wis 25, Cha 28
+Base Atk +15; CMB +23; CMD 41 (45 vs. trip)
+Feats Combat Casting, Eschew MaterialsB, Flyby Attack, Hover, Improved Critical (gore), Iron Will, Skill Focus (Diplomacy), Toughness, Weapon Focus (gore)
+Skills Bluff +24, Diplomacy +30, Fly +28, Intimidate +24, Knowledge (history) +21, Perception +25, Perform (sing) +24, Sense Motive +22
+Languages Abyssal, Auran, Celestial, Common, Draconic, Infernal, Sylvan; telepathy 100 ft.
+SPECIAL ABILITIES
+Spells A kirin casts spells as a 12th-level sorcerer, and can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a kirin, meaning that the creature does not need a divine focus to cast them.

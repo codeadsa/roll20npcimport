@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/tangtal
+Tangtal CR 3
+XP 800
+NE Medium magical beast
+Init +4; Senses darkvision 60 ft. low-light vision, scent; Perception +8
+DEFENSE
+AC 17, touch 14, flat-footed 13 (+4 Dex, +3 natural)
+hp 22 (3d6+10)
+Fort +5, Ref +7, Will +2
+OFFENSE
+Speed 40 ft.
+Melee bite +7 (1d6+3), 2 claws +7 (1d4+3)
+STATISTICS
+Str 16, Dex 19, Con 15, Int 12, Wis 13, Cha 10
+Base Atk +3; CMB +6; CMD 20 (24 vs. trip)
+Feats Skill Focus (Perception), Weapon Finesse
+Skills Perception +8, Stealth +9
+Languages Common, Sylvan
+SQ duplicate
+SPECIAL ABILITIES
+Duplicate (Su) As a standard action, a tangtal can create an effect similar to a mirror image spell (caster level 12th). This allows the tangtal to create up to eight images of itself. The images can move up to 30 feet away from the tangtal, but each must be within 10 feet of another image. The tangtal can use this ability once per day and it otherwise resembles the mirror image spell.

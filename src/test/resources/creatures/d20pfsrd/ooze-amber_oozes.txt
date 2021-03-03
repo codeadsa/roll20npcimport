@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-amber
+Amber Ooze CR 1
+XP 400
+N Diminutive ooze
+Init +0; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 14, touch 14, flat-footed 14 (+4 size)
+hp 6 (1d8+2)
+Fort +2, Ref +0, Will -5
+Immune ooze traits
+OFFENSE
+Speed 10 ft.
+Space 1 ft.; Reach 0 ft.
+Special Attacks ability drain, infuse, weaken will
+STATISTICS
+Str 4, Dex 10, Con 14, Int –, Wis 1, Cha 1
+Base Atk +0; CMB -4; CMD 3 (can’t be tripped)
+SPECIAL ABILITIES
+Ability Drain (Ex) If not purged from the host body, the acids and protoplasm of an amber ooze begin damaging its host’s body and mind. After 1 week, the host takes 1 point each of Intelligence, Wisdom, and Charisma drain per day. When one of the three abilities reaches 0, the host dies.
+Infuse (Ex) A victim that has ingested an amber ooze must succeed on a DC 13 Fortitude save or the amber ooze infuses itself into his body. The ooze merges with flesh and bone, and can only be removed by a remove disease spell. The save DC is Constitution-based. A detect magic (or similar magic) cast on the host reveals the amber ooze.
+If the victim succeeds on the Fortitude save, the amber ooze takes 1 point of acid damage per round from the host’s digestive juices. Once it begins to take damage, the ooze retreats from the host’s body through its mouth.
+Weaken Will (Su) An amber ooze that has infused itself into a host weakens the will of its victim. As long as the amber ooze remains in the host, he takes a -4 penalty on Will saves to resist mind-affecting spells and effects (such as charm person and suggestion.)

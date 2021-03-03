@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-outer/outer-dragon-void/void-dragon-young
+Young Void Dragon CR 9
+XP 6,400
+NE Large dragon
+Init +2; Senses dragon senses, see in darkness; Perception +14
+DEFENSE
+AC 22, touch 11, flat-footed 20 (+2 Dex, +11 natural, –1 size)
+hp 95 (10d12+30)
+Fort +10, Ref +9, Will +10
+Immune cold, confusion, insanity effects, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 200 ft. (good)
+Melee bite +15 (2d6+7 plus obliterate), 2 claws +14 (1d8+5), 2 wings +12 (1d6+2), tail slap +12 (1d8+7)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, 6d8 cold, DC 18), obliterate (DC 18), suffocating breath (DC 18)
+Spell-Like Abilities (CL 10th; concentration +13)
+At will—ray of enfeeblement (DC 14)
+Sorcerer Spells Known (CL 1st; concentration +4)
+1st (4/day)—hypnotism (DC 15), mage armor
+0 (at will)—detect magic, mage hand, message, read magic
+STATISTICS
+Str 21, Dex 14, Con 17, Int 16, Wis 13, Cha 16
+Base Atk +10; CMB +16; CMD 28 (32 vs. trip)
+Feats Flyby Attack, Iron Will, Multiattack, Weapon Focus (bite), Wingover
+Skills Acrobatics +12, Bluff +16, Diplomacy +13, Fly +19, Intimidate +16, Knowledge (arcana, planes) +13, Perception +14, Sense Motive +14, Spellcraft +11, Stealth +11, Survival +8
+Languages Abyssal, Aklo, Draconic, Infernal
+SQ agile, no breath, starflight
+SPECIAL ABILITIES
+Agile (Ex) Void dragons have good aerial maneuverability regardless of their age or size.
+Alien Presence (Su) A void dragon’s alien presence causes an opponent that fails its save to be overcome with dizziness, becoming sickened (or nauseated if the target has 4 or fewer Hit Dice) for 5d6 rounds.
+Obliterate (Su) A young or older void dragon’s bite deals an additional 2d6 points of negative energy damage. A creature reduced to 0 or fewer hit points by this attack must succeed at a Fortitude save or be immediately slain and reduced to ashes (as the disintegrate spell). The save DC is Constitution-based.
+Suffocating Breath (Su) Instead of dealing cold damage, a very young or older void dragon can breathe a cone-shaped suffocation effect. An air-dependent creature that fails its Fortitude save suffocates for a number of rounds equal to the dragon’s age category. The save DC is Constitution-based.

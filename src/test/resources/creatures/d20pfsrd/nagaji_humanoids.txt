@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/nagaji
+Nagaji CR 1/2
+XP 200
+Male nagaji fighter 1
+LN Medium humanoid (reptilian)
+Init +2; Senses low-light vision; Perception +4
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 armor, +2 Dex, +1 natural)
+hp 10 (1d10)
+Fort +1, Ref +2, Will +1; +2 vs. mind-affecting effects and poison
+OFFENSE
+Speed 30 ft.
+Melee naginata +5 (1d8+4/×4) or claw +4 (1d4+4)
+Ranged longbow +3 (1d8/×3)
+Space 5 ft.; Reach 5 ft. (10 ft. with naginata)
+STATISTICS
+Str 17, Dex 14, Con 8, Int 10, Wis 13, Cha 12
+Base Atk +1; CMB +4; CMD 16
+Feats Power Attack, Weapon Focus (naginata)
+Skills Handle Animal +3, Perception +4, Survival +5; Racial Modifiers +2 Handle Animal, +2 Perception
+Languages Common, Draconic

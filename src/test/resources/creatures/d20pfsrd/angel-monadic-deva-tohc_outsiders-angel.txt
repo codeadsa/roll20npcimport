@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-monadic-deva-tohc
+Monadic Deva
+CR 12
+XP 19,200
+NG Medium outsider (angel, extraplanar, good)
+Init +7; Senses darkvision 60 ft., detect evil, low-light vision; Perception +25; Aura protective aura
+DEFENSE
+AC 26, touch 13, flat-footed 23 (+3 Dex, +13 natural; +4 deflection vs. evil)
+hp 95 (10d10+40)
+Fort +11, Ref +12, Will +7; +4 vs. poison, +4 resistance vs. evil
+DR 10/evil; Immune acid, cold, petrification, death effects; Resist electricity 10, fire 10; SR 23
+OFFENSE
+Speed 40 ft., fly 90 ft. (good)
+Melee +3 mace of smiting +20/+15 (1d8+10 plus solid blow)
+Spell-Like Abilities (CL 10th)
+Constant—detect evil
+At will—aid, charm elemental (DC 18; elementals only), continual flame, discern lies (DC 18), dispel evil (DC 19), holy smite (DC 18), invisibility (self only), plane shift (DC 21), remove curse (DC 18), remove disease (DC 17), remove fear (DC 15)
+7/day—cure light wounds, mirror image
+3/day—cure serious wounds, holy word (DC 21), polymorph (self only)
+1/day—heal, hold monster (DC 19), holy aura (DC 22)
+STATISTICS
+Str 24, Dex 16, Con 18, Int 18, Wis 18, Cha 19
+Base Atk +10; CMB +17; CMD 30
+Feats Alertness, Cleave, Improved Initiative, Lightning Reflexes, Power Attack
+Skills Bluff +17, Diplomacy +17, Fly +20, Heal +17, Knowledge (planes) +17, Knowledge (religion) +17, Perception +25, Sense Motive +21, Stealth +16, Survival +17; Racial Modifiers +4 Perception
+Languages Celestial, Common, plus any three; truespeech
+Gear +3 mace of smiting
+SPECIAL ABILITIES
+Solid Blow (Su) If a monadic deva strikes an opponent twice in one round with its mace, that creature takes an extra 1d8 points of damage.

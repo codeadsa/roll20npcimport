@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/donkey-rat
+Donkey Rat CR 1/4
+XP 100
+N Small animal
+Init +3; Senses low-light vision, scent; Perception +4
+DEFENSE
+AC 14, touch 14, flat-footed 11 (+3 Dex, +1 size)
+hp 5 (1d8+1)
+Fort +3, Ref +5, Will +1
+OFFENSE
+Speed 30 ft., swim 20 ft.
+Melee bite +0 (1d3–2)
+STATISTICS
+Str 6, Dex 17, Con 13, Int 2, Wis 13, Cha 4
+Base Atk +0; CMB +1; CMD 9 (13 vs. trip)
+Feats Skill Focus (Perception)
+Skills Perception +4, Stealth +15, Swim +11
+SPECIAL ABILITIES
+Familiar The master of a donkey rat familiar gains a +2 bonus on Fortitude saves.

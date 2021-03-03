@@ -1,0 +1,43 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lycanthrope/lycanthrope-werecrocodile
+Werecrocodile (Human Form) CR 3
+XP 800
+Human natural werecrocodile fighter 3
+NE Medium humanoid (human, shapechanger)
+Init +5; Senses low-light vision, scent; Perception +4
+DEFENSE
+AC 11, touch 11, flat-footed 10 (+1 Dex)
+hp 27 (3d10+6)
+Fort +7, Ref +2, Will +2 (+1 vs. fear)
+Defensive Abilities bravery +1
+OFFENSE
+Speed 30 ft.
+Melee mwk battleaxe +7 (1d8+3/×3)
+STATISTICS
+Str 17, Dex 13, Con 14, Int 12, Wis 12, Cha 6
+Base Atk +3; CMB +6; CMD 17
+Feats Cleave, Great Fortitude, Improved Initiative, Power Attack, Run
+Skills Intimidate +4, Perception +4, Stealth +5, Survival +7, Swim +11
+Languages Common
+SQ armor training 1, change shape (human, hybrid, and crocodile; polymorph), lycanthropic empathy (crocodiles and dire crocodiles)
+Werecrocodile (Hybrid Form)
+NE Medium humanoid (human, shapechanger)
+Init +5; Senses low-light vision, scent; Perception +4
+DEFENSE
+AC 23, touch 11, flat-footed 16 (+1 Dex, +6 natural)
+hp 30 (3d10+9)
+Fort +8, Ref +2, Will +2; +1 vs. fear
+Defensive Abilities bravery +1; DR 10/silver
+OFFENSE
+Speed 30 ft., swim 20 ft.; sprint
+Melee bite +7 (1d8+4 plus grab and curse of lycanthropy), tail slap +2 (1d12+2)
+Special Attacks curse of lycanthropy, death roll (1d8+4 plus trip), grab
+STATISTICS
+Str 19, Dex 13, Con 16, Int 12, Wis 12, Cha 6
+Base Atk +3; CMB +7 (+11 grapple); CMD 18
+Feats Cleave, Great Fortitude, Improved Initiative, Power Attack, Run
+Skills Intimidate +4, Perception +4, Stealth +5, Survival +7, Swim +19
+Languages Common
+SQ armor training 1, change shape (human, hybrid, and crocodile; polymorph), hold breath, lycanthropic empathy (crocodiles and dire crocodiles), sprint
+SPECIAL ABILITIES
+Death Roll (Ex) When grappling a foe of its size or smaller, a werecrocodile can perform a death roll upon making a successful grapple check. As it clings to its foe, the werecrocodile deals its bite damage, knocks the creature prone, and maintains the grapple.
+Sprint (Ex) Once per minute, a werecrocodile can increase its land speed to 60 feet for 1 round.

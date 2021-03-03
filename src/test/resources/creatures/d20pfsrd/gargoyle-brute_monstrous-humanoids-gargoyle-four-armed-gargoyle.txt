@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/gargoyle/four-armed-gargoyle/gargoyle-brute
+Gargoyle Brute CR 10
+XP 6,400
+Advanced four-armed gargoyle
+CE Large monstrous humanoid (earth)
+Init +1; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 24, touch 10, flat-footed 23 (+1 Dex, +14 natural, –1 size)
+hp 136 (13d10+65)
+Fort +14, Ref +14, Will +15
+DR 10/magic
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee bite +18 (1d8+6), 4 claws +18 (1d8+6/19–20), gore +18 (1d4+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (1d6+6)
+TACTICS
+During Combat Gargoyle brutes wade into combat, focusing on a single foe if possible. They attempt to grapple anyone who proves to be particularly dangerous, allowing other gargoyles to gang up on them.
+Morale These creatures do not retreat from combat.
+STATISTICS
+Str 23, Dex 12, Con 20, Int 8, Wis 15, Cha 11
+Base Atk +13; CMB +20; CMD 31
+Feats Flyby Attack, Great Fortitude, Hover, Improved Critical (claws), Improved Natural Attack (claws), Power Attack, Skill Focus (Fly)
+Skills Fly +21, Perception +18, Stealth +13; Racial Modifiers +2 Stealth (+6 in stony environs)
+Languages Common, Terran
+SQ freeze
+SPECIAL ABILITIES
+Freeze (Ex) A gargoyle brute can hold itself so still it appears to be a statue. A gargoyle brute that uses freeze can take 20 on Stealth checks to hide in plain sight as a stone statue.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-fossil
+Fossil Golem CR 12
+XP 19,200
+N Huge construct
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 26, touch 9, flat-footed 25 (+1 Dex, +17 natural, -2 size)
+hp 122 (15d10+40)
+Fort +5, Ref +6, Will +5
+DR 10/adamantine and bludgeoning; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 bites +20 (6d6+7 plus petrification)
+Space 15 ft.; Reach 15 ft.
+STATISTICS
+Str 25, Dex 13, Con —, Int —, Wis 10, Cha 1
+Base Atk +15; CMB +24; CMD 35
+Feats Combat ReflexesB
+SPECIAL ABILITIES
+Immunity to Magic (Su) A fossil golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and abilities function differently against the creature, as noted below.
+A transmute rock to mud spell slows a fossil golem (as the slow spell) for 2d6 rounds, with no saving throw. A stone to flesh spell negates its damage reduction and petrification ability for 1 round. Petrification (Su) The attacks of a fossil golem gradually turn living flesh to stone. Each time the golem hits a target with one of its natural attacks, the target must make a DC 19 Fortitude save or take 1d6 points of Dexterity drain. A creature that is reduced to 0 Dexterity by this attack turns completely to stone, as if by a flesh to stone spell. Casting stone to flesh on the creature removes all Dexterity drain caused by this attack. The save DC is Constitution-based and includes a +2 racial bonus.
+Construction A fossil golem must be constructed from the fossilized skeletons of at least two creatures of Huge size or greater. The fossilized bone making up the golem requires extensive preservation and reassembly with alchemical solutions at a cost of 5,000 gp.
+CL 15th; Price 125,000 gp
+CONSTRUCTION REQUIREMENTS
+Craft Construct, flesh to stone, geas/quest, limited wish, stone shape; Special creator must be at least caster level 15th;
+Skill Craft (sculpture) or Heal DC 20; Cost 65,000 gp

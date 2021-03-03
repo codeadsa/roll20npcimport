@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/cinder-wolf
+Cinder Wolf CR 2
+XP 600
+N Medium magical beast
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+1 Dex, +4 natural)
+hp 15 (2d10+4); fast healing 3 (in fire)
+Fort +5, Ref +4, Will +1
+Resist fire 10
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 50 ft.
+Melee bite +5 (1d6+4 plus 1d4 fire)
+Special Attacks Trip
+TACTICS
+When encountered alone, a cinder wolf attempts to run down its prey, attacking only once its victim is too tired to put up a fight. In packs, they circle prey, trapping their victims between multiple pack members. Once the prey slows down, the cinder wolves surround their target and close in, setting themselves up to receive flanking bonuses. When fighting an opponent of its size or larger, a cinder wolf tries to trip its foe and attack it on the ground, giving itself and any pack members a better chance to bite.
+An individual cinder wolf breaks off the attack if reduced to fewer than 5 hit points. A group of cinder wolves retreats if more than 75% of their original number are slain or have already fled.
+STATISTICS
+Str 17, Dex 13, Con 14, Int 2, Wis 12, Cha 10
+Base Atk +2; CMB +5; CMD 16 (20 vs trip)
+Feats Skill Focus (Perception)
+Skills Perception +10, Survival +7 (+11 to follow tracks); Racial Modifiers +2 Perception, +2 Survival (+6 to follow tracks)
+SQ fiery body
+SPECIAL ABILITIES
+Fiery Body (Su) A cinderwolf inflicts 1d4 points of fire damage when it bites a foe in addition to the normal bite damage. In any round that the cinderwolf resists at least one point of fire damage, it gains fast healing 3.

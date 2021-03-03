@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-castigas-automata-kp
+Automata Devil CR 11
+XP 12,800
+LE Large outsider (evil, extraplanar, lawful)
+Init +7; Senses all-around vision, darkvision 60 ft., see in darkness; Perception +22; Aura fear aura (5 ft., DC 17),
+DEFENSE
+AC 23, touch 12, flat-footed 20 (+3 Dex, +11 natural, +1 size)
+hp 136 (13d10+65)
+Fort +13, Ref +11, Will +8
+Immune fire, poison, Resist acid 10; SR 22
+OFFENSE
+Speed 40 ft.
+Melee whip +22/+17/+12 (1d4+9 plus entangle and demented punishment), bite +21 (1d8+13), maw +21 (2d6+13)
+Space 10 ft.; Reach 10 ft.
+Special Attacks demented punishment, entangle, fear aura, punishing embrace
+Spell-Like Abilities (CL 13th; concentration +17)
+At will—charm person (DC 15), greater teleport (self plus 50 lb. of objects only), suggestion (DC 16)
+1/day—mind fog (DC 19), summon kyton (1 kyton, 40%)
+STATISTICS
+Str 28, Dex 17, Con 20, Int 11, Wis 14, Cha 19
+Base Atk +13; CMB +23; CMD 36
+Feats Alertness, Improved Initiative, Improved Iron Will, Iron Will, Persuasive, Power Attack, Weapon Focus (whip)
+Skills Acrobatics +16 (+20 jump), Appraise +7, Bluff +20, Diplomacy +6, Intimidate +6, Knowledge (planes) +15, Perception +22, Sense Motive +22, Stealth +15
+Languages Common, Infernal; telepathy 100 ft.
+Combat Gear whip
+SPECIAL ABILITIES
+Demented Punishment (Su) The whip wielded by an automata devil extrudes tiny hair-like filaments, which cause excruciating agony. Targets entangled by the whip are affected by a symbol of pain (DC 20, Cha-based); this only affects the entangled creature. This attack can only be used every other round by each whip.
+Entangle (Ex) An automata devil‘s whip entangles foes much like a net. The whip has 15 hp and hardness 5. If it hits, the target and the automata devil make opposed Strength checks. If the automata devil wins, the whip drags the opponent into its punishing embrace.
+Fear Aura (Su) Automata devils radiate fear in a 5 ft. radius. Affected creatures must make a DC 20 Will save (Cha-based) or be affected by fear. A creature that saves cannot be affected by the same automata devil’s fear aura. Devils and kytons are immune to the effect.
+Lacerate (Ex) An automata devil deals automatic maw damage with a successful CMB check.
+Punishing Embrace (Ex) Creatures grappled by the automata devil‘s whip are thrown into its stomach maw, freeing the whip for the next attack. The maw is a mass of churning gears with serrated edges, clockwork gears, and whirling blades. An automata devil can make a grapple check as a free action against opponents drawn into the maw. This does not provoke an attack of opportunity. If it wins the grapple check, the automata devil it establishes hold and can lacerate.

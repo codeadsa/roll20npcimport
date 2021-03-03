@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-brain
+Brain Ooze CR 7
+XP 3,200
+NE Tiny ooze
+Init +6; Senses blindsight 60 ft.; Perception +11; Aura psychic noise (10 ft., DC 19)
+DEFENSE
+AC 23, touch 19, flat-footed 18 (+4 armor, +4 Dex, +1 dodge, +2 insight, +2 size)
+hp 75 (10d8+30)
+Fort +6, Ref +9, Will +6
+Defensive Abilities evasion, prescience; Immune ooze traits
+OFFENSE
+Speed 5 ft., fly 60 ft. (good)
+Melee 2 tentacles +13 touch (1d6 electricity plus neural pulse)
+Space 2-1/2 feet; Reach 0 ft.
+Spell-Like Abilities (CL 10th; concentration +14)
+Constant—detect thoughts, mage armor
+At will—charm monster (DC 18), dominate animal (DC 17), dominate person (DC 19)
+3/day—dispel magic, modify memory (DC 18)
+STATISTICS
+Str 4, Dex 19, Con 16, Int 15, Wis 12, Cha 19
+Base Atk +7; CMB +9; CMD 22 (can’t be tripped)
+Feats Defensive Training, Dodge, Iron Will, Mobility, Weapon Finesse
+Skills Bluff +10, Diplomacy +5, Fly +23, Perception +11, Sense Motive +11, Stealth +15
+Languages Aklo (cannot speak); telepathy 100 ft.
+SPECIAL ABILITIES
+Neural Pulse (Su) Creatures hit by a brain ooze’s tentacle must succeed at a DC 18 Fortitude save or take 1d6 points of Intelligence damage and be staggered for 1d4 rounds. Each time a brain ooze causes Intelligence damage, it gains 5 temporary hit points. The save DC is Constitution-based.
+Prescience (Su) Limited precognitive abilities grant a brain ooze a +2 insight bonus on initiative checks, on Reflex saves, and to its Armor Class. Brain oozes are never surprised or flat-footed.
+Psychic Noise (Su) The discordant psychic noise emitted by a brain ooze dazes nearby creatures for 1d4 rounds. When a creature begins its turn within the aura, it must succeed at a DC 19 Will save to negate this effect. Whether or not the save is successful, that creature cannot be affected again by the same brain ooze’s psychic noise for 24 hours. An affected creature may attempt a new save to shake off the effect at the end of each of its turns. This is a mind-affecting effect. The save DC is Charisma-based.

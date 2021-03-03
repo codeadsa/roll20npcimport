@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/star-monarch
+Star Monarch CR 9
+XP 6,400
+CG Huge magical beast
+Init +10; Senses darkvision 60 ft., low-light vision; Perception +16; Aura dreamwarden (30 ft.)
+DEFENSE
+AC 22, touch 15, flat-footed 15 (+6 Dex, +1 dodge, +7 natural, –2 size)
+hp 114 (12d10+48)
+Fort +12, Ref +14, Will +9
+DR 5/silver; Immune cold; SR 20
+OFFENSE
+Speed 30 ft., fly 80 ft. (average); starflight
+Melee 2 claws +14 (1d8+4 plus grab), tail +14 (2d6+4 nonlethal)
+Space 15 ft.; Reach 5 ft. (15 ft. with tail)
+Special Attacks glowsap, rake (4 claws +10, 1d6+3)
+Spell-Like Abilities (CL 12th; concentration +16)
+Constant–entropic shield
+At will–dancing lights, restful sleep
+3/day–deep slumber (DC 17), dream, wandering star motes (DC 18)
+1/day–cloak of dreams (DC 20)
+STATISTICS
+Str 18, Dex 23, Con 18, Int 11, Wis 17, Cha 18
+Base Atk +12; CMB +18 (+22 grapple); CMD 35 (43 vs. trip)
+Feats Alertness, Dodge, Flyby Attack, Hover, Improved Initiative, Iron Will
+Skills Fly +14, Perception +16, Sense Motive +12
+Languages Common (can’t speak); telepathy touch
+SQ navigational awareness, no breath, toxic flesh
+SPECIAL ABILITIES Dreamwarden (Su) Any sleeping creature within 30 feet of a star monarch is protected by protection from evil and sanctuary (Will DC 15 negates). The save DC is Constitution-based.
+Glowsap (Ex) As a standard action, a star monarch can spray a target within 30 feet with an adhesive spittle as a ranged touch attack. A creature struck is affected as a tanglefoot bag (Reflex DC 20 partial). In addition, this adhesive glows under starlight or moonlight, limning the target as faerie fire if used outdoors at night. The save DC is Constitution-based.
+Navigational Awareness (Ex) Star monarchs never become lost and are immune to maze spells or any effect that would cause them to lose their sense of direction.
+Starflight (Su) A star monarch can survive in the void of outer space. It flies through space at an incredible speed. Although exact travel times vary, a trip within a single solar system should take 3d20 hours, while a trip beyond should take 3d20 days (or more, at the GM’s discretion).
+Toxic Flesh (Ex) A star monarch’s flesh is poisonous. A creature biting it or ingesting any part of its body becomes sickened for 1d4 rounds (Fortitude DC 20 negates) and is affected as if it had consumed a dose of arsenic.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/juggernaut
+Juggernaut CR 11
+XP 12,800
+N Gargantuan construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +4
+DEFENSE
+AC 26, touch 6, flat-footed 26 (+20 natural, –4 size)
+hp 142 (15d10+60); fast healing 5
+Fort +5, Ref +5, Will +9
+DR 10/adamantine; Immune construct traits; SR 22
+Weaknesses faith-bound
+OFFENSE
+Speed 30 ft.
+Melee slam +24 (4d6+19 plus wounding)
+Space 20 ft.; Reach 5 ft.
+Special Attacks soul-powered, vicious trample (8d6+38 plus wounding, DC 30)
+Spell-Like Abilities (CL 15th; concentration +10
+3/day—enervation
+STATISTICS
+Str 36, Dex 11, Con —, Int —, Wis 18, Cha 1
+Base Atk +15; CMB +32; CMD 42 (can’t be tripped)
+SQ keyed domains (Death, War), shrine
+SPECIAL ABILITIES
+Faith-Bound (Su) A juggernaut cannot attack any creature that openly wears or displays the holy symbol or unholy symbol of the deity to which the juggernaut is dedicated unless that creature first attacks the juggernaut.
+Shrine (Ex) A juggernaut counts as a movable shrine for the deity or religion it is dedicated to.
+Soul-Powered (Su) When a juggernaut kills a creature with at least 5 Hit Dice and an alignment two or more steps away from the juggernaut’s alignment, it gains a kill point. Add its current total kill points as a bonus on its attack rolls, combat maneuver checks, caster level checks, and skill checks. Add half its current total kill points as a bonus to its natural armor and spell resistance. The juggernaut loses 1 kill point every 24 hours.
+Vicious Trample (Ex) A juggernaut’s massive rollers deal 8d6+38 points of damage on a successful trample attack.

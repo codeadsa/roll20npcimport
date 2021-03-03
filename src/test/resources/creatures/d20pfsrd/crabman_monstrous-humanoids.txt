@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/crabman
+CRABMAN CR 2
+XP 600
+N Large monstrous humanoid
+Init +0; Senses darkvision 60 ft.; Perception +3
+DEFENSE
+AC 16, touch 9, flat-footed 16 (–1 size, +7 natural)
+hp 19 (3d10+6)
+Fort +3, Ref +3, Will +3
+OFFENSE
+Speed 30 ft., swim 20 ft.
+Melee 2 claws +5 (1d6+3 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (claw) 1d6+3
+STATISTICS
+Str 16, Dex 11, Con 15, Int 10, Wis 10, Cha 8
+Base Atk +3; CMB +7 (+11 to grapple); CMD 17
+Feats Alertness, Power Attack
+Skills Craft (any one) +6, Perception +8, Sense Motive +2, Survival +6, Swim +21; Racial Modifiers +4 Swim
+Languages Crabman
+SQ amphibious

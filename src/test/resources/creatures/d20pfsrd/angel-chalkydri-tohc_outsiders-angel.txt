@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-chalkydri-tohc
+CHALKYDRI CR 14
+XP 36,400
+NG Medium outsider (angel, extraplanar, good)
+Init +7; Senses darkvision 60 ft., detect evil, see invisibility; Perception +23; Aura protective aura
+DEFENSE
+AC 30, touch 17, flat-footed 27 (+3 Dex, +13 natural, +4 sacred; +4 deflection vs. evil)
+hp 126 (12d10+60)
+Fort +13, Ref +11, Will +10 ; +4 vs. poison, +4 resistance vs. evil
+DR 10/evil; Immune acid, cold, petrification, death effects; Resist electricity 10, fire 10; SR 25
+OFFENSE
+Speed 40 ft., fly 90 ft. (good)
+Melee +2 flaming longsword +21/+16/+11 (1d8+8 plus 1d6 fire)
+Ranged +2 flaming javelin +17 (1d6+8 plus 1d6 fire)
+Spell-Like Abilities (CL 12th)
+Constant—detect evil, see invisibility
+At will—aid, bless, consecrate, continual flame, discern lies (DC 18), dispel evil (DC 19), dispel magic, fog cloud, holy smite (DC 18), invisibility (self only), plane shift (DC 21), remove curse (DC 18), remove disease (DC 17), remove fear (DC 15)
+3/day—holy word (DC 21), polymorph (self only), atonement, cure serious wounds, flame strike (DC 19), greater restoration 1/day—heal, raise dead, summon (level 8, 1d4 movanic devas 35%)
+STATISTICS
+Str 23, Dex 16, Con 20, Int 18, Wis 18, Cha 19
+Base Atk +12; CMB +18; CMD 35
+Feats Blind-Fight, Cleave, Improved Initiative, Power Attack, Weapon Focus (longsword), Iron Will
+Skills Diplomacy +19, Fly +22, Heal +19, Intimidate +16, Knowledge (planes) +19, Knowledge (religion) +16, Perception +23, Sense Motive +23, Stealth +18, Survival +19; Racial Modifiers +4 Perception, Sense Motive
+Languages Celestial, Common, Draconic, Infernal; truespeech
+Gear +2 flaming longsword, 2 +2 flaming javelins

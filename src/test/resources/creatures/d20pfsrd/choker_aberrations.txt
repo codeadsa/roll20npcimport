@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/choker
+Choker CR 2
+XP 600
+CE Small aberration
+Init +6; Senses darkvision 60 ft.; Perception +1
+DEFENSE
+AC 17, touch 13, flat-footed 15 (+2 Dex, +4 natural, +1 size)
+hp 16 (3d8+3)
+Fort +2, Ref +3, Will +4
+OFFENSE
+Speed 20 ft., climb 10 ft.
+Melee 2 tentacles +6 (1d4+3 plus grab)
+Space 5 ft.; Reach 10 ft.
+Special Attacks constrict (1d4+3), grab (Large), strangle
+STATISTICS
+Str 16, Dex 14, Con 13, Int 4, Wis 13, Cha 7
+Base Atk +2; CMB +4 (+8 grappling); CMD 16
+Feats Improved Initiative, Skill Focus (Stealth)
+Skills Climb +16, Stealth +13
+Languages Undercommon
+SQ quickness
+SPECIAL ABILITIES
+Strangle (Ex) Chokers have an unerring talent for seizing their victims by the neck. A creature that is grappled by a choker cannot speak or cast spells with verbal components.
+Quickness (Su) A choker is supernaturally quick. It can take an extra move action during its turn each round.

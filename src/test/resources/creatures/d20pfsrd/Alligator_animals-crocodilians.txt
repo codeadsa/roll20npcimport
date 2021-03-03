@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/crocodilians/Alligator
+Alligator
+CR 2
+XP 600
+N Medium animal
+Init +1; Senses low-light vision; Perception +8
+
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+1 Dex, +4 natural)
+hp 22 (3d8+9)
+Fort +6, Ref +4, Will +2
+OFFENSE
+Speed 20 ft., swim 30 ft.; sprint
+Melee bite +6 (1d6+4 plus grab) and tail slap +1 (1d10+2)
+Special Attacks death roll (1d6+6 plus trip)
+TACTICS
+If enraged or hungry, the alligator bellows and snaps at anyone within 5 feet of the edge of the water. The alligator has to make a DC 15 Climb check to clamber up high enough to bite at someone this close to the edge, and even then, the cover provided grants his target a +2 bonus to AC. If there’s more than one target, roll randomly to see who the animal tries to bite. Anyone who the alligator successfully grabs is automatically pulled down into the water below unless he’s strong enough to hold his footing (the alligator weighs 500 pounds). If reduced to 7 hit points or less, the alligator retreats into the water to hide.
+STATISTICS
+Str 19, Dex 12, Con 17, Int 1, Wis 12, Cha 2
+Base Atk +2; CMB +6 (+10 grapple); CMD 17 (21 vs trip)
+Feats Skill Focus (Perception), Skill Focus (Stealth)
+Skills Perception +8, Stealth +9 (+17 in water); Racial Modifiers +8 Stealth in water, +8 Swim
+Languages none
+SQ hold breath
+SPECIAL ABILITIES
+Death Roll (Ex)
+When grappling a foe of its size or smaller, an alligator can perform a death roll upon making a successful grapple check. As it clings to its foe, it tucks in its legs and rolls rapidly, twisting and wrenching its victim. The alligator inflicts its bite damage and knocks the creature prone. If successful, the crocodile maintains its grapple.
+Sprint (Ex)
+Once per minute an alligator may sprint, increasing its land speed to 40 feet for 1 round.

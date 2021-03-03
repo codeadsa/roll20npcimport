@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/psychopomp/psychopomp-shoki
+Shoki Psychopomp CR 9
+XP 6,400
+N Medium outsider (extraplanar, psychopomp)
+Init +4; Senses darkvision 60 ft., detect chaos, detect evil, detect good, detect law, detect magic, low-light vision, spiritsense; Perception +22
+DEFENSE
+AC 25, touch 15, flat-footed 20 (+4 Dex, +1 dodge, +10 natural)
+hp 115 (10d10+60)
+Fort +9, Ref +11, Will +14
+DR 10/adamantine; Immune acid, charm, cold, death effects, disease, fear, poison, sleep; Resist electricity 10; SR 20
+OFFENSE
+Speed 30 ft.
+Melee +2 cold iron quarterstaff +19/+14 (1d6+12) Special Attack soul lock
+Spell-Like Abilities (CL 9th; concentration +12)
+Constant—detect chaos, detect evil, detect good, detect law, detect magic
+At will—etherealness, invisibility (self only), mass cure moderate wounds (DC 19, harm undead only), protection from evil, protection from good, searing light
+1/day—plane shift (self only)
+STATISTICS
+Str 24, Dex 19, Con 22, Int 18, Wis 21, Cha 17
+Base Atk +10; CMB +17; CMD 32
+Feats Alertness, Combat Casting, Dodge, Iron Will, Persuasive
+Skills Bluff +16, Diplomacy +20, Intimidate +20, Knowledge (arcana, planes) +17, Knowledge (religion) +14, Perception +22, Sense Motive +22, Spellcraft +17, Stealth +17
+Languages Abyssal, Celestial, Common, Infernal
+SQ spirit touch
+SPECIAL ABILITIES
+Soul Lock (Su) Once per day as a standard action, a shoki can use its +2 cold iron quarterstaff to capture the soul of a creature at the threshold of death—any undead creature or any living being with 0 or fewer hit points. The target must succeed at a DC 20 Will save or be slain (if living) or disrupted (if undead), its spirit locked within the shoki’s staff. A corporeal undead transforms into a corpse if affected by this ability, while an incorporeal undead is trapped bodily within the staff (this ability negates a ghost’s ability to rejuvenate). A spirit trapped within a shoki’s staff cannot be returned to life through any means short of miracle, true resurrection, or wish. A trapped soul can be freed if the shoki wills it, or by casting banishment, dismissal, or freedom upon the staff. The trapped soul can also be freed by destroying the staff. A shoki’s staff can contain only one soul at a time. The save DC is Wisdom-based.

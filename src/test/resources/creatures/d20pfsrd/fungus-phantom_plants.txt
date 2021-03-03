@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/fungus-phantom
+Phantom Fungus CR 3
+XP 800
+N Medium plant
+Init +0; Senses blindsight 30 ft., low-light vision, tremorsense 60 ft.; Perception +10
+DEFENSE
+AC 15, touch 10, flat-footed 15 (+5 natural)
+hp 30 (4d8+12)
+Fort +7, Ref +1, Will +1
+Defensive Abilities phantom flesh; Immune plant traits
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee bite +5 (2d6+3)
+STATISTICS
+Str 15, Dex 10, Con 16, Int 2, Wis 11, Cha 9
+Base Atk +3; CMB +5; CMD 15 (17 vs. trip)
+Feats Skill Focus (Perception), Skill Focus (Stealth)
+Skills Climb +10, Perception +10, Stealth +7; Racial Modifiers +4 Stealth
+SPECIAL ABILITIES
+Phantom Flesh (Su) As a move action, a phantom fungus can turn invisible as if using greater invisibility (caster level 4th). A moment after it attacks with invisibility, the creature appears briefly as a semi-transparent version of its normal self. This allows any viewer with line of sight to the phantom fungus to pinpoint its location at the time of the attack (though if the creature moves after it attacks, opponents have to pinpoint it again). An opponent can ready an action to strike at the fungus when it momentarily appears, in which case the creature only has concealment instead of invisibility (20% miss chance). The fungus can turn completely visible as a move action, though it normally remains invisible all the time. If killed while invisible, it becomes visible 1d4 minutes later.

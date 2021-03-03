@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/allosaurus
+Allosaurus CR 7
+XP 3,200
+N Huge animal
+Init +5; Senses low-light vision, scent; Perception +28
+DEFENSE
+AC 19, touch 9, flat-footed 18 (+1 Dex, +10 natural, –2 size)
+hp 93 (11d8+44)
+Fort +11, Ref +8, Will +7
+OFFENSE
+Speed 50 ft.
+Melee bite +14 (2d6+8/19–20 plus grab), 2 claws +14 (1d8+8)
+Space 15 ft.; Reach 15 ft.
+Special Attacks pounce, rake (2 talons +14, 1d8+8)
+STATISTICS
+Str 26, Dex 13, Con 19, Int 2, Wis 15, Cha 10
+Base Atk +8; CMB +18; CMD 29
+Feats Alertness, Improved Critical (bite), Improved Initiative, Iron Will, Nimble Moves, Run
+Skills Perception +30; Racial Modifiers +8 Perception
+

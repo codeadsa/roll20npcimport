@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/salamander/salamander-flamebrother
+Flamebrother Salamander CR 3
+XP 800
+CE Small outsider (extraplanar, fire)
+Init +2; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 20, touch 13, flat-footed 18 (+2 Dex, +7 natural, +1 size)
+hp 25 (3d10+9)
+Fort +6, Ref +5, Will +5
+Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 20 ft.
+Melee spear +5 (1d6+1/x3 plus 1d6 fire), tail slap +0 (1d8 plus 1d6 fire)
+Special Attacks constrict (1d8+1 plus 1d6 fire), heat
+STATISTICS
+Str 12, Dex 15, Con 16, Int 14, Wis 15, Cha 13
+Base Atk +3; CMB +3 (+7 to grapple); CMD 15 (can’t be tripped)
+Feats Iron Will, Skill Focus (Perception)
+Skills Acrobatics +8, Bluff +7, Craft (weaponsmithing) +12, Intimidate +7, Knowledge (planes) +8, Perception +11, Sense Motive +8, Stealth +12; Racial Modifiers +4 Craft (armorsmithing, blacksmithing, and weaponsmithing)
+Languages Common, Ignan
+SPECIAL ABILITIES
+Heat (Ex) A salamander generates so much heat that its mere touch deals an additional 1d6 points of fire damage. A salamander’s metallic weapons also conduct this heat.

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/thunder-beast
+Thunder Beast CR 5
+XP 1,600
+N Huge magical beast
+Init +0; Senses darkvision 60 ft., low-light vision, scent; Perception +13
+DEFENSE
+AC 14, touch 8, flat-footed 14 (+6 natural, -2 size)
+hp 69 (6d10+30 plus 6)
+Fort +10, Ref +5, Will +3
+OFFENSE
+Speed 30 ft.
+Melee bite +14 (2d6+15)
+Space 15 ft.; Reach 10 ft.
+Special Attacks breath weapon (20 ft. cone, sickened, Fort DC 18 resists), trample (2d6+15, DC 23)
+STATISTICS
+Str 30, Dex 10, Con 21, Int 2, Wis 13, Cha 7
+Base Atk +6; CMB +18; CMD 28 (36 vs trip)
+Feats Power Attack, Toughness, Vital Strike
+Skills Perception +13
+SPECIAL ABILITIES
+Breath Weapon (Ex) Every 1d4 rounds as a swift action, a thunder beast can exhale a cloud of poisonous gas in a 20-foot cone. Living creatures in the area must succeed on a DC 18 Fortitude save or sickened every round they remain in the area and for one round after leaving the area. The save DC is Constitution-based. The cloud lasts 1d4 rounds before dispersing. A strong wind (21+ mph) disperses the cloud in 1 round.

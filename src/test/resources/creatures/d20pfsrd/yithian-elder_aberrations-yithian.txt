@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/yithian/yithian-elder
+Yithian Elder CR 13
+XP 25,600
+LN Large aberration
+Init +3; Senses all-around vision, blindsense 60 ft., darkvision 60 ft.; Perception +32
+DEFENSE
+AC 27, touch 12, flat-footed 24 (+3 Dex, +15 natural, –1 size)
+hp 180 (19d8+95); fast healing 5
+Fort +13, Ref +9, Will +19
+DR 10/magic; Resist acid 10, cold 10, fire 10
+OFFENSE
+Speed 20 ft., climb 10 ft.
+Melee 2 pincers +21 (2d8+12/×3)
+Ranged lightning gun +16 touch (10d12 electricity)
+Space 10 ft.; Reach 10 ft.
+Special Attacks amnesia, deadly pincers
+Psychic Magic (CL 19th; concentration +27)
+22 PE—hypercognition (2 PE), intellect fortress III (6 PE), major mind swap (9 PE, DC 29), mental barrier V (6 PE), mind probe (4 PE, DC 24), remote viewing (5 PE), thought shield V (6 PE)
+Spell-Like Abilities (CL 19th; concentration +27)
+At will—astral projection (self only), detect thoughts (DC 18), hold monster (DC 21), modify memory (DC 21)
+STATISTICS
+Str 26, Dex 17, Con 21, Int 28, Wis 23, Cha 22
+Base Atk +14; CMB +23; CMD 36
+Feats Alertness, Combat Expertise, Great Fortitude, Improved Great Fortitude, Improved Iron Will, Iron Will, Spell Focus (abjuration, divination, enchantment), Vital Strike
+Skills Climb +16, Craft (sculpture) +26, Diplomacy +25, Heal +25, Knowledge (arcana, dungeoneering, engineering, geography, history, planes) +31, Linguistics +28, Perception +32, Sense Motive +29, Use Magic Device +25
+Languages Aklo, Common, Yithian, 26 other languages, telepathy 100 ft.
+SQ mental projection
+SPECIAL ABILITIES
+Amnesia (Su) Once per day as a standard action, a yithian elder can attempt to inflict amnesia on a target it can communicate with telepathically. The target can resist this attack with a successful DC 25 Will saving throw. On a failed save, the target takes a permanent –4 penalty on Will saving throws and skill checks, and loses all memories save for those the yithian chooses to leave intact. This effect can be cured by heal, greater restoration, or psychic surgery. This is a mind-affecting insanity effect. The save DC is Charisma-based.
+Deadly Pincers (Ex) A yithian elder always applies 1-1/2 times its Strength modifier to damage dealt by its pincer attacks and deals triple damage on a critical hit.
+Mental Projection (Su) A yithian elder can cast major mind swap on creatures in other times and places, even if the target creature is of a different race. Before using this ability, it must first spend a week building a special device—a collection of reflective surfaces held in position with a lattice of rods— and succeed at a DC 35 Craft (sculpture) check. A yithian elder can usually gather the necessary materials with ease. This device serves as a focus in place of the spell’s normal material component.
+The yithian elder can focus on its device once per day, selecting a specific location and era before entering a trance and sending its mind through time. It can use detect thoughts to locate the minds of sentient creatures in this targeted time and place. Contacted creatures have a vague sense of an otherworldly presence in their minds, even if they succeed at the Will save, but don’t know its source. If the yithian elder successfully detects a sentient mind and finds it acceptable, it can target that creature with major mind swap. The target falls unconscious for 2d12 hours as both minds transition through space and time to their new bodies. A successful DC 29 Will saving throw prevents this unconsciousness and exchange.
+Unless the yithian elder has swapped minds with another yithian, both creatures are initially unfamiliar with the bodies they inhabit. For the first 24 hours after regaining consciousness, both take a –4 penalty on attack rolls, damage rolls and all Strength– and Dexterity-based skill checks. The mental faculties of both creatures remain intact, but the yithian elder takes a –4 penalty on Charisma-based skill checks when interacting with members of its new body’s race.
+To reverse the process, the yithian elder must use its new body to create another mirror-and-rod device and return its mind to its own body. The other mind receives a new saving throw to resist the process. If either the yithian elder’s body or that of its host is slain while the minds are swapped, the surviving mind remains trapped in its current body.
+Scholar (Ex) Yithian elders treat all knowledge skills as class skills.

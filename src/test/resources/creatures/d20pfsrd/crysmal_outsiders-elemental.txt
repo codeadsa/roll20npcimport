@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/crysmal
+Crysmal CR 3
+XP 800
+N Small outsider (earth, elemental)
+Init +2; Senses darkvision 60 ft., crystal sense; Perception +11
+DEFENSE
+AC 17, touch 13, flat-footed 15 (+2 Dex, +4 natural, +1 size)
+hp 26 (4d10+4)
+Fort +7, Ref +8, Will +2
+DR 5/bludgeoning; Immune cold, fire, elemental traits; Resist electricity 10
+OFFENSE
+Speed 30 ft., burrow 20 ft.
+Melee sting +7 (2d6+3)
+Special Attacks shard spike +7 (3d6, range increment 60 ft.)
+Spell-Like Abilities (CL 4th; concentration +6)
+At will—detect magic, ghost sound (DC 12), mage hand, silent image (DC 13)
+3/day—dimension door, sanctuary (DC 13), touch of idiocy (DC 14)
+STATISTICS
+Str 15, Dex 14, Con 13, Int 6, Wis 13, Cha 14
+Base Atk +4; CMB +5; CMD 17 (29 vs. trip)
+Feats Great FortitudeB, Lightning Reflexes, Skill Focus (Perception)
+Skills Acrobatics +9, Climb +9, Perception +11, Stealth +13 (+15 in rocky areas); Racial Modifiers +2 Stealth in rocky areas
+Languages Terran
+SPECIAL ABILITIES
+Crystal Sense (Sp) Crysmals can sense the presence of any crystals or gems within 30 feet as if using the scent ability.
+Shard Spike (Ex) Once per day, a crysmal can launch its tail spike as a ranged attack that shatters when it hits, dealing 3d6 points of piercing damage to the target and 1d4 points of piercing damage to all creatures in adjacent squares. The spike regrows in 24 hours, but until it does, its impaired sting does only 1d6+3 damage.

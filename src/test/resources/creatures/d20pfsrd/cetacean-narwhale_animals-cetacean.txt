@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/cetacean/cetacean-narwhale
+Narwhal CR 3
+XP 800
+N Large animal
+Init +3; Senses blindsight 120 ft., low-light vision; Perception +12
+DEFENSE
+AC 16, touch 12, flat-footed 13 (+3 Dex, +4 natural, –1 size)
+hp 30 (4d8+12)
+Fort +6, Ref +7, Will +3
+OFFENSE
+Speed swim 80 ft.
+Melee bite +7 (1d8+7)
+Space 10 ft.; Reach 10 ft.
+Special Attacks tusk
+STATISTICS
+Str 21, Dex 17, Con 14, Int 2, Wis 15, Cha 6
+Base Atk +3; CMB +9; CMD 22 (can’t be tripped)
+Feats Skill Focus (Swim), Toughness
+Skills Perception +12, Swim +20; Racial Modifiers +4 Perception
+SQ hold breath
+SPECIAL ABILITIES
+Hold Breath (Ex) Narwhals are expert deep divers, and a narwhal can hold its breath a number of minutes equal to 2 times its Constitution score.
+Tusk (Ex) A charging narwhal can make a single gore attack with its tusk in place of its normal bite attack. If it hits, the tusk deals 2d6+14 points of damage with a ×3 critical multiplier.

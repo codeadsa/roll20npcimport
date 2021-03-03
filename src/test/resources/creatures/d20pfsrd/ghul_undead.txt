@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghul
+Ghul CR 5
+XP 1,600
+CE Medium undead (shapechanger)
+Init +2; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 51 (6d8+24)
+Fort +8, Ref +4, Will +7
+DR 5/good; Immune undead traits; Resist fire 10
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +10 (1d6+6), 2 claws +10 (1d4+6 plus bleed)
+Special Attacks bleed (1), cursed claws, rend (1d6+6)
+STATISTICS
+Str 22, Dex 15, Con —, Int 14, Wis 15, Cha 18
+Base Atk +4; CMB +10; CMD 22
+Feats Great Fortitude, Power Attack, Step Up
+Skills Bluff +10, Climb +18, Diplomacy +7, Disguise +11, Intimidate +11, Perception +15, Stealth +11, Survival +8 (+16 when following tracks); Racial Modifiers +4 Perception, +8 Survival when following tracks
+Languages Common, one elemental language (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal)
+SQ change shape (hyena; does not detect as undead in this form; beast shape I), genie-kin
+SPECIAL ABILITIES
+Cursed Claws (Ex) A ghul’s claws count as both cold iron and magic for the purpose of bypassing damage reduction.
+Genie-kin (Ex) For all race-related effects (such as a ranger’s favored enemy), a ghul is considered a genie even though its type is undead.

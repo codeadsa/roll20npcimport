@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-baphomet
+Baphomet CR 27
+XP 3,276,800
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +23; Senses darkvision 60 ft., detect good, detect law, see in darkness, true seeing; Perception +53
+Aura frightful presence (180 ft., DC 38), unholy aura (DC 30)
+DEFENSE
+AC 45, touch 34, flat-footed 45 (+4 deflection, +11 Dex, +11 natural, +10 profane, –1 size)
+hp 643 (33d10+462)
+Fort +36, Ref +26, Will +31
+Defensive Abilities Abyssal resurrection, freedom of movement, supernatural cunning; DR 20/cold iron, epic, and good; Immune ability damage, ability drain, charm and compulsion effects, death effects, electricity, energy drain, fire, maze, petrification, poison; Resist acid 30, cold 30; SR 38
+OFFENSE
+Speed 50 ft., fly 50 ft. (good)
+Melee Labyrinth’s Final Edge (glaive) +52/+47/+42/+37 (2d8+28/19–20/×3), gore +40 (2d8+6 plus 2d6 fire plus burn), bite +40 (1d8+6)
+Space 10 ft.; Reach 10 ft. (20 ft. with glaive)
+Special Attacks burn (4d6 fire, DC 40), glaive mastery, powerful charge (gore, 4d8+19 plus 2d6 fire and burn), scroll use
+Spell-Like Abilities (CL 27th)
+Constant— detect good, detect law, freedom of movement, speak with animals, true seeing, unholy aura (DC 30)
+At will— astral projection, baleful polymorph (DC 27), blasphemy (DC 29), desecrate, dominate person (DC 27), greater dispel magic, greater teleport, telekinesis (DC 27), shapechange, unhallow, unholy blight (DC 26)
+3/day— quickened greater dispel magic, maze, summon demons, summon minotaurs, symbol of persuasion (DC 28)
+1/day— imprisonment (DC 31), mass charm monster (DC 30), time stop STATISTICS
+Str 36, Dex 32, Con 38, Int 37, Wis 29, Cha 35
+Base Atk +33; CMB +47 (+51 bull rush); CMD 82 (84 vs. bull rush)
+Feats Combat Reflexes, Craft Construct, Craft Magic Arms and Armor, Craft Wondrous Item, Critical Focus, Greater Bull Rush, Greater Weapon Focus (glaive), Greater Weapon Specialization (glaive), Improved Bull Rush, Improved Critical (glaive), Improved Initiative, Power Attack, Quicken Spell-Like Ability (greater dispel magic), Scribe Scroll, Staggering Critical, Weapon Focus (glaive), Weapon Specialization (glaive)
+Skills Acrobatics +44, Bluff +48, Diplomacy +48, Fly +49, Handle Animal +45, Intimidate +45, Knowledge (arcana) +49, Knowledge (dungeoneering) +46, Knowledge (geography) +46, Knowledge (history) +46, Knowledge (nobility) +46, Knowledge (planes) +49, Knowledge (religion) +49, Linguistics +46, Perception +53, Sense Motive +45, Spellcraft +49, Stealth +43, Use Magic Device +45; Racial Modifiers +8 Perception
+Languages all languages; speak with animals; telepathy 300 ft.
+SQ change shape (any animal, magical beast, or minotaur; greater polymorph), infernal brand, language mastery
+SPECIAL ABILITIES
+Labyrinth’s Final Edge is a uniquely shaped glaive, the head of which consists of a double blade akin to a crescent moon. This blade is made of ivory, but is razor sharp and as hard as adamantine (and possesses all the qualities of that material). It is a +5 lawful–outsider–bane unholy wounding glaive capable of inflicting particularly horrible and painful wounds on good-aligned targets and devils alike. Such a creature must succeed at a DC 38 Fortitude save each time it’s wounded by the glaive or be sickened with pain for as long as the damage caused by the wound persists. Whether the save succeeds or fails, these wounds don’t heal naturally and resist magical healing. A character attempting to heal these wounds must succeed at a DC 32 caster level check or the healing has no effect on the injured creature.
+Glaive Mastery (Ex) Baphomet is exceptionally skilled at fighting with a glaive. He is treated as a 20th-level fighter for the purposes of fulfilling any feat prerequisites, such as that for Weapon Specialization.
+Infernal Brand (Su) The mark of Asmodeus is branded on Baphomet’s brow, yet this is no mark of fealty or servitude.
+Rather, Baphomet has claimed the pentagram—a remnant of the time he spend as the archdevil’s prisoner—and now draws power from it. The brand grants him his devil-like abilities of fire immunity and see in darkness. In addition, all devils and worshipers of devils take a –2 penalty on saving throws against Baphomet’s special attacks and spell-like abilities.
+He gains a +4 bonus on caster level checks to penetrate a devil’s spell resistance, and automatically penetrates a devil’s damage reduction with his glaive and natural attacks.
+Language Mastery (Ex) Baphomet can speak, read, and understand all languages.
+Scroll Use (Ex) Baphomet can cast spells from any scroll as if he possessed the spell on a spell list. Spells he casts from scrolls always resolve at caster level 27th.
+Summon Minotaurs (Sp) Baphomet can summon half-fiend minotaurs, labyrinth minotaurs, and Mythic minotaurs as if casting a summon monster spell. He can summon eight half-fiend minotaurs three times per day, and four Mythic minotaurs or one labyrinth minotaur once per day. This ability functions as a swift action, but otherwise works like the summon universal monster rule with 100% chance of success and counts as a 9th-level spell effect.
+Supernatural Cunning (Su) Baphomet is never caught flatfooted and gains a +8 bonus on initiative checks. In addition, he’s immune to maze spells and can never become lost. He always knows the shortest, most direct route through any maze. After spending 1 minute in any maze, he understands its entire layout implicitly and can teleport to any location using his greater teleport spell-like ability.

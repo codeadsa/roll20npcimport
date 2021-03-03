@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-painajai
+Painajai CR 14
+XP 38,400
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +7; Senses darkvision 60 ft., true seeing; Perception +21; Aura mental static (DC 21)
+DEFENSE
+AC 28, touch 12, flat-footed 25 (+3 Dex, +16 natural, –1 size)
+hp 203 (14d10+126)
+Fort +18, Ref +12, Will +10
+DR 10/good; Immune electricity, poison, sleep; Resist acid 10, cold 10, fire 10; SR 25
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee +1 cold iron spear +23/+18/+13 (2d6+13/19–20/×3), bite +16 (1d8+4) or bite +21 (1d8+12)
+Ranged +1 cold iron spear +18 (2d6+9/19–20/×3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks chain-spear
+Psychic Magic (CL 14th; concentration +18)
+25 PE—cognitive block (3 PE, DC 17), confusion (4 PE, DC 18), fear (4 PE, DC 18), greater oneiric horror (4 PE, DC 18), hungry pit (5 PE, DC 19), mental barrier II (3 PE), mirage arcana (5 PE, DC 19), nightmare (5 PE, DC 19), phantasmal killer (4 PE, DC 18), synaptic pulse (3 PE, DC 17)
+Spell-Like Abilities (CL 14th; concentration +18)
+Constant—true seeing
+1/day—summon (level 6, 1 painajai 35%)
+STATISTICS
+Str 27, Dex 16, Con 29, Int 18, Wis 18, Cha 19
+Base Atk +14; CMB +23; CMD 36
+Feats Combat Reflexes, Improved Critical (spear), Improved Initiative, Improved Vital Strike, Iron Will, Vital Strike, Weapon Focus (spear)
+Skills Acrobatics +20 (+24 when jumping), Bluff +21, Climb +33, Intimidate +21, Knowledge (local) +18, Knowledge (nature) +18, Knowledge (planes) +21, Perception +21, Stealth +16, Survival +21
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SQ dreamwalker
+SPECIAL ABILITIES
+Chain-Spear (Ex) A painajai can hurl its spear at a target within 50 feet with no range penalty. If the attack hits, the painajai can immediately yank the chain to attempt a reposition or trip combat maneuver check against the target. The painajai is considered to have the Improved Reposition and Improved Trip feats when performing these maneuvers with its spear only. A reposition combat maneuver performed in this way can only move the target closer to the painajai. The painajai can recover its spear as a swift action.
+Dreamwalker (Su) A painajai can travel between the Abyss and the Dimension of Dreams at will, as per dream travel, except that it cannot enter any other planes or take other creatures with it.

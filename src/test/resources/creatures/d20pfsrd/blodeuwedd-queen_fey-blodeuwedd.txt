@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/blodeuwedd/blodeuwedd-queen
+Blodeuwedd queen CR 8
+XP 4,800
+CN Medium fey
+Init +10; Senses low-light vision; Perception +15; Aura allergen (DC 22, 1d6 rounds)
+DEFENSE
+AC 23, touch 17, flat-footed 16 (+6 Dex, +1 dodge, +6 natural)
+hp 103 (9d6+72)
+Fort +11, Ref +12, Will +11
+DR 5/cold iron
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +8 (1d8+4)
+Ranged mwk sling +9 (1d4+4)
+Spell-Like Abilities (CL 11th; concentration +21)
+Always active—endure elements, nondetection;
+Constant—speak with plants
+At will— create water, dancing lights, detect animals or plants, entangle (DC 18), plant growth, whispering wind
+3/day—command plants, deep slumber (DC 20), modify memory (DC 21), move earth, spike growth (DC 20), summon nature’s ally IV;
+1/day—fire seeds, goodberry, hallucinatory terrain (DC 21), lesser geas (DC 20), plant shape II.
+STATISTICS
+Str 22, Dex 22, Con 27, Int 14, Wis 17, Cha 24
+Base Atk +4; CMB +10; CMD 27
+Feats Combat Casting, Improved Initiative, Iron Will, Dodge, Mobility
+Skills Diplomacy +19, Escape Artist +13, Handle Animal +12, Heal +9, Knowledge (nature) +14, Perception +15, Perform (wind) +16, Sense Motive +15, Stealth +18 (+22 in grasslands), Survival +15; Racial Modifiers +4 Stealth in grasslands Languages Aklo, Common, Sylvan
+SQ change shape, verdant step, wild empathy +13
+SPECIAL ABILITIES
+Allergen Aura (Ex) A blodeuwedd queen exudes an aura of pollen and other irritating allergens that forces living creatures within 30 feet to make a DC 22 Fortitude save or become sickened, coughing and sneezing for 1d6 rounds. Creatures who successfully save cannot be affected by the same blodeuwedd’s aura for 24 hours. A blodeuwedd can suppress this aura at Will as a free action. The save DC is Constitution-based.
+Change Shape (Su) A blodeuwedd can assume a single unique humanoid shape or the form of a prairie owl once per day for up to 7 hours as if using the spell polymorph. These hours do not need to be consecutive and a blodeuwedd can return to her normal shape as a free action.
+Nature’s Infusion (Su) Once per day, while surrounded by any field or fertile plain, a blodeuwedd may infuse herself with borrowed life energy from nearby plants and nutrients in the ground. This ability functions exactly like false life (CL 11th) but lasts only 1 hour.
+Verdant Step (Su) Every stride taken by a blodeuwedd causes small plants, grasses, and wildflowers to sprout from the ground, though she can suppress this effect if she desires. While within a plain of tall grass, brush, or similar undergrowth, a blodeuwedd may also step through such plant-life and emerge at any other point within the same field (potentially miles away). This ability functions similar to transport via plants, but a blodeuwedd can only transport herself and does not require a plant equal to her size. This ability is usable three times per day.
+Wild Empathy (Ex) This works like the druid’s wild empathy class feature, except a blodeuwedd queen has a +6 racial bonus on the check. A blodeuwedd queen with druid levels adds this racial modifier to her wild empathy checks.

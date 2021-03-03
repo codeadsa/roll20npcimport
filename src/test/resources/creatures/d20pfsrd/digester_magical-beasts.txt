@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/digester
+Digester CR 6
+XP 2,400
+N Medium magical beast
+Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception +10
+DEFENSE
+AC 18, touch 13, flat-footed 15 (+2 Dex, +1 dodge, +5 natural)
+hp 68 (8d10+24)
+Fort +9, Ref +10, Will +3
+Immune acid
+OFFENSE
+Speed 60 ft.
+Melee claw +11 (1d8+4)
+Special Attacks acid spray
+STATISTICS
+Str 17, Dex 15, Con 17, Int 2, Wis 12, Cha 10
+Base Atk +8; CMB +11; CMD 24
+Feats Alertness, Dodge, Improved Initiative, Lightning Reflexes
+Skills Acrobatics +6 (+10 jumping)*, Perception +10, Sense Motive +3, Stealth* +13; Racial Modifiers +4 to Acrobatics when jumping, +4 to Stealth
+
+SPECIAL ABILITIES
+Acid Spray (Ex) A digester can spray acid in a 20-foot cone, dealing 4d8 points of damage to everything in that area. The digester can also choose to deliver a concentrated stream of acid that deals 8d8 points of damage against a single target within 5 feet. A DC 17 Reflex save halves the damage for both the cone and the stream. A digester may only use this ability once every 1d4 rounds. The save DC is Constitution-based.

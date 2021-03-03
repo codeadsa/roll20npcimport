@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/wizard-s-shackle/
+Wizard’s Shackle CR 1/2
+XP 200
+N Tiny aberration (aquatic)
+Init +0; Senses arcane sight, blindsight 60 ft.; Perception +6
+DEFENSE
+AC 12, touch 12, flat-footed 12 (+2 size)
+hp 9 (2d8)
+Fort +0, Ref +0, Will +4
+Defensive Abilities host buffer; Immune disease, mind-affecting effects, poison; SR 11
+OFFENSE
+Speed 5 ft., swim 30 ft.
+Melee bite +3 (1d4–3 plus attach and 1d3 Wisdom damage)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks puppet master
+Spell-Like Abilities (CL 5th; concentration +1)
+Constant—arcane sight
+STATISTICS
+Str 4, Dex 11, Con 11, Int 12, Wis 13, Cha 2
+Base Atk +1; CMB –1 (+7 grapple); CMD 6 (14 vs. grapple, can’t be tripped)
+Feats Weapon Finesse
+Skills Climb +2, Knowledge (arcana) +6, Perception +6, Stealth +13, Swim +10
+Languages Aklo (can’t speak); telepathy 10 ft.
+SQ amphibious, compression
+SPECIAL ABILITIES
+Host Buffer (Ex) A wizard’s shackle that has dominated a host uses the host’s saving throws if they are better than the wizard’s shackle’s saving throws.
+Puppet Master (Su) If a wizard’s shackle attaches to a creature that can cast spells or use spell-like abilities, the target creature must succeed at a DC 14 Will save or become dominated (as per dominate monster). The domination lasts as long as the wizard’s shackle remains in contact with the victim. If the target would receive a new save against the effect (as described in the spell), a successful save allows it to avoid taking the action, but doesn’t end the domination. The save DC is Intelligencebased and includes a +2 racial bonus.
+Tenacious Grip (Ex) A wizard’s shackle gains a +8 bonus on combat maneuver checks to grapple and to CMD against grapple combat maneuvers.

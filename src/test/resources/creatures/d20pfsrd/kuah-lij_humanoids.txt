@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/kuah-lij
+Kuah-Lij CR 1/3
+XP 135
+Kuah-lij warrior 1
+LN Medium humanoid (kuah-lij)
+Init +1; Senses low-light vision; Perception +2
+DEFENSE
+AC 11, touch 11, flat-footed 10 (+1 Dex)
+hp 7 (1d10+2)
+Fort +4, Ref +1, Will +1
+OFFENSE
+Speed 30 ft.
+Melee dagger +0 (1d4-1/19-20)
+Ranged light crossbow +2 (1d8/19-20)
+STATISTICS
+Str 8, Dex 13, Con 14, Int 17, Wis 13, Cha 8
+Base Atk +1; CMB +0; CMD 10
+Feats Master Craftsman (any craft), Skill Focus (any craft)
+Skills Craft (any one) +14, Knowledge (arcana) +7, Knowledge (any two) +7, Perception +2, Swim +3; Racial Modifiers +2 Craft (any one)
+Languages Aquan, Common, Elven, Gnome, Kuah-Lij
+SQ gifted craftsman, magic item use
+Gear dagger, light crossbow, 20 crossbow bolts
+SPECIAL ABILITIES
+Gifted Craftsmen (Ex) Due to their skill at crafting items of all kinds, kuah-lij gain Master Craftsman as a bonus feat even if they do not have the normal prerequisites. In addition, kuah-lij only pay 75% of the total gp cost when creating magic items if they have access to a kuah-lij production facility.
+Magic Item Use (Ex) Kuah-lij can use magic items as if they have 1 level of wizard. This innate ability does not increase with level unless the kuah-lij gains levels in the wizard class.

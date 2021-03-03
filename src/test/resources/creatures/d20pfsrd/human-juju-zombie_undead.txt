@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/human-juju-zombie
+Human Juju zombie CR 2
+XP 600
+Human juju zombie rogue 2
+NE Medium undead (augmented humanoid)
+Init +8; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 18, touch 15, flat-footed 13 (+4 Dex, +1 dodge, +3 natural)
+hp 15 (2d8+3)
+Fort +0, Ref +7, Will +1
+Defensive Abilities channel resistance +4, evasion;
+DR 5/magic and slashing; Immune cold, electricity, magic missile, undead traits; Resist fire 10
+OFFENSE
+Speed 30 ft.
+Melee mwk short sword +6 (1d6+4/19–20) or slam +5 (1d6+6)
+Special Attacks sneak attack +1d6
+STATISTICS
+Str 18, Dex 19, Con —, Int 8, Wis 13, Cha 10
+Base Atk +1; CMB +5; CMD* 19
+Feats Dodge, Improved InitiativeB, ToughnessB, Weapon Finesse
+Skills Acrobatics +8, Climb +16, Disable Device +8, Intimidate +5, Perception +6, Sleight of Hand +9, Stealth +8, Survival +3, Swim +8, Use Magic Device +5; Racial modifiers +8 Climb
+Languages Common
+SQ rogue talents (combat trick), trapfinding +1

@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/frog/frog-giant-dire-tohc
+Giant Dire Frog CR 3
+XP 800
+N Large animal
+Init +6; Senses low-light vision, scent; Perception +6
+DEFENSE
+AC 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, –1 size)
+hp 50 (4d8+28)
+Fort +11; Ref +8; Will +2
+OFFENSE
+Speed 40 ft., swim 40 ft.
+Melee bite +8 (1d8+6 plus grab) or tongue +8 touch (grab)
+Space 10 ft.; Reach 10 ft. (20 ft. with tongue)
+Special Attacks pull (tongue, 10 feet), swallow whole (1d8+6 bludgeoning damage, AC 12, 2 hp), tongue
+STATISTICS
+Str 23, Dex 15, Con 24, Int 1, Wis 12, Cha 10
+Base Atk +3; CMB +10 (+14 grapple); CMD 22 (26 vs. trip)
+Feats Improved Initiative, Lightning Reflexes
+Skills Acrobatics +11 (+15 jumping), Perception +6, Stealth +2, Swim +14; Racial Modifiers +4 Acrobatics (+8 jumping), +4 Stealth

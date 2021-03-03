@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/sea-bonze
+Sea Bonze CR 15
+XP 51,200
+NE Gargantuan undead (aquatic)
+Init +4; Senses blindsight 120 ft.; Perception +33
+DEFENSE
+AC 30, touch 6, flat-footed 30 (+24 natural, -4 size)
+hp 231 (22d8+132)
+Fort +13, Ref +9, Will +19
+DR 10/magic and slashing; Immune cold, electricity, undead traits; Resist acid 10, fire 10
+OFFENSE
+Speed 40 ft., swim 80 ft.
+Melee 2 slams +22 (4d10+15)
+Space 20 ft.; Reach 20 ft.
+Special Attacks capsize (DC 35), dooming gaze (60 ft., DC 27)
+STATISTICS
+Str 30, Dex 11, Con —, Int 13, Wis 18, Cha 23
+Base Atk +16; CMB +30; CMD 40 (can’t be tripped)
+Feats Alertness, Combat Reflexes, Critical Focus, Improved Initiative, Improved Iron Will, Intimidating Prowess, Iron Will, Lightning Reflexes, Power Attack, Stand Still, Vital Strike
+Skills Intimidate +41, Perception +33, Sense Motive +33, Stealth +13, Swim +44; Racial Modifiers +4 Swim
+Languages Aquan, Common
+SPECIAL ABILITIES
+Dooming Gaze (Su) Paralyzed with fear for 1 round, 60 feet, Will DC 27 negates. A creature that is already paralyzed by this gaze attack and fails a saving throw to resist being paralyzed for 1 more round gains 1 negative level (Fortitude DC 27 to remove after 24 hours). The paralysis effect of this gaze is a mind-affecting fear effect, but the negative level is not. The save DC is Charisma-based.

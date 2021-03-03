@@ -1,0 +1,16 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/lemure
+Lemure CR 1
+XP 400
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +0; Senses darkvision 60 ft., see in darkness; Perception +0
+DEFENSE
+AC 14, touch 10, flat-footed 14 (+4 natural)
+hp 13 (2d10+2)
+Fort +4, Ref +3, Will +0
+DR 5/good or silver; Immune fire, mind-affecting effects, poison; Resist acid 10, cold 10
+OFFENSE
+Speed 20 ft.
+Melee 2 claws +2 (1d4)
+STATISTICS
+Str 11, Dex 10, Con 12, Int —, Wis 11, Cha 5
+Base Atk +2; CMB +2; CMD 12

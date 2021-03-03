@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stygian-leviathan-tohc
+Stygian Leviathan CR 21
+XP 409,600
+NE Colossal magical beast (aquatic, extraplanar)
+Init +5; Senses blindsight 120 ft.; Perception +29
+DEFENSE
+AC 28, touch 3, flat-footed 27 (+1 Dex, +25 natural, -8 size)
+hp 522 (36d10+324)
+Fort +31, Ref +23, Will +16
+OFFENSE
+Speed swim 60 ft.
+Melee bite +45 (4d6+24/19-20/x2 plus grab)
+Space 70 ft.; Reach 15 ft.
+Special Attacks capsize, Stygian poisoning, swallow whole (4d6+24 plus 2d6 acid plus Stygian poisoning, AC 22, hp 52)
+TACTICS
+A Stygian leviathan attacks by simply swimming over its foes, opening its mouth, and swallowing them (and perhaps their ship if such a vessel is involved). Swallowed foes are drowned and digested.
+STATISTICS
+Str 43, Dex 13, Con 28, Int 4, Wis 14, Cha 6
+Base Atk +36; CMB +60; CMD 71
+Feats Cleave, Critical Focus, Diehard, Endurance, Great Cleave, Greater Overrun, Great Fortitude, Improved Critical (bite), Improved Initiative, Improved Great Fortitude, Improved Overrun, Improved Sunder, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Perception), Staggering Critical, Weapon Focus (bite)
+Skills Perception +29, Swim +45
+Languages Common (cannot speak)
+SPECIAL ABILITIES
+Capsize (Ex) A Stygian leviathan can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25, or the result of the captain’s Profession (sailor) check, whichever is higher. For each size category the ship is larger than the leviathan’s size, the leviathan takes a cumulative -10 penalty on this CMB check.
+Stygian Poisoning (Su) The Stygian leviathan’s stomach contains large quantities of water from the River Styx. Each round a swallowed opponent must succeed at a DC Swim or the swallowed creature slips underwater. Thereafter they must make a successful DC Fortitude save each round or be affected as by a feeblemind spell.
+Editor’s Note
+The Stygian poisoning ability is missing both its Swim and Fortitude save DC in the source material. GMs are encouraged to use a standard DC of 10+1/2HD+Con modifier or 37 for both.

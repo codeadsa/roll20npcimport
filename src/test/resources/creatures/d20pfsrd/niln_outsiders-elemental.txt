@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/niln
+Niln CR 5
+XP 1,600
+N(E) Medium outsider (air, extraplanar, water)*
+Init +8; Senses darkvision 60ft.; Perception +13
+DEFENSE
+AC 15, touch 14, flat-footed 11 (+4 Dex, +1 natural)
+hp 55 (5d10+10)
+Fort +6, Ref +8, Will +4
+Defensive Abilities elemental traits; DR 5/-
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee slam +9 (2d6+1)
+Special Attacks drench, drowning fog*
+STATISTICS
+Str 12, Dex 19, Con 14, Int 6, Wis 13, Cha 11
+Base Atk +5; CMB +6; CMD 20
+Feats Improved Initiative, Iron Will, Weapon Finesse
+Skills Fly +12, Knowledge (the planes) +6, Perception +13, Stealth +12
+Languages Niln
+SQ vapor form
+SPECIAL ABILITIES
+Drench (Ex) The niln’s touch puts out torches, campfires, exposed lanterns, and other open flames of nonmagical origin if these are of Large size or smaller. The creature can dispel magical fire as dispel magic (caster level equals the niln’s HD).
+Vapor Form (Su) The niln spends the majority of its time in more or less solid form, but it can assume vapor form at will. It can switch forms once per round as a free action and can spend up to 20 rounds per day in vapor form. A niln in vapor form can fly at 60 feet per round (perfect). This ability is otherwise similar to a gaseous form spell (caster level 5th).

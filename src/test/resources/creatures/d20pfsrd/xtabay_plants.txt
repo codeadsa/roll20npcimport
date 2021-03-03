@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/xtabay
+Xtabay CR 1/2
+XP 200
+N Small plant
+Init +1; Senses low-light vision, tremorsense 30 ft.; Perception +1
+DEFENSE
+AC 12, touch 12, flat-footed 10 (+1 Dex, +1 size)
+hp 8 (1d8+4)
+Fort +6, Ref +1, Will +1
+Immune acid, plant traits
+OFFENSE
+Speed 5 ft.
+Melee 2 stings +0 (1d3–1 plus 1d2 acid)
+Special Attacks devour, soporific pollen
+STATISTICS
+Str 8, Dex 13, Con 19, Int —, Wis 12, Cha 11
+Base Atk +0; CMB –2; CMD 9 (can’t be tripped)
+SPECIAL ABILITIES
+Devour (Ex) While a creature is under the effects of a xtabay’s soporific pollen, the plant may, as a full-round action, occupy the same square as the sleeping creature and slowly sap the life from it. Every round the xtabay uses this ability, the affected creature must make a DC 14 Fortitude save or take 1d2 Con damage. This feeding is curiously painless, and normally isn’t enough to waken a foe put to sleep by the plant. Each round this feeding continues, the sleeping victim can attempt a new DC 14 Will save to awaken. This save DC is Constitution-based.
+Soporific Pollen (Ex) As a standard action, a xtabay can release sleep-inducing pollen into the air around it. Each creature within a 10-ft.-radius burst centered on the xtabay must make a DC 14 Will save or fall asleep for 1d3 minutes. A creature that succeeds on the Fortitude save cannot be affected by the same xtabay’s soporific pollen for 24 hours. A creature put to sleep by this pollen can be awakened by vigorously shaking the sleeper (a standard action ) or by damaging it. This is a mind-affecting sleep effect. The save DC is Constitution-based.

@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/first-blade
+The First Blade CR 15
+XP 51,200
+CN Large outsider (chaotic, extraplanar, herald)
+Init +5; Senses darkvision 60 ft., ironsense 60 ft., low-light vision; Perception +23; Aura rage (100 ft.)
+DEFENSE
+AC 30, touch 10, flat-footed 29 (+20 armor, +1 Dex, –1 size)
+hp 261 (18d10+162); regeneration 5 (adamantine)
+Fort +20, Ref +12, Will +8
+Defensive Abilities fortification (75%)B4; DR 15/adamantine and law; Immune magic, poison; Resist cold 10, sonic 10
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +29 (2d10+16/×19–20 plus bleed)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bladed slam, bleed (1d10), powerful blows
+Spell-Like Abilities (CL 18th; concentration +19)
+At will—instant summons (any non-magical weapon)
+3/day—chill metal (DC 13), heat metal (DC 13), repel metal or stone, wall of iron
+1/day—blade barrier (DC 17)
+STATISTICS
+Str 32, Dex 13, Con 28, Int 10, Wis 15, Cha 13
+Base Atk +18; CMB +30 (+32 bull rush or overrun); CMD 41 (43 vs. bull rush or overrun)
+Feats Blind-Fight, Cleave, Combat Reflexes, Great Cleave, Improved Bull Rush, Improved Initiative, Improved Overrun, Power Attack, Weapon Focus (slam)
+Skills Acrobatics +22, Climb +32, Intimidate +22, Knowledge (history) +21, Perception +23, Sense Motive +23
+Languages Abyssal, Celestial, Common, Infernal, Protean
+SQ change shape (swarm form; see below), lord of battle, no breath
+SPECIAL ABILITIES
+Bladed Slam (Ex) The First Blade’s slam attacks deal bludgeoning and slashing damage.
+Its slams count as natural weapons or manufactured weapons (whichever is most beneficial to it) for the purpose of spells that enhance attacks, and as adamantine, chaotic, and magic for the purpose of overcoming damage reduction and bypassing hardness.
+Ironsense (Ex) The First Blade automatically detects iron objects within 60 feet, just as if it possessed the blindsight ability.
+Immunity to Magic (Su) The First Blade has the same immunity to magic as an iron golem. It can lower this resistance for 1 round as a standard action.
+Lord of Battle (Ex) The First Blade is proficient in all weapons, and counts as an 18th-level barbarian and fighter for the purposes of all prerequisites.
+Rage Aura (Su) Willing creatures within 100 feet of the First Blade gain the effects of rage automatically, whether they are allies or enemies of the herald. Those who choose not to be affected are immune to the aura until they leave the area and return.
+Swarm Form (Su) The herald can transform into a floating swarm of Tiny sharp metal fragments. In this form it has the swarm subtype, cannot make slam attacks, gains the distraction ability (DC 28), and can make a swarm attack that deals 4d6 points of slashing damage to its targets.

@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/dream-spectre-nightmare-creature-tohc
+Dream Spectre CR 9
+XP 6,400
+NE Medium outsider (evil, extraplanar, incorporeal)
+Init +8; Senses darkvision 60 ft., dreamsense 100 ft.; Perception +17
+DEFENSE
+AC 19, touch 19, flat-footed 13 (+4 deflection, +4 Dex, +1 dodge)
+hp 67 (9d10+18)
+Fort +5; Ref +10; Will +9
+Defensive Abilities incorporeal
+Weaknesses sunlight powerlessness
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee incorporeal touch +13 (1d4 plus 1d4 Charisma)
+Special Attacks Charisma damage, heart-stopping fear, nightmare, sleep
+TACTICS
+A dream spectre prefers to attack sleeping creatures so it can use its Charisma damaging attack without interruption as well as destroy the target’s dreams with its nightmare ability. A creature that awakens or discovers a dream spectre (such as a sentry or guard) is targeted by its sleep attack. Dream spectres attack with their incorporeal touch in combat.
+STATISTICS
+Str —, Dex 18, Con 15, Int 15, Wis 16, Cha 18
+Base Atk +9; CMB +13; CMD 28 (can’t be tripped)
+Feats Alertness, Blind-Fight, Dodge, Combat Reflexes, Improved Initiative
+Skills Bluff +15, Diplomacy +12, Fly +16, Intimidate +16, Knowledge (any one) +13, Knowledge (planes) +10, Perception +17, Sense Motive +17, Stealth +16, Survival +15
+Languages Common, Dreamspeak
+SPECIAL ABILITIES
+Charisma Damage (Su) Any creature hit by a dream spectre’s incorporeal touch attack takes 1d4 points of Charisma damage. At Charisma 0, the victim falls into a nightmare-filled coma until at least 1 point of Charisma is restored.
+Sunlight Powerlessness (Ex) A dream spectre caught in sunlight cannot attack and is staggered.
+Dreamsense (Su) A dream spectre can automatically pinpoint the presence of dreams within 100 feet. This ability only works against sleeping creatures.
+Heart-Stopping Fear (Su) By revealing its true form to a living creature, a dream spectre instills heart-stopping fear in its foe. A creature viewing the dream spectre must succeed on a DC 18 Will save or suffer a heart attack and be reduced to 0 hit points. On the next round the creature drops to –1 hit point and is dying. Whether or not the save is successful, that creature is immune to the heart-stopping fear attack of that dream spectre for one day. This ability only functions against creatures that are awake. The save DC is Charisma-based.
+Nightmare (Su) As a full-round action, a dream spectre can touch a sleeping creature and warp and twist its dreams into violent, chaotic nightmares. An affected creature must succeed on a DC 18 Will save or be affected as by a nightmare spell. The save DC is Charisma-based.
+Sleep (Su) As a full-round action, a dream spectre can induce sleep in a single creature it touches with its incorporeal touch attack. An affected creature must succeed on a DC 18 Will save or fall asleep for 1 minute. The save DC is Charisma-based.

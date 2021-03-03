@@ -1,0 +1,42 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sky/sky-dragon-wyrm-tohc
+Wyrm Sky Dragon CR 19
+XP 204,800
+LG Gargantuan dragon (air)
+Init +2; Senses dragon senses; Perception +42 ; Aura frightful presence (330 ft., DC 30)
+DEFENSE
+AC 40, touch 4, flat-footed 40 (-2 Dex, +36 natural, -4 size)
+hp 379 (26d12+182)
+Fort +22, Ref +15, Will +24
+DR 20/magic; Immune electricity, paralysis, sleep; SR 30
+OFFENSE
+Speed 40 ft., fly 250 ft. (perfect)
+Melee bite +36 (4d6+19/19-20), 2 claws +35 (2d8+13), gore +35 (2d8+19), tail slap +33 (2d8+19)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite and gore)
+Special Attacks breath weapon (60-ft. cone, 22d8 electricity, DC 30) crush (DC 30; 4d6+19), grounding breath, primal lightning, tail sweep (DC 30; 2d6+19),
+Spell-Like Abilities (CL 25th; concentration +32)
+At will—call lightning storm (DC 21), control winds (DC 21), detect evil, feather fall, gust of wind (DC 18)
+Spells Known (caster level 17th; concentration +24)
+8th (4/day)—maze (DC 25), moment of prescience
+7th (7/day)—caustic eruption (DC 24), forcecage (DC 24), mass hold person (DC 24)
+6th (7/day)—acid fog, chain lightning (DC 23), legend lore
+5th (7/day)—break enchantment, cloudkill (DC 22), lightning arc (DC 22), teleport
+4th (7/day)—dimension door, greater invisibility, ice storm, rainbow pattern (DC 21)
+3rd (8/day)—blink, lightning bolt (DC 20), sleet storm (DC 20), wind wall
+2nd (8/day)—daze monster (DC 19), fog cloud, glitterdust (DC 19), invisibility, resist energy
+1st (8/day)—endure elements, expeditious retreat, magic missile, obscuring mist, shocking grasp
+0 (at will)—dancing lights, daze (DC 17), detect magic, disrupt undead, mage hand, mending, message, ray of frost, read magic
+STATISTICS
+Str 37, Dex 6, Con 25, Int 24, Wis 25, Cha 24
+Base Atk +26; CMB +43; CMD 51 (55 vs. trip)
+Feats Flyby Attack, Hover, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Lunge, Multiattack, Skill Focus (Perception), Snatch, Toughness, Vital Strike, Weapon Focus (bite)
+Skills Acrobatics +24 (+28 when jumping), Appraise +36, Diplomacy +36, Fly +29, Heal +36, Knowledge (arcana) +36, Knowledge (geography) +36, Knowledge (planes) +36, Knowledge (religion) +36, Perception +42, Perform (sing) +33, Sense Motive +36, Spellcraft +36
+Languages Auran, Celestial, Common, Draconic, Elven, Gnome, Infernal, Sylvan
+SQ borne aloft, change shape
+SPECIAL ABILITIES
+Borne Aloft (Su) Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.
+Change Shape (Su) A young or older sky dragon can assume any humanoid form three times per day as if using polymorph.
+Cloud Sight (Su) A very young or older sky dragon’s sight is not impeded by clouds or fog, or by spells that create areas of fog.
+Grounding Breath (Su) Any flying creature damaged by the breath weapon of an ancient or older sky dragon must make a Fortitude save with the same DC as the sky dragon’s breath weapon or lose the ability to fly for 1d4 rounds.
+Primal Lightning (Su) An old or older sky dragon’s breath weapon can affect creatures normally immune or resistant to electricity damage. A creature immune to electricity damage still takes half damage from the breath weapon (no damage with a successful saving throw). Resistant creatures’ electricity resistance is treated as 10 less than normal.
+Built by:
+Brett, d20pfsrd Beastmaster I

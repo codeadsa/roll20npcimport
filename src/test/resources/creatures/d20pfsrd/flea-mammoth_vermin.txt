@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/flea-mammoth
+Mammoth Flea CR 2
+XP 600
+N Large vermin
+Init +3; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 13, touch 13, flat-footed 9 (+3 Dex, +1 dodge, –1 size)
+hp 22 (4d8+4)
+Fort +5, Ref +4, Will +1
+Defensive Abilities DR 5/slashing; Immune disease, mind-affecting effects
+OFFENSE
+Speed 30 ft.
+Melee bite +4 (1d8+3 plus blood drain and disease)
+Space 10 ft.; Reach 10 ft.
+Special Attacks blood drain (1d2 Con), disease
+STATISTICS
+Str 13, Dex 17, Con 13, Int —, Wis 11, Cha 6
+Base Atk +3; CMB +6; CMD 19
+Skills Acrobatics +0 (+20 when jumping); Racial Modifiers +20 Acrobatics when jumping
+Feats Dodge B
+SQ uncanny leap (see giant flea)
+SPECIAL ABILITIES
+Disease (Ex) Bite—injury; save Fort DC 13; onset 1d3 days; frequency 1 day; effect 1 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.

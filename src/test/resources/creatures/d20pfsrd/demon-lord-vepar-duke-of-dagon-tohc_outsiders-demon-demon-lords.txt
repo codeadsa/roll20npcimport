@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-vepar-duke-of-dagon-tohc
+Vepar (Duke of Dagon) CR 21
+XP 409,600
+CE Large outsider (aquatic, chaotic, demon, evil, extraplanar)
+Init +12; Senses darkvision 60 ft.; Perception +45
+Aura unholy aura (DC 27)
+DEFENSE
+AC 37, touch 26, flat-footed 29 (+8 Dex, +11 natural, –1 size, +9 profane)
+hp 363 (22d10+242)
+Fort +26, Ref +21, Will +15
+DR 15/cold iron and good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 32
+OFFENSE
+Speed 20 ft., swim 60 ft.
+Melee +2 trident +35/+30/+25/+20 (2d6+13/19–20) or 2 claws +33 (1d8+11 plus hypothermic touch)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 20th)
+Constant—unholy aura (DC 27)
+At will—blasphemy (DC 26), control weather, control winds (DC 24), control water, detect good, detect law, fear (DC 23), greater dispel magic, greater teleport (self plus 50 pounds of objects only), polymorph (self only), water breathing (others only, DC 22)
+1/day—ice storm, implosion (DC 28), summon (level 9, 2d6 shrroths, 1d4 hezrous, 1d2 nalfeshnees or mariliths, or 1 balor 100%)
+STATISTICS
+Str 33, Dex 26, Con 33, Int 27, Wis 27, Cha 29
+Base Atk +22; CMB +34; CMD 61 (can’t be tripped)
+Feats Alertness, Blind-Fight, Cleave, Deceitful, Great Fortitude, Improved Critical (trident), Improved Initiative, Power Attack, Quicken Spell-Like Ability (ice storm), Weapon Focus (claw), Weapon Focus (trident)
+Skills Bluff +38, Diplomacy +31, Disguise +35, Escape Artist +30, Intimidate +31, Knowledge (arcana) +30, Knowledge (geography) +30, Knowledge (planes) +33, Knowledge (religion) +30, Perception +45, Sense Motive +37, Stealth +29, Survival +30, Swim +22, Use Magical Device +31; Racial Modifiers +8 Perception
+Languages Abyssal, Aquan, Celestial, Common, Draconic, Infernal, Undercommon; telepathy 100 ft.
+SQ amphibious
+Gear Demonbrand
+SPECIAL ABILITIES
+Hypothermic Touch (Ex) Those hit by Vepar’s claw attack must make a successful DC 32 Fortitude save or be overcome with bone-numbing cold that deals 1d8 points of Dexterity damage. A successful save reduces the ability score damage by half. The save DC is Constitution-based.
+GEAR Unique Item: Demonbrand
+Vepar’s unique weapon is a Large +2 trident that can cast magic missiles seven times per day as a swift action (CL 15th). Additionally, the wielder can cast waves of fatigue once per day (CL 15th).

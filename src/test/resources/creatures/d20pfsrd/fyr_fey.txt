@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/fyr
+Fyr CR 2
+XP 600
+N Small fey
+Init +1; Senses low-light vision; Perception +8
+DEFENSE
+AC 15, touch 12, flat-footed 14 (+1 Dex, +3, natural, +1 size)
+hp 9 (2d6+2)
+Fort +4; Ref +4; Will +4
+DR 5/cold iron; SR 15
+OFFENSE
+Speed 30 ft.
+Melee butt +3 (1d4+1) or longsword +4 (1d6+1)
+Spell-like Abilities (CL 9th):
+4/day– mass charm animal (this functions as charm animal, but allows the fyr to charm up to 4 HD of animals) (DC 12)
+3/day–warp wood (DC 13)
+1/day– pass without trace (DC 12)
+STATISTICS
+Str 12, Dex 13, Con 12, Int 12, Wis 13, Cha 13
+Base Atk +1; CMB +1; CMD 12
+Feats Alertness
+Skills Appraise +5, Bluff +5, Craft (jewelry) +6, Handle Animal +7, Knowledge (nature) +6, Perception +7, Sense Motive +7, Stealth +9 (+17 in aboveground natural environments), Survival +2; Racial Modifiers +4 Handle Animal, +8 Stealth in above ground natural environments
+Languages Common, Sylvan; speak with animals
+SQ weapon attunement
+SPECIAL ABILITIES
+Weapon Attunement (Su) Fyrs have a mystical ability to attune themselves with any weapon they wield. A weapon held by a fyr functions as a masterwork item (gaining a +1 bonus to attack rolls) as long as the fyr wields it. This bonus does not stack with the enhancement bonus gained from magical weapons, or the bonus gained from a masterwork weapon. This bonus is included in the statistics block above.

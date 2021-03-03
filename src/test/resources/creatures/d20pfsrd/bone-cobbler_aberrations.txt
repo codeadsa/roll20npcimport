@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/bone-cobbler
+Bone Cobbler CR 4
+XP 1,200
+CE Medium aberration
+Init +2; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 16, touch 13, flat-footed 13 (+2 Dex, +1 dodge, +3 natural)
+hp 32 (5d8+10)
+Fort +3; Ref +3; Will +6
+OFFENSE
+Spd 30 ft.
+Melee 2 light hammers +7 (1d4+3) or 2 claws +6 (1d3+3)
+Special Attacks animate bones, bonestripping, breath weapon (60-ft. radius, slow for 1 minute, Fort DC 14, usable every 1d4+1 rounds)
+STATISTICS
+Str 16, Dex 15, Con 15, Int 12, Wis 14, Cha 12
+Base Atk +3; CMB +6; CMD 19
+Feats Dodge, Two-Weapon Fighting, Weapon Focus (light hammer)
+Skills Climb +11, Perception +10, Stealth +10, Survival +10
+Languages Aklo, Common
+Gear 2 light hammers
+SPECIAL ABILITIES
+Animate Bones (Su) Once per day, a bone cobbler can animate up to 5 skeletal statues within 30 feet as a standard action. These creatures fight as skeletons, though their forms and structures do not necessarily have to resemble humanoids (or anything remotely humanoid). This ability otherwise functions similar to an animate dead spell (caster level 7th).
+Bonestripping (Ex) A bone cobbler can rapidly strip all the flesh from a Medium creature in 3 minutes using its claws and hammers. For each size category larger than Medium a corpse is, add 1 minute to the time it takes the bone cobbler to strip the corpse. For each size category smaller than Medium a corpse is, reduce the time by 1 minute (to a minimum of 1 minute). Once stripped, the bone cobbler devours the flesh and collects the victim’s bones to use in its “sculptures”.
+A creature slain in this manner can only be brought back to life by a miracle, wish, or true resurrection spell.
+Two-Weapon Fighting (Ex) In combination with its natural abilities, a bone cobbler’s Two-Weapon Fighting feat allows it to attack with both of its weapons at no penalty to attack or damage.

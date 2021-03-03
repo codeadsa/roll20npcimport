@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/polevik
+Polevik CR 5
+XP 1,600
+NE Small fey
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +12; Aura putrefying aura (30 ft., DC 18)
+DEFENSE
+AC 17, touch 15, flat-footed 13 (+4 Dex, +2 natural, +1 size)
+hp 60 (8d6+32)
+Fort +6, Ref +10, Will +7
+DR 5/cold iron; Immune disease, nausea, poison, sickened condition
+OFFENSE
+Speed 20 ft.
+Melee bite +8 (1d6+3)
+Ranged puffballs +9 (1d6 plus disease)
+Spell-Like Abilities (CL 7th; concentration +9)
+Constant— speak with plants (fungi and mold only) STATISTICS
+Str 16, Dex 18, Con 19, Int 15, Wis 9, Cha 8
+Base Atk +4; CMB +6; CMD 20
+Feats Alertness, Iron Will, Point-Blank Shot, Precise Shot
+Skills Acrobatics +8 (+4 when jumping), Craft (alchemy) +17, Heal +7, Knowledge (dungeoneering) +10, Knowledge (nature) +13, Perception +12, Sense Motive +10, Stealth +19 (+23 in caves or swamps), Survival +7 (+11 in caves or swamps), Swim +7; Racial Modifiers +4 Craft (alchemy), +4 Stealth in caves or swamps, +4 Survival in caves or swamps
+Languages Aklo, Common, Sylvan, Undercommon
+SQ fungal alchemy
+SPECIAL ABILITIES
+Disease (Ex) Pulsing puffs is a disease characterized by small, blue-white spores sprouting within a creature’s wounds. These spores quickly grow into phosphorescent, domed mounds that pulsate and throb, eating away at victims’ connective tissue, severely impairing them. Additionally, once a creature takes 7 points of Dexterity damage from the pulsing puffs, the domed mounds burst, releasing a 10-foot-radius burst of diseased spores. This effect lasts for 1 round. Any creature caught within the burst radius or that moves through it is exposed to the pulsing puffs disease. The save DC is Constitution-based.
+Pulsing Puffs: Puffball—injury; save Fort DC 18; onset 1 minute; frequency 1/day; effect 1d6 Dex damage; cure 2 consecutive saves.
+Fungal Alchemy (Ex) As long as he has access to his fungus garden, a polevik can craft any alchemical item with a Craft DC of 25 or lower without needing to pay a cost in gold pieces for raw materials. Items function normally but may have a different appearance. For example, materials usually stored in glass jars instead fill rigid spheres of plant matter.
+Puffballs (Ex) Poleviks have learned how to nurture myriad species of symbiotic fungi upon their bodies, and the most treasured of these are their deadly puffballs. Each 6-inch- diameter spherical fungus has a thorny internal stalk covered by a thin skin of spore-laden flesh. As a standard action that does not provoke an attack of opportunity, a polevik can pluck and throw a puffball with a range of 20 feet. On a successful hit, the thorns expand and pulsate on impact, bursting through the flesh of the puffball. This inflicts vicious wounds and releases fungal spores that infect the victim with pulsing puffs. As soon as a puffball has been plucked, another grows in its place. Once a puffball has been plucked, it decomposes after 1 round, becoming inert.
+Putrefying Aura (Su) All unattended non-magical food or liquid within the radius of a polevik’s aura instantly rots or spoils. Attended non-magical food or liquid within the aura receives a saving throw to resist this effect. The save DC is Constitution-based.

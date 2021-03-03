@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/drakainia
+Drakainia CR 25/MR 10
+XP 1,638,400
+NE Huge aberration (Mythic)
+Init +9; Senses darkvision 120 ft., lifesense, true seeing; Perception +39; Aura gestation (30 ft.)
+DEFENSE
+AC 48, touch 13, flat-footed 43 (+5 Dex, +35 natural, –2 size)
+hp 642 (25d8+530); regeneration 10 (negative energy)
+Fort +28, Ref +15, Will +21
+DR 10/epic; Immune bleed, disease, poison, polymorph effects; SR 36
+OFFENSE
+Speed 50 ft., climb 30 ft., swim 30 ft.
+Melee 2 claws +31 (4d8+14/16–20/×4), gore +28 (4d6+7), 4 tentacles +29 (2d6+7)
+Space 15 ft.; Reach 15 ft. (20 ft. with claws)
+Special Attacks impregnate surrogate, Mythic Power (10/day, Surge +1d12), razor claws, well of life
+Spell-Like Abilities (CL 20th; concentration +35)
+Constant—freedom of movement, true seeing
+At will—dimension door
+3/day—antilife shell, break enchantment, contagion (DC 28), quickened cure serious wounds, dimension door
+1/day—antimagic field, destruction (DC 32), regenerateM
+STATISTICS
+Str 38, Dex 20, Con 46, Int 29, Wis 21, Cha 41
+Base Atk +18; CMB +34; CMD 49 (can’t be tripped)
+Feats Combat Casting, Combat ReflexesM, Great FortitudeM, Improved Initiative, Iron WillM, Lightning ReflexesM, Multiattack, Quick Channel, Quicken Spell-Like Ability (cure serious wounds), Selective Channeling, Skill Focus (Perception), Weapon FocusM (claw), Weapon Focus (tentacle)
+Skills Bluff +40, Climb +45, Diplomacy +40, Handle Animal +20, Heal +30, Intimidate +43, Knowledge (arcana) +34, Knowledge (dungeoneering) +34, Knowledge (nature) +34, Perception +39, Sense Motive +30, Spellcraft +37, Swim +50, Use Magic Device +40
+Languages Abyssal, Aklo, Aquan, Auran, Celestial, Common, Draconic, Ignan, Infernal, Terran
+SQ birth spawn, invert birth, polymorphism, transfer suffering
+SPECIAL ABILITIES
+Birth Spawn (Ex) As a full-round action, a drakainia can give birth to a spawn, which is a Large or smaller creature of her choice with a single random mutation. Each day she can produce any number of creatures whose combined total base CR does not exceed 3 + her Constitution modifier (usually 21).
+Gestation Aura (Su) A drakainia’s aura pulses with developing life. All poisons or diseases active within her 30-foot aura have an onset of 1 round and a frequency of 1/minute. Impregnated creatures within her aura gestate in 2d4 rounds. Any creature born within her aura gains a mutation as if it were the drakainia’s spawn, though if the creature’s parent was not impregnated by the drakainia, the creature born is an infant of the kind its biological parents would produce, and doesn’t count toward the CR limit the drakainia can spawn per day.
+Impregnate Surrogate (Su) A drakainia can disgorge a monstrous embryo into the mouth of a living, corporeal creature that is pinned or helpless. She makes a grapple combat maneuver check, and if she succeeds she impregnates that creature regardless of its gender. A Mythic character must succeed at a DC 38 Fortitude saving throw to avoid being impregnated; a Non-Mythic character is impregnated automatically. An impregnated creature’s pregnancy lasts for 2d4 rounds. During this pregnancy, the victim is nauseated until the monster bursts forth from the victim’s abdomen, which deals 10d6 points of damage to the pregnant creature and applies the broken condition to any armor it is wearing. Remove disease (DC 28) eliminates the unnatural embryo. Alternatively, as a full-round action another creature can attempt to cut out the growing monster with a DC 38 Heal check. On a successful check, the offspring is removed, and the formerly pregnant creature takes 1d4 points of bleed damage. On failed check, the pregnant creature takes 2d6 points of bleed damage and is stunned for 1 round, but the offspring is not removed. The creature spawned by means of this impregnation is any creature of the drakainia’s choice that is at least one size category smaller than the creature she impregnated. These spawn count against the drakainia’s daily CR allowance for birth spawn (see above).
+Invert Birth (Su) When a drakainia uses her dimension door spell-like ability, instead of the normal range, she can choose to teleport to any space occupied by one of her spawn that is within 1 mile of her. She doesn’t need line of sight or knowledge of the spawn’s location. If she chooses a spawn that is farther than a mile away, she does not lose the use of the spell-like ability, but does lose the action. On arrival, she explodes out from her offspring, destroying it entirely.
+Polymorphism (Ex) The spawn gestating inside the drakainia constantly alter her internal construction, making her immune to bleed, disease, poison, and polymorph effects. When she is subject to a critical hit or a sneak attack, this polymorphism grants her a 75% chance of negating such attacks.
+Razor Claws (Ex) A drakainia’s claws are razor sharp with a critical threat range of 17–20 and a critical multiplier of ×4.
+Transfer Suffering (Su) As a swift action, a drakainia can transfer a single harmful spell effect or condition from herself to one of her offspring that is currently within her gestation aura.
+Well of Life (Su) A drakainia can unleash the primal life energy within in her body to channel positive energy as if she were a 20th-level cleric (DC 35). She can use this ability 18 times per day and can choose to expend 1 use of Mythic Power at each use to maximize the damage healed. Primal life energy, raw and uncontrolled, seethes through this mother of monsters. Her churning, distended belly mocks creation, birthing horrors and dismal failures. The weak are torn apart in the writhing mass of her nursery, while the strong transcend their hideous origins to become creatures of greatness in their own right.

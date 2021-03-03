@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-rope-tohc
+Rope Golem CR 5
+XP 1,600
+N Medium construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 17, touch 10, flat-footed 17 (+7 natural)
+hp 53 (6d10+20)
+Fort +2; Ref +2; Will +2
+DR 5/adamantine and slashing; Immune construct traits, magic
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +9 (2d6+3 plus grab)
+Special Attacks strangulation (1d8+3)
+STATISTICS
+Str 17, Dex 10, Con —, Int —, Wis 11, Cha 1
+Base Atk +6; CMB +9 (+13 grapple); CMD 19
+SPECIAL ABILITIES
+Strangulation (Ex) A rope golem deals 1d8+3 points of damage with a successful grapple check. Because the rope golem seizes the opponent by the neck, a strangled foe cannot speak or cast spells with verbal components.
+Immunity to Magic (Ex) A rope golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A disintegrate spell affects it normally. A rope trick or animate rope spell deals 1d6 points of damage to the rope golem per three levels of the spell caster (e.g., a 6th-level sorcerer deals 2d6 points of damage to a rope golem if it casts rope trick or animate rope). A mending spell heals the rope golem of 2d6 points of damage. Fire-based effects and spells affect it as described in its fire vulnerability above.

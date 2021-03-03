@@ -1,0 +1,41 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-brass/brass-dragon-wyrm
+Brass Dragon, Wyrm CR 17
+XP 102,400
+CG Huge dragon (fire)
+Init +3; Senses blindsense 60 ft., dragon senses; Perception +36; Aura fire (10 ft., 1d6 fire), frightful presence (330 ft., DC 27)
+DEFENSE
+AC 40, touch 7, flat-footed 40 (-1 Dex, +33 natural, –2 size)
+hp 324 (24d12+168)
+Fort +21, Ref +13, Will +19
+DR 20/magic; Immune fire, paralysis, sleep; SR 28
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 200 ft. (poor)
+Melee bite +34 (2d8+18), 2 claws +34 (2d6+12), 2 wings +32 (1d8+6), tail slap +32 (2d6+18)
+Space 15 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (100-ft. line, DC 29, 22d4 fire), crush (small creatures, DC 29, 2d8+18), desert wind, sandstorm, sleep breath
+Spell-Like Abilities (CL 24th; concentration +29)
+At will— control weather, control winds, endure elements, speak with animals, suggestion (DC 18)
+Sorcerer Spells Known (CL 17th; concentration +22)
+8th (4/day)—demand (DC 25), power word stun
+7th (6/day)—greater teleport, mass hold person (DC 24), power word blind
+6th (6/day)—forceful hand, geas, greater dispel magic
+5th (7/day)—contact other plane, dominate person (DC 22), mirage arcana, prying eyes
+4th (7/day)—charm monster (DC 21), confusion (DC 21), dimensional anchor, locate creature
+3rd (7/day)—displacement, heroism, hold person (DC 20), tongues
+2nd (7/day)—alter self, detect thoughts (DC 17), locate object, resist energy, see invisibility
+1st (8/day)—alarm, charm person (DC 18), protection from evil, shield, ventriloquism
+0 (at will)—arcane mark, dancing lights, detect magic, detect poison, ghost sound (DC 15), mage hand, message, prestidigitation, read magic
+STATISTICS
+Str 35, Dex 8, Con 25, Int 20, Wis 21, Cha 20
+Base Atk +24; CMB +38; CMD 47 (51 vs. trip)
+Feats Alertness, Flyby Attack, Hover, Greater Spell Focus (enchantment), Improved Initiative, Improved Vital Strike, Multiattack, Power Attack, Quicken Spell, Spell Focus (enchantment), Spell Penetration, Vital Strike
+Skills Bluff +32, Diplomacy +32, Fly +18, Heal +32, Knowledge (history) +32, Knowledge (local) +32, Linguistics +32, Perception +36, Sense Motive +36, Spellcraft +32, Survival +32
+Languages Common, Draconic, plus any 27 more
+SQ move sand
+SPECIAL ABILITIES
+Desert Wind (Su) A juvenile or older brass dragon can call up the desert wind to serve him. This functions as gust of wind, but any creature in its path must make a Fortitude save (DC 29) or be blinded for 1d4 rounds by the sand.
+Fire Aura (Su) An old or older brass dragon is surrounded by an aura of intense heat. All creatures within 5 feet of the dragon take 1d6 points of fire damage at the beginning of the dragon’s turn. An ancient brass dragon’s aura extends to 10 feet. A great wyrm’s damage increases to 2d6. A brass dragon can suppress or activate this aura at will as a free action.
+Move Sand (Su) A young or older brass dragon can move sand to excavate ruins or hide treasures. This functions as move earth, but it only affects sand. The dragon uses his HD in place of his caster level for this effect. This is equivalent to a 5th-level spell.
+Sandstorm (Su) An ancient or older brass dragon can create a powerful sandstorm once per day as a full-round action. This storm has a radius of 1 mile and lasts for 1 minute per age category of the dragon. This functions as a sandstorm, except that it is also accompanied by windstorm-level winds.
+Sleep Breath (Su) Instead of a line of fire, a brass dragon can breathe a 50 ft. cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+11 rounds.

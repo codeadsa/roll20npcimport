@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/gargoyle/gargoyle-green-guardian-tohc
+Green Guardian
+CR 4
+XP 1,200
+CE Medium monstrous humanoid (earth)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +7
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 natural)
+hp 38 (4d10+16)
+Fort +5; Ref +6; Will +4
+Defensive Abilities reanimation; DR 10/magic
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee 2 claws +6 (1d6+2), bite +6 (1d6+2), gore +6 (1d6+2)
+STATISTICS
+Str 15, Dex 14, Con 18, Int 6, Wis 11, Cha 7
+Base Atk +4; CMB +6; CMD 18
+Feats Hover, Skill Focus (Fly)
+Skills Fly +12, Perception +7, Stealth +9 (+13 stony environs); Racial Modifiers +2 Stealth (+6 Stealth in stony environs)
+Languages Common, Terran
+SQ freeze
+SPECIAL ABILITIES
+Freeze (Ex) A green guardian can hold itself so still it appears to be a statue. A green guardian that uses freeze can take 20 on its Stealth check to hide in plain sight as a stone statue.
+Reanimation (Ex) The eyes of a green guardian gargoyle are made of two pieces of jet (500 gp each) that detect as both magic (faint conjuration) and evil. After being destroyed, a green guardian automatically reanimates in 1d8+2 days unless the eye gems are crushed and disenchanted with both dispel magic (DC 15) and remove curse.

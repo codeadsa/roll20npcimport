@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sea/sea-dragon-young-adult
+Young Adult Sea Dragon CR 11
+XP 12,800
+CG Huge dragon (water)
+Init +4; Senses dragon senses; Perception +24; Aura frightful presence (150 ft., DC 20)
+DEFENSE
+AC 25, touch 8, flat-footed 25 (+17 natural, -2 size)
+hp 136 (13d12+52)
+Fort +14, Ref +10, Will +12
+DR 5/magic; Immune electricity, paralysis, sleep; SR 22
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor), swim 70 ft.
+Melee bite +19 (2d8+10), 2 claws +18 (2d6+7), gore +18 (2d6+10), tail slap +16 (2d6+10)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite and gore)
+Special Attacks breath weapon (50-ft. cone, 10d6 fire damage, DC 20), crush (DC 20, 2d8+10), torrent breath
+Spell-Like Abilities (CL 13th; concentration +17)
+At will—create water, hydraulic push
+
+Spells Known (CL 5th; concentration +9)
+2nd (5/day)—gust of wind (DC 16), see invisibility
+1st (7/day)—charm person (DC 15), chill touch, color spray (DC 15), sleep (DC 15)
+0 (at will)—acid splash, daze (DC 14), detect magic, mage hand, ray of frost, resistance
+STATISTICS
+Str 25, Dex 10, Con 19, Int 18, Wis 19, Cha 18
+Base Atk +13; CMB +22; CMD 32 (36 vs. trip)
+Feats Alertness, Great Fortitude, Improved Initiative, Lightning Reflexes, Lunge, Multiattack, Weapon Focus (bite)
+Skills Diplomacy +20, Fly +8, Intimidate +20, Knowledge (arcana, nature) +20, Perception +24, Sense Motive +24, Stealth +8, Survival +20, Swim +31
+Languages Aquan, Auran, Celestial, Common, Draconic, Elven
+SQ change shape, unfettered swimmer, water breathing
+SPECIAL ABILITIES
+Change Shape (Su) A young or older sea dragon can assume any humanoid form three times per day as if using polymorph.
+Torrent Breath (Su) Instead of a cone of super-heated steam, a very young or older sea dragon can breathe a line of pressurized water twice the length of the sea dragon’s cone breath weapon. This line deals bludgeoning damage.
+Unfettered Swimmer (Su) A juvenile sea dragon gains a 10-foot bonus to its swim speed. The sea dragon’s swim speed continues to increase by an additional 10 feet every two age categories. Furthermore, while swimming, the sea dragon is treated as if under the effects of the spell freedom of movement.

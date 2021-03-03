@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/fen-witch
+Fen Witch CR 5
+XP 1,600
+CE Medium monstrous humanoid
+Init +1; Senses darkvision 60 ft.; Perception +11; Aura horrific appearance (60 ft., DC 15, 1d8 Str)
+DEFENSE
+AC 14, touch 11, flat-footed 13 (+1 Dex, +3 natural)
+hp 39 (6d10+6)
+Fort +5; Ref +6; Will +7
+SR 15
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +9 (1d4+1)
+Special Attacks death speak (DC 15), mind probe (Will DC 15)
+TACTICS
+Fen witches rarely engage in combat, relying on their death speak ability to slay a creature almost instantaneously (and hopefully drive off the victim’s comrades by instilling fear in any remaining creatures). Failing this, the fen witch prefers direct combat to subterfuge and attacks relentlessly.
+STATISTICS
+Str 17, Dex 12, Con 13, Int 14, Wis 14, Cha 15
+Base Atk +6; CMB +9; CMD 20
+Feats Alertness, Blind-Fight, Great Fortitude
+Skills Climb +12, Intimidate +11, Perception +11, Stealth +10, Survival +10, Swim +12
+Languages Aklo, Common; telepathy 100 ft.
+SQ hag, swamp stride
+SPECIAL ABILITIES
+Death Speak (Su) A fen witch who knows an individual’s true name can speak that name as a swift action. If the individual hears the fen witch speak its name, that creature must succeed on a DC 15 Will save or perish. If the save succeeds, that creature cannot be affected again by the same fen witch’s death speak for 24 hours. Note that the fen witch does not need to speak a language the creature understands in order to affect it; she only needs to speak its true name. Other fen witches or creatures who hear the target’s true name cannot use this ability; it only functions for the fen witch after she has used her mind probe ability on the target. The save DC is Charisma-based.
+Whether the fen witch’s Death Speak ability is successful or not, the target’s name remains fresh in her mind for 24 hours. After that, she must use her mind probe ability again to retrieve a creature’s true name.
+Hag (Ex) A fen witch counts as a hag for the purpose of joining a hag’s coven.
+Horrific Appearance (Su) The sight of a fen witch is so revolting that anyone within 60 feet (other than another fen witch or hag) who sets eyes upon one must succeed on a DC 15 Fortitude save or instantly be weakened, taking 1d8 points of Strength damage. Creatures that are affected by this power or that successfully save against it cannot be affected again by the same fen witch’s horrific appearance for 24 hours. This is a mind-affecting effect. The save DC is Charisma-based.
+Mind Probe (Su) As a full-round action, a fen witch can peer into the mind of a living creature within 60 feet in an attempt to extract the creature’s true name. The target can resist the mental trespassing by succeeding on a DC 15 Will save. If the save fails, the fen witch has learned the creature’s true name and can use her death speak ability. Creatures with an Intelligence score of 2 or less and creatures with no Intelligence score are immune to this ability. Psionic creatures can use defense modes or other psionic abilities to counter this probe. A creature that successfully saves cannot be affected again by the same fen witch’s mind probe for one day. The save DC is Wisdom based.
+Swamp Stride (Ex) A fen witch can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a fen witch normally.

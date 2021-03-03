@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/bonesucker
+Bonesucker CR 7
+XP 3,200
+NE Large aberration
+Init +5; Senses all-around vision, darkvision 90 ft.; Perception +19
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+1 Dex, +1 dodge, +6 natural, –1 size)
+hp 60 (8d8+24)
+Fort +5; Ref +5; Will +7
+DR 10/magic; Immune flanking
+OFFENSE
+Speed 20 ft.
+Melee 4 tentacles +9 (1d4+4 plus grab and liquefy bones)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (1d4+4 plus liquefy bones)
+STATISTICS
+Str 18, Dex 13, Con 17, Int 10, Wis 12, Cha 13
+Base Atk +6; CMB +11 (+15 grapple); CMD 23
+Feats Dodge, Improved Initiative, Lightning Reflexes, Skill Focus (Perception)
+Skills Climb +15, Perception +19, Stealth +8, Swim +15; Racial Modifiers +4 Perception
+Languages Aklo
+SPECIAL ABILITIES
+All-Around Vision (Ex) A bonesucker’s symmetrically placed eyes allow it to look in any direction, bestowing a +4 racial bonus on Perception checks. Bonesuckers cannot be flanked.
+Liquefy Bones (Ex) A bonesucker that has successfully grappled an opponent deals 1d2 points of Strength and 1d2 points of Dexterity damage to an opponent as long as the hold is maintained.

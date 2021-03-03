@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-swarm-hive-mind
+Hive Mind Beetle Swarm CR 13
+XP 25,600
+LN Diminutive magical beast (swarm)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +28
+DEFENSE
+AC 25, touch 25, flat-footed 14 (+3 Dex, +8 dodge, +4 size)
+hp 170 (20d10+60)
+Fort +16, Ref +15, Will +9
+Defensive Abilities swarm traits; Immune electricity, weapon damage
+Weaknesses exposed nerves
+OFFENSE
+Speed 5 ft., fly 30 ft. (perfect)
+Melee swarm (8d6 electricity plus distraction)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 24)
+Psychic Magic (CL 14th, concentration +16)
+15 PE—explode head (5 PE, DC 18), greater synaptic pulse (5 PE, DC 18), lightning bolt (3 PE, DC 19), mental barrier III (4 PE), mind probe (4 PE, DC 16), mind thrust IV (4 PE, DC 16), synapse overload (5 PE, DC 17), synaptic scramble (4 PE, DC 17), thought shield IV (5 PE)
+Spell-Like Abilities (CL 14th; concentration +11)
+Constant—thought echo
+At will—shocking grasp
+STATISTICS
+Str 1, Dex 16, Con 14, Int 15, Wis 12, Cha 5
+Base Atk +20; CMB —; CMD —
+Feats Ability Focus (distraction), Flyby Attack, Great Fortitude, Greater Spell Penetration, Improved Initiative, Iron Will, Spell Focus (enchantment), Spell Focus (evocation), Spell Penetration, Toughness
+Skills Fly +40, Knowledge (nature) +22, Perception +28, Spellcraft +22; Racial Modifiers +4 Perception
+SQ reflexive dodge
+Languages thought echo (can’t speak)
+SPECIAL ABILITIES
+Exposed Nerves (Ex) Whenever a hive mind beetle swarm is at or below half its full hit points, its Intelligence score drops to 9 and it loses its spellcasting ability. When at or below one-quarter its full hit points, it becomes effectively mindless and can only use feats that provide a static bonus.
+Reflexive Dodge (Ex) The constituent creatures of a hive mind beetle swarm can dodge attacks, forming holes in the swarm. It gains a +8 dodge bonus to its AC.

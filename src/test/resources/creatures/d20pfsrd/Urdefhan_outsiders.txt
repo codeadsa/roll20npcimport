@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/Urdefhan
+Urdefhan CR 3
+XP 800
+NE Medium outsider (native)
+Init 1; Senses darkvision 120 ft.; Perception +7
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+3 armor, +1 Dex, +2 natural)
+hp 25 3d10+9
+Fort +6, Ref +4, Will +4
+Defensive Abilities negative energy affinity; DR 5/good or silver; Immune death effects (see below), disease, fear, level drain; Resist acid 10; SR 14
+OFFENSE
+Speed 30 ft.;
+Melee rhoka sword +8 (1d8+6/18–20), bite +2 (1d4+2 plus 2 Str) or bite +7 (1d4+4 plus 2 Str)
+Ranged composite longbow +4 (1d8+4/×3)
+Special Attacks blood drain (1 Con)
+Spell-Like Abilities (CL 3rd; concentration +5)
+At will—feather fall,
+3/day—align weapon, death knell (DC 14), ray of enfeeblement (DC 13)
+STATISTICS
+Str 19, Dex 12, Con 17, Int 14, Wis 13, Cha 14
+Base Atk +3; CMB +7; CMD 18
+Feats Iron Will, Weapon Focus (rhoka sword)
+Skills Intimidate +8, Knowledge (dungeoneering) +5, Knowledge (planes) +8, Knowledge (religion) +8, Perception +7, Ride* +4, Sense Motive +7, Survival +7
+Languages Aklo, Undercommon
+SQ daemonic pact
+SPECIAL ABILITIES
+Daemonic Pact (Su) Urdefhans are infused with daemonic energy; as an immediate action, an urdefhan can attempt to allow this energy to consume its soul (50% chance of success per attempt). If it succeeds, the urdefhan dies and releases a 5-foot-radius burst of negative energy that deals 2d6 points of damage (DC 14 Reflex half). The save DC is Con-based.
+Strength Damage (Su) An urdefhan’s bite drains vitality, turning the skin and muscle around the wound transparent and causing 2 points of Strength damage unless the target succeeds on a DC 14 Fortitude save. The flesh remains transparent until the Strength damage is healed, but this does not have any other effects. The save DC is Constitution-based.

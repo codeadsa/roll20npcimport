@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/grick
+Grick CR 3
+XP 800
+N Medium aberration
+Init +2; Senses darkvision 60 ft., scent; Perception +12
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 27 (5d8+5)
+Fort +2, Ref +3, Will +6
+DR 10/magic
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee bite +4 (1d4+1), 4 tentacles –1 (1d4)
+STATISTICS
+Str 12, Dex 14, Con 13, Int 3, Wis 14, Cha 5
+Base Atk +3; CMB +4; CMD 16 (can’t be tripped)
+Feats Combat Reflexes, Skill Focus (Perception), Stand Still
+Skills Climb +9, Perception +12, Stealth +6 (+14 in rocky terrain); Racial Modifiers +8 Stealth in rocky terrain
+Languages Aklo (cannot speak)

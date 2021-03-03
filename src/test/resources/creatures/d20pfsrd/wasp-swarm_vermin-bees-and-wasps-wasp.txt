@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/bees-and-wasps/wasp/wasp-swarm
+Wasp Swarm CR 3
+XP 800
+N Diminutive vermin (swarm)
+Init +1; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 15, touch 15, flat-footed 14; (+1 Dex, +4 size)
+hp 31 (7d8)
+Fort +5, Ref +3, Will +3
+Defensive Abilities swarm traits; Immune weapon damage
+Weakness swarm traits
+OFFENSE
+Speed 5 ft., fly 40 ft. (good)
+Melee swarm (2d6 plus poison)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 13), poison
+STATISTICS
+Str 1, Dex 13, Con 10, Int —, Wis 12, Cha 9
+Base Atk +5; CMB —; CMD —
+Skills Fly +11, Perception +9; Racial Modifiers +8 Perception
+SQ swarm traits, vermin traits
+SPECIAL ABILITIES
+Poison (Ex) Swarm—injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1 Dexterity damage; cure 1 save. The save DC is Constitution-based.

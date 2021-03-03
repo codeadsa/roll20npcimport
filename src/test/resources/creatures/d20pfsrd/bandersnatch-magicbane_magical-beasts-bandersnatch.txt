@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bandersnatch/bandersnatch-magicbane
+Magicbane Bandersnatch CR 20
+XP 307,200
+N Gargantuan magical beast
+Init +11; Senses blindsense 120 ft., darkvision 120 ft., low-light vision, scent; Perception +26; Aura antimagic field (20 ft.)
+DEFENSE
+AC 33, touch 13, flat-footed 26 (+7 Dex, +20 natural, -4 size)
+hp 310 (23d10+184); fast healing 10
+Fort +21, Ref +20, Will +11
+Defensive Abilities quill defense; Immune fear, paralysis, poison, sleep
+OFFENSE
+Speed 60 ft., climb 20 ft.
+Melee bite +32 (2d8+13 plus grab), 2 claws +32 (2d6+13/19-20), tail slap +27 (2d8+19/x3 plus pain)
+Ranged 4 quills +26 (1d10+13/19-20)
+Space 20 ft.; Reach 15 ft. (20 ft. with tail slap)
+Special Attacks bounding charge, brutal tail, lash out, pounce, rake (4 claws, +32, 2d6+13/19-20), rend (2 claws, 2d6+19)
+STATISTICS
+Str 36, Dex 25, Con 27, Int 2, Wis 15, Cha 18
+Base Atk +23; CMB +40 (+44 grapple); CMD 57 (65 vs. trip)
+Feats Bleeding Critical, Combat Reflexes, Critical Focus, Critical Mastery, Exhausting Critical, Improved Critical (claws), Improved Critical (quills), Improved Initiative, Improved Iron Will, Iron Will, Skill Focus (Stealth), Tiring Critical
+Skills Acrobatics +19 (+31 when jumping), Climb +21, Perception +26, Stealth +18 (+26 forests), Survival +3 (+23 tracking); Racial Modifiers +8 Acrobatics, +10 Perception, +4 Stealth (+12 forests), +20 Survival when tracking
+SQ planar acclimation, relentless tracker
+SPECIAL ABILITIES
+Aura (Sp) Magicbane bandersnatches radiate an antimagic aura in a 20-foot radius. Should the aura be brought down, it returns automatically as a free action on the bandersnatch’s next turn.
+Bounding Charge (Ex) A magicbane bandersnatch can move through difficult terrain when it charges.
+Brutal Tail (Ex) The quills and barbs on a magicbane bandersnatch’s tail cause triple damage on a critical hit from its tail slap. A magicbane bandersnatch adds 1-1/2 times its strength bonus on attack rolls when using its tail slap.
+Lash Out (Ex) As a swift action, a magicbane bandersnatch can make a single attack with a bite, claw, or tail slap. A magicbane bandersnatch cannot lash out on the same round it charges.
+Pain (Ex) Whenever a creature takes damage from a magicbane bandersnatch’s tail slap attack, quills, or quill defense, that creature must make a DC 28 Reflex save or a quill lodges in its flesh, causing the creature to become sickened until the quill is removed. Removing one quill requires a DC 20 Heal check made as a full-round action. For every 5 by which the check exceeds the DC, one additional quill can be removed. On a failed check, a quill is still removed, but the process deals 1d10+6 points of damage to the victim. The save DC is Dexterity-based.
+Planar Acclimation (Ex) A magicbane bandersnatch is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the extraplanar subtype.
+Quill Defense (Ex) Any creature that strikes a magicbane bandersnatch with a non-reach melee weapon, unarmed strike, or natural weapon takes 1d10* points of piercing damage from the bandersnatch’s quills and suffers from the bandersnatch’s pain attack.
+Quills (Ex) With a snap of its tail, a magicbane bandersnatch can loose a volley of four quills as a standard action (make an attack roll for each spike). This attack has a range of 300 feet with no range increment. All targets must be within 30 feet of each other. Launched quills regrow in a single round, during which the bandersnatch’s defensive abilities are unaffected.
+Relentless Tracker (Ex) A magicbane bandersnatch can move at up to double its speed and still track without penalty. It gains a +10 competence bonus on Survival checks made to track creatures it has wounded.

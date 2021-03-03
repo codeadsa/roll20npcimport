@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/drakes/drake-ice-tohc
+Ice Drake CR 3
+XP 800
+CE Small dragon (cold)
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 18, touch 12, flat-footed 17 (+1 Dex, +6 natural, +1 size)
+hp 22 (3d12+3)
+Fort +4; Ref +4; Will +2
+Immune cold, paralysis, sleep; SR 18
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 20 ft., fly 50 ft. (average)
+Melee bite +6 (1d6+1), 2 claws +5 (1d4+1)
+Special Attacks breath weapon (20 ft. cone, DC 12, 2d8 cold)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Spell-like Abilities (CL 7th):
+2/day—fear, sleep
+TACTICS
+An ice drake opens combat from the air using its icy breath weapon. If it expends its breath weapon, it relies on its claws and bite to finish off any remaining opponents.
+STATISTICS
+Str 13, Dex 13, Con 13, Int 7, Wis 8, Cha 10
+Base Atk +3; CMB +3; CMD 14 (18 vs. trip)
+Feats Flyby Attack, Weapon Focus (bite)
+Skills Bluff +6, Escape Artist +4, Fly +9, Perception +5
+Languages Draconic
+SQ alternate form 2/day (form of the dragon I [white dragon only])
+SPECIAL ABILITIES
+Alternate Form (Su) Twice per day, an ice drake can assume the shape of a young white dragon for 2 hours.

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orcs/orc
+Orc (CR 1/3)
+XP 135
+Orc warrior 1
+CE Medium humanoid
+Init +0; Senses darkvision 60 ft.; Perception –1
+Weakness light sensitivity
+DEFENSE
+AC 13, touch 10, flat-footed 13 (+3 armor)
+hp 6 (1d10+1)
+Fort +3, Ref +0, Will –1
+Defensive Abilities ferocity
+OFFENSE
+Speed 30 ft.
+Melee falchion +5 (2d4+4/18–20)
+Ranged javelin +1 (1d6+3)
+TACTICS
+Before Combat Orcs make few preparations before combat, preferring to charge headlong at any foe that presents itself.
+During Combat Orcs prefer to use two-handed weapons to maximize the effectiveness of their great strength. They attack in ambushes from concealment to take an enemy off-guard and cause as much fear and confusion as possible.
+Morale Orcs are bullies and cowards. They flee when the odds have turned against them and any nearby leaders are dead— or have already fled. They are prone to surrender and truces if such actions save their skins, although they honor such terms only as long as it is to their benefit to do so. Exceptions to this are dwarves and elves, from whom they neither ask nor give quarter.
+STATISTICS
+Str 17, Dex 11, Con 12, Int 7, Wis 8, Cha 6
+Base Atk +1; CMB +4; CMD 14
+Feats Weapon Focus (falchion)
+Skills Intimidate +2
+Languages Common, Orc
+SQ weapon familiarity
+SPECIAL ABILITIES
+Ferocity (Ex) An orc remains conscious and can continue fighting even if its hit point total is below 0. It is still staggered and loses 1 hit point each round. A creature with ferocity still dies when its hit point total reaches a negative amount equal to its Constitution score.

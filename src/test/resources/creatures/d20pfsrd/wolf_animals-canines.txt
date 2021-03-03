@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/canines/wolf/
+Wolf CR 1
+XP 400
+N Medium animal
+Init +2; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 13 (2d8+4)
+Fort +5, Ref +5, Will +1
+OFFENSE
+Speed 50 ft.
+Melee bite +2 (1d6+1 plus trip)
+STATISTICS
+Str 13, Dex 15, Con 15, Int 2, Wis 12, Cha 6
+Base Atk +1; CMB +2; CMD 14 (18 vs. trip)
+Feats Skill Focus (Perception)
+Skills Perception +8, Stealth +6, Survival +1 (+5 scent tracking); Racial Modifiers +4 Survival when tracking by scent

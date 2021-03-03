@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sovereign/sovereign-dragon-juvenile
+Juvenile Sovereign Dragon CR 12
+XP 19,200
+N Large dragon
+Init +5; Senses dragon senses; Perception +21 ; Aura frightful presence (120 ft., DC 21)
+DEFENSE
+AC 26, touch 10, flat-footed 25 (+1 Dex, +16 natural, -1 size)
+hp 161 (14d12+70)
+Fort +14, Ref +12, Will +15
+Immune paralysis, sleep
+OFFENSE
+Speed 50 ft., fly 200 ft. (poor)
+Melee bite +22 (2d6+12/19-20), 2 claws +21 (1d8+8), gore +21 (1d8+12), tail slap +19 (1d8+12)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite and gore)
+Special Attacks breath weapon (40 ft. cone, 8d6 sonic, DC 22), violent retort
+Spell-Like Abilities (CL 14th; concentration +18)
+At will—calm emotions (DC 16), detect evil/good
+Spells Known (CL 3th; concentration +7)
+1st (6/day)—charm person (DC 15), color spray (DC 15), true strike
+0 (at will)—daze (DC 14), detect magic, ghost sound, read magic, resistance
+STATISTICS
+Str 27, Dex 12, Con 21, Int 18, Wis 19, Cha 18
+Base Atk +14; CMB +23; CMD 34 (38 vs. trip)
+Feats Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Persuasive, Weapon Focus (bite)
+Skills Appraise +21, Bluff +21, Diplomacy +25, Fly -5, Intimidate +25, Knowledge (arcana, history, nobility) +21, Perception +21, Sense Motive +21, Spellcraft +21
+Languages Auran, Celestial, Common, Draconic, Infernal
+SQ change shape, dogmatic discordance
+SPECIAL ABILITIES
+Change Shape (Su) A young or older sovereign dragon can assume any humanoid form three times per day as polymorph.
+Dogmatic Discordance (Su) Good or evil creatures take a -2 penalty when making saving throws against a sovereign dragon’s spells, spell-like abilities, breath weapon, and aura.
+Violent Retort (Ex) When a young or older sovereign dragon takes damage from a melee attack critical hit, it can, as an immediate action, make a claw or tail slap attack against the creature that made the critical hit.

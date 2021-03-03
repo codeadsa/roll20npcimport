@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/yellow-musk-creeper-tohc
+Yellow Musk Creeper CR 2
+XP 600
+N Large plant
+Init +2; Senses blindsight 30 ft.; Perception +0
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+2 Dex, +4 natural, -1 size)
+hp 22 (3d8+9)
+Fort +6, Ref +3, Will +1
+Immune plant traits
+OFFENSE
+Speed 5 ft.
+Melee 2 tendrils +6 (1d8+5)
+Ranged ranged touch +3 (pollen spray)
+Space 10 ft.; Reach 10 ft.
+Special Attacks create yellow musk zombie, Intelligence damage
+STATISTICS
+Str 20, Dex 15, Con 17, Int –, Wis 11, Cha 9
+Base Atk +2; CMB +8; CMD 20 (can’t be tripped)
+SQ rejuvenation
+SPECIAL ABILITIES
+Create Yellow Musk Zombie (Su) A victim reduced to Intelligence 0 becomes a yellow musk zombie in 1 hour under the control of the creeper that created it. If the yellow musk creeper is slain before the yellow musk zombie rises, the transformation can be prevented by the casting of neutralize poison followed by a heal or restoration spell.
+Intelligence Damage (Ex) As a free action, a yellow musk creeper can insert hundreds of tiny roots into the head of an entranced foe within any space occupied by the creeper. An entranced foe does not resist this attack and does not receive a saving throw to break free of its entranced state. This attack deals 1d4 points of Intelligence damage each round. A victim reduced to Intelligence 0 becomes a yellow musk zombie in 1 hour.
+Pollen Spray (Ex) A yellow musk creeper can spray a tiny cloud of hypnotic pollen at a single creature within 30 feet. An opponent hit by the cloud must succeed on a DC 14 Fortitude save or be entranced for 1d4 minutes (as by a charm monster spell). Entranced creatures can take no action other than to move at their normal speed into a space occupied by the yellow musk creeper. An entranced creature resists any attempt to halt its progress. A victim within a space occupied by the yellow musk creeper stands there and offers no resistance to the monster’s attacks. The save DC is Constitution-based.
+Rejuvenation (Ex) A yellow musk creeper can be killed only if its root is dug up, then burned, hacked apart, or otherwise destroyed. Reducing the creeper to 0 or less hit points puts it out of commission, allowing excavation of its roots. The main root is a Small object with a hardness of 3 and 10 hit points. The root can be affected by spells or effects that affect an area or targeted by spells that affect an individual target.
+As long as the root remains intact, a yellow musk creeper regrows in about 2 weeks.

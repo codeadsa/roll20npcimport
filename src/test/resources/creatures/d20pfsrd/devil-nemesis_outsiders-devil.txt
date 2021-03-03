@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-nemesis
+Nemesis Devil (Advodaza) CR 18
+XP 153,600
+LE Huge outsider (devil, evil, extraplanar, lawful)
+Init +11; Senses darkvision 60 ft., see in darkness; Perception +28
+DEFENSE
+AC 36, touch 15, flat-footed 29 (+7 armor, +7 Dex, +14 natural, –2 size)
+hp 297 (18d10+198)
+Fort +21, Ref +18, Will +13
+Defensive Abilities idol armor; DR 10/good and silver; Immune cold, dismissal, electricity, fire, poison, sonic; Resist acid 10; SR 29
+OFFENSE
+Speed 40 ft., fly 80 ft. (average)
+Melee bite +28 (2d6+12), 2 claws +28 (1d8+12 plus infernal wound), 2 slams +26 (1d8+6), tail slap +26 (2d6+6)
+Space 15 ft.; Reach 15 ft. (20 ft. with tail)
+Special Attacks infernal wound
+Spell-Like Abilities (CL 16th; concentration +23)
+At will—gaseous form, greater invisibility, greater teleport (self plus 50 lbs. of objects only), scorching ray, whispering wind
+3/day—blasphemy (DC 24), dispel magic, ethereal jaunt, harm (DC 23), heal (DC 23), hold monster (DC 22), wall of stone
+1/day—greater scrying (DC 21), summon (level 7, horned devil 60%), unhallow
+STATISTICS
+Str 34, Dex 25, Con 30, Int 23, Wis 25, Cha 24
+Base Atk +18; CMB +32 (+36 bull rush); CMD 49 (51 vs. bull rush, 53 vs. trip)
+Feats Awesome Blow, Flyby Attack, Greater Bull Rush, Hover, Improved Bull Rush, Improved Initiative, Multiattack, Power Attack, Toughness
+Skills Acrobatic +25 (+29 when jumping), Bluff +28, Diplomacy +28, Fly +24, Intimidate +28, Knowledge (arcana, planes, religion) +27, Perception +28, Sense Motive +28, Spellcraft +24, Stealth +20; Racial Modifier +4 Acrobatics when jumping
+Languages Abyssal, Aklo, Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SQ devil mark, false divinity (Trickery)
+SPECIAL ABILITIES
+Devil Mark (Su) An advodaza can grant worthy servants a measure of its power. As a full-round action, an advodaza can touch a willing creature, marking it with a unique symbol. For as long as the creature is marked, it gains a spell-like ability it can use once per day. This spell-like ability comes from the advodaza’s chosen domain (see false divinity, below). The target can also telepathically communicate with the advodaza over any distance while on the same plane. An advodaza can dismiss its mark as a standard action, no matter where the bearer is. It can also, as a standard action, cause pain to a mark bearer that deals 6d6 points of damage with no saving throw. An advodaza can mark multiple creatures, up to a number equal to its Hit Dice (typically 18).
+False Divinity (Su) Each advodaza chooses one cleric domain and gains the domain spells (5th level and lower) of that domain as spell-like abilities. Each of these abilities can be used 3 times per day. The advodaza does not gain any of the domain’s granted powers. Most advodazas possess powers from the Evil, Fire, Law, Trickery, War, or Weather domains, though any domains except Good or Chaos are possible. These spell-like abilities are not included in the stat block above.
+Evil Domain: align weapon (evil only), dispel good, magic circle against good, protection from good, unholy blight Fire Domain: burning hands, fire shield, fireball, produce flame, wall of fire Law Domain: align weapon (law only), dispel chaos, magic circle against chaos, order’s wrath, protection from chaos Trickery Domain: confusion, disguise self, false vision, invisibility, nondetection War Domain: divine power, flame strike, magic vestment, magic weapon, spiritual weapon Weather Domain: call lightning, fog cloud, ice storm, obscuring mist, sleet storm Idol Armor (Su) Advodazas armor themselves in fallen idols and ornaments of devotion. This armor grants an advodaza a +7 armor bonus to AC and immunity to cold, electricity, and sonic damage, as well as immunity to the spell dismissal. The spells chaos hammer, holy smite, holy word, and word of chaos destroy this armor, removing the devil’s armor bonus to AC and its immunities (its cold immunity is replaced with the devil’s normal cold resistance of 10). The armor is automatically destroyed if the advodaza is slain. If uninterrupted for 1 hour, an advodaza can summon new armor to replace its destroyed protection.
+Infernal Wound (Su) An advodaza’s assaults leave vicious marks that do not easily heal. The damage an advodaza inflicts with its claws leaves persistent wounds that deal 2d6 points of bleed damage. Bleeding caused in this way is difficult to stanch—a successful DC 29 Heal check is required to stop the bleeding, and anyone attempting to magically heal a creature suffering from an infernal wound must succeed at a DC 29 caster level check or the spell does not function. Success indicates the healing works normally and stops all bleed effects. The Heal check DC and caster level DC are Constitution-based.

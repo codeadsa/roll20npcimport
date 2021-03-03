@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-white/white-dragon-very-old
+Very Old White Dragon CR 14
+XP 38,400
+CE Huge dragon (cold)
+Init +4; Senses dragon senses, snow vision; Perception +29; Aura cold (10 ft., 1d6 cold damage), frightful presence (270 ft., DC 21)
+DEFENSE
+AC 34, touch 8, flat-footed 34 (+26 natural, -2 size)
+hp 237 (19d12+114)
+Fort +17, Ref +13, Will +14
+DR 15/magic; Immune cold, paralysis, sleep; SR 25
+Weaknesses Vulnerability to fire
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +28 (2d8+15/19-20), 2 claws +27 (2d6+10), 2 wings +22 (1d8+5), tail slap +22 (2d6+15)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, DC 25, 18d4 cold), crush (Small Creatures, DC 25, 2d8+15), freezing fog (3/day, DC 18)
+Spell-Like Abilities (CL 19th; concentration +21)
+At will— fog cloud, gust of wind Spells Known (CL 7th; concentration +9)
+3rd (4/day)— displacement, lightning bolt (DC 15)
+2nd (7/day)— fog cloud, invisibility, resist energy
+1st (7/day)— alarm, grease (DC 13), magic aura, shield, true strike
+0 (at will)— acid splash, dancing lights, detect magic, ghost sound, mage hand, mending, message, ray of frost STATISTICS
+Str 31, Dex 10, Con 23, Int 14, Wis 17, Cha 14
+Base Atk +19; CMB +31; CMD 41 (45 vs. trip)
+Feats Alertness, Flyby Attack, Greater Vital Strike, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Power Attack, Vital Strike, Weapon Focus (bite)
+Skills Fly +14, Intimidate +24, Knowledge (arcana) +24, Perception +29, Sense Motive +29, Spellcraft +24, Stealth +14, Swim +40; Racial Modifiers +8 Swim
+Languages Common, Draconic, Giant
+SQ icewalking, ice shape
+SPECIAL ABILITIES
+Freezing Fog (Sp) An old white dragon can use this ability three times per day. It is similar to an acid fog spell but deals cold damage instead of acid damage. It also causes a rime of slippery ice to form on any surface the fog touches, creating the effect of a grease spell. The dragon is immune to the grease effect because of its icewalking ability. This ability is the equivalent of a 6th-level spell.
+Ice Shape (Su) A young white dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A white dragon’s caster level for this effect is equal to its Hit Dice.
+Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+Snow Vision (Ex) A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.

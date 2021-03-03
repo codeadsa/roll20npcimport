@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/spawn-of-destruction/the-monarch-worm
+the Monarch Worm CR 23
+XP 819,200
+CE Colossal magical beast
+Init +5; Senses darkvision 60 ft., low-light vision, tremorsense 180 ft.; Perception +27; Aura frightful presence (300 ft., DC 26)
+DEFENSE
+AC 39, touch 3, flat-footed 38 (+1 Dex, +36 natural, –8 size)
+hp 472 (27d10+324); regeneration 30
+Fort +29, Ref +18, Will +13
+DR 15/epic; Immune ability damage, acid, bleed, cold, disease, energy drain, mind-affecting effects, paralysis, permanent wounds, petrification, poison, polymorph; SR 34
+OFFENSE
+Speed 40 ft., burrow 40 ft.
+Melee 6 toothed tentacles +33 (2d10+13/19–20 plus grab)
+Ranged ray +20 (disintegrate/19–20)
+Space 30 ft.; Reach 30 ft.
+Special Attacks hungry gaze, spines, swallow whole (2d10+13 plus 1d4 Str damage, AC 28, 47 hp)
+Spell-Like Abilities (CL 27th; concentration +32)
+At will–disintegrate (DC 21)
+1/day–earthquake
+STATISTICS
+Str 36, Dex 13, Con 34, Int 5, Wis 14, Cha 21
+Base Atk +27; CMB +48 (+52 grapple, +68 overrun); CMD 59 (can’t be tripped)
+Feats Ability Focus (hungry gaze), Awesome Blow, Bleeding Critical, Blind-Fight, Critical Focus, Great Fortitude, Improved Bull Rush, Improved Critical (ray), Improved Critical (toothed tentacle), Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Weapon Focus (toothed tentacle)
+Skills Climb +20, Perception +27, Swim +17
+Languages Aklo
+SQ hibernation, unstoppable force
+SPECIAL ABILITIES
+Hungry Gaze (Su) The monarch worms gaze attack deals 3d6 points of nonlethal damage plus fatigue at a distance of 120 feet. A successful DC 30 Fortitude save negates the fatigue. Creatures already fatigued become exhausted; creatures already exhausted become staggered. A creature that fails its save must succeed at a DC 30 Will save or gain an overwhelming compulsion to eat flesh of creatures of its type, including its own if no other is available. The save DCs are Charisma-based.
+Spines (Ex) Creatures striking it with natural weapons, unarmed strikes, melee weapons, or melee touch attacks take 2d6+12 points of damage.

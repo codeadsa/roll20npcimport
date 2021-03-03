@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/skulk-TOHC
+Skulk CR 1
+XP 400
+CE Medium humanoid (skulk)
+Init +6; Senses low-light vision; Perception +3
+DEFENSE
+AC 13, touch 12, flat-footed 11 (+2 Dex, +1 natural)
+hp 11 (2d8+2)
+Fort +1, Ref +5, Will +1; -4 penalty vs. fear
+Defensive Abilities chameleon blend, untrackable
+Weakness cowardice
+OFFENSE
+Speed 30 ft.
+Melee short sword +1 (1d6)
+Special Attacks sneak attack +1d6
+STATISTICS
+Str 10, Dex 14, Con 12, Int 10, Wis 12, Cha 6
+Base Atk +1; CMB +1; CMD 13
+Feats Improved Initiative
+Skills Perception +3, Stealth +4 (+19 hiding); Racial Modifiers +15 Stealth when hiding
+Languages Common
+SPECIAL ABILITIES
+Chameleon Blend (Ex) Skulks have the ability to match their skin coloration to the surrounding environment, not unlike a chameleon. This, combined with their natural sneakiness, grants them a +15 racial bonus on Stealth checks when hiding, but only while the majority of their skin is visible to the naked eye. Thus they cannot use this ability while wearing armor or any clothing more than a loincloth. Skulks favor wearing cloaks when lurking on the fringes of civilized society which they can quickly remove so as to make full use of their chameleon blend ability.
+Cowardice (Ex) Skulks suffer a -4 penalty to their effective Wisdom against Intimidate skill checks and a -4 penalty vs. fear-based spells and effects due to their innate cowardice.
+Untrackable (Ex) Skulks can pass through forest and subterranean settings almost without a trace (double the DC for any tracking attempt).
+Skulk Characters Skulks favor taking levels of rogue, almost to the exclusion of any other class. The rogue’s unparalleled competence at stealth, ambush, and escape is a role they are perfectly suited for.
++4 Dexterity, +2 Constitution, +2 Wisdom, -4 Charisma. Skulks are nimble and hardy but not very personable. Low-Light Vision: A skulk can see twice as far as a human in dim light. Racial Hit Dice: A skulk begins with two levels of humanoid, which provide 2d8 Hit Dice, a base attack bonus of +1, and base saving throw bonuses of Fort +0, Ref +3, and Will +0. Racial Skills: A skulk’s humanoid levels give it skill points equal to 2 x (2 + Int modifier). Its racial class skills are Perception and Stealth. Skulks gain a +15 racial bonus on Stealth checks when hiding due to their chameleon blend ability (see above). They suffer a -4 penalty to their effective Wisdom against Intimidate skill checks due to their innate cowardice. Saves: Skulks have a -4 penalty on all saves against fear spells and effects. Racial Feats: A skulk’s humanoid levels give it one feat. AC: +1 natural armor bonus. Chameleon Blend: See entry. Sneak Attack: See entry. Untrackable: See entry. Languages: Skulks begin play speaking Common. Skulks with high Intelligence scores can choose from the following languages: Goblin, Orc, Sylvan, Undercommon.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-aeetes-cnv
+Aeetes’ Dragon CR 8 (XP 4,800)
+N Large dragon
+Init +6; Senses darkvision 60 ft., low-light vision, scent, tremorsense 60 ft.; Perception +17
+DEFENSE
+AC 23, touch 11, flat-footed 21 (+2 Dex, +1 natural, -1 size)
+hp 103 (9d12+45)
+Fort +11; Ref +8; Will +9
+Defensive Abilities immortality, untiring
+OFFENSE
+Speed 40 ft., climb 20 ft., fly 40 ft. (poor)
+Melee bite +16 (2d6+8 plus grab and poison), 2 claws +16 (1d8+8), 2 wings +11 (1d6+4), tail slap +11 (1d8+4)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks swallow whole
+TACTICS
+Before Combat The dragon likes to pretend it is sleeping, using its tremorsense and scent abilities to keep track of approaching creatures.
+During Combat It prefers to start combat with a bite and try to swallow that creature, thereafter using its claws and bite on whichever enemy seems the most dangerous.
+STATISTICS
+Str 27, Dex 15, Con 20, Int 6, Wis 13, Cha 6
+Base Atk +9; CMB +18; CMD 30
+Feats Alertness, Combat Reflexes, Improved Initiative, Iron Will, Surprise Initiative
+Skills Bluff +8, Climb +20, Fly +12, Perception +17, Stealth +10, Sense Motive +13; Racial Modifiers Bluff +4
+Languages Draconic
+SPECIAL ABILITIES
+Immortality (Ex) Aeetes’ Dragon does not age, is immune to normal (non-magical) diseases or poisons (which cannot reduce an immortal creature’s ability score below 1 for any ability), and does not need to eat or drink. It can still be killed by violence.
+Poison (Ex) Bite—injury; save Fort DC 19; frequency 1/round for 4 rounds; effect 1 Con; cure 1 save.
+Untiring (Ex) The dragon never needs to sleep. It is immune to fatigue and exhaustion.

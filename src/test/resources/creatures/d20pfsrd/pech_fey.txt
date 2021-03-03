@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/pech
+Pech
+CR 3
+XP 800
+N Small fey (earth)
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 16, touch 12, flat-footed 15 (+1 Dex, +4 natural, +1 size)
+hp 27 (6d6+6)
+Fort +5, Ref +6, Will +6
+DR 5/cold iron; Immune petrification; SR 14
+Weaknesses light blindness
+OFFENSE
+Speed 20 ft.
+Melee mwk heavy pick +9 (1d4+6/×4)
+Special Attacks earth mastery, pech magic, stone knowledge
+Spell-Like Abilities (CL 10th; concentration +11)
+3/day— stone shape, stone tell STATISTICS
+Str 19, Dex 12, Con 13, Int 12, Wis 13, Cha 12
+Base Atk +3; CMB +6; CMD 17
+Feats Cleave, Great Fortitude, Power Attack
+Skills Climb +13, Craft (stonemasonry) +14, Knowledge (dungeoneering) +10, Knowledge (engineering) +10, Perception +10, Profession (miner) +14, Stealth +14; Racial Modifiers +4 Craft (stonemasonry), +4 Profession (miner)
+Languages Terran, Undercommon
+SPECIAL ABILITIES
+Earth Mastery (Ex) A pech gains a +1 bonus on attack and damage rolls if both it and its foes are touching the ground. If an opponent is airborne or waterborne, the pech takes a –4 penalty on attack and damage rolls. These modifiers are not precalculated into the statistics here.
+Pech Magic (Sp) Four pechs working together can cast wall of stone once per day. Eight pechs working together can cast stone to flesh (DC 17) once per day. These spell-like abilities function at CL 10th. Each pech must use a full-round action to take part in the casting. The save DCs are modified by the highest Charisma modifier in the group.
+Stone knowledge (Ex) A pech’s knowledge of earth and stone grants a +1 racial bonus on attack and damage rolls and the benefits of the Improved Critical feat against creatures and objects made of stone or earth or with the earth subtype. Knowledge (dungeoneering), Knowledge (engineering) and Profession (miner) are always class skills for a pech.

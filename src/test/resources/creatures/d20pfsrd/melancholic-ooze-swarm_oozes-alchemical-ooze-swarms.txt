@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/alchemical-ooze-swarms/melancholic-ooze-swarm
+Melancholic Ooze Swarm
+CR 1
+XP 400
+N Tiny ooze (swarm)
+Init -5; Senses blindsight 60 ft.; Perception –5
+DEFENSE
+AC 7, touch 7, flat-footed 7 (-5 Dex, +2 size)
+hp 17 (2d8+8)
+Fort +4, Ref -5, Will -5
+Immune ooze traits, swarm traits; Resist electricity 5
+Weaknesses vulnerability to acid
+OFFENSE
+Speed 10 ft.
+Melee swarm (1 plus viscous)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction(DC 15), paralyzing slime, viscous (DC 15)
+STATISTICS
+Str 14, Dex 1, Con 18, Int -, Wis 1, Cha 1
+Base Atk +1; CMB -6; CMD 6 (can’t be tripped)
+SPECIAL ABILITIES
+Paralyzing Slime (Ex) Melancholic oozes are composed of chemical depressants. Any living creature that begins its turn affected by the swarm’s viscous ability must make a DC 15 Fortitude save or be paralyzed for 1 round. This is a mind affecting effect. Creatures immune to poison are immune to this effect.
+Viscous (Ex) As described in the sanguine ooze swarm’s special abilities, except that the Reflex save DC is 15 and the patches are destroyed if the victim takes any amount of acid damage.

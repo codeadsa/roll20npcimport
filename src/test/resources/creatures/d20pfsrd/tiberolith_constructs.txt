@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/tiberolith
+Tiberolith CR 10
+XP 9,600
+N Huge construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 24, touch 8, flat-footed 24 (+16 natural, –2 size)
+hp 111 (13d10+40)
+Fort +4, Ref +4, Will +4
+Defensive Abilities spell trap; DR 10/adamantine and bludgeoning; Immune acid, construct traits; Resist electricity 30; SR 24
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +19 (3d8+8)
+Space 15 ft.; Reach 15 ft.
+Special Attacks corrosive strikes, shockwave
+STATISTICS
+Str 26, Dex 11, Con —, Int —, Wis 11, Cha 1
+Base Atk +13; CMB +23; CMD 33
+SPECIAL ABILITIES
+Corrosive Strikes (Ex) A tiberolith reduced to 30 or fewer hit points leaks acid, and deals an additional 1d6 points of acid damage with its slam attacks.
+Shockwave (Su) Three times per day, a tiberolith can unleash a burst of electricity. This blast deals 12d6 points of electricity damage to all creatures within 30 feet (Reflex DC 16 half). A tiberolith is immune to its shockwave and that of other tiberoliths. The save DC is Constitution-based.
+Spell Trap (Su) When a tiberolith is targeted by a spell that allows spell resistance and its spell resistance fails to protect it against that spell, the spell instead becomes trapped in the tiberolith’s magical runes. The runes can only trap one spell at a time; if a second spell would become trapped, the first spell affects the tiberolith normally (including allowing a saving throw, if appropriate) and the second spell is trapped. A trapped spell dissipates harmlessly after 24 hours.

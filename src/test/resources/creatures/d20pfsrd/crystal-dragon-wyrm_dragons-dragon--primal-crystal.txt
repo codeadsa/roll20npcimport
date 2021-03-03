@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-crystal/crystal-dragon-wyrm
+Crystal Dragon, Wyrm CR 16
+XP 76,800
+CG Huge dragon (earth)
+Init +3; Senses dragon senses, tremorsense 120 ft.; Perception +31; Aura frightful presence (330 ft., DC 29)
+DEFENSE
+AC 39, touch 7, flat-footed 39 (-1 Dex, +32 natural, -2 size)
+hp 310 (23d12+161)
+Fort +22, Ref +14, Will +18
+Defensive Abilities ray reflection; DR 20/magic; Immune paralysis, sleep, sonic; SR 27
+OFFENSE
+Speed 60 ft., burrow 30 ft., climb 30 ft., fly 200 ft. (poor)
+Melee bite +33 (2d8+16/19-20), 2 claws +32 (2d6+11), tail slap +30 (2d6+16), 2 wings +30 (1d8+5)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, 22d4 sonic, DC 28), crush (2d8+16, DC 28)
+Spell-Like Abilities (CL 23rd; concentration +31)
+At will—color spray (DC 19), glitterdust (DC 20), rainbow pattern (DC 22)
+3/day—prismatic spray (DC 25), stone to flesh (DC 24)
+Sorcerer Spells Known (CL 11th; concentration +19)
+5th (5/day)—persistent image (DC 23), wall of force
+4th (8/day)—dimension door, phantasmal killer (DC 22), stone shape
+3rd (8/day)—dispel magic, displacement, lightning bolt (DC 21), major image (DC 21)
+2nd (8/day)—blindness/deafness (DC 20), hypnotic pattern (DC 20), invisibility, minor image (DC 20), mirror image
+1st (8/day)—alarm, feather fall, magic aura, silent image (DC 19), unseen servant
+0 (at will)—acid splash, detect magic, detect poison, ghost sound, mage hand, message, open/close, read magic, touch of fatigue
+STATISTICS
+Str 33, Dex 8, Con 25, Int 20, Wis 21, Cha 26
+Base Atk +23; CMB +36; CMD 45 (49 vs. trip)
+Feats Deceitful, Great Fortitude, Greater Vital Strike, Hover, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Multiattack, Power Attack, Vital Strike, Weapon Focus (bite)
+Skills Bluff +38, Climb +45, Disguise +35, Fly +17, Intimidate +34, Knowledge (dungeoneering, geography) +31, Perception +31, Sense Motive +31, Stealth +17, Survival +31; Racial Modifiers +8 Climb
+Languages Common, Draconic, Dwarven, Elven, Terran, Undercommon
+SQ razor sharp
+SPECIAL ABILITIES
+Razor Sharp (Sp) All of a crystal dragon’s natural attacks deal slashing damage.
+Ray Reflection (Ex) An ancient crystal dragon’s scales reflect ray spells back upon the ray’s source if the ray fails to overcome the dragon’s spell resistance.
+

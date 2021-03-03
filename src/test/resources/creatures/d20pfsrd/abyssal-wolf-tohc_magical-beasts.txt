@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/abyssal-wolf-tohc
+Abyssal Wolf CR 7
+XP 3,200
+CE Large magical beast (chaotic, evil, extraplanar)
+Init +7; Senses darkvision 60 ft., keen scent, know alignment, low-light vision; Perception +9
+DEFENSE
+AC 20, touch 12, flat-footed 17 (+3 Dex, +8 natural, -1 size)
+hp 80 (7d10+35 plus 7)
+Fort +10, Ref +8, Will +6
+DR 10/cold iron; SR 18
+OFFENSE
+Speed 50 ft.
+Melee bite +11 (1d8+7 plus trip)
+Space 10 ft.; Reach 5 ft.
+Special Attacks paralyzing gaze
+TACTICS
+Abyssal wolves hunt in packs. When prey is sighted, the monsters move within range where they can use their paralyzing gaze. Foes that are not paralyzed are dealt with first; the wolves circle an opponent and take turns charging in and attacking. A foe that is tripped is pounced on by the pack. Once the pack deals with the immediate threat, they turn their attention to any paralyzed creatures and tear them to pieces.
+STATISTICS
+Str 20, Dex 17, Con 20, Int 8, Wis 14, Cha 17
+Base Atk +7; CMB +13; CMD 26 (30 vs. trip)
+Feats Improved Initiative, Iron Will, Power Attack, Toughness
+Skills Perception +9 (+11 vs. half-fiends and tieflings), Sense Motive +2 (+4 vs. half-fiends and tieflings), Stealth +5; Racial Modifiers +2 Perception and Sense Motive vs. half-fiends and tieflings
+Languages Abyssal, Common
+SPECIAL ABILITIES
+Keen Scent (Ex) An abyssal wolf can detect prey within 60 feet by sense of smell, as per the scent ability. This range increases to 120 feet if the opponents are upwind; and decreases to 30 feet if downwind. By making a successful DC 15 Wisdom check the abyssal wolf can determine whether a tiefling or half-fiend is present among the opponents.
+Know Alignment (Su) Abyssal wolves always know the alignment of any creature they look upon. This ability can be negated or dispelled, but the abyssal wolf can activate it again as a free action on its next turn.
+Paralyzing Gaze (Su) Anyone within 40 feet meeting the gaze of an abyssal wolf must make a successful DC 16 Will save or be paralyzed for 2d4 rounds. Half-fiends and tieflings have a -2 circumstance penalty on this save. Once a successful save is made, the target is immune to the effects of that abyssal wolf’s gaze attack for one day. The save DC is Charisma-based.

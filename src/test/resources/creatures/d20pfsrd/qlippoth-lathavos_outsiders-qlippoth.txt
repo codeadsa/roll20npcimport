@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-lathavos
+Iathavos CR 20
+XP 307,200
+CE Colossal outsider (chaotic, evil, extraplanar, qlippoth)
+Init –1; Senses all-around vision, darkvision 60 ft., low-light vision; Perception +37
+Aura cloak of chaos (DC 26), stench (DC 32, 10 rounds),
+DEFENSE
+AC 37, touch 7, flat-footed 37 (+4 deflection, –1 Dex, +2 insight, +30 natural, –8 size)
+hp 372 (24d10+240); fast healing 15
+Fort +28, Ref +15, Will +28
+Defensive Abilities ichor, never surprised or flat-footed; DR 15/cold iron and lawful; Immune cold, poison, mind-affecting effects; Resist acid 30, electricity 10, fire 10; SR 31
+OFFENSE
+Speed 20 ft., fly 50 ft. (perfect)
+Melee 2 claws +31 (4d6+15/19–20 plus grab), 4 wings +26 (2d8+7)
+Space 30 ft.; Reach 30 ft.
+Special Attacks abyssal transformation, entropic beams, horrific appearance (DC 30)
+Spell-Like Abilities (CL 20th; concentration +28)
+Constant—cloak of chaos (DC 26), foresight, freedom of movement, true seeing
+At will—dimension door, dispel law, greater dispel magic, magic missile, plane shift (DC 25), wind walk, word of recall
+3/day—black tentacles, dimensional lock, horrid wilting (DC 26), insanity (DC 25), word of chaos (DC 25)
+1/day—quickened heal, imprisonment (DC 27)
+STATISTICS
+Str 40, Dex 8, Con 31, Int 29, Wis 30, Cha 27
+Base Atk +24; CMB +47 (+51 grapple); CMD 62 (can’t be tripped)
+Feats Awesome Blow, Critical Focus, Greater Vital Strike, Improved Bull Rush, Improved Critical (claw), Improved Vital Strike, Lightning Reflexes, Power Attack, Quicken Spell-Like Ability (heal), Spell Penetration, Staggering Critical, Vital Strike
+Skills Bluff +35, Escape Artist +23, Fly +26, Intimidate +35, Knowledge (arcana) +36, Knowledge (dungeoneering) +33, Knowledge (geography) +33, Knowledge (history) +33, Knowledge (planes) +36, Knowledge (religion) +33, Perception +37, Sense Motive +37, Spellcraft +36, Stealth +10, Use Magic Device +35
+Languages Abyssal; telepathy 300 ft.
+SPECIAL ABILITIES
+Abyssal Transformation (Su) If an iathavos establishes a hold on a creature of Large or smaller size, it can place that creature deep within the bristly folds of its flesh. Treat this as an engulf attack, except that at the start of the iathavos’s turn, an engulfed creature must make a DC 30 Fortitude save or be transformed into a nyogoth qlippoth that immediately squirms out of the iathavos’s body to serve its new master. Creatures transformed into nyogoths are not controlled by the iathavos, but function and behave as if they were typical members of that species—they retain no memories or abilities they may have possessed in their previous lives. Items held or worn by the unfortunate victim remain lodged within the folds of the iathavos’s body and can only be retrieved if the iathavos is helpless or dead. A creature transformed into a nyogoth in this manner can be restored to its true shape via break enchantment, miracle, or wish. Otherwise, slaying the nyogoth allows the poor soul to be restored to life via reincarnate, resurrection, or true resurrection. The save DC is Charisma-based.
+Entropic Beams (Su) As a standard action once every minute, an iathavos can fire beams of entropic energy from its 10 eyes. Each of these beams of energy can be directed at a single target within 300 feet of the iathavos, but no more than one beam may be directed at any one Creature. Beams that are not directed at a creature are wasted. The qlippoth must make a +15 ranged touch attack to hit with each beam. Each beam has the same effect as a CL 20th disintegrate (40d6 damage, DC 32 Fortitude partial for 5d6 damage), except a creature killed by this damage explodes in a 5-foot burst of energy, flesh, shadow, and smoke instead of turning into dust. Any Creature in this burst must make a DC 32 Will save or be staggered for 1 round. The save DCs are Constitution-based.
+Horrific Appearance (Su) Creatures that succumb to the iathavos’s horrific appearance are affected by a feeblemind effect and permanently blinded.
+Ichor (Su) As long as the iathavos has taken any hit point damage, thick and stringy ropes of black ichor weep from the fissures and folds in its bristly hide. This ichor extrudes from the Creature’s body in a writhing nimbus of filaments at a rate of 5 feet per round, to a maximum range equal to its reach (30 feet). At the start the iathavos’s turn, all Creatures in reach of these strands of ichor must make a DC 32 Reflex save or become entangled. At the start the iathavos’s turn, all Creatures entangled by the ichor take 4d6 points of acid damage. If the qlippoth ends its turn with no hit point damage, the ichor melts away into harmless mist, releasing all entangled creatures. The save DC is Constitution-based.
+Stench (Su) The iathavos’s stench ability is supernaturally disgusting—creatures that succumb to this ability are nauseated, while those that save are still sickened.

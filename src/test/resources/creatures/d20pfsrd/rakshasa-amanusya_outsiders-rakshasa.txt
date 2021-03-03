@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/rakshasa/rakshasa-amanusya
+Amanusya CR 6
+XP 2,400
+LE Medium outsider (native, rakshasa, shapechanger)
+Init +4; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 18, touch 14, flat-footed 14 (+4 Dex, +4 natural)
+hp 66 (7d10+28)
+Fort +6, Ref +9, Will +6
+DR 5/good or piercing; SR 21
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +11 (1d4+2)
+Special Attacks detect thoughts (DC 17), sneak attack +3d6
+Psychic Magic (CL 4th; concentration +8)
+5 PE—babble (2 PE, DC 16), blur (2 PE), deja vu (1 PE, DC 15), hideous laughter (1 PE, DC 15), hold person (2 PE, DC 16), hypnotism (1 PE, DC 15), id insinuation I (2 PE, DC 16), paranoia (1 PE, DC 15)
+STATISTICS
+Str 15, Dex 19, Con 18, Int 12, Wis 13, Cha 18
+Base Atk +7; CMB +9; CMD 23
+Feats Nimble Moves, Skill Focus (Perform [dance]), Step Up, Weapon Finesse
+Skills Acrobatics +14 (+18 when jumping), Bluff +18, Disguise +22, Escape Artist +14, Perception +11, Perform (dance) +17, Stealth +14; Racial Modifiers +4 Bluff, +8 Disguise
+Languages Common, Infernal, Undercommon
+SQ beguiling dance, change shape (any humanoid; alter self), swift change
+SPECIAL ABILITIES
+Beguiling Dance (Ex) An amanusya can attempt a Perform (dance) skill check in place of a concentration check to cast defensively or in place of an Acrobatics check to move through threatened squares. Once per round, when an amanusya succeeds at a Perform (dance) check to move through a square threatened by a foe, she can immediately attempt a feint against that foe as a free action.
+Swift Change (Su) An amanusya can change shape as a swift action, but only when revealing her true form.

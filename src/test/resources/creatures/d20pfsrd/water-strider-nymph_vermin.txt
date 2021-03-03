@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/water-strider-nymph
+Nymph Water Strider CR 1/4
+XP 100
+N Small vermin
+Init +2; Senses darkvision 60 ft., tremorsense 60 ft. (see giant water strider); Perception +4
+DEFENSE
+AC 13, touch 13, flat-footed 11 (+2 Dex, +1 size)
+hp 4 (1d8)
+Fort +2, Ref +2, Will +0
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., fly 20 ft. (poor)
+Melee 2 claw –1 (1d3–2), bite –1 (1d2–2)
+STATISTICS
+Str 7, Dex 15, Con 10, Int —, Wis 10, Cha 2
+Base Atk +0; CMB –3; CMD 9 (17 vs. trip)
+Skills Fly +0, Perception +4, Swim +2; Racial Modifiers +4 Perception, +4 Swim
+SQ water skating (see giant water strider)

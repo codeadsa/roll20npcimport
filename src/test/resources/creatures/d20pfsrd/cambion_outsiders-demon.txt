@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/cambion
+Cambion CR 6
+XP 2,400
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +2; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 68 (8d10+24)
+Fort +9, Ref +8, Will +7
+DR 10/cold iron or good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 17
+OFFENSE
+Speed 30 ft.
+Melee longsword +12/+7 (1d8+4/19–20) or 2 claws +12 (1d6+4)
+Spell-Like Abilities (CL 8th)
+At will—detect magic, detect thoughts (DC 14), fear (DC 16), levitate, polymorph (self only)
+STATISTICS
+Str 18, Dex 15, Con 17, Int 16, Wis 16, Cha 14
+Base Atk +8; CMB +12; CMD 24
+Feats Blind-Fight, Cleave, Iron Will, Power Attack
+Skills Bluff +13, Diplomacy +13, Escape Artist +13, Intimidate +13, Knowledge (planes) +14, Perception +18, Sense Motive +14, Stealth +13, Survival +14; Racial Modifiers +4 Perception
+Languages Abyssal, Common; telepathy 100 ft.
+Gear longsword

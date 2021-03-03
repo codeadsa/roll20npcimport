@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/widow-creeper-tohc
+Widow Creeper CR 13
+XP 25,600
+N Large plant
+Init +4; Senses darkvision 60 ft., low-light vision, plantsense 120 ft.; Perception +19
+DEFENSE
+AC 28, touch 9, flat-footed 28 (+19 natural, -1 size)
+hp 178 (17d8+85 plus 17)
+Fort +15, Ref +7, Will +8
+DR 15/magic and slashing; Immune plant traits
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee 2 tentacles +20 (2d8+8 plus grab)
+Space 10 ft.; Reach 10 ft. (20 ft. with tentacles)
+Special Attacks entangle, fluid drain
+TACTICS
+A widow creeper sustains itself on a diet of brain fluid and blood. Corpses drained of blood and fluids are left where they fall; the widow creeper does not devour the flesh, bones, or muscle of its prey.
+Widow creepers spend much of their time in their nests, venturing forth only to feed, and even then, they rarely venture far from their lair. They prefer to lure potential prey to them by rustling nearby leaves or underbrush.
+STATISTICS
+Str 27, Dex 10, Con 21, Int 2, Wis 12, Cha 6
+Base Atk +12; CMB +21 (+25 grapple); CMD 31 (43 vs. trip)
+Feats Improved Initiative, Improved Iron Will, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Perception, Stealth), Toughness, Weapon Focus (tentacle)
+Skills Climb +21, Perception +19, Stealth +5 (+17 in forests); Racial Modifiers +12 Stealth in forests
+SQ improved woodland stride
+SPECIAL ABILITIES
+Control Plants (Su) A widow creeper can use control plants, as the spell (caster level 17th).
+Entangle (Su) As a standard action, up to a number of times per day equal to its Constitution modifier (minimum 1), a widow creeper can fire a mass of sticky, clinging vines and weeds to a range of 60 feet at a single target. This requires the widow creeper to succeed on a ranged touch attack with a +11 bonus to hit.
+A creature hit by the vines is entangled. An entangled creature can break free and move half its normal speed by using a full-round action to make a DC 23 Escape Artist check or a DC 23 Strength check. The check DCs are Constitution-based.
+Fluid Drain (Ex) A widow creeper can suck brain fluids from a living creature by making a successful grapple check. If it pins the foe, it drains brain fluid, dealing 1d4 points of Constitution damage and 1 point of Intelligence damage each round that it maintains the hold.
+Improved Woodland Stride (Su) A widow creeper can move through any sort of undergrowth (natural thorns, briars, overgrown areas, and similar terrain) at its normal speed without taking damage or suffering other impairment.
+This includes thorns, briars, and overgrown areas that are magically manipulated to impede motion.
+Plantsense (Ex) A widow creeper can automatically pinpoint the location of anything within 120 feet that is in contact with vegetation.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/flumph-tohc
+Flumph CR 1
+XP 400
+LG Small aberration
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +7
+DEFENSE
+AC 18, touch 14, flat-footed 15 (+3 Dex, +4 natural, +1 size)
+hp 9 (2d8)
+Fort +0, Ref +3, Will +5
+Resist acid 10
+OFFENSE
+Speed 5 ft., fly 20 ft. (perfect)
+Melee sting +5 (1d4 plus acid injection)
+Special Attacks acid injection, stench spray (DC 11, 1d6 rounds, every 1d4 rounds)
+TACTICS
+The flumph spends most of its time hunting small animals and vermin, which it kills and devours by dropping on them and piercing them with its acidic spikes. If threatened by a creature larger than itself, it fires its nauseating spray in an attempt to repel its attackers. If this attack fails, the flumph rises above its foes and drops at them, attacking with its spikes.
+STATISTICS
+Str 10, Dex 16, Con 11, Int 10, Wis 14, Cha 10
+Base Atk +1; CMB +0; CMD 13
+Feats Weapon Finesse
+Skills Diplomacy +2, Fly +18, Perception +7, Sense Motive +3, Stealth +11
+Languages Aklo, Common
+SPECIAL ABILITIES
+Acid Injection (Ex) When a flumph strikes an opponent with its spikes, it injects a burning, irritating acid that deals 1d4 points of damage immediately and another 1d4 points on the round after the attack. The target can end the acid’s effects by submerging the wound in water for a round or by being treated with a DC 15 Heal check. A creature grappling or swallowing the flumph takes this acid damage automatically every round it maintains this contact.
+Stench Spray (Ex) A flumph can spray a 20-foot line of foul-smelling liquid once every 1d4 rounds. This spray functions like the stench universal monster ability, except it only affects creatures struck by the spray, which must make a DC 11 Fortitude save or be sickened for 5 rounds. The save DC is Constitution-based.
+Alternatively, the flumph can concentrate the spray on a single target within 5 feet — if the target fails its saving throw, it is nauseated for 5 rounds; otherwise, it is sickened for 1 minute. The odor from this spray lingers in the area and on all creatures struck for 1d4 hours, and can be detected at a range of 100 feet (creatures with the scent ability can smell it at double this range).

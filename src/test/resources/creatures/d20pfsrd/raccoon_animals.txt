@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/raccoon
+Raccoon CR 1/2
+XP 200
+N Tiny animal
+Init +2; Senses low-light vision, scent; Perception +3
+DEFENSE
+AC 15, touch 14, flat-footed 13 (+2 Dex, +1 natural, +2 size)
+hp 4 (1d8)
+Fort +2, Ref +4, Will +3
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee bite +4 (1d3-1)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 8, Dex 15, Con 11, Int 2, Wis 16, Cha 5
+Base Atk +0; CMB +0; CMD 9 (13 vs. trip)
+Feats Weapon Finesse
+Skills Climb +10, Sleight of Hand +3
+SPECIAL ABILITIES
+Familiar The master of a raccoon familiar gains a +3 bonus on Sleight of Hand checks.

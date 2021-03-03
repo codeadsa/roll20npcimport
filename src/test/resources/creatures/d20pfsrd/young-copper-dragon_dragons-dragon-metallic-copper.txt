@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-copper/young-copper-dragon
+Young Copper Dragon CR 8
+XP 4,800
+CG Medium dragon (earth)
+Init +6; Senses dragon senses; Perception +14
+DEFENSE
+AC 22, touch 12, flat-footed 20 (+2 Dex, +10 natural)
+hp 85 (9d12+27)
+Fort +9, Ref +8, Will +8
+Defensive Abilities uncanny dodge; Immune acid, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (average); climb stone
+Melee bite +13 (1d8+6/19–20), 2 claws +13 (1d6+4), 2 wings +8 (1d4+2)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (60-ft. line, DC 17, 6d6 acid), slow breath (30-ft. cone, DC 17, slowed for 1d6+3 rounds)
+Spell-Like Abilities (CL 9th; concentration +11)
+At will— grease (DC 13) Spells Known (CL 1st; concentration +3)
+1st (4/day)— alarm, silent image (DC 13)
+0 (at will)— detect magic, ghost sound (DC 12) , light, message STATISTICS
+Str 19, Dex 14, Con 17, Int 14, Wis 15, Cha 14
+Base Atk +9; CMB +13; CMD 25 (29 vs. trip)
+Feats Combat Expertise, Improved Critical (bite), Improved Initiative, Improved Trip, Power Attack
+Skills Bluff +14, Craft (trap) +14, Fly +14, Perception +14, Perform (comedy) +11, Sense Motive +14, Stealth +14, Use Magic Device +14
+Languages Common, Draconic, Gnome

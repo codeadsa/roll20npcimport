@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/brownie
+Brownie CR 1
+XP 400
+N Tiny fey
+Init +8; Senses low-light vision; Perception +8
+DEFENSE
+AC 17, touch 17, flat-footed 12 (+4 Dex, +1 dodge, +2 size)
+hp 4 (1d6+1)
+Fort +1, Ref +6, Will +4; +2 vs. illusions
+DR 5/cold iron; SR 12
+OFFENSE
+Speed 20 ft.
+Melee short sword +6 (1d2–2/19–20)
+Space 2–1/2 ft.; Reach 0 ft.
+Spell-Like Abilities (CL 7th; concentration +10)
+At will—dancing lights, mending, prestidigitation
+1/day—lesser confusion (DC 14), dimension door (self only), mirror image, ventriloquism (DC 14)
+STATISTICS
+Str 7, Dex 18, Con 12, Int 14, Wis 15, Cha 17
+Base Atk +0; CMB +2; CMD 11
+Feats Dodge, Improved InitiativeB, Weapon FinesseB
+Skills Acrobatics +8 (+4 jump), Bluff +7, Craft (any one) +6, Escape Artist +8, Handle Animal +4, Perception +8, Sense Motive +6, Stealth +16 (+20 in forest); Racial Modifiers +2 Perception, +4 Stealth in forests
+Languages Common, Elven, Gnome, Sylvan

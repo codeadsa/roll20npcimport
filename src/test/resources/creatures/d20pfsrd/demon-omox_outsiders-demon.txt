@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-omox
+Omox Demon
+CR 12
+XP 19,200
+CE Medium outsider (aquatic, chaotic, demon, evil, extraplanar)
+Init +11; Senses darkvision 120 ft.; Perception +28
+DEFENSE
+AC 28, touch 18, flat-footed 20 (+7 Dex, +1 dodge, +10 natural)
+hp 162 (13d10+91)
+Fort +15, Ref +13, Will +12
+DR 10/good; Immune acid, critical hits, disease, electricity, paralysis, poison, polymorph, sleep effects, stunning; Resist cold 10, fire 10; SR 23
+OFFENSE
+Speed 40 ft., climb 20 ft., swim 80 ft.
+Melee 2 slams +21 (1d6+8 plus 3d6 acid and grab)
+Ranged slime +20 (1d6 plus 3d6 acid and entangle [see slime below])
+Special Attacks smothering
+Spell-Like Abilities (CL 12th; concentration +16)
+At will—create water, greater teleport (self plus 50 lbs. of objects only), liquid leap (see below), telekinesis (DC 19)
+3/day—gaseous form, control water, poison (DC 18), stinking cloud (DC 17)
+1/day—acid fog, summon (level 4, 1 omox 30% or 1d4 babaus 60%)
+STATISTICS
+Str 26, Dex 25, Con 24, Int 15, Wis 19, Cha 18
+Base Atk +13; CMB +21; CMD 39 (can’t be tripped)
+Feats Combat Reflexes, Dodge, Improved Initiative, Lightning Reflexes, Mobility, Spring Attack, Vital Strike
+Skills Acrobatics +23 (+27 jump), Climb +32, Escape Artist +23, Knowledge (dungeoneering) +18, Knowledge (planes) +18, Perception +28, Sense Motive +20, Stealth +23 (+33 when submerged), Swim +32; Racial Modifiers +16 Escape Artist, +8 Perception, +10 Stealth when submerged
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SQ amorphous, amphibious, compression
+SPECIAL ABILITIES
+Liquid Leap (Sp) As long as an omox is in contact with liquid, it can use dimension door as a swift action (CL 12th); its starting and ending points must be connected by a contiguous mass of liquid.
+Slime (Su) An omox’s nauseating body is composed of sticky, acidic slime. As an attack action, it can hurl a glob of slime (range increment 20 feet). Any creature that is struck by the glob must make a DC 23 Reflex save or become entangled for 1d6 rounds. The save DC is Constitution-based.
+Smothering (Ex) An omox can use its grab ability against a creature of any size. When it grabs a foe, it attempts to flow over and into the victim’s mouth and nose to smother it. Each round the omox maintains its grapple, its victim cannot breathe or speak. See rules for suffocation here.

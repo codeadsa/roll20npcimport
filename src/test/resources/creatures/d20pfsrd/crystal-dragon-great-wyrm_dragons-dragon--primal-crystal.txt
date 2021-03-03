@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-crystal/crystal-dragon-great-wyrm
+Crystal Dragon, Great Wyrm CR 18
+XP 153,600
+CG Gargantuan dragon (earth)
+Init +3; Senses dragon senses, tremorsense 120 ft.; Perception +34; Aura frightful presence (360 ft., DC 31), scintillating aura (60 ft., DC 30)
+DEFENSE
+AC 40, touch 5, flat-footed 40 (-1 Dex, +35 natural, -4 size)
+hp 362 (25d12+200)
+Fort +24, Ref +15, Will +20
+Defensive Abilities ray reflection; DR 20/magic; Immune paralysis, sleep, sonic; SR 29
+OFFENSE
+Speed 60 ft., burrow 30 ft., climb 30 ft., fly 250 ft. (clumsy)
+Melee bite +34 (4d6+18/19-20), 2 claws +33 (2d8+12), tail slap +31 (2d8+18), 2 wings +31 (2d6+6)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (60-ft. cone, 24d4 sonic, DC 30), crush (4d6+18, DC 30), tail sweep (2d6+18, DC 30)
+Spell-Like Abilities (CL 25th; concentration +34)
+At will—color spray (DC 20), glitterdust (DC 21), rainbow pattern (DC 23)
+3/day—prismatic spray (DC 26), stone to flesh (DC 25)
+1/day—imprisonment (DC 28)
+Sorcerer Spells Known (CL 13th; concentration +22)
+6th (5/day)—chain lightning (DC 25), mislead (DC 25)
+5th (8/day)—teleport, persistent image (DC 24), wall of force
+4th (8/day)—ball lightning* (DC 23), dimension door, phantasmal killer (DC 23), stone shape
+3rd (8/day)—dispel magic, displacement, lightning bolt (DC 22), major image (DC 22)
+2nd (8/day)—blindness/deafness (DC 21), hypnotic pattern (DC 21), invisibility, minor image (DC 21), mirror image
+1st (9/day)—alarm, feather fall, magic aura, silent image (DC 20), unseen servant
+0 (at will)—acid splash, detect magic, detect poison, ghost sound, mage hand, message, open/close, read magic, touch of fatigue
+STATISTICS
+Str 35, Dex 8, Con 27, Int 22, Wis 23, Cha 28
+Base Atk +25; CMB +41; CMD 50 (54 vs. trip)
+Feats Deceitful, Great Fortitude, Greater Vital Strike, Hover, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Multiattack, Power Attack, Vital Strike, Weapon Focus (bite), Wingover
+Skills Appraise +34, Bluff +41, Climb +48, Disguise +38, Fly +13, Intimidate +37, Knowledge (dungeoneering, geography) +34, Perception +34, Sense Motive +34, Stealth +15, Survival +34; Racial Modifiers +8 Climb
+Languages Common, Draconic, Dwarven, Elven, Orc, Terran, Undercommon
+SQ razor sharp
+SPECIAL ABILITIES
+Razor Sharp (Sp) All of a crystal dragon’s natural attacks deal slashing damage.
+Ray Reflection (Ex) An ancient crystal dragon’s scales reflect ray spells back upon the ray’s source if the ray fails to overcome the dragon’s spell resistance.
+Scintillating Aura (Su) A great wyrm crystal dragon radiates an aura of scintillating color from its jeweled scales to a radius of 60 feet. All within this area must make a Will save each round to avoid being stunned (if the victim has 15 or fewer Hit Dice) or confused (if the victim has more than 15 Hit Dice) for 1 round. The save DC is equal to the dragon’s breath weapon save DC. This is a mind-affecting effect. The dragon can activate or suppress this aura as a free action.
+

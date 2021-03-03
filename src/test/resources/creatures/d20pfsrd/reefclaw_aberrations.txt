@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/reefclaw
+Reefclaw CR 1
+XP 400
+CN Small aberration (aquatic)
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +6
+DEFENSE
+AC 14, touch 12, flat-footed 13 (+1 Dex, +2 natural, +1 size)
+hp 13 (2d8+4)
+Fort +2, Ref +1, Will +4
+Defensive Abilities ferocity; Resist cold 5
+OFFENSE
+Speed 5 ft., swim 40 ft.
+Melee 2 claws +2 (1d4 plus grab and poison)
+Special Attacks death frenzy, constrict (1d4)
+STATISTICS
+Str 10, Dex 13, Con 14, Int 5, Wis 12, Cha 13
+Base Atk +1; CMB +0 (+8 grapple); CMD 11 (can’t be tripped)
+Feats Improved Initiative
+Skills Perception +6, Swim +8; Racial Modifiers +8 Swim
+Languages Common (can’t speak)
+SQ amphibious
+SPECIAL ABILITIES
+Death Frenzy (Su) When a reefclaw is killed, its body spasms horrifically. Immediately upon dying, the reefclaw makes a full attack against a creature it threatens. If more than one creature is within reach, roll randomly for each attack to determine the target (which may be another reefclaw).
+Grab (Ex) A reefclaw can use its grab ability on a target of any size. Reefclaws have a +8 racial bonus on grapple checks; this bonus replaces the normal +4 bonus a creature with grab receives.
+Poison (Ex) Claw—injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.
+The save DC is Constitution-based.

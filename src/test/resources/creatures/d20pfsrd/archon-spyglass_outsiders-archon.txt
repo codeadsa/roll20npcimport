@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/archon-spyglass
+Spyglass Archon CR 3
+XP 800
+LG Medium outsider (archon, extraplanar, good, lawful)
+Init +2; Senses darkvision 60 ft., detect evil, hone senses, low-light vision; Perception +7; Aura aura of menace (DC 13), magic circle against evil
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 armor, +2 Dex, +1 natural)
+hp 26 (4d10+4)
+Fort +2, Ref +6, Will +4; +4 vs. poison
+DR 5/evil; Immune electricity, petrification; SR 14
+OFFENSE
+Speed 40 ft., fly 40 ft. (good)
+Melee mwk longsword +5 (1d8+2/19–20), mwk short sword +5 (1d6+1/19–20)
+Ranged shortbow +6 (1d6/×3)
+Special Attacks sneak attack +1d6
+Spell-Like Abilities (CL 4th; concentration +3)
+Constant—detect evil, magic circle against evil
+At will—aid, continual flame, greater teleport (self plus 50 lbs. of objects only), message
+3/day—darkness, entropic shield, undetectable alignment
+STATISTICS
+Str 14, Dex 15, Con 12, Int 13, Wis 10, Cha 9
+Base Atk +4; CMB +6; CMD 18
+Feats Skill Focus (Stealth), Two-Weapon Fighting
+Skills Acrobatics +9, Bluff +6, Fly +13, Knowledge (planes) +8, Perception +7, Sense Motive +7, Stealth +12
+Languages Celestial, Draconic, Infernal; truespeech
+SPECIAL ABILITIES
+Hone Senses (Su) Three times per day, a spyglass archon can concentrate its attention as a swift action. For a number of rounds equal to its Hit Dice (4 for most spyglass archons), the range of the spyglass archon’s darkvision is doubled, it gains a +6 bonus on Perception checks, and it gains blindsense out to a range of 15 feet.

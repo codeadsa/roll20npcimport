@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/terra-cotta-soldier/terra-cotta-horseman
+Terra-cotta Horseman CR 7
+XP 2,400
+N Large construct
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 20, touch 11, flat-footed 18 (+2 Dex, +9 natural, -1 size)
+hp 85 (10d10+30)
+Fort +3, Ref +5, Will +3
+DR 5/bludgeoning; Immune construct traits, fire; SR 18
+OFFENSE
+Speed 30 ft.
+Melee lance +17 (1d8+12/x3) or 2 slams +11 (1d6+7)
+Space 10 ft.; Reach 5 ft. (10 ft. with lance)
+Special Attacks keen weapons, rank fighting, trample (1d6+4, DC 18)
+STATISTICS
+Str 24, Dex 14, Con —, Int 1, Wis 11, Cha 1
+Base Atk +10; CMB +17 (+19 bull rush/overrun); CMD 29 (31 bull rush/overrun, 33 vs. trip)
+Feats Improved Bull Rush, Improved Initiative, Improved Overrun, Power Attack, Weapon Focus (lance)
+Skills Perception +10
+SQ undersized weapons
+SPECIAL ABILITIES
+Keen Weapons (Su) After it has engaged in at least 1 round of combat, a terra-cotta horseman’s weapons automatically gain the benefits of keen weapon (CL 6th). This effect persists until the end of the battle.
+Rank Fighting (Ex) Whenever a terra-cotta horseman is adjacent to another terra-cotta horseman, it gains a +2 dodge bonus to its AC and a +2 bonus on saving throws, attack rolls, and damage rolls.
+
+Undersized Weapons (Ex)
+Although this creature is Large, its upper torso is the same size as that of a Medium humanoid. As a result, it wield weapons as if they were one size category smaller than their actual size (Medium).
+Base Creature
+Terra-cotta Soldier Construction Terra-cotta Horseman
+A terra-cotta horseman’s body is made from 600 pounds of clay, fired with rare and magical glazes worth 500 gp.
+CL 9th; Price 19,000 gp
+CONSTRUCTION REQUIREMENTS
+Craft Construct, animate objects, cat’s grace, geas/quest, keen edge; Special creator must be caster level 9th; Skill Craft (pottery) or Craft (sculptures) DC 14; Cost 10,000 gp

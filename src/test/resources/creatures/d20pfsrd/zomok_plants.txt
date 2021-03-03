@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/zomok
+Zomok CR 16
+XP 76,800
+N Gargantuan plant (extraplanar)
+Init +4; Senses darkvision 120 ft., low-light vision, tremorsense 60 ft.; Perception +26
+DEFENSE
+AC 33, touch 6, flat-footed 33 (+27 natural, –4 size)
+hp 246 (17d8+170)
+Fort +20, Ref +7, Will +13
+Immune sonic, plant traits
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 40 ft., fly 100 ft. (poor); forest step
+Melee bite +20 (2d8+12), 2 claws +20 (2d6+12), tail slap +15 (2d8+6), 2 wings +15 (2d6+6)
+Space 20 ft.; Reach 15 ft. (20 ft. with tail)
+Special Attacks breath weapon (60-ft. cone, 18d6 bludgeoning plus entangle, Reflex DC 28 partial, usable every 1d4 rounds), swallow whole (6d6 bludgeoning damage, AC 23, 24 hp), trample (2d8+18, DC 30)
+Spell-Like Abilities (CL 16th; concentration +24)
+Constant—pass without trace
+At will—command plants (DC 22), plant growth, quench (DC 21)
+3/day—entangle (DC 19), liveoak, transmute mud to rock, transmute rock to mud, wall of thorns
+1/day—shambler
+STATISTICS
+Str 35, Dex 11, Con 30, Int 16, Wis 22, Cha 26
+Base Atk +12; CMB +28 (+30 sunder); CMD 40 (42 vs. sunder, 44 vs. trip)
+Feats Awesome Blow, Cleave, Improved Bull Rush, Improved Initiative, Improved Sunder, Iron Will, Lightning Reflexes, Power Attack, Snatch
+Skills Fly +10, Knowledge (nature) +20, Perception +26, Stealth +8, Survival +23
+Languages Common, Sylvan, Terran
+SPECIAL ABILITIES
+Breath Weapon (Su) A zomok’s breath weapon is a cone of flying dirt, bark, stones, and moss, which takes root as soon as it touches the ground. Creatures may attempt a saving throw for half damage. Any creature that fails its save and is touching the ground is entangled for 1d6 rounds by this material. A creature can break free with a DC 28 Strength or Escape Artist check. The save DC is Constitution-based.
+Forest Step (Su) A zomok in a forest area may teleport up to 120 feet by moving the essence of its being to another forested area. The zomok is cured of 60 points of damage when it does this. It may use this ability once every 1d6+1 rounds but no more than three times per day. If the zomok has swallowed a foe, the foe is left behind when the zomok teleports.

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gnasher-lizard
+Gnasher Lizard CR 8
+XP 4,800
+N Large magical beast
+Init +7; Senses darkvision 60 ft., low-light vision, scent; Perception +16
+DEFENSE
+AC 21, touch 12, flat-footed 18 (+3 Dex, +9 natural, -1 size)
+hp 105 (10d10+50)
+Fort +12, Ref +8, Will +4
+OFFENSE
+Speed 30 ft.
+Melee bite +17 (2d10+10 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks swallow whole (1d8+7 plus 1d8 acid damage, AC 14, 10 hp), vorpal bite
+STATISTICS
+Str 24, Dex 16, Con 20, Int 2, Wis 12, Cha 10
+Base Atk +10; CMB +18 (+22 grapple); CMD 31 (35 vs. trip)
+Feats Improved Initiative, Power Attack, Skill Focus (Perception), Vital Strike, Weapon Focus (bite)
+Skills Perception +16, Stealth +11; Racial Modifiers +4 Perception, +4 Stealth
+SPECIAL ABILITIES
+Vorpal Bite (Ex) If the gnasher lizard rolls a natural 20 on its attack roll, and subsequently confirms the critical hit, it severs the head of its opponent. This attack is effective on creatures up to one size larger than the gnasher lizard.

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/mosquito-giant
+Giant Mosquito CR 6
+XP 2,400
+N Medium vermin
+Init +7; Senses darkvision 60 ft., scent; Perception +9
+DEFENSE
+AC 19, touch 17, flat-footed 12 (+7 Dex, +2 natural)
+hp 60 (8d8+24)
+Fort +9, Ref +9, Will +3
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee bite +10 (1d8+6 plus bleed, disease, and grab)
+Special Attacks bleed (2d4), blood drain (1d2 Constitution)
+STATISTICS
+Str 18, Dex 25, Con 17, Int —, Wis 13, Cha 6
+Base Atk +6; CMB +10 (+14 grapple); CMD 27 (35 vs. trip)
+Skills Fly +11, Perception +9; Racial Modifiers Perception+8
+SPECIAL ABILITIES
+Disease (Ex) Malaria: Bite—injury; save Fortitude DC 17; onset 1d3 days; frequency 1 day; effect 1d3 Constitution damage and 1d3 Wisdom Damage; cure 2 consecutive saves.
+The save DC is Constitution-based.

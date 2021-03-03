@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/daemon-derghodaemon-TOHC
+Derghodaemon CR 10
+XP 9,600
+NE Large outsider (daemon, evil, extraplanar)
+Init +7; Senses darkvision 60 ft.; Perception +23
+DEFENSE
+AC 24, touch 12, flat-footed 21 (+3 Dex, +12 natural, –1 size)
+hp 125 (10d10+60 plus 10)
+Fort +13, Ref +10, Will +7
+Defensive Abilities all-around vision; DR 10/cold iron or silver; Immune acid, flanking, poison; Resist cold 10, electricity 10, fire 10; SR 21
+OFFENSE
+Speed 40 ft.
+Melee 5 claws +17 (1d6+8 plus grab) and bite +17 (1d8+8)
+Space 10 ft.; Reach 10 ft.
+Special Attacks feeblemind, rend (2 claws, 2d6+12), tear
+Spell-Like Abilities (CL 8th)
+At will—cause fear (DC 14), deeper darkness, desecrate, detect magic, see invisibility
+2/day—sleep (DC 14), greater teleport (self plus 50 lb. of objects only)
+STATISTICS
+Str 26, Dex 16, Con 22, Int 7, Wis 14, Cha 16
+Base Atk +10; CMB +19 (+23 grapple); CMD 32 (34 vs. trip)
+Feats Combat Reflexes, Improved Initiative, Iron Will, Power Attack, Toughness
+Skills Intimidate +16, Perception +23, Sense Motive +15, Stealth +12; Racial Modifiers +8 Perception
+Languages Abyssal, Draconic, Infernal; telepathy 100 ft
+SPECIAL ABILITIES
+Feeblemind (Su) Twice per day, by clattering its mandibles together, a derghodaemon can affect all creatures within 30 ft. as if by a feeblemind spell. Daemons are immune to this effect, but all other creatures must make a DC 18 Will save to resist its effects. The effect lasts for 6 rounds. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+Tear (Ex) If a derghodaemon grapples an opponent, it automatically hits its opponent with all of its melee attacks each round following that it maintains its hold.

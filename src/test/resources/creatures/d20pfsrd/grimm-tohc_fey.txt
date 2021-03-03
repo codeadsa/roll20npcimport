@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/grimm-tohc
+Grimm CR 13
+XP 25,600
+NE Large fey
+Init +8; Senses low-light vision; Perception +27; Aura aura of evil (5 ft., 2d6 profane)
+DEFENSE
+AC 27, touch 13, flat-footed 23 (+4 Dex, +14 natural, -1 size)
+hp 165 (22d6+88); fast healing 5
+Fort +13; Ref +17; Will +17
+Defensive Abilities blur, fey spell resistance; DR 15/silver and good; SR 24 (28 vs. fey magic)
+OFFENSE
+Speed 30 ft.
+Melee bite +19 (2d8+8), 2 claws +19 (1d8+8)
+Space 10 ft.; Reach 10 ft.
+Special Attacks devour
+Spell-like Abilities (CL 22nd):
+3/day—call lightning (DC 18), darkness, detect fey (functions as detect animals or plants, but against fey creatures)
+STATISTICS
+Str 27, Dex 19, Con 19, Int 12, Wis 14, Cha 20
+Base Atk +11; CMB +20 (+24 grapple); CMD 34
+Feats Blind-Fight, Combat Reflexes, Diehard, Endurance, Great Fortitude, Improved Feint, Improved Initiative, Iron Will, Power Attack, Weapon Focus (bite, claw)
+Skills Acrobatics +18, Bluff +30, Climb +22, Diplomacy +17, Escape Artist +18, Heal +11, Intimidate +27, Perception +27, Sense Motive +20, Stealth +25
+Languages Common, Sylvan (can’t speak)
+SQ ethereal jaunt
+SPECIAL ABILITIES
+Aura of Evil (Su) A grimm constantly exudes an aura of evil around its form. This aura deals 2d6 points of profane damage to all creatures in any space adjacent to the grimm. Evil creatures do not take this damage.
+Blur (Su) As a move action, a grimm can blur its form (as the spell of the same name). This grants it concealment (20% miss chance).
+Devour (Su) If a grimm pins a grappled creature, it deals 1d6 points of Strength drain each round the pin is maintained. Each time the grimm drains Strength, it gains a +1 bonus to its Strength score. These bonus points are temporary and the grimm loses them at the rate of 1 per hour.
+Ethereal Jaunt (Su) A grimm can shift from the Ethereal Plane to the Material Plane as part of any move action and shift back again as a free action. It can remain on the Ethereal Plane for 3 rounds before returning to the Material Plane. The ability otherwise resembles the spell of the same name (caster level 20th).
+Fey Spell Resistance (Ex) Against fey magic (spells or spell-like abilities used by any fey creature including elves) a grimm’s spell resistance is 28.

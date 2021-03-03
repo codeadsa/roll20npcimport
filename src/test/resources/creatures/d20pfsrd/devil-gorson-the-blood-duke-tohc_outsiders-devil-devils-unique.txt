@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-gorson-the-blood-duke-tohc
+Gorson (The Blood Duke) CR 22
+XP 615,000
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +13; Senses darkvision 60 ft., detect good, detect magic, see invisibility, see in darkness; Perception +33
+DEFENSE
+AC 44, touch 26, flat-footed 35 (+9 Dex, +18 natural, +8 profane, –1 size)
+hp 372 (24d10+240); regeneration 10 (good, silver)
+Fort +18, Ref +23, Will +20
+DR 15/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 33
+OFFENSE
+Speed 50 ft.
+Melee +3 wounding battleaxe +39/+34/+29/+24 (2d6+15/19–20/x3 plus 1 bleed), 2 forepaws +30 (2d8+6 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks pounce, rake (2 forepaws, 2d8+18)
+Spell-Like Abilities (CL 20th)
+Constant—detect good, detect magic, see invisibility
+At will—animate dead, blasphemy (DC 25), charm monster (DC 22), create undead, desecrate, dispel magic, greater teleport (self plus 50 pounds of objects only), lightning bolt (DC 21), magic circle against good, produce flame, suggestion (DC 21), tongues, unhallow (DC 23), unholy aura (DC 26), wall of fire
+2/day—summon (level 9, 2d10 lemures or nupperibos, 2d4 bearded devils, 1d4 bone devils, erinyes, or barbed devils, or 1 pit fiend 100%)
+1/day—symbol of stunning (DC 25)
+TACTICS
+Gorson begins combat by leaping on a foe and rending it to pieces with his forepaws and rear claws. Those that survive this onslaught are subjected to a massive assault by his great battleaxe. Gorson attacks relentlessly and only stops when all foes are dead. Those that attempt to flee are run down and slaughtered.
+STATISTICS
+Str 35, Dex 29, Con 30, Int 23, Wis 23, Cha 27
+Base Atk +24; CMB +37 (+41 grapple); CMD 64 (68 vs. trip)
+Feats Cleave, Critical Focus, Great Cleave, Improved Bull Rush, Improved Overrun, Improved Critical (battleaxe), Improved Initiative, Improved Sunder, Improved Vital Strike, Power Attack, Vital Strike, Weapon Focus (battleaxe)
+Skills Acrobatics +36, Bluff +35, Diplomacy +35, Escape Artist +33, Intimidate +35, Knowledge (local) +30, Knowledge (nature) +30, Knowledge (planes) +33, Knowledge (religion) +30, Perception +33, Sense Motive +33, Survival +33
+Languages Abyssal, Celestial, Common, Draconic, Giant, Goblin, Infernal; telepathy 100 ft.
+Gear +3 wounding battleaxe

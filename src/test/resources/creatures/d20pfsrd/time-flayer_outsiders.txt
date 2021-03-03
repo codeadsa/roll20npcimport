@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/time-flayer
+Time Flayer CR 12
+XP 19,200
+NE Medium outsider (extraplanar, time)
+Init +6; Senses darkvision 60 ft.; Perception +21
+DEFENSE
+AC 28, touch 18, flat-footed 28 (+2 Dex, +1 dodge, +5 insight, +10 natural)
+hp 110 (13d10+19)
+Fort +9, Ref +12, Will +13
+Defensive Abilities foresight; DR 10/magic; Immune time
+OFFENSE
+Speed 40 ft.
+Melee +1 greatsword +19/+14/+9 (2d6+7, 19-20/x2)
+Special Attacks temporal displacement, unmaking
+STATISTICS
+Str 19, Dex 15, Con 16, Int 20, Wis 20, Cha 19
+Base Atk +13; CMB +17; CMD 35
+Feats Dodge, Great Fortitude, Improved Initiative, Lightning Reflexes, Mobility, Skill Focus (Stealth), Weapon Focus (greatsword)
+Skills Acrobatics +16, Bluff +20, Climb +10, Diplomacy +19, Escape Artist +16, Intimidate +20, Knowledge (history) +21, Knowledge (the planes) +21, Perception +21, Stealth +24, Sense Motive +21, Survival +21
+Languages Common plus any five
+SQ reality bend, time jaunt
+Gear +1 greatsword
+SPECIAL ABILITIES
+Foresight (Su) A time flayer can see a few seconds into the future. This ability prevents a time flayer from being surprised, caught flat-footed, or flanked. It also grants the time flayer an insight bonus to AC equal to its Wisdom bonus. This ability can be negated, but the time flayer can restart it as a free action on its next turn.
+Immunity to Temporal Magic (Ex) Time flayers are immune to all time-related spells and effects (including time stop, temporal stasis, and the like).
+Reality Bend (Su) As a free action, a time flayer can fold the dimensional space surrounding it so its true location is hard to discern. Attackers have a 50% miss chance each time they attack with melee or ranged weapons. This is similar to the miss chance granted by a displacement spell. See invisibility does not reveal the creature’s location, but true seeing does.
+Temporal Displacement (Su) As a melee touch attack, a time flayer can send a creature a few seconds into the future. A DC 19 Fortitude save negates. The save is Constitution-based.
+On a failed save, the creature disappears in a flash of white energy only to reappear in the same space 1d4 rounds later. This effectively removes that creature from combat for the duration. If the space is occupied when the creature returns, it suffers no damage and is shunted aside. The time flayer can use this ability three times per day.
+Time Jaunt (Su) As a standard action, a time flayer can slip through the time stream and appear anywhere on the same plane of existence as if by greater teleport. This ability transports the time flayer and up to four other creatures within a 30-foot radius that the time flayer designates. Unwilling creatures can attempt a DC 18 Will save to avoid being carried away. This ability is otherwise similar to the greater teleport spell. The save DC is Constitution-based.
+Unmaking (Su) An opponent slain by a time flayer is unmade–erased from the very fabric of time. No memories or recollections of the unmade creature exist anywhere in reality. Past events the creature was responsible for are now attributed to an unknown–even if they recently took place. For example, suppose a great hero saved a kingdom from certain doom and then suffers the unmaking. The kingdom is still safe, but no one can quite recall who saved it.
+A creature that suffers the unmaking cannot be raised, resurrected, or restored to life by any means–not even a wish can restore an unmade creature. Only the direct intervention of a deity can restore one who suffers this fate.

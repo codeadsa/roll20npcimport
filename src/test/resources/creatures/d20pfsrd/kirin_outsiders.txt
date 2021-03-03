@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kirin
+Kirin CR 13
+XP 25,600
+LG Large outsider (air, extraplanar, good, lawful)
+Init +7; Senses darkvision 60 ft., true seeing; Perception +29
+Aura holy aura
+DEFENSE
+AC 29, touch 21, flat-footed 21 (+4 deflection, +7 Dex, +1 dodge, +8 natural, -1 size)
+hp 172 (15d10+90)
+Fort +15, Ref +22, Will +20
+Defensive Abilities air mastery, whisper on the wind;
+DR 10/evil; Immune electricity, petrification, poison; Resist acid 10, fire 10, sonic 10; SR 24 (25 vs. evil)
+OFFENSE
+Speed 50 ft., fly 120 ft. (perfect), whisper on the wind
+Melee gore +22 (1d8+12/18-20), 2 hooves +22 (2d6+6 plus 2d6 fire)
+Space 10 ft.; Reach 5 ft.
+Special Attacks powerful charge (gore 4d8+12), smite chaos
+Spell-Like Abilities (CL 15th)
+Constant – holy aura, true seeing
+At Will – blur, control winds, dispel magic, guidance, gust of wind, mirror image, summon monster I (celestial only), wind wall
+3/day – cure light wounds, disguise self, elemental body IV (air elemental), neutralize poison, summon monster III (celestial only)
+1/day – chain lightning, create food and water, create water, major creation, summon monster V (celestial only), whirlwind
+1/week – wish (other creatures only)
+STATISTICS
+Str 23, Dex 24, Con 22, Int 21, Wis 24, Cha 22
+Base Atk +15; CMB +22; CMD 44 (48 vs. trip)
+Feats Alertness, Dodge, Lightning Reflexes, Lightning Stance, Weapon Finesse, Weapon Focus (gore), Weapon Focus (hoof), Wind Stance
+Skills Bluff +24, Fly +31, Diplomacy +24, Escape Artist +22, Heal +25, Intimidate +24, Knowledge (arcana) +20, Knowledge (planes) +23, Perception +29, Sense Motive +29, Stealth +25
+Languages Auran; telepathy 100 ft.
+SQ spirits of the air
+SPECIAL ABILITIES
+Air Mastery (Ex) Airborne creatures take a -1 penalty on attack and damage rolls against a kirin.
+Hooves (Ex) The kirin treats its hooves as primary weapons.
+Smite Chaos (Su) Once per day, as a swift action, a kirin can designate one chaotic creature it can see as the target of its smite chaos ability. Until the creature is dead, or the kirin rests, it adds the following: 1) its Charisma bonus to attack rolls; and 2) a damage bonus to attacks equal to its Hit Dice.
+Spirits of the Air (Su) When a kirin summons a creature with a fly speed or the air subtype, the creature gains a +4 bonus to its Strength and Constitution scores.
+Storm Horn (Ex) The horn of a kirin is exceedingly sharp. The kirin adds double its Strength modifier to melee damage from the horn and the horn’s critical threat range is 18-20.
+Whisper on the Wind (Su) As a move action, the kirin can become invisible and incorporeal. As long as it is in this state, the kirin can move double its speed. The kirin can resume its normal state with a free action.

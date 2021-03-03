@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bandersnatch/bandersnatch-lesser
+Lesser Bandersnatch CR 13
+XP 25,600
+N Huge magical beast
+Init +11; Senses blindsense 120 ft., darkvision 120 ft., low-light vision, scent; Perception +23
+DEFENSE
+AC 29, touch 13, flat-footed 24 (+5 Dex, +16 natural, -2 size)
+hp 180 (19d10+76); fast healing 10
+Fort +15, Ref +16, Will +9
+Defensive Abilities quill defense; Immune fear, paralysis, poison, sleep
+OFFENSE
+Speed 60 ft., climb 20 ft.
+Melee bite +24 (2d6+7 plus grab), 2 claws +24 (1d8+7/19-20), tail slap +19 (2d6+10/x3 plus pain)
+Ranged 4 quills +20 (1d8+7/19-20)
+Space 20 ft.; Reach 15 ft. (20 ft. with tail slap)
+Special Attacks bounding charge, brutal tail, gaze, lash out, pounce, rake (4 claws, +26, 1d8+7/19-20), rend (2 claws, 1d8+10)
+STATISTICS
+Str 24, Dex 20, Con 19, Int 2, Wis 13, Cha 16
+Base Atk +19; CMB +28 (+32 grapple); CMD 43 (51 vs. trip)
+Feats Bleeding Critical, Combat Reflexes, Critical Focus, Improved Critical (claws), Improved Critical (quills), Improved Initiative, Improved Iron Will, Iron Will, Skill Focus (Stealth), Tiring Critical
+Skills Acrobatics +17 (+29 when jumping), Climb +15, Perception +26, Stealth +15 (+23 forests), Survival +2 (+22 tracking); Racial Modifiers +8 Acrobatics, +10 Perception, +4 Stealth (+12 forests), +20 Survival when tracking
+SQ planar acclimation, relentless tracker
+SPECIAL ABILITIES
+Bounding Charge (Ex) A lesser bandersnatch can move through difficult terrain when it charges.
+Brutal Tail (Ex) The quills and barbs on a lesser bandersnatch’s tail cause triple damage on a critical hit from its tail slap. A lesser bandersnatch adds 1-1/2 times its strength bonus on attack rolls when using its tail slap.
+Gaze (Su) Confused, range 30 feet, Fortitude DC 23 negates. A lesser bandersnatch can direct its gaze attack against a single foe as a swift action. This is a mind-affecting compulsion effect. The save DC is Constitution-based.
+Lash Out (Ex) As a swift action, a lesser bandersnatch can make a single attack with a bite, claw, or tail slap. A lesser bandersnatch cannot lash out on the same round it charges.
+Pain (Ex) Whenever a creature takes damage from a lesser bandersnatch’s tail slap attack, quills, or quill defense, that creature must make a DC 24 Reflex save or a quill lodges in its flesh, causing the creature to become sickened until the quill is removed. Removing one quill requires a DC 20 Heal check made as a full-round action. For every 5 by which the check exceeds the DC, one additional quill can be removed. On a failed check, a quill is still removed, but the process deals 1d8+4* points of damage to the victim. The save DC is Dexterity-based.
+Planar Acclimation (Ex) A lesser bandersnatch is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the extraplanar subtype.
+Quill Defense (Ex) Any creature that strikes a lesser bandersnatch with a non-reach melee weapon, unarmed strike, or natural weapon takes 1d8+4* points of piercing damage from the lesser bandersnatch’s quills and suffers from the lesser bandersnatch’s pain attack.
+Quills (Ex) With a snap of its tail, a lesser bandersnatch can loose a volley of four quills as a standard action (make an attack roll for each spike). This attack has a range of 300 feet with no range increment. All targets must be within 30 feet of each other. Launched quills regrow in a single round, during which the lesser bandersnatch’s defensive abilities are unaffected.
+Relentless Tracker (Ex) A lesser bandersnatch can move at up to double its speed and still track without penalty. It gains a +10 competence bonus on Survival checks made to track creatures it has wounded.

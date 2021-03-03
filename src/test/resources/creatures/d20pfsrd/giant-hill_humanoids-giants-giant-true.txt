@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-hill
+Hill Giant CR 7
+XP 3,200
+CE Large humanoid (giant)
+Init –1; Senses low-light vision; Perception +6
+DEFENSE
+AC 21, touch 8, flat-footed 21 (+4 armor, –1 Dex, +9 natural, –1 size)
+hp 85 (10d8+40)
+Fort +11, Ref +2, Will +3
+Defensive Abilities rock catching
+OFFENSE
+Speed 40 ft. (30 ft. in armor)
+Melee greatclub +14/+9 (2d8+10) or 2 slams +13 (1d8+7)
+Ranged rock +6 (1d8+10)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rock throwing (120 ft.)
+STATISTICS
+Str 25, Dex 8, Con 19, Int 6, Wis 10, Cha 7
+Base Atk +7; CMB +15; CMD 24
+Feats Cleave, Intimidating Prowess, Martial Weapon Proficiency (greatclub), Power Attack, Weapon Focus (greatclub)
+Skills Climb +10, Intimidate +12, Perception +6
+Languages Giant

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/half-ogre
+Half Ogre CR 1
+XP 400
+CE Medium humanoid (giant)
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 15, touch 10, flat-footed 15 (+3 armor, +2 natural)
+hp 13 (2d8+4)
+Fort +5; Ref +0; Will +0
+OFFENSE
+Speed 20 ft., 30 ft. base
+Melee greatsword +5 (2d6+4/19-20), longspear +4 (1d8+4/x3)
+Space 5 ft.; Reach 5 ft. (10 ft. with longspear)
+STATISTICS
+Str 17, Dex 10, Con 14, Int 9, Wis 10, Cha 9
+Feats Weapon Focus (greatsword)
+Skills Climb +8
+Languages Common
+SQ ogre blood
+Gear hide armor, greatsword, longspear
+SPECIAL ABILITIES
+Ogre Blood (Ex) For all special abilities and effects, a half ogre is considered an ogre.

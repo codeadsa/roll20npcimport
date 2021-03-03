@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow/shadow-greater-unhallowed
+Unhallowed Greater Shadow CR 8
+XP 4,800
+Unhallowed greater shadow
+CE Medium undead (incorporeal)
+Init +5; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 18, touch 18, flat-footed 12 (+2 deflection, +5 Dex, +1 dodge)(+2 vs good creatures)
+hp 58 (9d8+18)
+Fort +5, Ref +8, Will +7; +2 vs good creatures
+Defensive Abilities incorporeal, channel resistance +2; Immune undead traits
+OFFENSE
+Speed fly 40 ft. (good)
+Melee incorporeal touch +11 (1d8 Strength)
+Special Attacks create spawn (as per shadow), strength damage
+STATISTICS
+Str —, Dex 20, Con —, Int 6, Wis 12, Cha 15
+Base Atk +6; CMB +11; CMD 24
+Feats Dodge, Flyby Attack, Mobility, Skill Focus (Perception, Stealth)
+Skills Fly +15, Perception +13, Stealth +20 (+24 in dim light, +16 in bright light); Racial Modifiers +4 Stealth in dim light (–4 in bright light)
+Languages Common (unofficial errata)
+SPECIAL ABILITIES
+Strength Damage (Su) A greater shadow’s touch deals 1d8 points of Strength damage to a living creature. This is a negative energy effect. A creature dies if this Strength damage equals or exceeds its actual Strength score.

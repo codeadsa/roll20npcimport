@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/kamadan-TOHC
+Kamadan CR 4
+XP 1,200
+N(E) Large magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 18, touch 13, flat-footed 15 (+2 Dex, +1 dodge, +5 natural)
+hp 30 (4d10+8)
+Fort +6, Ref +6, Will +2
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +7 (1d6+4), bite +7 (1d8+4), and 6 snakes +2 (1d4)
+Space 10 ft.; Reach 5 ft. (10 ft. with snakes)
+Special Attacks sleep breath, snakes
+STATISTICS
+Str 18, Dex 15, Con 15, Int 5, Wis 12, Cha 9
+Base Atk +4; CMB +9; CMD 22 (26 vs. trip)
+Feats Dodge, Skill Focus (Perception)
+Skills Acrobatics +6 (+10 jump, +14 balance), Perception +8, Stealth +7 (+15 in undergrowth); Racial Modifiers +8 Acrobatics (for balance), +4 Stealth (+8 in tall grass or undergrowth)
+Languages Common
+SPECIAL ABILITIES
+Sleep Breath (Su) Cone of sleep, 30 feet, every 1d4 rounds (but not more than 5/day); DC 14 Fortitude negates, as the sleep spell (caster level 8th). There is no HD limit to the number of creatures that can be affected. The save DC is Constitution-based.
+Snakes (Ex) Each snake attacks independently each round at the listed attack bonus. The snakes do not gain the kamadan’s Strength bonus to damage.
+Source
+
+Tome of Horrors Complete
+Support Open Gaming
+www.opengamingstore.com
+Variant
+Poisonous Kamadan
+A variant kamadan, one with poisonous snakes, is rumored to exist in the world. Encounters with such creatures are rare, for which most adventurers are thankful. The poisonous kamadan is CR 6 and uses the same statistics as the normal kamadan, but each snake head delivers a poisonous bite.
+Poison (Ex)
+Snakes—injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d6 Constitution damage; cure 2 consecutive saves. The save DC is Constitution-based.

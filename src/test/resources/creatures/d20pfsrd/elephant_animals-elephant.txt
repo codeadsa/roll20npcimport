@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/elephant/elephant
+Elephant CR 7
+XP 3,200
+N Huge animal
+Init +0; Senses low-light vision, scent; Perception +21
+DEFENSE
+AC 17, touch 8, flat-footed 17 (+9 natural, –2 size)
+hp 93 (11d8+44)
+Fort +13, Ref +7, Will +6
+OFFENSE
+Speed 40 ft.
+Melee gore +16 (2d8+10), slam +16 (2d6+10)
+Space 15 ft.; Reach 10 ft.
+Special Attacks trample (2d8+15; DC 25)
+STATISTICS
+Str 30, Dex 10, Con 19, Int 2, Wis 13, Cha 7
+Base Atk +8; CMB +20; CMD 30 (34 vs. trip)
+Feats Endurance, Great Fortitude, Improved Bull Rush, Iron Will, Power Attack, Skill Focus (Perception)
+Skills Perception +21
+Elephant/Mastodon Companions
+
+Starting Statistics: Size Medium; Speed 40 ft.; AC +4 natural armor; Attack gore (1d8), slam (1d6); Ability Scores Str 14, Dex 14, Con 13, Int 2, Wis 13, Cha 7; Special Abilities low-light vision, scent.
+7th-Level Advancement: Size Large; AC +3 natural armor; Attack gore (2d6), slam (1d8); Ability Scores +8 Str, –2 Dex, +4 Con; Special Abilities trample (2d6).

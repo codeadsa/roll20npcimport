@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/alchemical-ooze-swarms/choleric-ooze-swarm
+Choleric Ooze Swarm CR 2
+XP 600
+N Tiny ooze (swarm)
+Init -5; Senses blindsight 60 ft.; Perception –5
+DEFENSE
+AC 7, touch 7, flat-footed 7 (-5 Dex, +2 size)
+hp 25 (3d8+12)
+Fort +5, Ref -4, Will -4
+Immune ooze traits, swarm traits; Resist acid 5
+Weaknesses vulnerability to electricity
+OFFENSE
+Speed 10 ft.
+Melee swarm (1 plus 1d4 acid and viscous)
+Space 10 ft.; Reach 0 ft.
+Special Attacks corrosion, distraction (DC 15), viscous (DC 15)
+STATISTICS
+Str 16, Dex 1, Con 19, Int -, Wis 1, Cha 1
+Base Atk +2; CMB -5; CMD 8
+SPECIAL ABILITIES
+Acid (Ex) A wooden or metal weapon that strikes a choleric ooze swarm takes 1 point of acid damage unless the weapon’s wielder succeeds on a DC 15 Reflex save. The ooze’s touch deals 8 points of acid damage per round to wooden or metal objects, but the ooze must remain in contact with the material for 1 full round in order to deal this damage. The save DC is Constitution-based.
+Corrosive Slime (Ex) Choleric oozes are composed of caustic chemicals. Any living creature that begins its turn affected by the swarm’s viscous ability takes 1d4 points of acid damage. Armor or clothing worn by the creature takes the same amount of acid damage unless the wearer succeeds on a DC 15 Reflex saving throw. The save DC is Constitution-based.
+Viscous (Ex) As described in the sanguine ooze swarm’s special abilities, except that the Reflex save DC is 15 and the patches are destroyed if the victim takes any amount of electricity damage.

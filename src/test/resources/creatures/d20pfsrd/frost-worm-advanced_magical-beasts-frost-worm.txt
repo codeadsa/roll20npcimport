@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/frost-worm/frost-worm-advanced
+Advanced Frost Worm CR 13
+XP 25,600
+N Huge magical beast (cold)
+Init +9; Senses darkvision 60 ft., low-light vision; Perception +19
+DEFENSE
+AC 31, touch 13, flat-footed 26 (+5 Dex, +18 natural, –2 size)
+hp 200 (16d10+112)
+Fort +17, Ref +15, Will +12
+Immune cold
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft., burrow 10 ft.
+Melee bite +27 (4d10+18 plus 4d6 cold)
+Space 15 ft.; Reach 10 ft.
+Special Attacks breath weapon (60-ft. cone, 15d6 cold damage, Reflex DC 25 half, usable once per hour), death throes, trill
+STATISTICS
+Str 35, Dex 20, Con 25, Int 2, Wis 20, Cha 15
+Base Atk +16; CMB +30; CMD 45 (can’t be tripped)
+Feats Cleave, Combat Reflexes, Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception), Stand Still, Weapon Focus (bite)
+Skills Perception +19, Stealth +8 (+16 in ice and snow); Racial Modifiers +8 Stealth in ice and snow
+SQ cold
+SPECIAL ABILITIES
+Cold (Su) A frost worm’s body generates intense cold, allowing it to deal an additional 4d6 cold damage with its bite attack. Any creature that attacks a frost worm with an unarmed strike or a natural weapon takes 1d6 points of cold damage per successful hit. A creature that grapples or is grappled by a frost worm takes 4d6 points of cold damage per round the grapple is maintained.
+Death Throes (Su) When killed, a frost worm explodes in a 100-foot-radius burst that deals 12d6 cold damage and 8d6 piercing damage (DC 25 Reflex half). The save DC is Constitution-based.
+Trill (Su) As a full-round action, a frost worm can emit a strange trilling sound that affects all creatures within a 100-foot radius. Creatures must succeed on a DC 20 Will save or be fascinated for as long as the worm continues to trill (the frost worm can maintain this trill by concentrating). Once a creature has resisted or broken the effect, it cannot be affected again by that same frost worm’s trill for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.

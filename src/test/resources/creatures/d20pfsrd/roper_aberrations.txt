@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/roper
+Roper CR 12
+XP 19,200
+CE Large aberration
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +24
+DEFENSE
+AC 27, touch 10, flat-footed 26 (+1 Dex, +17 natural, –1 size)
+hp 162 (12d8+108)
+Fort +13, Ref +5, Will +13
+Immune electricity; Resist cold 10; SR 27
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 10 ft.
+Melee bite +20 (4d8+18/19–20)
+Ranged 6 strands +10 touch (1d6 Strength)
+Space 10 ft.; Reach 10 ft.
+Special Attacks pull (strand, 5 feet), strands
+STATISTICS
+Str 34, Dex 13, Con 29, Int 13, Wis 16, Cha 12
+Base Atk +9; CMB +22; CMD 33 (can’t be tripped)
+Feats* Improved Critical (bite), Improved Initiative, Iron Will, Skill Focus (Perception, Stealth), Weapon Focus (strand)
+Skills Climb +27, Knowledge (dungeoneering) +16, Knowledge (religion) +13, Perception +24, Stealth +18 (+26 in stony or icy areas); Racial Modifiers +8 Stealth in stony or icy areas
+Languages Aklo, Undercommon
+SPECIAL ABILITIES
+Strands (Ex) A roper can extend up to six thin, sticky strands from its body at a time, launching them to a maximum range of 50 feet. A roper’s attacks with its strands resolve as ranged touch attacks. These strands are quite strong, but can be severed by any amount of slashing damage (a strand is AC 20). A creature struck by a strand is numbed and weakened by the strange material, and must make a DC 25 Fortitude save or take 1d6 points of Strength damage. The save DC is Constitution-based.

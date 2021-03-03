@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/fire-nymph
+Fire Nymph CR 4
+XP 1200
+CN(G) Medium outsider (extraplanar, fire)
+Init +1; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+1 Dex, +1 dodge, +3 natural)
+hp 13 (2d10+2)
+Fort +1; Ref +4; Will +6
+Immune fire; SR 10
+Weaknesses vulnerability to fire*
+OFFENSE
+Speed 30 ft.
+Melee masterwork dagger +3 (1d4/19-20 plus burn), slam +2 (1d4)
+Ranged masterwork dagger +4 (1d4/19-20 plus burn)
+Special Attacks burn (1d4, DC 12)
+Spell-like Abilities (CL 7th):
+At-will– burning hands (DC 15), flame blade, flaming sphere (DC 16), produce flame
+1/day– fire shield
+TACTICS
+Before Combat Fire nymphs avoid combat if at all possible, but if pressed into action they rely on their spell-like abilities and seek to escape as soon as possible.
+STATISTICS
+Str 10, Dex 13, Con 12, Int 16, Wis 17, Cha 19
+Base Atk +2; CMB +2; CMD 14
+Feats Dodge
+Skills Bluff +9, Diplomacy +9, Escape Artist +6, Knowledge (nature) +8, Knowledge (planes) +8, Perception +8, Sense Motive +8, Stealth +6, Survival +8
+Languages Common, Ignan
+Combat Gear masterwork dagger

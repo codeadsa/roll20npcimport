@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/alseid-od
+Alseid CR 1/2
+XP 200
+Alseid ranger 1
+CN Medium monstrous humanoid
+Init +3; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 16, touch 13, flat-footed 13 (+3 armor, +3 Dex)
+hp 6 (1d10+1)
+Fort +1, Ref +5, Will +5
+OFFENSE
+Speed 40 ft.
+Melee longspear +2 (1d8+1/×3)
+Ranged composite shortbow +4 (1d6+1/×3)
+Special Attacks favored enemy (magical beast +2)
+STATISTICS
+Str 13, Dex 17, Con 12, Int 8, Wis 16, Cha 8
+Base Atk +1; CMB +2; CMD 15 (19 vs. trip)
+Feats Point-Blank Shot
+Skills Heal +7, Knowledge (nature) +3, Perception +9, Stealth +9, Survival +7; Racial Modifiers +2 Perception, +2 Stealth
+Languages Common, Elven
+SQ track, wild empathy +0, woodfriend
+SPECIAL ABILITIES
+Woodfriend (Su) When in a forest, alseid leave no tracks and automatically discern true north.

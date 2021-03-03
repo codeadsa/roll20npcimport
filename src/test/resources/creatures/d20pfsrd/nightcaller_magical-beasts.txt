@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/nightcaller
+Nightcaller CR 1
+XP 400
+NE Tiny magical beast
+Init +3; Senses Darkvision 60 ft.,low-light vision; Perception +2
+DEFENSE
+AC 16, touch 15, flat-footed 13 (+3 Dex, +1 natural, +2 size)
+hp 13 (2d10+2)
+Fort +4, Ref +6, Will +2
+OFFENSE
+Speed 10 ft., fly 60 ft. (good)
+Melee bite +7 (1d3-2) and 2 talons +7 (1d3-2)
+Space 2 1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 6, Dex 17, Con 12, Int 3, Wis 14, Cha 11
+Base Atk +2; CMB +3; CMD 11
+Feats Flyby AttackB, Weapon Finesse
+Skills Bluff +6 ; Racial Modifiers +4 Bluff, +4 Fly
+SQ mimic
+SPECIAL ABILITIES
+Mimic (Ex) Nightcallers may make Bluff checks to imitate cries for help in either Common, Elf or Gnome. A successful Bluff check leaves its target flat footed until the nightcaller’s next turn. Creatures that have been attacked by a nightcaller (or have had their allies attacked by a nightcaller) are immune to a nightcaller’s mimic for 24 hours.

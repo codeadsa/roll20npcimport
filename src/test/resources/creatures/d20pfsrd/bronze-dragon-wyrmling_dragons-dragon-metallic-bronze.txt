@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-bronze/bronze-dragon-wyrmling
+Bronze Dragon, Wyrmling CR 5
+XP 1,600
+LG Small dragon (water)
+Init +2; Senses dragon senses; Perception +13
+
+DEFENSE
+AC 18, touch 13, flat-footed 16 (+2 Dex, +5 natural, +1 size)
+hp 45 (6d12+6)
+Fort +6, Ref +7, Will +7
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (average); swim 60 ft.
+Melee bite +8 (1d6+1), 2 claws +8 (1d4+1)
+Special Attacks breath weapon (40-ft. line, DC 14, 2d6 electricity), repulsion breath
+
+STATISTICS
+Str 13, Dex 14, Con 13, Int 14, Wis 15, Cha 14
+Base Atk +6; CMB +6; CMD 18 (22 vs. trip)
+Feats Alertness, Power Attack, Vital Strike
+Skills Diplomacy +11, Fly +13, Intimidate +11, Knowledge (arcana) +11, Perception +13, Sense Motive +13, Stealth +15, Swim +18; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic
+SQ water breathing
+SPECIAL ABILITIES
+Repulsion Breath (Su) Instead of a line of electricity, a bronze dragon can breathe a cone of repulsion gas. Targets must make a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category. This is a mind-affecting compulsion effect.
+Water Breathing (Ex) A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
+

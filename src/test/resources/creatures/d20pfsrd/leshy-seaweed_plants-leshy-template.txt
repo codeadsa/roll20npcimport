@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/leshy-template/leshy-seaweed
+Seaweed Leshy CR 3
+XP 800
+N Small plant (aquatic, leshy, shapechanger)
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +7
+DEFENSE
+AC 15, touch 12, flat-footed 14 (+1 armor, +1 Dex, +2 natural, +1 size)
+hp 30 (4d8+12)
+Fort +6, Ref +2, Will +3
+Immune electricity, sonic, plant traits
+OFFENSE
+Speed 20 ft., swim 20 ft.
+Melee slam +4 (1d6)
+Ranged water jet +5 (1 plus blind)
+Special Attack sneak attack +1d6
+Spell-Like Abilities (CL 8th; concentration +9)
+Constant—pass without trace
+1/day—entangle (in water only, DC 12)
+STATISTICS
+Str 10, Dex 13, Con 14, Int 9, Wis 15, Cha 12
+Base Atk +3; CMB +2; CMD 13
+Feats Ability Focus (water jet), Toughness
+Skills Perception +7, Stealth +9 (+13 in water), Survival +3 (+7 in water), Swim +8; Racial Modifiers +4 Stealth and Survival in water
+Languages Druidic, Sylvan; plantspeech (seaweed)
+SQ air cyst, amphibious, change shape (Small seaweed; tree shape), verdant burst
+SPECIAL ABILITIES
+Air Cyst (Su) Seaweed leshys constantly grow small bulbs filled with air. As a move action, they can detach a bulb and give it to another creature. If consumed as a standard action, this air cyst grants water breathing (as the spell) for 10 minutes. Seaweed leshys can have a maximum of four usable air cysts at any one time, and air cysts regrow at a rate of one per 24 hours.
+Water Jet (Ex) A seaweed leshy can expel a high-pressure jet of water from its mouth to a range of 30 feet. It must make a ranged touch attack to strike a target—if it hits, the blast deals 1 point of bludgeoning damage (this damage is not modified by Strength). In addition, the creature hit must make a DC 15 Fortitude save or be blinded by the water for 1 round. The save DC is Dexterity-based.

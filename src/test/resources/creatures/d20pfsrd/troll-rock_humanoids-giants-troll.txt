@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/troll-rock
+Rock Troll CR 6
+XP 2,400
+CE Large humanoid (earth, giant)
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +6
+DEFENSE
+AC 19, touch 10, flat-footed 18 (+1 Dex, +9 natural, –1 size)
+hp 80 (7d8+49); regeneration 5 (acid or sonic)
+Fort +12, Ref +3, Will +3
+Weaknesses sunlight petrification
+OFFENSE
+Speed 30 ft.
+Melee bite +11 (1d8+7), 2 claw +12 (1d6+7)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d6+9)
+STATISTICS
+Str 25, Dex 12, Con 24, Int 5, Wis 9, Cha 6
+Base Atk +5; CMB +13; CMD 24
+Feats Intimidating Prowess, Iron Will, Power Attack, Weapon Focus (claw)
+Skills Climb +11, Intimidate +10, Perception +6
+Languages Giant
+SPECIAL ABILITIES
+Sunlight Petrification (Ex) A rock troll that is exposed to natural sunlight is staggered and must make a DC 20 Fortitude save each round to resist permanently turning to stone. A stone to flesh spell (or similar effect) restores a petrified rock troll, but if it remains exposed to sunlight, it must immediately start making new Fortitude saves to avoid petrification. Spells like sunbeam or sunburst that create powerful natural sunlight cannot petrify a rock troll, but the troll is staggered for 1d4 rounds after being exposed to such an effect.

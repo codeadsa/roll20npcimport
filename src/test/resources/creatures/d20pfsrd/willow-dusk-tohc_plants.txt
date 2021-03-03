@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/willow-dusk-tohc
+Willow Dusk CR 14
+XP 38,400
+CE Huge plant
+Init -1; Senses low-light vision; Perception +23
+DEFENSE
+AC 27, touch 7, flat-footed 27 (-1 Dex, +20 natural -2 size)
+hp 210 (20d8+100 plus 20); fast healing 5
+Fort +17, Ref +7, Will +11
+DR 10/magic; Immune plant traits; Resist cold 10, fire 10
+OFFENSE
+Speed 20 ft.
+Melee 4 slams +23 (2d8+9 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks aura of misery, droning, swallow whole (2d6+9 plus 1d8 acid damage, AC 19, 21 hp)
+TACTICS
+A willow dusk hunts at night, just as the sun is setting. When it finds a potential victim, it looses its droning and charges an opponent who succumbs to its effect, bashing it with a slam attack or grappling it and tossing it into its maw. Creatures who resist the willow dusk’s droning are subjected to its aura of misery attack as long as they remain within 10 feet of the creature. An opponent that falls to Charisma 0 is quickly scooped up by the willow dusk and devoured.
+STATISTICS
+Str 29, Dex 8, Con 21, Int 4, Wis 16, Cha 10
+Base Atk +15; CMB +26 (+28 trip, +30 grapple); CMD 35 (37 vs trip)
+Feats Ability Focus (aura of misery, droning), Improved Trip, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Perception, Stealth), Toughness, Weapon Focus (slam)
+Skills Perception +23, Stealth +6 (+22 in forests); Racial Modifiers +16 Stealth in forests
+Languages Sylvan
+SPECIAL ABILITIES
+Aura of Misery (Su) Once every 1d4+1 rounds as a free action, a willow dusk can emit a wave of negative energy that affects all living creatures within 10 feet of it. Creatures within the area take 1d6 points of Charisma damage if they fail a DC 22 Will save. At Charisma 0, a creature collapses into a coma until at least 1 point of Charisma is restored. The save DC is Charisma-based.
+Droning (Su) Once per round as a standard action, a willow dusk can emit a droning sound audible to a range of 100 feet. Creatures within the area that hear it, must succeed on a DC 22 Will save or enter a state of lethargy. Affected creatures cannot move (as if held by a hold monster spell) and have no desire to take any other action or engage in combat (unless attacked first, in which case the lethargy effect is broken). The effects last for a number of rounds equal to the one-half of the willow dusk’s Hit Dice (10 rounds for the typical willow dusk). A willow dusk that attacks a creature affected by this ability gains a +4 bonus on its attack roll. Whether the attack succeeds or fails, the lethargy effect is immediately broken. A creature who succeeds on his Will save is unaffected by the droning from that same willow dusk for 24 hours. This is a mind-affecting effect. The save DC is Charisma-based.

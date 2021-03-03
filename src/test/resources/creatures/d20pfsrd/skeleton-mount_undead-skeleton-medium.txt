@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/skeleton-medium/skeleton-mount
+Skeletal Mount CR 1
+XP 400
+NE Large undead
+Init +9; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 17, touch 13, flat-footed 13 (+2 armor, +4 Dex, +2 natural, –1 size)
+hp 9 (2d8)
+Fort +0, Ref +5, Will +3
+DR 5/bludgeoning; Immune cold, undead traits
+OFFENSE
+Speed 50 ft.
+Melee bite +5 (1d4+5), 2 hooves +0 (1d6+2)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 20, Dex 20, Con —, Int —, Wis 10, Cha 10
+Base Atk +1; CMB +7; CMD 22 (26 vs. trip)
+Feats Improved InitiativeB
+Gear broken chain shirt barding

@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-forest/forest-dragon-mature-adult
+Mature Adult Forest Dragon CR 15
+XP 51,200
+CE Huge dragon (earth)
+Init +4; Senses dragon senses, tremorsense 60 ft.; Perception +25; Aura frightful presence (210 ft., DC 22)
+DEFENSE
+AC 33, touch 8, flat-footed 33 (+25 natural, -2 size)
+hp 256 (19d12+133)
+Fort +17, Ref +11, Will +16
+DR 5/adamantine; Immune paralysis, poison, sleep; SR 26
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 30 ft., fly 200 ft. (poor)
+Melee bite +28 (2d8+15/19-20), 2 claws +27 (2d6+10), gore +27 (2d6+15), tail slap +25 (2d6+15)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite and gore)
+Special Attacks breath weapon (60-ft. cone, 14d6 piercing damage, DC 25) crush (DC 27, 2d8+15)
+Spell-Like Abilities (CL 19th; concentration +23)
+At will—entangle (DC 14), blight (DC 18), pass without trace
+Spells Known (CL 9th; concentration +13)
+4th (4/day)—charm monster (DC 17), solid fog
+3rd (7/day)—lightning bolt (DC 16), wind wall, stinking cloud (DC 16)
+2nd (7/day)—fog cloud, hideous laughter, invisibility, touch of idiocy
+1st (7/day)—hypnotism (DC 14), obscuring mist, magic missile, ray of enfeeblement (DC 14), shield
+0 (at-will)—daze (DC 13), detect magic, ghost sound, mage hand, mending, read magic, resistance, touch of fatigue
+STATISTICS
+Str 31, Dex 10, Con 22, Int 16, Wis 17, Cha 16
+Base Atk +19; CMB +31; CMD 41 (45 vs. trip)
+Feats Improved Critical (bite), Improved Initiative, Improved Natural Armor, Iron Will, Multiattack, Power Attack, Skill Focus (Stealth), Stealthy, Toughness, Weapon Focus (bite)
+Skills Acrobatics +19 (+23 when jumping), Bluff +25, Climb +40, Escape Artist +2, Fly -8, Intimidate +25, Knowledge (arcana) +16, Knowledge (nature) +15, Perception +25, Spellcraft +25, Stealth +20, Survival +25
+Languages Common, Draconic, Elven, Goblin, Sylvan
+SQ change shape, sound imitation, woodland stride
+SPECIAL ABILITIES
+Change Shape (Su) An adult or older forest dragon can assume any humanoid form three times per day as if using polymorph.
+Sound Imitation (Ex) A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener’s Sense Motive check.
+Woodland Stride (Ex) As the druid ability of the same name.
+Built by:
+Brett, d20pfsrd Beastmaster I “Chinese Earth Dragon”
+(c) 2012 Shoshanna Bauer http://shoshannabauer.com
+All Rights Reserved.

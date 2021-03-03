@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-giant-blowfish
+Giant Blowfish CR 5
+XP 1,600
+N Large animal (aquatic)
+Init +5; Senses low-light vision; Perception +5
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+8 armor, +1 Dex, –1 size)
+hp 52 (7d8+21)
+Fort +10, Ref +6, Will +4
+Defensive Abilities quills
+OFFENSE
+Speed 30 ft.; swim 30 ft.
+Melee 1 slam +9 (1d8+4 plus poison)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 18, Dex 13, Con 17, Int 1, Wis 14, Cha 12
+Base Atk +5; CMB +10; CMD 21 (can’t be tripped)
+Feats Great Fortitude, Improved Initiative, Skill Focus (Perception), Weapon Focus (slam)
+Skills Perception +5, Swim +14
+SPECIAL ABILITIES
+Poison (Ex) Giant blowfish venom causes violent seizing of the muscles. Any non-aquatic creature affected must immediately begin making Constitution checks to continue holding its breath. The save DC is Constitution-based.
+Slam and quills—injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d6 Dex, prevents breath holding; cure 1 save.
+Quills (Ex) Any creature attacking a giant blowfish with light or one-handed melee weapons, natural weapons, or an unarmed strike takes 1d8 points of piercing damage. A creature that grapples a giant blowfish takes 2d6 points of piercing damage each round it does so. Creatures damaged by a giant blowfish’s quills must also save or be poisoned.

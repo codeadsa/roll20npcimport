@@ -1,0 +1,43 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/demilich/demilich-awakened
+Awakened Demilich CR 16
+XP 76,800
+Demilich necromancer 11
+NE Tiny undead
+Init +3; Senses darkvision 60 ft., true seeing; Perception +27
+DEFENSE
+AC 24, touch 20, flat-footed 21 (+3 Dex, +4 natural, +5 profane, +2 size)
+hp 115 (11d8+66)
+Fort +12, Ref +13, Will +19
+Defensive Abilities channel resistance +5, rejuvenation, unholy grace; DR 20/—; Immune acid, cold, electricity, magic, polymorph, undead traits
+Weaknesses torpor, vorpal susceptibility
+OFFENSE
+Speed fly 30 ft. (perfect)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks devour soul
+Spell-Like Abilities (CL 20th; concentration +25)
+Constant—true seeing
+At will—greater bestow curse (DC 22), telekinesis (DC 20), wail of the banshee (20-ft.-radius spread centered on the demilich; DC 25)
+Spells Prepared (CL 11th)
+6th—circle of death (DC 22), globe of invulnerability, maximized fireball (DC 19)
+5th—cloudkill (DC 21), cone of cold (DC 21), quickened magic missile, waves of fatigue
+4th—dimension door, enervation, fire shield, wall of ice (2)
+3rd—dispel magic (2), fireball (DC 19), suggestion (DC 19), vampiric touch (2)
+2nd—darkness, extended mage armor (already cast), false life (already cast), scorching ray (2), see invisibility, spectral hand
+1st—magic missile (3), ray of enfeeblement (2), shield (2)
+0th—bleed (DC 16), detect magic, ray of frost, read magic
+Prohibited (opposed) Schools illusion, transmutation
+STATISTICS
+Str 6, Dex 17, Con —, Int 22, Wis 20, Cha 21
+Base Atk +8; CMB +4; CMD 22
+Feats Craft Wondrous Item, Defensive Combat Training, Eschew MaterialsB, Extend Spell, Flyby AttackB, Improved Lightning Reflexes, Iron Will, Lightning Reflexes, Maximize Spell, Quicken Spell, Scribe Scroll, Still SpellB, Toughness
+Skills Craft (alchemy) +20, Fly + 12, Intimidate +19, Knowledge (arcana) +20, Knowledge (planes) +20, Linguistics +20, Perception +27, Sense Motive +27, Spellcraft +20, Stealth +25; Racial Modifiers +8 Perception, +8 Sense Motive, +8 Stealth
+Languages Abyssal, Aklo, Common, Draconic, Giant, Infernal
+SPECIAL ABILITIES
+Devour Soul (Su) As a standard action with a range of 300 feet, a demilich can imprison the soul of a living creature within one of 10 special gems embedded in its skull. If the target succeeds at a DC 22 Fortitude save, it gains two permanent negative levels. If it fails, its soul is immediately drawn into one of the gems in the demilich’s skull. The soul remains trapped within the gem, visible as but a gleam except under true seeing. The soulless body corrupts and decays rapidly, reducing to dust in a single round. As long as the dead creature’s soul remains trapped in the gemstone, it cannot be restored to life via any means save direct divine intervention. Gems with souls trapped in them can be retrieved from a destroyed demilich, at which point they can either be crushed to release any souls within to their afterlife or used in the place of the usual material components to restore the soul and body with resurrection or true resurrection. After 24 hours, the demilich can choose to consume any soul trapped in a gem, healing it 1d6 hit points per Hit Die of the soul, at which point only miracle or wish can restore the dead creature to life. The save DC is Charisma-based.
+Greater Bestow Curse (Sp) This spell-like ability functions like bestow curse, but can have one of the following effects: -12 to one ability score; -6 to two ability scores; -8 penalty on attack rolls, saves, and checks; or a 25% chance to act normally. This ability is treated as a 6th-level spell.
+Immunity to Magic (Su) A demilich is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells function differently against the creature, as noted below.
+A dispel evil spell deals 2d6 points of damage, with no saving throw. Holy smite affects a demilich normally. A power word kill spoken by an ethereal caster deals 50 points of damage to the demilich if it fails a Fortitude save (with a DC determined as though the spell allowed a saving throw). A shatter spell deals 1d6 points of damage per two caster levels (maximum 10d6), with no saving throw. Rejuvenation (Su) A destroyed demilich reforms in 2d6 days. To permanently destroy a demilich, holy water must be poured over its remains within the area of a hallow spell. To complete the destruction, holy word or dispel evil must be cast. If the caster succeeds at a caster level check with a DC equal to 10 + the demilich’s Hit Dice, the demilich is permanently destroyed.
+Telekinetic Storm (Su) As a special use of its telekinesis spell-like ability, a demilich can churn up its treasure, dust, bones, and other loose debris in the area into a whirling storm about its skull. The storm obscures vision as a fog cloud within a 20-foot spread centered on the demilich’s skull. Creatures within the storm take 12d6 points of damage per round on the demilich’s turn (Reflex DC 20 for half damage). The demilich can maintain the storm indefinitely by concentrating.
+Torpor (Ex) A demilich takes no actions against intruders unless its remains or treasure are disturbed.
+Unholy Grace (Su) A demilich gains a bonus on saves and a profane bonus to AC equal to its Charisma modifier.
+Vorpal Susceptibility (Ex) Vorpal weapons of any kind ignore a demilich’s damage reduction.

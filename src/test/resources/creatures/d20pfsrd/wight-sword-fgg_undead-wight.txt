@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/wight/wight-sword-fgg
+Sword Wight CR 6
+XP 2,400
+LE Medium undead
+Init +1; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 21, touch 11, flat-footed 20 (+6 armor, +1 Dex, +4 natural)
+hp 60 (8d8+16 plus 8)
+Fort +4; Ref +3; Will +7
+Defensive Abilities channel resistance +4, undead traits
+OFFENSE
+Speed 20 ft. (base 30 ft.)
+Melee greatsword +8/+3 (2d6+1/19–20 plus energy drain), or slam +7/+2 (1d4+1 plus energy drain)
+STATISTICS
+Str 12, Dex 12, Con —, Int 11, Wis 13, Cha 15
+Base Atk +6; CMB +7; CMD 18
+Feats Blind-Fight, Skill Focus (Perception), Toughness, Weapon Focus (greatsword)
+Skills Acrobatics +4, Climb +7, Perception +15, Stealth +12
+SQ sword channel
+Gear chainmail, greatsword, gold circlet set with a sapphire (worth 800 gp for the gem, or 1,000 gp for the entire circlet)
+SPECIAL ABILITIES
+Sword Channel (Ex) A sword wight’s energy drain ability functions through melee weapon attacks it makes, in addition to its slam attacks.
+Base Creature
+Wight

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/lamia
+Lamia CR 6
+XP 2,400
+CE Large monstrous humanoid
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +15
+DEFENSE
+AC 20, touch 13, flat-footed 16 (+3 Dex, +1 dodge, +7 natural, –1 size)
+hp 67 (9d10+18)
+Fort +7, Ref +9, Will +11
+OFFENSE
+Speed 60 ft.
+Melee +1 dagger +13/+8 (1d4+4/19–20), touch +7 (1d4 Wisdom drain), 2 claws +7 (1d4+2)
+Space 10 ft.; Reach 5 ft.
+Special Attacks Wisdom drain
+Spells Known (CL 9th)
+At will—disguise self, ventriloquism
+3/day—charm monster (DC 15), major image (DC 14), mirror image, suggestion (DC 14)
+1/day—deep slumber (DC 14)
+STATISTICS
+Str 18, Dex 16, Con 14, Int 13, Wis 17, Cha 13
+Base Atk +9; CMB +14; CMD 28 (32 vs. trip)
+Feats Dodge, Great Fortitude, Iron Will, Mobility, Spring Attack
+Skills Bluff +9, Diplomacy +4, Disguise +6, Intimidate +10, Knowledge (religion) +4, Perception +15, Stealth +15, Survival +12; Racial Modifiers +4 Bluff, +4 Stealth
+Languages Abyssal, Common
+SQ undersized weapons
+SPECIAL ABILITIES
+Undersized Weapons (Ex) Although a lamia is Large, its upper torso is the same size as that of a Medium humanoid. As a result, lamias wield weapons as if they were one size category smaller than their actual size (Medium for most lamias).
+Wisdom Drain (Su) A lamia drains 1d4 points of Wisdom each time it hits with its melee touch attack. (Unlike with other kinds of ability drain attacks, a lamia does not heal any damage when it uses its Wisdom drain.) Lamias try to use this power early in an encounter to make foes more susceptible to charm monster and suggestion.

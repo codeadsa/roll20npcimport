@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/retch-hound
+Retch Hound CR 3
+XP 800
+NE Medium magical beast
+Init +2; Senses darkvision 60 ft., scent; Perception +12; Aura stench (DC 13, 10 rounds)
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 22 (3d10+6)
+Fort +5, Ref +5, Will +2
+OFFENSE
+Speed 40 ft.
+Melee bite +5 (1d6+2 plus trip)
+Space 5 ft.; Reach 5 ft.
+Special Attacks breath weapon (10-ft. cone, 2d6 acid damage plus nauseated 1d3 rounds, Reflex DC 13 for half and not nauseated, usable ever 8+1d4 rounds)
+TACTICS
+Retch hounds hunt their prey in packs. Using an eerie howl, they seem to coordinate and communicate with one another during these hunts. A favored tactic of a retch hound pack is to encircle a foe and then hit it from all sides at once. Usually the largest hound in the pack is the leader. When slain, a retch hound melts into a pile of stinking and bubbling slime.
+STATISTICS
+Str 14, Dex 15, Con 15, Int 5, Wis 12, Cha 4
+Base Atk +3; CMB +5; CMD 17 (+21 vs. Trip)
+Feats Skill Focus (Perception), Track
+Skills Perception +12, Survival +6 (+10 scent tracking); Racial Modifiers +4 Perception, +4 Survival when tracking by scent

@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/shikigami
+Shikigami CR 2
+XP 600
+CE Small outsider (evil, goblin, oni, shapechanger)
+Init +2; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 16, touch 13, flat-footed 14 (+2 Dex, +3 natural, +1 size)
+hp 22 (3d10+6); regeneration 2 (acid, fire)
+Fort +4, Ref +5, Will +3
+Immune cold, poison; Resist electricity 10; SR 13
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +3 (1d3) or greatclub +3 (1d8)
+Spell-Like Abilities (CL 5th)
+At will–invisibility
+3/day–inflict moderate wounds (DC 12), dancing lights, gaseous form, mage hand
+1/day–charm person (DC 12)
+STATISTICS
+Str 11, Dex 15, Con 12, Int 10, Wis 11, Cha 8
+Base Atk +2; CMB +1; CMD 13
+Feats Great Fortitude, Toughness
+Skills Bluff +5, Craft (any) +6, Intimidate +6, Perception +6, Sense Motive +6, Stealth +12
+Languages Abyssal, Giant, Goblin, Kaidanese
+SQ change shape (small or tiny animal; beast shape II)
+DEFENSE AC 14, touch 11, flat-footed 12 (+2 Dex, +1 natural, +1 size)
+hp 7 (1d10+2)
+Fort +1, Ref +4, Will +2
+Immune cold, poison; Resist electricity 10; SR 11
+OFFENSE Speed 30 ft.
+Melee 2 claws +0 (1d3-1) or greatclub +0 (1d8-1)
+Spell-Like Abilities (CL 5th)
+At will–invisibility
+3/day–dancing lights, mage hand
+STATISTICS Str 9, Dex 15, Con 12, Int 10, Wis 11, Cha 8
+Base Atk +1; CMB +0; CMD 12
+Feats Toughness
+Skills Bluff +3, Craft (any) +4, Intimidate +4, Perception +4, Sense Motive +4, Stealth +10
+Languages as master
+SQ change shape (small or tiny animal; beast shape II)

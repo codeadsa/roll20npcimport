@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/fungoid
+Fungoid CR 3
+XP 800
+NE Medium plant (fungus)
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 18, touch 11, flat-footed 17(+1 Dex, +7 natural)
+hp 37 (5d8+15)
+Fort +7; Ref +2; Will +1
+Immune plant traits; Resist electricity 10
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +8 (1d8+4)
+STATISTICS
+Str 19, Dex 12, Con 17, Int 4, Wis 11, Cha 6
+Base Atk +3; CMB +7; CMD 18
+Feats Improved Initiative, Power Attack, Weapon Focus (slam)
+Skills Perception +10, Stealth +6 (+14 in swampy or forested areas); Racial Modifiers +4 Perception, +8 Stealth in swampy or forested areas
+Languages Common (understands but cannot speak)

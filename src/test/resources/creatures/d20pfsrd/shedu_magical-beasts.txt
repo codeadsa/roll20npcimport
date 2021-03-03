@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/shedu
+Shedu CR 9
+XP 6,400
+LG Large magical beast
+Init +7; Senses darkvision 60 ft., detect chaos, detect evil, low-light vision, true seeing; Perception +20
+DEFENSE
+AC 24, touch 16, flat-footed 23 (+1 Dex, +6 insight, +8 natural, -1 size)
+hp 115 (11d10+55); fast healing 5
+Fort +12, Ref +14, Will +11
+Defensive Abilities prescience; DR 10/evil; Resist electricity 10, fire 10; SR 20
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee gore +17 (2d8+7/19-20), 2 hooves +12 (1d6+3), 2 wings +12 (1d6+3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks trample (2d6+10, DC 22)
+Spell-Like Abilities (CL 12th; concentration +18)
+Constant—detect chaos, detect evil, true seeing
+3/day—empowered cure moderate wounds, dispel magic, magic circle against evil, remove disease, shield other
+1/day—dismissal (DC 18), flame strike (DC 18), restoration
+STATISTICS
+Str 24, Dex 13, Con 20, Int 19, Wis 22, Cha 19
+Base Atk +11; CMB +19 (+23 bull rush); CMD 30 (32 vs. bull rush, 34 vs. trip)
+Feats Empower Spell-Like Ability (cure moderate wounds), Greater Bull Rush, Improved Bull Rush, Improved Critical (gore), Iron Will, Power Attack
+Skills Diplomacy +15, Fly +13, Knowledge (planes) +15, Knowledge (religion) +15, Perception +20, Sense Motive +17
+Languages Auran, Celestial, Common; telepathy 100 ft.
+SPECIAL ABILITIES
+Prescience (Su) A shedu can see all the possible outcomes of any of its own futures. This grants the creature an insight bonus to its AC and on initiative checks and Reflex saves equal to its Wisdom bonus (+6 for most shedus).

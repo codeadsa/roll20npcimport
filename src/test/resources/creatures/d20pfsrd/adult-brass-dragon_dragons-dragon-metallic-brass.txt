@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-brass/adult-brass-dragon
+Adult Brass Dragon CR 11
+XP 12,800
+CG Large dragon (fire)
+Init +5; Senses blindsense 60 ft., dragon senses; Perception +24
+Aura frightful presence (180 ft., DC 20)
+DEFENSES
+AC 28, touch 10, flat-footed 27; (+1 Dex, +18 natural, –1 size)
+hp 161 (14d12+70)
+Fort +14, Ref +10, Will +12
+DR 5/magic; Immune fire, paralysis, sleep; SR 22
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 200 ft. (poor)
+Melee bite +20 (2d6+10), 2 claws +20 (1d8+7), 2 wings +15 (1d6+3), tail slap +15 (1d8+10)
+Special Attacks breath weapon (80-ft. line, DC 22, 12d4 fire), desert wind, sleep breath
+Spell-Like Abilities (CL 14th)
+At will—endure elements, speak with animals, suggestion (DC 18)
+Spells Known (CL 7th)
+3rd (5/day)—hold person (DC 18), tongues
+2nd (7/day)—alter self, detect thoughts (DC 15), see invisibility
+1st (7/day)—alarm, charm person (DC 16), protection from evil, shield, ventriloquism
+0 (at will)—arcane mark, dancing lights, detect magic, ghost sound (DC 13), mage hand, message, prestidigitation
+STATISTICS
+Str 25, Dex 12, Con 21, Int 16, Wis 17, Cha 16
+Base Atk +14; CMB +22; CMD 33 (37 vs. trip)
+Feats Alertness, Flyby Attack, Hover , Greater Spell Focus (enchant), Improved Initiative, Power Attack, Spell Focus (enchant)
+Skills Bluff +20, Diplomacy +20, Fly +12, Heal +20, Linguistics +20, Perception +24, Sense Motive +24, Spellcraft +20, Survival +20
+Languages Common, Draconic, plus any 14 others

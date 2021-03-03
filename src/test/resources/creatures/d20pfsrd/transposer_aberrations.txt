@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/transposer
+Transposer CR 5
+XP 1,600
+N Medium aberration
+Init +1; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+1 Dex, +1 dodge, +2 natural)
+hp 33 (6d8+6)
+Fort +3, Ref +3, Will +6
+Defensive Abilities transposition
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +5 (1d6+1 plus transposition)
+Special Attacks transposition
+Spell-like Abilities (CL 6th):
+At will—disguise self (DC 15)
+TACTICS
+When it first encounters potential prey, a transposer uses its change self ability to lure its target into range. It usually takes the shape of a creature of the same race as its potential prey if possible. Once its prey is in range, the transposer lashes out with its arms. Once it transposes a target, it pummels it relentlessly with its arms.
+STATISTICS
+Str 12, Dex 13, Con 12, Int 8, Wis 12, Cha 12
+Base Atk +4; CMB +5; CMD 17
+Feats Dodge, Skill Focus (Disguise), Skill Focus (Perception)
+Skills Bluff +7, Disguise +10 (+13 when using disguise self), Perception +13
+Languages Aklo, Common
+SQ blending disguise
+SPECIAL ABILITIES
+Blending Disguise (Ex) When using its disguise self spell-like ability, the transposer can make itself look like a creature of the humanoid or monstrous humanoid type. When disguising itself, the transposer ignores the usual penalty for different race, age category, and gender. Finally, transposers gain a racial bonus equal to one half their racial Hit Dice to the Will save DC to penetrate the illusion of their disguise self ability.
+Transposition (Su) An opponent hit by a transposer’s slam attack becomes linked (transposed) to it by an invisible and undetectable field of energy for 1 hour if it fails a DC 14 Fortitude save. A transposer can have a number of opponents equal to its HD linked to it at one time. An opponent can be linked to more than one transposer (if it fails its save against each transposer’s attack). The save DC is Constitution-based.
+When a linked opponent attacks a transposer it is linked to, the creature gains hit points equal to the damage the attack would normally deal, and the attacker takes the damage. Other opponents linked to that transposer are unharmed. A transposer can gain up to the maximum hit points allowed by its Hit Dice. It cannot gain bonus or temporary hit points from this ability.
+Curative magic cast on a transposer by a transposed opponent damages the creature by the amount it would normally heal, and heals a like amount of damage on the one who cast the spell. (Other linked creatures are unaffected.) Curative magic cast on a transposed opponent works normally but does not heal or harm a linked transposer. Curative magic cast on a transposer by a non-linked opponent functions normally.
+Opponents not linked to the transposer can attack and affect the creature normally.
+
+
+

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/eye-of-the-deep--tohc
+Eye of the Deep CR 6
+XP 2,400
+LE Medium aberration (aquatic)
+Init +4; Senses all-around vision, darkvision 60 ft.; Perception +18
+Immune flanking
+DEFENSE
+AC 15, touch 10, flat-footed 15 (+5 natural)
+hp 75 (10d8+20)
+Fort +5; Ref +3; Will +10
+OFFENSE
+Speed 5 ft., swim 20 ft.
+Melee 2 pincers +7 (1d8 plus grab), bite +7 (1d6)
+Ranged eye ray +7 (spell-like ability)
+Special Attacks constrict (1d8), eye rays (DC 17), stun cone (30 ft. cone, DC 17, stunned 2d4 rounds)
+TACTICS
+An eye of the deep floats slowly through the oceans searching for its prey. It attacks using its eye rays; then it grasps an opponent with its pincers and subjects the victim to its bite attack. An eye of the deep’s pincers are considered to be primary attacks.
+STATISTICS
+Str 10, Dex 10, Con 14, Int 12, Wis 13, Cha 13
+Base Atk +7; CMB +7 (+11 on grapple); CMD 17
+Feats Flyby Attack, Improved Initiative, Improved Natural Attack (pincers), Iron Will, Lightning Reflexes
+Skills Knowledge (nature) +14, Perception +18, Stealth +13, Survival +14, Swim +21; Racial Modifiers +4 Perception
+Languages Aklo, Aquan, Common
+SPECIAL ABILITIES
+All-Around Vision (Ex) An eye of the deep’s stalked eyes allow it to see in all directions at once. It cannot be flanked.
+Eye Rays (Su) Each of the creature’s eyes stalks can produce a magical ray once per round as a free action. The creature can aim both of its eye rays in any direction. Each of its eye rays resembles a spell cast by a 12th-level caster and follows the rules for a ray (see Aiming a Spell in the Core Rulebook). Each eye ray has a range of 150 feet and a save DC of 17. The save DC is Constitution-based.
+Left eye—Hold person A target struck by this ray must succeed on a Will save or be affected as though by the spell. An eye of the deep will use this ray early in a fight so as to disable its opponents. Right eye—Hold monster A target struck by this ray must succeed on a Will save or be affected as though by the spell. This is used in the same manner as the hold person ray. Both eyes—Minor image By combining the rays of both eyes, an eye of the deep can replicate the minor image spell. It does not have to succeed on an attack roll to use this ray. The illusion is generated at any point within range and in the eye of the deep’s line of sight. Stun Cone (Su) Once per round, an eye of the deep’s central eye can produce a cone extending straight ahead from its front to a range of 30 feet. Creatures in the area must succeed on a DC 17 Fortitude save or be stunned for 2d4 rounds. The save DC is Constitution-based.
+Feats An eye of the deep’s Flyby Attack feat allows it to take a move action and another standard action at any point during the move while swimming. It cannot take a second move action during a round in which it makes a flyby attack.

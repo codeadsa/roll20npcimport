@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/fye
+Fye CR 4
+XP 1,200
+N Medium undead (incorporeal)
+Init +2; Senses darkvision 60 ft.; Perception +2
+Aura despair (10 ft, DC 15)
+DEFENSE
+AC 15, touch 15, flat-footed 13 (+3 deflection, +2 Dex)
+hp 30 (4d8+12)
+Fort +4; Ref +3; Will +6
+Defensive Abilities incorporeal; Immune undead traits
+OFFENSE
+Speed fly 50 ft. (perfect)
+Melee incorporeal touch +5 (1d6 plus possession)
+Special Attacks possession
+Spell-Like Abilities (CL 4th)
+At-will–detect thoughts (DC 15)
+3/day–cause fear (DC 14)
+1/day–feeblemind (DC 18)
+STATISTICS
+Str -, Dex 17, Con -, Int -, Wis 14, Cha 16
+Base Atk +3; CMB +5; CMD 18
+Skills Fly +10
+SPECIAL ABILITIES
+Aura of Despair (Su) A fye continually emanates an aura of despair in a 10-foot radius. Any creature within or entering this area must succeed on a DC 15 Will save or take a -2 penalty on attack rolls, saving throws, ability and skill checks, and weapon damage rolls for as long as they remain within the area. A creature that successfully saves is immune to the aura of despair of that fye for one day. The save DC is Charisma-based.
+Possession (Su) Once per round by making a successful incorporeal touch attack, a fye can merge its body with a creature on the Material Plane. This ability is similar to a magic jar spell, except that it does not require a receptacle. The target can resist the possession by succeeding on a DC 15 Will save. If the save fails, the fye disappears and enters the target’s body. The save DC is Charisma-based.

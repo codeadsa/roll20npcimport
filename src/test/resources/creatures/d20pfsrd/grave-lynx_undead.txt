@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/grave-lynx
+Grave Lynx CR 6
+XP 2,400
+NE Large undead
+Init +7; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 17, touch 12, flat-footed 14 (+3 Dex, +5 natural, –1 size)
+hp 60 (8d8+24)
+Fort +4, Ref +7, Will +7
+Immune undead traits
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft.
+Melee bite +11 (2d6+5 plus grave rot), 2 claws +10 (1d8+5)
+Space 10 ft.; Reach 10 ft.
+Special Attacks piercing howl, rake (2 claws +10, 1d8+5)
+STATISTICS
+Str 21, Dex 17, Con —, Int 2, Wis 12, Cha 15
+Base Atk +6; CMB +12; CMD 25 (29 vs. trip)
+Feats Improved Initiative, Lightning Reflexes, Toughness, Weapon Focus (bite)
+Skills Acrobatics +9, Climb +10, Perception +6, Stealth +8; Racial Modifiers +4 Acrobatics, +4 Stealth
+SPECIAL ABILITIES Piercing Howl (Su) When a grave lynx howls, all creatures except other undead within a 300-foot spread must succeed at a DC 16 Will save or become frightened for 1d4 rounds. This is a sonic, mind-affecting effect. Whether or not the save is successful, an affected creature is immune to the same lynx’s howl for 24 hours. The save DC is Charisma-based.
+Grave Rot (Su) Curse and disease—bite; save Fort DC 16; onset 1 hour; frequency 1/day; effect 1d6 Str and 1d6 Wis; cure —.
+Grave rot is both a curse and a disease and can only be cured if the curse is first removed, at which point the disease can be magically removed. Even after the curse element of grave rot is lifted, a creature suffering from it cannot recover naturally over time. Anyone casting a conjuration (healing) spell on the afflicted creature must succeed at a DC 20 caster level check, or the spell is wasted and the healing has no effect. The save DC is Charisma-based.

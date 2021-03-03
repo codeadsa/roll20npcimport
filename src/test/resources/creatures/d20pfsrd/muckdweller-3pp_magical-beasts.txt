@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/muckdweller-3pp
+Muckdweller CR 1/4
+XP 100
+N Small magical beast (reptilian)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+2 Dex, +1 natural, +1 size)
+hp 5 (1d10)
+Fort +2, Ref +4, Will +1
+OFFENSE
+Speed 10 ft., swim 30 ft.
+Melee bite +4 (1d4-2)
+Special Attacks blinding spray
+STATISTICS
+Str 6, Dex 14, Con 11, Int 9, Wis 12, Cha 6
+Base Atk +1; CMB +2; CMD 9
+Feats Weapon Finesse
+Skills Acrobatics +6, Perception +5, Swim +14; Racial Modifiers +4 Acrobatics, +4 Swim. Muckdwellers use their Dexterity modifier for Swim checks.
+SPECIAL ABILITIES
+Blinding Spray (Ex) By filling its mouth with muddy water, a muckdweller can fire a stream of muddy water in a 10-foot line. A creature hit must succeed on a DC 10 Reflex save or be blinded for 1d2 rounds. The save DC is Constitution-based. A muckdweller can take a move action to refill its mouth with muddy water so it can use its spray again.

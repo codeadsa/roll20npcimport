@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-forest
+Forest Giant CR 12
+XP 19,200
+CG or CE Huge humanoid (giant)
+Init +2; Senses low-light vision; Perception +26
+DEFENSE
+AC 27, touch 10, flat-footed 25 (+4 armor, +2 Dex, +13 natural, -2 size)
+hp 161 (17d8+85)
+Fort +15, Ref +7, Will +11, +2 vs enchantments
+Defensive Abilities Rock Catching; Immune acid
+OFFENSE
+Speed 50 ft. (40 ft in armor), climb 20 ft
+Melee greatclub +24/+19/+14 (3d8+21/19-20) or 2 slams +24 (1d8+14)
+Ranged rock +13 (2d8+21)
+Space 15 ft.; Reach 15 ft. (20 ft. Lunge)
+Special Attacks Rock Throwing (120 ft)
+Spell-like Abilities (CL 13th)
+constant – spider climb
+3/day – tree stride, wall of thorns
+1/day – animate plants, baleful polymorph (DC 19)
+STATISTICS
+Str 39, Dex 14, Con 20, Int 19, Wis 22, Cha 12
+Base Atk +12; CMB +28; CMD 40
+Feats Awesome Blow, Greater Bull Rush, Greater Sunder, Improved Bull Rush, Improved Critical (great club), Improved Sunder, Intimidating Prowess, Lunge, Power Attack
+Skills Climb +42, Handle Animal +21, Intimidate +35, Knowledge (geography) +29, Perception +26, Survival +26; Racial Modifiers +8 Acrobatics, +8 Climb, +5 Knowledge (geography) (forest only)
+Languages Common, Draconic, Elf, Giant, Sylvan
+SPECIAL ABILITIES
+Spell-like Abilities (Sp) The forest giant’s spell-like abilities are Intelligence-based.

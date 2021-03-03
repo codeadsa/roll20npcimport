@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/forester-s-bane
+Forester’s Bane CR 5
+XP 1,600
+N Large plant
+Init +0; Senses blindsight (30 ft.), low-light vision; Perception +1
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+8 natural, -1 size)
+hp 52 (5d8+30)
+Fort +10; Ref +1; Will +2
+Immune plant traits
+OFFENSE
+Speed 0 ft. (immobile)
+Melee 4 leaves +5 touch (grab), 6 stalks +5 (1d4+3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks snap and saw
+STATISTICS
+Str 17, Dex 10, Con 22, Int -, Wis 13, Cha 9
+Base Atk +3; CMB +7 (+11 grapple); CMD 17
+SPECIAL ABILITIES
+Snap and Saw (Ex) A forester’s bane can saw at an opponent, dealing slashing damage, when it makes a successful grapple check. This attack deals 1d4+3 points of slashing damage per stalk. It cannot attack a pinned opponent with any stalk that has already attacked another opponent that round. A forester’s bane can only attempt to grapple opponents 1 or more sizes smaller than itself. Because of its four leaves, it can grapple up to four different opponents at one time with a single grapple check. It can also attack a single opponent with more than one leaf, gaining a +2 bonus on its grapple check with each extra leaf (+13 grapple with two leaves, +15 grapple with three leaves, and +17 grapple with all four leaves).
+Both leaves and stalks each have 10 hit points and can be attacked by making a successful sunder attempt. Attacking a forester’s bane’s leaf or stalk does not provoke an attack of opportunity. If the leaf is currently grappling a target, the forester’s bane takes a -4 penalty on its opposed roll to resist the sunder attempt. Severing a leaf or stalk deals no damage to a forester’s bane. Attacks that hit a leaf deal half their damage to the monster and half to the trapped victim.
+Destroyed leaves and stalks grow back in 2d4 weeks if the forester’s bane is not killed.

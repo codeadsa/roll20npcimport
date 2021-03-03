@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/havero-tentacle
+Havero Tentacle CR 6
+XP 2,400
+NE Huge aberration
+Init +1; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 19, touch 9, flat-footed 18 (+1 Dex, +10 natural, -2 size)
+hp 66 (7d8+35)
+Fort +7, Ref +3, Will +10
+DR 5/slashing; Immune cold, inhaled effects, mind-affecting effects, poison; Resist acid 10, fire 10
+OFFENSE
+Speed 30 ft.
+Melee tentacle +12 (2d6+13 plus grab)
+Space 5 ft. (see sidebar); Reach 20 ft. (see sidebar)
+Special Attacks constrict (2d6+13)
+TACTICS
+During Combat The havero’s tentacles attack the closest visible target, switching to attack other targets only to defend themselves as necessary.
+Morale Once a havero tentacle is reduced to 0 hit points, it stops attacking and withdraws.
+STATISTICS
+Str 28, Dex 12, Con 20, Int —, Wis 20, Cha 10
+Base Atk +5; CMB +16; CMD 27
+SQ mindless, no breath
+SPECIAL ABILITIES
+Mindless (Ex) Although the havero itself is fantastically intelligent, its is currently slumbering, leaving its tentacles little more than instinct to operate on. The tentacles are effectively mindless, and thus immune to mind-affecting attacks.

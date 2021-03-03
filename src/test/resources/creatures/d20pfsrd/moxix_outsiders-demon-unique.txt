@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/unique/moxix
+Demon, Stone
+CR 20
+XP 307,200
+CE Gargantuan outsider (chaotic, demon, evil, extraplanar)
+Init +3; Senses blindsense 60 ft., darkvision 60 ft., see invisibility; Perception +33; Aura hopedrinker (60 ft.)
+DEFENSE
+AC 34, touch 9, flat-footed 31 (+3 Dex, +25 natural, –4 size)
+hp 379 (23d10+253)
+Fort +24, Ref +10, Will +22
+Defensive Abilities gush; DR 15/adamantine and good; Immune electricity, poison; Resist acid 20, cold 20, fire 20
+OFFENSE
+Speed 40 ft.
+Melee bite +29 (2d8+10/19–20), gore +29 (2d8+10), 4 slams +29 (2d6+10/19–20 plus grab)
+Space 20 ft.; Reach 20 ft.
+Special Attacks breath weapon (60-ft. cone, 16d6 acid damage plus disease, Reflex DC 32 halves, usable every 1d4 rounds), constrict (2d6+10), rend (2 slams, 2d6+15)
+Spell-Like Abilities (CL 23rd; concentration +30)
+Constant–mind blank, see invisibility
+At will–crushing despair (DC 21), detect magic, dispel magic, eyebite (DC 23), protection from good, stone shape
+3/day–create undead, feeblemind (DC 22), insanity (DC 24), quickened mind fog (DC 22), phantasmal killer (DC 21), song of discord (DC 22), symbol of pain (DC 22)
+1/day–desecrate, greater teleport (self plus 50 lbs. of objects only), summon (level 9, any 1 CR 19 or lower demon 100%), symbol of insanity (DC 25), weird (DC 26)
+STATISTICS
+Str 30, Dex 17, Con 32, Int 15, Wis 24, Cha 25
+Base Atk +23; CMB +37 (+41 grapple); CMD 50
+Feats Bleeding Critical, Blind-Fight, Cleave, Combat Reflexes, Critical Focus, Dazing Assault, Improved Critical (bite), Improved Critical (slam), Iron Will, Power Attack, Quicken Spell-Like Ability (mind fog), Vital Strike
+Skills Bluff +33, Climb +28, Diplomacy +25, Intimidate +33, Knowledge (planes) +28, Knowledge (religion) +21, Perception +33, Sense Motive +33, Spellcraft +25
+Languages Abyssal, Aklo, Common; telepathy 300 ft.
+SPECIAL ABILITIES
+Breath Weapon (Su) A stone demon can exhale a cone of acidic fog laced with a terrible disease. Any creature damaged by the acid of his breath weapon must succeed at a DC 28 Fortitude save or contract this disease. A humanoid afflicted with this disease must attempt a new Will save each day. If the humanoid fails, it attacks and attempts to eat the weakest humanoid nearby. If the save is successful, it resists this impulse. A humanoid who dies or is killed while afflicted rises as a ghast at the next midnight. The save DC is Charisma-based.
+Demon’s Delectation: Inhaled; save Fortitude DC 28; onset 1 day; frequency 1/day; effect 1d4 Con and 1d4 Wis damage; cure 2 consecutive saves.
+Gush (Ex) Anytime a stone demon takes more than 50 points of weapon damage in a round, blood and pus spews forth from the wound. The blood is extremely slippery and sprays out in a 20-foot radius, coating all creatures and surfaces in the area. Any creatures in the area must succeed at a DC 28 Reflex save or drop any items they are holding. A saving throw must be made each round that the creature attempts to use or pick up an item it previously dropped. In addition, the area coated in the gushing blood is difficult to move about in, and creatures moving through the area must succeed at a DC 15 Acrobatics check or fall prone.
+Hopedrinker (Su) A stone demon emits an aura that drains hope from all within 60 feet. All morale bonuses are suppressed within this aura, regardless of their source. In addition, spells and spell-like abilities granting a morale bonus are affected as dispel magic used to counterspell (caster level 23rd) every round at the beginning of its turn. A successful dispel check negates the entire effect (not just the morale bonus) and grants The Demon temporary hit points equal to the spell’s level (to a maximum of 100). These temporary hit points last 1 hour.
+Mindshatter (Su) If a creature fails its save against a stone demon’s eyebite spell-like ability, as a standard action before the end of his turn it may unravel the target’s mind and spirit. This acts as greater dispel magic (caster level 23rd) against effects that protect against mind-affecting or necromantic effects and automatically affects the target as enervation and touch of idiocy (duration 24 hours).

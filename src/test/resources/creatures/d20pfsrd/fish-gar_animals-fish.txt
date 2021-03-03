@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-gar
+Gar CR 1
+XP 400
+N Medium animal (aquatic)
+Init +6; Senses low-light vision; Perception +6
+DEFENSE
+AC 13, touch 11, flat-footed 11 (+2 Dex, +1 natural)
+hp 13 (2d8+4)
+Fort +5, Ref +5, Will +1
+OFFENSE
+Speed swim 60 ft.
+Melee bite +3 (1d6+3 plus grab)
+Space 5 ft.; Reach 5 ft.
+STATISTICS
+Str 14, Dex 14, Con 15, Int 1, Wis 13, Cha 2
+Base Atk +1; CMB +3 (+7 grapple); CMD 15 (can’t be tripped)
+Feats Improved Initiative
+Skills Perception +6, Swim +10
+
+
+Gar Companions
+Starting Statistics: Size Medium; Speed swim 60 ft., AC +1 natural armor, Attack bite (1d6 plus grab); Ability Scores Str 14, Dex 14, Con 15, Int 1, Wis 13, Cha 2.
+7th-Level Advancement: Size Large; AC +3 natural armor, Attack bite (1d8), Ability Scores +8 Str, –2 Dex, +4 Con.

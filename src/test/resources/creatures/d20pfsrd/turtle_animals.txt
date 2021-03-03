@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/turtle
+Turtle CR 1/6
+XP 65
+N Tiny animal
+Init –2; Senses low-light vision; Perception +4
+DEFENSE
+AC 16, touch 10, flat-footed 16 (–2 Dex, +6 natural, +2 size)
+hp 3 (1d8–1)
+Fort +1, Ref +0, Will +1
+OFFENSE
+Speed 5 ft., swim 20 ft.
+Melee bite –2 (1d3–4)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 3, Dex 6, Con 8, Int 2, Wis 12, Cha 3
+Base Atk +0; CMB –4; CMD 2 (6 vs. trip)
+Feats Skill Focus (Perception)
+Skills Perception +4, Swim +10
+SPECIAL ABILITIES
+Familiar The master of a turtle familiar gains a +1 natural armor bonus to AC.
+Shell Retreat (Ex) A turtle can retreat within its shell as a swift action, gaining a +2 enhancement bonus to its existing natural armor. While in its shell, a turtle cannot take any action except to end the retreat. The turtle can end its retreat with a free action on its turn.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/spring-heeled-jack
+Spring-Heeled Jack CR 3
+XP 800
+CE Small fey
+Init +5; Senses low-light vision; Perception +7
+DEFENSE
+AC 16, touch 16, flat-footed 11 (+5 Dex, +1 size)
+hp 26 (4d6+12)
+Fort +3, Ref +9, Will +4
+OFFENSE
+Speed 40 ft.
+Melee mwk dagger +9 (1d3+2/19–20)
+Special Attacks breath weapon (15-ft. cone, 2d6 fire damage, Reflex DC 14 half, usable every 2d4 rounds), frightening gaze, vault, sneak attack +1d6
+Spell-Like Abilities (CL 4th; concentration +5)
+Constant—feather fall, pass without trace
+1/day—passwall
+STATISTICS
+Str 15, Dex 21, Con 14, Int 10, Wis 10, Cha 13
+Base Atk +2; CMB +3; CMD 18
+Feats Toughness, Weapon Finesse
+Skills Acrobatics +12 (+16 when jumping), Bluff +6, Climb +9, Escape Artist +12, Perception +7, Sleight of Hand +10, Stealth +16; Racial Modifiers +4 Acrobatics when jumping
+Languages Common, Sylvan
+SPECIAL ABILITIES
+Frightening Gaze (Su) Any creature within a 10-ft. radius upon whom Spring-Heeled Jack’s gaze falls is panicked for 1d6 rounds. A successful DC 13 Will save negates. The save DC is Charisma-based.
+Vault (Su) Spring-Heeled Jack can jump up to 20 feet (vertically or horizontally in any combination) as a move action without provoking attacks of opportunity.

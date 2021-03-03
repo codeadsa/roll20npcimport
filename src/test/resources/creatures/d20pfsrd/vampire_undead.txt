@@ -1,0 +1,44 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/vampire
+Vampire CR 9
+XP 6,400
+Female human vampire sorcerer 8
+CE Medium undead (augmented humanoid)
+Init +8; Senses darkvision 60 ft.; Perception +21
+DEFENSE
+AC 23, touch 17, flat-footed 18 (+2 deflection, +4 Dex, +1 dodge, +6 natural)
+hp 102 (8d6+72); fast healing 5
+Fort +13, Ref +11, Will +12
+Defensive Abilities channel resistance +4; DR 10/magic and silver; Immune undead traits; Resist cold 10, electricity 10
+Weaknesses vampire weaknesses
+OFFENSE
+Speed 30 ft.
+Melee slam +8 (1d4+4 plus energy drain)
+Special Attacks blood drain, children of the night, create spawn, dominate (DC 22), energy drain (2 levels, DC 22)
+Bloodline Spell-Like Ability (CL 8th, +7 touch)
+11/day—grave touch
+Sorcerer Spells Known (CL 8th, +8 ranged touch)
+4th (5/day)—greater invisibility
+3rd (5/day)—dispel magic, fireball (DC 21), vampiric touch
+2nd (8/day)—false life, invisibility, scorching ray, web (DC 20)
+1st (8/day)—burning hands (DC 19), chill touch (DC 19), disguise self, expeditious retreat, mage armor, magic missile
+0—acid splash, detect magic, light, mage hand, mending, message, open/close, read magic
+Bloodline undead
+STATISTICS
+Str 16, Dex 18, Con —, Int 14, Wis 16, Cha 26
+Base Atk +4; CMB +7; CMD 24
+Feats AlertnessB, Blind-Fight, Combat Casting, Combat ReflexesB, DodgeB, Eschew Materials, Extend Spell, Improved InitiativeB, Lightning ReflexesB, Silent Spell, Still Spell, ToughnessB, Weapon Finesse
+Skills Bluff +27, Knowledge (arcana) +13, Knowledge (religion) +10, Perception +21, Sense Motive +13, Spellcraft +13, Stealth +12, Use Magic Device +19; Racial Modifiers +8 Bluff,+8 Perception, +8 Sense Motive, +8 Stealth
+Languages Abyssal, Common, Draconic
+SQ change shape (dire bat or wolf, beast shape II), gaseous form, shadowless, spider climb
+SPECIAL ABILITIES
+Blood Drain (Su) A vampire can suck blood from a grappled opponent; if the vampire establishes or maintains a pin, it drains blood, dealing 1d4 points of Constitution damage. The vampire heals 5 hit points or gains 5 temporary hit points for 1 hour (up to a maximum number of temporary hit points equal to its full normal hit points) each round it drains blood.
+Change Shape (Su) A vampire can use change shape to assume the form of a dire bat or wolf, as beast shape II.
+Children of the Night (Su) Once per day, a vampire can call forth 1d6+1 rat swarms, 1d4+1 bat swarms, or 2d6 wolves as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
+Create Spawn (Su) A vampire can create spawn out of those it slays with blood drain or energy drain, provided that the slain creature is of the same creature type as the vampire’s base creature type. The victim rises from death as a vampire in 1d4 days. This vampire is under the command of the vampire that created it, and remains enslaved until its master’s destruction. A vampire may have enslaved spawn totaling no more than twice its own Hit Dice; any spawn it creates that would exceed this limit become free-willed undead. A vampire may free an enslaved spawn in order to enslave a new spawn, but once freed, a vampire or vampire spawn cannot be enslaved again.
+Dominate (Su) A vampire can crush a humanoid opponent’s will as a standard action. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire’s influence, as though by a dominate person spell (caster level 12th). The ability has a range of 30 feet. At the GM’s discretion, some vampires might be able to affect different creature types with this power.
+Energy Drain (Su) A creature hit by a vampire’s slam (or other natural weapon) gains two negative levels. This ability only triggers once per round, regardless of the number of attacks a vampire makes.
+Gaseous Form (Su) As a standard action, a vampire can assume gaseous form at will (caster level 5th), but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
+Shadowless (Ex) A vampire casts no shadows and shows no reflection in a mirror.
+Spider Climb (Ex) A vampire can climb sheer surfaces as though under the effects of a spider climb spell.
+Vampire Spawn A vampire can elect to create a vampire spawn instead of a full-fledged vampire when she uses her create spawn ability on a humanoid creature only. This decision must be made as a free action whenever a vampire slays an appropriate creature by using blood drain or energy drain. A vampire spawn’s statistics are identical to those of a wight, save for the following changes.
+It gains the blood drain and dominate vampire special attacks. It gains channel resistance +2, DR 5/silver, resist cold and electricity 10, fast healing 2, and the vampire qualities listed above (gaseous form, shadowless, and spider climb). A vampire spawn gains all of the standard vampire weaknesses. It does not gain the wight’s Create Spawn ability. A vampire spawn is CR 4.

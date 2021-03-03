@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/leech/leech-swarm
+Leech Swarm
+CR 4
+XP 1,200
+N Diminutive vermin ( aquatic, swarm)
+Init +4; Senses blindsight 30 ft.; Perception +0
+
+DEFENSE AC 18, touch 18, flat-footed 14 (+4 Dex, +4 size)
+hp 39 (6d8+12)
+Fort +7, Ref +6, Will +2
+Immune mind-affecting effects, swarm traits, weapon damage
+Weaknesses susceptible to salt (see giant leech)
+OFFENSE Speed 5 ft., swim 30 ft.
+Melee swarm (2d6 plus poison)
+Space 10 ft.; Reach 0 ft.
+Special Attacks blood drain, distraction (DC 15)
+STATISTICS Str 1, Dex 18, Con 15, Int —, Wis 10, Cha 2
+Base Atk +4; CMB —; CMD —
+Skills Stealth +16 (+24 in swamps), Swim +12; Racial Modifiers +8 Stealth in swamps, uses Dexterity to modify Swim checks
+SPECIAL ABILITIES Blood Drain (Ex)
+Any living creature that begins its turn with a leech swarm in its space is drained of its blood and takes 1d3 points of Str and Con damage.
+Poison (Ex)
+Swarm—injury; save Fort DC 15; frequency 1/round for 2 rounds; effect 1d4 Dexterity drain; cure 1 save.

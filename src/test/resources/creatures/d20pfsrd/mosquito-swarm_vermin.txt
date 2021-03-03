@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/mosquito-swarm
+Mosquito Swarm CR 3
+XP 800
+N Diminutive vermin (swarm)
+Init +1; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 15, touch 15, flat-footed 14 (+1 Dex, +4 size)
+hp 31 (7d8)
+Fort +5, Ref +3, Will +3
+Defensive Abilities swarm traits; Immune mind-affecting effects, weapon damage
+OFFENSE
+Speed 5 ft., fly 40 ft. (good)
+Melee swarm (2d6 plus disease and bleed)
+Space 10 ft.; Reach 5 ft.
+Special Attacks bleed (1d6), disease (malaria, DC 13), distraction (DC 13)
+STATISTICS
+Str 1, Dex 13, Con 10, Int —, Wis 12, Cha 9
+Base Atk +5; CMB —; CMD —
+Skills Fly +11, Perception +9; Racial Modifiers Perception +8
+SPECIAL ABILITIES
+Disease (Ex) Malaria: Bite—injury; save Fortitude DC 13; onset 1d3 days; frequency 1 day; effect 1d3 Constitution damage and 1d3 Wisdom damage; cure 2 consecutive saves.
+The save DC is Constitution-based.
+Subpages
+Mosquito Swarm, Bloodhaze

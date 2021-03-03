@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/jelly-marsh/jelly-marsh-jubilex-touched
+Jubilex-Touched Marsh Jelly CR 11
+XP 12,800
+CE Large aberration (chaotic, evil, extraplanar)
+Init +5; Senses darkvision 60 ft., scent; Perception +29
+DEFENSE
+AC 17, touch 10, flat-footed 16 (+1 Dex, +7 natural, -1 size)
+hp 142 (15d8+75)
+Fort +10, Ref +8, Will +10
+DR 10/slashing or piercing and good; Resist acid 10, cold 10, fire 10; SR 22
+OFFENSE
+Speed 5 ft., fly 30 ft. (average)
+Melee 4 tentacles +18 (1d8+7 plus 1d6 acid and poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks death throes, disorienting glow (DC 22), poison (DC 22)
+STATISTICS
+Str 24, Dex 12, Con 20, Int 10, Wis 12, Cha 10
+Base Atk +11; CMB +19; CMD 30 (can’t be tripped)
+Feats Alertness, Flyby Attack, Hover, Improved Initiative, Lightning Reflexes, Skill Focus (Perception), Stealthy, Weapon Focus (tentacle)
+Skills Escape Artist +3, Fly +17, Intimidate +18, Perception +29, Sense Motive +3, Stealth +19
+Languages telepathy 100 ft.
+SPECIAL ABILITIES
+Death Throes (Ex) A Jubilex-touched marsh jelly deals 3d6 points of acid damage and 3d6 points of profane damage to anything within 10 feet when it is killed. A successful DC 22 Reflex save reduces the acid damage by half (but does not reduce the profane damage).
+Disorienting Glow (Ex) When a marsh jelly first takes damage, its body begins pulsating and flashing rapidly, emitting an eerie greenish glow. Creatures viewing a pulsating marsh jelly must succeed on a DC 22 Will save or be dazzled for 1d4 rounds. The save DC is Constitution-based.
+Poison (Ex) Tentacle–injury; save DC 22; frequency 1/ round for 4 rounds; effect 1d2 Dexterity damage; cure 2 consecutive saves. The save DC is Constitution-based.

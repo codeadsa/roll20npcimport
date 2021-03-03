@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/svirfneblin
+Svirfneblin
+CR 1
+XP 400
+Svirfneblin ranger 1
+N Small humanoid (gnome)
+Init +2; Senses darkvision 120 ft., low-light vision; Perception +6
+
+DEFENSE
+AC 15, touch 15, flat-footed 11 (+2 Dex, +2 dodge, +1 size)
+hp 15 (1d10+5)
+Fort +6, Ref +6, Will +2
+SR 12
+OFFENSE
+Speed 20 ft. (15 ft. in armor)
+Melee heavy pick +3 (1d4+1/×4)
+Ranged light crossbow +4 (1d6/19–20)
+Special Attacks favored enemy (dwarf +2), +1 to attack vs. dwarven and reptilian humanoids
+Spell-Like Abilities (CL 1st)
+Constant—nondetection
+1/day—blindness/deafness (DC 12), blur, disguise self
+STATISTICS
+Str 13, Dex 15, Con 14, Int 10, Wis 10, Cha 8
+Base Atk +1; CMB +1; CMD 15
+Feats Toughness
+Skills Craft (alchemy) +6, Heal +4, Knowledge (dungeoneering) +4, Perception +6, Stealth +12 (+14 underground), Survival +4 (+5 tracking); Racial Modifiers +2 Craft (alchemy), +2 Perception, +2 Stealth (+4 Stealth underground)
+Languages Gnome, Undercommon
+SQ stonecunning, track, wild empathy +0

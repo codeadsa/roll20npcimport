@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/gray-goo
+Gray Goo CR 14
+XP 38,400
+N Fine construct (swarm)
+Init +10; Senses darkvision 60 ft., low-light vision; Perception +13
+DEFENSE
+AC 29, touch 29, flat-footed 18 (+10 Dex, +1 dodge, +8 size)
+hp 123 (19d10+19)
+Fort +8, Ref +18, Will +8
+Defensive Abilities dispersion, swarm traits; Immune construct traits, weapon damage
+OFFENSE
+Speed fly 50 ft. (perfect)
+Melee swarm (6d6 plus dismantle and distraction)
+Space 10 ft.; Reach 0 ft.
+Special Attacks dismantle, distraction (DC 21), infest
+STATISTICS
+Str 1, Dex 30, Con —, Int 5, Wis 10, Cha 1
+Base Atk +19; CMB —; CMD —
+Feats Ability Focus (distraction), Dodge, Great Fortitude, Improved Lightning Reflexes, Iron Will, Lightning Reflexes, Lightning Stance, Mobility, Toughness, Wind Stance
+Skills Fly +26, Perception +13, Stealth +32 (+42 when dispersed); Racial Modifiers +10 Stealth when dispersed
+Languages Common (can’t speak)
+SPECIAL ABILITIES
+Dismantle (Ex) Creatures damaged by a gray goo must succeed at a DC 19 Reflex save or a random piece of their equipment takes the same amount of damage, determined as though the target rolled a natural 1 on a saving throw, using the rules for items surviving after a saving throw. In addition, unattended objects in the area of a gray goo take damage if the swarm chooses to harm them. The save DC is Constitution-based.
+Dispersion (Ex) As an immediate action, a gray goo can disperse, spreading itself across a cube-shaped area 30 feet on a side. While dispersed, the goo deals no damage and can’t use its other special abilities until it reforms. A dispersed gray goo can hide in plain sight (as a ranger in her favored terrain) with a +10 bonus on its Stealth checks and doesn’t take additional damage from area effects for being a swarm. It takes 2 rounds for a dispersed gray goo to reform.
+Infest (Ex) As a standard action, a gray goo can infest a Medium or larger creature (Fortitude DC 21 negates), including constructs and undead. The gray goo moves inside the creature’s body, dealing double its normal damage to its host each round. It can’t use its dismantle ability while infesting a creature. A host reduced to 0 hit points while infested by a gray goo is reduced to dust and destroyed (similar to disintegrate). A gray goo infesting a host can be expelled by any effect that cures disease, with a disease save equal to this ability’s DC. The save DC is Constitutionbased and includes a +2 racial bonus.

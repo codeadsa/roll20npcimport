@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-brine/brine-wyrmling
+Brine Dragon, Wyrmling
+CR 3
+XP 800
+LN Tiny dragon (water)
+Init +6; Senses dragon senses; Perception +7
+DEFENSE
+AC 17, touch 14, flat-footed 15 (+2 Dex, +3 natural, +2 size)
+hp 26 (4d12)
+Fort +4, Ref +6, Will +4
+Immune acid, paralysis, sleep
+OFFENSE
+Speed 60 ft., fly 100 ft. (average), swim 60 ft.
+Melee bite +9 (1d4+4), 2 claws +9 (1d3+3)
+Space 2.5 ft.; Reach 0 ft. (5 ft. with bite)
+Special Attacks breath weapon (30-ft. line, 2d6 acid, DC 12)
+STATISTICS
+Str 16, Dex 15, Con 11, Int 13, Wis 10, Cha 11
+Base Atk +4; CMB +4; CMD 17 (21 vs. trip)
+Feats Improved Initiative, Skill Focus (Swim)
+Skills Diplomacy +7, Fly +13, Knowledge (nature) +8, Perception +7, Sense Motive +7, Survival +7, Swim +21; Racial Modifiers +8 Swim
+Languages Common, Draconic
+
+
+
+

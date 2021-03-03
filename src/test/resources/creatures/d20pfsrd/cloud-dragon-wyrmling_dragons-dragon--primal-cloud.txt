@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-cloud/cloud-dragon-wyrmling
+Cloud Dragon, Wyrmling CR 5
+XP 1,600
+CN Small dragon (air)
+Init +1; Senses dragon senses, mist vision; Perception +11
+
+DEFENSE
+AC 17, touch 12, flat-footed 16 (+1 Dex, +5 natural, +1 size)
+hp 45 (6d12+6)
+Fort +6, Ref +6, Will +7
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (average), swim 40 ft.
+Melee bite +7 (1d6), 2 claws +8 (1d4)
+Special Attacks breath weapon (20-ft. cone, 2d8 electricity, DC 14)
+STATISTICS
+Str 10, Dex 13, Con 13, Int 10, Wis 14, Cha 13
+Base Atk +6; CMB +5; CMD 16 (20 vs. trip)
+Feats Power Attack, Skill Focus (Diplomacy), Weapon Focus (claws)
+Skills Diplomacy +13, Fly +12, Intimidate +10, Knowledge (planes) +9, Perception +11, Stealth +14, Swim +8; Racial Modifiers +8 Swim
+Languages Draconic
+
+SPECIAL ABILITIES
+Mist Vision (Su) A cloud dragon can see through fog, clouds, and similar obscuring effects with perfect clarity.
+

@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-the-desire
+The Desire CR 9
+XP 6,400
+NE medium outsider (devil, evil, native)
+Init +3; Senses low-light vision; Perception +12
+DEFENSE
+AC 18, touch 14, flat-footed 14; (+3 armor, +3 Dex, +1 dodge, +1 natural)
+hp 56 (7d8+21)
+Fort +7, Ref +8, Will +10
+Defensive Abilities desire’s gift, false flattery, lover’s guardian; Immune charm, devil traits
+OFFENSE
+Speed 30 ft.
+Melee mwk envenomed dagger +6 (1d4+1 + giant wasp poison)
+Spells Known (CL 7th)
+3rd (3/day)—dispel magic, see invisibility
+2nd (5/day)—blur, cat’s grace, eagle’s splendor, whispering winds
+1st (6/day)—alarm, comprehend languages, cure light wounds, identify, unseen servant
+0th (at will)—detect magic, ghost sound (DC 16), mage hand, message, open/close, resistance
+Spell-Like Abilities (CL 7th)
+3/day—alter self, charm person (DC 17), suggestion (DC 19)
+1/day—mass suggestion (DC 21)
+STATISTICS
+Str 12, Dex 17, Con 16, Int 17, Wis 16, Cha 22
+Base Atk +5; CMB +6; CMD 16
+Feats Alertness, Dodge, Eschew Materials, Extra Performance, Great FortitudeB, Iron WillB, Leadership, Throw Anything
+Skills Diplomacy +16, Knowledge (local, nobility) +13, Perception +15, Perform (act, dance, sing, stringed) +16, Sense Motive +15, Use Magical Device +16. From Bardic Versatile Performance: Acrobatics, Bluff, Disguise, Fly all +16.
+Languages Common, Draconic, Elven, Infernal
+SQ bardic abilities, beauty, honeyed words
+Gear amulet of natural armor (+1), bracers of armor +3, other items as given by her lovers or acquired
+SPECIAL ABILITIES
+Bardic Abilities The Desire is a 7th level bard with the versatile performances of act and dance.
+Beauty (Ex) The Desire is exceptionally alluring, possessing unearthly beauty and charm, she gains a +2 circumstance bonus to all social rolls against those who find her attractive. When such a person would attack her, they must make a Will save (DC 19) or suffer a -1 moral penalty to all of their attack against her for the duration of the encounter.
+Desire’s Gift (Su) The Desire has full control over the magic items known as Desire’s Gifts, see the item for more details.
+Honeyed Words (Su) Given time, the Desire can worm her way into almost any heart. If she spends at least an hour a day in the company of a person for a week, the Desire gains a +4 competence bonus on all social skills and +2 to all of her abilities’ DC against that person for the next month.
+Lover’s Guardian (Ex) For each adjacent ally, the Desire gains a +1 circumstance bonus to armor class up to a maximum of +4 as they constantly move to protect her.
+Lover’s Sacrifice (Su) Once per round, as a free action, The Desire may switch places with one of her allies within 10′.
+Associated Magic Item: Desire’s Gift

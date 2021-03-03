@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/crawling-hand
+Crawling Hand CR 1/2
+XP 200
+NE Diminutive undead
+Init +0; Senses blindsense 30 ft., darkvision 60 ft.; Perception +4
+DEFENSE
+AC 14, touch 14, flat-footed 14 (+4 size)
+hp 9 (1d8+5)
+Fort +2, Ref +0, Will +2
+Immune undead traits
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee claw +5 (1d1+1 plus grab)
+Space 1 ft.; Reach 0 ft.
+Special Attacks mark quarry, strangle
+STATISTICS
+Str 13, Dex 11, Con –, Int 2, Wis 11, Cha 14
+Base Atk +0; CMB –4 (+0 grapple); CMD 7
+Feats Toughness
+Skills Climb +9, Perception +4, Stealth +12, Survival +4; Racial Modifiers +4 Survival
+Languages Common (can’t speak)
+SPECIAL ABILITIES
+Grab (Ex) A crawling hand can use its grab ability on a creature of up to Medium size.
+Mark Quarry (Su) A crawling hand is assigned a quarry by anointing the hand with a drop of the intended quarry’s blood. If the hand has no current quarry, it automatically gains the next creature it damages as its quarry. Once attuned to a target, it becomes aware of the target’s location as if under the effect of a continuous locate creature spell. The hand gains a +1 bonus on all attack rolls, damage rolls, and skill checks made to seek out and destroy the marked quarry. The mark quarry ability lasts until the quarry or the hand is slain.
+
+Subpages
+Crawling Hand, Giant
+3rd Party Publisher Options ( NwP)
+
+When captured by a monster trainer, crawling hands grant the trainer access to crawling claw spells.
+

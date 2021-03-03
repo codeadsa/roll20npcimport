@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/formian/formian-worker
+Formian Worker CR 1/2
+XP 200
+LN Small monstrous humanoid
+Init +0 (+4 with hive mind); Senses blindsense 30 ft., darkvision 60 ft., hive mind; Perception +4 (+8 with hive mind)
+DEFENSE
+AC 12, touch 11, flat-footed 12 (+1 natural, +1 size)
+hp 6 (1d10+1)
+Fort +1, Ref +2, Will +2 Resist sonic 10
+OFFENSE
+Speed 40 ft., burrow 10 ft.
+Melee bite +3 (1d6+1)
+STATISTICS
+Str 13, Dex 10, Con 13, Int 10, Wis 10, Cha 9
+Base Atk +1; CMB +1; CMD 11 (15 vs. trip)
+Feats Skill Focus (Profession [miner])
+Skills Climb +5, Knowledge (engineering) +4, Perception +4 (+8 with hive mind), Profession (miner) +7
+Languages Common, telepathy 60 ft.
+SQ able assistant, formian traits, peerless bearer
+SPECIAL ABILITIES
+Able Assistant (Ex) When a formian worker succeeds at an aid another check or attack roll that aids another hive mate within its telepathy range, it grants a +4 bonus on the skill check, on the attack roll, or to AC instead of the normal +2.
+Peerless Bearer (Ex) Workers are able to bear remarkable burdens for their size. They have a +5 racial bonus to Strength when calculating the effects of encumbrance.

@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/deep-singer-whale
+Deep Singer Whale CR 18
+XP 153,600
+Always good Gargantuan magical beast
+Init -1; Senses blindsight 120 ft., darkvision 60 ft., low-light vision; Perception +35
+DEFENSE
+AC 25, touch 5, flat-footed 25 (-1 Dex, +20 natural, -4 size)
+hp 312 (25d10+175)
+Fort +23, Ref +15, Will +20
+DR 10/piercing or slashing
+OFFENSE
+Speed swim 80 ft.
+Melee tail slap +36 (2d8+21)
+Space 20 ft.; Reach 15 ft.
+Special Attacks entrancing harmonics
+Spell-like abilities (CL 12th)
+4th (4/day)—discordant blast, sonic thrust (Will DC 19), serenity (Will DC 19), summon monster IV
+3rd (5/day)—arcane concordance, cure serious wounds, dispel magic, see invisibility
+2nd (6/day)—animal messenger, calm emotions (Will DC 17), honeyed tongue, piercing shriek (Fort DC 17), tongues
+1st (7/day)—charm person (DC 16), ear-piercing scream (Fort DC 16), horn of pursuit, read weather, restful sleep, vanish
+0th (at will)—detect magic, ghost sound, light, mage hand, message, prestidigitation
+TACTICS
+Deep singer whales are not normally aggressive, preferring to use their entrancing song ability or various spell-like abilities to calm hostile creatures. If unsuccessful it will attack with its various sonic spell-like abilities or as a last resort, engage opponents in melee combat, striking with their devastating tail slaps.
+STATISTICS
+Str 38, Dex 9, Con 24, Int 15, Wis 30, Cha 21
+Base Atk +25; CMB +43; CMD 42 (can’t be tripped)
+Feats: Alertness, Cleave, Concussive Spell, Great Cleave, Great Fortitude, Improved Overrun, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Perform [sing]), Spontaneous Metafocus (ear-piercing scream), Thundering Spell, Weapon Focus (tail slap)
+Skills: Diplomacy +25, Perform (sing) +28, Sense Motive +32, Perception +35, Swim +45; Racial Modifiers +8 Swim
+SQ pressure immunity, hold breath
+Languages Aboleth, Aquan, Common
+SPECIAL ABILITIES
+Entrancing Harmonies (Su) The music of a deep singer whale is of such beauty that it can entrance all who hear it. After one full round of singing, all those within 1,000 feet who can hear the song must succeed on a DC 27 Will save or stop what they are doing and simply listen. Entranced creatures that suffer damage get a new save, with a bonus equal to the damage inflicted. The entrancing effect lasts for as long as the whale sings, and a deep singer whale can maintain an entrancing harmony for as long as it has air. The save DC is Charisma-based.
+Spell-Like Abilities (Sp) A deep singer whale can cast spells as a bard of a level equal to half their hit dice, rounded down. The components for these spells are always verbal only.
+Pressure Immunity (Ex) A deep singer whale is immune to pressure damage at any depth.

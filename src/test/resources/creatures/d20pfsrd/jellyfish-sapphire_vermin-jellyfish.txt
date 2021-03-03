@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/jellyfish/jellyfish-sapphire
+Sapphire Jellyfish CR 11
+XP 12,800
+N Huge vermin (aquatic)
+Init +4; Senses blindsense 30 ft., darkvision 60 ft.; Perception +1
+DEFENSE
+AC 24, touch 12, flat-footed 20 (+4 Dex, +12 natural, -2 size)
+hp 138 (12d8+84)
+Fort +15, Ref +8, Will +5
+Defensive Abilities amorphous, DR 10/piercing or slashing; Immune electricity, mind-affecting effects
+OFFENSE
+Speed swim 30 ft.
+Melee 4 tentacles +15 (1d8+8 plus poison)
+Space 15 ft.; Reach 20 ft.
+Special Attacks electricity blast
+STATISTICS
+Str 26, Dex 19, Con 24, Int —, Wis 12, Cha 1
+Base Atk +9; CMB +19; CMD 33 (can’t be tripped)
+Skills Swim +16
+SQ compression
+SPECIAL ABILITIES
+Electricity Blast (Ex) Once every 1d6 rounds as a standard action, a sapphire jellyfish can discharge a 20-foot-radius blast of electricity, dealing 8d6 points of electricity damage (DC 22 Reflex for half). Any creature that takes damage from this electricity must also make a DC 22 Fortitude save to avoid being staggered for 1d4 rounds.
+Poison (Ex) Tentacle—injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d4 Dex and 1d4 Con; cure 2 consecutive saves. The save DC is Constitution-based.
+Editor’s Note
+As seems to be common for Bestiary 3, this does not indicate Ability Damage or Drain.

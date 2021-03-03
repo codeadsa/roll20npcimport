@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-kithangian
+Kithangian (Beast Demon)
+CR 9
+XP 6,400
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +4; Senses darkvision 60 ft., all-around vision; Perception +18
+DEFENSE
+AC 25, touch 9, flat-footed 25 (+16 natural, –1 size)
+hp 115 (11d10+55)
+Fort +12, Ref +9, Will +7
+DR 10/good; Immune electricity, fear, poison; Resist acid 10, cold 10, fire 10; SR 20
+OFFENSE
+Speed 50 ft.
+Melee 2 claws +16 (1d6+6/19–20 plus grab), 2 stings +16 (1d6+6/19–20 plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks hatred, rasping tongues
+Spell-Like Abilities (CL 12th; concentration +15)
+Constant—speak with animals
+At will—hold animal (DC 15), greater teleport (self plus 50 lbs. of objects only), unnatural lust (DC 14)
+3/day—air walk, quickened unnatural lust (DC 14)
+1/day—baleful polymorph (DC 18), summon (level 3, 1 kithangian 35%)
+STATISTICS
+Str 22, Dex 11, Con 20, Int 7, Wis 19, Cha 16
+Base Atk +11; CMB +18 (+22 grapple); CMD 28
+Feats Improved Critical (claw), Improved Critical (sting), Improved Initiative, Lightning Reflexes, Power Attack, Quicken Spell-Like Ability (unnatural lust)
+Skills Handle Animal +17, Intimidate +17, Perception +18, Stealth +10
+Languages Abyssal, Celestial, Draconic; speak with animals, telepathy 100 ft.
+SQ change shape (beast shape II, Medium or Large animal), swift transformation
+SPECIAL ABILITIES
+Hatred (Ex) A kithangian gains a +2 bonus on all attack rolls and damage rolls made against all creatures of the animal type. In addition, animals take a –2 penalty on all saving throws against a kithangian’s supernatural or spell-like abilities.
+Poison (Ex) Sting—injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Str plus nauseated; cure 2 consecutive saves.
+Rasping Tongues (Su) The faces between a kithangian’s claws have long rasping tongues covered with tiny teeth.
+Whenever a kithangian successfully grapples a foe with its claws, a rasping tongue slithers out from the face within and burrows into the creature’s body. Each round that the creature is grappled, it takes 1d6 points of damage and 1d4 points of Charisma damage as its sense of self-identity is warped and twisted. A successful DC 18 Will save negates the Charisma damage. The save DC is Charisma-based.
+Swift Transformation (Su) A kithangian can use its change shape ability as a swift action.

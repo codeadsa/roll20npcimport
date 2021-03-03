@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/eel/eel-electric
+Electric Eel
+CR 2
+XP 600
+N Small animal
+Init +6; Senses low-light vision; Perception +4
+DEFENSE
+AC 15, touch 13, flat-footed 13 (+2 Dex, +2 natural, +1 size)
+hp 17 (2d8+8)
+Fort +7, Ref +5, Will +0
+Resist electricity 10
+OFFENSE
+Speed 5 ft., swim 30 ft.
+Melee bite +3 (1d6+1) and tail –2 touch (1d6 electricity)
+STATISTICS
+Str 13, Dex 14, Con 19, Int 1, Wis 10, Cha 6
+Base Atk +1; CMB +1; CMD 13 (can’t be tripped)
+Feats Improved Initiative
+Skills Escape Artist +10, Perception +4, Stealth +10, Swim +9; Racial Modifiers +8 Escape Artist
+SPECIAL ABILITIES
+Electricity (Ex)
+An electric eel can produce a powerful jolt of electricity from its tail, delivering the jolt with a successful touch attack. On a critical hit, the creature struck must make a DC 15 Fortitude save or be stunned for 1d4 rounds. The save DC is Constitution-based.
+Subpages
+Summoned Creature: Electric Eel

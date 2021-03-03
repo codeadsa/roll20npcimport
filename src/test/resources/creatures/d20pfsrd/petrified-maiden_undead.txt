@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/petrified-maiden
+Petrified Maiden CR 6
+XP 2,400
+NE Medium undead
+Init +5; Senses darkvision 60 ft.; Perception +12
+DEFENSE AC 21, touch 11, flat-footed 20 (+1 Dex, +10 natural)
+hp 67 (9d8+27)
+Fort +6, Ref +4, Will +6
+Defensive Abilities channel resistance +2, petrified body, reconstitution; DR 5/adamantine; Immune undead traits; SR 17
+OFFENSE Speed 30 ft.
+Melee +1 scimitar +13/+8 (1d6+6/18–20), slam +5 (1d6+2 plus curse of stone) or slam +10 (1d6+6 plus curse of stone)
+STATISTICS Str 18, Dex 12, Con –, Int 9, Wis 11, Cha 16
+Base Atk +6; CMB +10; CMD 21 (cannot be disarmed)
+Feats Cleave, Improved Initiative, Power Attack, Vital Strike, Weapon Focus (scimitar)
+Skills Intimidate +15, Perception +12, Stealth +13
+Languages Common (cannot speak)
+SQ weapon expertise
+SPECIAL ABILITIES
+Curse of Stone (Su) Curse–touch; save Fort DC 17; onset 1 minute; frequency 1/day; effect 1d6 Dex.
+A creature afflicted by the curse of stone slowly turns to stone, its skin turning an ashen gray and hardening into a stony texture. For every 3 points of Dexterity damage taken, the victim gains a +1 natural armor bonus. The curse of stone can only be cured by removing the curse followed by a stone to flesh spell to undo the damage it has done. If the curse is not removed first, stone to flesh only restores 1d3 points of Dexterity, though these can be lost again as the curse continues to spread. The save DC is Charisma-based.
+Petrified Body (Ex) The stony flesh of a petrified maiden reacts to certain spells and effects as noted below.
+A transmute rock to mud spell deals 1d6 points of damage per caster level to a petrified maiden, with no saving throw. Transmute mud to rock immediately heals any and all damage taken by a petrified maiden. A stone to flesh spell does not actually change the petrified maiden’s structure, but negates its damage reduction and spell resistance for 1 round. Reconstitution (Su) As long as the original curse that first afflicted the petrified maidens remains unbroken, any petrified maiden (animate or not) that is damaged or destroyed slowly returns to its undamaged form, even if parts of it were utterly destroyed or carried away. For a relatively undamaged petrified maiden, this slow process can be completed in a week or so. For a petrified maiden reduced to rubble, it might take years. If a petrified maiden is destroyed while under the effects of a stone to flesh spell, it cannot reconstitute and is permanently destroyed.
+Weapon Expertise (Ex) A petrified maiden is proficient with any one martial weapon. It gains a +1 bonus on attack and damage rolls with this weapon.

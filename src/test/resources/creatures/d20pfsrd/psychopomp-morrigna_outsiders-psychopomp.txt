@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/psychopomp/psychopomp-morrigna
+Morrigna CR 13
+XP 25,600
+N Medium outsider (extraplanar, psychopomp)
+Init +8; Senses darkvision 60 ft., low-light vision, spiritsense; Perception +28
+DEFENSE
+AC 28, touch 13, flat-footed 25 (+8 armor, +3 Dex, +5 natural, +2 shield)
+hp 171 (18d10+72); regeneration 5 (acid or fire)
+Fort +10, Ref +15, Will +16
+DR 10/adamantine; Immune death effects, disease, poison; Resist cold 10, electricity 10; SR 24
+OFFENSE
+Speed 40 ft. (30 ft. in armor), climb 15 ft.
+Melee 2 slams +24 (2d6+6), 2 wrappings +19 (1d6+3 plus grab)
+Space 5 ft.; Reach 5 ft. (10 ft. with wrappings)
+Special Attacks wrappings
+Spell-Like Abilities (CL 12th; concentration +15)
+At will—detect undead, stone tell
+5/day—speak with dead
+3/day—summon (level 7, 1d4 giant tarantulas 75% or 1d4 spider swarms 100%)
+Inquisitor Spells Known (CL 12th; concentration +15)
+4th (3)—cure critical wounds, divination, freedom of movement, spell immunity
+3rd (5)—blood biography (DC 16), dimensional anchor, dispel magic, halt undead (DC 16)
+2nd (6)—confess (DC 15), detect thoughts (DC 15), hold person (DC 15), invisibility, see invisibility
+1st (6)—bane (DC 14), command (DC 14), comprehend languages, expeditious retreat, sanctuary (DC 14), wrath
+0—bleed (DC 13), detect magic, disrupt undead, read magic, sift, stabilize
+STATISTICS
+Str 22, Dex 19, Con 18, Int 13, Wis 17, Cha 16
+Base Atk +18; CMB +24 (+28 grapple); CMD 38
+Feats Alertness, Combat Expertise, Combat Reflexes, Deflect Arrows B, Eschew Materials B, Following Step, Improved Initiative, Iron Will, Persuasive, Step Up, Step Up and Strike
+Skills Bluff +15, Climb +11, Diplomacy +25, Disguise +15, Intimidate +17, Knowledge (planes) +13, Perception +28, Sense Motive +25, Sleight of Hand +10, Stealth +22, Survival +15, Swim +6
+Languages Abyssal, Celestial, Infernal; speak with animals (including vermin), tongues
+SQ change shape (any animal or humanoid), spirit touch
+SPECIAL ABILITIES
+Spells A morrigna casts spells as a 12th-level inquisitor.
+Spider Sight (Su) A morrigna can see through the eyes of a spider swarm she summons as though it were the sensor of an arcane eye spell. She does not have to concentrate to use this ability.
+Wrappings (Su) A morrigna’s web wrappings grant her a +2 shield bonus to AC and can make secondary natural attacks.

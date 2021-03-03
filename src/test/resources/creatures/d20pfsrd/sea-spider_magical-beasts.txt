@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sea-spider
+Sea Spider CR 11
+XP 12,800
+NE Huge magical beast (aquatic)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +15
+DEFENSE
+AC 24, touch 11, flat-footed 21 (+3 Dex, +13 natural, -2 size)
+hp 142 (15d10+60)
+Fort +15, Ref +12, Will +6
+OFFENSE
+Speed swim 90 ft.
+Melee bite +19 (2d6+5 plus 1d4 acid plus grab), 4 slams +18 (1d8+5)
+Space 15 ft.; Reach 10 ft.
+Special Attacks swallow whole (1d8+5 plus 1d8 acid damage, AC 16, 14 hp)
+STATISTICS
+Str 20, Dex 16, Con 18, Int 6, Wis 12, Cha 11
+Base Atk +15; CMB +22 (+26 grapple); CMD 35 (47 vs. trip)
+Feats Cleave, Combat Reflexes, Great Fortitude, Improved Initiative, Power Attack, Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (bite)
+Skills Perception +15, Stealth +6 (+14 when floating on the surface), Swim +18; Racial Modifiers +8 Stealth when floating on the surface
+Languages Aquan

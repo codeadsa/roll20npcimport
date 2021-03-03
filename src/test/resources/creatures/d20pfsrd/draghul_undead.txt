@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/draghul
+Draghul CR 12
+XP 19,200
+Adult white dragon ghul creature
+CE Large undead (cold)
+Init +5; Senses dragon senses, snow vision; Perception +22; Aura cold (5 ft., 1d6 cold damage), frightful presence (180 ft., DC 17)
+DEFENSE
+AC 27, touch 10, flat-footed 26 (+1 Dex, +17 natural, –1 size)
+hp 149 (13d12+65)
+Fort +13, Ref +9, Will +10
+DR 5/magic; Immune cold, paralysis, sleep, undead traits; SR 21
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 30 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +20 (2d6+10/19–20 plus paralysis), 2 claws +19 (1d8+7 plus paralysis), 2 wings +14 (1d6+3 plus paralysis), tail slap +14 (1d8+10 plus paralysis)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, DC 21, 12d4 cold), exhalation of death (60-ft. cone, DC 21), paralysis (DC 21)
+Spell-Like Abilities (CL 13th)
+At will—fog cloud, gust of wind
+Spells Known (CL 1st)
+1st (4/day)—mage armor, shield
+0-level (at will)—dancing lights, detect magic, ray of frost, mending
+STATISTICS
+Str 25, Dex 12, Con 21, Int 12, Wis 15, Cha 12
+Base Atk +13; CMB +21; CMD 32 (36 vs. trip)
+Feats Alertness, Flyby Attack, Improved Critical (bite), Improved Initiative, Power Attack, Vital Strike, Weapon Focus (bite)
+Skills Fly +11, Intimidate +17, Knowledge (arcana) +17, Perception +22, Spellcraft +17, Stealth +13, Swim +31
+Languages Common, Draconic
+SQ icewalking, ice shape

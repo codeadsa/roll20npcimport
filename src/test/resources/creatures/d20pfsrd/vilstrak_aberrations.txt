@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/vilstrak
+Vilstrak CR 1/2
+XP 200
+NE Medium aberration
+Init +0; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 18, touch 10, flat-footed 18 (+8 natural)
+hp 5 (1d8+1)
+Fort +1, Ref +0, Will +2
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +2 (1d4+2)
+TACTICS
+Vilstraks are peaceful creatures that avoid combat if possible. They do take great joy and pride in robbing those that invade their territory. A favored tactic of the vilstrak is to hide inside the wall of a dungeon corridor and spring out when prey passes nearby.
+STATISTICS
+Str 15, Dex 11, Con 13, Int 6, Wis 10, Cha 8
+Base Atk +0; CMB +2; CMD 12
+Feats Skill Focus (Perception)
+Skills Perception +7, Stealth +4 (+12 in rocky surroundings); Racial Modifiers +8 Stealth in rocky surroundings
+Languages Terran
+SQ merge with earth
+SPECIAL ABILITIES
+Merge with Earth (Su) A vilstrak can merge with earth or stone at will as a standard action. This ability is similar to a meld into stone spell (CL 12th), except that a vilstrak can see what goes on outside and it can remain merged as long as it desires.

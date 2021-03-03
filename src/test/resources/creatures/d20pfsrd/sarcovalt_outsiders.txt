@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/sarcovalt
+Sarcovalt CR 4
+XP 1,200
+NE Tiny outsider (evil, extraplanar)
+Init +3; Senses darkvision 60 ft., low-light vision, deathwatch; Perception +8
+DEFENSE
+AC 19, touch 15, flat-footed 16 (+3 Dex, +4 natural, +2 size)
+hp 34 (4d10+12)
+Fort +6, Ref +7, Will +5
+Defensive Abilities ferocity; DR 5/good or silver; Immune disease; Resist acid 10, cold 10; SR 15
+OFFENSE
+Speed 20 ft., climb 20 ft., fly 60 ft. (good)
+Melee bite +9 (1d8+1 plus bleed, disease, and grab)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks bleed (1d6), blood drain (1d2 Constitution), detach head, disease
+Spell-Like Abilities (CL 4th; concentration +2)
+Constant—deathwatch
+At will—purify food and drink
+3/day—death knell (DC 10), lesser animate dead, vomit swarm (see below)
+1/day—acid arrow, contagion (DC 11), stinking cloud (DC 10)
+STATISTICS
+Str 12, Dex 17, Con 16, Int 10, Wis 13, Cha 7
+Base Atk +4; CMB +5 (+9 grapple); CMD 18 (26 vs. trip)
+Feats Great Fortitude, Weapon Finesse
+Skills Climb +9, Fly +11, Intimidate +5, Knowledge (nature) +7, Knowledge (religion) +7, Perception +8, Stealth +18, Survival +8
+Languages Abyssal, Infernal; telepathy 30 ft.
+SQ disease swarm
+SPECIAL ABILITIES
+Detach Head (Su) A sarcovalt can survive without its head.
+Attacks that sever its head (such as those of a vorpal weapon) do not kill it. If attacked by multiple creatures, it grapples one opponent, detaches its head (which continues to drain blood), and uses its body to continue attacking with spell-like abilities. Its head and body share a common pool of hit points but are otherwise treated as different creatures while separated. The head is AC 19, touch 15, flat-footed 16 (+3 Dex, +4 natural, +2 size) and can fly at the creature’s normal speed. The head cannot initiate attacks on its own, and if removed from a target, it flies back to the body on its next turn. The body cannot see, but it can perceive through the head’s eye cavities if it has line of effect to the head.
+Disease Swarm (Su) A sarcovalt’s vomit swarm ability summons a cloud of flies instead of spiders, which has a fly speed of 40 feet (good) and infects its target with filth fever (DC 12) instead of poison.
+Disease (Ex) Filth Fever: Bite—injury; save Fort DC 15; onset 1d3 days; frequency 1 day; effect 1d3 Dex and 1d3 Con; cure 2 consecutive saves.

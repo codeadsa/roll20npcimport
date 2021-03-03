@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-outer/outer-dragon-time/time-dragon-adult
+Adult Time Dragon CR 15
+XP 51,200
+N Huge dragon
+Init +11; Senses detect magic, dragon senses, see in darkness; Perception +26; Aura alien presence (180 ft., DC 23)
+DEFENSE
+AC 28, touch 9, flat-footed 27 (+1 Dex, +19 natural, –2 size)
+hp 256 (19d12+133)
+Fort +18, Ref +12, Will +15
+DR 5/magic; Immune cold, paralysis, sleep, staggered; SR 26
+OFFENSE
+Speed 50 ft., fly 200 ft. (poor)
+Melee bite +28 (2d8+15), 2 claws +28 (2d6+10/19–20), 2 wings +25 (1d8+5), tail slap +25 (2d6+15)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, 12d10 electricity, DC 26), crush
+Spell-Like Abilities (CL 19th; concentration +23)
+Constant—detect magic
+At will—clairaudience/clairvoyance, share memory
+Sorcerer Spells Known (CL 7th; concentration +11)
+3rd (5/day)—dispel magic, slow (DC 17)
+2nd (7/day)—arcane lock, blur, detect thoughts (DC 16)
+1st (7/day)—erase, feather fall, identify, mage armor, magic missile
+0 (at will)—light, mage hand, message, read magic, 3 more
+STATISTICS
+Str 30, Dex 13, Con 24, Int 19, Wis 18, Cha 19
+Base Atk +19; CMB +31 (+33 sunder); CMD 44 (48 vs. trip)
+Feats Cleave, Great Cleave, Improved Critical (claw), Improved Initiative, Multiattack, Power Attack, Skill Focus (Knowledge [history]), Step Up, Weapon Focus (bite, claw)
+Skills Diplomacy +26, Fly +15, Knowledge (arcana, geography, planes, religion) +26, Knowledge (history) +32, Perception +26, Sense Motive +26, Spellcraft +26
+Languages Common, Draconic, Dwarven, Elven, Sylvan
+SQ immortal, no breath, read the threads, starflight
+SPECIAL ABILITIES
+Immortal (Ex) Time dragons age, but don’t die from old age.
+Read the Threads (Su) A time dragon gains a racial bonus on initiative checks equal to its age category. In addition, a time dragon is immune to the staggered condition.
+Alien Presence (Su) A creature that fails its saving throw against a time dragon’s alien presence is staggered for 5d6 rounds (or stunned if it has 4 Hit Dice or fewer).

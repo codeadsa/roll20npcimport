@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/tzitzimitl
+Tzitzimitl CR 19
+XP 204,800
+NE Gargantuan undead
+Init +9; Senses arcane sight, darkvision 60 ft., true seeing; Perception +31
+DEFENSE
+AC 35, touch 11, flat-footed 30 (+5 Dex, +24 natural, -4 size)
+hp 319 (22d8+220); fast healing 15
+Fort +17, Ref +14, Will +19
+Defensive Abilities channel resistance +4, light to dark; DR 15/bludgeoning and good; Immune cold, electricity, undead traits; Resist fire 15; SR 30
+OFFENSE
+Speed 50 ft., fly 60 ft. (good)
+Melee bite +26 (2d8+14 plus 3d6 electricity and energy drain), 2 claws +27 (2d6+14/19-20 plus 3d6 electricity)
+Ranged eye beam +17 touch (10d6 electricity and 10d6 force)
+Space 20 ft.; Reach 20 ft.
+Special Attacks eclipse, energy drain (2 levels, DC 31)
+Spell-Like Abilities (CL 19th; concentration +29)
+Constant—arcane sight, fly, true seeing
+At will—bestow curse (DC 24), deeper darkness
+3/day—animate dead, contagion (DC 23), greater teleport, haste
+1/day—create undead, temporal stasis (DC 28), wail of the banshee (DC 29)
+STATISTICS
+Str 39, Dex 21, Con —, Int 20, Wis 23, Cha 30
+Base Atk +16; CMB +29; CMD 44
+Feats Awesome Blow, Combat Reflexes, Improved Bull Rush, Improved Critical (claw), Improved Initiative, Lightning Reflexes, Point-Blank Shot, Power Attack, Precise Shot, Vital Strike, Weapon Focus (claw)
+Skills Fly +35, Knowledge (arcana) +28, Knowledge (nature) +27, Knowledge (planes) +25, Knowledge (religion) +30, Perception +31, Sense Motive +31, Spellcraft +23, Survival +21, Use Magic Device +30
+Languages Abyssal, Aklo, Celestial, Common
+SPECIAL ABILITIES
+Eclipse (Su) Anytime a tzitzimitl casts deeper darkness, any creatures in the area of darkness when it is created take 8d6 points of cold damage (DC 31 Fortitude for half). Any creature that takes damage from this effect becomes staggered as long as it remains in the area of darkness and for 1d4 rounds after it leaves that area. The save DC is Charisma-based.
+Eye Beam (Su) As a standard action, a tzitzimitl can fire a glowing beam of force from its eyes at a range of 100 feet as a ranged touch attack dealing 10d6 points of force damage and 10d6 points of electricity damage.
+Light to Dark (Su) As an immediate action up to three times per day, a tzitzimitl can convert a positive energy effect that affects it into negative energy. Doing so transforms the entire effect, such that it affects other creatures as well. A tzitzimitl can transform channeled positive energy in this way even if the positive energy would not otherwise harm it.

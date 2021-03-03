@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/phantom-armor/phantom-armor-phantom-lancer
+Phantom Lancer CR 6
+XP 2,400
+NE Large undead
+Init +6; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 21, touch 10, flat-footed 20 (+9 armor, +1 Dex, +2 shield, –1 size)
+hp 76 (9d8+36)
+Fort +7, Ref +5, Will +6
+Defensive Abilities channel resistance +4; Immune undead traits
+OFFENSE
+Speed 40 ft., fly 40 ft. (perfect)
+Melee mwk lance +9/+4 (1d8+4/×3)
+Ranged longbow +7/+2 (1d8/×3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks trample (1d6+4, DC 17)
+STATISTICS
+Str 17, Dex 15, Con —, Int 7, Wis 11, Cha 18
+Base Atk +6; CMB +10; CMD 22 (26 vs. trip)
+Feats Dodge, Flyby Attack, Improved Initiative, Power Attack, Mobility
+Skills Perception +12, Stealth +10
+Languages Common (cannot speak)
+SQ armor rider, freeze

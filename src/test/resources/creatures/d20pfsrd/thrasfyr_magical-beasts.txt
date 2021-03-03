@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/thrasfyr
+Thrasfyr CR 17
+XP 102,400
+CE Huge magical beast (fire)
+Init +5; Senses darkvision 120 ft., low-light vision, see invisibility; Perception +28
+DEFENSE
+AC 32, touch 9, flat-footed 31 (+1 Dex, +23 natural, –2 size)
+hp 279 (18d10+180); regeneration 15 (acid or cold)
+Fort +21, Ref +14, Will +15
+DR 15/cold iron and slashing; Immune fire, sonic; Resist electricity 30; SR 28
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 50 ft., climb 50 ft.
+Melee 2 bites +26 (2d6+10), 4 claws +26 (1d8+10), gore +26 (2d6+10)
+Space 15 ft.; Reach 15 ft.
+Special Attacks breath weapon (80-foot cone, 20d8 fire damage, Reflex DC 29 half, usable once every 1d4 rounds), entangling chains, powerful charge (gore, 4d8+24)
+Spell-Like Abilities (CL 18th; concentration +23)
+Constant—air walk, see invisibility
+1/day—greater teleport (self plus 50 lbs. of objects only, and only to a master’s side)
+STATISTICS
+Str 30, Dex 13, Con 31, Int 5, Wis 24, Cha 20
+Base Atk +18; CMB +30; CMD 41 (49 vs. trip)
+Feats Critical Focus, Greater Vital Strike, Improved Initiative, Improved Vital Strike, Iron Will, Lightning Reflexes, Power Attack, Staggering Critical, Vital Strike
+Skills Climb +18, Perception +28; Racial Modifiers +8 Climb
+Languages Aklo, Sylvan
+SQ master’s bond, planar acclimation
+SPECIAL ABILITIES
+Entangling Chains (Su) A thrasfyr can control the six chains that hang from its body as if they were its own limbs. As a standard action, it can cause these chains to snake outward to a radius of 30 feet. All creatures in this area take 10d6 points of slashing damage and become entangled—a DC 20 Reflex save halves the damage and negates the entangled condition. An entangled creature can escape with a DC 20 Reflex save or a DC 30 Escape Artist check made as a full-round action. The chains can also be sundered (hardness 10, hp 20, Break DC 28). The thrasfyr creates these chains from its own body—destroyed chains regrow in 24 hours. The save DC is Dexterity-based.
+Master’s Bond (Su) A thrasfyr can form a bond with a willing creature by touching that creature. This allows the thrasfyr to communicate telepathically with the bonded creature with no range restriction (provided the thrasfyr and its master are on the same plane). Both thrasfyr and master can sense the other’s condition as if both were under the effect of a status spell. A thrasfyr can maintain a bond with only one master at a time.
+Planar Acclimation (Ex) A thrasfyr is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the extraplanar subtype.

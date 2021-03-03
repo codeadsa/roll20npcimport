@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kyton/kyton-augur
+Augur Kyton
+CR 2
+XP 600
+LE Tiny outsider (evil, extraplanar, kyton, lawful)
+Init +7; Senses darkvision 60 ft., deathwatch; Perception +7
+DEFENSE
+AC 17, touch 15, flat-footed 14 (+3 Dex, +2 natural, +2 size)
+hp 19 (3d10+3); regeneration 2 (good weapons and spells, silver weapons)
+Fort +2, Ref +8, Will +4
+DR 5/good or silver; Immune cold
+OFFENSE
+Speed 20 ft., fly 50 ft. (perfect)
+Melee gore +4 (1d4-1 plus bleed)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks bleed (1d2), unnerving gaze (30 ft., DC 9)
+Spell-Like Abilities (CL 6th; concentration +4)
+Constant—deathwatch
+At will—bleed (DC 8), mage hand, open/close
+3/day—inflict light wounds (DC 10)
+1/week—commune (CL 12th, 6 questions)
+STATISTICS
+Str 8, Dex 17, Con 12, Int 13, Wis 12, Cha 7
+Base Atk +3; CMB +4; CMD 13 (can’t be tripped)
+Feats Improved Initiative, Lightning Reflexes
+Skills Bluff +4, Escape Artist +9, Fly +11, Intimidate +4, Perception +7, Sense Motive +7, Sleight of Hand +9, Stealth +17
+Languages Common, Infernal (cannot speak)
+SPECIAL ABILITIES
+Unnerving Gaze (Ex) A creature that succumbs to an augur’s unnerving gaze becomes shaken for 1 round.

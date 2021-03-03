@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/stone-treant-fgg
+Stone Treant CR 16
+XP 76,800
+N Huge outsider (earth, elemental, native)
+Init –1; Senses darkvision 60 ft., tremorsense 120 ft.; Perception +27
+DEFENSE
+AC 22, touch 7, flat-footed 22 (–1 Dex, +15 natural, –2 size)
+hp 346 (21d10+210 plus 21)
+Fort +17; Ref +13; Will +17
+DR 10/slashing and adamantine; Immune elemental traits; SR 31
+OFFENSE
+Speed 30 ft., burrow 5 ft.
+Melee 6 slams +32 (3d8+12)
+Space 15 ft.; Reach 15 ft.
+Special Attacks acidic blood (5d4 acid, DC 20 Reflex half), trample (3d8+18, DC 32)
+STATISTICS
+Str 35, Dex 8, Con 30, Int 10, Wis 16, Cha 12
+Base Atk +21; CMB +35 (+39 to bull rush and sunder); CMD 44
+Feats Awesome Blow, Cleave, Greater Sunder, Improved Bull Rush, Improved Sunder, Iron Will, Lightning Reflexes, Power Attack, Toughness, Vital Strike, Weapon Focus (slam)
+Skills Intimidate +25, Knowledge (history) +24, Knowledge (planes) +24, Perception +33, Sense Motive +27, Stealth +15 (+21 in stony underground areas); Racial Modifiers +6 Stealth in stony underground areas
+Languages Sylvan, Terran
+SQ radial symmetry
+SPECIAL ABILITIES
+Acidic Blood (Ex) Anyone striking the stone treant with a piercing or slashing attack and inflicting damage releases a gout of acidic blood, which causes 5d4 points of acid damage to the person who struck it. A DC 20 Reflex save reduces this damage by half. The blood becomes inert one round after leaving the elemental’s body.
+Radial Symmetry (Ex) Because of its shape, the stone treant can bring no more than four of its slam attacks to bear on any one target. However, it also perceives the area around it equally well, and thus it cannot be flanked.

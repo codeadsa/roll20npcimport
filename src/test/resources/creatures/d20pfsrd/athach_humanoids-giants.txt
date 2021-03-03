@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/athach
+Athach CR 12
+XP 19,200
+CE Huge humanoid (giant)
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +12
+DEFENSE
+AC 26, touch 9, flat-footed 25 (+2 armor, +1 Dex, +15 natural, –2 size)
+hp 161 (14d8+98)
+Fort +16, Ref +5, Will +7
+Resist cold 10
+OFFENSE
+Speed 50 ft.
+Melee 2 slams +19 (1d8+11), bite +19 (2d6+11 plus poison) or heavy mace +19/+14 (3d6+11), bite +17 (2d6+5 plus poison)
+Ranged rock +10/+5 (2d6+16)
+Space 15 ft.; Reach 15 ft. (20 with Lunge)
+Special Attacks rock throwing (140 ft.), swift claw (claw +19 [1d10+11])
+STATISTICS
+Str 32, Dex 13, Con 25, Int 7, Wis 12, Cha 6
+Base Atk +10; CMB +23; CMD 34
+Feats Cleave, Improved Iron Will, Iron Will, Lunge, Multiattack, Power Attack, Vital Strike
+Skills Acrobatics +1 (+9 jump), Climb +20, Perception +12, Stealth -7
+Languages Giant
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 24; frequency 1/round for 6 rounds; effect 1d4 Str; cure 2 consecutive saves.
+Swift Claw (Ex) An athach can attack with its claw as a swift action, even when the creature’s movement would normally restrict it to one attack. This attack is made at a +19 bonus and deals 1d10+11 points of damage, regardless of what other attacks are made on the athach’s turn.

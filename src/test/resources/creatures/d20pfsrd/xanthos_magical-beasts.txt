@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/xanthos
+Xanthos CR 14
+XP 38,400
+N Huge magical beast
+Init +6; Senses darkvision 120 ft., low-light vision; Perception +23
+DEFENSE
+AC 31, touch 11, flat-footed 28 (+2 Dex, +1 dodge, +20 natural, –2 size)
+hp 195 (17d10+102)
+Fort +15, Ref +12, Will +10
+Immune cold; Resist electricity 30, fire 30; SR 25
+OFFENSE
+Speed 60 ft.
+Melee bite +23 (2d6+8), 2 hooves +21 (1d8+4), tail slap +21 (2d6+4)
+Space 15 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 15th; concentration +16)
+5/day—know direction, locate creature, purify food and drink, teleport
+STATISTICS
+Str 26, Dex 15, Con 21, Int 12, Wis 16, Cha 13
+Base Atk +17; CMB +27; CMD 40 (44 vs. trip)
+Feats Blind-Fight, Combat Casting, Dodge, Endurance, Improved Initiative, Iron Will, Mobility, Multiattack, Toughness, Wind Stance
+Skills Climb +19, Intimidate +10, Knowledge (any one) +10, Perception +23, Swim +19
+Languages Aklo; telepathy 5 ft.
+SQ exploit stellar conjunction, hold breath
+SPECIAL ABILITIES
+Exploit Stellar Conjunction (Su) A xanthos can sense the alignment of stellar objects (planets, comets, asteroids, and so on) and when they form conjunctions that allow it to use its magic for interplanetary travel. During these conjunctions, the xanthos can use its teleport spell-like ability as interplanetary teleport to reach any other world in its current solar system, or as plane shift to reach any known plane. A conjunction remains viable for only 10d10 hours, after which it could be days, weeks, or even months before another conjunction occurs that would once again allow travel between those two locations.

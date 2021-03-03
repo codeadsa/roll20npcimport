@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/pterosaur/pterosaur-pteranodon
+Pteranodon CR 3
+XP 800
+N Large animal
+Init +8; Senses low-light vision, scent; Perception +11
+DEFENSE
+AC 16, touch 14, flat-footed 11 (+4 Dex, +1 dodge, +2 natural, –1 size)
+hp 32 (5d8+10)
+Fort +6, Ref +8, Will +3
+OFFENSE
+Speed 10 ft., fly 50 ft. (clumsy)
+Melee bite +5 (2d6+4)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 16, Dex 19, Con 15, Int 2, Wis 15, Cha 12
+Base Atk +3; CMB +7; CMD 21
+Feats Dodge, Improved Initiative, Skill Focus (Perception)
+Skills Fly –1, Perception +11

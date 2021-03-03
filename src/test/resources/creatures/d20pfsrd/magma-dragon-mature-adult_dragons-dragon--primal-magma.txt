@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-magma/magma-dragon-mature-adult
+Magma Dragon, Mature Adult CR 13
+XP 25,600
+CN Large dragon (fire)
+Init +5; Senses dragon senses; Perception +24; Aura frightful presence (210 ft., DC 21)
+DEFENSE
+AC 32, touch 10, flat-footed 31 (+1 Dex, +22 natural, -1 size)
+hp 195 (17d12+85)
+Fort +17, Ref +11, Will +16
+DR 10/magic; Immune fire, paralysis, sleep; SR 24
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +25 (2d6+13/19-20 plus 7 fire), 2 claws +25 (1d8+9/19-20), tail slap +23 (1d8+13), 2 wings +23 (1d6+4)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, DC 23, 14d6 fire)
+Spell-Like Abilities (CL 17th; concentration +20)
+At will—burning hands (DC 14), scorching ray, wall of fire
+
+Sorcerer Spells Known (CL 9th; concentration +12)
+4th (4/day)—fire shield, wall of fire (DC 17)
+3rd (7/day)—displacement, dispel magic, fireball (DC 16)
+2nd (7/day)—dust of twilight*, flaming sphere (DC 15), glitterdust (DC 15),scorching ray
+1st (7/day)—feather fall, flare burst* (DC 14), grease (DC 14), shield, true strike
+0 (at will)—bleed (DC 13), detect magic, detect poison, ghost sound, open/close, read magic, spark*, touch of fatigue
+* This spell is from the Pathfinder RPG Advanced Player’s Guide
+STATISTICS
+Str 29, Dex 12, Con 21, Int 18, Wis 18, Cha 17
+Base Atk +17; CMB +27; CMD 38 (42 vs. trip)
+Feats Great Fortitude, Improved Critical (bite, claws), Improved Initiative, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Vital Strike
+Skills Acrobatics +18 (+22 jump), Climb +29, Escape Artist +18, Fly +15, Intimidate +23, Perception +24, Sense Motive +24, Sleight of Hand +18, Stealth +17, Swim +29
+Languages Common, Draconic, Dwarven, Elven, Ignan
+SQ superheated
+SPECIAL ABILITIES
+Superheated (Su) At young age and older, a magma dragon’s bite attack deals additional fire damage equal to its age category.
+

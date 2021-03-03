@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sea-cat-ff
+Sea Cat
+CR 4
+XP 1,200
+N Large magical beast
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +11
+DEFENSE
+AC 17, touch 10, flat-footed 16 (+1 Dex, +7 natural, -1 size)
+hp 42 (5d10+15)
+Fort +7, Ref +5, Will +4
+Defensive Abilities aggressive
+OFFENSE
+Speed 10 ft., swim 40 ft.
+Melee 2 claws +8 (1d6+4), bite +8 (1d8+4)
+Space 10 ft.; Reach 5 ft.
+Special Attacks rend (2 claws, 1d6+6)
+STATISTICS
+Str 19, Dex 12, Con 17, Int 2, Wis 13, Cha 10
+Base Atk +5; CMB +10; CMD 21 (can’t be tripped)
+Feats Alertness, Endurance, Iron Will
+Skills Perception +11, Sense Motive +3, Swim +12
+Languages none
+SQ hold breath
+SPECIAL ABILITIES
+Aggressive (Ex) The sea cat gains a +4 racial bonus on checks to resist attempts to demoralize it.
+Hold Breath (Ex) A sea cat can hold its breath for a number of rounds equal to 6 x its Constitution modifier before it risks drowning.
+
+

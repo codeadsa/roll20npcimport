@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-flesh/golem-flesh-faceless
+Faceless Flesh Golem CR 7
+XP 3,200
+N Large construct
+Init –1; Senses* scent; Perception +0
+DEFENSE
+AC 20, touch 8, flat-footed 20; (–1 Dex, +12 natural, –1 size)
+hp 79 (9d10+30)
+Fort +3, Ref +2, Will +3
+DR 5/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +13 (2d8+5)
+Space 10 ft.; Reach 10 ft.
+Special Attacks berserk
+STATISTICS
+Str 20, Dex 9, Con —, Int —, Wis 11, Cha 1
+Base Atk +9; CMB +15; CMD 24
+Languages none

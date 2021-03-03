@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/mihstu-TOHC
+Mihstu CR 6
+XP 2,400
+NE Medium outsider (air, elemental, extraplanar)
+Init +10; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 23, touch 17, flat-footed 16 (+6 Dex, +1 dodge, +6 natural)
+hp 60 (8d10+16)
+Fort +8, Ref +12, Will +4
+Defensive Abilities resistance to missile attacks; DR 10/ magic; Immune electricity, elemental traits; SR 13
+Weaknesses susceptible to cold
+OFFENSE
+Speed 20 ft., fly 20 ft. (good)
+Melee 4 tentacles +14(1d6+1)
+Special Attacks constitution damage, engulf
+STATISTICS
+Str 12, Dex 22, Con 14, Int 14, Wis 14, Cha 13
+Base Atk +8; CMB +9; CMD 26
+Feats Dodge, Improved Initiative, Mobility, Weapon Finesse
+Skills Acrobatics +14, Escape Artist +14, Fly +21, Knowledge (the planes) +13, Perception +13, Sense Motive +13, Stealth +17, Survival +10
+SPECIAL ABILITIES
+Constitution Damage (Su) A mihstu deals 1d2 points of Constitution damage to an engulfed opponent each round the hold is maintained.
+Engulf (Ex) A mihstu can try to wrap a Medium or smaller creature in its body as a standard action. The mihstu attempts a grapple that does not provoke an attack of opportunity. If it wins the grapple check, it establishes a hold and can slash (with a tentacle) the engulfed victim with a +4 bonus on its attack roll. It can still use its tentacles to strike at other targets.
+Attacks that hit an engulfing mihstu deal half their damage to the monster and half to the trapped victim.
+Resistance to Missile Attacks (Ex) Ranged attacks (including magic missile) used against a mihstu have a 50% miss chance.
+Susceptible to Cold (Ex) Cold-based attacks and effects deal no damage to a mihstu, but stun it. If the cold-based effect allows a saving throw and the mihstu succeeds on its save, it ignores the stun effect. If it fails its save, or if the effect doesn’t allow a save, the mihstu is stunned for 1d4+2 rounds.

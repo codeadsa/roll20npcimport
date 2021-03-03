@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mephit/mephit-ooze
+Ooze Mephit CR 3
+XP 800
+N Small outsider (water)
+Init +6; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 17, touch 14, flat-footed 14 (+2 Dex, +1 dodge, +3 natural, +1 size)
+hp 19 (3d10+3); fast healing 2 (works only in wet or muddy environments)
+Fort +2, Ref +5, Will +3
+DR 5/magic
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee 2 claws +5 (1d3+1)
+Special Attacks breath weapon (15-foot cone, effect based on type, Reflex DC 13 for half)
+Spell-Like Abilities (CL 6th)
+1/day—summon (level 2, 1 mephit of the same type 25%), acid arrow 1/hour, stinking cloud 1/day (DC 15)
+STATISTICS
+Str 13, Dex 15, Con 12, Int 6, Wis 11, Cha 14
+Base Atk +3; CMB +3; CMD 15
+Feats Dodge, Improved Initiative
+Skills Bluff +8, Fly +10, Perception +6, Stealth +12
+Languages Common, one appropriate elemental language (Aquan, Auran, Ignan, or Terran)
+SPECIAL ABILITIES
+Breath Weapon (Su) Each type of mephit can unleash a particular breath weapon every 4 rounds as a standard action. The DC is Constitution-based and includes a +1 racial bonus.
+The breath weapon of an ooze mephit is a cone of slime that deals 1d4 acid damage. The slime also causes living creatures to be sickened for 3 rounds. A Reflex save halves the damage and negates the sickened effect.

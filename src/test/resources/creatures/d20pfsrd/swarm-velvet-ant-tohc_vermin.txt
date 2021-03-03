@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/swarm-velvet-ant-tohc
+Velvet Ant Swarm CR 3
+XP 800
+N Diminutive vermin (swarm)
+Init +3; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 17, touch 17, flat-footed 14 (+3 Dex, +4 size)
+hp 27 (5d8+5)
+Fort +5, Ref +4, Will +1
+Immune mind-affecting effects, weapon damage, swarm traits, vermin traits
+Weaknesses swarm traits
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee swarm (1d6 plus poison)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 13)
+TACTICS
+Velvet ants are generally inoffensive. Most encounters are with a swarm moving from one location to another, and most attacks happen when a careless individual wanders into the swarm. Male velvet ants are completely harmless. Females compose any swarm encountered and they attack with a painful sting.
+STATISTICS
+Str 1, Dex 16, Con 13, Int —, Wis 11, Cha 4
+Base Atk +3; CMB —; CMD —
+Skills Climb +11
+SPECIAL ABILITIES
+Poison (Ex) Swarm—injury; save Fort DC 13; frequency 1/ round for 4 rounds; effect 1 Dexterity damage; cure 1 save.
+The save DC is Constitution-based.

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/brachiosaurus
+Brachiosaurus CR 10
+XP 9,600
+N Gargantuan animal
+Init +0; Senses low-light vision, scent; Perception +28
+DEFENSE
+AC 18, touch 6, flat-footed 18 (+12 natural, –4 size)
+hp 171 (18d8+90)
+Fort +18, Ref +11, Will +9
+OFFENSE
+Speed 30 ft.
+Melee tail +23 (4d6+19)
+Space 20 ft.; Reach 20 ft.
+Special Attack trample (2d6+19, DC 32)
+STATISTICS
+Str 37, Dex 10, Con 21, Int 2, Wis 13, Cha 10
+Base Atk +13; CMB +30; CMD 40 (44 vs. trip)
+Feats Cleave, Great Cleave, Great Fortitude, Greater Overrun, Improved Bull Rush, Iron Will, Power Attack, Skill Focus (Perception), Weapon Focus (tail)
+Skills Perception +28
+Brachiosaurus Companions
+Starting Statistics: Size Medium; Speed 30 ft.; AC +3 natural armor; Attack tail (2d4); Ability Scores Str 13, Dex 14, Con 11, Int 2, Wis 13, Cha 10; Special Qualities low-light vision, scent.
+
+7th-Level Adv.: Size Large; AC +2 natural armor; Attack tail (2d6); Ability Scores Str +8, Dex –2, Con +4; Special Qualities trample (1d8).

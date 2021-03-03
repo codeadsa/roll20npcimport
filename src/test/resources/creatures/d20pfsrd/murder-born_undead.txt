@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/murder-born
+Murder-Born CR 6
+XP 2,400
+CE Tiny undead (incorporeal)
+Init +6; Senses darkvision 60 ft., sense living; Perception +11; Aura unnatural aura (30 ft.)
+DEFENSE
+AC 17, touch 17, flat-footed 15 (+3 deflection, +2 Dex, +2 size)
+hp 51 (6d8+18 plus 6)
+Fort +5, Ref +4, Will +7
+Defensive Abilities channel resistance +2; Immune undead traits
+OFFENSE
+Speed fly 40 ft. (good)
+Melee incorporeal touch +9 (1d6 Cha)
+Special Attacks despondent wail
+STATISTICS
+Str –, Dex 15, Con –, Int 14, Wis 14, Cha 16
+Base Atk +4; CMB +4; CMD 15
+Feats Blind-FightB, Combat Reflexes, Improved Initiative, Toughness
+Skills Bluff +9, Fly +17, Intimidate +12, Perception +11, Sense Motive +11, Stealth +19
+Languages Common, any two other languages (cannot speak)
+SPECIAL ABILITIES
+Despondent Wail (Su) As a standard action, a murder-born can unleash a child-like wail. Any living creature within 60 feet that hears the wail must make a successful DC 16 Will save or be overcome with supernatural feelings of hopelessness. A powerful curse falls upon the victim and they become so despondent that they need to make a successful DC 16 Concentration check in order to motivate themselves enough to make an attack or cast spell. The curse is permanent, though a remove curse or break enchantment (both requiring a successful caster level check against DC 18) or a limited wish, wish, or miracle can remove the effects of curse. The save DC is Charisma-based. Whether or not the save is successful, an individual cannot be affected by a murderborn’s despondent wail for the next 24 hours.
+Sense Living (Su) A murder-born can detect living creatures to a range of 100 feet. This functions as a detect evil spell (caster level 8th) except it detects the presence of life rather than a particular alignment. There is no chance the murder-born to be stunned and it is not blocked by stone, wood, or any other material.

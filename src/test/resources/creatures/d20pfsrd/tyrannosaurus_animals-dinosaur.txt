@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/tyrannosaurus
+Tyrannosaurus CR 9
+XP 6,400
+N Gargantuan animal
+Init +5; Senses low-light vision, scent; Perception +37
+DEFENSE
+AC 21, touch 7, flat-footed 20 (+1 Dex, +14 natural, –4 size)
+hp 153 (18d8+72)
+Fort +15, Ref +12, Will +10
+OFFENSE
+Speed 40 ft.
+Melee bite +20 (4d6+22/19–20 plus grab)
+Space 20 ft.; Reach 20 ft.
+Special Attacks swallow whole (2d8+11, AC 17, hp 15)
+STATISTICS
+Str 32, Dex 13, Con 19, Int 2, Wis 15, Cha 10
+Base Atk +13; CMB +28 (+32 grapple); CMD 39
+Feats Bleeding Critical, Critical Focus, Diehard, Endurance, Improved Critical (bite), Improved Initiative, Iron Will, Run, Skill Focus (Perception)
+Skills Perception +37; Racial Modifiers +8 Perception
+SQ powerful bite
+SPECIAL ABILITIES
+Powerful Bite (Ex) A tyrannosaurus applies twice its Strength modifier to bite damage.

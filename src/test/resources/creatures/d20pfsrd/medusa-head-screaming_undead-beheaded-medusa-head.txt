@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/beheaded/medusa-head/medusa-head-screaming
+Screaming Medusa Head CR 3
+XP 800
+NE Small undead
+Init +1; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 15, touch 12, flat-footed 14 (+1 Dex, +3 natural, +1 size)
+hp 30 (4d8+12)
+Fort +3, Ref +2, Will +4
+Immune undead traits
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee bite +6 (1d4+2 plus petrifying bite)
+Special Attacks screaming
+STATISTICS
+Str 14, Dex 12, Con –, Int –, Wis 11, Cha 15
+Base Atk +3; CMB +4; CMD 15 (can’t be tripped)
+Feats Flyby AttackB
+Languages common
+SPECIAL ABILITIES
+Screaming (Ex) Once every 1d4 rounds, a screaming beheaded can open its jaw and emit a bone-chilling scream. All creatures within 30 feet must make a Will save (DC 14) or be shaken for 1d4 rounds. This is a sonic mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same beheaded’s scream for 24 hours.
+Petrifying Bite (Su) Creatures bitten by a medusa head must make a DC 14 Fortitude save or turn to stone for 1d4 rounds. Targets immune to poison are immune to this effect. The save DC is Charisma-based.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-zelekhut
+Zelekhut CR 9
+XP 6,400
+LN Large outsider (extraplanar, inevitable, lawful)
+Init +9; Senses darkvision 60 ft., low-light vision, true seeing; Perception +20
+DEFENSE
+AC 24, touch 15, flat-footed 18 (+5 Dex, +1 dodge, +9 natural, –1 size)
+hp 115 (10d10+60); regeneration 5 (chaotic)
+Fort +10, Ref +8, Will +10
+Defensive Abilities constructed; DR 10/chaotic; SR 20
+OFFENSE
+Speed 50 ft., fly 60 ft. (average)
+Melee 2 chains +17 (2d6+7 plus 1d6 electricity and trip)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 10th; concentration +13)
+Constant—true seeing
+At will—clairaudience/clairvoyance, dimensional anchor, dispel magic, fear (DC 17), hold person (DC 16), locate creature
+3/day—hold monster (DC 18), mark of justice
+1/week—lesser geas (DC 16)
+STATISTICS
+Str 25, Dex 20, Con 16, Int 10, Wis 17, Cha 17
+Base Atk +10; CMB +18; CMD 34 (38 vs. trip)
+Feats Dodge, Improved Initiative, Mobility, Weapon Focus (chain), Vital Strike
+Skills Acrobatics +18 (+26 jump), Diplomacy +16, Fly +16, Perception +20, Sense Motive +20, Survival +16; Racial Modifiers +4 Perception, +4 Sense Motive
+Languages truespeech
+SQ chains
+SPECIAL ABILITIES
+Chains (Ex) A zelekhut’s arms end in long lengths of barbed metal. These chains deal slashing damage and 1d6 points of electricity damage with each hit.

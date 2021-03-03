@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/quasi-elemental-obsidian/obsidian-quasi-elemental-medium
+Medium Obsidian Quasi-Elemental CR 2
+XP 600
+N Medium outsider (earth, elemental, extraplanar)
+Init -1; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 17, touch 9, flat-footed 17 (-1 Dex, +8 natural)
+hp 22 (3d10+6)
+Fort +3, Ref +2, Will +3
+Immune elemental traits; Resist cold 10, fire 10
+OFFENSE
+Speed 20 ft.
+Melee claw +7 (1d6+6)
+Special Attacks death throes, molten glass (1d6 fire, DC 13)
+STATISTICS
+Str 18, Dex 8, Con 15, Int 4, Wis 11, Cha 11
+Base Atk +3; CMB +7; CMD 16
+Feats Cleave, Improved Natural AttackB, Power Attack
+Skills Knowledge (planes) +3, Perception +6, Stealth +5
+Languages Terran
+SPECIAL ABILITIES
+Death Throes (Ex) When reduced to 0 or less hit points, an obsidian quasi-elemental explodes in a cloud of razor-sharp bits of obsidian. All creatures within a 10-ft radius take 3d6 damage. A DC 13 Reflex save reduces it to half. The save DC is Constitution-based.
+Molten Glass (Ex) A successful hit against an obsidian quasi-elemental with a piercing or slashing weapon (or piercing or slashing natural attack) that deals damage equal to its current HD opens a wound that spurts molten glass. The wound bleeds for 1d4 rounds and any creature within 5 feet must make a DC 13 Reflex save or take 1d6 fire damage from the splash. A new save must be made each round the wound bleeds and a creature is within the area. The save DC is Constitution-based.

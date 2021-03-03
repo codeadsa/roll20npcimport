@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-gold/gold-dragon-very-young
+Very Young Gold Dragon CR 9
+XP 6,400
+LG Medium dragon (fire)
+Init +1; Senses dragon senses; Perception +18
+DEFENSE
+AC 21, touch 11, flat-footed 20 (+1 Dex, +10 natural)
+hp 95 (10d12+30)
+Fort +10, Ref +8, Will +12
+Immune fire, paralysis, sleep
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft., fly 150 ft. (average), swim 60 ft.
+Melee bite +15 (1d8+7), 2 claws +15 (1d6+5/19-20), 2 wings +10 (1d4+2)
+Special Attacks breath weapon (30-ft. cone, 4d10 fire, DC 18), weakening breath
+Spell-Like Abilities (CL 10th; concentration +13)
+At will—detect evil
+STATISTICS
+Str 21, Dex 12, Con 17, Int 16, Wis 17, Cha 16
+Base Atk +10; CMB +15; CMD 26 (30 vs. trip)
+Feats Alertness, Improved Critical (claw), Iron Will, Power Attack, Vital Strike
+Skills Diplomacy +16, Fly +14, Heal +16, Knowledge (local) +16, Knowledge (religion) +16, Perception +20, Sense Motive +20, Spellcraft +16, Swim +26; Racial Modifiers +8 Swim
+Languages Common, Draconic, Elven, Halfling
+SQ change shape 3/day (any animal or humanoid; polymorph)
+SPECIAL ABILITIES
+Weakening Breath (Su) Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).

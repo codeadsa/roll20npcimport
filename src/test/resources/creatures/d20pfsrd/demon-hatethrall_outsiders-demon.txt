@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-hatethrall
+Hatethrall Demon CR 6
+XP 2,400
+CE Tiny outsider (chaotic, demon, evil extraplanar)
+Init +9; Senses darkvision 60 ft.; Perception +3
+DEFENSE
+AC 19, touch 17, flat-footed 14 (+5 Dex, +2 natural, +2 size)
+hp 74 (8d10 +32)
+Fort +6, Ref +11, Will +9
+DR 10/cold iron or good; Immune electricity, fire, poison; Resist acid 10, cold 10; SR 17
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee bite +9 (1d4-1)
+Ranged ray of fire +15 touch (3d6 fire)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-like Abilities (CL 8th)
+At will – darkness, doom (DC 15), teleport (self plus 50 lbs. of objects only)
+1/day – charm monster (DC 18), planeshift (self plus 50 lbs. of objects only), summon (level 4, hatethrall 45%)
+STATISTICS
+Str 9, Dex 21, Con 19, Int 11, Wis 16, Cha 18
+Base Atk +8; CMB +11; CMD 20 (cannot be tripped)
+Feats Hover, Improved Initiative, Skill Focus (Bluff), Vital Strike
+Skills Bluff +18, Diplomacy +15, Knowledge (local) +11, Knowledge (planes) +11, Fly +33, Sense Motive +14; Racial Modifiers +5 Fly
+Languages Abyssal, Celestial, Common, Draconic; telepathy 100 ft
+SPECIAL ABILITIES
+Ray of Fire (Su) The flames engulfing a hatethrall can be concentrated and shot as a ray at any creature within 100 ft. A hatethrall can do this as a standard action once every 2 rounds.

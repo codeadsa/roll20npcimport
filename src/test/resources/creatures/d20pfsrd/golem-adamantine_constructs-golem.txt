@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-adamantine
+Adamantine Golem CR 19
+XP 204,800
+N Huge construct
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 33, touch 7, flat-footed 33 (–1 Dex, +26 natural, –2 size)
+hp 205 (30d10+40); fast healing 10
+Fort +10, Ref +9, Will +10
+Defensive Abilities indestructible; DR 15/epic; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +41 (6d10+13/19–20)
+Space 15 ft.; Reach 15 ft.
+Special Attacks destructive strike, trample (6d10+19, DC 38)
+STATISTICS
+Str 36, Dex 9, Con —, Int —, Wis 11, Cha 1
+Base Atk +30; CMB +45; CMD 54
+SPECIAL ABILITIES
+Destructive Strike (Ex) An adamantine golem’s slam attacks threaten a critical hit on a 19 or 20. In addition, whenever an adamantine golem scores a critical hit, it deals 6d10+13 points of damage to the target’s armor or shield in addition to the normal damage, as if it had also made a successful sunder combat maneuver.
+Indestructible (Ex) An adamantine golem is nearly impossible to destroy. Even if reduced below 0 hit points, its fast healing continues to restore hit points, though the golem is helpless unless above 0 hit points. It can only be permanently destroyed if reduced to negative hit points and then decapitated using an adamantine vorpal weapon—alternatively, miracle or wish can be used to slay it while it is at negative hit points.
+Immunity to Magic (Ex) An adamantine golem is immune to any spell or spell-like ability that allows spell resistance, except as noted below.
+• Transmute metal to wood slows an adamantine golem for 1d4 rounds, during which time its damage reduction is reduced to 15/adamantine (no save).
+
+Construction
+
+A adamantine golem’s body is made of more than 4,000 pounds of adamantine, mithral, gold, platinum, and other metals worth a total of 100,000 gp.
+Adamantine Golem
+
+CL 20th; Price 600,000 gp
+CONSTRUCTION
+Requirements Craft Construct, crushing hand, geas/quest, heal, stoneskin, wish; Special creator must be caster level 20th; Skill Craft (sculpture) DC 35; Cost 350,000 gp
+

@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/broken-soul
+Broken Soul Lillend CR 9
+XP 6,400
+CE Large outsider (azata, chaotic, evil, extraplanar)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 24, touch 12, flat-footed 21 (+3 Dex, +12 natural, –1 size)
+hp 101 (7d10+63)
+Fort +12, Ref +10, Will +6
+DR 5/—; Immune electricity, petrification, poison; Resist acid 5, cold 10, fire 10, sonic 5
+OFFENSE
+Speed 20 ft., fly 60 ft. (average)
+Melee +1 longsword +12/+7 (2d6+8/19–20), tail slap +6 (2d6+2 plus grab) or torturous touch +11 touch (2d6 plus 1d6 Dex damage and convulsions), tail slap +6 (2d6+2 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks agonized wail (DC 18), baleful gaze (DC 18), bardic performance (21 rounds/day), constrict (2d6+5)
+Spell-Like Abilities (CL 7th; concentration +2)
+3/day—darkness, hallucinatory terrain (DC 19), knock, light
+1/day—charm person (DC 16), speak with animals, speak with plants
+Bard Spells Known (CL 7th; concentration +2)
+3rd (2/day)—crushing despair (DC 18), terrible remorse (DC 18)
+2nd (4/day)—blindness/deafness (DC 17), piercing shriek (DC 17), rage, suggestion (DC 17)
+1st (6/day)—cause fear (DC 16), charm person (DC 16), ear-piercing scream (DC 16), hideous laughter (DC 16), lesser confusion (DC 16)
+0 (at will)—dancing lights, daze (DC 15), detect magic, ghost sound (DC 15), read magic, resistance
+STATISTICS
+Str 20, Dex 17, Con 27, Int 14, Wis 8, Cha 21
+Base Atk +7; CMB +13 (+17 grapple); CMD 26 (can’t be tripped)
+Feats Combat Casting, Diehard B, Endurance B, Great Fortitude B, Hover, Iron Will, Lightning Reflexes, Toughness B
+Skills Bluff +15, Fly +11, Intimidate +13, Knowledge (nature) +9, Perception +9, Perform (string) +17, Sense Motive +9, Stealth +9, Survival +10; Racial Modifiers +8 Intimidate, +4 Survival
+Languages Celestial, Draconic, Infernal; truespeech
+SPECIAL ABILITIES
+Bardic Performance A broken soul lillend has the bardic performance ability of a 7th-level bard, granting her access to the countersong, fascinate, inspire courage, inspire competence, and suggestion aspects of bardic performance.
+Spells A broken soul lillend casts spells as a 7th-level bard.

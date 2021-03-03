@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-flue
+Flue Hag CR 4
+XP 1,200
+CE Medium monstrous humanoid
+Init +4; Senses darkvision 60 ft.; Perception +9; Aura misfortune (30 ft., DC 14)
+DEFENSE
+AC 17, touch 14, flat-footed 13 (+4 Dex, +3 natural)
+hp 37 (5d10+10)
+Fort +3, Ref +8, Will +5
+Resist fire 10; SR 15
+Weaknesses light sensitivity
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee bite +7 (1d6+2 plus 1d6 fire), 2 claws +7 (1d4+2)
+Special Attacks burst of soot (20 ft., DC14), searing bite
+Spell-Like Abilities (CL 5th; concentration +7)
+2/day—alter self
+STATISTICS
+Str 15, Dex 18, Con 14, Int 13, Wis 12, Cha 15
+Base Atk +5; CMB +7; CMD 21
+Feats Deceitful, Skill Focus (Escape Artist), Stealthy
+Skills Acrobatics +5, Bluff +6, Climb +16, Disguise +7, Escape Artist +12, Intimidate +6, Knowledge (local) +4, Perception +9, Stealth +12 (+16 in darkness), Survival +5; Racial Modifiers +4 Stealth in darkness
+Languages Common, Goblin
+SQ compression
+SPECIAL ABILITIES
+Aura of Misfortune (Su) A flue hag radiates an aura of misfortune in a 30 ft. radius. Any creature that enters this area must succeed at a DC 14 Will save or suffer misfortune for 3 rounds. Anytime a creature affected by misfortune makes an ability check, attack roll, saving throw, or skill check, it must roll twice and take the worse result. Hags are immune to this ability. Creatures that are affected by this power or that successfully save against it cannot be affected again by the same hag’s aura of misfortune for 24 hours. The save DC is Charisma-based.
+Burst of Soot (Su) Twice per day a flue hag can belch forth a gout of blinding and choking soot, as a standard action. Any creature within a 20-foot radius burst must succeed at a DC 14 Fortitude save or become blinded and sickened for 2 rounds. Hags are immune to this effect. The save DC is Charisma-based.
+Searing Bite (Su) A flue hag’s jagged teeth are supernaturally hot, allowing her to deal an additional 1d6 points of fire damage with her bite attack.

@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/unicorn
+Unicorn CR 3
+XP 800
+CG Large magical beast
+Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +10
+Aura magic circle against evil
+
+DEFENSE
+AC 15, touch 12, flat-footed 12; (+3 Dex, +3 natural, –1 size; +2 deflection vs. evil)
+hp 34 (4d10+12)
+Fort +7, Ref +7, Will +6; +2 resistance vs. evil
+Immune charm, compulsion, poison
+
+OFFENSE
+Speed 60 ft.
+Melee gore +8 (1d8+4), 2 hooves +5 (1d3+2)
+Space 10 ft.; Reach 5 ft.
+Special Attacks powerful charge (gore, 2d8+8)
+Spell-Like Abilities (CL 9th)
+At will—detect evil (as free action), light
+3/day—cure light wounds
+1/day—cure moderate wounds, greater teleport (within its forest territory), neutralize poison (DC 21)
+STATISTICS
+Str 18, Dex 17, Con 16, Int 11, Wis 21, Cha 24
+Base Atk +4; CMB +9; CMD 22 (26 vs. trip)
+Feats Multiattack, Weapon Focus (horn)
+Skills Acrobatics +8, Perception +10, Stealth +8, Survival +7 (+10 in forests); Racial Modifiers +3 Survival in forests, +4 Stealth
+Languages Common, Sylvan
+SQ magical strike, wild empathy +17
+
+SPECIAL ABILITIES
+Magic Circle against Evil (Su) This ability continually duplicates the effect of the spell. The unicorn cannot suppress this ability.
+
+Magical Strike (Ex) A unicorn’s gore attack is treated as a magic good weapon for the purposes of damage reduction.
+
+Wild Empathy (Su) This works like the druid’s wild empathy class feature, except the unicorn has a +6 racial bonus on the check. Unicorns with druid levels add this racial modifier to their wild empathy checks.
+

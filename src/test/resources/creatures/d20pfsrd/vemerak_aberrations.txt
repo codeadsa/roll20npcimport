@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/vemerak
+Vemerak CR 14
+XP 38,400
+CE Huge aberration
+Init +7; Senses darkvision 60 ft., tremorsense 30 ft.; Perception +23; Aura spore cloud (30 ft.)
+DEFENSE
+AC 29, touch 11, flat-footed 26 (+3 Dex, +18 natural, –2 size)
+hp 195 (17d8+119)
+Fort +13, Ref +8, Will +13
+DR 5/—; Immune acid, electricity, disease, mind-affecting, poison; Resist sonic 20; SR 25
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 40 ft.
+Melee bite +22 (2d6+11), 2 claws +22 (1d8+11 plus grab), 3 tentacles +19 (1d6+5 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks breath weapon (90-foot line, 14d8 acid damage, DC 24 half, once every 1d4 rounds), constrict (tentacles 1d6+5 or claws 1d8+11), earthquake
+STATISTICS
+Str 32, Dex 17, Con 23, Int 5, Wis 16, Cha 22
+Base Atk +12; CMB +25 (+29 grapple); CMD 38 (50 vs. trip)
+Feats Awesome Blow, Great Fortitude, Improved Bull Rush, Improved Initiative, Multiattack, Power Attack, Toughness, Weapon Focus (bite), Weapon Focus (claws)
+Skills Climb +19, Perception +23; Racial Modifiers +8 Climb
+Languages Aklo
+SPECIAL ABILITIES
+Breath Weapon (Su) A vemerak’s acidic breath weapon has no effect on inorganic or undead material. If the breath weapon deals damage to a living fleshy creature, the acid creates a transparent cloud of foul-smelling vapor that fills that creature’s space and persists for 1 round. Any creature in or passing through the cloud must make a DC 24 Fortitude save or be nauseated for 1d4 rounds. This cloud is a poison effect. The save DCs are Constitution-based.
+Earthquake (Su) As a full-round action, a vemerak can burrow its tentacles, legs, and mouth into the ground—this action does not provoke attacks of opportunity. At the start of the next round, it creates an effect identical to an earthquake spell (CL 17th). A vemerak can maintain this zone of trembling earth indefinitely, as long as it continues to take full-round actions to maintain the effect.
+Spore Cloud (Su) A unique form of magic-resistant mold grows upon the body of a vemerak. This mold is the source of the vemerak’s spell resistance. When the vemerak moves, the mold exudes a cloud of spores in a 30-foot radius that acts as a targeted greater dispel magic (CL 17th) against the highest caster level magical effect the cloud touches as part of the vemerak’s move that turn.

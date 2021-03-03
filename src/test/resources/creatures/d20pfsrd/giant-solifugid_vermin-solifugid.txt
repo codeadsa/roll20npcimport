@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/solifugid/giant-solifugid
+Giant Solifugid
+CR 1
+XP 400
+N Small vermin
+Init +2; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+2 Dex, +1 natural, +1 size)
+hp 13 (2d8+4)
+Fort +5, Ref +2, Will +0
+Immune mind-affecting effects
+OFFENSE
+Speed 50 ft., climb 30 ft.
+Melee bite +3 (1d6+1), 2 claws +3 (1d3+1)
+Special Attacks rend (2 claws, 1d3+1)
+STATISTICS
+Str 12, Dex 15, Con 15, Int —, Wis 11, Cha 2
+Base Atk +1; CMB +1; CMD 13 (25 vs. trip)
+Skills Climb +9, Perception +4, Stealth +10; Racial Modifiers +8 Climb, +4 Perception, +4 Stealth

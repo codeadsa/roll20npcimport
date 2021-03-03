@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/sylph
+Sylph CR 1/2
+XP 200
+Sylph rogue 1
+N Medium outsider (native)
+Init +3; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 16, touch 14, flat-footed 12 (+2 armor, +3 Dex, +1 dodge)
+hp 9 (1d8+1)
+Fort +0, Ref +5, Will +2
+Resist electricity 5
+OFFENSE
+Speed 30 ft.
+Melee dagger –1 (1d4–1/19–20)
+Ranged dagger +3 (1d4–1/19–20)
+Special Attacks sneak attack +1d6
+Spell-Like Abilities (CL 1st; concentration +1)
+1/day—feather fall
+STATISTICS
+Str 8, Dex 17, Con 10, Int 15, Wis 14, Cha 10
+Base Atk +0; CMB –1; CMD 13
+Feats Dodge
+Skills Acrobatics +7, Appraise +6, Bluff +4, Climb +3, Diplomacy +4, Knowledge (local) +6, Perception +6, Sleight of Hand +7, Stealth +7, Use Magic Device +4
+Languages Auran, Common, Elven, Halfling
+SQ air affinity, trapfinding +1
+SPECIAL ABILITIES
+Air Affinity (Ex) Sylph sorcerers with the Elemental (air) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Sylph clerics with the Air domain cast their domain powers and spells at +1 caster level.
+
+Sylph Characters
+Sylphs are defined by class levels—they do not possess racial Hit Dice. Sylphs have the following racial traits.
++2 Dexterity, +2 Intelligence, –2 Constitution: Sylphs are quick and insightful, but slight and delicate. Darkvision: Sylphs can see in the dark up to 60 feet. Sylph Magic: Feather fall 1/day (caster level equals the sylph’s Hit Dice). Energy Resistance: Sylphs have electricity resistance 5. Air Affinity: Sylph sorcerers with the Elemental (air) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Sylph clerics with the Air domain cast their domain powers and spells at +1 caster level. Languages: Sylphs begin play speaking Common and Auran. Sylphs with high Intelligence scores can choose any of the following bonus languages: Aquan, Dwarven, Elven, Gnome, Halfling, Ignan, and Terran.

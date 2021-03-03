@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/rat/dire-rat
+Dire Rat CR 1/3
+XP 135
+N Small animal
+Init +3; Senses low-light vision, scent; Perception +4
+DEFENSE
+AC 14, touch 14, flat-footed 11 (+3 Dex, +1 size)
+hp 5 (1d8+1)
+Fort +3, Ref +5, Will +1
+OFFENSE
+Speed 40 ft., climb 20 ft., swim 20 ft.
+Melee bite +1 (1d4 plus disease)
+Special Attacks disease
+STATISTICS
+Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 4
+Base Atk +0; CMB –1; CMD 12 (16 vs. trip)
+Feats Skill Focus (Perception)
+Skills Climb +11, Perception +4, Stealth +11, Swim +11; Racial Modifiers uses Dex to modify Climb and Swim
+SPECIAL ABILITIES
+Disease (Ex) Filth fever: Bite—injury; save Fort DC 11; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
+Subpages
+Dire Rat Animal Companion Level 1 Dire Rat Companion Level 4+ Summoned Creature: Dire Rat Dire Rat Animal Companion Level 1
+Starting Statistics: Size Small; Speed 40 ft., climb 20 ft., swim 20 ft.; Attack bite (1d4); Ability Scores Str 10, Dex 17, Con 12, Int 2, Wis 12, Cha 4; Special Qualities low-light vision, scent.
+4th-Level Advancement: Attack bite (1d4 plus disease); Ability Scores Str +2, Con +2.

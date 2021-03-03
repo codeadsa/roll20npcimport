@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hodag
+Hodag CR 6
+XP 2,400
+N Large magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +7
+DEFENSE
+AC 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, -1 size)
+hp 60 (8d10+16)
+Fort +8, Ref +8, Will +5
+Defensive Abilities ferocity
+OFFENSE
+Speed 30 ft., burrow 15 ft.
+Melee bite +11 (1d8+4), 2 claws +11 (1d6+4), tail slap +11 (1d4+4)
+Space 10 ft.; Reach 10 ft.
+Special Attacks spiked tail, toss
+STATISTICS
+Str 19, Dex 14, Con 15, Int 7, Wis 12, Cha 10
+Base Atk +8; CMB +13; CMD 25 (29 vs. trip)
+Feats Iron Will, Multiattack, Power Attack, Vital Strike
+Skills Climb +10, Perception +7, Stealth +2, Swim +8
+Languages Common (cannot speak)
+SQ trackless
+SPECIAL ABILITIES
+Spiked Tail (Ex) A hodag’s tail spikes allow the creature’s tail slap to deal both bludgeoning and piercing damage. A hodag’s tail slap is a primary attack.
+Toss (Ex) A hodag charging 20 feet or more that damages a foe with an attack can throw its foe with a special combat maneuver check. The opponent must be corporeal and at least one size category smaller than the hodag. If the combat maneuver check succeeds, the hodag’s opponent is thrown 10 feet through the air in a direction chosen by the hodag and falls prone. The hodag can only toss its opponent in a straight line. If an obstacle prevents the creature’s movement, both the creature tossed and the object struck take 1d6 points of damage, and the creature falls prone in the space adjacent to the obstacle. A hodag can also toss an opponent 10 feet up into the air. The victim lands in the same square it started in, falls prone, and takes 1d6 points of damage.
+Trackless (Ex) A hodag sweeps its tail behind itself in a way that obscures its tracks. Attempts to track a hodag have their normal DC increased by +10.

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/zombie/zombie-brine-tohc
+Brine Zombie CR 1
+XP 400
+NE Medium undead (aquatic)
+Init -1; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 13, touch 9, flat-footed 13 (-1 Dex, +4 natural)
+hp 22 (4d8 plus 4)
+Fort +1, Ref +0, Will +4
+DR 5/slashing; Immune undead traits; Resist fire 10
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee cutlass +5 (1d6+2/19-20) or slam +5 (1d6+3)
+TACTICS
+Brine zombies attack an opponent with their cutlasses or fists in melee. If a brine zombie successfully grabs an opponent, it dives overboard and attempts to drown the victim by pinning him underwater (see Drowning for full details.)
+STATISTICS
+Str 14, Dex 8, Con –, Int –, Wis 10, Cha 10
+Base Atk +3; CMB +5; CMD 14
+Feats ToughnessB
+Skills Swim +10
+SQ staggered
+Gear cutlass

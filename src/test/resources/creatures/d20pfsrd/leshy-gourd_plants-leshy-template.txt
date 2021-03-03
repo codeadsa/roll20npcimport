@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/leshy-template/leshy-gourd
+Gourd Leshy CR 1
+XP 400
+N Small plant (leshy, shapechanger)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +4
+DEFENSE
+AC 13, touch 13, flat-footed 11 (+2 Dex, +1 size)
+hp 9 (1d8+5)
+Fort +4, Ref +2, Will +0
+Immune electricity, sonic, plant traits
+OFFENSE
+Speed 20 ft.
+Melee slam -1 (1d3-2 plus ensnare)
+Ranged seed +3 (1 plus ensnare)
+Special Attacks sneak attack +1d6
+Spell-Like Abilities (CL 2nd; concentration +4)
+Constant—pass without trace
+STATISTICS
+Str 6, Dex 15, Con 14, Int 6, Wis 11, Cha 15
+Base Atk +0; CMB -3; CMD 9
+Feats Toughness
+Skills Perception +4, Stealth +6 (+10 in plains and undergrowth), Survival +0 (+4 in plains and undergrowth); Racial Modifiers +4 Stealth and Survival in plains and undergrowth
+Languages Druidic, Sylvan; plantspeech (gourds)
+SQ change shape (Small gourd; tree shape), keepsake, verdant burst
+SPECIAL ABILITIES
+Ensnare (Ex) The seeds and slam attack of a gourd leshy entangle the target in vines for 2d4 rounds unless the target makes a DC 12 Reflex save. The target can attempt to burst these entangling vines before the duration expires with a DC 12 Strength check as a full-round action. The save and burst DCs are Constitution-based.
+Keepsake (Su) Gourd leshys can pop off the top of their heads and store a single Fine-sized object such as a dagger or potion inside. While within the leshy’s head, the item is warded by nondetection. In addition, after 24 hours, the item within is cleaned and polished, and, if damaged, repaired as if by a mending spell. Both spell effects have a caster level equal to twice the leshy’s Hit Dice (CL 2nd for most gourd leshys).
+Seed (Ex) A gourd leshy can hurl its seeds as a ranged attack. If it hits, this attack deals 1 point of damage (this damage is not modified by Strength) and affects the target with the gourd leshy’s ensnare ability. This attack has a 10-foot range increment. With tangles ofleafy vines for limbs and a carved gourd for a head, gourd leshys present a rather comical appearance. Intimately connected with the harvest season, gourd leshys see to the health and sustainable harvest of crops, especially vegetables and grains.

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sky/sky-dragon-juvenile-tohc
+Juvenile Sky Dragon CR 10
+XP 9,600
+LG Large dragon (air)
+Init +5; Senses cloud sight, dragon senses; Perception +25; Aura frightful presence (120 ft., DC 20)
+DEFENSE
+AC 25, touch 10, flat-footed 24 (Dex +1, natural +15, size -1)
+hp 126 (12d12+48)
+Fort +12, Ref +11, Will +12
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 200 ft. (good)
+Melee bite +17 (2d6+9), 2 claws +17 (1d8+6), gore +17 (1d8+9), tail slap +15 (1d8+9)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite and gore)
+Special Attacks breath weapon (40 ft. cone, 8d8 electricity, DC 20)
+Spell-Like Abilities (CL 12th; concentration +16)
+At will—detect evil, feather fall
+Spells Known (CL 3th; concentration +7)
+1st (6/day)—expeditious retreat, obscuring mist, shocking grasp
+0 (at will)—detect magic, disrupt undead, mending, message, read magic
+STATISTICS
+Str 23, Dex 12, Con 19, Int 18, Wis 19, Cha 18
+Base Atk +12; CMB +19; CMD 30 (34 vs. trip)
+Feats Flyby Attack, Hover, Improved Initiative, Lightning Reflexes, Multiattack, Skill Focus (Perception)
+Skills Acrobatics +13, Diplomacy +19, Fly +18, Heal +19, Knowledge (arcana, religion) +19, Perception +25, Perform (sing) +16, Sense Motive +19, Spellcraft +19
+Languages Auran, Celestial, Common, Draconic, Infernal
+SQ borne aloft, change shape
+SPECIAL ABILITIES
+Borne Aloft (Su) Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.
+Change Shape (Su) A young or older sky dragon can assume any humanoid form three times per day as if using polymorph.
+Cloud Sight (Su) A very young or older sky dragon’s sight is not impeded by clouds or fog, or by spells that create areas of fog.

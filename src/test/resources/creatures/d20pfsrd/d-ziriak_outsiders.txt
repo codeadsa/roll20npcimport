@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/d-ziriak
+D’ziriak CR 3
+XP 800
+N Medium outsider (extraplanar)
+Init +2; Senses darkvision 120 ft., low-light vision; Perception +9
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 natural)
+hp 26 (4d10+4)
+Fort +2, Ref +6, Will +6
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +6 (1d6+1 plus grab)
+Special Attacks dazzling burst
+Spell-Like Abilities (CL 3rd; concentration +6)
+1/day—plane shift (self only, to Plane of Shadow only)
+STATISTICS
+Str 13, Dex 15, Con 12, Int 13, Wis 14, Cha 16
+Base Atk +4; CMB +5 (+9 grapple); CMD 17
+Feats Combat Reflexes, Weapon Focus (claw)
+Skills Climb +8, Knowledge (arcana) +8, Knowledge (planes) +8, Perception +9, Sense Motive +9, Stealth +9, Survival +7, Use Magic Device +8
+Languages D’ziriak; telepathy 100 ft.
+SQ glow
+SPECIAL ABILITIES
+Dazzling Burst (Su) Once per day, a d’ziriak can cause its body to flare with intense, colorful light as a swift action. Non-d’ziriaks within a 20-foot radius must make a DC 13 Fortitude save or be dazzled for 1 minute. After using this ability, the d’ziriak’s brilliant glow is extinguished for 24 hours. This ability is a light effect, and creatures that cannot see are immune to it. The save DC is Constitution-based.
+Glow (Ex) The colorful runes that decorate a d’ziriak’s body create dim light in a 20-foot radius from its body.

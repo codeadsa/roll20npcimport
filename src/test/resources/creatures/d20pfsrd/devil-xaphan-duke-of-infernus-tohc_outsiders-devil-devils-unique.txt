@@ -1,0 +1,47 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-xaphan-duke-of-infernus-tohc
+Xaphan CR 26
+XP 2,460,000
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +12; Senses darkvision 60 ft., detect magic, detect good, detect thoughts; Perception +51; Aura fire (5 ft., 1d6 fire plus 1d6 unholy damage)
+DEFENSE
+AC 46, touch 27, flat-footed 38 (+8 Dex, +19 natural, +10 profane, –1 size)
+hp 717 (35d10+525); regeneration 10 (good, silver)
+Fort +26, Ref +29, Will +30
+DR 20/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 37
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee +4 unholy flaming burst falchion +52/+47/+42/+37 (2d6+23/15–20 plus 1d6 fire)
+Space 10 ft.; Reach 10 ft.
+Special Attacks fiery gaze
+Spell-Like Abilities (CL 20th)
+Constant—detect magic, detect good, detect thoughts (DC 22)
+At will—animate dead, blasphemy (DC 27), discern location, fireball (DC 23 half), greater dispel magic, greater teleport (self plus 50 pounds of objects only), greater invisibility (self only), magic circle against good (DC 23), locate creature, polymorph (self only), produce flame (DC 22), pyrotechnics (DC 22), resurrection, scorching ray, suggestion (DC 23), true seeing (DC 26), unhallow, unholy aura (DC 28), wall of fire
+3/day—summon (level 9, 2 barbed devils, bone devils or horned devils, 1d4 bearded devils or hellstokers, or 1d2 pit fiends 100%)
+1/day—limited wish, power word kill, symbol of fear (DC 26), symbol of weakness (DC 27)
+Sorcerer Spells Known (CL 20th)
+9th (7/day)—energy drain (DC 29), prismatic sphere (DC 29), wail of the banshee (DC 29)
+8th (7/day)—binding (DC 28), sunburst (DC 28), trap the soul (DC 28)
+7th (7/day)—delayed blast fireball (DC 27), finger of death (DC 27), waves of exhaustion
+6th (8/day)—greater dispel magic, chain lightning (DC 26), planar binding (DC 26)
+5th (8/day)—baleful polymorph (DC 25), break enchantment, cloudkill (DC 25), dismissal (DC 25)
+4th (8/day)—crushing despair (DC 24), dimensional anchor, enervation, phantasmal killer (DC 24)
+3rd (8/day)—daylight, deep slumber (DC 23), haste (DC 23), nondetection (DC 23)
+2nd (9/day)—arcane lock, gust of wind (DC 22), misdirection (DC 22), shatter (DC 22), spider climb
+1st (9/day)—cause fear (DC 21), charm person (DC 21), disguise self, hypnotism (DC 21), ray of enfeeblement
+0th (at will)—acid splash, arcane mark, daze (DC 20), dancing lights, ghost sound, ray of frost, read magic, resistance, touch of fatigue (DC 20)
+TACTICS
+Xaphan is a deadly adversary in battle and rarely, if ever, backs down from a fight. He is not stupid however, and should the battle go against him, he either flees (via greater teleport) or summons a troupe of pit fiends to cover his escape. In battle, Xaphan unleashes his full fury against a foe; starting with his fiery gaze. Those that survive are then witness to his fiery aura power. If within range, he likes to grab a foe and hold on while using his fiery aura power. The rest of the battle alternates between Xaphan using his great falchion and his spells and spell-like abilities.
+STATISTICS
+Str 37, Dex 27, Con 40, Int 28, Wis 28, Cha 30
+Base Atk +35; CMB +49; CMD 77
+Feats Alertness, Bleeding Critical, Cleave, Combat Casting, Craft Wondrous Item, Critical Focus, Deceitful, Empower Spell, Great Cleave, Improved Critical (falchion), Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Quicken Spell, Quicken Spell-Like Ability (fireball), Weapon Focus (falchion), Widen Spell
+Skills Acrobatics +46, Bluff +52, Diplomacy +45, Disguise +12, Fly +44, Heal +47, Intimidate +48, Knowledge (arcana) +47, Knowledge (local) +44, Knowledge (planes) +47, Knowledge (religion) +44, Perception +51, Sense Motive +51, Spellcraft +44, Stealth +42, Survival +44
+Languages Abyssal, Celestial, Common, Daemonic, Draconic, Giant, Ignan, Infernal, Terran; telepathy 100 ft.
+Gear Hellstorm
+SPECIAL ABILITIES
+Fiery Aura (Su) As a free action, Xaphan can cause his entire body to erupt in unholy fire (the same fires he uses to stoke his furnaces). Creatures within 5 feet of or grappling Xaphan take 1d6 points of fire damage and 1d6 points of unholy damage each round. There is no save against either effect, but resistance to or immunity to fire reduces or negates the fire damage.
+Fiery Gaze (Su) A creature that meets Xaphan’s gaze must succeed on a DC 36 Will save or be affected as follows:
+1st-round: The victim’s blood begins to boil, dealing 3d6 points of fire damage this round; the victim takes a –2 circumstance penalty on attack rolls, weapon damage rolls, ability and skill checks, and saves. A DC 37 Fortitude save halves the fire damage but does not negate the penalties. 2nd-round: The victim’s blood reaches searing temperatures and begins to burn away muscle and flesh; the circumstance penalty increases to –4. Smoke rises from the victim’s flesh. The victim takes 6d6 points of fire damage this round. A DC 37 Fortitude save halves the fire damage but does not negate the penalties. 3rd-round: The victim’s blood erupts into an inferno and explodes from its body dealing 12d6 points of fire damage; the victim is stunned for 3 rounds. A DC 37 Fortitude save halves the fire damage but the victim is still stunned. A successful Will save renders a creature immune to Xaphan’s gaze for one day. The save DC against the gaze is Charisma-based and the Fortitude saves are Constitution-based. GEAR Unique Item: Hellstorm
+Xaphan’s unique weapon, Hellstorm, is a Large +4 unholy flaming burst falchion.
+Sidebar
+“The Unholy Schism was the beginning of what is to come. Every angelic being, every creature of good, and all that oppose Great Lucifer shall be consumed in eternal and everlasting fire.” — Xaphan.

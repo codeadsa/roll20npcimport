@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/carbuncle-TOHC
+Carbuncle CR 1/2
+XP 200
+N Small aberration
+Init +0; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 16, touch 13, flat-footed 14 (+2 insight, +3 natural, +1 size)
+hp 8 (1d8+1 plus 3)
+Fort +1; Ref +2; Will +6
+Defensive Abilities foresight
+OFFENSE
+Speed 10 ft.
+Melee bite +1 (1d3 –2)
+Special Attacks discord
+STATISTICS
+Str 7, Dex 10, Con 12, Int 10, Wis 18, Cha 8
+Base Atk +0; CMB –3; CMD 9 (+13 vs. trip)
+Feats Toughness, Weapon FinesseB
+Skills Escape Artist +4, Knowledge (any) +4, Perception +8, Stealth +8
+Languages telepathy 100 ft.
+SPECIAL ABILITIES
+Discord (Su) As a standard action, a carbuncle can sow discord in a creature within 30 feet using its telepathy ability. It can use this ability once per round to affect one creature. An affected creature must succeed on a DC 14 Will save or fall into loud bickering and arguing with those around him. Meaningful communication is impossible. If the affected creatures have different alignments, there is a 50% chance that they attack each other. Bickering lasts 5d4 rounds. Fighting begins 1d4 rounds into the bickering and lasts 2d4 rounds. This is a mind-affecting effect. The save DC is Wisdom-based.
+Foresight (Su) A carbuncle has a +2 insight bonus to AC and Reflex saves. This ability is always active and cannot be negated or dispelled.

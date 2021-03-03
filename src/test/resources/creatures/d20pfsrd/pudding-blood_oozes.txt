@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/pudding-blood
+Blood Pudding CR 5
+XP 1,600
+N Medium ooze
+Init +0 Senses blindsight 60 ft.; Perception +0
+DEFENSE
+AC 10, touch 10, flat-footed 10
+hp 52 (5d10+25)
+Fort +3, Ref +1, Will +1
+Immune mind-affecting effects, ooze traits; Resist fire 10
+Weaknesses racial vulnerabilities
+OFFENSE
+Speed 30 ft.
+Melee slam +4 (2d4+1 plus grab)
+Space 5ft.; Reach 5ft.
+Special Attacks disgorge, infuse
+STATISTICS
+Str 12, Dex 11, Con 20, Int —, Wis 10, Cha 7
+Base Atk +3; CMB +4 (+12 grapple); CMD 18
+SPECIAL ABILITIES
+Disgorge (Ex) A blood pudding that has infused itself with a host can force the creature’s blood out through its pores, eyes, ears, and mouth. This is a standard action that deals 1d2 points of Constitution damage each round. At Constitution 0, the host dies and the blood pudding feeds on the corpse. When sated, the pudding exits, and to onlookers it appears as if the slain creature is bleeding profusely.
+Infuse (Ex) A blood pudding that makes a successful grapple check can forcibly merge its form with that of a living creature. If it succeeds, the blood pudding’s form disappears as it soaks through skin, wounds, and any other opening in the host’s body. This special attack deals no damage but allows the blood pudding to use its disgorge special attack (see above).
+A creature infused with a blood pudding can try to forcibly eject the creature once per round as a standard action (coughing it up, vomiting, and so on). This requires a successful DC 17 Fortitude save. The save DC is Constitution-based.
+A creature can be affected by the pudding’s infuse attack again, but gains a +2 conditional bonus on its Fortitude save. This bonus lasts for one day and is effective against the infuse attack of that blood pudding only.
+Racial Vulnerabilities (Ex) Drinking alcohol weakens an infused pudding and reduces the Constitution damage sustained from its disgorge attack by one-half for the next 1d4+1 rounds.
+Consuming pure vinegar causes an infused blood pudding to eject itself from the host in the same round the vinegar is consumed. A creature drinking pure vinegar must make a successful DC 12 Fortitude save or be nauseated for 1d3 rounds. A blood pudding will not use its infuse attack against that host for one day.
+A blood pudding hit with a cold effect or attack is slowed for 3 rounds (as the slow spell) and loses its racial bonus to grapple checks for a number of rounds equal to the spell’s level.
+Slime Grapple (Ex) Because of the sticky slime it secretes, a blood pudding gains a +4 racial bonus to grapple checks.

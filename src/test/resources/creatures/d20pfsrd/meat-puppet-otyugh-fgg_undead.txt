@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/meat-puppet-otyugh-fgg
+Otyugh Meat Puppet CR 8
+XP 4,800
+NE Large undead
+Init +5; Senses darkvision 60 ft.; Perception +17
+DEFENSE
+AC 10, touch 10, flat-footed 9 (+1 Dex, –1 size)
+hp 90 (12d8+24 plus 12); regeneration 12 (cold iron or good)
+Fort +6; Ref +7; Will +10
+Defensive Abilities channel resistance +4; DR 5/slashing or piercing; Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee 3 slams +16 (2d6+7/19–20 plus grab)
+Special Attacks constrict (1d8+7)
+STATISTICS
+Str 24, Dex 12, Con —, Int 3, Wis 14, Cha 14
+Base Atk +9; CMB +17 (+21 to grapple); CMD 29 (31 vs. trip)
+Feats Dodge, Improved Critical (slam), Improved Initiative, Improved Natural Attack (slam), Lightning Reflexes, ToughnessB, Weapon Focus (slam)
+Skills Perception +17
+Applied Template and Base Creature
+Meat Puppet
+Otyugh

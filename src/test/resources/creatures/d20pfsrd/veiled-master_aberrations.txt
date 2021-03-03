@@ -1,0 +1,44 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/veiled-master
+Veiled Master CR 14
+XP 38,400
+LE Large aberration (aquatic, shapechanger)
+Init +10; Senses darkvision 120 ft.; Perception +23
+Aura mucus cloud (30 ft.)
+DEFENSE
+AC 30, touch 15, flat-footed 24 (+4 armor, +6 Dex, +11 natural, –1 size)
+hp 200 (16d8+128)
+Fort +13, Ref +13, Will +14
+Immune electricity, mind-affecting effects; Resist cold 20; SR 25
+OFFENSE
+Speed 10 ft., swim 80 ft.
+Melee bite +17 (2d6+6 plus consume memory and slime), 2 claws +17 (1d6+6 plus slime), 4 tentacles +12 touch (2d6 electricity plus thoughtlance)
+Space 10 ft.; Reach 10 ft. (20 ft. with claws and tentacles)
+Special Attacks delayed suggestion
+Spell-Like Abilities (CL 20th; concentration +26)
+Constant—mage armor
+At will—detect thoughts (DC 18), dominate person (DC 21), hypnotic pattern (DC 18), illusory wall (DC 20), mirage arcana (DC 21), persistent image (DC 21), programmed image (DC 22), project image (DC 23), veil (DC 22)
+3/day—dominate monster (DC 25), quickened dominate person (DC 21), geas/quest, mass suggestion (DC 22)
+Sorcerer Spells Known (CL 12th; concentration +18)
+6th (4)—symbol of persuasion (DC 23)
+5th (6)—symbol of pain (DC 22), teleport
+4th (7)—dimension door, phantasmal killer (DC 20), symbol of slowing (DC 21)
+3rd (7)—clairaudience/clairvoyance, explosive runes (DC 20), hold person (DC 19), secret page
+2nd (8)—blindness/deafness (DC 18), invisibility, levitate, symbol of mirroring (DC 19), touch of idiocy
+1st (8)— charm person (DC 17), comprehend languages, erase, ray of enfeeblement (DC 17), silent image (DC 17)
+0 (at will)—arcane mark, dancing lights, daze (DC 16), detect magic, ghost sound (DC 16), mage hand, message, read magic, touch of fatigue (DC 16)
+STATISTICS
+Str 22, Dex 22, Con 27, Int 21, Wis 19, Cha 22
+Base Atk +12; CMB +19; CMD 35
+Feats Arcane Strike, Combat Casting, Combat Expertise, Eschew MaterialsB, Extend Spell, Improved Initiative, Lightning Reflexes, Quicken Spell, Quicken Spell-Like Ability (dominate person)
+Skills Knowledge (arcana, history, nature) +21, Perception +23, Sense Motive +20, Spellcraft +24, Stealth +21, Swim +33, Use Magic Device +22
+Languages Aboleth, Aklo, Aquan, Common, Undercommon
+SQ change shape (any Small or Medium; greater polymorph), runemastery, swift transformation
+SPECIAL ABILITIES
+Consume Memory (Su) When a veiled master bites a creature, it consumes some of that creature’s memories. The creature bitten must succeed at a DC 24 Fortitude save or gain 1 negative level. A veiled master has 5 hit points restored each time it gives a creature a negative level in this way, and it also learns some of the target creature’s memories (subject to the GM’s discretion). This is a mind-affecting effect. A veiled master can suppress this ability as a free action. The save DC is Charisma-based.
+Delayed Suggestion (Sp) Whenever a veiled master successfully uses dominate person or dominate monster on a creature, it can also implant a delayed suggestion that triggers when the dominate effect ends. Typically, this suggestion (which functions as a spell-like ability, CL 20th, Will DC 19 negates) is for the previously dominated creature to seek out the veiled master and submit to a new domination attempt, but sometimes, a veiled master implants other suggestions (such as a suggestion to attack the first person the creature sees).
+Mucus Cloud (Ex) While underwater, a veiled master exudes a 30-foot-radius cloud of transparent slime. All creatures in this area must succeed at a DC 26 Fortitude save each round or lose the ability to breathe air (but gain the ability to breathe water) for 24 hours. Renewed contact with this mucus cloud and failing another save extends the effect for another 24 hours. The save DC is Constitution-based.
+Runemastery (Ex) A veiled master is particularly skilled at casting spells that create magical writing, such as explosive runes, secret page, and spells with the word “symbol” in their names. It never requires material components or focus components when casting such spells, and the save DC of these spells increases by 1. A veiled master’s symbol spells are difficult to disarm—the Disable Device DC for these symbols increases by 2.
+Slime (Ex) A creature hit by any of a veiled master’s bite or claw attacks must succeed at a DC 26 Fortitude save or have its skin and flesh transform into a clear, slimy membrane over the course of 1d4 rounds. The creature’s new flesh is soft and tender, reducing its Constitution score by 4 as long as the condition persists. If the creature’s flesh isn’t kept moist, it dries quickly and the creature takes 1d12 points of damage every 10 minutes. Remove disease and similar effects can restore an afflicted creature to normal, but immunity to disease offers no protection from this attack. The save DC is Constitution-based.
+Spells A veiled master casts spells as a 12th-level sorcerer.
+Swift Transformation (Su) A veiled master can use its change shape ability as a swift action.
+Thoughtlance (Su) Four of a veiled master’s tentacles end in glowing spheres of light. These spheres deal 2d6 points of electricity damage on a successful touch attack and also blast a creature’s mind with waves of mental energy. A creature touched by one of these tentacles (regardless of whether the touch deals electricity damage) must succeed at a DC 24 Will save or be staggered for 1 round. Additional touches increase the duration of this effect by 1 round. While a creature is staggered in this manner, it must attempt concentration checks to cast spells as if it were experiencing extremely violent motion while casting (DC = 20 + spell level). The save DC is Charisma-based.

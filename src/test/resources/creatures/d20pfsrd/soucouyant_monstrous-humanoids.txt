@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/soucouyant
+Soucouyant CR 8
+XP 4,800
+NE Medium monstrous humanoid
+Init +10; Senses darkvision 60 ft., detect good, detect magic; Perception +18
+DEFENSE
+AC 23, touch 17, flat-footed 16 (+6 Dex, +1 dodge, +6 natural)
+hp 102 (12d10+36)
+Fort +7, Ref +14, Will +11
+DR 5/cold iron and magic; Immune fire, charm, disease, fear, sleep; SR 19
+OFFENSE
+Speed 30 ft.
+Melee bite +16 (2d6+4), 2 claws +17 (1d6+4 plus grab)
+Special Attacks blood drain (1d2 Constitution)
+Spell-Like Abilities (CL 8th; concentration +12)
+Constant—detect good, detect magic
+At will—chill touch (DC 15), deep slumber (DC 16), scorching ray (DC 16), spider climb
+STATISTICS
+Str 18, Dex 22, Con 17, Int 14, Wis 17, Cha 19
+Base Atk +12; CMB +18 (+22 grapple); CMD 33
+Feats Agile Maneuvers, Combat Reflexes, Dodge, Improved Initiative, Mobility, Weapon Focus (claw)
+Skills Acrobatics +18, Bluff +16, Disguise +16, Intimidate +19, Perception +18, Stealth +21
+Languages Abyssal, Common, Infernal
+SQ fiery form, mask evil
+SPECIAL ABILITIES
+Detonate (Su) As a standard action, a soucouyant in her fiery form can choose to explode in a 30-foot-radius burst of fire that deals 8d6 points of damage (DC 19 Reflex save for half damage) to all creatures in the area. Using this ability returns a soucouyant to her humanoid form.
+Fiery Form (Su) As a standard action, a soucouyant who has removed her skin can assume the form of a flying ball of fire similar to that created by a flaming sphere spell (CL 8th) for up to 8 rounds. Upon returning to humanoid form, a soucouyant must wait 1d4 rounds before she can assume fiery form again. A soucouyant who enters the same space as a creature stops moving for that round and deals 3d6 points of fire damage to the creature unless it succeeds at a DC 18 Reflex save. A soucouyant in fiery form retains her usual AC, but is immune to non-magical attacks and effects. A successful targeted dispel magic spell or dealing 20 points of cold damage to a soucouyant in fiery form forces her to return to her humanoid form. A soucouyant can assume fiery form a number of times per day equal to her Charisma modifier (6 for most soucouyants). The save DC is Charisma-based.
+Mask Evil (Su) During the day, a soucouyant has the appearance of an old woman, an illusion created by an effect like alter self; at night the illusion fades, revealing her monstrous nature. While she is ”wearing” her skin, a soucouyant’s evil nature is masked as though by a constant undetectable alignment spell.

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/arrowhawk
+Arrowhawk CR 5
+XP 1,600
+N Medium outsider (air, extraplanar)
+Init +5; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 2, touch 16, flat-footed 16 (+5 Dex, +1 dodge, +6 natural)
+hp 44 (7d10+7)
+Fort +3, Ref +10, Will +6
+Immune acid, electricity, poison; Resist cold 10, fire 10
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee bite +12 (1d8+3)
+Ranged Touch electricity ray +12 (2d8)
+STATISTICS
+Str 14, Dex 21, Con 12, Int 10, Wis 13, Cha 13
+Base Atk +7; CMB +9; CMD 25
+Feats Dodge, Flyby Attack, Weapon Finesse, Wind Stance
+Skills Fly +23, Knowledge (planes) +10, Perception +11, Sense Motive +11, Stealth +15, Survival +11
+Language Auran
+SPECIAL ABILITIES
+Electricity Ray (Su) The arrowhawk can fire a ray of electricity once per round to a range of 50 feet.
+Razor Beak (Ex) The arrowhawk’s beak is a serrated cutting weapon. Its bite deals damage as if it were a creature one size larger.

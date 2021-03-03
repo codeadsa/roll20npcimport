@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/azata-brijidine
+Brijidine CR 17
+XP 102,400
+CG Medium outsider (azata, chaotic, earth, extraplanar, fire, good)
+Init +5; Senses darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +26; Aura flaming body, holy aura
+DEFENSE
+AC 32, touch 19, flat-footed 27 (+4 deflection, +5 Dex, +13 natural)
+hp 256 (19d10+152)
+Fort +22, Ref +15, Will +21
+DR 10/cold iron and evil; Immune electricity, fire, petrification; Resist cold 10; SR 28
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee +1 flaming burst keen longsword +25/+20/+15/+10 (1d8+8/17–20 plus 1d6 fire and burn)
+Ranged lava blast +24 (16d6 fire plus burn and entrap)
+Special Attacks entrap (DC 26, instantaneous, hardness 8, hp 30), burn (2d6, DC 26), trample (1d8+7, DC 24)
+Spell-Like Abilities (CL 19th; concentration +25)
+Constant—holy aura (DC 24)
+At will—flaming sphere (DC 18), heat metal (DC 18), meld into stone (self only), soften earth and stone, stone shape
+5/day—cure serious wounds, flame strike (DC 21), move earth, spike stones (DC 20), stone tell, summon nature’s ally V (earth and fire elementals only), wall of stone (DC 22)
+3/day—earthquake, fire storm (DC 23), heal, stoneskin, wall of fire
+STATISTICS
+Str 20, Dex 21, Con 24, Int 15, Wis 18, Cha 23
+Base Atk +19; CMB +24; CMD 43
+Feats Cleave, Combat Expertise, Combat Reflexes, Critical Focus, Improved Bull Rush, Iron Will, Lunge, Power Attack, Staggering Critical, Toughness
+Skills Craft (any one) +24, Escape Artist +27, Fly +9, Heal +26, Knowledge (nature) +24, Knowledge (planes) +24, Perception +26, Perform (oratory) +25, Sense Motive +26
+Languages Celestial, Draconic, Ignan, Infernal, Terran; truespeech
+SQ heat stone, obsidian blade
+SPECIAL ABILITIES
+Flaming Body (Su) A brijidine’s body is molten rock covered in dancing flames. Anyone striking a brijidine with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a brijidine or is grappled by one takes 6d6 points of fire damage each round the grapple persists.
+Heat Stone (Su) Whenever a brijidine uses her meld into stone, soften earth and stone, spike stones, stone shape, or wall of stone spell-like abilities, she can have the affected stone radiate intense heat for 1 minute. Any creature within 5 feet of the stone takes 1d6 fire damage per round.
+Lava Blast (Su) A brijidine can hurl a glob of lava at a target as a standard action. This attack has a range increment of 30 feet.
+Obsidian Blade (Ex) At will as a free action, a brijidine can create a blade of jagged volcanic glass that functions as a +1 flaming burst keen longsword. One round after it leaves the brijidine’s grasp, the weapon decays into useless powder.
+

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/kelpie
+Kelpie CR 4
+XP 1,200
+NE Medium plant
+Init +6; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 28 (5d8+5)
+Fort +5, Ref +3, Will +4
+Defensive Abilities reshape form; Immune plant traits; Resist fire 10
+OFFENSE
+Speed 20 ft., swim 30 ft.
+Melee slam +5 (1d4+2 plus grab plus charm touch)
+Special Attacks charm (DC 17)
+STATISTICS
+Str 15, Dex 14, Con 13, Int 8, Wis 13, Cha 17
+Base Atk +3; CMB +5 (+9 to grapple); CMD 17
+Feats Improved Initiative, Iron Will, Skill Focus (Bluff)
+Skills Bluff +7, Perception +5, Stealth +6, Swim +12
+Languages Aquan, Common; telepathy 1 mile (see below)
+SQ amphibious
+SPECIAL ABILITIES
+Charm (Su) Once per day, a kelpie can produce an effect identical to the charm monster spell (caster level 9th). The target can make a DC 17 Will save to avoid the effects. If the save fails, the victim believes the kelpie to be a very beautiful and attractive creature, and attempts to move as quickly as possible toward the kelpie.
+The kelpie can automatically grapple a charmed foe and attempts to drown the victim. A charmed foe does not resist the kelpie’s embrace, and the drowning attempt does not allow an additional save. Female creatures are immune to the kelpie’s charm ability; only males can be affected. The charm is negated if the victim dies, the kelpie dies, or dispel magic, greater dispelling, miracle, or wish is cast on the victim. If the save is successful, the target cannot be affected by that kelpie’s charm or charm touch for 24 hours.
+The save DC is Charisma-based and includes a +2 racial bonus.
+Charm Touch (Su) On a successful slam attack, a kelpie’s target must make a DC 17 or be charmed as described under the charm ability above. This effect does not stack with that ability.
+Reshape Form (Su) A kelpie’s natural form is that of a mass of dark green seaweed. It can assume three other forms. The first is a Small or Medium female humanoid. The second form is a hippocampus (see that entry). The third form is a Large green horse. In each form, the kelpie retains all of her special abilities. She does not truly alter her form (such as shapechangers do), she simply reshapes her body. In all of her forms, the kelpie’s skin/fur has a greenish cast, and her features are slightly distorted. The kelpie’s ruse can be detected if an opponent who is not charmed succeeds on a DC 10 Perception check.
+Telepathy (Su) A kelpie can communicate telepathically to a range of 1 mile with any creature she has touched.

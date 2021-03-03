@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/gloomwing-tohc
+Gloomwing CR 4
+XP 1,200
+N Large outsider (extraplanar)
+Init +3; Senses darkvision 60 ft.; Perception +8; Aura weakness pheromone (30 ft., DC 13, 1d2 Str damage)
+DEFENSE
+AC 19, touch 12, flat-footed 16 (+3 Dex, +7 natural, –1 size)
+hp 32 (5d10+5)
+Fort +5; Ref +4; Will +5
+OFFENSE
+Speed 5 ft., fly 40 ft. (average)
+Melee 2 claws +7 (1d6), bite +7 (1d8)
+Space 10 ft.; Reach 5 ft.
+Special Attacks confusion (DC 13, 6 rounds), pheromone call
+STATISTICS
+Str 11, Dex 16, Con 13, Int 2, Wis 12, Cha 10
+Base Atk +5; CMB +6; CMD 19 (27 vs. trip)
+Feats Flyby Attack, Hover, Weapon Finesse
+Skills Fly +6, Perception +8, Stealth +6 (+10 in dim light or darkness); Racial Modifiers +4 Stealth to hide in dim light or darkness
+SQ implant egg
+SPECIAL ABILITIES
+Confusion (Su) The coloration on the gloomwing’s back and wings provide it with protection against some predators. Any creature viewing the gloomwing from above must succeed on a DC 13 Will save or be confused for 6 rounds. The save DC is Constitution-based.
+Implant Egg (Ex) As a standard action, a female gloomwing can lay eggs inside a slain creature of Small or larger size. The young emerge about 2 weeks later as a tenebrous worms (see that entry), literally devouring the host from inside. While implanted, a body cannot be raised or resurrected except by the casting of a true resurrection, wish, or miracle, If remove disease or heal is cast on the body, the eggs are destroyed and the body can be raised normally.
+Pheromone Call (Ex) Each round a gloomwing emits its weakness pheromone there is a 20% chance that 1d4 additional gloomwings arrive in the area and join the battle. This is not a summoning spell or spell-like ability; the gloomwings can detect the pheromone and are automatically drawn to it.
+Weakness Pheromone (Ex) After the first round of combat, a gloomwing can emit a scent in a 30-foot radius as a free action that deals 1d2 points of Strength damage to any living, non-vermin creature (except gloomwings) in the area. An affected creature can make a successful DC 13 Fortitude save each round it remains in the area to negate the effects. On a successful save, that creature cannot be affected again by the same gloomwing’s weakness pheromone for 24 hours. The pheromone ceases when the gloomwing dies. Strength damage dealt by a gloomwing’s pheromone heals faster than normal (1 point per hour rather that 1 point per night of rest). The save DC is Constitution-based.

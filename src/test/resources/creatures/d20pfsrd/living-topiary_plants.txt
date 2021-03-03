@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/living-topiary
+Living Topiary CR 4
+XP 1,200
+N Medium plant
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +6
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 natural)
+hp 42 (5d8+20)
+Fort +10, Ref +3, Will +1
+DR 5/slashing; Immune plant traits
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +6 (1d6+4)
+Spell-Like Abilities (CL 5th; concentration +4)
+Constant—pass without trace
+3/day—hedge stride
+STATISTICS
+Str 17, Dex 14, Con 19, Int 6, Wis 10, Cha 9
+Base Atk +3; CMB +6; CMD 18 (22 vs. trip)
+Feats Great Fortitude, Improved Initiative, Power Attack
+Skills Escape Artist +10, Perception +6, Stealth +9 (+15 in undergrowth); Racial Modifiers +8 Escape Artist, +2 Stealth (+8 in undergrowth)
+Languages Common, Sylvan (can’t speak any language)
+SQ assimilate, move through hedges, sculpt shape
+SPECIAL ABILITIES
+Assimilate (Ex) As a full-round action, a living topiary can consume undergrowth or bushy plant matter it’s currently touching and incorporate that material into its form. It can do this at a rate of 5 cubic feet per round, healing 1d8 points of damage each time. If the topiary is at maximum hit points, this ability has no effect.
+Hedge Stride (Sp) This ability functions as tree stride, but rather than allowing for teleportation from tree to tree, it permits the living topiary to teleport from one area of brush or hedges to another area of similar vegetation within 1,500 feet.
+Move through Hedges (Ex) A living topiary may move through any mass of brambles or other dense plant growth without penalty. It must begin and end its turn outside of the mass.
+Sculpt Shape (Ex) As a standard action, a living topiary can alter itself to take on the basic form of any creature. The change is purely cosmetic, and does not change its size, grant it any special powers, or alter its abilities.
+Creating Living Topiaries While druidic lore tells of naturally occurring topiary creatures springing full-grown and alive from the depths of wild forests, places infused by strange magic, or portals to fey realms, these creatures can also be created in a fashion similar to most constructs. Rather than being cultivated by wizards and other arcane spellcasters, though, they are most often created by druids and servants of nature deities who summon spirits of the natural world to infuse their lovingly sculpted topiary shapes with life. Aside from requiring the creator to craft a topiary in a suitably lifelike shape, a variety of exotic herbs, salves, fertilizers, and rare earths are required to bring the plant to life, making the process a costly endeavor.
+CL 8th; Price 10,500 gp
+CONSTRUCTION REQUIREMENTS
+Skill Ranks Knowledge (nature) 6 ranks; Spells command plants, freedom of movement, plant growth; Skill Check Knowledge (nature) DC 14 or Profession (gardener) DC 18; Cost 5,500 gp
+Customizing Living Topiaries As created beings, living topiaries might come in a wide variety of forms, depending on the whims and needs of their creators. Noted here are some of the most common variations found among these elusive and deadly plant creatures, along with the differences in their pricing and costs for the purposes of creating them.
+Brambles (CR +1) These living topiaries are made out of plants with deadly thorns. Those with this ability deal 1d8 points of piercing damage with their attacks (rather than 1d6 bludgeoning). Price +3,500 gp, Cost +1,750 gp. Extra Limbs (CR +1) A living topiary is sometimes created with a shape that has more than two limbs. Topiaries with this trait have four slam attacks rather than two. Price +5,000 gp, Cost +2,500 gp. Flame Retardant (CR +0) Formed out of plants with relatively few leaves or from woods that are especially difficult to burn, or treated with oils that resist fire, living topiaries with this ability are not vulnerable to fire. Price +2,000 gp, Cost +1,000 gp. Innocuous (CR +0) Pruned into the shape of ornate trees, elegant pillars, fanciful castles, or other similarly decorative plant or architectural shapes, these living topiaries gain a +6 racial bonus on Stealth checks and a +12 bonus when attempting to blend in as simple undergrowth. Price +2,500 gp, Cost +1,250 gp. Poisonous (CR +1) Living topiaries with this ability are created from naturally poisonous plants and then treated to enhance their deadly nature. Attacks from these topiaries are poisoned with terinav root (DC 16). Price +3,500 gp, Cost +1,750 gp.

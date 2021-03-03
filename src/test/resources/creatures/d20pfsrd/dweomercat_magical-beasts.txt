@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/dweomercat
+Dweomercat CR 7
+XP 3,200
+CN Medium magical beast
+Init +10; Senses darkvision 60 ft., scent; Perception +16
+DEFENSE
+AC 23, touch 17, flat-footed 16 (+6 Dex, +1 dodge, +6 natural)
+hp 85 (10d10+30)
+Fort +10, Ref +13, Will +6
+DR 5/magic; SR 19
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +16 (1d4+2), bite +16 (1d6+2)
+Special Attacks dweomer leap, pounce, rake (2 claws +11, 1d4+2)
+Spell-Like Abilities (CL 10th)
+Constant—detect magic
+At will—lesser globe of invulnerability, dispel magic
+3/day—dimension door (self only), antimagic field
+STATISTICS
+Str 15, Dex 23, Con 16, Int 13, Wis 16, Cha 16
+Base Atk +10; CMB +12; CMD 29 (33 vs. trip)
+Feats Dodge, Improved Initiative, Mobility, Spring Attack, Weapon Finesse
+Skills Climb +6, Knowledge (arcana) +11, Perception +16, Stealth +19; Racial Modifiers +4 Climb
+Languages Common, Sylvan
+SQ spell link
+SPECIAL ABILITIES
+Dweomer Leap (Su) When a dweomercat is targeted by a spell or within the area of effect of a spell, it can, as an immediate action, choose to teleport to a square adjacent to the spell’s caster, effectively appearing mid-leap and aimed toward the caster. This ability takes effect regardless of whether or not the spell overcomes the dweomercat’s spell resistance. If it chooses, the dweomercat can immediately make a full attack against the spell’s caster as though pouncing. Using this ability does not provoke an attack of opportunity. If there is no safe space adjacent to the caster—or if the dweomercat chooses—the dweomercat can forgo using this ability.
+Spell Link (Su) When a dweomercat is targeted by a spell or within the area of effect of a spell, it can, as a immediate action, forgo its dweomer leap ability to gain an effect related to the school of the spell targeting it. This effect activates before the dweomercat is affected by the spell targeting it and regardless of whether or not the spell overcomes its spell resistance. Each power lasts for 1 minute per level of the spell targeting the dweomercat, until the dweomercat uses this ability again, or until the dweomercat chooses to dismiss the effect as a free action, whichever duration is shortest. This ability does not prevent the spell affecting the dweomercat from taking effect; it only provides an additional benefit.
+Abjuration: Gains acid, cold, fire, electricity, or sonic resistance equal to 2 per spell level. Conjuration: Gains a deflection bonus to AC equal to +1 for every 5 levels of the spell. Divination: Gains the effects of detect chaos/evil/good/law. Enchantment: Grants the effects of the spell heroism. Evocation: Inflicts an amount of damage equal to the spell’s level upon the spell’s caster. Illusion: Grants the effects of invisibility. This effect ends as per the spell. Necromancy: Gains the effects of false life, as if cast by the opposing spell’s caster. Transmutation: Gains an enhancement bonus on its natural weapons equal to +1 for every 5 levels of the spell.

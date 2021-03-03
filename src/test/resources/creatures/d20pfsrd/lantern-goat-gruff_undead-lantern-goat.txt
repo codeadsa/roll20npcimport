@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/lantern-goat/lantern-goat-gruff
+Gruff Lantern Goat CR 9
+XP 6,400
+CE Large undead
+Init +7; Senses darkvision 60 ft., lifesense 60 ft.; Perception +19
+DEFENSE
+AC 19, touch 13, flat-footed 15 (+3 Dex, +1 dodge, +6 natural, -1 size)
+hp 136 (16d8+48 plus 16)
+Fort +10, Ref +8, Will +12
+Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee head butt +17 (2d6+5), 2 hooves +17 (1d6+5)
+Special Attacks fear light (DC 21), soul capture (DC 21)
+STATISTICS
+Str 21, Dex 16, Con –, Int 6, Wis 10, Cha 17
+Base Atk +12; CMB +18; CMD 32 (36 vs. trip)
+Feats Alertness, Dodge, Great Fortitude, Improved Initiative, Improved Natural Attack (bite), Iron Will, Toughness, Weapon Finesse
+Skills Acrobatics +11, Perception +19, Sense Motive +2, Stealth +14
+SPECIAL ABILITIES
+Fear Light (Su) A gruff lantern goat can emit an ugly yellow light from the lantern around its neck as a free action. All creatures within 60 feet that view this light must succeed on a DC 21 Will save or be panicked for 1d4+4 rounds. A creature that succeeds on its save is immune to the fear light of that lantern goat for one day. The save DC is Charisma-based.
+Lifesense (Su) A gruff lantern goat notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability. It also senses the strength of their life force automatically, as if it had cast deathwatch.
+Soul Capture (Su) Any living creature reduced to below 0 hit points while within 60 feet of a gruff lantern goat must succeed on a DC 21 Will save or have its soul drawn into the lantern goat’s lantern. The DC increases by +1 for every hit point the character is below 0 (e.g., a character at -3 hit points must save at DC 24). Once captured, the lantern goat slowly digests the creature’s soul over a period of 1 hour, using it to fuel its dark energies. A creature slain in this manner can only be returned to life by a resurrection, true resurrection, wish, or miracle. Raise dead has no effect on such a slain creature. If the lantern goat is slain and the lantern destroyed, the soul is released back to the body if still living. The lantern cannot be destroyed or removed until the lantern goat is destroyed. The save DC is Charisma-based.
+Base Creature
+Lantern Goat

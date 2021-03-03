@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-silver/ancient-silver-dragon
+Ancient Silver Dragon CR 19
+XP 204,800
+LG Gargantuan dragon (cold)
+Init +3; Senses dragon senses, fog vision; Perception +35; Aura cold, frightful presence (300 ft., DC 29)
+DEFENSES AC 38, touch 5, flat-footed 38; (–1 Dex, +33 natural, –4 size)
+hp 337 (25d12+175)
+Fort +21, Ref +15, Will +23
+Defensive Abilities reflective scales; DR 15/magic; Immune acid, cold, paralysis, sleep; SR 30
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 40 ft., fly 250 ft. (poor); cloudwalking, graceful flight
+Melee bite +34 (4d6+18/19–20), 2 claws +33 (2d8+12), 2 wings +31 (2d6+6), tail slap +31 (2d8+18)
+Space 20 ft.;Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (60-ft. cone, DC 29, 20d8 cold), crush (medium, DC 29, 4d6+18), paralyzing breath, tail sweep (30 ft. half-circle, small, DC 29 half, 2d6+18)
+Spell-Like Abilities (CL 25th; concentration +32)
+At will— control weather, control winds, detect evil, feather fall, fog cloud
+Spells Known (CL 15th; concentration +22)
+7th (5/day)— holy word (DC 24), repulsion (DC 24)
+6th (7/day)— banishment (DC 23), greater dispel magic, heal
+5th (7/day)— break enchantment, flame strike (DC 22) , plane shift, wall of force
+4th (7/day)— dimension door, freedom of movement, restoration, solid fog
+3rd (7/day)— cure serious wounds, dispel magic, hold person (DC 20), wind wall
+2nd (8/day)— augury, calm emotions (DC 19), cure moderate wounds, invisibility, web
+1st (8/day)— bless, divine favor, protection from evil, shield, true strike
+0 (at will)— detect magic, flare (DC 17), light, message, prestidigitation, read magic, stabilize, resistance, virtue
+STATISTICS
+Str 35, Dex 8, Con 25, Int 24, Wis 25, Cha 24
+Base Atk +25; CMB +41; CMD 50 (54 vs. trip)
+Feats Critical Focus, Flyby Attack, Hover, Improved Critical (bite), Improved Initiative, Iron Will, Lighting Reflexes, Multiattack, Power Attack, Quicken Spell, Skill Focus (Fly), Vital Strike, Weapon Focus (bite)
+Skills Acrobatics +24, Diplomacy +35, Fly +21, Heal +35, Intimidate +35, Knowledge (arcana) +35, Knowledge (history) +35, Knowledge (local) +35, Knowledge (nobility) +35, Knowledge (planes) +35, Perception +35, Sense Motive +35, Spellcraft +35
+Languages Auran, Common, Draconic, Dwarven, Elven, Halfling, Giant, Terran

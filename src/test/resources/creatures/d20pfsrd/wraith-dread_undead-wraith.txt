@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/wraith/wraith-dread
+Dread Wraith CR 13
+XP 25,600
+LE Large undead (incorporeal)
+Init +13; Senses darkvision 60 ft., lifesense 60 ft.; Perception +28; Aura unnatural aura (30 ft.)
+DEFENSE
+AC 26, touch 26, flat-footed 16 (+7 deflection, +9 Dex, +1 dodge, –1 size)
+hp 184 each (16d8+112)
+Fort +12, Ref +14, Will +15
+Defensive Abilities channel resistance +4; incorporeal; Immune undead traits
+Weaknesses sunlight powerlessness
+OFFENSE
+Speed fly 60 ft. (good)
+Melee incorporeal touch +20 (3d6 negative energy plus 1d8 Con drain [Fort DC 23])
+Space 10 ft.; Reach 10 ft.
+Special Attacks create spawn
+STATISTICS
+Str —, Dex 28, Con —, Int 14, Wis 20, Cha 25
+Base Atk +12; CMB +22; CMD 40
+Feats Alertness, Blind-Fight, Combat Reflexes, Dodge, Improved Initiative, Improved Natural Attack (incorporeal touch), Mobility, Spring Attack
+Skills Diplomacy +18, Fly +24, Intimidate +26, Knowledge (planes) +13, Perception +28, Sense Motive +28, Stealth +24
+Languages Common, Infernal, Skald

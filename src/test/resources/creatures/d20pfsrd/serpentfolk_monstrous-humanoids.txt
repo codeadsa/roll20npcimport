@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/serpentfolk
+Serpentfolk CR 4
+XP 1,200
+NE Medium monstrous humanoid
+Init +9; Senses darkvision 60 ft., scent; Perception +10
+DEFENSE
+AC 18, touch 15, flat-footed 13 (+5 Dex, +3 natural)
+hp 42 (5d10+15)
+Fort +6, Ref +9, Will +6
+Immune mind-affecting effects, paralysis, poison; SR 15
+OFFENSE
+Speed 30 ft.
+Melee mwk dagger +11 (1d4–1/19–20), bite +5 (1d6–1 plus poison)
+Spell-Like Abilities (CL 4th; concentration +7)
+At will—disguise self (humanoid form only, DC 14), ventriloquism
+1/day—blur, mirror image, suggestion (DC 16)
+STATISTICS
+Str 8, Dex 21, Con 17, Int 18, Wis 15, Cha 16
+Base Atk +5; CMB +4; CMD 19
+Feats Great Fortitude, Improved Initiative, Weapon Finesse
+Skills Acrobatics +10, Disguise +8, Escape Artist +18, Knowledge (arcana) +9, Perception +10, Sense Motive +7, Spellcraft +9, Use Magic Device +12; Racial Modifiers +4 Use Magic Device, +8 Escape Artist
+Languages Aklo, Common, Draconic, Undercommon; telepathy 100 ft.
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Str; cure 2 saves.
+The save DC is Constitution-based.

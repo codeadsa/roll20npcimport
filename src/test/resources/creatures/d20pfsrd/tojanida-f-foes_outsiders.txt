@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/tojanida-f-foes
+Tojanida CR 5
+XP 1,600
+N Medium outsider (extraplanar, water)
+Init +1; Senses all-around vision, darkvision 60 ft.; Perception +18
+DEFENSE
+AC 22, touch 11, flat-footed 21 (+1 Dex, +11 natural)
+hp 52 (7d10+14)
+Fort +4, Ref +6, Will +6
+Immune acid, cold; Resist electricity 10, fire 10
+OFFENSE
+Speed 10 ft., swim 90 ft.
+Melee bite +10 (1d8+3 plus grab), 2 claws +10 (1d6+3 plus grab)
+Special Attacks ink cloud
+TACTICS
+Underwater, a tojanida can tow a grabbed victim of its own size or smaller at its swim speed (but it cannot run). A favorite tactic is to grab a single opponent, then withdraw, hauling the opponent away from its allies. They have also been known to grab drowning creatures and take them to safety.
+STATISTICS
+Str 16, Dex 13, Con 15, Int 10, Wis 12, Cha 9
+Base Atk +7; CMB +10 (+14 grapple); CMD 21 (25 vs. trip)
+Feats Endurance, Improved Natural Attack (bite), Skill Focus (Perception), Swim-By Attack
+Skills Diplomacy +9, Knowledge (planes) +10, Perception +18, Sense Motive +11, Stealth +11, Swim +21
+Languages Aquan, Common
+SPECIAL ABILITIES
+Ink Cloud (Ex) A tojanida can emit a 30-ft. radius cloud of ink once per minute as a free action. This cloud provides total concealment. The ink persists for one minute. On land, the tojanida can spray ink at an opponent to blind them for five rounds. A DC 15 Reflex save negates this effect. The save DC is Constitution-based.

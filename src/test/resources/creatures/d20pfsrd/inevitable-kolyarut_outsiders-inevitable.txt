@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-kolyarut
+Kolyarut CR 12
+XP 19,200
+LN Medium outsider (extraplanar, inevitable, lawful)
+Init +8; Senses darkvision 60 ft., low-light vision; Perception +22
+DEFENSE
+AC 26, touch 14, flat-footed 22 (+4 Dex, +12 natural)
+hp 158 (12d10+92); regeneration 5 (chaotic)
+Fort +14, Ref +10, Will +11
+Defensive Abilities constructed; DR 10/chaotic; SR 23
+OFFENSE
+Speed 30 ft.
+Melee +2 bastard sword +20/+15/+10 (1d10+8/19–20), slam +13 (2d6+3) or 2 slams +18 (2d6+6)
+Spell-Like Abilities (CL 12th; concentration +15)
+At will—discern lies (DC 17), disguise self, enervation, fear (DC 17), hold person (DC 16), invisibility (self only), locate creature, suggestion (DC 16), vampiric touch
+3/day—hold monster (DC 18), mark of justice, quickened suggestion (DC 16)
+1/week—geas/quest
+STATISTICS
+Str 22, Dex 19, Con 23, Int 10, Wis 17, Cha 16
+Base Atk +12; CMB +18; CMD 32
+Feats Alertness, Combat Casting, Combat Reflexes, Improved Initiative, Lightning Reflexes, Quicken Spell-Like Ability (suggestion)
+Skills Diplomacy +22, Disguise +22, Knowledge (planes) +15, Perception +22, Sense Motive +22, Survival +18; Racial modifiers +4 Diplomacy, +4 Disguise
+Languages truespeech
+
+

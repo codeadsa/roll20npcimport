@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/urchin/sea-urchin-glass
+Glass Urchin CR 9
+XP 6,400
+N Huge vermin (aquatic)
+Init –4; Senses all-around vision, low-light vision, scent, tremorsense 30 ft.; Perception +6
+DEFENSE
+AC 22, touch 4, flat-footed 22 (–4 Dex, +18 natural, –2 size)
+hp 126 (12d8+72)
+Fort +14, Ref +0, Will +6
+Defensive Abilities stability, transparency; Immune mindaffecting effects
+OFFENSE
+Speed 5 ft.
+Melee 3 spines +17 (1d8+10 plus poison)
+Space 15 ft.; Reach 15 ft.
+Special Attacks poison spray, spines
+STATISTICS
+Str 31, Dex 3, Con 22, Int —, Wis 15, Cha 2
+Base Atk +9; CMB +21; CMD 27 (35 vs. bull rush or trip)
+Skills Perception +6; Racial Modifiers +4 Perception
+SQ amphibious
+SPECIAL ABILITIES
+Poison (Ex) Glass urchin venom causes the senses to become clouded and creates vivid hallucinations and confusion in the victim’s mind. The save DC is Constitution-based.
+Spines—contact or injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d4 Wis and confused for 1 round; cure 2 consecutive saves.
+Poison Spray (Ex) As a standard action, once every 5 rounds, a spear urchin can spray poison from numerous smaller spines across its body. This poison fills a 20-foot-radius spread around the urchin—all creatures within this area are exposed to the urchin’s venom and must make Fortitude saves as detailed above to resist Wisdom damage and confusion. This attack is even more effective underwater, as the poison spray creates a cloud that lingers in the area around the urchin for 5 rounds—creatures must save each round they begin a turn in the area of the poison cloud in addition to when the urchin creates the effect.
+Spines (Ex) A glass urchin’s spines can swivel and rotate to face any approaching creature that attacks it. Any creature that attacks a glass urchin with an unarmed strike or a natural attack, or any Huge or smaller creature that attacks with a one-handed weapon or light weapon, is automatically attacked by the glass urchin’s spines as an immediate action. If the spines hit, they can poison the target as well.
+Transparency (Ex) A glass urchin’s spines and body are transparent when underwater, granting the creature concealment and a constant 20% miss chance.

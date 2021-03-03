@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/belker
+Belker CR 6
+XP 2,400
+NE Large outsider (air, elemental, evil)
+Init +5; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 20, touch 14, flat-footed 15 (+5 Dex, +6 natural, –1 size)
+hp 68 (8d10+24)
+Fort +9, Ref +11, Will +2
+DR 5/—
+OFFENSE
+Speed 30 ft., fly 50 ft. (perfect)
+Melee bite +12 (1d6+2), 2 claws +12 (1d6+2), 2 wings +10 (1d6+1)
+Space 10 ft.; Reach 10 ft.
+Special Attacks smoke claws
+STATISTICS
+Str 14, Dex 21, Con 17, Int 6, Wis 11, Cha 10
+Base Atk +8; CMB +11; CMD 26 (can’t be tripped)
+Feats Combat Reflexes, Flyby Attack, Multiattack, Weapon Finesse
+Skills Acrobatics +16, Fly +22, Perception +11, Stealth +16; Racial Modifiers +4 Stealth
+Languages Auran
+SQ smoke form
+SPECIAL ABILITIES
+Smoke Claws (Ex) A belker using its smoke form ability can enter a target’s square as a standard action that does not provoke attacks of opportunity. The target must make a DC 17 Fortitude save or inhale part of the creature. Smoke inside the victim solidifies into a claw and attacks the target from within, dealing 3d4 points of damage per round as a swift action. If the target moves, the belker may automatically move with the target (this movement does not count toward the belker’s movement and does not provoke attacks of opportunity against the belker). Each round, the target can attempt another DC 17 Fortitude to cough out the belker’s smoke, which ends the smoke claws attack and forces the belker into an adjacent square. Creatures that do not need to breathe are immune to this attack. The save DC is Constitution-based.
+Smoke Form (Su) A belker can switch from its normal form to one of pure smoke or back again a swift action. It can spend up to 20 rounds per day in smoke form. In smoke form, the belker acts as if under the effects of a gaseous form spell, except that it retains its natural fly speed of 50 feet (perfect).

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-pit
+Pit Hag CR 13
+XP 25, 600
+CE Medium monstrous humanoid (chaotic, evil, extraplanar)
+Init +9; Senses darkvision 60 ft.; Perception +27; Aura aura of affliction (30 ft.)
+DEFENSE
+AC 28, touch 16, flat-footed 22 (+5 Dex, +1 dodge, +12 natural)
+hp 171 (18d10+72)
+Fort +12, Ref +16, Will +17
+DR 10/cold iron; Immune fire, poison; SR 24
+OFFENSE
+Speed 40 ft.
+Melee pitchfork +23 (2d6+7) or 2 claws +23 (1d8+5)
+Special Attacks rend (2 claws, 1d8+5)
+Spells Known (CL 11th):
+5th (4/day)—cone of cold (DC 20), waves of fatigue
+4th (7/day)—bestow curse (DC 19), crushing despair (DC 18), enervation
+3rd (7/day)—fireball (DC 18), lightning bolt (DC 18), ray of exhaustion (DC 18), vampiric touch
+2nd (7/day)—blur, command undead (DC 17), acid arrow, scorching ray, web (DC 16)
+1st (7/day)—burning hands (DC 16), charm person (DC 15), grease (DC 15), magic missile, ray of enfeeblement
+0 (at will)—acid splash, daze (DC 14), detect magic, flare (DC 15), ghost sound (DC 14), light, mage hand, ray of frost, read magic
+STATISTICS
+Str 20, Dex 20, Con 19, Int 16, Wis 18, Cha 19
+Base Atk +18; CMB +23; CMD 38
+Feats Alertness, Dodge, Combat Casting, Great Fortitude, Improved Initiative, Iron Will, Quicken Spell, Spell Focus (evocation), Spell Focus (necromancy)
+Skills Bluff +20, Diplomacy +12, Intimidate +25, Knowledge (arcana) +19, Knowledge (planes) +19, Perception +30, Spellcraft +21, Stealth +26
+Languages Celestial, Common, Infernal
+SPECIAL ABILITIES
+Aura of Affliction (Su) Three times per day for up to 1 round per Hit Dice the pit hag possesses, she can emit an aura in a 30-foot radius as a free action. Creatures within or coming within the area must succeed on a DC 23 Fortitude save or contract devil chills.
+Devil Chills: Aura–affliction; save Fort DC 23; onset immediate; frequency 1/day; effect 1d4 Str damage; cure 3 consecutive saves. The save DC is Constitution-based.
+Spells A pit hag casts arcane spells as an 11th-level sorcerer. It favors evocation and necromancy spells.

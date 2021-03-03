@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-tohc/clockwork-drone
+Clockwork Drone CR 1/6
+XP 65
+N Tiny construct
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +2
+DEFENSE
+AC 16, touch 16, flat-footed 12 (+4 Dex, +2 size)
+hp 5 (1d10)
+Fort +0; Ref +4; Will +2
+Immune construct traits
+OFFENSE
+Speed 20 ft., fly 60 ft. (perfect)
+Melee slam +0 (1d3-3)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 5, Dex 18, Con —, Int —, Wis 14, Cha 6
+Base Atk +1; CMB +3; CMD 10 (can’t be tripped)
+Skills Fly +16
+SPECIAL ABILITIES
+Fly (Su) A clockwork drone can cease or resume its flight as a free action.

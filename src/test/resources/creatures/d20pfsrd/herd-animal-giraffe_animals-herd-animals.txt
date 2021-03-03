@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/herd-animal-giraffe
+Giraffe CR 3
+XP 800
+N Huge animal
+Init +2; Senses low-light vision; Perception +8
+DEFENSE
+AC 16, touch 10, flat-footed 14 (+2 Dex, +6 natural, –2 size)
+hp 30 (4d8+12)
+Fort +7, Ref +6, Will +2
+OFFENSE
+Speed 50 ft.
+Melee 2 hooves +6 (1d8+5), slam +1 (1d8+2)
+Space 15 ft.; Reach 10 ft.
+STATISTICS
+Str 20, Dex 15, Con 16, Int 2, Wis 13, Cha 7
+Base Atk +3; CMB +10; CMD 22 (26 vs. trip)
+Feats Endurance, Run
+Skills Perception +8
+SPECIAL ABILITIES
+Natural Weapons (Ex) A giraffe’s hoof attacks are primary attacks and its slam attack is a secondary attack.

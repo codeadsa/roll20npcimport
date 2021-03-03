@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/jelly-whip
+Whip Jelly CR 2
+XP 600
+N Medium ooze
+Init +0; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 14, touch 10, flat-footed 14 (+4 natural)
+hp 22 (3d8+9)
+Fort +4, Ref +1, Will -4
+Immune ooze traits
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee 4 tendrils +2 (1d4 plus 1d4 acid)
+Space 5 ft.; Reach 10 ft.
+Special Attacks acid
+STATISTICS
+Str 11, Dex 10, Con 17, Int –, Wis 1, Cha 1
+Base Atk +2; CMB +2; CMD 12 (can’t be tripped)
+Skills Climb +8
+SPECIAL ABILITIES
+Acid (Ex) A whip jelly secretes a deadly acid that quickly dissolves organic matter but does not harm metal or stone. Any melee hit deals acid damage. Non-metal armor or clothing dissolves and becomes useless immediately unless it succeeds on a DC 14 Reflex save. A wooden weapon that strikes a whip jelly dissolves immediately unless it succeeds on a DC 14 Reflex save. The save DCs are Constitution-based.

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/shark/shark-helicoprion
+Helicoprion Shark CR 6
+XP 2,400
+N Large animal (aquatic)
+Init +8; Senses blindsense 30 ft., keen scent; Perception +12
+DEFENSE
+AC 19, touch 13, flat-footed 15 (+4 Dex, +6 natural, –1 size)
+hp 68 (8d8+32)
+Fort +12, Ref +12, Will +3
+OFFENSE
+Speed swim 60 ft.
+Melee bite +12 (1d8+10 plus 1d4 bleed)
+Space 10 ft.; Reach 5 ft.
+Special Attacks bleed (1d4), whorled jaw
+STATISTICS
+Str 25, Dex 18, Con 19, Int 3, Wis 12, Cha 4
+Base Atk +6; CMB +14 (+18 grapple); CMD 28
+Feats Endurance, Great Fortitude, Improved Initiative, Lightning Reflexes
+Skills Perception +12, Swim +15
+SPECIAL ABILITIES
+Whorled Jaw (Ex) When a helicoprion hits a Medium or smaller creature with its bite it can, as a free action, attempt to grapple and then pin that creature should the initial grapple be successful. Once the target is pinned, the helicoprion continues to do its bite damage (including bleed) for as long as it maintains the pin.

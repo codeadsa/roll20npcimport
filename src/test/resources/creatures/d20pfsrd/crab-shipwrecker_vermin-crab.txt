@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/crab-shipwrecker
+Shipwrecker Crab CR 13
+XP 25,600
+N Colossal vermin (aquatic)
+Init +3; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 27, touch 5, flat-footed 24 (+3 Dex, +22 natural, -8 size)
+hp 189 (14d8+126)
+Fort +18, Ref +7, Will +6
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee 2 claws +16 (2d8+21 plus grab)
+Space 30 ft.; Reach 30 ft.
+Special Attacks constrict (2d8+21)
+STATISTICS
+Str 38, Dex 16, Con 28, Int —, Wis 14, Cha 5
+Base Atk +10; CMB +32 (+36 grapple); CMD 45 (61 vs. trip)
+Skills Perception +10, Swim +22
+SQ powerful claws
+SPECIAL ABILITIES
+Powerful Claws (Ex) A shipwrecker crab’s claw attacks deal damage equal to 1-1/2 times its Strength modifier. In addition, a shipwrecker crab ignores up to 5 points of hardness when damaging objects.

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/beheaded/severed-head/severed-head-belching
+Belching Severed Head
+CR 1/2
+XP 200
+NE Tiny undead
+Init +2; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 4 (1d8)
+Fort +0, Ref +2, Will +2
+Immune undead traits
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee slam +1 (1d2)
+Ranged (ranged touch) belch +3 (1d6 [acid, cold, electricity or fire])
+Special Attacks belching
+STATISTICS
+Str 11, Dex 15, Con –, Int –, Wis 11, Cha 10
+Base Atk +0; CMB -1; CMD 11 (can’t trip)
+SPECIAL ABILITIES
+Belching (Ex) A belching beheaded gains the ability to spew raw energy from its mouth, giving it a ranged touch attack that does 1d6 damage of a specific type (acid, cold, electric, or fire) chosen at the time of the beheaded’s animation

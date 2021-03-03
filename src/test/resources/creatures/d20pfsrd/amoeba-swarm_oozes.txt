@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/amoeba-swarm
+Amoeba Swarm CR 1
+XP 400
+N Fine ooze (swarm)
+Init –5; Senses blindsight 30 ft.; Perception –5
+DEFENSE
+AC 13, touch 13, flat-footed 13 (–5 Dex, +8 size)
+hp 9 (2d8)
+Fort +0, Ref –5, Will –5
+Defensive Abilities ooze and swarm traits; Immune weapon damage
+OFFENSE
+Speed 10 ft., climb 10 ft., swim 20 ft.
+Melee swarm (1d6 acid plus distraction)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 11)
+STATISTICS
+Str 1, Dex 1, Con 10, Int —, Wis 1, Cha 1
+Base Atk +1; CMB —; CMD —
+Skills Climb +3, Swim +3; Racial Modifiers +8 Climb, +8 Swim
+SQ amphibious

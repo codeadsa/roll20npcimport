@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/contemplative/contemplative-enlightened
+Enlightened Contemplative CR 5
+XP 1,600
+N Medium monstrous humanoid
+Init +5; Senses blindsight 30 ft., darkvision 60 ft., thoughtsense 60 ft.; Perception +17
+DEFENSE
+AC 16, touch 16, flat-footed 15 (+5 deflection, +1 Dex)
+hp 40 (9d10–9)
+Fort +4, Ref +7, Will +9, +4 vs. mind-affecting effects
+Defensive Abilities psychic buffer
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee 2 claws +9 (1d4) or touch +4 (phrenic disruption)
+Special Attacks phrenic disruption (DC 19)
+Spell-Like Abilities (CL 9th; concentration +14)
+Constant—mage hand, thought shield I, thoughtsense, tongues
+At will—detect thoughts (DC 17)
+Psychic Magic (CL 9th; concentration +14)
+12 PE—detect magic (0 PE), hypercognition (2 PE), instigate psychic duel (2 PE, DC 17), mind thrust II (2 PE, DC 17), mindlink (1 PE), mindscape door (3 PE, DC 18), psychic asylum (5 PE), synaptic pulse (3 PE, DC 18), thought shield III (4 PE)
+STATISTICS
+Str 10, Dex 12, Con 9, Int 26, Wis 17, Cha 21
+Base Atk +9; CMB +9; CMD 25
+Feats Alertness, Combat Casting, Flyby Attack, Great Fortitude, Improved Initiative
+Skills Bluff +14, Diplomacy +14, Fly +21, Knowledge (arcana, geography, history, planes) +17, Linguistics +17, Perception +17, Sense Motive +14, Spellcraft +17, Stealth +13
+Languages telepathy 300 ft.; tongues
+SQ thought form
+SPECIAL ABILITIES
+Phrenic Disruption (Su) An enlightened contemplative using its thought form ability can disrupt the thoughts of a creature as an incorporeal touch attack. The target must succeed at a DC 19 Will saving throw or be staggered for 1d4 rounds; multiple touches reset the duration but do not stack. At the start of a turn in which it is staggered by this ability, a creature must succeed at a second Will saving throw or take 1 point of Intelligence damage. This is a mind-affecting effect. The save DC is Charisma-based.
+Psychic Buffer (Su) An enlightened contemplative generates a field of mental interference that absorbs hostile attacks. Whenever the enlightened contemplative would take hit point damage from a mind-affecting effect, it reduces the damage taken by 5.
+In addition, it adds its Charisma modifier as a deflection bonus to its Armor Class.
+Thought Form (Su) As a move action, an enlightened contemplative can transform into a translucent figure of pure thought, during which time it is incorporeal and can use its phrenic disruption ability. It can remain in this form for a number of rounds per day equal to its Hit Dice (typically 9 rounds). If the effect ends while the enlightened contemplative is in a space it could not otherwise occupy, it takes 3d6 points of damage and is shunted to the nearest open space it could occupy.

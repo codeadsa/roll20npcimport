@@ -1,0 +1,42 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-bronze/bronze-dragon-great-wyrm
+Bronze Dragon, Great Wyrm CR 21
+XP 409,600
+LG Colossal dragon (water)
+Init +2; Senses dragon senses; Perception +43; Aura electricity aura (10 ft., 2d6 electricity), frightful presence (360 ft., DC 32)
+DEFENSE
+AC 38, touch 0, flat-footed 38 (-2 Dex, +38 natural, -8 size)
+hp 406 (28d12+224)
+Fort +24, Ref +16, Will +24
+DR 20/magic; Immune electricity, paralysis, sleep; SR 32
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy); swim 60 ft.
+Melee bite +34 (4d8+21/19–20), 2 claws +34 (4d6+14/19–20), tail slap +32 (4d6+21), 2 wings +32 (2d8+7)
+Space 30 ft.; Reach 20 ft. (30 ft. with bite)
+Special Attacks breath weapon (140-ft. line, DC 32, 24d6 electricity), crush (4d8+21, DC 32), repulsion breath, tail sweep (2d8+21, DC 32), tidal wave, vortex
+Spell-Like Abilities (CL 28th; concentration +36)
+At will— control water, control weather, create food and water, detect thoughts (DC 20), fog cloud, speak with animals
+Sorcerer Spells Known (CL 19th; concentration +27)
+9th (4/day)— freedom, tsunami
+8th (7/day)— antipathy, discern location, storm bolts
+7th (7/day)— mass fly, spell turning, statue
+6th (7/day)— greater dispel magic, mass suggestion (DC 24), mislead
+5th (7/day)— dismissal, interposing hand, mind fog, teleport
+4th (8/day)— dimension door, ice storm, solid fog, stoneskin
+3rd (8/day)— dispel magic, heroism, slow (DC 21), suggestion
+2nd (8/day)— blur, gust of wind, invisibility, mirror image, web
+1st (8/day)— alarm, mage armor, obscuring mist, shield, true strike
+0 (at will)— detect magic, detect poison, light, mage hand, mending, message, read magic, resistance, prestidigitation
+STATISTICS
+Str 39, Dex 6, Con 27, Int 26, Wis 27, Cha 26
+Base Atk +28; CMB +50; CMD 58 (62 vs. trip)
+Feats Alertness, Cleave, Flyby Attack, Great Cleave, Hover, Improved Critical (bite, claw), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Multiattack, Power Attack, Vital Strike, Wingover
+Skills Diplomacy +39, Fly +13, Handle Animal +36, Heal +39, Intimidate +39, Knowledge (arcana, geography, history, local) +39, Perception +43, Sense Motive +43, Spellcraft +39, Stealth +13, Swim +53; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic, Elven, Gnome, 4 more
+SQ change shape (animal or humanoid, polymorph), water breathing, wave mastery (120 min)
+SPECIAL ABILITIES
+Electricity Aura (Su) An old or older bronze dragon has an aura of electricity. All creatures within 5 feet take 1d6 points of electricity damage at the start of the dragon’s turn. An ancient dragon’s aura is 10 feet. A great wyrm’s damage increases to 2d6. A bronze dragon can suppress this aura at will.
+Repulsion Breath (Su) Instead of a line of electricity, a bronze dragon can breathe a cone of repulsion gas. Targets must make a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category. This is a mind-affecting compulsion effect.
+Tidal Wave (Su) A great wyrm bronze dragon can cause the sea to rise up and crush his enemies once per day as a standard action. This affects an area of coastline 120 feet in length and targets all creatures within 40 feet of the shore—treat the targets as if struck by an avalanche. Treat all creatures as if they were in the bury zone. The save DC to halve this damage is equal to the dragon’s breath weapon DC. Those who fail their saves take full damage and are drawn 60 feet off shore and deposited 20 feet under the surface on the round after the wave hits.
+Vortex (Ex) Once per day, an ancient or older bronze dragon can create a vortex as a standard action, just like an elder water elemental. A bronze dragon can maintain this vortex for 1 round per age category.
+Water Breathing (Ex) A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
+Wave Mastery (Su) For up to 10 minutes per age category per day, a juvenile bronze dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water.

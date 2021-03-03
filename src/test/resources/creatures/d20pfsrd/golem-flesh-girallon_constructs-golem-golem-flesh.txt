@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-flesh/golem-flesh-girallon
+Guardian of the Tower CR 8
+XP 4,800
+Variant advanced girallon flesh golem
+N Large construct
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +2
+DEFENSE
+AC 24, touch 10, flat-footed 23 (+1 Dex, +14 natural, –1 size)
+hp 79 (9d10+30)
+Fort +3, Ref +4, Will +5
+DR 5/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee 4 claws +15 (1d4+7 plus rend)
+Space 10 ft.; Reach 10 ft.
+Special Attacks berserk, rend (4 claws, 1d4+10)
+TACTICS
+During Combat The golem madly attacks anything that moves. It focuses all of its attacks on single opponents, tearing and rending with its claws.
+Morale The golem fights until destroyed.
+STATISTICS
+Str 24, Dex 13, Con —, Int —, Wis 15, Cha 5
+Base Atk +9; CMB +17; CMD 28
+Skills Climb +15
+Languages none

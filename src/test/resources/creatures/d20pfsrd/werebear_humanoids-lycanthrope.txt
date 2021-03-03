@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lycanthrope/werebear
+Werebear (Hybrid Form)*
+CR 4*
+
+XP 1,200
+Human natural werebear ranger 4
+LG Large humanoid (human, shapechanger)
+Init +2; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 23, touch 11, flat-footed 21 (+4 armor, +2 Dex, +8 natural, -1 size)
+hp 46 (4d10+20)
+Fort +6, Ref +6, Will +2
+DR 10/silver
+OFFENSE
+Speed 30 ft.
+Melee mwk battleaxe +10 (2d6+5/×3), bite +3 (1d8+2 plus curse of lycanthropy), claw +3 (1d6+2 plus grab)
+Ranged mwk throwing axe +7 (1d6+5)
+Space 10 ft.; Reach 10 ft.
+Special Attacks favored enemy (orcs +2)
+Ranger Spells Prepared (CL 1st; concentration +2)
+1st— detect poison STATISTICS
+Str 21, Dex 14, Con 19, Int 12, Wis 12, Cha 8
+Base Atk +4; CMB +8 (+12 grapple); CMD 20
+Feats Endurance, Point-Blank Shot, Power Attack, Run, Weapon Focus (battleaxe)
+Skills Climb +9, Handle Animal +6, Heal +8, Knowledge (nature) +8, Perception +8, Stealth +3, Survival +8, Swim +10
+Languages Common
+SQ change shape (human, hybrid, and bear; polymorph), favored terrain (forest +2), hunter’s bond (companions), lycanthropic empathy (bears and dire bears), track +2
+

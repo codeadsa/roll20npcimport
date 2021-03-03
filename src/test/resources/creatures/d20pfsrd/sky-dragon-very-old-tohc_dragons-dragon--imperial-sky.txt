@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sky/sky-dragon-very-old-tohc
+Very Old Sky Dragon CR 17
+XP 102,400
+LG Gargantuan dragon (air)
+Init +3; Senses cloud sight, dragon senses; Perception +37; Aura frightful presence (270 ft., DC 27)
+DEFENSE
+AC 35, touch 5, flat-footed 35 (Dex -1, natural +30, size -4)
+hp 297 (22d12+154)
+Fort +19, Ref +14, Will +21
+DR 15/magic; Immune electricity, paralysis, sleep; SR 28
+OFFENSE
+Speed 40 ft., fly 250 ft. (perfect)
+Melee bite +30 (4d6+16/19-20), 2 claws +29 (2d8+11), gore +29 (2d8+16), tail slap +27 (2d8+16)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite and gore)
+Special Attacks breath weapon (60 ft. cone, 18d8 electricity, DC 27), crush (DC 27, 4d6+16), primal lightning, tail sweep (DC 27, 2d6+16)
+Spell-Like Abilities (CL 22th; concentration +28)
+At will—call lightning storm (DC 21), detect evil, feather fall, gust of wind (DC 18)
+Spells Known (CL 13th; concentration +19)
+6th (5/day)—acid fog, legend lore
+5th (7/day)—break enchantment, cloudkill (DC 21), teleport
+4th (7/day)—dimension door, greater invisibility, ice storm, rainbow pattern (DC 20)
+3rd (7/day)—blink, lightning bolt (DC 19), sleet storm (DC 19), wind wall
+2nd (8/day)—daze monster (DC 18), fog cloud, glitterdust (DC 18), invisibility, resist energy
+1st (8/day)—endure elements, expeditious retreat, magic missile, obscuring mist, shocking grasp
+0 (at will)—detect magic, disrupt undead, mage hand, mending, message, ray of frost, read magic
+STATISTICS
+Str 33, Dex 8, Con 23, Int 22, Wis 23, Cha 22
+Base Atk +22; CMB +37; CMD 46 (50 vs. trip)
+Feats Flyby Attack, Hover, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Lunge, Multiattack, Skill Focus (Perception), Toughness, Weapon Focus (bite)
+Skills Acrobatics +21, Diplomacy +31, Fly +26, Heal +31, Knowledge (arcana, geography, planes, religion) +31, Perception +37, Perform (sing) +28, Sense Motive +31, Spellcraft +31
+Languages Auran, Celestial, Common, Draconic, Elven, Infernal, Sylvan
+SQ borne aloft, change shape
+SPECIAL ABILITIES
+Borne Aloft (Su) Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.
+Change Shape (Su) A young or older sky dragon can assume any humanoid form three times per day as if using polymorph.
+Cloud Sight (Su) A very young or older sky dragon’s sight is not impeded by clouds or fog, or by spells that create areas of fog.
+Primal Lightning (Su) An old or older sky dragon’s breath weapon can affect creatures normally immune or resistant to electricity damage. A creature immune to electricity damage still takes half damage from the breath weapon (no damage with a successful saving throw). Resistant creatures’ electricity resistance is treated as 10 less than normal.
+Built by:
+gordon the whale

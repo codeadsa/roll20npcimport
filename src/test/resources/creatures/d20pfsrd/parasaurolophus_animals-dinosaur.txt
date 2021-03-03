@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/parasaurolophus
+Parasaurolophus CR 4
+XP 1,200
+N Huge animal
+Init +2; Senses low-light vision, scent; Perception +13
+DEFENSE
+AC 17, touch 10, flat-footed 15 (+2 Dex, +7 natural, –1 size)
+hp 45 (6d8+18)
+Fort +8, Ref +7, Will +3
+OFFENSE
+Speed 30 ft.
+Melee tail +8 (2d6+9)
+Space 15 ft.; Reach 15 ft.
+Special Attack trample (2d6+9; DC 19)
+STATISTICS
+Str 23, Dex 14, Con 17, Int 2, Wis 13, Cha 10
+Base Atk +4; CMB +12; CMD 24 (28 vs. trip)
+Feats Improved Bull Rush, Power Attack, Skill Focus (Perception)
+Skills Perception +13
+Parasaurolophus Companions
+
+Starting Statistics: Size Medium; Speed 30 ft.; AC +2 natural armor; Attack tail (1d6); Ability Scores Str 11, Dex 18, Con 9, Int 2, Wis 13, Cha 10; SQ low-light vision, scent.
+7th-level Advancement: Size Large; AC +2 natural armor; Attack tail (1d8); Ability Scores Str +8, Dex –2, Con +4; SQ trample (1d8).
+

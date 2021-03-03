@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/tear-of-burning-flame
+Tear of Burning Flame
+CR 6
+XP 2,400
+CN Small ooze (fire)
+Init –5; Senses blindsight 60 ft.; Perception –3
+DEFENSE
+AC 6, touch 6, flat-footed 6 (–5 Dex, +1 size)
+hp 62 (5d8+40)
+Fort +8, Ref –4, Will –2
+DR 5/—; Immune fire, ooze traits; SR 17
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 10 ft., climb 10 ft.
+Melee slam +7 (1d6+3 plus burn and grab)
+Ranged ranged touch –1 (by spell)
+Special Attacks burn (1d6, DC 19), constrict (1d6+3), symbiosis
+Spell-Like Abilities (CL 5th; concentration +0)
+At will—detect thoughts (DC 7), produce flame
+3/day—searing light
+STATISTICS
+Str 14, Dex 1, Con 24, Int 4, Wis 5, Cha 1
+Base Atk +3; CMB +4 (+8 grapple); CMD 9 (can’t be tripped)
+Feats Ability Focus (symbiosis), Toughness, Weapon Focus (slam)
+Skills Climb +12, Stealth +2
+Languages telepathy 100 ft.
+SPECIAL ABILITIES
+Symbiosis (Ex) As part of a constrict attack, a tear of burning flame can attempt to forcefully inhabit a humanoid victim’s body.
+A DC 21 Fortitude save resists this intrusion and renders immunity to that ooze’s symbiosis ability for 24 hours; failure means the ooze spends a full-round action inhabiting its new host. Once absorbed, the ooze grants incredible boons to willing hosts, or slowly incinerates unwilling victims.
+A willing host ceases aging, is sustained as if wearing a ring of sustenance, and becomes sterile. He or she also gains the fire subtype, spell resistance, and telepathic abilities of the tear of burning flame. A host can use the creature’s spell-like abilities, with save DCs calculated using the host’s Hit Dice and Charisma score, although daily limits of powers still apply. Damage dealt to the host body does not harm the ooze.
+Unwilling victims are granted no abilities, and are instead tortured with searing pain. Victims take automatic burn damage each round, and must succeed on a DC 21 Fortitude save or become nauseated for 1d4 rounds. While this occurs, the ooze may telepathically appeal to the host for control of the body to prevent further pain (treat control as magic jar, with no receptacle required). The ooze may vacate the body of a host as a full-round action, bursting forth in a protoplasmic expulsion, dealing double burn damage. A victim may attempt to expel the creature from his or her body as a full-round action with a DC 21 Fortitude save, but each attempt results in automatic burn damage from the ooze, and damage from the creature’s violent exit if successful (as if the ooze had left voluntarily). Remove curse expels the creature, if the caster succeeds on a DC 21 caster level check.
+The save DCs are Constitution-based.

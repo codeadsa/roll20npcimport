@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/bhuta
+Bhuta CR 11
+XP 12,800
+NE Medium undead (incorporeal)
+Init +7; Senses darkvision 60 ft., scent; Perception +13
+DEFENSE
+AC 24, touch 24, flat-footed 16 (+6 deflection, +7 Dex, +1 dodge)
+hp 147 (14d8+84)
+Fort +10, Ref +11, Will +10
+Defensive Abilities incorporeal, channel resistance +4; Immune undead traits
+Weaknesses cold iron
+OFFENSE
+Speed fly 30 ft. (perfect)
+Melee 2 incorporeal claws +17 (5d8 plus bleed)
+Special Attacks bleed (1d8), blood drain (1d6 Constitution)
+Spell-Like Abilities (CL 11th; concentration +17)
+At will—animal trance (DC 18), speak with animals, veil (self only, as animal with backward feet; DC 22)
+3/day—charm animal (DC 17)
+1/day—magic jar (animals only, DC 21)
+STATISTICS
+Str —, Dex 25, Con —, Int 11, Wis 8, Cha 22
+Base Atk +10; CMB +17; CMD 34
+Feats Animal Affinity, Dodge, Flyby Attack, Iron Will, Lunge, Mobility, Stealthy
+Skills Bluff +16, Escape Artist +9, Fly +15, Handle Animal +14, Knowledge (nature) +8, Perception +13, Ride +9, Sense Motive +13, Stealth +24
+Languages Common
+SPECIAL ABILITIES
+Blood Drain (Su) As a standard action, a bhuta can suck blood from an adjacent opponent that is taking bleed damage. The target takes 1d6 points of Constitution damage (Fort DC 23 for half). The bhuta heals 5 hit points when it drains blood.
+Cold Iron Weakness (Su) A cold iron weapon is considered to be magical when used against a bhuta. A magic cold iron weapon always functions as a ghost touch weapon when used against a bhuta.

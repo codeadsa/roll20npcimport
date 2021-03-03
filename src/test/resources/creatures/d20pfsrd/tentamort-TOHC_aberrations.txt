@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/tentamort-TOHC
+Tentamort CR 4
+XP 1,200
+N Medium aberration
+Init +5; Senses blindsight 30 ft.; Perception +0
+DEFENSE
+AC 19, touch 11, flat-footed 18 (+1 Dex, +8 natural)
+hp 22 (4d8+4)
+Fort +2, Ref +4, Will +4
+OFFENSE
+Speed 5 ft., climb 5 ft.
+Melee constricting tentacle +5 (1d4+2 plus grab), stinging tentacle +5 (1d4+2 plus grab plus paralysis)
+Space 5 ft.; Reach 5 ft. (10 ft. with tentacles)
+Special Attacks constrict (1d4+2, constricting tentacle only), liquefy organs (stinging tentacle only), paralysis
+STATISTICS
+Str 15, Dex 12, Con 12, Int 1, Wis 10, Cha 6
+Base Atk +3; CMB +5 (+9 grapple); CMD 16 (can’t be tripped)
+Feats Improved Initiative, Lightning Reflexes
+Skills Climb +14, Stealth +7
+SPECIAL ABILITIES
+Paralysis (Ex) The digestive fluid injected by a tentamort’s stinging tentacle is coupled with a paralytic poison as well that forces the victim to make a DC 13 Fortitude save or be paralyzed for one minute. Immunity to poison negates this effect.
+Liquefy Organs (Ex) A tentamort can insert the needle-like projection from its stinging tentacle into the body of a foe grappled by either tentacle. Doing so requires a successful melee attack, and the tentamort cannot insert the projection into a creature grappled with its constricting tentacle if its stinging tentacle is also grappling a foe. Once inserted, the tentamort injects a digestive liquid and a paralytic poison (see above) through the hollow barb that liquefies the victim’s internal organs; the tentamort draws this liquefied slurry back through the hollow needle into its own body to feed. This attack deals 1d4 points of Constitution damage each round the tube remains inserted in a foe.
+Once the needle is removed or the tentamort is killed, the foe continues to take 1 point of Constitution damage until it succeeds at a DC 13 Fortitude save. This Constitution damage can be halted by spells or effects that remove disease or heal ability score damage (including lesser restoration).

@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-gibrileth
+Gibrileth Demon
+CR 11
+XP 12,800
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +8; Senses darkvision 60 ft., scent; Perception +25
+DEFENSE
+AC 25, touch 13, flat-footed 21 (+4 Dex, +12 natural, –1 size)
+hp 137 (11d10+77)
+Fort +14, Ref +9, Will +10
+Defensive Abilities amorphous; DR 10/good; Immune acid, disease, electricity, poison; Resist cold 10, fire 10; SR 22
+OFFENSE
+Speed 10 ft., fly 40 ft. (good)
+Melee +1 scorpion whip +18/+13/+8 (1d6+8/18–20 plus disease), bite +12 (1d8+3 plus disease)
+Ranged tumor +14 (2d6 acid plus disease)
+Space 10 ft.; Reach 10 ft. (20 ft. with whip)
+Special Attacks disease, whip specialist
+Spell-Like Abilities (CL 13th; concentration +16)
+At will—contagion (DC 17), grease (DC 14), greater teleport (self plus 50 lbs. of objects only), unholy blight (DC 17)
+3/day—stinking cloud (DC 16)
+1/day—summon (level 4, 1 gibrileth 35%), waves of fatigue
+STATISTICS
+Str 24, Dex 19, Con 24, Int 13, Wis 16, Cha 17
+Base Atk +11; CMB +19 (+23 trip); CMD 35 (37 vs. trip)
+Feats Combat Expertise, Combat Reflexes, Greater Trip, Improved Initiative, Improved Trip, Lightning Reflexes
+Skills Fly +20, Knowledge (dungeoneering) +15, Knowledge (planes) +15, Perception +25, Sense Motive +17, Stealth +14, Survival +17; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SQ tumors
+SPECIAL ABILITIES
+Disease Any weapon a gibrileth wields becomes a vector for spreading the demonplague. A creature bitten by a gibrileth or damaged by a weapon it wields is exposed to this virulent disease. A successful DC 22 Fortitude save is needed to resist this creature’s particular strain of demonplague. The save DC is Constitution-based.
+Tumors (Su) As a swift action, a gibrileth can rip a grapefruit-sized tumor from its body with one of its many arms and throw it as a splash weapon with a range increment of 20 feet. A direct hit deals 2d6 points of acid damage, and deals 1d4 points of acid splash damage to all creatures within 5 feet of the target. A creature can avoid the splash damage with a successful DC 22 Reflex save. The save DC is Constitution-based.
+Whip Specialist (Ex) A gibrileth does not provoke attacks of opportunity when using a whip.

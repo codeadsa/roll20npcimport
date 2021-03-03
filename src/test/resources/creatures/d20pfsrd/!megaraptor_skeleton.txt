@@ -1,0 +1,26 @@
+Advanced Megaraptor SkeletonCR 3
+
+XP 800
+NE Large undead
+Init +10; Senses low-light vision, scent; Perception +10
+
+DEFENSE
+
+AC 17, touch 13, flat-footed 13 (+4 Dex, -1 size, +4 natural)
+hp 26 (4d8+8)
+Fort +1, Ref +7, Will +5
+DR 5/bludgeoning; Immune cold
+
+OFFENSE
+
+Speed 60 ft.
+Melee 2 talons +11 (2d6+8),bite +11 (1d8+8), foreclaws +6 (1d6+4)
+Special Attacks pounce
+
+STATISTICS
+
+Str 27, Dex 23, Con -, Int -, Wis 14, Cha 14
+Base Atk +3; CMB +10; CMD 26
+Feats Improved Initiative
+Skills Acrobatics +14 (+26 jump), Perception +10, Stealth +14
+Racial Modifiers +8 Acrobatics, +8 Perception, +8 Stealth

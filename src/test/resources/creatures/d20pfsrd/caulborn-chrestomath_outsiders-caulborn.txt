@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/caulborn/caulborn-chrestomath
+Chrestomath Caulborn CR 6
+XP 2,400
+N Medium outsider (extraplanar)
+Init +0; Senses blindsense 60 ft., thoughtsense; Perception +18
+DEFENSE AC 16, touch 12, flat-footed 16 (+6 deflection, –4 Dex, +4 natural)
+hp 95 (10d10+40)
+Fort +13, Ref –1, Will +14
+Defensive Abilities psychic deflection; Immune sensory effects; SR 17
+OFFENSE Speed fly 10 ft. (average)
+Special Attacks mind flood
+Spell-Like Abilities (CL 7th; concentration +12)
+Constant— detect magic, detect thoughts, tongues STATISTICS Str 2, Dex 2, Con 19, Int 25, Wis 21, Cha 22
+Base Atk +10; CMB +6; CMD 19
+Feats Ability Focus (mind flood), Great Fortitude, Improved Initiative, Improved Iron Will, Iron Will
+Skills Appraise +19, Fly +9, Knowledge (arcane, history, local, planes, religion) +32, Knowledge (dungeoneering, engineering, geography, nature, nobility) +29, Perception +18, Sense Motive +18, Spellcraft +19; Racial Modifiers +10 Knowledge (all)
+Languages Abyssal, Aklo, Celestial, Common, Draconic, Elven, Infernal, Undercommon, +1 additional; tongues; telepathy 1 mile.
+SQ advanced hive mind, cooperative scrying, psychic deflection, racial memory, thoughtsense
+SPECIAL ABILITIES
+Advanced Hive Mind (Ex) As long as there are at least two chrestomaths or caulborn within 300 feet of each other, if one creature in the group is aware of a particular danger, they all are. No creature in the group is considered flanked or flat-footed unless all of them are.
+Cooperative Scrying (Sp) Three or more caulborn or chrestomaths who maintain physical contact can scry on a place or creature as if using the scrying spell (DC 20), but with no limit to the spell’s duration so long as at least three of the participants involved continue to touch and concentrate. This ability functions at caster level 7th (or at the highest caster level available to the most powerful participant in the group). The save DC is Charisma-based, adjusted by the modifier of the participant with the highest Charisma score.
+Mind Flood (Su) A chrestomath can target any creature it detects with its thoughtsense ability with a deadly psychic attack, flooding the target creature’s head with so much obscure knowledge that it drives the target insane. Any creature affected by the mind blast must make a successful DC 19 Will save or take 1d6 points of Intelligence and Wisdom damage and be confused (as per the spell confusion) for 1d6 rounds. The save DC is Intelligence-based.
+Psychic Deflection (Su) A chrestomath adds its Charisma modifier as a deflection bonus to its AC. In addition, all caulborn (though not other chrestomaths) within 300 feet of a chrestomath gain half of this deflection bonus as well, with the effects stacking with those from other chrestomaths and the caulborn‘s own psychic deflection ability. These bonuses cease when the chrestomath is unconscious.
+Racial Memory (Ex) As a full-round action, any caulborn within 300 feet of a chrestomath may access the latter’s racial memory to gain half the chrestomath’s Knowledge skill bonus as a bonus on its own Knowledge check. In addition, the chrestomath instantly acquires any piece of information learned by any caulborn that comes within 300 feet of it. This information may then be shared by any other caulborn and chrestomaths with 300 feet.
+Thoughtsense (Su) A chrestomath notices and locates living, conscious creatures within 60 feet just as if it possessed the blindsight ability. Spells such as nondetection or mind blank make an affected creature undetectable by this sense.

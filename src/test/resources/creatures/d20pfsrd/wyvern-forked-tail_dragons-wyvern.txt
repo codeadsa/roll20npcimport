@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/wyvern/wyvern-forked-tail
+Forked-Tail Wyvern CR 8
+XP 4,800
+CN Large dragon
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +20
+DEFENSE
+AC 20, touch 10, flat-footed 19 (+1 Dex, +10 natural, –1 size)
+hp 103 (9d12+45)
+Fort +11, Ref +7, Will +9
+Immune dragon traits, magic paralysis and sleep; Resist acid 10, fire 10; SR 19
+OFFENSE
+Speed 20 ft., fly 60 ft. (poor), swim 40 ft.
+Melee bite +13 (2d6+5 plus grab), 2 stings +13 (1d6+5 plus poison), 2 wings +8 (1d6+2)
+Space 10 ft.; Reach 5 ft.
+Special Attacks breath weapon (30-ft. cone, 6d6 fire damage plus fumes, Reflex DC 19 half, usable every 1d4 rounds), rake (2 talons +16, 1d6+5)
+STATISTICS
+Str 21, Dex 12, Con 20, Int 9, Wis 12, Cha 11
+Base Atk +9; CMB +15 (+19 grapple); CMD 26
+Feats Combat Reflexes, Flyby Attack, Improved Initiative, Iron Will, Skill Focus (Perception)
+Skills Fly +7, Intimidate +12, Perception +20, Stealth +9, Swim +25; Racial Modifiers +4 Perception
+Languages Draconic
+SQ hold breath
+SPECIAL ABILITIES
+Breath Weapon (Su) Once every 1d4 rounds, a forked-tail wyvern can emit a cloud of noxious fire in a 30-foot cone that deals 6d6 points of fire damage. Creatures that take damage are also temporarily blinded by the fumes as though by glitterdust for 4 rounds. A DC 19 Reflex save halves the fire damage and negates the glitterdust effect. The save DC is Constitution-based.
+Poison (Ex) Sting—injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d4 Con; cure 2 consecutive saves.

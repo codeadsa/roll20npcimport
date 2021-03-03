@@ -1,0 +1,25 @@
+Owlbear SkeletonCR 2
+
+XP 600
+NE Large undead
+Init +6; Senses darkvision 60 ft., Perception +0
+
+DEFENSE
+
+AC 13, touch 11, flat-footed 11 (+2 Dex, +2 natural, -1 size)
+hp 20 (5d8)
+Fort +3, Ref +5, Will +4
+DR 5/bludgeoning Immune cold, undead traits
+
+OFFENSE
+
+Speed 30 ft.
+Melee 2 claws +6 (1d6+4 plus grab), bite +6 (1d6+4)
+Space 10 ft.; Reach 5 ft.
+
+STATISTICS
+
+Str 19, Dex 14, Con —, Int —, Wis 10, Cha 10
+Base Atk +3; CMB +8 (+12 to grapple); CMD 20
+Feats Improved Initiative
+Languages none

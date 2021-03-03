@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-tidepool
+Tidepool Dragon CR 3
+XP 800
+CN Tiny dragon (aquatic)
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 15, touch 13, flat-footed 14 (+1 Dex, +2 natural, +2 size)
+hp 30 (4d12+4)
+Fort +5, Ref +7, Will +6
+Immune paralysis, sleep
+OFFENSE
+Speed 10 ft., fly 30 ft. (average), swim 60 ft.
+Melee bite +6 (1d3), 2 claws +6 (1d3 plus attach)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks breath weapon (5-ft. line, 2d6 fire damage, Reflex DC 13 for half, usable every 1d4 rounds)
+Spell-Like Abilities (CL 4th; concentration +6)
+3/day—freedom of movement (self only)
+Spells Known (caster level 4th; concentration +6)
+2nd (4/day)—slipstream
+1st (7/day)—hydraulic push, obscuring mist
+0th (at will)—acid splash, dancing lights, daze (DC 12), detect poison, mage hand, touch of fatigue (DC 12)
+STATISTICS
+Str 11, Dex 13, Con 13, Int 8, Wis 14, Cha 14
+Base Atk +4; CMB +3; CMD 13
+Feats Improved Initiative, Lightning Reflexes
+Skills Fly +12, Knowledge (nature) +6, Perception +9, Survival +9, Swim +15
+Languages Common, Draconic
+SQ amphibious
+SPECIAL ABILITIES
+Attach (Ex) When a tidepool dragon hits with a claw attack, it automatically grapples its foe, dealing automatic damage with that claw each round.
+Breath Weapon (Su) When a tidepool dragon uses its breath weapon underwater, it creates a 10-foot cone of superheated water rather than a line of fire (as noted above). This effect deals the breath weapon’s damage to any creatures in the cone’s area, though victims can still save to take only half damage.

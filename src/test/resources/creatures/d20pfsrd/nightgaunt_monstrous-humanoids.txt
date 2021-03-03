@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/nightgaunt
+Nightgaunt CR 4
+XP 1,200
+CN Medium monstrous humanoid (extraplanar)
+Init +6; Senses all-around vision, blindsight 60 ft., darkvision 60 ft.; Perception +6
+DEFENSE
+AC 18, touch 13, flat-footed 15 (+2 Dex, +1 dodge, +5 natural)
+hp 37 (5d10+10)
+Fort +3, Ref +8, Will +6
+Defensive Abilities faceless; Immune cold, gaze attacks, inhaled poison, scent-based attacks
+OFFENSE
+Speed 30 ft., fly 40 ft. (average)
+Melee 2 claws +9 (1d6+4 plus grab)
+Special Attacks clutches, tickle
+STATISTICS
+Str 18, Dex 15, Con 14, Int 5, Wis 14, Cha 11
+Base Atk +5; CMB +9 (+17 grapple); CMD 22
+Feats Dodge, Improved Initiative, Lightning Reflexes
+Skills Fly +7, Perception +6, Stealth +11; Racial Modifiers +4 Stealth
+Languages Aklo (can’t speak)
+SQ no breath
+SPECIAL ABILITIES
+Clutches (Ex) A nightgaunt has a +4 racial bonus on grapple combat maneuver checks. If a nightgaunt uses its fly speed to move itself and a grappled target, it can fly at full speed.
+Faceless (Ex) A nightgaunt has no face, but can still see in all directions as if its entire body were an eye. It is immune to gaze attacks, but not to illusions that rely upon vision to function. It has no need to breathe, and is immune to all inhaled and scent-based effects.
+Tickle (Ex) As a swift action, a nightgaunt can use its tail to tickle a grappled or helpless foe with horrible efficiency. The target must succeed at a DC 14 Fortitude save or be nauseated for 1 round. The save DC is Dexterity-based.

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/centaur
+Centaur CR 3
+XP 800
+N Large monstrous humanoid
+Init +6; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 20, touch 11, flat-footed 18 (+6 armor, +2 Dex, +1 natural, +2 shield, –1 size)
+hp 30 (4d10+8)
+Fort +3, Ref +6, Will +6
+OFFENSE
+Speed 50 ft.; 35 ft. in armor
+Melee longsword +5 (1d8+2/19–20), 2 hooves +0 (1d6+1)
+Ranged spear +5 (1d8+2/×3)
+Space 10 ft., Reach 5 ft.
+STATISTICS
+Str 15, Dex 14, Con 15, Int 11, Wis 14, Cha 12
+Base Atk +4; CMB +7; CMD 19 (23 vs. trip)
+Feats Improved Initiative, Run
+Skills Diplomacy +5, Intimidate +6, Knowledge (nature) +4, Perception +7, Survival +9
+Languages Common, Elven, Sylvan
+SQ undersized weapons
+SPECIAL ABILITIES
+Undersized Weapons (Ex) Although a centaur is Large, its upper torso is the same size as that of a Medium humanoid. As a result, they wield weapons as if they were one size category smaller than their actual size (Medium for most centaurs).

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/agogwe
+Agogwe CR 3
+XP 800
+N Small monstrous humanoid
+Init +4; Senses darkvision 60 ft; Perception +10
+DEFENSE
+AC 18, touch 15, flat-footed 14 (+4 Dex, +3 natural, +1 size)
+hp 22 (3d10+6)
+Fort +3, Ref +7, Will +4;
+OFFENSE
+Speed 30 ft., climb 40 ft.
+Melee bite +5 (1d3+1), 2 slams +5 (1d2+1)
+TACTICS
+Morale Agogwe don’t enjoy fighting and tend to attempt to escape when given the chance. The only time an agogwe will remain in a fight when the chance to escape is presented, is if it’s mate or children are in danger.
+STATISTICS
+Str 13, Dex 18, Con 15, Int 6, Wis 13, Cha 8
+Base Atk +3; CMB +3; CMD 17
+Feats Run, Skill Focus (Perception), Weapon FinesseB
+Skills Acrobatics +13, Climb +9, Perception +10, Sleight of Hand +12, Stealth +16; Racial Modifiers +8 Acrobatics, +4 Sleight of Hand, +4 Stealth
+Languages Agogwe
+SQ filcher
+SPECIAL ABILITIES
+Filcher (Ex) All agogwe are adept at stealing things. Sleight of Hand is always a class skill for an agogwe.

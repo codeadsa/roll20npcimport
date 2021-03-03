@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/wight/wight-blood-tohc
+Blood Wight CR 9
+XP 6,400
+N Large undead
+Init +6; Senses darkvision 60 ft.; Perception +20
+DEFENSE
+AC 21, touch 11, flat-footed 19 (+2 Dex, +10 natural, -1 size)
+hp 90 (12d8+36); fast healing 5
+Fort +7, Ref +6, Will +9
+Defensive Abilities channel resistance +5; DR 10/bludgeoning and magic; Immune undead traits; Resist fire 10
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +14 (1d8+5 plus 1 bleed)
+Space 10 ft.; Reach 10 ft.
+TACTICS
+A blood wight enters combat slashing with its claws. Given a chance, it grabs the closest opponent and engulfs it, holding it inside its body until it drowns. Drowned foes are ejected from the blood wight’s body into a heap on the ground (the blood wight later devours any creature it kills).
+STATISTICS
+Str 21, Dex 15, Con –, Int 13, Wis 13, Cha 16
+Base Atk +9; CMB +15 (+17 grapple); CMD 27
+Feats Alertness, Death’s Blessing, Improved Grapple, Improved Initiative, Power Attack, Weapon Focus (claws)
+Skills Acrobatics +10, Climb +20, Escape Artist +18, Perception +20, Sense Motive +3, Stealth +11, Survival +11; Racial Modifiers +8 Escape Artist
+Languages Common
+SPECIAL ABILITIES
+Engulf (Ex) A blood wight can try to wrap a Medium or smaller creature in its body as a standard action. The blood wight attempts a grapple check that does not provoke an attack of opportunity. If it wins the grapple check, it establishes a hold and claws its opponent with a +4 bonus on the attack roll.
+Attacks that hit an engulfing blood wight deal half their damage to the monster and half to the trapped victim. An engulfed victim must hold its breath as long as it remains trapped or begin to drown. A trapped victim can break free with a successful grapple check.
+A Large blood wight’s body can engulf 1 Medium, 2 Small, 4 Tiny, 16 Diminutive, or 32 Fine or smaller opponents.

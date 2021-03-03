@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/primates/mandrill-tohc
+Mandrill CR 1/4
+XP 100
+N Small animal
+Init +2; Senses low-light vision, scent; Perception +5
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+2 Dex, +1 natural, +1 size)
+hp 11 (2d8+2)
+Fort +4, Ref +5, Will +1
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee bite +4 (1d4)
+TACTICS
+Mandrills are generally passive creatures and rarely engage in battle, preferring to outmaneuver would-be-attackers by taking to the trees and outrunning their opponents. If the young are threatened, they do not hesitate to attack. Mandrills defending their group always fight to the death. Likewise, a foraging pack that is molested defends its “treasure” if food is scarce; otherwise, it usually drops its food (or sticks it in its cheek pouches) and scurries into the trees.
+STATISTICS
+Str 10, Dex 15, Con 12, Int 3, Wis 13, Cha 6
+Base Atk +1; CMB +0; CMD 12
+Feats Weapon Finesse
+Skills Acrobatics +10, Climb +10, Perception +5, Stealth +10; Racial Modifiers +8 Acrobatics. Mandrills use their Dexterity modifier for Climb checks.
+Source Wikipedia

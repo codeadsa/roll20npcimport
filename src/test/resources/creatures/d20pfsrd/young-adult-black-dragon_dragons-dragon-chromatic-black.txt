@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-black/young-adult-black-dragon
+Young Adult Black Dragon CR 10
+XP 9,600
+CE Large Dragon ( Water)
+Init +5; Senses dragon senses; Perception +21
+DEFENSE
+AC 25, touch 10, flat-footed 24 (+1 Dex, +15 natural, -1 size)
+hp 126 (12d12+48)
+Fort +12, Ref +9, Will +10
+DR 5/magic; Immune acid, paralysis, sleep; SR 21
+OFFENSE
+Speed 60 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +18 (2d6+9), 2 claws +17 (1d8+6), 2 wings +12 (1d6+3), tail slap +12 (1d8+9)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (80-ft. line, DC 21, 10d6 acid)
+Spell-Like Abilities (CL 12th)
+At will—darkness (50-ft. radius)
+Spells Known (CL 1st)
+1st (4/day)—alarm, obscuring mist
+0 (at will)—detect magic, mending, message, read magic
+STATISTICS
+Str 23, Dex 12, Con 19, Int 12, Wis 15, Cha 12
+Base Atk +12; CMB +19; CMD 30 (34 vs. trip)
+Feats Alertness, Improved Initiative, Power Attack, Skill Focus (Stealth), Vital Strike, Weapon Focus (bite)
+Skills Fly +10, Handle Animal +13, Intimidate +16, Knowledge (arcana) +16, Perception +21, Stealth +18, Swim +29; Racial Modifiers +8 Swim
+Languages Common, Draconic
+SQ speak with reptiles, swamp stride, water breathing
+SPECIAL ABILITIES
+Speak with Reptiles (Sp) A young or older black dragon gains the constant spell-like ability to speak with reptiles. This functions as speak with animals, but only with reptilian animals.
+Swamp Stride (Ex) A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed.
+Water Breathing (Ex) A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.

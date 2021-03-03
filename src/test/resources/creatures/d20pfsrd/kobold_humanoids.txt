@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/kobold
+Kobold CR 1/4
+XP 100
+Kobold warrior 1
+LE Small humanoid (reptilian)
+Init +1; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 15, touch 12, flat-footed 14 (+2 armor, +1 Dex, +1 natural, +1 size)
+hp 5 (1d10)
+Fort +2, Ref +1, Will –1
+Weaknesses light sensitivity
+OFFENSE
+Speed 30 ft.
+Melee spear +1 (1d6–1/x3)
+Ranged sling +3 (1d3-1)
+STATISTICS
+Str 9, Dex 13, Con 10, Int 10, Wis 9, Cha 8
+Base Atk +1; CMB –1; CMD 10
+Feats Skill Focus (Perception)
+Skills Craft (trapmaking) +6, Perception +5, Stealth +5; Racial Modifiers +2 Craft (trapmaking), +2 Perception, +2 Profession (miner)
+Languages Draconic
+SQ crafty
+SPECIAL ABILITIES
+Crafty (Ex) Craft (trapmaking) and Stealth are always class skills for a kobold.

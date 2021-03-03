@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/sleeping-willow-tohc
+Sleeping Willow CR 10
+XP 9,600
+NE Huge plant
+Init +1; Senses low-light vision, tremorsense 60 ft.; Perception +11
+DEFENSE
+AC 23, touch 7, flat-footed 24 (-1 Dex, + 16 natural, -2 size)
+hp 104 (11d8+44 plus 11)
+Fort +11, Ref +2, Will +4
+Defensive Abilities plant traits
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 10 ft.
+Melee 4 slams +15 (2d6+8 19-12/x2 plus grab plus Constitution drain)
+Space 15 ft.; Reach 15 ft.
+Special Attacks sleep spores
+STATISTICS
+Str 26, Dex 8, Con 19, Int 7, Wis 12, Cha 11
+Base Atk +8; CMB +18; CMD 27
+Feats Cleave, Improved Critical (slam), Power Attack, Skill Focus (Perception), Toughness, Weapon Focus (slam),
+Skills Perception +11, Stealth +0 (+10 in forests); Racial Modifiers +10 Stealth in forests
+SPECIAL ABILITIES
+Constitution Drain (Su) Any creature grabbed by a sleeping willow must make a successful DC 19 Fortitude save or take 1d4 points of Constitution drain each round the hold is maintained as the sleeping willow drains the victim’s body fluids. The sleeping willow heals 5 points of damage whenever it drains Constitution, gaining temporary hit points (if bonus hit points exceed the sleeping willows total). At Constitution 0, the creature dies and its body is absorbed by the sleeping willow’s roots. The save DC is Constitution-based.
+Sleep Spores (Ex) As a standard action, a sleeping willow can eject a cloud of yellowish pollen from its body in a 30-foot spread. Affected creatures must make a successful DC 19 Will save or fall asleep for 10 minutes. There is no HD limit for this sleep effect. The save DC is Constitution-based.

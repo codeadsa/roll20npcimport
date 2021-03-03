@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/mongrelman-TOHC
+Mongrelman CR 2
+XP 400
+LN Medium monstrous humanoid
+Init +1; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+1 Dex, +4 natural)
+hp 13 (2d10+2)
+Fort +1, Ref +4, Will +5
+OFFENSE
+Speed 30 ft.
+Melee club +5 (1d6+4) or slam +5 (1d4+4)
+TACTICS
+Mongrelmen shun combat if possible, only entering melee if ordered to do so by their superiors. In combat, mongrelmen fight with clubs or longswords. Some carry blowguns and needles or darts (the blowgun needles and darts are usually coated with bloodroot poison).
+STATISTICS
+Str 16, Dex 13, Con 12, Int 10, Wis 14, Cha 6
+Base Atk +2; CMB +5; CMD 16
+Feats Skill Focus (Survival)
+Skills Climb +7, Disguise +6, Perception +7, Sleight of Hand +7, Stealth +10, Survival +9; Racial Modifiers +8 Disguise, +4 Sleight of Hand, +4 Stealth
+Languages Mongrelman
+SQ sound imitation
+Gear club
+SPECIAL ABILITIES
+Sound Imitation (Ex) Mongrelmen can imitate sounds made by any creature they have previously encountered, including monsters with special vocal attacks. They cannot, however, mimic the special vocal attack powers or damage dealt by such attacks. A successful DC 14 Will save made by a listener detects the falsehood. The save DC is Constitution-based and includes a +2 racial bonus.
+Mongrelmen Characters Mongrelmen possess racial Hit Dice and may have class levels. Mongrelmen have the following racial traits.
++4 Strength, +2 Dexterity, +2 Constitution, +2 Wisdom, -4 Charisma. Mongrelmen are physically gifted, but odd to behold Darkvision: Mongrelmen can see in the dark up to 60 feet. Racial Hit Dice: Mongrelmen begin play with 2 levels of monstrous humanoid, which provides 2d10 HD, a base attack bonus of +2, and base saves of Fort +0, Ref +3, Will +3. Racial Skills: A mongrelman’s monstrous humanoid levels give it skill points equal to 2 x (4 + Int modifier, minimum 1).Mongrelmen receive the following racial modifiers: +8 Disguise, +4 Sleight of Hand, +4 Stealth. Racial Feats: A mongrelman’s monstrous humanoid level gives it one feat. Thick Skinned: Mongrelmen receive a +4 natural armor bonus. Natural Weapons: Slam (1d4). Languages: Mongrelman begin play speaking their own guttural language (Mongrelman). Mongrelmen of high intelligence can choose any of the following bonus languages: Common, Draconic, Elven, Goblin, Orc. Player Characters: Mongrelman PCs may designate their own parts, choosing up to three beneficial monstrous parts. The player may select up to two additional beneficial parts if they chose an equal number of detrimental parts. An ogre or minotaur arm counts as two beneficial parts.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/serpentfolk/serpentfolk-reclaimer
+Serpentfolk Reclaimer CR 6
+XP 2,400
+NE Medium monstrous humanoid
+Init +10; Senses darkvision 60 ft., scent; Perception +13
+DEFENSE
+AC 20, touch 16, flat-footed 14 (+6 Dex, +4 natural)
+hp 68 (8d10+24)
+Fort +5, Ref +12, Will +10
+Immune mind-affecting effects, poison, paralysis; SR 17
+OFFENSE
+Speed 30 ft.
+Melee mwk dagger +15/+10 (1d4/19–20), bite +9 (1d6 plus poison)
+Special Attacks poison
+Psychic Magic (CL 9th, concentration +14)
+12 PE—anticipate thoughts (2 PE, DC 17), call spirit (5 PE, DC 20), command (1 PE, DC 16), disguise self (1 PE, DC 16), hypnotism (1 PE, DC 16), instigate psychic duel (2 PE, DC 17), suggestion (2 PE, DC 17), synesthesia (3 PE, DC 18)
+STATISTICS
+Str 10, Dex 23, Con 17, Int 18, Wis 15, Cha 20
+Base Atk +8; CMB +8; CMD 24
+Feats Improved Initiative, Iron Will, Lunge, Weapon Finesse
+Skills Acrobatics +10, Bluff +11, Disguise +13, Escape Artist +18, Knowledge (arcana) +10, Perception +13, Sense Motive +10, Spellcraft +12, Stealth +13, Use Magic Device +17; Racial Modifiers +8 Escape Artist, +4 Use Magic Device
+Languages Aklo, Common, Draconic, Undercommon; telepathy 100 ft.
+SQ spiritspeaker
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Str; cure 2 consecutive saves.
+Spiritspeaker (Su) A serpentfolk reclaimer can affect undead creatures with its mind-affecting psychic magic.

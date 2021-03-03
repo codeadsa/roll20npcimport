@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/fachen
+Fachen CR 5
+XP 1,600
+NE Medium aberration
+Init +1; Senses darkvision 60 ft.; Perception +9; Aura fear (30 ft., DC 15)
+DEFENSE
+AC 18, touch 14, flat-footed 14 (+1 Dex, +3 dodge, +4 natural)
+hp 45 (7d8+14)
+Fort +4, Ref +3, Will +8
+OFFENSE
+Speed 30 ft.
+Melee battleaxe +10 (1d8+5/×3), bite +5 (1d6+2)
+STATISTICS
+Str 20, Dex 13, Con 15, Int 6, Wis 12, Cha 15
+Base Atk +5; CMB +10; CMD 24 (28 vs. trip)
+Feats Acrobatic, Cleave, Iron Will, Power Attack
+Skills Acrobatics +13, Perception +9, Stealth +6
+Languages Common
+SQ incredible balance
+SPECIAL ABILITIES
+Fear (Su) Each creature within a 30-foot radius that sees a fachen must succeed at a DC 15 Will save or be paralyzed by fear for 1d4 rounds. A creature that successfully saves is not subject to the same fachen’s fear aura for 24 hours. This is a paralysis effect and a mind-affecting fear effect. The save DC is Charisma-based.
+Incredible Balance (Ex) Despite its strange anatomy, a fachen is adept at keeping itself upright and out of danger. A fachen gains a +3 dodge bonus to AC and a +4 racial bonus to its CMD against trip combat maneuvers.

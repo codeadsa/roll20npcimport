@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/trollhound/scraghound
+Scraghound CR 3
+XP 800
+N Medium magical beast (aquatic)
+Init +5; Senses darkvision 60 ft., keen scent, low-light vision, scent; Perception +8
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+1 Dex, +4 natural)
+hp 30 (4d10+8); regeneration 3 (acid or fire; only when submerged in water)
+Fort +6, Ref +5, Will +1
+OFFENSE
+Speed 20 ft., swim 30 ft.
+Melee bite +8 (1d8+6 plus disease and trip)
+Special Attacks disease
+STATISTICS
+Str 18, Dex 13, Con 15, Int 2, Wis 11, Cha 6
+Base Atk +4; CMB +8; CMD 19 (23 vs. trip)
+Feats Improved Initiative, Skill Focus (Perception)
+Skills Perception +8, Stealth +5, Survival +1 (+5 scent tracking); Racial Modifiers +4 Survival when tracking by scent
+SQ amphibious
+SPECIAL ABILITIES
+Disease (Ex) A scraghound’s saliva is an infectious brew of contagion. Creatures bitten by a scraghound are often afflicted with bloodfire fever, a disease characterized by deep internal pain, as if the victim’s blood were on fire. Its symptoms include loss of muscular coordination and physical strength as well as lethargy and fatigue.
+Bloodfire fever: Bite-injury; save Fort DC 14; onset 1 day; frequency 1/day; effect 1d3 Str damage, 1d3 Dex damage and target is fatigued; cure 2 consecutive saves. The save DC is Constitution-based. Keen Scent (Ex) A scraghound can notice creatures by scent in a 180-foot radius underwater and can detect blood in the water at ranges of up to a mile.
+Base Creature
+Trollhound

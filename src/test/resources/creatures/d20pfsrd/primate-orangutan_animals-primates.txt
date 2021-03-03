@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/primates/primate-orangutan
+Orangutan CR 1
+XP 400
+N Medium animal
+Init +2; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 15, touch 14, flat-footed 11; (+4 Dex, +1 natural)
+hp 13 (3d8)
+Fort +5, Ref +7, Will +2
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee 2 slams +2 (1d4)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 11, Dex 19, Con 10, Int 2, Wis 12, Cha 7
+Base Atk +2; CMB +2; CMD 16
+Feats Great Fortitude, Skill Focus (Perception)
+Skills Acrobatics +8, Climb +12, Perception +8
+Image courtesy Wikipedia.

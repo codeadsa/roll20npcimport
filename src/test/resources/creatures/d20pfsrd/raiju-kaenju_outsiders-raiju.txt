@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/raiju/raiju-kaenju
+Kaenju CR 5
+XP 1,600
+CN Small outsider (extraplanar, fire, shapechanger)
+Init +8; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 19, touch 15, flat-footed 15 (+4 Dex, +4 natural, +1 size)
+hp 51 (6d10+18)
+Fort +8, Ref +11, Will +2
+Resist electricity 10
+Immune fire
+Vulnerability vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee 2 claw +8 (1d3+1 plus 1d6 fire), tail slap +3 (1d4 plus 1d6 fire)
+Special Attacks flaming burst
+Spell-Like Abilities (CL 5)
+At will—produce flame
+3/day—flaming sphere, quench
+STATISTICS
+Str 12, Dex 19, Con 16, Int 5, Wis 11, Cha 10
+Base Atk +6; CMB +6; CMD 20 (24 vs. trip)
+Feats Combat Reflexes, Improved Initiative, Lightning Reflexes
+Skills Acrobatics +10 (+14 when jumping), Fly +19, Perception +9
+Languages Auran
+SQ change shape (Small animal only), fire body
+SPECIAL ABILITIES
+Change Shape (Su) On the Material Plane, a kaenju typically assumes the form of a badger, cat, giant rat, monkey, weasel, or wolf (as per beast shape II) to blend in with native wildlife. Even in these forms, however, it typically has pale coloration and flame patterns.
+Fire Body (Su) As an immediate action, a kaenju can transform itself into a ball of living fire. While in this form, the raiju gains the incorporeal subtype and incorporeal quality. It only takes half damage from corporeal sources if they are magical (it takes no damage from non-magical weapons and objects). Additionally, it throws off tongues of flame while it is in this form. Any creature that touches the kaenju with a natural or unarmed attack or whose square the kaenju passes through during its movement must succeed at a DC 17 Reflex save or take 2d6 points of fire damage. The save DC is Dexterity-based.
+In normal weather, a kaenju can remain incorporeal for a number of rounds per day equal to its Hit Dice, though it can remain incorporeal for as long as it pleases in areas of extreme heat or with excessive open flame (forest fire, lava flow, etc.).
+Flaming Burst (Su) Besides dealing normal slashing damage, the claw and tail of a kaenju are considered to have the flaming burst weapon special quality. They deal 1d6 extra points of fire damage on a normal hit and an additional 1d10 points on a critical hit.

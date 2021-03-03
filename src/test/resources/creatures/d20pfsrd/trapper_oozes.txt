@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/trapper
+Trapper CR 8
+XP 4,800
+N Huge ooze
+Init +1; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 14, touch 9, flat-footed 13 (+1 Dex, +5 natural, -2 size)
+hp 138 (12d8+84)
+Fort +11, Ref +5, Will -1
+DR 5/slashing; Immune ooze traits
+OFFENSE
+Speed 10 ft.
+Melee Slam +17 (1d8+15 plus 2d6 acid)
+Space 15 ft., Reach 15 ft.
+Special Attacks smother (1d8+15 plus 2d6 acid)
+STATISTICS
+Str 30, Dex 12, Con 24, Int –, Wis 1, Cha 1
+Base Atk +9; CMB +21 (+25 grapple); CMD 32 (can’t be tripped)
+Skills Stealth +9; Racial Modifiers +16 to Stealth
+SPECIAL ABILITIES
+Acid (Ex) A trapper’s acid does not harm wood or stone.
+Smother (Ex) A trapper can try to wrap a creature up to one size smaller than itself in its body as a standard action. The trapper attempts a grapple that does not provoke an attack of opportunity. If it wins the grapple check, it establishes a hold and deals slam and acid damage each round the hold is maintained. Further, a grappled opponent must hold its breath or suffocate. Attacks that hit an engulfing trapper deal half their damage to the monster and half to the trapped victim.

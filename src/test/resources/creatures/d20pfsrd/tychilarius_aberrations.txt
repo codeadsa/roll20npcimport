@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/tychilarius
+Tychilarius CR 23
+XP 819,200
+CE Colossal aberration (aquatic, chaotic, evil)
+Init +16; Senses darkvision 60 ft., true seeing; Perception +37
+DEFENSE
+AC 41, touch 25, flat-footed 29 (+12 Dex, +11 insight, +16 natural, –8 size)
+hp 495 (22d8+396)
+Fort +25, Ref +19, Will +25; +4 vs. psychic spells and effects
+Defensive Abilities all-around vision, psychic resilience; DR 10/adamantine and good; Immune cold, disease, poison; Resist fire 20; SR 34
+OFFENSE
+Speed 60 ft., fly 60 ft. (average), swim 120 ft.
+Melee bite +27 (6d6+19/19–20 plus grab), 6 tentacles +25 (2d8+9/19–20 plus grab)
+Space 30 ft.; Reach 30 ft.
+Special Attacks overcharge synapses, plasma bolt, shatter mind, void maw
+Spell-Like Abilities (CL 23rd; concentration +34)
+Constant—true seeing
+At will—deeper darkness, detect magic, dimension door, freedom of movement, protection from good, protection from law
+3/day—feeblemind (DC 26), nightmare (DC 26), telekinesis (DC 26)
+1/day—insanity (DC 28), mind blank, overwhelming presence (DC 30), repulsion (DC 27)
+STATISTICS
+Str 48, Dex 35, Con 46, Int 31, Wis 35, Cha 32
+Base Atk +16; CMB +43; CMD 76 (can’t be tripped)
+Feats Cleave, Combat Reflexes, Great Cleave, Improved Critical (bite), Improved Critical (tentacle), Improved Initiative, Improved Vital Strike, Multiattack, Point-Blank Shot, Power Attack, Vital Strike
+Skills Bluff +22, Fly +29, Intimidate +36, Knowledge (arcana, local, planes, religion) +32, Knowledge (dungeoneering, engineering, nature) +21, Knowledge (geography) +35, Perception +37, Sense Motive +34, Spellcraft +35, Survival +37, Swim +52
+Languages Abyssal, Aklo, Common, Draconic, Infernal, Protean; telepathy 300 ft.
+SQ no breath, reform flesh, starflight
+SPECIAL ABILITIES
+Overcharge Synapses (Su) As a standard action, Tychilarius can overstimulate the nervous system of any creature that has taken Intelligence damage from Tychilarius’s shatter mind ability. The target takes 15d6 points of electricity damage as every nerve in its body misfires. This damage can be reduced to half with a successful DC 32 Fortitude saving throw. The save DC is Charisma-based.
+Plasma Bolt (Su) As a standard action, Tychilarius can fire a bolt of plasma from one of its tentacles at a target within 300 feet (no range increment) as a ranged touch attack.
+On a successful hit, a plasma bolt deals 15d6 points of damage, half of which is electricity damage and half of which is fire damage.
+Reform Flesh (Su) Tychilarius can use the flesh and energy from a creature killed by its void maw ability to give birth to other creatures associated with the Dominion of the Black. It can create a number of such creatures whose total Hit Dice equal that of the creature killed by void maw. For example, if Tychilarius killed a 20th-level human wizard in its void maw, it could give birth to two neh-thalggus. This process takes 24 hours.
+Shatter Mind (Su) Tychilarius exudes quivering psychic energy. Any creature adjacent to Tychilarius must succeed at a DC 32 Will saving throw or take 1d4 points of Intelligence damage. This is a mind-affecting effect, and the save DC is Charisma-based.
+Starflight (Su) In outer space, Tychilarius can survive in the void and fly at an incredible speed. Its travel times vary, but a trip within a single solar system should take it 3d20 hours, and a trip farther than that should take it 3d20 days or more if Tychilarius knows the way to its destination.
+Void Maw (Su) When Tychilarius bites and successfully grabs a creature, it can attempt a combat maneuver check as a free action to draw the creature into its massive, chaotic form (as though attempting to pin the target). A creature drawn into Tychilarius’s void maw must succeed at a DC 39 Will saving throw each round or be confused for 1 round. This is a mind-affecting confusion effect, and the save DC is Constitution-based.
+Though this ability is similar to swallow whole, a creature in the maw can’t cut its way out. Any creature in the area of a magic circle against evil or magic circle against chaos spell is unaffected by the confusion effect.
+A swallowed creature can escape by using plane shift or similar magic. Every day a creature remains in this void, it gains 1 negative level. A creature that dies from this effect is incorporated into Tychilarius’s form; it can be reshaped into another creature via reform flesh, and is difficult to resurrect. Anyone attempting to resurrect a creature killed in the maw must succeed at a DC 32 caster level check to return the creature to life. The caster level check DC is Charisma-based.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/construct-elemental-tohc/elemental-construct-water-tohc
+Water Elemental Construct CR 13
+XP 25,600
+N Huge construct (elemental, extraplanar, water)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 27, touch 15, flat-footed 20 (+7 Dex, +12 natural, –2 size)
+hp 205 (30d10+40)
+Fort +10; Ref +17; Will +10
+Defensive Abilities water mastery; DR 10/adamantine; Immune construct traits, elemental traits, magic
+OFFENSE
+Speed 30 ft., swim 120 ft.
+Melee 2 slams +39 (2d8+11)
+Space 15 ft.; Reach 15 ft.
+Special Attacks drench, engulf (DC 36)
+STATISTICS
+Str 33, Dex 24, Con —, Int —, Wis 11, Cha 1
+Base Atk +30; CMB +43; CMD 60
+Skills Swim +19
+SPECIAL ABILITIES
+Drench (Ex) A water elemental construct’s touch puts out torches, campfires, exposed lanterns, and other open flames of non-magical origin if these are of Large size or smaller. The construct can dispel magical fire it touches as dispel magic (caster level equal’s the elemental construct’s HD).
+Engulf (Ex) A water elemental construct can simply engulf Large or smaller creatures in its path as a standard action. It cannot make a slam attack during a round in which it engulfs. The water elemental construct merely has to move over the opponents, affecting as many as it can cover. Opponents can make attacks of opportunity against the construct, but if they do so they are not entitled to a saving throw. Those who do not attempt attacks of opportunity can attempt a DC 36 Reflex save to avoid being engulfed—on a success, they are pushed back or aside (opponent’s choice) as the construct moves forward. Engulfed creatures are in danger of suffocating, and are trapped within its body until they are no longer pinned. The save DC is Strength-based.
+Immunity to Magic (Ex) A water elemental construct is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A control water spell or cold effect slows a water elemental construct for 2d6 rounds with no saving throw.
+A horrid wilting spell deals 1d8 points of damage per caster level to a water elemental construct. The elemental construct can attempt a Fortitude save (DC 18 + caster’s relevant ability modifier) for half damage.
+A create water spell heals 1d4 points of damage on the construct for each 2 gallons of water created.
+Water Mastery (Ex) A water elemental construct gains a +2 bonus on attack and damage rolls if both it and its foe are touching water. If the opponent or the elemental construct is touching the ground, the elemental construct takes a –4 penalty on attack and damage rolls. (These modifiers are not included in the statistics block.)
+

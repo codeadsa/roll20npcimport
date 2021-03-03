@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/deathweb
+Deathweb CR 6
+XP 2,400
+N Large undead
+Init +6; Senses darkvision 60 ft.; Perception +15; Aura infestation (5 ft., 1d6 plus poison)
+DEFENSE
+AC 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, -1 size)
+hp 71 (11d8+22)
+Fort +5, Ref +5, Will +8
+Immune undead traits
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee bite +15 (2d8+12)
+Space 10 ft.; Reach 10 ft.
+Special Attacks web (+9 ranged, DC 15, 11 hp)
+STATISTICS
+Str 26, Dex 14, Con —, Int 7, Wis 13, Cha 15
+Base Atk +8; CMB +17; CMD 29 (41 vs. trip)
+Feats Awesome Blow, Cleave, Improved Bull Rush, Improved Initiative, Power Attack, Vital Strike
+Skills Climb +16, Perception +15, Stealth +16; Racial Modifiers +4 Stealth
+SQ compression
+SPECIAL ABILITIES
+Poison (Ex) Infestation—injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Str damage; cure 2 consecutive saves. The save DC is Charisma-based.
+Infestation (Su) An infestation of poisonous spiders, which nest within this creature’s exoskeleton, constantly surrounds a deathweb, to a radius of 5 feet. Any creature within the infestation takes 1d6 points of damage at the end of each round it remains in the area. A creature that takes this damage must make a DC 17 Fortitude save or be nauseated for 1 round. In addition, those damaged by this infestation are poisoned as well. Any area effect attack that deals 10 or more points of damage to a deathweb destroys its infesting spiders, removing its aura for 3 rounds, after which a new batch of spiders swarms out of the undead’s body to replenish the infestation. The save DC is Charisma-based.

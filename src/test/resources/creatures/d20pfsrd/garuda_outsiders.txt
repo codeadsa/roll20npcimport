@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/garuda
+Garuda CR 9
+XP 6,400
+CG Medium outsider (native)
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +20
+DEFENSE
+AC 19, touch 15, flat-footed 14 (+5 Dex, +4 natural)
+hp 115 (11d10+55)
+Fort +8, Ref +12, Will +9
+DR 10/evil or magic; SR 21
+OFFENSE
+Speed 30 ft., fly 80 ft. (good)
+Melee bite +16 (1d6+3), 2 claws +16 (1d4+3), 2 talons +16 (1d4+3), 2 wings +11 (1d4+1)
+Ranged +1 shock longbow +17/+12/+7 (1d8+4/x3 plus 1d6 electricity)
+Special Attacks hatred, swooping pounce, talon or wing
+Spells Known (CL 7th; concentration +10)
+3rd (5/day)—displacement, haste
+2nd (7/day)—alter self, protection from arrows, see invisibility
+1st (7/day)—grease (DC 14), mage armor, shield, shocking grasp, true strike
+0 (at will)—detect magic, detect poison, light, mage hand, mending, message, prestidigitation
+STATISTICS
+Str 16, Dex 21, Con 20, Int 15, Wis 14, Cha 17
+Base Atk +11; CMB +14; CMD 29
+Feats Deadly Aim, Manyshot, Point-Blank Shot, Power Attack, Precise Shot, Rapid Shot, Weapon FinesseB
+Skills Acrobatics +19, Fly +23, Intimidate +21, Perception +20, Sense Motive +20, Spellcraft +13, Stealth +19, Survival +13; Racial Modifiers +4 Intimidate, +4 Perception, +4 Sense Motive
+Languages Common, Garuda
+SPECIAL ABILITIES
+Hatred (Ex) Garudas receive a +1 racial bonus on attack and damage rolls against nagas and other serpentine monsters of the aberration type.
+Spells Garudas cast spells as 7th-level sorcerers.
+Swooping Pounce (Ex) When a garuda makes a diving aerial charge, it can make a full attack with its natural weapons.
+Talon or Wing (Ex) A garuda cannot use its wing attacks while flying, and cannot use its talon attacks while not flying.
+Source Wikipedia

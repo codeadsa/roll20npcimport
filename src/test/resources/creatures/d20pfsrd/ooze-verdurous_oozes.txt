@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-verdurous
+Verdurous Ooze CR 6
+XP 2,400
+N Medium ooze
+Init –5; Senses blindsight 60 ft., tremorsense 60 ft.; Perception –5; Aura enliven (15 ft., DC 20), sleep aura (30 ft., DC 20)
+DEFENSE
+AC 5, touch 5, flat-footed 5 (–5 Dex)
+hp 94 (9d8 +54)
+Fort +9, Ref –2, Will –2
+Defensive Abilities split; Immune acid, fire, mind-affecting effects, ooze traits, slashing and piercing damage
+OFFENSE
+Speed 20 ft.
+Melee slam +9 (1d6+4 plus 1d6 acid and grab)
+Special Attacks acid, constrict (1d6+4 plus 1d6 acid), enliven
+STATISTICS
+Str 16, Dex 1, Con 22, Int —, Wis 1, Cha 1
+Base Atk +6; CMB +9 (+13 grapple); CMD 14 (can’t be tripped)
+Skills Stealth –4 (+16 in forest and plains areas); Racial Modifier +0 Stealth (+20 in forest and plains environs)
+SPECIAL ABILITIES
+Acid (Ex) A verdurous ooze secretes a digestive acid that dissolves flesh and metal quickly. Each time a creature takes damage from a verdurous ooze’s acid, the creature’s metal equipment and armor take the same amount of damage from the acid. A DC 20 Reflex save prevents damage to such items. A metal or natural weapon that strikes a verdurous ooze takes 1d6 points of acid damage unless the weapon’s wielder succeeds on a DC 20 Reflex save. If a verdurous ooze remains in contact with a metal object for 1 full round, it inflicts 20 points of acid damage (no save) on the object.
+The save DCs are Constitution-based.
+Enliven (Sp) The chemicals emitted by a verdurous ooze cause nearby plants to twitch into life. While in areas covered in natural growth, all squares within 15 feet of the verdurous ooze are affected as if by the spell entangle. The verdurous ooze has no control over this effect, and if dispelled the effect renews after 1d4 rounds.
+The save DC is Constitution-based.
+Sleep Aura (Su) The chemicals emitted by a verdurous ooze have a stronger and opposite effect on living, non-plant creatures that come within a 30-foot radius. All living creatures within the area must make a DC 20 Will save or fall asleep for a number of rounds equal to the ooze’s HD. Creatures immune to poison are also immune to this effect. Whether or not the save is successful, that creature cannot be affected again by the same verdurous ooze’s sleep aura for 24 hours. This is a non-magical sleep effect.
+The save DC is Constitution-based.
+Split (Ex) Slashing and piercing weapons deal no damage to a verdurous ooze. Instead, if the verdurous ooze would have taken 10 or more points of damage from a single slashing or piercing attack, it splits into two identical oozes, each with half of the original’s current hit points (round down). Slashing or piercing attacks that deal less than 10 points of damage do not cause a verdurous ooze to split. Damage from multiple slashing or piercing attacks is not cumulative. A verdurous ooze with 15 hit points or less cannot be further split and dies if reduced to 0 hit points.

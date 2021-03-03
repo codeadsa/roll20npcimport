@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/bear/polar-bear
+Polar Bear CR 5
+XP 1,600
+N Large animal
+Init +3; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 20, touch 12, flat-footed 17 (+3 Dex, +8 natural, –1 size)
+hp 52 (5d8+30)
+Fort +10, Ref +7, Will +4
+OFFENSE
+Speed 40 ft., swim 20 ft.
+Melee bite +9 (1d8+7), 2 claws +9 (1d6+7 plus grab)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 25, Dex 17, Con 23, Int 2, Wis 16, Cha 10
+Base Atk +3; CMB +11 (+15 grapple); CMD 24 (28 vs. trip)
+Feats Endurance, Run, Skill Focus (Survival)
+Skills Perception +8, Survival +8, Swim +19
+Subpages
+Bear, Dire Polar Source Wikipedia

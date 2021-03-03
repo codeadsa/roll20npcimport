@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/bone-reaper-reflection-fgg
+Bone Reaper Reflection CR 10
+XP 9,600
+N Large Construct
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 20, touch 11, flat-footed 18 (+2 Dex, +9 natural, –1 size)
+hp 90 (11d10+30)
+Fort +3; Ref +5; Will +3
+Defensive Abilities reflection; DR 15/adamantine; Immune bone reaper traits, construct traits
+OFFENSE
+Speed 40 ft. (can’t run)
+Melee 2 claws +15 (1d8+5/x4)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 20, Dex 14, Con —, Int —, Wis 11, Cha 1
+Base Atk +11; CMB +17; CMD 29
+SPECIAL ABILITIES
+Bone Reaper Traits (Ex) The bone reaper reflection takes no damage from fire attacks; instead, fire heals the reaper one hit point for every 3 points of damage inflicted, and breaks any slow effects. At least 5 points of electrical damage in a single attack slows the reaper for 1 round. It is affected by rust attacks normally. It is immune to all other spells and effects that would not affect a golem. Finally, any damage that is done to the statue anchoring the bone reaper is also inflicted upon the bone reaper reflection (and vice versa).
+Reflection (Su) The bone reaper can only be directly attacked by viewing its reflection and striking blindly at where it would be from that view. This incurs a –4 circumstance penalty to attack rolls and CMB checks and a –2 circumstance penalty to AC against its attacks. Note that this is not invisibility, and see invisibility or even true seeing does not allow one to look directly at the bone reaper reflection’s effective location.

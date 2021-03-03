@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow/shadow-lesser
+Lesser Shadow CR 1/2
+XP 200
+CE Medium undead (incorporeal)
+Init +2; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 14 15, touch 14 15, flat-footed 11 ( +1 +2 deflection, +1 dodge, +2 Dex)
+hp 6 (1d8+2)
+Fort +2, Ref +2, Will +2
+Defensive Abilities channel resistance +1, incorporeal, shadow blend; Immune undead traits
+OFFENSE
+Speed fly 40 ft. (good)
+Melee incorporeal touch +2 (1 Strength damage)
+STATISTICS
+Str –, Dex 15, Con –, Int 5, Wis 10, Cha 14
+Base Atk +0; CMB +2; CMD 15 (can’t be tripped)
+Feats Dodge
+Skills Fly +6, Perception +8, Stealth +6; Racial Modifiers Perception +4
+SPECIAL ABILITIES
+Shadow Blend (Ex) In any light condition less than bright light, the lesser shadow’s form blends into the surrounding shadows, granting it concealment.
+Errata?
+Incorporeal creatures get a deflection bonus to AC equal to their Charisma bonus (minimum +1). A Lesser Shadow has Charisma 14 which equals a +2 bonus, therefore the correct bonus should be +2 not +1. GMs are free to use discretion when determining which bonus to use however.

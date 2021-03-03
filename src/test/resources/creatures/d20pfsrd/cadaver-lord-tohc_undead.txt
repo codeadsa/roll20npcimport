@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/cadaver-lord-tohc
+Cadaver Lord CR 5
+XP 1,600
+CE Medium undead
+Init +6; Senses darkvision 60 ft.; Perception +12; Aura desecrate (20 ft. radius, desecrate spell)
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 37 (5d8+10 plus 5); reanimation
+Fort +3; Ref +3; Will +5
+Defensive Abilities channel resistance +4; DR 5/bludgeoning and magic; Immune cold, undead traits
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +7 (1d4+3 plus disease), bite +6 (1d6+3 plus disease)
+Special Attacks create spawn
+Spell–like Abilities (CL 5th):
+1/day—darkness, fear (DC 13), summon (7 HD of cadavers)
+STATISTICS
+Str 17, Dex 15, Con —, Int 10, Wis 12, Cha 14
+Base Atk +3; CMB +6; CMD 18
+Feats Command UndeadB, Improved InitiativeB, Skill Focus (Perception), Toughness, Weapon Focus (claw)
+Skills Knowledge (religion) +8, Perception +12, Sense Motive +9, Stealth +10
+Languages Common; undead telepathy 100 ft.
+SPECIAL ABILITIES
+Disease: Filth Fever (Ex) Claw Or Bite—Injury; save Fort DC 14; onset 1d3 days; frequency 1 day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves.
+Reanimation (Su) When reduced to 0 hit points or less, a cadaver lord is not destroyed; rather it falls inert and begins the process of reanimating by regaining 1 hit point per round. Hit points lost to magical weapons or spells are not regained. When the creature reaches its full hit point total (minus damage dealt by magical attacks and weapons), it stands up, ready to fight again.
+If the creature is destroyed by channeled positive energy, it cannot reanimate. If a cleric casts gentle repose on the cadaver when it is reduced to 0 hit points, it cannot reanimate. A bless spell delays the reanimation, causing the creature to regain hit points at half the normal rate (i.e. 1 hit point every other round).
+Editor’s Note
+Base Template: Undead Lord (CR +1 or +2)

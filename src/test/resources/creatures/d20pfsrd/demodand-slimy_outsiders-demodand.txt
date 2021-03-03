@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demodand/demodand-slimy
+Slimy Demodand CR 16
+XP 76,800
+CE Medium outsider (chaotic, demodand, evil, extraplanar)
+Init +4; Senses darkvision 120 ft., detect good, detect magic, see invisibility; Perception +2; Aura stench (DC 26, 1d6 rounds)
+DEFENSE
+AC 30, touch 13, flat-footed 27 (+6 armor, +3 Dex, +11 natural)
+hp 241 (21d10+126)
+Fort +18, Ref +13, Will +14; +4 vs. divine spells
+DR 10/good and magic; Immune acid, poison; Resist cold 10, fire 10; SR 27
+OFFENSE
+Speed 20 ft., fly 40 ft. (average)
+Melee bite +30 (1d10+9 plus 2d6 acid), 2 claws +30 (2d6+13/19-20 plus 2d6 acid and grab)
+Special Attacks acid, dread claws, faith-stealing strike
+Spell-Like Abilities (CL 16th; concentration +19)
+Constant—detect good, detect magic, see invisibility
+At will—detect thoughts (DC 15), fear (DC 17)
+3/day—acid fog, greater dispel magic
+1/day—summon (level 6, 1d4 tarry demodands 50%)
+STATISTICS
+Str 28, Dex 18, Con 23, Int 14, Wis 15, Cha 17
+Base Atk +21; CMB +30 (+34 grapple); CMD 44
+Feats Bleeding Critical, Blind-Fight, Critical Focus, Flyby Attack, Greater Vital Strike, Improved Critical (claw), Improved Vital Strike, Intimidating Prowess, Lightning Reflexes, Power Attack, Vital Strike
+Skills Acrobatics +11, Bluff +27, Climb +19, Fly +25, Intimidate +36, Knowledge (arcana) +13, Knowledge (planes) +13, Sense Motive +26, Spellcraft +20, Stealth +25, Survival +20
+Languages Abyssal, Celestial, Common
+SQ heretical soul
+SPECIAL ABILITIES
+Acid (Su) A slimy demodand is coated in an ever-dripping layer of acid that deals an extra 2d6 points of acid damage on a successful natural attack. In addition, opponents that successfully strike a slimy demodand with an unarmed strike or natural attack take 2d6 points of acid damage.
+Dread Claws (Ex) A slimy demodand adds 1-1/2 times its strength bonus on all attack rolls made when using its claws.

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sky/sky-dragon-young
+Young Sky Dragon CR 9
+XP 6,400
+LG Large dragon (air)
+Init +1; Senses cloud sight, dragon senses; Perception +22
+DEFENSE
+AC 22, touch 10, flat-footed 21 (+1 Dex, +12 natural, -1 size)
+hp 95 (10d12+30)
+Fort +10, Ref +10, Will +10
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 200 ft. (good)
+Melee bite +14 (2d6+7), 2 claws +14 (1d8+5), gore +14 (1d8+7), tail slap +12 (1d8+7)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite and gore)
+Special Attacks breath weapon (40-ft. cone, 6d8 electricity damage, DC 18)
+Spell-Like Abilities (CL 10th; concentration +13)
+At will—detect evil
+Spells Known (CL 1st; concentration +4)
+1st (4/day)—obscuring mist, shocking grasp
+0 (at will)—disrupt undead, mending, message, read magic
+STATISTICS
+Str 21, Dex 12, Con 17, Int 16, Wis 17, Cha 16
+Base Atk +10; CMB +16; CMD 27 (31 vs. trip)
+Feats Flyby Attack, Hover, Lightning Reflexes, Multiattack, Skill Focus (Perception)
+Skills Diplomacy +16, Fly +16, Heal +16, Knowledge (arcana, religion) +16, Perception +22, Perform (sing) +16, Sense Motive +16, Spellcraft +16
+Languages Auran, Common, Draconic
+SQ borne aloft, change shape
+SPECIAL ABILITIES
+Borne Aloft (Su) Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.
+Change Shape (Su) A young or older sky dragon can assume any humanoid form three times per day as if using polymorph.
+Cloud Sight (Su) A very young or older sky dragon’s sight is not impeded by clouds or fog, or by spells that create areas of fog.

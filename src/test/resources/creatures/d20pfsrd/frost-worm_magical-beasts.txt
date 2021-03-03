@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/frost-worm
+Frost Worm CR 12
+XP 19,200
+N Huge magical beast (cold)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +17
+DEFENSE
+AC 27, touch 11, flat-footed 24 (+3 Dex, +16 natural, –2 size)
+hp 168 (16d10+80)
+Fort +15, Ref +13, Will +10
+Immune cold
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft., burrow 10 ft.
+Melee bite +25 (4d10+15 plus 4d6 cold)
+Space 15 ft.; Reach 10 ft.
+Special Attacks breath weapon (60-ft. cone, 15d6 cold damage, Reflex DC 23 half, usable once per hour), death throes, trill
+STATISTICS
+Str 31, Dex 16, Con 21, Int 2, Wis 16, Cha 11
+Base Atk +16; CMB +28; CMD 41 (can’t be tripped)
+Feats Cleave, Combat Reflexes, Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception), Stand Still, Weapon Focus (bite)
+Skills Perception +17, Stealth +6 (+14 in ice and snow); Racial Modifiers +8 Stealth in ice and snow
+SQ cold
+SPECIAL ABILITIES
+Cold (Su) A frost worm’s body generates intense cold, allowing it to deal an additional 4d6 cold damage with its bite attack. Any creature that attacks a frost worm with an unarmed strike or a natural weapon takes 1d6 points of cold damage per successful hit. A creature that grapples or is grappled by a frost worm takes 4d6 points of cold damage per round the grapple is maintained.
+Death Throes (Su) When killed, a frost worm explodes in a 100-foot-radius burst that deals 12d6 cold damage and 8d6 piercing damage (DC 23 Reflex half). The save DC is Constitution-based.
+Trill (Su) As a full-round action, a frost worm can emit a strange trilling sound that affects all creatures within a 100-foot radius. Creatures must succeed on a DC 18 Will save or be fascinated for as long as the worm continues to trill (the frost worm can maintain this trill by concentrating). Once a creature has resisted or broken the effect, it cannot be affected again by that same frost worm’s trill for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.

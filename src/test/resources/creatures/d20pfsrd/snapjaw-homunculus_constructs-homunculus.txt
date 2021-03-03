@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/homunculus/snapjaw-homunculus
+Snapjaw Homunculus CR 2
+XP 600
+Variant advanced homunculus
+NE Tiny construct
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +4
+DEFENSE
+AC 16, touch 16, flat-footed 12 (+3 Dex, +1 dodge, +2 size)
+hp 16 (3d10)
+Fort +1, Ref +6, Will +2
+Immune construct traits
+OFFENSE
+Speed 20 ft., fly 50 ft. (good)
+Melee bite +5 (1d6/×3 plus poison)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks dislocating jaw
+TACTICS
+During Combat The snapjaw homunculi attack intruders with their bear trap jaws. If an opponent succumbs to their poison, they switch to a new enemy.
+Morale If reduced to fewer than 8 hit points, the snapjaw homunculi flee to join their master.
+STATISTICS
+Str 10, Dex 17, Con –, Int 10, Wis 12, Cha 7
+Base Atk +3; CMB +4; CMD 15
+Feats Dodge, Lightning Reflexes
+Skills Fly +11, Perception +4, Stealth +14
+Languages Common (cannot speak); telepathic link
+SPECIAL ABILITIES
+Dislocating Jaw (Ex) A snapjaw homunculus’s jaws can open very wide, giving its bite attack a ×3 critical multiplier.
+Poison (Ex) Bite—injury; save Fort DC 13; frequency 1/minute for 60 minutes; effect sleep for 1 minute; cure 1 save.

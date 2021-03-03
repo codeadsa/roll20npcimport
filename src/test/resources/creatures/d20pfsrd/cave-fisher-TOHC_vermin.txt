@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/cave-fisher-TOHC
+Cave Fisher CR 2
+XP 600
+N Medium vermin
+Init +1; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+1 Dex, +4 natural)
+hp 22 (3d8+9)
+Fort +6; Ref +2; Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee 2 claws +5 (1d4+3)
+Ranged filament +3 (drag)
+Special Attacks pull (filament, 10 feet)
+STATISTICS
+Str 17, Dex 12, Con 17, Int —, Wis 10, Cha 4
+Base Atk +2; CMB +5 (+9 with pull); CMD 16 (28 vs. trip)
+Skills Climb +11
+SPECIAL ABILITIES
+Filament (Ex) A cave fisher can fire a thin filament of sticky silk as a standard action. This touch attack has a range of 60 feet and no range increment. A creature struck by a cave fisher’s filament becomes attached to the sticky thread. As a standard action, a creature can rip the filament free with a DC 20 Strength check. A caught creature can also attempt to escape a filament by making a DC 25 Escape Artist check. A filament is AC 14 (touch 12), has 5 hit points, and has DR 15/slashing. An application of liquid with high alcohol content (or a dose of universal solvent) dissolves the adhesive and releases the creature caught by the filament. A cave fisher can have only one filament active at a time.

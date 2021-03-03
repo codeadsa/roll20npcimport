@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/bog-strider/bog-strider-seer-queen
+Bog Strider Seer Queen
+CR 2
+XP 600
+N Medium monstrous humanoid
+Init +2; Senses darkvision 60 ft., tremorsense 120 ft. (in water); Perception +6
+DEFENSE
+AC 18, touch 13, flat-footed 15 (+2 Dex, +1 dodge, +5 natural)
+hp 15 (2d10+4)
+Fort +2, Ref +5, Will +6
+OFFENSE
+Speed 30 ft., water stride 50 ft.
+Melee spear +4 (1d8+3/x3), bite –1 (1d6+1) or 2 claws +4 (1d4+2), bite +4 (1d6+2)
+Ranged spear +4 (1d8+2/x3) or mwk net +5 ranged touch (entangle)
+Spell-Like Abilities (CL 2nd; concentration +4)
+3/day—create water, purify food and drink
+1/day—delay poison, fog cloud, quench
+STATISTICS
+Str 14, Dex 14, Con 14, Int 15, Wis 17, Cha 15
+Base Atk +2; CMB +4; CMD 17 (21 vs. trip)
+Feats Dodge
+Skills Knowledge (local) +5, Knowledge (nature) +5, Perception +8, Stealth +7, Survival +8, Swim +11; Racial Modifiers +4 Swim
+Languages Aquan, Common, Sylvan; tremor tap 120 ft.
+SQ hold breath, water sprint
+SPECIAL ABILITIES
+Tremor Tap (Ex) Bog striders can send and receive messages by creating and sensing silent vibrations on the surface of any body of water they currently tread. The range of communication extends outward 120 feet to all other bog striders within line of effect on or under the water. Because the ripples created on the water prove omni-directional, bog striders can communicate with multiple targets at the same time. Only bog striders can understand this form of communication. This ability also grants bog striders tremorsense in water at a range of 120 feet.
+Water Sprint (Ex) Once per hour, a bog strider can move up to 5 times its normal speed (250 feet) on water when making a charge or retreating from an enemy. Once it decides to increase its movement in this fashion, the effect lasts for up to 4 rounds, after which a bog strider becomes fatigued for as many rounds as it chose to move at a higher speed.
+Water Stride (Su) A bog strider can tread upon rivers, lakes, and flooded swamplands or marshes as if under the effects of the water walk spell. It also gains an increased movement rate by using the surface tension and its multiple legs to propel itself across the water.

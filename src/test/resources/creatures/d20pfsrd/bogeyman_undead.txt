@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/bogeyman
+Bogeyman CR 6
+XP 2,400
+CN Medium undead (incorporeal)
+Init +7; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 16, touch 16, flat-footed 13 (+3 deflection, +3 Dex)
+hp 60 (8d8+24)
+Fort +5; Ref +5; Will +8
+Defensive Abilities incorporeal, channel resistance +2; Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee incorporeal touch +10 (1d6)
+Special Attacks bump in the night, frighten
+STATISTICS
+Str —, Dex 17, Con —, Int 14, Wis 14, Cha 16
+Base Atk +6; CMB +9; CMD 22
+Feats Ability Focus (bump in the night), Alertness, Improved Initiative, Weapon Focus (incorporeal touch)
+Skills Bluff +11, Diplomacy +11, Intimidate +14, Perception +15, Sense Motive +15, Stealth +14
+Languages Common, Goblin, Sylvan
+SQ shadow shift
+SPECIAL ABILITIES
+Bump in the Night (Su) A bogeyman can create a phantasmagoric image in the mind of a single creature within 200 feet. Such images cause the victim to see and hear things that are not really there or to see and hear things differently than they actually are. Things such as following footsteps, bumps and thumps from an unknown source, a gnarled tree with outstretched limbs scratching on a window or reaching for someone, the idea that someone or something is lurking around the corner, in the closet, or under the bed, and so on.
+A creature affected by the images takes 1d4 points of Wisdom damage if it fails a DC 19 Will save. The save DC is Charisma-based and includes a +2 bonus from the bogeyman’s Ability Focus feat. The bogeyman can use this ability once every 1d4 rounds.
+A creature who drops to Wisdom 0 is affected as if by an insanity spell (caster level 8th) until at least 1 point of Wisdom is restored.
+Frighten (Su) A living creature within 60 feet that views a bogeyman must succeed on a DC 17 Will save or stand frozen in fear for 1d6+2 rounds. Such a creature is not helpless, but cannot take any action. A creature that successfully saves cannot be affected again by the same bogeyman’s frighten ability for one day. The save DC is Charisma-based.
+Shadow Shift (Su) A bogeyman has the ability to travel between shadows as if by means of a dimension door spell. The limitation is that the magical transport must begin and end in an area with at least some shadow. A bogeyman can shift up to a total of 80 feet each day in this way; this may be a single jump of 80 feet or multiple jumps of 10 feet each. This amount can be split among many jumps, but each one, no matter how small, counts as a 10-foot increment.

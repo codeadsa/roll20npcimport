@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/leshy-template/leshy-leaf
+Leaf Leshy CR 1/2
+XP 200
+N Small plant (leshy, shapechanger)
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +1
+DEFENSE
+AC 13, touch 12, flat-footed 12 (+1 armor, +1 Dex, +1 size)
+hp 5 (1d8+1)
+Fort +3, Ref +1, Will +1
+Immune electricity, sonic, plant traits
+OFFENSE
+Speed 20 ft., climb 10 ft., fly 10 ft. (clumsy); glide
+Melee shortspear +2 (1d4-2/19-20)
+Ranged seedpods +2 touch (1 plus deafen)
+Spell-Like Abilities (CL 2nd; concentration +3)
+Constant—pass without trace
+STATISTICS
+Str 6, Dex 13, Con 12, Int 5, Wis 12, Cha 13
+Base Atk +0; CMB -3; CMD 8
+Feats Weapon Finesse
+Skills Fly -1, Stealth +5 (+9 in forests and jungles), Survival +1 (+5 in forests and jungles); Racial Modifiers +4 Stealth and Survival in forests and jungles
+Languages Druidic, Sylvan; plantspeech (trees)
+SQ change shape (Small tree; tree shape), verdant burst
+SPECIAL ABILITIES
+Glide (Ex) A leaf leshy cannot use its fly speed to hover. When flying, a leaf leshy must end its movement at least 5 feet lower in elevation than it started.
+Seedpods (Ex) Leaf leshys sprout explosive acorns, pine cones, or other seedpods, and can hurl these as ranged attacks. A seedpod has a range increment of 10 feet and detonates on contact to deal 1 point of bludgeoning damage (this damage is not modified by Strength). Anyone struck by a seedpod must succeed at a DC 11 Fortitude save or be deafened for 1 round. The save DC is Constitution-based.

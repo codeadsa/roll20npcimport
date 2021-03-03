@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/chelicerae-mb
+Chelicerae CR 8
+XP 4,800
+NE Large aberration
+Init +3; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 22, touch 13, flat-footed 18 (+3 Dex, +1 dodge, +9 natural, -1 size)
+hp 110 (13d8+52)
+Fort +7, Ref +7, Will +10
+SR 19
+OFFENSE
+Speed 40 ft., climb 30 ft.
+Melee bite +14 (2d6+6 plus poison and grab), 2 claws +14 (1d6+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks siphon spell slots (19 points); web (+11 ranged, DC 19, 13 hp)
+Sorcerer Spells Known (CL 8th, concentration +14)
+4th—animate dead
+3rd—haste, lightning bolt (DC 15)
+2nd—invisibility, scorching ray, summon swarm
+1st—expeditious retreat, mage armor, magic missile, ray of enfeeblement (DC 13), true strike
+0th—acid splash, daze (DC 12), detect magic, ghost sound (DC 12), mage hand, message, resistance, touch of fatigue (DC 12)
+STATISTICS
+Str 22, Dex 17, Con 17, Int 14, Wis 15, Cha 14
+Base Atk +9; CMB +16 (+22 grapple); CMD 30 (32 vs. grapple, 42 vs. trip)
+Feats Ability Focus (poison), Combat Casting, Dodge, Empower Spell, Eschew Materials, Improved Grapple, Toughness
+Skills Acrobatics +10, Bluff +10, Climb +26, Knowledge (arcana) +8, Knowledge (local) +10, Knowledge (nature) +3, Knowledge (planes) +4, Perception +14, Sense Motive +6, Spellcraft +14, Stealth +11, Use Magic Device +11
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 19; frequency 1/round for 4 rounds; initial effect 1d4 Str damage; secondary effect unconsciousness for 2d4 hours; cure 2 saves.
+Siphon Spell Slots (Ex) Chelicerae cannot replenish spell slots naturally and, instead, extract them from the minds of humanoids locked in its mandibles The chelicerae treats the bodies of grappled spellcasters as a spell point reservoir for as long as the grapple is maintained, draining unused spell slots to power the casting of their own spells, 1 point/spell level.
+All 0-level spells become at-will abilities. Whenever the chelicerae wishes to cast any one of its spells known, it consumes a number of spell slots from its victim equal to the spell slots necessary to cast the spell (including increased levels for metamagic feats and so on). If the body has insufficient number of spell slots available, the chelicerae cannot cast that spell. However, the arachnid can also draw out spell slots from drained spellcasters or creatures without magic ability.
+As a move action, the chelicerae can inflict 1d4 Wisdom damage to any creature grappled in its mandibles, adding 2 spell slots to its spell reservoir for every point of damage inflicted. A victim is reduced to 0 Wisdom in this manner cannot power any more magical abilities, including 0-level spell slots. Unconscious victims held long-term by the chelicerae do not heal ability damage or regain spell slots while this grapple is maintained.
+Spells As long as the arachnid has spell slots on which to draw, it casts spells as an 8th-level sorcerer, but does not gain any other class abilities. Spells points in the reservoir given above assume the chelicerae is encountered with an 8th-level wizard (Wis 12, Int 16) paralyzed within its mandibles with no current Wisdom damage.

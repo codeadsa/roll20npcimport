@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kami/kami-toshigami
+Toshigami CR 15
+XP 51,200
+NG Medium outsider (kami, native)
+Init +10; Senses darkvision 60 ft., deathwatch, true seeing; Perception +25
+DEFENSE
+AC 30, touch 20, flat-footed 22 (+6 Dex, +2 dodge, +2 insight, +10 natural)
+hp 210 (20d10+100); fast healing 10
+Fort +11, Ref +23, Will +16
+DR 10/cold iron and evil; Immune bleed, mind-affecting effects, petrification, polymorph; Resist acid 10, electricity 10, fire 10; SR 26
+OFFENSE
+Speed 60 ft. (30 ft. without haste), fly 60 ft. (good)
+Melee +2 quarterstaff +22/+22/+17/+12/+6 (1d6+4 plus touch of ages), +2 quarterstaff +22/+17/+12 (1d6+3 plus touch of ages) or touch +22 (touch of ages)
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant—deathwatch, fly, foresight, haste, speak with plants, true seeing
+At will—cure moderate wounds, tree shape (cherry tree only), tree stride (self plus 50 lbs. of objects only)
+3/day—greater restoration, slow (DC 20)
+1/day—finger of death (DC 24), time stop, waves of exhaustion
+STATISTICS
+Str 15, Dex 22, Con 20, Int 15, Wis 14, Cha 25
+Base Atk +20; CMB +26; CMD 39
+Feats Agile Maneuvers, Combat Reflexes, Dodge, Greater Two-Weapon Fighting, Improved Initiative, Improved Two-Weapon Fighting, Iron Will, Lightning Reflexes, Two-Weapon Fighting, Weapon Focus (quarterstaff)
+Skills Bluff +30, Diplomacy +30, Fly +20, Heal +25, Knowledge (nature) +25, Perception +25, Sense Motive +25, Stealth +29, Survival +25
+Languages Common; speak with plants, telepathy 100 ft.
+SQ merge with ward, ward (cherry tree)
+SPECIAL ABILITIES
+Touch of Ages (Su) When a toshigami hits a target with a touch attack or any melee weapon, the target must succeed at a DC 27 Fortitude save to avoid being magically aged. When a toshigami strikes a foe, it must decide whether it wishes to physically increase the target’s age or mentally reduce the target’s age. If it increases the target’s physical age, the target takes 1 point of Strength, Dexterity, and Constitution drain. If it decreases the target’s mental age, the target takes 1 point of Intelligence, Wisdom, and Charisma drain. Combined with the toshigami’s numerous attacks, this can quickly devastate a target, but once a target succeeds at its saving throw against the touch of ages, it can no longer be affected by this ability for 1 round. This is a magical aging effect, but does not actually alter the victim’s true age—it merely simulates the creeping effect of age on the flesh or the reversion to an increasingly infantile state of mind. The save DC is Charisma-based.

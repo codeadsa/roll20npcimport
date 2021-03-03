@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/gallows-tree-tohc
+Gallows Tree (CR 13)
+XP 25,600
+N Huge plant
+Init +5; Senses low-light vision, tremorsense 60 ft.; Perception +24
+DEFENSE
+AC 24, touch 9, flat-footed 23 (+1 Dex, +15 natural, –2 size)
+hp 218 (19d8+114 plus 19)
+Fort +17; Ref +7; Will +8
+DR 10/magic and slashing; Immune plant traits; Resist fire 10
+OFFENSE
+Speed 20 ft.
+Melee 6 slams +23 (2d6+10/19–20 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks create gallows tree zombie, gallows tree zombies
+STATISTICS
+Str 30, Dex 12, Con 23, Int 10, Wis 14, Cha 6
+Base Atk +14; CMB +26 (+28 sunder, +30 grapple); CMD 37 (39 vs. sunder, can’t be tripped)
+Feats Cleave, Critical Focus, Great Cleave, Improved Critical (slam), Improved Initiative, Improved Sunder, Power Attack, Staggering Critical, Toughness, Weapon Focus (slam)
+Skills Perception +24, Stealth +15
+Languages Common (cannot speak); empathy with gallows tree zombies
+SPECIAL ABILITIES
+Create Gallows Tree Zombie (Su) When a creature dies within 15 feet of a gallows tree, it uses a sharpened tendril to slice open the creature’s abdomen, thereby spilling the corpse’s innards on the ground. The organs and fluids are then absorbed by the tree’s roots. Corpses of a size other than Medium or Large are simply left to rot. Medium or Large corpses are filled with a greenish pollen fired from one of the tree’s branches. The abdominal wound heals over the next 1d4 days, at which time the slain creature rises as a gallows tree zombie connected by a tether–vine to the gallows tree that created it. Gallows tree zombies possess none of their former abilities.
+Gallows Tree Zombies (Ex) Each gallows tree has several gallows tree zombies connected to it. A Huge gallows tree may have no more than 7 gallows tree zombies connected to it at one time. A Gargantuan gallows tree can have a maximum of 11 zombies connected to it at any given time. See the gallows tree zombie entry for details on that monster.
+Tremorsense (Ex) Gallows trees can automatically sense the location of anything within 60 feet that is in contact with the same vegetation the tree is touching.

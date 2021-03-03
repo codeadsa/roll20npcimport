@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/marilith
+Marilith CR 17
+XP 102,400
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +4;
+Senses darkvision 60 ft., trueseeing; Perception +31
+Aura unholy aura (DC 25)
+DEFENSE
+AC 32, touch 17, flat-footed 28 (+4 deflection, +4 Dex, +15 natural, –1 size)
+hp 264 (16d10+176)
+Fort +25, Ref +18, Will +13
+DR 10/cold iron and good; Immune electricity and poison; Resist acid 10, cold 10, fire 10; SR 28
+OFFENSE
+Speed 40 ft.
+Melee +1 longsword +24/+19/+14/+9 (2d6+8/17–20), 5 +1 longswords +24 (2d6+4/17–20), tail slap +17 (2d6+3 plus grab) or 6 slams +22 (1d8+7), tail slap +17 (2d6+3 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (tail slap, 2d6+10 plus crushing coils), infuse weapon, multiweapon mastery
+Spell-Like Abilities (CL 16th)
+Constant—true seeing, unholy aura (DC 25)
+At will—greater teleport (self plus 50 lbs. of objects only), project image (DC 24), telekinesis (DC 22)
+3/day—blade barrier (DC 23), fly
+1/day—summon (level 5, 1 marilith 20%, 1 nalfeshnee at 35%, or 1d4 hezrous at 60%)
+STATISTICS
+Str 25, Dex 19, Con 32, Int 18, Wis 18, Cha 25
+Base Atk +16; CMB +24 (+28 grapple); CMD 42 (can’t be tripped)
+Feats Bleeding Critical, Combat Expertise, Combat Reflexes, Critical Focus, Improved Critical (longsword), Improved Disarm, Power Attack, Weapon Focus (longsword)
+Skills Acrobatics +23, Bluff +26, Diplomacy +26, Fly +18, Intimidate +26, Knowledge (engineering) +20, Perception +31, Sense Motive +23, Stealth +19, Use Magic Device +26; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SPECIAL ABILITIES
+Crushing Coils (Ex) A creature that takes damage from a marilith’s constrict attack must succeed on a DC 25 Fortitude save or lose consciousness for 1d8 rounds. The save DC is Strength-based.
+Infuse Weapon (Su) Any weapon a marilith wields gains a +1 enhancement bonus to attack and damage, and strikes as if it were a chaotic and evil cold iron weapon (in addition to retaining the qualities of its actual composition).
+Multiweapon Mastery (Ex) A marilith never takes penalties to her attack roll when fighting with multiple weapons.

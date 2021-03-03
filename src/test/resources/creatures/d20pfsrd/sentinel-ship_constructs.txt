@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/sentinel-ship
+Ship Sentinel CR 7
+XP 3,200
+N Large construct
+Init +9; Senses darkvision 60 ft., low-light vision, ship sight; Perception +6
+DEFENSE
+AC 20, touch 14, flat-footed 15 (+5 Dex, +6 natural, –1 size)
+hp 68 (7d10+30)
+Fort +2, Ref +7, Will +8
+DR 5/slashing or piercing; Immune construct traits
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee mwk spear +11/+6 (2d6+6 plus salted wound/×3) or 2 slams +10 (1d6+4 plus salted wound)
+Ranged mwk spear +12 (2d6+4 plus salted wound/×3)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 19, Dex 21, Con —, Int —, Wis 23, Cha 16
+Base Atk +7; CMB +12; CMD 27
+Feats Improved InitiativeB
+SPECIAL ABILITIES
+Salted Wound (Su) Any living creature damaged by a ship sentinel must make a successful DC 16 Fortitude save or take a –1 penalty on attack and damage rolls for 1 round as salty brine drips painfully onto the wound. On a successful critical hit, the target takes an additional 3d6 points of damage as its flesh cracks and withers from dehydration. The save DC is Charisma-based.
+Ship Sight (Su) A ship sentinel is treated as having tremorsense out to 100 feet while onboard a ship, as its senses permeate the vessel’s timbers. It can only detect creatures in contact with the vessel or on objects in contact with the vessel. It cannot use this ability to detect creatures not in contact with the ship, even if they are within the ability’s 100-foot radius.
+Variant Ship Sentinels
+Ship sentinels can be crafted in a wide variety of forms and are often embellished and customized similarly to mundane figureheads. The following are some of these constructs‘ most common customizations.
+Ballista Marksman: Some ship sentinels have a light ballista built into their forms; these sentinels are usually designed to look like an archer with an oversized bow, a beauteous lillend, or a cruel erinyes. Such ship sentinels rarely have a melee weapon, resorting instead to slams if unable to use their ballistae to make ranged attacks. Statistics for ballista marksmen are modified as follows: Ranged light ballista +12 (3d8 plus salted wound/19–20).
+Mariner’s Muse: Sculpted to resemble harp-playing angels or armored heralds, a mariner’s muse ship sentinel can use the inspire courage effect of a bard’s bardic performance once per day for 5 rounds as if it were a 5th-level bard. It always uses all 5 rounds of its performance at the same time and can never use the performance multiple times in 1 day for any duration.
+Sea Sorcerer: These ship sentinels are often crafted to resemble wizards, sea serpents, or abstract orrery-like sculptures, and possess limited spell-like abilities. They can only use these abilities while onboard a sailing vessel. These spell-like abilities can each be used 3 times per day, and include animate objects, grease, and obscuring mist.
+Ship Sentinel Construction
+A ship sentinel is built from 400 pounds of wood. The creator or a hired artisan must then shape the creature into the desired likeness, usually after a fashion common to the nautical vessels of the region. Afterward, a special varnish is made from a mixture of sand, seawater, crushed pearls and shells, and magically treated oils—the varnish is worth a total of 250 gp and is applied to the entire form. If the creator intends for the ship sentinel to wield a weapon, a masterwork or better version of that weapon must also be supplied.
+CL 9th; Price 21,250 gp; 21,750 gp (ballista marksman); 23,250 gp (mariner’s muse); 25,250 gp (sea sorcerer)
+CONSTRUCTION REQUIREMENTS
+Craft Construct, animate objects, limited wish; Special creator must be caster level 9th; Craft (woodworking) check DC 25; Cost 10,750 gp; 11,000 gp (ballista marksman); 11,750 gp (mariner’s muse); 12,750 gp (sea sorcerer)

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghoul/ghoul-imperial-kp
+Imperial Ghoul CR 4
+XP 1,200
+LE Medium undead
+Init +3; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 18, touch 13, flat-footed 15 (+3 armor, +3 Dex, +2 natural)
+hp 37 (5d8+15)
+Fort +5, Ref +6, Will +9
+Defensive Abilities channel resistance +2; Immune undead traits
+OFFENSE
+Speed 30 ft., burrow 15 ft.
+Melee bite +7 (1d6+1 plus ghoul fever and paralysis), 2 claws +4 (1d4 plus paralysis)
+Special Attacks paralysis (1d4 rounds, DC 15, elves are immune to this effect)
+STATISTICS
+Str 13, Dex 16, Con —, Int 13, Wis 14, Cha 14
+Base Atk +3; CMB +4; CMD +17
+Feats Toughness, Weapon Finesse, Weapon Focus (bite)
+Skills Acrobatics +7, Climb +9, Diplomacy +6, Disguise +6, Intimidate +6, Knowledge (dungeoneering) +5, Perception +10, Sense Motive +7, Stealth +11
+Languages Common
+SPECIAL ABILITIES
+Disease (Su) Ghoul Fever: Bite—injury; save Fort DC 15 (Cha-based); onset 1 day; frequency 1 day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves.
+A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects.
+Imperial Ghast CR 5
+All imperial ghasts are imperial ghouls with the advanced monster template. An imperial ghast’s paralysis affects elves. The overwhelming stink of rot and gore surrounding these creatures grants them the stench Extraordinary ability (10-ft. radius, Fort DC 17 negates, sickened for 1d6+4 minutes).
+Lacedon Captain CR 4
+Some lacedons retain aspects of their nautical skill and command presence beyond their transformation into undead horrors. Typically bosun’s mates, lieutenants, and captains of sailing vessels while alive, these undead continue to command beyond the grave. In addition to the abilities typical to imperial ghouls, these creatures possess a swim speed of 30 ft. Instead of Knowledge (dungeoneering), they typically have Profession (sailor) +5 as a skill. They can also arouse faint memories of nautical life in other undead, allowing such beings to function as if they possessed Profession (sailor) +4 while in the lacedon captain’s presence.

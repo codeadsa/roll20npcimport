@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/bees-and-wasps/bumblebee-giant-tohc/giant-bumblebee-queen
+Giant Bumblebee, Queen CR 5
+XP 1,600
+N Large vermin
+Init +2; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +5
+DEFENSE
+AC 18, touch 11, flat-footed 16 (+2 Dex, +7 natural, -1 size)
+hp 52 (8d8+16)
+Fort +8; Ref +4; Will +3
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee sting +9 (2d6+7 plus poison)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 20, Dex 14, Con 14, Int —, Wis 13, Cha 11
+Base Atk +5; CMB +11; CMD 23 (+32 vs. trip)
+Skills Fly +4, Perception +5, Survival +1 (+5 to keep from getting lost); Racial Modifiers +4 Perception, +4 Survival to keep from getting lost
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fortitude DC 16; frequency 1/round for 6 rounds; effect 1d4 Con; cure 1 save. The save DC is Constitution-based.

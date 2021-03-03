@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/caryatid-column/shining-sentinel
+Shining Sentinel CR 4
+XP 1,200
+Gold-clad caryatid column
+N Medium construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception –1
+DEFENSE
+AC 18, touch 6, flat-footed 18 (–4 Dex, +8 natural, +4 shield)
+hp 36 each (3d10+20)
+Fort +1, Ref –3, Will +0
+Defensive Abilities light fortification, shatter weapons; DR 5/—; Immune construct traits, fire, magic
+Weaknesses vulnerability to electricity
+OFFENSE
+Speed 10 ft.
+Melee mwk falchion +8 (2d4+6/18–20)
+Spell-Like Abilities (CL 10th; concentration +8)
+1/day—shield
+TACTICS
+Before Combat The shining sentinels activate their shield spells as soon they detect potential foes (already included in their statistics).
+During Combat The shining sentinels move to engage any creatures trying to cross the bridge.
+Morale The shining sentinels fight until destroyed, crumbling into gold-plated rubble when reduced to 0 hit points.
+STATISTICS
+Str 18, Dex 3, Con —, Int —, Wis 9, Cha 7
+Base Atk +3; CMB +7; CMD 13 (cannot be disarmed)
+Feats Improved InitiativeB
+SQ statue
+Gear masterwork falchion
+Base Statistics
+Without their shield spells, the shining sentinels have the following statistics:
+AC 14, touch 6, flat-footed 14.

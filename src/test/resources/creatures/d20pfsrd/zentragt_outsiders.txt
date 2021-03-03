@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/zentragt
+Zentragt CR 4
+XP 1,200
+CN Large outsider (chaotic, extraplanar)
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +9
+DEFENSE
+AC 19, touch 10, flat-footed 18 (+1 Dex, +9 natural, –1 size)
+hp 39 (6d10+6)
+Fort +6, Ref +3, Will +5
+DR 5/lawful; Immune fear; Resist cold 5, electricity 5, fire 5; SR 15
+OFFENSE
+Speed 30 ft.
+Melee bite +8 (1d6+3), 2 claws +9 (1d6+3 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks adamantine attacks
+Spell-Like Abilities (CL 6th; concentration +6)
+3/day—bear’s endurance, cure light wounds, true strike
+1/day—rage
+STATISTICS
+Str 17, Dex 12, Con 13, Int 8, Wis 11, Cha 10
+Base Atk +6; CMB +10 (+14 grapple, +12 sunder); CMD 21 (23 vs. sunder, 25 vs. trip)
+Feats Improved Initiative, Improved Sunder B, Power Attack, Weapon Focus (claws)
+Skills Climb +12, Intimidate +9, Knowledge (planes) +5, Knowledge (religion) +5, Perception +9, Swim +16; Racial Modifiers +4 Swim
+Languages Abyssal, Celestial; speak with animals (bears only)
+SQ eat metal
+SPECIAL ABILITIES
+Adamantine Attacks (Ex) A zentragt’s bite and claw attacks count as adamantine, chaotic, and magic for the purposes of overcoming damage reduction and bypassing hardness.
+Eat Metal (Su) A zentragt can eat metal to heal itself.
+For every 5 pounds of iron or steel it consumes, it heals 5 hit points. Adamantine, cold iron, mithral, or metals with an enhancement bonus of +1 or higher heal it double this amount. It takes a zentragt 1 minute to eat 5 pounds of metal.

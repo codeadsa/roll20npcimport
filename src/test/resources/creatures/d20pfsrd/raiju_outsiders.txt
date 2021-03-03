@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/raiju
+Raiju CR 5
+XP 1,600
+CN Small outsider (air, extraplanar, shapechanger)
+Init +8; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 19, touch 15, flat-footed 15 (+4 Dex, +4 natural, +1 size)
+hp 51 (6d10+18)
+Fort +8, Ref +11, Will +2
+Immune electricity
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee 2 claw +8 (1d3+1 plus 1d6 electricity), tail slap +3 (1d4 plus 1d6 electricity)
+Special Attacks shocking burst
+Spell-Like Abilities (CL 5)
+3/day—call lightning
+1/day—control weather (thunderstorm only)
+STATISTICS
+Str 12, Dex 19, Con 16, Int 5, Wis 11, Cha 10
+Base Atk +6; CMB +6; CMD 20 (24 vs. trip)
+Feats Combat Reflexes, Improved Initiative, Lightning Reflexes
+Skills Acrobatics +10 (+14 when jumping), Fly +19, Perception +9
+Languages Auran
+SQ change shape (Small animal only), electric body
+SPECIAL ABILITIES
+Change Shape (Su) On the Material Plane, a raiju typically assumes the form of a badger, cat, giant rat, monkey, weasel, or wolf (as per beast shape II) to blend in with native wildlife. Even in these forms, however, it typically has pale coloration and lightning-like patterns.
+Electric Body (Su) As an immediate action, a raiju can transform itself into a ball of living lightning. While in this form, the raiju gains the incorporeal subtype and incorporeal quality. It only takes half damage from corporeal sources if they are magical (it takes no damage from non-magical weapons and objects). Additionally, it sparks with electricity while it is in this form. Any creature that touches the raiju with a natural or unarmed attack or whose square the raiju passes through during its movement must succeed at a DC 17 Reflex save or take 2d6 points of electricity damage. The save DC is Dexterity-based.
+In normal weather, a raiju can remain incorporeal for a number of rounds per day equal to its Hit Dice, though it can remain incorporeal for as long as it pleases during a thunderstorm.
+Shocking Burst (Su) Besides dealing normal slashing damage, the claw and tail of a raiju are considered to have the shocking burst weapon special quality. They deal 1d6 extra points of electrical damage on a normal hit and an additional 1d10 points on a critical hit.

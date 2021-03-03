@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghoul/ghoul-wolf-dire-tohc
+Ghoul Dire Wolf CR 6
+XP 2,400
+NE Large undead
+Init +6; Senses darkvision 60 ft., scent; Perception +16
+DEFENSE
+AC 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, -1 size)
+hp 90 (12d8+24 plus 12)
+Fort +6, Ref +6, Will +10
+Defensive Abilities channel resistance +4; Immune undead traits
+OFFENSE
+Speed 50 ft.
+Melee bite +17 (2d6+12 plus paralysis and trip)
+Space 10 ft.; Reach 5 ft.
+Special Attacks paralysis (1d4+2 rounds, DC 18)
+TACTICS
+Ghoul wolves hunt in packs, surrounding their prey and circling as they move in for the kill.
+STATISTICS
+Str 27, Dex 15, Con –, Int 6, Wis 14, Cha 14
+Base Atk +9; CMB +18; CMD 30 (34 vs. trip)
+Feats Improved Initiative, Improved Natural Attack (bite), Run, Skill Focus (Perception), Toughness, Weapon Focus (bite)
+Skills Perception +16, Stealth +9, Survival +10 (+14 tracking by scent); Racial Modifiers +4 Survival when tracking by scent

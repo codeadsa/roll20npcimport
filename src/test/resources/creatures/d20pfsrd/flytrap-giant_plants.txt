@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/flytrap-giant
+Giant Flytrap CR 10
+XP 9,600
+N Huge plant
+Init +8; Senses low-light vision, tremorsense 60 ft.; Perception +10
+DEFENSE
+AC 22, touch 12, flat-footed 18 (+4 Dex, +10 natural, –2 size)
+hp 149 (13d8+91)
+Fort +17, Ref +8, Will +5
+Immune mind-affecting effects, paralysis, poison, polymorph, sleep, stun; Resist acid 20
+OFFENSE
+Speed 10 ft.
+Melee 4 bites +15 (1d8+7 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks engulf
+STATISTICS
+Str 25, Dex 18, Con 25, Int 1, Wis 12, Cha 6
+Base Atk +9; CMB +18 (+22 grapple); CMD 32 (can’t be tripped)
+Feats Cleave, Great Fortitude, Improved Initiative, Power Attack, Skill Focus (Stealth), Vital Strike, Weapon Focus (bite)
+Skills Perception +10, Stealth +9 (+17 in undergrowth); Racial Modifiers +8 Stealth in undergrowth
+SPECIAL ABILITIES
+Engulf (Ex) If a giant flytrap begins its turn with an opponent at least two size categories smaller than itself grappled in one of its mouths, it can close its jaws completely around the foe by making a new combat maneuver check (as though attempting to pin the foe). If it succeeds, it engulfs the prey and inflicts 1d8+7 points of damage and 2d6 acid damage as the cavity floods with digestive enzymes. The seal formed is airtight, so an engulfed creature risks suffocation. Engulf is a special form of pinning, and an engulfed creature can escape in the same way as he can from being pinned, but since an engulfed creature is contained wholly inside the plant‘s jaws, the flytrap’s victim cannot be targeted by effects or attacks that require line of sight or line of effect. A giant flytrap that is grappling or pinning a foe cannot attack other targets with that bite, but is not otherwise hindered.

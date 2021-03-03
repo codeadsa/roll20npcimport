@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/formians/formian-taskmaster
+Formian Taskmaster CR6
+XP 2,400
+LN Medium outsider (extraplanar, lawful)
+Init +3; Senses darkvision 60 ft., hive mind 50 mi.; Perception +14
+DEFENSE
+AC 20, touch 14, flat-footed – (+3 Dex, +1 dodge, +6 natural)
+hp 57 (6d10+24)
+Fort +6, Ref +8, Will +8
+Immune cold, poison, petrification; Resist electricity 10, fire 10, sonic 10
+OFFENSE
+Speed 40 ft.
+Melee sting +10 (2d4+4 plus poison), 2 claws +10 (1d6+4)
+Special Attacks dominate monster
+STATISTICS
+Str 18, Dex 16, Con 18, Int 10, Wis 16, Cha 19
+Base Atk +6; CMB +10; CMD 24 (28 vs. trip)
+Feats Alertness, Dodge, Persuasive
+Skills Climb +13, Diplomacy +15, Intimidate +15, Sense Motive +14, Stealth +12, Perception +14
+Languages Formian; telepathy 100 ft.
+SPECIAL ABILITIES
+Dominate Monster (Su) A taskmaster formian can dominate the minds of up to four creatures at one time. This acts as the dominate monster spell (DC 17). If the target saves against this ability they are immune to the taskmaster’s power for 24 hours. This power can only affect creatures with a challenge rating of 2 levels less than the taskmaster formian. The save DC is Charisma-based.
+Poison (Ex) Sting—injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d2 Str damage; cure 1 save. The save DC is Constitution-based.

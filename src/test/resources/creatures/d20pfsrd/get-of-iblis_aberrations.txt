@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/get-of-iblis
+Get of Iblis CR 13
+XP 25,600
+CE Gargantuan aberration (aquatic)
+Init +5; Senses blindsense 30 ft., darkvision 60 ft., genie sense 100 ft.; Perception +24
+DEFENSE
+AC 27, touch 11, flat-footed 22 (+5 Dex, +16 natural, -4 size)
+hp 187 (15d8+120); regeneration 10 (acid, sonic)
+Fort +13, Ref +10, Will +15
+Immune fire; SR 22
+OFFENSE
+Speed 40 ft., climb 40 ft., swim 40 ft.
+Melee bite +20 (2d8+13 plus devour elemental), 2 claws +20 (1d10+13), sting +20 (1d12+13 plus poison)
+Space 20 ft.; Reach 20 ft.
+Special Attacks penetrating strike, poison
+STATISTICS
+Str 36, Dex 20, Con 26, Int 3, Wis 22, Cha 10
+Base Atk +11; CMB +28; CMD 43
+Feats Awesome Blow, Cleave, Combat Reflexes, Great Cleave, Improved Bull Rush, Improved Natural Armor, Power Attack, Stand Still
+Skills Climb +21, Perception +24, Swim +21
+Languages Aquan, Auran, Ignan, Terran (choose one)
+SQ amphibious
+SPECIAL ABILITIES
+Devour Elemental (Su) This ability functions against any creature that has one or more of the elemental subtypes of air, earth, fire, or water. Any such creature that suffers bite damage from a get of Iblis gains one negative level. A get of Iblis can critically hit a creature with one of these subtypes with its bite attack even if the target creature is normally immune to or resistant to additional damage from critical hits—this represents the get of Iblis’s ability to gnaw apart such creatures and consume portions of their body with shocking alacrity.
+Genie Sense (Ex) The get of Iblis can pinpoint genies within 100 feet, just as if it possessed the blindsense ability to that range.
+Penetrating Strike (Ex) The get of Iblis’s natural weapons are embedded with growths of adamantine—these attacks bypass DR/adamantine.
+Poison (Ex) Sting – injury, save Fort DC 25, 1/round for 6 rounds, effect 1d4 Str, cure 2 consecutive saves. The save DC is Constitution-based. If the initial saving throw is failed, the target is also affected by dimensional anchor (CL 15th) for 2d6 rounds.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/thessalgorgon-tohc
+Thessalgorgon CR 11
+XP 12,800
+N Huge aberration
+Init +4; Senses darkvision 60 ft., low-light vision, scent; Perception +17
+DEFENSE
+AC 22, touch 8, flat-footed 22 +14 natural, –2 size)
+hp 116 (8d10+72); fast healing 5
+Fort +15; Ref +6; Will +7
+Immune acid
+OFFENSE
+Speed 40 ft.
+Melee 8 serpentine bites +17 (2d6+11 plus 1d6 acid), bite +17 (2d6+11 plus 2d8 acid), gore +17 (2d8+11), 2 hooves +12 (2d6+5)
+Space 15 ft.; Reach 10 ft.
+Special Attacks breath weapon (60–foot cone, turn to stone, Fortitude DC 23 negates, usable every 1d4+1 rounds), spit acid (40 ft. line, 4d6 acid, Reflex DC 23 half, usable 1/day), trample (2d8+16, DC 25)
+STATISTICS
+Str 32, Dex 10, Con 28, Int 2, Wis 16, Cha 9
+Base Atk +8; CMB +21; CMD 31 (35 vs. trip)
+Feats Combat ReflexesB, Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception)
+Skills Perception +17
+SQ hydra traits
+SPECIAL ABILITIES
+Breath Weapon (Su) A thessalgorgon can use its breath weapon once every 1d4+1 rounds to create a 60–foot cone of green gas. Those caught in the area of the gas can attempt a DC 23 Fortitude save to resist the effects, but those who fail the save are immediately petrified. This petrification is temporary—each round, a petrified creature can attempt a new DC 23 Fortitude save to recover from the petrification as long as it is not caught within the area of effect of the thessalgorgon’s breath weapon a second time while petrified. A creature exposed to the thessalgorgon’s breath a second time while already petrified becomes permanently petrified, and can no longer attempt to make additional Fortitude saves to recover naturally. The save DC is Constitution-based.
+Hydra Traits (Ex) Though a thessalmonster cannot be killed by severing all of its serpentine heads, doing so prevents them from attacking and can assist in slaying its body. Any attack that is not an attempt to sever a head affects the body, including area attacks or attacks that cause piercing or bludgeoning damage. To sever a head, an opponent must make a sunder attempt with a slashing weapon targeting a head.
+A head is considered a separate weapon with hardness 0 and hit points equal to the thessalmonster’s HD. To sever a head, an opponent must inflict enough damage to reduce the head’s hit points to 0 or less. Severing a head deals damage to the thessalmonster’s body equal to the thessalmonsters’s current HD. A thessalmonster can’t attack with a severed head, but takes no other penalties.
+Editor’s Note
+Base template: Thessalmonster (CR +3)

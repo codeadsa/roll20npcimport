@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-nabasu-death-stealer-demon/demon-nabasu-mature-tohc
+Nabasu (Mature) CR 10
+XP 9,600
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +5; Senses darkvision 60 ft.; Perception +31; Aura paralysis (10-ft., DC 24)
+DEFENSE
+AC 30, touch 12, flat-footed 29 (+1 Dex, +1 dodge, +18 natural)
+hp 175 (13d10+104)
+Fort +16, Ref +5, Will +11
+DR 10/cold iron or good; Immune death effects, electricity paralysis, poison; Resist acid 10, cold 10, fire 10; SR 21
+OFFENSE
+Speed 30 ft., fly 60 ft.
+Melee 2 claws +20 (1d6+7), bite +20 (1d8+7)
+Special Attacks death gaze 10/day (DC 18), sneak attack +2d6
+Spell-Like Abilities (CL 13th)
+At will—deeper darkness (10-ft. radius), greater teleport (self plus 50 pounds of objects only)
+3/day—enervation, silence (DC 14), vampiric touch
+1/day—regenerate, summon (level 4, 1 mature nabasu 30% or 2d4 ghouls 60%)
+STATISTICS
+Str 25, Dex 13, Con 26, Int 14, Wis 16, Cha 15
+Base Atk +13; CMB +20; CMD 32
+Feats Alertness, Combat Expertise, Dodge, Flyby Attack, Great Cleave, Improved Initiative, Power Attack
+Skills Escape Artist +14, Fly +17, Intimidate +15, Knowledge (arcana) +15, Knowledge (planes) +18, Perception +31, Stealth +17 (+25 in shadowy areas), Survival +16; Racial Modifiers +8 Perception, +8 Stealth in shadowy areas
+Languages Abyssal, Common, plus one more; telepathy 100 ft.
+SQ plane shift
+SPECIAL ABILITIES
+Death Gaze (Su) A mature nabasu can use its death gaze for a full round ten times per day. Living creatures within 20 feet must succeed on a Fortitude save or gain a negative level. A humanoid slain in this manner transforms into a ghoul in 1d4 rounds under the control of the nabasu that created it. The save DC is Charisma-based. If the nabasu dies, any ghouls under its control become free-willed.
+Paralysis Aura (Su) As a free action, once per day, a mature nabasu can release a paralysis arua in a 10-ft. radius. Creatures in the area must succeed on a DC 24 Fort save or be paralyzed for 1d6+4 rounds. Demons are immune to this aura. The save DC is Constitution-based.
+Plane Shift (Su) Three times per day a mature nabasu can shift between the Abyss and the Material Plane or back. This transports the nabasu and up to six other creatures provided they all link hands with the nabasu. It is otherwise similar to the spell of the same name (CL 10th for the demonling and CL 13th for the mature nabasu).
+Other Forms
+Nabasu Demonling

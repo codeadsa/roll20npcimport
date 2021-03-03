@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/steward-of-the-skein
+Steward Of The Skein CR 15
+XP 51,200
+N Medium outsider (extraplanar, herald, psychopomp, shapechanger)
+Init +7; Senses blindsense 30 ft., darkvision 60 ft., detect chaos/evil/good/law, spiritsense; Perception +27; Aura fate (20 ft.)
+DEFENSE
+AC 31, touch 23, flat-footed 27 (+4 deflection, +3 Dex, +1 dodge, +5 insight, +8 natural)
+hp 199 (19d10+95); fast healing 5
+Fort +15, Ref +20, Will +22
+DR 10/adamantine; Immune death effects, disease, electricity, mental control, poison, possession; Resist cold 10, fire 10; SR 26
+OFFENSE
+Speed 50 ft., fly 150 ft. (average)
+Melee 2 slams +26 (2d10+7 plus gaze)
+Special Attacks gaze, tugging strands (Fate subdomain, 3/day)
+Spell-Like Abilities (CL 19th; concentration +25)
+Constant—detect chaos/evil/good/law
+At will—augury, cure light wounds, dancing lights, death ward, detect thoughts (DC 18), disguise self, major image (DC 19), greater teleport (self plus 50 lbs. of objects only)
+3/day—breath of life, chain lightning (DC 22), globe of invulnerability, greater dispel magic, greater invisibility (self only), heal, hold monster (DC 21), limited wish (DC 23), plane shift, undeath to death (DC 22), wall of force
+STATISTICS
+Str 25, Dex 16, Con 20, Int 18, Wis 21, Cha 23
+Base Atk +19; CMB +26 (+28 disarm); CMD 49 (51 vs. disarm)
+Feats Combat Casting, Combat Expertise, Dodge, Improved Disarm, Improved Initiative, Improved Iron Will, Iron Will, Lightning Reflexes, Mobility, Spell Penetration
+Skills Bluff +19, Diplomacy +16, Fly +15, Handle Animal +16, Heal +27, Intimidate +28, Knowledge (history, planes, religion) +26, Knowledge (nature) +13, Perception +27, Sense Motive +27, Stealth +15
+Languages Abyssal, Celestial, Common, Draconic, Infernal
+SQ change shape (incorporeal form), spirit touch
+SPECIAL ABILITIES
+Fate Aura (Su) The herald’s aura acts as consecrate and grants her a +4 deflection bonus to AC, a +5 insight bonus to AC, and a +4 resistance bonus on saving throws. Any creature striking the herald from within her aura either is blinded or takes 1d6 points of Strength damage (herald’s choice, Will DC 25 negates). The save DC is Charisma-based.
+Gaze (Su) Dazed 2d6 rounds (or stunned if 5 HD or fewer, or held for 2d6 rounds if undead), 60 feet; Will DC 25 negates.
+A creature that succeeds at its save is immune to the gaze for 24 hours. This is a mind-affecting effect (or a necromancy effect against undead). The save DC is Charisma-based.
+Incorporeal Form (Su) When incorporeal, the herald can use her spell-like abilities and gaze attack but can’t make slam attacks.

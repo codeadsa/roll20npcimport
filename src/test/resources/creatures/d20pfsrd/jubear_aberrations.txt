@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/jubear
+Jubear CR 7
+XP 3,200
+N Large aberration
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 20, touch 10, flat-footed 19 (+1 Dex, +10 natural, -1 size)
+hp 94 (9d8+54); regeneration 2 (fire)
+Fort +12, Ref +7, Will +3
+Immune acid
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +13 (1d6+8 plus grab), bite +13 (1d8+8)
+Space 10 ft.; Reach 5 ft.
+Special Attacks digestive ooze, swallow whole (3d6 acid damage, AC 15, 9 hp)
+STATISTICS
+Str 27, Dex 13, Con 22, Int 2, Wis 10, Cha 3
+Base Atk +6; CMB +15 (+19 grapple); CMD 26 (30 vs. trip)
+Feats Alertness, Endurance, Improved Initiative, Power Attack, Run
+Skills Perception +8, Sense Motive +2, Stealth +3, Survival +6
+Languages none
+SPECIAL ABILITIES
+Animalistic (Ex) Jubears have the resistance of animals. They have good Fortitude and Reflex saves while having poor Will saves.
+Digestive Ooze (Ex) An opponent pinned by the jubear takes 1d6 points of acid damage.
+Swallow Whole (Ex) A creature pinned for three consecutive rounds is swallowed whole. A swallowed opponent takes 3d6 points of acid damage each round. A swallowed creature can escape by doing 9 points of damage to the inside of the bear with a light slashing or piercing weapon (AC 15). A creature that escapes the pin while swallowed whole emerges from the bear’s stomach, not its throat, where it may be grabbed and pinned again.

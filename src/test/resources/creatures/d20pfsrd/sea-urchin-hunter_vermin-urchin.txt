@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/urchin/sea-urchin-hunter
+Hunter Urchin CR 1
+XP 400
+N Medium vermin (aquatic)
+Init –4; Senses low-light vision, scent, tremorsense 30 ft.; Perception +4
+DEFENSE
+AC 12, touch 6, flat-footed 12 (–4 Dex, +6 natural)
+hp 13 (2d8+4)
+Fort +5, Ref –4, Will +0
+Defensive Abilities all-around vision, stability; Immune mind-affecting effects
+OFFENSE
+Speed 15 ft.
+Melee tongue +3 (1d3+3 plus pull)
+Space 5 ft.; Reach 5 ft. (20 ft. with tongue)
+Special Attacks spines (+3, 1d4+2 plus poison), pull (tongue, 5 feet)
+STATISTICS
+Str 15, Dex 3, Con 14, Int —, Wis 11, Cha 2
+Base Atk +1; CMB +3; CMD 9 (17 vs. bull rush, can’t be tripped)
+Skills Perception +4; Racial Modifiers +4 Perception
+SQ amphibious
+SPECIAL ABILITIES
+Poison (Ex) Spines—injury; save Fort DC 13; frequency 1/round for 6 rounds; effect staggered for 1 round; cure 1 save.
+Spines (Ex) When any creature attacks a hunter urchin with an unarmed strike or a natural attack, or with a manufactured melee weapon while adjacent to the urchin, the urchin gains a free attack with its spines.
+Stability (Ex) Hunter urchins receive a +8 bonus to CMD against bull rush and trip combat maneuvers.

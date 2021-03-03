@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/giant-bog-turtle
+Giant Bog Turtle CR 12
+XP 19,200
+N Huge magical beast (aquatic)
+Init +4; Senses darkvision 60 ft., low-light vision, scent; Perception +15
+DEFENSE
+AC 26, touch 8, flat-footed 26 (+18 natural, -2 size)
+hp 184 (16d10+80 plus 16)
+Fort +15, Ref +10, Will +6
+Defensive Abilities shell
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee bite +27 (3d8+18/19-20 plus grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks capsize, current, swallow whole (3d8+18 crushing damage plus 8 acid damage, AC 19, 18 hp)
+TACTICS
+A giant bog turtle lies silently, drawn into its shell waiting for prey to pass near. At a distance greater than 30 feet, its shell resembles a large mound of earth or foliage and is often mistaken for such. Once prey moves within range, the giant bog turtle snaps its head out and attempts to swallow a foe. In deeper water, it opens its mouth and draws in water, plants, rocks, and pulls swimmers close enough so it can use its bite and attempt to swallow the creature.
+STATISTICS
+Str 34, Dex 10, Con 21, Int 2, Wis 12, Cha 10
+Base Atk +16; CMB +30 (+34 grapple); CMD 40 (44 vs. trip)
+Feats Endurance, Improved Critical (bite), Improved Initiative, Improved Natural Attack (bite), Power Attack, Skill Focus (Perception), Toughness, Weapon Focus (bite)
+Skills Perception +15, Swim +31
+SPECIAL ABILITIES
+Capsize (Ex) A giant bog turtle can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25, or the result of the captain’s Profession (sailor) check, whichever is higher. For each size category the ship is larger than the bog turtle’s size, the giant bog turtle takes a cumulative -10 penalty on this CMB check.
+Current (Ex) As a full round action, a giant bog turtle can induce a strong current by opening its mouth and inhaling large quantities of water. This strong rush of water lasts for 5 rounds and affects all in a cone-shaped area to a range of 100 feet. Creatures and objects of up to Large size are pulled toward the bog turtle at the rate of 20 feet per round. Affected creatures can make a Swim check (DC 30) to resist the current. A swimming creature cannot take 10 on its Swim check. The check DC is Strength-based.
+Shell (Ex) If it is severely threatened a giant bog turtle can completely withdraw into its shell, leaving it almost completely impervious to attack. When withdrawn, a giant bog turtle gains the benefit of cover (+4 AC against melee and ranged attacks). Since it cannot move when withdrawn into its shell, a bog turtle does not gain the +2 bonus to Reflex saves normally granted by cover.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-bishop
+Bishop Agathion CR 4
+XP 1,200
+NG Medium outsider (aquatic, extraplanar, good)
+Init +7; Senses darkvision 60 ft., low-light vision, detect evil; Perception +11; Aura fear (30 ft., DC 16)
+DEFENSE
+AC 17, touch 13, flat-footed 14 (+3 Dex, +4 natural)
+hp 38 (7d10)
+Fort +2, Ref +8, Will +8; +4 vs. poison
+DR 5/evil or silver; Immune electricity, petrification; Resist cold 10, sonic 10; SR 15
+OFFENSE
+Speed 30 ft., swim 60 ft.
+Melee 2 claws +10 (1d10+3)
+Special Attacks stunning strike
+Spell-Like Abilities (CL 4th; concentration +3)
+Constant— detect evil, speak with animals
+At will— create water, dancing lights, stabilize
+3/day— bless, discern lies, remove disease
+1/week— commune (6 questions, CL 12th) STATISTICS
+Str 14, Dex 17, Con 11, Int 14, Wis 16, Cha 9
+Base Atk +7; CMB +10; CMD 22
+Feats Agile Maneuvers, Improved Initiative, Self-Sufficient, Weapon Finesse
+Skills Bluff +9, Heal +5, Intimidate +6, Knowledge (geography) +7, Knowledge (nature) +7, Knowledge (planes) +12, Perception +11, Sense Motive +13, Stealth +12, Survival +12, Swim +10
+Languages Celestial, Common, Draconic, Infernal; speak with animals; truespeech
+SQ amphibious, lay on hands (3d6, 2/day, as a 7th-level paladin)
+SPECIAL ABILITIES
+Fear Aura (Su) A bishop’s eerie, fish-like appearance evokes feelings of unsettling fear in foes within a 30-foot radius. The bishop can use this aura as a free action, and any creature within this area must succeed at a DC 16 Will save or become shaken for 5d6 rounds. A creature that succeeds at its save is immune to the bishop’s aura for 24 hours. The save DC is Wisdom-based.
+Stunning Strike (Ex) Five times per day, a bishop can stun a creature it hits with a claw attack. The targeted creature must succeed at a DC 13 Fortitude save or be stunned for 1 round. The save DC is Constitution-based.

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/crab-shark-eating
+Shark-Eating Crab CR 7
+XP 3,200
+N Huge vermin (aquatic)
+Init +2; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 20, touch 10, flat-footed 18 (+2 Dex, +10 natural, -2 size)
+hp 84 (8d8+48)
+Fort +12, Ref +4, Will +3
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., swim 60 ft.
+Melee 2 claws +13 (1d8+9 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks constrict (1d8+9), darting claw
+STATISTICS
+Str 29, Dex 14, Con 22, Int —, Wis 12, Cha 2
+Base Atk +6; CMB +17 (+21 grapple); CMD 29 (41 vs. trip)
+Skills Perception +5, Swim +17; Racial Modifiers +4 Perception
+SQ water dependency
+SPECIAL ABILITIES
+Darting Claw (Ex) Evolved for snatching fast prey, a shark-eating crab is exceptionally quick with its claws. When making a full attack, if a shark-eating crab misses with both of its claw attacks, it can make an additional claw attack at a -2 penalty against any creature within its reach.

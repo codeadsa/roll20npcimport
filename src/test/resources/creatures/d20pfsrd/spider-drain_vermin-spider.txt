@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/spider-drain
+Drain spider
+CR 1/6 (XP 65)
+N Diminuitive vermin
+Init +7; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +4
+DEFENSE
+AC 21, touch 21, flat-footed 14 (+7 dex, +4 size)
+hp 2 (1d8-2)
+Fort +0, Ref +7, Will +0
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee bite -1 (1d2-5 plus poison)
+Special Attacks web (+11 ranged, DC 10, hp 2)
+STATISTICS
+Str 1, Dex 25, Con 6, Int —, Wis 10, Cha 2
+Base Atk +4; CMB +3; CMD 8
+Skills Climb +19, Perception +4 (+8 in webs), Stealth +23 (+27 in webs); Racial Modifiers +4 Perception, +4 Stealth (+8 in webs), +16 Climb
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 10; frequency 1/round for 4 rounds; effect 1d2 Strength damage; cure 1 save.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/oil-shark
+Oil Shark CR 7
+XP 3,200
+N Huge magical beast (aquatic, extraplanar, fire)
+Init +6; Senses Blindsense 30 ft., keen scent 180 ft.; Perception +8
+DEFENSE
+AC 19, touch 10, flat-footed 19 (+2 Dex, +9 natural, -2 size)
+hp 85 (10d10+30)
+Fort +10, Ref +9, Will +6
+DR 5/ -; Immune fire
+Weakness vulnerability to cold
+OFFENSE
+Speed Swim 60 ft.
+Melee bite +14 (2d6+9)
+Space 15 ft.; Reach 10 ft.
+STATISTICS
+Str 23, Dex 15, Con 17, Int 1, Wis 12, Cha 2
+Base Atk +10 CMB +18; CMD 31
+Feats Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception), Vital Strike
+Skills Escape Artist +13 (+21 vs. grapple), Perception +8, Swim +20; Racial Modifiers +8 Escape Artist to escape a grapple
+SPECIAL ABILITIES
+Keen Scent (Ex) An oil shark can notice creatures by scent in a 180-foot radius and detect blood in oil or water at ranges of up to one mile.
+Oil Shark Armor (Medium Armor)
+Because of the natural oily nature of the metal in an oil shark’s scales (which retain these properties even after its death), a creature suffers no penalty to Swim checks for wearing this armor and also adds a +5 bonus to all Escape Artist checks. In addition, a creature wearing oil shark armor is unaffected by obstructions such as webs (magical or otherwise). Oil Shark Armor: Cost 1,000 gp (usually can’t be bought); Armor Bonus +6; Maximum Dex Bonus +2; Armor Check Penalty –4; Arcane Spell Failure 30%; Speed 20 ft. (Base 30 ft.), 15 ft. (Base 20 ft.); Weight 40 lb.

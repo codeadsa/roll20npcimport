@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/spawn-of-destruction/tarrasque
+Tarrasque (B1) CR 25
+XP 1,638,400
+N Colossal magical beast
+Init +7; Senses low-light vision, scent; Perception +43; Aura frightful presence (300 ft., DC 27)
+DEFENSE
+AC 40, touch 5, flat-footed 37 (+3 Dex, +35 natural, –8 size)
+hp 525 (30d10+360); regeneration 40
+Fort +31, Ref +22, Will +12
+DR 15/epic; Immune ability damage, acid, bleed, disease, energy drain, fire, mind-affecting effects, paralysis, permanent wounds, petrification, poison, polymorph; SR 36
+OFFENSE
+Speed 40 ft.
+Melee bite +37 (4d8+15/15–20/×3 plus grab), 2 claws +37 (1d12+15), 2 gores +37 (1d10+15), tail slap +32 (3d8+7)
+Ranged 6 spines +25 (2d10+15/×3)
+Space 30 ft.; Reach 30 ft. (60 ft. with tail slap)
+Special Attacks rush, spines, swallow whole (6d6+22 plus 6d6 acid, AC 27, hp 52)
+STATISTICS
+Str 41, Dex 16, Con 34, Int 3, Wis 15, Cha 14
+Base Atk +30; CMB +53 (+57 grapple); CMD 66
+Feats Awesome Blow, Blind-Fight, Bleeding Critical, Cleave, Combat Reflexes, Critical Focus, Great Cleave, Great Fortitude, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Lightning Reflexes, Power Attack, Run, Staggering Critical
+Skills Acrobatics +3 (+43 when jumping), Perception +43; Racial Modifiers +8 Perception
+Languages Aklo (cannot speak)
+SQ carapace, powerful leaper
+SPECIAL ABILITIES
+Carapace (Su) The tarrasque’s scales deflect cones, lines, rays, and magic missile spells, rendering the tarrasque immune to such effects. There is a 30% chance a deflected effect reflects back in full force at the caster; otherwise it is simply negated.
+Powerful Leaper (Ex) The tarrasque uses its Strength to modify Acrobatics checks made to jump, and has a +24 racial bonus on Acrobatics checks made to jump.
+Regeneration (Ex) No form of attack can suppress the tarrasque’s regeneration—it regenerates even if disintegrated or slain by a death effect. If the tarrasque fails a save against an effect that would kill it instantly, it rises from death 3 rounds later with 1 hit point if no further damage is inflicted upon its remains. It can be banished or otherwise transported as a means to save a region, but the method to truly kill it has yet to be discovered.
+Rush (Ex) Once per minute for 1 round, the tarrasque can move at a speed of 150 feet. This increases its Acrobatics bonus on checks made to jump to +87.
+Spines (Ex) The tarrasque can loose a volley of six spear-like spines from its body as a standard action with a toss of its head or a lash of its tail. Make an attack roll for each spine—all targets must be within 30 feet of each other. The spines have a range increment of 120 ft.

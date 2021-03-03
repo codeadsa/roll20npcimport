@@ -1,0 +1,45 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/azata-veranallia
+Veranallia Azata
+CR 20
+XP 307,200
+CG Large outsider (azata, chaotic, extraplanar, good)
+Init +12; Senses darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +39
+DEFENSE
+AC 36, touch 17, flat-footed 28 (+8 Dex, +19 natural, –1 size)
+hp 324 (24d10+192)
+Fort +21, Ref +16, Will +22
+DR 15/cold iron and evil; Immune electricity, petrification; Resist cold 10, fire 10; SR 31
+OFFENSE
+Speed 50 ft.; transport via plants
+Melee +3 icy burst sickle +35/+30/+25/+20 (1d6+12/19–20 plus 1d6 cold), 4 vines +27 (1d8+4 plus grab)
+Space 10 ft.; Reach 5 ft. (10 ft. with vines)
+Special Attacks autumnal embrace, constrict (1d8+4), rebirth
+Spell-Like Abilities (CL 20th; concentration +29)
+Constant—detect animals or plants, detect evil, speak with plants, transport via plants
+At will—blight, cure serious wounds, diminish plants, entangle (DC 20), plant growth
+5/day—control plants (DC 27), grove of respite, wall of thorns
+3/day—animate plants, awaken, repel metal or stone
+1/day—regenerate, shambler
+Cleric Spells Prepared (CL 20th; concentration +28)
+9th—energy drain (DC 27) (2), mass heal, storm of vengeance (DC 27)
+8th—cloak of chaos, earthquake, mass cure critical wounds (2), sunburst (DC 26)
+7th—blasphemy (DC 25), destruction (DC 25), greater restoration, mass cure serious wounds, repulsion (DC 25)
+6th—antilife shell, banishment (DC 24), greater dispel magic, heal, wind walk
+5th—breath of life, dispel evil (DC 23) (2), greater command (DC 23), insect plague
+4th—antiplant shell, chaos hammer (DC 22), freedom of movement, holy smite (DC 22), neutralize poison, poison (DC 22)
+3rd—contagion (DC 21), daylight, dispel magic, protection from energy, searing light, water walk
+2nd—align weapon, barkskin, calm emotions (DC 20), enthrall (DC 20), gentle repose, lesser restoration
+1st—detect law, divine favor, endure elements, entropic shield, protection from evil, remove fear
+0th—create water, detect poison, light, purify food and drink
+STATISTICS
+Str 28, Dex 26, Con 25, Int 18, Wis 27, Cha 29
+Base Atk +24; CMB +34 (+38 grapple); CMD 52 (56 vs. trip)
+Feats Alertness, Cleave, Combat Casting, Combat Reflexes, Critical Focus, Great Cleave, Improved Critical (sickle), Improved Initiative, Improved Natural Attack (vine), Power Attack, Sickening Critical, Toughness
+Skills Bluff +36, Climb +33, Escape Artist +35, Heal +35, Intimidate +36, Knowledge (nature) +31, Knowledge (planes) +31, Perception +39, Sense Motive +39, Stealth +31
+Languages Celestial, Draconic, Infernal; speak with plants; truespeech
+SQ undersized weapons, winter sickle
+SPECIAL ABILITIES
+Autumnal Embrace (Su) At will, a veranallia can strike any creature within 30 feet barren or sterile. The target must succeed at a DC 31 Fortitude save or lose any ability it had to reproduce or bear children. This effect can only be removed by a heal, limited wish, miracle, or wish spell. Creatures that magically reproduce are not affected by this ability. The save DC is Charisma-based.
+Rebirth (Su) Once per day, a veranallia can reincarnate a creature she deems worthy of the honor. The creature’s original body decays and sinks into the ground, affecting the surrounding area in a 1/2-mile radius as though with plant growth (enrichment). Over the course of 1d4 days, a white, flowery cocoon emerges from the affected ground and splits open, revealing the newly reincarnated creature inside. Creatures reincarnated by a veranallia always return to life as aasimars. This ability otherwise functions as the reincarnate spell.
+Spell Casting Veranallias cast divine spells as 20th-level clerics and have access to some druid spells. They do not gain access to domains or other cleric abilities.
+Winter Sickle (Ex) At will as a free action, a veranallia can create a jagged blade from her hoarfrost-covered vines that acts as a +3 icy burst sickle. One round after it leaves the veranallia’s grasp, the weapon melts into a small puddle of water.

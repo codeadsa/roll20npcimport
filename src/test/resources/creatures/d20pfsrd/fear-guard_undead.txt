@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/fear-guard
+Fear Guard CR 5
+XP 1,600
+CE Medium undead (incorporeal)
+Init +6; Senses darkvision 60 ft., see in darkness; Perception +10; Aura fear aura (20 ft., DC 17)
+DEFENSE
+AC 17, touch 17, flat-footed 14 (+4 deflection, +2 Dex, +1 dodge)
+hp 51 (6d8+24)
+Fort +6; Ref +4; Will +6
+Defensive Abilities channel resistance +2, incorporeal; Immune undead traits;
+Weaknesses daylight vulnerability
+OFFENSE
+Speed fly 30 ft. (good)
+Melee incorporeal touch +7 (1d3 Wis damage)
+Special Attacks create spawn
+Spell-like Abilities (CL 8th):
+At-will—darkness, ray of enfeeblement (DC 15)
+2/day—deeper darkness
+TACTICS
+Shrouding themselves in a preternatural darkness, fear guards fight using their spell-like abilities and their incorporeal touch. If guarding a particular location, a fear guard fights until either it is slain or driven away, or its opponents are slain or flee. If exposed to natural sunlight, fear guards either surround themselves with magical darkness for protection or flee if this unsuccessful.
+STATISTICS
+Str -, Dex 15, Con -, Int 10, Wis 12, Cha 18
+Base Atk +4; CMB +6; CMD 20 (can’t be tripped)
+Feats Dodge, Improved Initiative, Weapon Focus (incorporeal touch)
+Skills Fly +15, Perception +10, Sense Motive +10, Stealth +10 (+18 in dim light and darkness); Racial Modifiers Stealth +8 in dim light and darkness
+SPECIAL ABILITIES
+Create Spawn (Su) Any living creature reduced to Wisdom 0 by a fear guard is slain and becomes a fear guard under the control of its killer in 1d6 rounds.
+Daylight Vulnerability (Ex) A fear guard exposed to natural sunlight (not merely bright light) suffers 2d6 points of damage per round of exposure and is slowed (as the spell).

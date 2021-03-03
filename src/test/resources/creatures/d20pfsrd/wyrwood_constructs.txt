@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/wyrwood
+Wyrwood CR 1/2
+XP 200
+Wyrwood rogue 1
+N Small construct
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 16, touch 14, flat-footed 13 (+2 armor, +3 Dex, +1 size)
+hp 18 (1d8+10)
+Fort +0, Ref +5 (+1 vs. traps), Will +1
+Immune construct traits
+OFFENSE
+Speed 30 ft.
+Melee dagger +3 (1d3+2/19–20)
+Ranged dagger +4 (1d3+2/19–20)
+Special Attacks sneak attack +1d6
+STATISTICS
+Str 14, Dex 17, Con —, Int 15, Wis 12, Cha 6
+Base Atk +0; CMB +1; CMD 14
+Feats Deft Hands
+Skills Acrobatics +7, Appraise +6, Climb +6, Craft (alchemy) +6, Disable Device +9, Escape Artist +7, Knowledge (dungeoneering) +6, Perception +5, Sleight of Hand +9, Stealth +11, Use Magic Device +2
+Languages Common
+SQ trapfinding +1

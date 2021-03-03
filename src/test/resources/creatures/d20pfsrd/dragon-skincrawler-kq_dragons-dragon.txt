@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-skincrawler-kq
+Skincrawler Dragon CR 11
+XP 12,800
+NE Huge dragon
+Init +4; Senses darkvision 120 ft., blindsense 60 ft., scent; Perception +14; Aura frightful presence (180 ft., DC 15)
+DEFENSE
+AC 25, touch 8, flat-footed 25 (+0 Dex, +17 natural, -2 size)
+hp 175 (13d12+91)
+Fort +14, Ref +8, Will +8
+DR 5/magic; Immune sleep, paralysis; SR 22
+Weaknesses insatiable hunger
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +20 (2d8+13), 2 claws +20 (3d6+9), 2 wings +18 (1d8+4), tail slap +18 (2d8+13)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-foot cone, damage special, Fortitude DC 24 negates, usable every 1d4 rounds), crush (2d8+13), slow feed
+TACTICS
+The skincrawler’s strategy is simple: employ its vampiric breath weapon and fight until it can fly away with at least one dying victim.
+Morale If a battle goes poorly, the skincrawler retreats, returning to the scene later with a burning vengeance and the maximum complement of temporary hit points. More often, the skincrawler takes its prey with ease. Peasants and heroes have watched helplessly as the skincrawler takes to the skies with a family member or comrade in its spider-swarm maw.
+STATISTICS
+Str 28, Dex 10, Con 22, Int 7, Wis 12, Cha 9
+Base Atk 13; CMB 24; CMD 34
+Feats Ability Focus (breath weapon), Critical Focus, Flyby Attack, Improved Initiative, Improved Natural Attack (claws), Multiattack, SnatchB, Toughness
+Skills Fly +5, Heal +7, Intimidate +8, Perception +14, Sense Motive +11, Use Magic Device +8
+Languages Draconic
+SPECIAL ABILITIES
+Breath Weapon (Su) A skincrawler dragon breathes a roiling fog of black motes that burrow into the flesh of any living creature failing a DC 24 Fortitude save. [The save DC is Constitution-based.] Once inside, the motes germinate, grow, and tunnel under the skin. Infested hosts are nauseated; spellcasting or concentrating on spells requires a caster level check; using skills involving patience or concentration requires a DC 20 Will save.
+Any magical healing of 8 hp or more destroys the infestation and removes its ill effects.
+One round after the initial infestation, the multi-legged motes erupt enmasse through the victim’s pores, dealing 3d6 damage to the victim and forming a (poisonless) spider swarm that scurries back to the dragon.
+Once the swarm clambers under the dragon’s scales and disperses (i.e., enters the dragon’s space), the dragon gains temporary hit points equal to the number of hp the victim lost, up to a maximum of the dragon’s normal hp maximum (effectively doubling the creature’s total hp).
+Insatiable Hunger (Ex) Each sunrise, the skincrawler dragon suffers 6d6 hp damage from intense starvation. The damage can only be healed through magical healing or the acquisition of temporary hit points.
+Slow Feed (Su) A skincrawler dragon can send a controlled number of shadow spiders from under its scales into the mouth of any dying or stable living creature it touches. Any magical healing of 8 hp or more destroys this infestation and removes its ill effects. While infested, a stable victim who regains consciousness is paralyzed (instead of disabled).
+The shadow spiders feed for 1 hour per HD of the victim, absorbing 1 hit point an hour; if the spiders can feed for more than 8 hours on a victim (meaning they are feeding on a 9-HD or higher creature), they additionally absorb any hit points the victim would have gained through natural healing from rest. When the spiders absorb more than the victim’s HD in hp, the infestation exits the victim’s mouth, scurries as a (harmless) spider swarm back to the dragon, and delivers the siphoned hp to the dragon as temporary hit points.
+If the dragon is not within a 60-ft. range of the exiting spiders by sunrise, the swarm crumbles to dust. The spiders’ death allows the former host a DC 24 Fortitude save to overcome paralysis.

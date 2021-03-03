@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-prism
+Prism Dragon CR 17
+XP 102,400
+CN Huge dragon (extraplanar)
+Init +5; Senses blindsight 30 ft., darkvision 60 ft., low-light vision; Perception +28
+DEFENSE
+AC 35, touch 9, flat-footed 34 (+1 Dex, +26 natural, –2 size)
+hp 283 (21d12+147)
+Fort +21, Ref +15, Will +17; +4 vs. psychic spells
+Defensive Abilities all-around vision, psychic resilience, ray reflection; DR 15/magic; Immune acid, electricity, paralysis, sleep; SR 28
+Weaknesses vulnerable to sonic
+OFFENSE
+Speed 60 ft., climb 30 ft., fly 200 ft. (poor)
+Melee bite +30 (2d6+10/19–20), 2 claws +29 (1d8+10), tail slap +27 (2d6+5), 2 wings +27 (1d8+5)
+Space 15 ft.; Reach 15 ft.
+Special Attacks breath weapon (100-ft. line, 20d6 fire, Reflex DC 27 half, usable every 1d4 rounds)
+Psychic Magic (CL 21st; concentration +29)
+20 PE—aura alteration (3 PE, DC 21), emotive block (3 PE, DC 21), greater possession (8 PE, DC 26), id insinuation V (6 PE, DC 24), instigate psychic duel (2 PE, DC 20), mass synesthesia (6 PE, DC 24), psychic surgery (5 PE, DC 25), suggestion (3 PE, DC 21), synaptic scramble (4 PE, DC 22)
+Spell-Like Abilities (CL 21st; concentration +29)
+At will—analyze aura, color spray (DC 19), glitterdust (DC 20), mirror image (DC 19)
+3/day—invisibility (DC 20), major image (DC 21), rainbow pattern (DC 22)
+1/day—phantasmal killer (DC 22), prismatic spray (DC 25)
+STATISTICS
+Str 31, Dex 12, Con 25, Int 20, Wis 21, Cha 26
+Base Atk +21; CMB +33; CMD 44
+Feats Deceitful, Great Fortitude, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Multiattack, Power Attack, Psychic Combatant, Vital Strike, Weapon Focus (bite)
+Skills Bluff +35, Climb +31, Diplomacy +22, Disguise +22, Fly +16, Intimidate +31, Knowledge (dungeoneering, history, nobility) +28, Perception +28, Sense Motive +28, Stealth +16, Survival +28
+Languages Aklo, Auran, Common, Draconic, Elven, Terran
+SQ dazzling presence, razor sharp
+SPECIAL ABILITIES
+Breath Weapon (Su) Once every 1d4 rounds as a standard action, a prism dragon can fire a beam of scintillating light in a 100-foot line. Creatures caught in this line take 20d6 points of fire damage and are blinded for 2d6 rounds. A successful DC 27 Reflex save halves the damage and negates the blindness. As a full-round action, a prism dragon can instead fire a prismatic beam; every creature within the line of effect who fails its Reflex save is also affected as if targeted by a prismatic spray spell.
+Using this ability expends the prismatic dragon’s daily use of its prismatic spray spell-like ability.
+Dazzling Presence (Su) In areas of dim or brighter light, a prism dragon’s body catches and refracts light into brilliant patterns and colors within 100 feet around its body. This effect renders illusions more potent, increasing the save DC of all illusion spells cast within the area of effect by 2. In addition, as a swift action, the prism dragon may move any dancing lights, daylight, light, or visual illusion spells within the area of its dazzling presence to any other point within 100 feet.
+Razor Sharp (Ex) All of a prism dragon’s natural attacks deal slashing damage.
+Ray Reflection (Ex) A prism dragon’s scales reflect ray spells back on the ray’s source if the ray fails to overcome the dragon’s spell resistance.

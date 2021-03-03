@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/magmoid
+Magmoid CR 7
+XP 3,200
+N Large outsider (earth, extraplanar, fire)
+Init +7; Senses blindsight 60 ft.; Perception +14; Aura fiery aura (10 ft., 1d6 fire, Fort DC 17 resists)
+DEFENSE
+AC 22, touch 13, flat-footed 18 (+3 Dex, +1 dodge, +9 natural, -1 size)
+hp 75 (10d10+20)
+Fort +9, Ref +10, Will +5
+DR 10/piercing; Immune fire, elemental traits
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft.
+Melee slam +11 (2d6+2 plus 2d6 fire)
+Space 10 ft.; Reach 0 ft.
+Special Attacks burn, magma blast (40 ft. line, 2d6 fire damage, Ref DC 17 half, useable every 1d4 rounds), melt weapons (Fort DC 17)
+STATISTICS
+Str 14, Dex 17, Con 15, Int 4, Wis 11, Cha 10
+Base Atk +10 CMB +13; CMD 27(can’t be tripped)
+Feats Dodge, Improved Initiative, Improved Overrun, Iron Will, Power Attack
+Skills Perception +14
+Languages Ignan, Terran (cannot speak)
+SPECIAL ABILITIES
+Burn (Ex) The body of a magmoid is composed of molten rock and elemental fire. Any melee hit deals 2d6 points of fire damage initially and 1d6 points of damage for the next 1d3 rounds. Creatures attacking a magmoid unarmed or with natural weapons take fire damage each time one of their attacks hits just as if the magmoid had hit with a melee attack.
+Magma Blast (Ex) Once every 1d4 rounds as a standard action, a magmoid can release a line of magma to a range of 40 feet. This deals 2d6 points of damage in the round it hits a foe (DC 17 Reflex save for half), and 1d6 points of damage for another 1d3 rounds (no save).
+Melt Weapons (Ex) Any metal weapon that strikes a magmoid must make a successful DC 17 Fortitude save or melt away into slag. The save DC is Constitution-based.

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/tick-giant-TOHC
+Giant Tick CR 1
+XP 400
+N Small vermin
+Init +0; Senses darkvision 60 ft., scent; Perception +0
+DEFENSE
+AC 17, touch 11, flat-footed 17 (+6 natural, +1 size)
+hp 9 (2d8)
+Fort +3, Ref +0, Will +0
+Immune vermin traits
+OFFENSE
+Speed 10 ft.
+Melee bite +2 (1d4 plus attach and disease)
+Special Attacks blood drain
+STATISTICS
+Str 11, Dex 10, Con 11, Int –, Wis 10, Cha 2
+Base Atk +1; CMB +0 (+4 grapple); CMD 10 (18 vs. trip)
+Skills Climb +4; Racial Modifiers +4 Climb
+SPECIAL ABILITIES
+Blood Drain (Ex) A giant tick drains blood, dealing 1d4 points of Constitution damage in any round when it begins its turn attached to a victim. Once it has dealt 8 points of Constitution damage, it detaches crawls off to digest the meal. If its victim dies before the giant tick’s appetite has been sated, the giant tick detaches and seeks a new target.
+Disease (Ex) Fifty percent of all giant ticks carry and deliver red ache with a bite attack. Roll individually for each giant tick in the cluster or nest.
+Red ache: Bite–injury; save Fort DC 11; onset 1d3 days; frequency 1 day; effect 1d6 Str damage; cure 2 consecutive saves. The save DC is Constitution-based.

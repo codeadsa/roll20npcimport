@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/goat/dire-goat-tohc
+Dire Goat CR 3
+XP 800
+N Medium animal
+Init +1; Senses low-light vision, scent; Perception +10
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 30 (4d8+12)
+Fort +9; Ref +5; Will +2
+OFFENSE
+Speed 50 ft.
+Melee head butt +7 (1d6+6)
+Special Attacks trample (1d6+6, DC 16)
+TACTICS
+Dire goats are non–aggressive unless threatened or provoked. A dire goat rams opponents with its head, or tries to run them over.
+STATISTICS
+Str 18, Dex 12, Con 16, Int 2, Wis 12, Cha 8
+Base Atk +3; CMB +7; CMD 18 (22 vs. trip)
+Feats Alertness, Great Fortitude
+Skills Perception +10, Sense Motive +3
+Template Base
+Dire Creature

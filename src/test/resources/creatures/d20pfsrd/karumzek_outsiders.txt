@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/karumzek
+Karumzek CR 4
+XP 1,200
+NE Medium outsider (evil, extraplanar, shapechanger)
+Init +6; Senses darkvision 60 ft., low-light vision, sense poison; Perception +9
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 37 (5d10+10)
+Fort +6, Ref +6, Will +2
+DR 5/good; Immune poison; SR 15
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +8 (1d8+3 plus poison)
+Special Attacks poison, sneak attack +1d6, web (+7 ranged, DC 14, 5 hp)
+Spell-Like Abilities (CL 6th; concentration +6)
+Constant—negate aroma
+At will—bleed, prestidigitation, stabilize
+3/day—alchemical allocation, death knell (DC 12), invisibility (self only), obscuring mist, vomit swarm (spiders only)
+STATISTICS
+Str 15, Dex 14, Con 15, Int 8, Wis 13, Cha 10
+Base Atk +5; CMB +7; CMD 19 (31 vs. trip)
+Feats Improved Initiative, Point-Blank Shot, Weapon Focus (bite)
+Skills Climb +10, Craft (alchemy) +7, Knowledge (nature) +7, Knowledge (religion) +7, Perception +9, Stealth +14; Racial Modifiers +4 Stealth
+Languages Abyssal, Infernal, Undercommon
+SQ change shape (Diminutive spider; vermin shape II), deft limbs
+SPECIAL ABILITIES
+Deft Limbs (Ex) A karumzek’s front pair of feet are as nimble and dexterous as human hands. It takes a karumzek half the normal amount of time to create alchemical items.
+Poison (Ex) Bite—injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d3 Str, Dex, or Con (karumzek’s choice); cure 2 consecutive saves.
+Sense Poison (Ex) As a free action, a karumzek can detect if a creature within 15 feet of it is poisoned. It can attempt to determine the exact type of poison, as if using detect poison.

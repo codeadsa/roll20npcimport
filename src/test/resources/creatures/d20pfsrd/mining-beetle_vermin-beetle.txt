@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/mining-beetle
+Giant Mining Beetle CR 1/2
+XP 200
+N Small vermin
+Init +2; Senses low-light vision; Perception +2
+DEFENSE
+AC 16, touch 13, flat-footed 14 (+3 natural, +2 Dex, +1 size)
+hp 6 (1d8+2)
+Fort +4, Ref +2, Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., fly 30 ft. (poor), burrow 20 ft.
+Melee bite +3 (1d4+2)
+STATISTICS
+Str 14, Dex 15, Con 15, Int —, Wis 14, Cha 11
+Base Atk +0; CMB +1; CMD 13 (21 vs. trip)
+Skills Fly +0
+SQ luminescence
+SPECIAL ABILITIES
+Luminescence (Ex) A fire beetle’s glowing glands provide light in a 10-foot radius. A dead fire beetle’s luminescent glands continue to glow for 1d6 days after its death.

@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/lejnth
+Lejnth CR 9
+XP 6,400
+LE Medium outsider (evil, extraplanar, lawful)
+Init +9; Senses darkvision 60 ft.; Perception +17; Aura aura of carnage (30 ft.)
+DEFENSE
+AC 26, touch 18, flat-footed 18 (+5 Dex, +2 dodge, +8 natural)
+hp 114 (12d10+48)
+Fort +8, Ref +13, Will +10; +4 in combat
+Defensive Abilities battle concentration, razor armor
+Weaknesses vulnerability to acid
+OFFENSE
+Speed 70 ft.
+Melee 2 sword arms +19 (1d10+6/18-20), 1 hasted sword arm +19 (1d10+6/18-20)
+Special Attacks blade shower
+Spell-Like Abilities (CL 12th)
+Constant—haste
+At Will—greater teleport (self plus 50 lbs. of objects only)
+1/day—deeper darkness
+STATISTICS
+Str 22, Dex 20, Con 18, Int 12, Wis 14, Cha 19
+Base Atk +12; CMB +18; CMD 35 (can’t be disarmed)
+Feats Bleeding Critical, Critical Focus, Dodge, Mobility, Improved Initiative, Spring Attack, Weapon Focus (sword arm)
+Skills Acrobatics +20, Bluff +19, Escape Artist +20, Intimidate +19, Knowledge (planes) +16, Perception +17, Sense Motive +17
+Languages Celestial, Draconic, Infernal
+SPECIAL ABILITIES
+Aura of Carnage (Su) All critical threats within 30 feet of a lejnth gain a +4 bonus to the confirmation roll. A successful critical hit within this aura inflicts maximum damage. This ability grants the lejnth Critical Focus as a bonus feat but does not affect attacks made against lejnth.
+Battle Concentration (Ex) The mind of the lejnth is extremely focused. Whenever a lejnth is aware of an opponent, it receives a +4 racial bonus to Will saves against mind-affecting effects.
+Blade Shower (Sp) Three times per day, a lejnth can blast pieces of its armor at foes in a rain of razor-sharp steel. The blade shower strikes all creatures in a 30-foot cone and deals 6d6 points of piercing and slashing damage. A DC 20 Reflex save halves the damage. Any armor lost in the shower regrows instantly. The save DC is Constitution based.
+Razor Armor (Ex) A lejnth’s steel armor sports razor-sharp edges and spikes. Any creature touching a lejnth takes 1d6 slashing damage. This includes attacks with natural weapons and grapple attempts.

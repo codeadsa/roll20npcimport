@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/megafauna/megalania
+Megalania CR 7
+XP 3,200
+N Huge animal
+Init +1; Senses low-light vision, scent; Perception +10
+DEFENSE
+AC 21, touch 9, flat-footed 20 (+1 Dex, +12 natural, -2 size)
+hp 85 (10d8+40)
+Fort +11, Ref +8, Will +7
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee bite +14 (2d8+12 plus grab and poison)
+Space 15 ft.; Reach 10 ft.
+Special Attacks swallow whole (2d8+12 bludgeoning damage, AC 16, 8 hp)
+STATISTICS
+Str 27, Dex 13, Con 19, Int 2, Wis 14, Cha 6
+Base Atk +7; CMB +17; CMD 28 (32 vs. trip)
+Feats Iron Will, Lunge, Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (bite)
+Skills Climb +12, Perception +10, Stealth +10 (+14 in rocks or undergrowth), Swim +16; Racial Modifiers +4 Stealth (+8 in rocks or undergrowth)
+SPECIAL ABILITIES
+Poison (Ex) Bite; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d4 Dex damage; cure 2 consecutive saves.
+Source Wikipedia

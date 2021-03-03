@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/grippli-tohc
+Grippli CR 1/3
+XP 135
+Grippli warrior 1
+N Small humanoid (grippli)
+Init +1; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+1 Dex, +1 dodge, +1 natural, +1 size)
+hp 7 (1d10+1 plus 1)
+Fort +3; Ref +1; Will +0
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee short sword +2 (1d4/19–20)
+Ranged dart +3 (1d3) or net +3 (entangle)
+STATISTICS
+Str 11, Dex 13, Con 12, Int 12, Wis 11, Cha 6
+Base Atk +1; CMB +0; CMD 12
+Feats Dodge
+Skills Climb +12, Perception +4, Stealth +5 (+11 to hide in marshes or forests), Swim +4; Racial Modifiers +6 to Stealth to hide in marshes or forests
+Languages Common, Grippli
+SQ swamp stride
+Gear short sword, 6 darts, net
+SPECIAL ABILITIES
+Swamp Stride (Ex) Gripplis can move across marshlands, swamps, and mud without any penalty to their movement speed.
+Grippli Characters
+Grippli leaders are usually rogues or rogue/fighters. Grippli priests are usually adepts. Grippli clerics have access to two of the following domains: Animal, Plant, Protection, and Travel. Grippli characters possess the following racial traits.
+–2 Strength, +2 Dexterity, +2 Intelligence, +2 Wisdom, –2 Charisma: Gripplis are agile, clever, and taciturn. Small Size : Gripplis are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their CMB and CMD, and a +4 size bonus on Stealth checks. Fast : Gripplis are fast for their size, and have a base speed of 30 feet. Gripplis have a base climb speed is 30 feet. Darkvision : Gripplis can see in the dark up to 60 feet. Defensive Camouflage: Gripplis have a +6 bonus on Stealth checks to hide in marshes or forests. Special Qualities: Swamp stride (see above). Automatic Languages: Grippli. Bonus Languages Common, Sylvan, Elven, Goblin, Orc.

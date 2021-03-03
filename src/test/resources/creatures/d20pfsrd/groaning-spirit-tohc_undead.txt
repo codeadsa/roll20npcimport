@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/groaning-spirit-tohc
+Groaning Spirit CR 7
+XP 3,200
+CE Medium undead (incorporeal)
+Init +7; Senses darkvision 60 ft., lifesense; Perception +20; Aura fear (30 ft., DC 19), unnatural aura (30 ft.)
+DEFENSE
+AC 17, touch 17, flat-footed 14 (+4 deflection, +3 Dex)
+hp 85 (10d8+40)
+Fort +7; Ref +6; Will +10
+Defensive Abilities channel resistance +4, incorporeal; Immune cold, electricity, undead traits; SR 18
+Weaknesses vulnerability to dispel evil
+OFFENSE
+Spd fly 30 ft. (perfect)
+Melee incorporeal touch +11 (1d8 plus chill touch)
+Special Attacks keening
+STATISTICS
+Str ZZ, Dex ZZ, Con ZZ, Int ZZ, Wis ZZ, Cha ZZ
+Base Atk +7; CMB +7; CMD 24
+Feats Ability Focus (keening), Alertness, Blind-Fight, Improved Initiative, Weapon Focus (incorporeal touch)
+Skills Bluff +14, Fly +24, Intimidate +17, Knowledge (religion) +16, Perception +20, Sense Motive +20, Stealth +16
+Languages Common, Elven, Gnome, Sylvan
+SPECIAL ABILITIES
+Chill Touch (Su) Damage caused by the groaning spirit’s touch attack is considered negative energy and sends a chilling cold through an opponent’s body. Any creature touched must succeed on a DC 19 Fortitude save or suffer 1 point of Strength drain. Groaning spirits are the bane of other undead, and any undead they touch (except other groaning spirits) must succeed on a DC 19 W ill save or flee in fear for 2d6 rounds. The save DCs are Charisma-based.
+Keening (Su) Once per day, at night only, a groaning spirit can release a death wail audible to a range of 1 mile. All creatures within 30 feet that hear this must make a successful DC 21 Will save or be affected as per the wail of the banshee spell. Those that make their save still take 3d6+7 points of damage. The save DC is Charisma-based and includes a +2 bonus from the groaning spirit’s Ability Focus feat.
+Lifesense (Su) A groaning spirit can sense all living creatures up to 5 miles away.
+Vulnerability to Dispel Evil (Ex) If a dispel evil spell (the second effect requiring a touch attack) is used against a groaning spirit the creature must succeed on a Will save (DC 15 + caster’s relevant ability score modifier) or be destroyed immediately.

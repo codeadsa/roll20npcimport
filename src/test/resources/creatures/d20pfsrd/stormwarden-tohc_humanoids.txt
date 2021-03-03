@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/stormwarden-tohc
+Stormwarden CR 1
+XP 400
+NE Medium humanoid (stormwarden)
+Init +4; Senses low-light vision; Perception +7
+DEFENSE
+AC 13, touch 11, flat-footed 13 (+2 armor, +1 natural)
+hp 16 (3d8+3)
+Fort +2, Ref +3, Will +2
+OFFENSE
+Speed 30 ft.
+Melee longsword +3 (1d8+1)
+Ranged longbow +2 (1d8)
+Special Attacks conjure storm
+TACTICS
+Stormwardens prefer to avoid combat, but if provoked, they open combat using their longswords, attempting to slay their opponents before escaping to their lair.
+Morale If melee goes against a stormwarden, it alters the weather and attempts to escape.
+STATISTICS
+Str 12, Dex 10, Con 12, Int 15, Wis 13, Cha 10
+Base Atk +2; CMB +3; CMD 13
+Feats Improved Initiative, Skill Focus (Perception)
+Skills Acrobatics +3, Knowledge (any one) +5, Perception +7, Survival +7
+Languages Common, Draconic, Giant
+Gear leather armor, longsword, longbow, 20 arrows
+SPECIAL ABILITIES
+Conjure Storm (Su) Once per day as a standard action, a stormwarden can create an effect similar to a control weather spell (caster level 10th), except that it affects an area in a 1,000-foot-radius circle, and the weather effects are immediate rather than gradual. The effects last for 1 minute before the weather in the area returns to normal.
+Stormwarden Characters Stormwardens favor nature-oriented classes, such as druid and ranger. They do not worship a single deity above all others, though they do tend to favor deities of storms and destruction. Though relatively few in number, stormwarden witches have a reputation of being some of the blackest and most vile practitioners of that art.
++2 Strength, +2 Constitution, +4 Intelligence, +2 Wisdom. Low-Light Vision: Stormwardens can see twice as far as humans in dim light. Racial Hit Dice: A stormwarden begins with three levels of humanoid, which provide 3d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +1, Ref +3, and Will +1. Racial Skills: A stormwarden’s humanoid levels give it skill points equal to 2 x (2 + Int modifier). Racial Feats: A stormwarden’s humanoid levels give it two feats, typically Improved Initiative and Skill Focus (Perception). AC: +1 natural armor bonus. Special Attacks: Conjure storm (see left). Languages: Stormwardens begin play speaking Common, and can select bonus languages from the following: Aklo, Auran, Draconic, Elven, Giant, and Sylvan.

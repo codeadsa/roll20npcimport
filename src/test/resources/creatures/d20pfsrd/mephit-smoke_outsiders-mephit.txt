@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mephit/mephit-smoke
+Smoke Mephit CR 3
+XP 800
+N Medium outsider (air, extraplanar, fire)
+Init +6; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 17, touch 14, flat-footed 14 (+1 size, +2 Dex, +1 dodge, +3 natural)
+hp 16 (3d10); fast healing 2
+Fort +1, Ref +5, Will +3
+DR 5/magic; Immune fire, outsider traits
+Weakness vulnerability to cold
+OFFENSE
+Speed 30 ft., fly 50 ft. (perfect)
+Melee 2 claw +3 (1d3)
+Special Attacks breath weapon (15-foot cone of black soot, DC 12 for half, 1d4 fire)
+Spell-like Abilities (CL 6th)
+1/hour—blur
+1/day—ember storm, summon (level 2, 1 smoke mephit 25%)
+STATISTICS
+Str 10, Dex 14, Con 10, Int 6, Wis 11, Cha 15
+Base Atk +3; CMB +3; CMD 17
+Feats Dodge, Improved Initiative
+Skills Bluff +7, Diplomacy +7, Disguise +6, Escape Artist +8, Fly +12, Intimidate +6, Perception +4, Stealth +8
+Languages Ignan, Common
+SPECIAL ABILITIES
+Ember Storm (Sp) Once per day a smoke mephit can create a downpour of white-hot embers that affects a 20- foot radius. Living creatures caught in the storm take 2d6 points of fire damage (Reflex DC 14 half, caster level 6th). This ability is the equivalent of a 2nd-level spell. The save DC is Charisma-based.
+Fast Healing (Ex) A smoke mephit heals only if it is exposed to smoke or soot (whether magically created or mundane in nature).
+Sooty Breath (Su) Living creatures that fail their saves against the smoke mephit’s breath weapon are tormented by burning eyes. This effect imposes a -4 penalty to AC and a -2 penalty on attack rolls for 3 rounds. The save DC is Constitution-based and includes a +1 racial bonus.

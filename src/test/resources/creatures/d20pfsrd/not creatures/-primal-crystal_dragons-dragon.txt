@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-crystal
+Crystal Dragon
+CG dragon (earth, extraplanar)
+BASE STATISTICS
+CR 2; Size Tiny; Hit Dice 3d12
+Speed 60 ft., burrow 30 ft., climb 30 ft.
+Natural Armor +2; Breath Weapon cone, 2d4 sonic
+Str 9, Dex 16, Con 13, Int 10, Wis 11, Cha 16
+SPECIAL ABILITIES
+Razor Sharp (Sp)* All of a crystal dragon’s natural attacks deal slashing damage.
+Ray Reflection (Ex) An ancient crystal dragon’s scales reflect ray spells back upon the ray’s source if the ray fails to overcome the dragon’s spell resistance.
+Scintillating Aura (Su) A great wyrm crystal dragon radiates an aura of scintillating color from its jeweled scales to a radius of 60 feet. All within this area must make a Will save each round to avoid being stunned (if the victim has 15 or fewer Hit Dice) or confused (if the victim has more than 15 Hit Dice) for 1 round. The save DC is equal to the dragon’s breath weapon save DC. This is a mind-affecting effect. The dragon can activate or suppress this aura as a free action.
+Spell-like Abilities (Sp) A crystal dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) upon reaching the listed age category.
+Very young—color spray Juvenile—glitterdust Adult—rainbow pattern Old—stone to flesh (3/day) Ancient—prismatic spray (3/day) Great wyrm—imprisonment (1/day) Tremorsense (Ex)* Crystal dragons do not gain tremorsense until juvenile age (30 ft.), improving at adult (60 ft.) and old (120 ft.)
+Age Category Special Abilities Caster Level
+Wyrmling Immunity to sonic, razor sharp —
+Very Young Color spray —
+Young Tremorsense —
+Juvenile Glitterdust —
+Young Adult DR 5/magic, spell resistance —
+Adult Frightful presence, rainbow pattern 1st
+Mature Adult DR 10/magic 3rd
+Old Stone to flesh 5th
+Very Old DR 15/magic 7th
+Ancient Ray reflection, prismatic spray 9th
+Wyrm DR 20/magic 11th
+Great Wyrm Imprisonment, scintillating aura 13th

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/fungus-man-fgg/fungus-man-king-fgg
+Fungus Man King CR 4
+XP 1,200
+Male giant fungus man
+N Medium plant
+Init +1; Senses low-light vision; Perception +12
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 45 (6d8+18)
+Fort +8, Ref +3, Will +5
+DR 5/slashing or piercing; Immune poison, plant traits, Resist cold 5
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 20 ft.
+Melee slam +5 (1d4)
+Special Attacks spore cloud
+STATISTICS
+Str 10, Dex 13, Con 17, Int 9, Wis 12, Cha 10
+Base Atk +4; CMB +5; CMD 15
+Feats Agile Maneuvers, Iron Will, Skill Focus (Perception), Weapon Finesse B
+Skills Perception +12, Stealth +5
+SPECIAL ABILITIES
+Spore Cloud (Ex) Once per round as a standard action, a fungus man can release a cloud of noxious spores. All living creatures within 5 ft. must make a DC 16 Fortitude save or become nauseated for 1d4+1 rounds. The save DC is Constitution-based. This is a poison effect, and once a creature successfully saves it is immune to the spore cloud of that particular fungus man for 24 hours.

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/thessalhydra-tohc
+Thessalhydra CR 10
+XP 9,600
+N Gargantuan aberration
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +17
+DEFENSE
+AC 20, touch 7, flat-footed 19 (+1 Dex, +13 natural, –4 size)
+hp 150 (12d8+84 plus 12); fast healing 8
+Fort +13; Ref +5; Will +10
+Immune acid
+OFFENSE
+Speed 40 ft., swim 20 ft.
+Melee 8 serpentine bites +13 (3d8+8 plus 1d6 acid), bite +14 (3d8+8 plus 2d8 acid), tail slash +8 (2d8+4 plus grab)
+Space 20 ft.; Reach 15 ft.
+Special Attacks constrict (2d8+8), spit acid (40 ft. line, 4d6 acid, Reflex DC 23 half, usable 1/day)
+STATISTICS
+Str 27, Dex 12, Con 24, Int 2, Wis 10, Cha 9
+Base Atk +9; CMB +21 (+25 grapple); CMD 32 (36 vs. trip)
+Feats Blind-Fight, Combat ReflexesB, Great Fortitude, Improved Natural Attack (bite), Iron Will, MultiattackB, Toughness, Weapon Focus (bite)
+Skills Perception +17, Swim +16; Racial Modifiers +2 Perception
+SQ hydra traits
+SPECIAL ABILITIES
+Fast Healing (Ex) A thessalhydra’s fast healing ability is equal to its current number of heads (minimum fast healing 5). This fast healing applies only to damage inflicted on the thessalhydra’s body.
+Grab (Ex) A thessalmonster with a tail can grab an opponent up to one size smaller with a successful tail slash attack. It can then attempt a grapple check as a free action without provoking an attack of opportunity. If it wins the grapple check, the thessalmonster establishes a hold and can constrict.
+Hydra Traits (Ex) Though a thessalmonster cannot be killed by severing all of its serpentine heads, doing so prevents them from attacking and can assist in slaying its body. Any attack that is not an attempt to sever a head affects the body, including area attacks or attacks that cause piercing or bludgeoning damage. To sever a head, an opponent must make a sunder attempt with a slashing weapon targeting a head.
+A head is considered a separate weapon with hardness 0 and hit points equal to the thessalmonster’s HD. To sever a head, an opponent must inflict enough damage to reduce the head’s hit points to 0 or less. Severing a head deals damage to the thessalmonster’s body equal to the thessalmonsters’s current HD. A thessalmonster can’t attack with a severed head, but takes no other penalties.
+Spit Acid (Ex) A thessalmonster that does not already possess a breath weapon or spit type special attack can spit a stream of acid in a 40-foot line that deals 4d6 points of acid damage. A successful Reflex save reduces the damage by half. This acid originates from the thessalmonster’s primary head or central maw and can be used once per day.
+Editor’s Note
+Base template: Thessalmonster (CR +3)

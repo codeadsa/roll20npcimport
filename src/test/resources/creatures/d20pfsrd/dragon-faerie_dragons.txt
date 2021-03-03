@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-faerie
+Faerie dragon CR 2
+XP 600
+CG Tiny dragon
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +8
+DEFENSE
+AC 18, touch 16, flat-footed 14 (+3 Dex, +1 dodge, +2 natural, +2 size)
+hp 22 (3d12+3)
+Fort +4, Ref +6, Will +5
+Immune paralysis, sleep; SR 13
+OFFENSE
+Speed 10 ft., fly 60 ft. (perfect), swim 30 ft.
+Melee bite +4 (1d3-1)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks breath weapon (5-ft. cone, euphoria, Fort DC 12 negates, usable every 1d4 rounds)
+Spell-Like Abilities (CL 3rd; concentration +6)
+3/day greater invisibility (self only)
+Spells Known (CL 3rd; concentration +6)
+1st (6/day) grease (DC 14), silent image (DC 14), sleep (DC 14)
+0 (at will) dancing lights, flare (DC 13), ghost sound (DC 13), mage hand, open/close
+STATISTICS
+Str 9, Dex 17, Con 13, Int 16, Wis 14, Cha 16
+Base Atk +3; CMB +4; CMD 14 (18 vs. trip)
+Feats Acrobatic, Dodge
+Skills Acrobatics +8 (+0 when jumping), Bluff +9, Diplomacy +9, Fly +23, Perception +8, Sense Motive +8, Stealth +17, Swim +13, Use Magic Device +9
+Languages Common, Draconic, Elven, Sylvan; telepathy 100 ft.
+SPECIAL ABILITIES
+Breath Weapon (Su) 5-foot cone, euphoria for 1d6 rounds, DC 12 Fort negates. Creatures affected by euphoria are staggered, sickened, and immune to fear effects for the duration. A faerie dragon can use this breath weapon once every 1d4 rounds. The save DC is Constitution-based.
+Spells A faerie dragon casts spells as a 3rd-level sorcerer.

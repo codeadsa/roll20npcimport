@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/saumen-kar
+Saumen Kar CR 10
+XP 9,600
+CN Large monstrous humanoid
+Init +2; Senses darkvision 60 ft., scent; Perception +21
+DEFENSE
+AC 24, touch 11, flat-footed 22 (+4 deflection, +2 Dex, +9 natural, –1 size)
+hp 136 (13d10+65)
+Fort +11, Ref +10, Will +9
+Defensive Abilities frostbite brands; Immune cold, Resist fire 20
+OFFENSE
+Speed 40 ft.
+Melee greataxe +21/+16/+11 (2d6+12/19–20 plus 1d6 cold), headbutt +15 (1d6+4 plus stun)
+Space 10 ft.; Reach 10 ft.
+Special Attacks snowstorm (2d6 cold plus 2d6 slashing damage, DC 24), stun (1 round, DC 24)
+Spell-Like Abilities (CL 13th; concentration +13)
+3/day—wall of ice (DC 14)
+1/day—summon nature’s ally VI (polar bear [dire bear] only)
+STATISTICS
+Str 26, Dex 15, Con 20, Int 11, Wis 12, Cha 11
+Base Atk +13; CMB +22; CMD 38
+Feats Alertness, Diehard, Endurance, Great Fortitude, Improved Critical (greataxe), Self-Sufficient, Weapon Focus (greataxe)
+Skills Heal +3, Knowledge (nature) +13, Perception +21, Sense Motive +3, Stealth +14 (+18 in ice and snow), Survival +21; Racial Modifiers +4 Stealth in ice and snow
+Languages Giant
+SPECIAL ABILITIES
+Frostbite Brands (Ex) A saumen kar’s brands infuse the creature with intense cold, so much that it gains resistance to fire 20 and its touch deals an additional 1d6 points of cold damage. A saumen kar’s metallic weapons also conduct this chill. A saumen kar’s brands can be removed by the spell erase as though they were magic writing with a caster level equal to the saumen kar’s Hit Dice. If the brands are removed, the saumen kar loses both its fire resistance and its ability to do additional cold damage, until the following dawn when the brands re-etch themselves upon its body.
+Snowstorm (Su) In mimicry of its unforgiving environment, a saumen kar can transform into a living snowstorm of lethal power. This ability lasts as long and operates like the whirlwind special attack with the following changes: Creatures within the area of the snowstorm take 2d6 points of cold damage and 2d6 points of slashing damage and take a –20 penalty on Perception checks. A saumen kar gains a fly speed of 40 feet (perfect) while in this form.
+Stun (Ex) While a saumen kar’s horns are not large enough for a gore attack, they extend under the skin to form a bony plate. A creature struck by a saumen kar’s headbutt must succeed at a DC 24 Fortitude saving throw or be stunned for 1 round.

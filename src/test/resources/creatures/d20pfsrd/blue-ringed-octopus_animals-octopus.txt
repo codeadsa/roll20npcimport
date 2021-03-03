@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/octopus/blue-ringed-octopus
+Blue-Ringed Octopus CR 1/2
+XP 200
+N Tiny animal (aquatic)
+Init +5; Senses low-light vision; Perception +1
+DEFENSE
+AC 17, touch 17, flat-footed 12 (+5 Dex, +2 size)
+hp 4 (1d8)
+Fort +2, Ref +7, Will +1
+Defensive Abilities ink cloud
+OFFENSE
+Speed 20 ft., swim 30 ft., jet 60 ft.
+Melee bite +7 (1d2–1 plus poison), tentacles +5 (grab)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 8, Dex 21, Con 10, Int 2, Wis 13, Cha 3
+Base Atk +0; CMB +3 (+7 grapple); CMD 12 (can’t be tripped)
+Feats MultiattackB, Weapon Finesse
+Skills Escape Artist +15, Stealth +25, Swim +13; Racial Modifiers +10 Escape Artist, +8 Stealth
+Special Attacks poison
+SPECIAL ABILITIES
+Familiar The master of a blue-ringed octopus familiar gains a +3 bonus on Swim checks.
+Ink Cloud (Ex) While within water, an octopus can emit a 5-foot-radius sphere of ink once per minute as a swift action. This ink provides total concealment and persists for 1 minute.
+Jet (Ex) The octopus can jet 60 feet in a straight line as a full-round action. This does not provoke attacks of opportunity.
+Poison (Ex) Bite—injury; save Fort DC 10; frequency 1/round for 6 rounds; effect 1 Str; cure 1 save.

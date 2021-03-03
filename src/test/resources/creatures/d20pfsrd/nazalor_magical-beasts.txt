@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/nazalor
+Nazalor CR 6
+XP 2,400
+CN Medium magical beast
+Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +6
+DEFENSE
+AC 18, touch 13, flat-footed 15 (+3 Dex, +5 natural)
+hp 76 (8d10+32)
+Fort +10, Ref +9, Will +3
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +13 (1d8+5), 1 bite +13 (1d8+5)
+Special Attacks rage, stun
+STATISTICS
+Str 21, Dex 16, Con 18, Int 5, Wis 12, Cha 11
+Base Atk +8; CMB +13; CMD 26
+Feats Diehard, Endurance, Power Attack, Skill Focus (survival)
+Skills Perception +6, Stealth +8, Survival +8 (+12 scent tracking); Racial Modifiers +4 when tracking by scent
+Languages Sylvan (cannot speak)
+SPECIAL ABILITIES
+Rage (Ex) Three times per day, a nazalor can whip itself into a maddening frenzy. As long as it rages it gains +4 Strength, +4 Constitution, and -2 AC. This rage lasts up to 1 minute, but the nazalor can end it early if desired. It is not fatigued when its rage ends.
+While raging, a nazalor has the following changes made to the statistics block above: AC 16 (+3 Dex, +5 natural, -2 rage), touch 11, flat-footed 13; hp 92; Atk 2 claws +15 (1d8+7) and bite +15 (1d8+7); Fort +12; Str 25; Con 22.
+Stun (Ex) If a nazalor hits an opponent with both claws and its bite in the same round, that opponent must succeed on a DC 18 (DC 20 when raging) Fortitude save or be stunned for 1d2 rounds. The save DC is Constitution-based.

@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/phantom-armor/phantom-armor-guardian
+Guardian Phantom Armor CR 2
+XP 600
+NE Medium undead
+Init +5; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 21, touch 11, flat-footed 20 (+9 armor, +1 Dex, +1 shield)
+hp 13 (3d8)
+Fort +1, Ref +2, Will +3
+Defensive Abilities channel resistance +2; Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee mwk longsword +5 (1d8+2/19–20) or 2 slams +4 (1d4+2)
+STATISTICS
+Str 14, Dex 13, Con —, Int 7, Wis 11, Cha 10
+Base Atk +2; CMB +4; CMD 15
+Feats Improved Initiative, Power Attack
+Skills Perception +6, Stealth +7
+Languages Common (can’t speak)
+SQ freeze (suit of armor)

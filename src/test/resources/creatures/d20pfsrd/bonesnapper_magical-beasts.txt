@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bonesnapper
+Bonesnapper CR 3
+XP 800
+N Medium magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +8
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 30 (4d10+8)
+Fort +6; Ref +6; Will +2
+OFFENSE
+Speed 30 ft.
+Melee bite +7 (1d8+2 plus grab), tail slap +4 (1d8+1)
+STATISTICS
+Str 14, Dex 14, Con 15, Int 2, Wis 12, Cha 10
+Base Atk +4; CMB +6; CMD 18
+Feats Multiattack, Weapon Focus (bite)
+Skills Perception +8, Stealth +7 (+11 in warm forests); Racial Modifiers +2 Perception, +4 Stealth in warm forests

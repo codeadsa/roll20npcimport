@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/dossenus
+Dossenus CR 1
+XP 400
+N Small aberration
+Init +0; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 12, touch 11, flat-footed 12 (+1 natural, +1 size)
+hp 13 (2d8+4)
+Fort +2, Ref +0, Will +3; +4 vs. poison
+Weaknesses hydrophobia, light blindness
+OFFENSE
+Speed 30 ft., burrow 30 ft., climb 30 ft.
+Melee bite +4 (1d6+3/19–20)
+Special Attacks devastating maw, sneak attack +1d6, swarming
+STATISTICS
+Str 12, Dex 11, Con 14, Int 3, Wis 10, Cha 5
+Base Atk +1; CMB +1; CMD 11 (15 vs. trip)
+Feats Improved CriticalB (bite), Weapon Focus (bite), Weapon SpecializationB (bite)
+Skills Climb +17, Perception +5; Racial Modifiers +8 Climb
+Languages Aklo
+SPECIAL ABILITIES
+Burrow (Ex) A dossenus can burrow through stone (or weaker materials such as wood) as easily as dirt.
+Devastating Maw (Ex) A dossenus’ bite attack counts as adamantine for the purposes of overcoming DR and bypassing hardness.
+Hydrophobia (Ex) A dossenus cannot swim and always fails Swim checks. If a dossenus becomes completely submerged in water, it must succeed at a DC 15 Will save on its turn each round or be paralyzed with fear until it is no longer submerged.
+Swarming (Ex) Dossenuses are brutally efficient at swarming foes and often skitter atop one another in their haste to overwhelm and devour prey. Up to two dossenuses can share the same square at the same time. If two dossenuses sharing the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-cythnigot
+Cythnigot CR 2
+XP 600
+CE Tiny outsider (chaotic, evil, extraplanar, qlippoth)
+Init +1; Senses darkvision 60 ft., detect law, detect magic; Perception +5
+DEFENSE
+AC 14, touch 13, flat-footed 13 (+1 Dex, +1 natural, +2 size)
+hp 16 (3d10)
+Fort +1, Ref +6, Will +2
+DR 5/cold iron or lawful; Immune cold, poison, mind-affecting effects; Resist acid 10, electricity 10, fire 10
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee bite +6 (1d6+1 plus spores)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks horrific appearance (10 feet, DC 9)
+Spell-Like Abilities (CL 6th, concentration +4)
+Constant—detect law, detect magic, fly
+1/day—soften earth and stone, warp wood
+1/week—commune (six questions)
+STATISTICS
+Str 12, Dex 12, Con 11, Int 11, Wis 8, Cha 7
+Base Atk +3; CMB +2; CMD 13 (21 vs. trip)
+Feats Lightning Reflexes, Weapon Finesse
+Skills Acrobatics +7 (+11 jump), Fly +15, Knowledge (nature) +6, Knowledge (planes) +6, Perception +5, Stealth +15
+Languages Abyssal; telepathy (touch)
+SPECIAL ABILITIES
+Horrific Appearance (Su) Creatures that succumb to a cythnigot’s horrific appearance become sickened for 1 round—a cythnigot’s horrific appearance only functions to a range of 10 feet. Once a creature makes a saving throw against a particular cythnigot’s horrific appearance, that creature is immune to the horrific appearance of all cythnigots for 24 hours. A spellcaster that has a cythnigot as a familiar is immune to the horrific appearance of all cythnigots, and also gains a +4 bonus on saving throws made against any qlippoth’s horrific appearance.
+Spores (Su) Any creature bitten by a cythnigot must make a DC 11 Fortitude save or become infested by the creature’s otherworldly spores. These spores cause twitching spikes and hideous pallid growths of hair-like fibers to erupt from the bite wound and to writhe and wrap around the target’s limbs. A creature suffering from these spores is entangled, and can attempt a new DC 11 Fortitude save in later rounds as a standard action to rip the tendrils free and escape the entangled condition. The effects of multiple cythnigot bites on a creature do not stack. Plant creatures take a –4 penalty on saves against this effect. This is a disease effect. The save DC is Constitution-based.

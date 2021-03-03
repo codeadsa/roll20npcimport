@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-brass/brass-dragon-very-young
+Brass Dragon, Very Young CR 5
+XP 1,600
+CG Small dragon (fire)
+Init +6; Senses dragon senses; Perception +12
+
+DEFENSE
+AC 19, touch 13, flat-footed 17 (+2 Dex, +6 natural, +1 size)
+hp 51 (6d12+12)
+Fort +7, Ref +7, Will +6
+Immune fire, paralysis, sleep
+Weaknesses Vulnerability to cold
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 150 ft. (average)
+Melee bite +9 (1d6+3), 2 claws +9 (1d4+2)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. line, DC 15, 4d4 fire), sleep breath
+Spell-Like Abilities (CL 6th; concentration +7)
+At will— speak with animals
+STATISTICS
+Str 15, Dex 14, Con 15, Int 12, Wis 13, Cha 12
+Base Atk +6; CMB +7; CMD 19 (23 vs. trip)
+Feats Alertness, Hover, Improved Initiative
+Skills Bluff +10, Diplomacy +10, Fly +13, Heal +10, Linguistics +10, Perception +12, Sense Motive +12
+Languages Common, Draconic, plus any 6 others
+
+SPECIAL ABILITIES
+Sleep Breath (Su) Instead of a line of fire, a brass dragon can breathe a 20 ft. cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+2 rounds.
+

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/flytrap-dire
+Dire Flytrap
+CR 6
+XP 2,400
+N Huge plant
+Init +4; Senses blindsense 60 ft; Perception +14
+DEFENSE
+AC 18, touch 7, flat-footed 18 (-1 Dex, +11 natural, -2 size)
+hp 76 (9d8+36)
+Fort +10, Ref +2, Will +5
+Immune electricity, plant traits
+OFFENSE
+Speed 10 ft.
+Melee 4 slam +14 (2d6+7 plus grab), bite +8 (2d6+3)
+Space 15 ft.; Reach 90 ft. (10 ft. with bite)
+STATISTICS
+Str 25, Dex 8, Con 19, Int 1, Wis 14, Cha 6
+Base Atk +6; CMB +6; CMD 16 (cannot be tripped)
+Feats Improved Initiative, Improved Natural Armor, Improved Natural Attack (slam), Power Attack, Weapon Focus (slam)
+Skills Perception +14
+SPECIAL ABILITIES
+Grab (Ex) A dire fly trap can pull grappled creatures toward its mouth at a rate of 15 ft. per round.

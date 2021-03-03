@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bat-doombat
+Doombat CR 4
+XP 1,200
+NE Large magical beast
+Init +5; Senses blindsense 60 ft., darkvision 60 ft., low-light vision; Perception +14
+DEFENSE
+AC 17, touch 14, flat-footed 12 (+5 Dex, +3 natural, –1 size)
+hp 42 (5d10+15)
+Fort +7; Ref +9; Will +2
+OFFENSE
+Speed 10 ft., fly 50 ft. (good)
+Melee bite +7 (2d6+3), tail lash +2 (1d6+1)
+Space 10 ft.; Reach 5 ft. (10 ft. with tail)
+Special Attacks shriek, yip
+STATISTICS
+Str 17, Dex 21, Con 17, Int 2, Wis 12, Cha 6
+Base Atk +5; CMB +9; CMD 24
+Feats Stealthy, Skill Focus (Perception, Stealth)
+Skills Escape Artist +7, Fly +11, Perception +14, Stealth +10; Racial Modifier +4 Perception when using blindsense
+SPECIAL ABILITIES
+Shriek (Ex) A doombat can emit a piercing shriek every 1d4 rounds. All creatures that can hear the doombat’s shriek (except other doombats) within a 100-ft. radius must succeed on a DC 15 Will save or become shaken for 1d4+1 rounds. Successive shrieks do not stack with each other but do extend the duration of the effect. A creature that successfully saves is immune to the same doombat’s shriek for 24 hours. The save DC is Constitution-based.
+Yip (Ex) A doombat yips constantly while in combat. The noise interferes with an opponent’s ability to focus on difficult tasks. Spellcasters within 100 ft. of a yipping doombat must succeed on a concentration check (DC 15 + spell’s level) anytime they attempt to cast a spell. The effect of several doombats yipping at once is not cumulative.

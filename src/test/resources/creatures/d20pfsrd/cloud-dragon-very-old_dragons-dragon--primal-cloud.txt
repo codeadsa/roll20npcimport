@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-cloud/cloud-dragon-very-old
+Cloud Dragon, Very Old CR 17
+XP 102,400
+CN Gargantuan dragon (air)
+Init +2; Senses dragon senses, mist vision; Perception +31; Aura frightful presence (270 ft., DC 26)
+DEFENSE
+AC 33, touch 4, flat-footed 33 (–2 Dex, +29 natural, –4 size)
+hp 275 (22d12+132)
+Fort +19, Ref +11, Will +19
+DR 15/magic; Immune electricity, paralysis, sleep; SR 28
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy), swim 40 ft.
+Melee bite +29 (4d6+15/19-20), 2 claws +29 (2d8+10), tail slap +26 (2d8+15), 2 wings +26 (2d6+5)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (60-ft. cone, 18d8 electricity, DC 27), crush (4d6+15), tail sweep (2d6+15)
+Spell-Like Abilities (CL 22nd; concentration +27)
+At will—fog cloud, obscuring mist, solid fog
+3/day—cloudkill (DC 20)
+Spells Known (CL 11th; concentration +16)
+5th (5/day)—cone of cold (DC 20), teleport
+4th (7/day)—elemental body, ice storm, river of wind*
+3rd (7/day)—arcane sight, cloak of winds*, stinking cloud (DC 18), suggestion (DC 18)
+2nd (7/day)—eagle’s splendor, glitterdust (DC 17), gust of wind, locate object, see invisibility
+1st (8/day)—alter winds*, charm person (DC 16), detect secret doors, erase, true strike
+0 (at will)—dancing lights, detect poison, light, mage hand, message, prestidigitation, read magic, resistance, touch of fatigue
+* This spell is from the Pathfinder RPG Advanced Player’s Guide.
+STATISTICS
+Str 30, Dex 7, Con 23, Int 18, Wis 22, Cha 21
+Base Atk +22; CMB +36; CMD 44 (48 vs. trip)
+Feats Critical Focus, Dazzling Display, Flyby Attack, Improved Critical (bite), Improved Initiative, Multiattack, Power Attack, Skill Focus (Diplomacy), Stunning Critical, Weapon Focus (bite, claws)
+Skills Appraise +29, Diplomacy +36, Fly +9, Intimidate +30, Knowledge (planes) +29, Perception +31, Sense Motive +31, Stealth +11, Survival +31, Swim +43; Racial Modifiers +8 Swim
+Languages Auran, Common, Draconic, Elven, Sylvan
+SQ cloud form (22 rounds/day)
+SPECIAL ABILITIES
+Cloud Form (Su) An adult or older cloud dragon can change itself into a cloudy vapor as a swift action for a number of rounds per day equal to its Hit Dice. This ability functions as gaseous form but the dragon’s fly speed is unchanged.
+Mist Vision (Su) A cloud dragon can see through fog, clouds, and similar obscuring effects with perfect clarity.

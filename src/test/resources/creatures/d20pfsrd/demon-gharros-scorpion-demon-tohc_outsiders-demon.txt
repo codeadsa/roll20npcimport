@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-gharros-scorpion-demon-tohc
+Scorpion Demon (Gharros) CR 14
+XP 36,400
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +8; Senses darkvision 60 ft.; Perception +27
+DEFENSE
+AC 28, touch 13, flat-footed 24 (+4 Dex, +15 natural, –1 size)
+hp 248 (16d10+160)
+Fort +20, Ref +14, Will +9
+DR 15/cold iron and good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 25
+OFFENSE
+Speed 30 ft.
+Melee battleaxe +25/+20/+15/+10 (2d6+10/19–20/x3) or battleaxe +25 (2d6+10/19–20/x3), 2 stings +26 (1d8+10/19–20 plus poison)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 12th)
+At will—darkness, desecrate, detect good, detect magic, mirror image, telekinesis (DC 20), greater teleport (self plus 50 pounds of objects only)
+1/day—summon (level 6, 4d10 dretches, 1d4 vrocks, or 1d2 glabrezus 50%; or 1 gharros 20%)
+STATISTICS
+Str 31, Dex 18, Con 30, Int 18, Wis 18, Cha 20
+Base Atk +16; CMB +27; CMD 41 (49 vs. trip)
+Feats Blind-Fight, Cleave, Great Cleave, Improved Critical (battleaxe), Improved Critical (sting), Improved Initiative, Power Attack, Weapon Focus (sting)
+Skills Acrobatics +14, Bluff +24, Climb +29, Diplomacy +21, Escape Artist +20, Intimidate +24, Knowledge (planes) +20, Perception +27, Sense Motive +15, Spellcraft +14, Stealth +13, Survival +23; Racial Modifiers +4 Perception
+Languages Abyssal, Common, plus any three; telepathy 100 ft.
+Gear battleaxe
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 28; frequency 1/round for 6 rounds; effect 1d4 Con damage; cure 1 save.

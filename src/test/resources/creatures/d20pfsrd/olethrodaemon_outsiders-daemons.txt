@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/olethrodaemon
+Olethrodaemon CR 20
+XP 307,200
+NE Gargantuan outsider (daemon, evil, extraplanar)
+Init +12; Senses darkvision 60 ft., true seeing; Perception +31
+Aura unholy aura
+DEFENSE
+AC 38, touch 18, flat-footed 30 (+4 deflection, +8 Dex, +20 natural, –4 size)
+hp 370 (20d10+260)
+Fort +29, Ref +18, Will +26
+DR 10/good and silver; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 31
+OFFENSE
+Speed 40 ft., burrow 50 ft.
+Melee 2 bites +28 (2d8+12/19–20 plus grab), 4 claws +28 (2d6+12 plus grab), gore +28 (2d8+12)
+Space 20 ft.; Reach 20 ft.
+Special Attacks drain soul, soul-drained breath, trample (2d8+18, DC 32)
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant—air walk, true seeing, unholy aura (DC 25)
+At will—greater teleport (self plus 50 lbs. objects only), telekinesis, wall of fire, wall of ice
+3/day—quickened disintegrate (DC 23), wall of force
+1/day—blasphemy (DC 24), summon (level 9, any 1 CR 19 or lower daemon, 100%), wail of the banshee (DC 26)
+STATISTICS
+Str 35, Dex 26, Con 37, Int 12, Wis 26, Cha 25
+Base Atk +20; CMB +36 (+40 grapple); CMD 54 (58 vs. trip)
+Feats Awesome Blow, Cleave, Great Cleave, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Improved Sunder, Iron Will, Power Attack, Quicken Spell-Like Ability (disintegrate)
+Skills Climb +35, Intimidate +30, Knowledge (planes) +24, Perception +31, Sense Motive +31, Stealth +19, Survival +31
+Languages Abyssal, Infernal; telepathy 100 ft.
+SQ adamantine claws
+SPECIAL ABILITIES
+Adamantine Claws (Ex) Able to tear through stone, an olethrodaemon’s claws are treated as though they were adamantine. This ability also allows an olethrodaemon to make use of its burrow speed through stone.
+Drain Soul (Su) A creature grappled by an olethrodaemon’s grab attack from its claws can be transferred to its mouth as a move action requiring no combat maneuver check. As a standard action, an olethrodaemon that begins its turn with an opponent grappled in either of its mouths can swallow the opponent by succeeding on another grapple check. If successful, the creature is swallowed into one of the olethrodaemon’s many stomachs. These stomachs grind their contents and drain the life force from living creatures. Every round a creature remains in an olethrodaemon’s stomach, it takes 4d8+18 points of damage and gains 1d4 negative levels. The creature can attempt to cut its way out of the olethrodaemon’s stomach, but it suffers the chance of just cutting into another stomach chamber. An olethrodaemon’s stomach is AC 20 and has 40 hit points. Once a creature deals enough damage to allow escape, it has a 50% chance to end up in another stomach chamber instead of escaping. Due to the multiple stomach chambers, an olethrodaemon can house and drain up to four medium creatures at one time. This ability otherwise functions as the swallow whole special attack. It is a DC 33 Fortitude save to remove negative levels gained in this fashion. This save is Constitution-based.
+Soul-Drained Breath (Su) An olethrodaemon can convert life energy it has consumed into a potent breath weapon. Up to three times per day, but no more often than once every 1d4 rounds, an olethrodaemon can expel a 120-foot line or a 60-foot cone of shrieking black smoke and wind from one of its mouths as a standard action. Any living creature in the area of this attack takes 20d10 points of damage from negative energy, or half on a successful DC 27 Reflex save. Undead creatures caught in this negative energy are healed for the same amount instead of damaged. The save DC for this effect is Charisma-based.
+About this Daemon Type… It’s said the Horsemen created olethrodaemons from the blood of a mysterious fifth member, inspiring their living engines of destructions with souls already familiar with devastation. Individual olethrodaemons know little besides hunger, proving far less intelligent than many other daemons, but still more than capable of deceiving those who think them mere beasts of destruction. Of their kind, olethrodaemons are among the easiest to bargain with. They eagerly respond to conjuration spells potent enough to call them, so long as the spell’s caster seeks grotesque carnage in the extreme. Forces of nature, they move as they will once unleashed, sowing destruction and death on a scale few can imagine or control. But unlike a natural disaster, they draw out the souls of their victims, devouring and merging with them like a magnet drawing bits of iron, leaving silence and sterility in their wake.
+Personification of Death: Apocalypse and natural disasters.
+Preferred Sacrifice: The destruction of a small community by a purposefully engineered natural disaster.

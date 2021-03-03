@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/ceustodaemon
+Ceustodaemon CR 6
+XP 2,400
+NE Large outsider (daemon, evil, extraplanar)
+Init +1; Senses darkvision 60 ft., detect good, detect magic, see invisibility; Perception +15
+DEFENSE
+AC 20, touch 10, flat-footed 19 (+1 Dex, +10 natural, –1 size)
+hp 68 (8d10+24)
+Fort +9, Ref +3, Will +8
+DR 10/good or silver; Immune acid, death effects, disease, mind-affecting effects, paralysis, poison, polymorph effects, sleep effects; Resist cold 10, electricity 10, fire 10
+OFFENSE
+Speed 30 ft.
+Melee bite +11 (2d6+4), 2 claws +11 (1d6+4)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (30-ft. cone; 6d6 fire damage; Reflex DC 17 for half; usable once every 1d4 rounds)
+Spell-Like Abilities (CL 8th; concentration +10)
+Constant— detect good, detect magic, see invisibility
+At will— dimension door
+3/day— dispel magic, fly
+1/day— hold monster (DC 17), slow (DC 15) STATISTICS
+Str 18, Dex 13, Con 16, Int 11, Wis 14, Cha 15
+Base Atk +8; CMB +13; CMD 24
+Feats Alertness, Blind-Fight, Power Attack, Step Up
+Skills Bluff +13, Intimidate +11, Knowledge (planes) +9, Perception +15, Sense Motive +15, Stealth +8, Survival +9
+Languages Abyssal, Infernal; telepathy 100 ft.
+SQ drawn to service
+SPECIAL ABILITIES
+Drawn to Service (Su) When brought to another plane with a planar binding or planar ally spell (or any similar calling effect), ceustodaemons take a –5 penalty on the initial Will save and on their Charisma check to refuse service. Ceustodaemons also take a –5 penalty on saves against binding, planar binding, and other spells designed to bind a creature to a particular plane as long as the daemon is commanded to serve as a guardian for a single area or small complex.

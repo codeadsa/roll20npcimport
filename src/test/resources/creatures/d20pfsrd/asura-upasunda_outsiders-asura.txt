@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/asura/asura-upasunda
+Upasunda CR 9
+XP 6,400
+LE Medium outsider (asura, evil, extraplanar, lawful)
+Init +7; Senses all-around vision, darkvision 60 ft.; Perception +23; Aura elusive (50 ft.)
+DEFENSE
+AC 24, touch 21, flat-footed 16 (+7 Dex, +1 dodge, +3 insight, +3 natural)
+hp 114 (12d10+48); regeneration 5 (good weapons, good spells)
+Fort +12, Ref +11, Will +15
+Defensive Abilities improved evasion; DR 10/good; Immune curse effects, disease, flanking, poison; Resist acid 10, electricity 10; SR 20
+OFFENSE
+Speed 50 ft.
+Melee mwk longsword +20/+15/+10 (1d8+6/19-20), mwk spear +19 (1d8+6/x3), mwk kukri +19 (1d4+6/18-20) or 6 slams +18 (1d4+6)
+Special Attacks infused weapons, multiweapon mastery
+Spell-Like Abilities (CL 9th; concentration +13)
+At will—disguise self, greater teleport (self plus 50 lbs. of objects only), feather fall, see invisibility, spider climb
+3/day—deeper darkness, levitate, rainbow pattern (DC 18)
+1/day—haste, hold monster (DC 18*), summon (level 4, 2 adhukaits 45% or 1 upasunda 20%)
+TACTICS
+Upasundas never surrender to foes and rarely flee from battle. They hope to increase in skill and wisdom or die in battle. On either path lies evolution toward a greater understanding of destruction in its countless forms.
+STATISTICS
+Str 22, Dex 24, Con 19, Int 15, Wis 24, Cha 19
+Base Atk +12; CMB +18 (+20 grapple); CMD* 36 (38 grapple)
+Feats Cleave, Combat ReflexesB, Deflect ArrowsB, Dodge, Great Cleave, Improved GrappleB, Mobility, Power Attack, Spring Attack
+Skills Acrobatics +19 (+27 when jumping), Bluff +16, Diplomacy +13, Escape Artist +25, Intimidate +16, Knowledge (arcana) +8, Knowledge (planes) +14, Perception +23, Perform (dance) +16, Sense Motive +19, Stealth +19; Racial Modifiers +8 Acrobatics when jumping, +6 Escape Artist, +4 Perception
+Languages Common, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Infused Weapons (Su) In addition to being evil and lawful, weapons an upasunda wields are considered to be magic for the purposes of overcoming damage reduction.
+Multiweapon Mastery (Ex) An upasunda takes no penalties when fighting with multiple weapons.
+Editor’s Note
+hold monster should be DC 19
+CMD should be CMD 39 (41 vs grapple) SLA: 10+5(spell level)+4(Cha)
+CMD: 10+12(BAB)+6(Str)+7(Dex)+1(dodge)+3(insight)

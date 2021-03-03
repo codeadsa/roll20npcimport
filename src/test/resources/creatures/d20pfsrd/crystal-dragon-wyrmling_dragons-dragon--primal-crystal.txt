@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-crystal/crystal-dragon-wyrmling
+Crystal Dragon, Wyrmling CR 2
+XP 600
+CG Tiny dragon (earth)
+Init +3; Senses dragon senses; Perception +6
+
+DEFENSE
+AC 17, touch 15, flat-footed 14 (+3 Dex, +2 natural, +2 size)
+hp 22 (3d12+3)
+Fort +4, Ref +6, Will +3
+Immune paralysis, sleep, sonic
+OFFENSE
+Speed 60 ft., burrow 30 ft., climb 30 ft., fly 100 ft. (average)
+Melee bite +4 (1d4-1), 2 claws +4 (1d3-1)
+Space 2.5 ft.; Reach 0 ft. (5 ft. with bite)
+Special Attacks breath weapon (15-ft. cone, 2d4 sonic, DC 12)
+STATISTICS
+Str 9, Dex 16, Con 13, Int 10, Wis 11, Cha 16
+Base Atk +3; CMB +4; CMD 13 (17 vs. trip)
+Feats Deceitful, Power Attack
+Skills Bluff +11, Climb +13, Disguise +8, Fly +13, Perception +6, Stealth +17; Racial Modifiers +8 Climb
+Languages Draconic
+SQ razor sharp
+SPECIAL ABILITIES
+Razor Sharp (Sp) All of a crystal dragon’s natural attacks deal slashing damage.
+

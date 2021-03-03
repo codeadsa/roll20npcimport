@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/false-spider-solifugid
+False Spider, Solifugid CR 3
+XP 800
+N Medium vermin
+Init +2; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 27 (5d8+5)
+Fort +5; Ref +3; Will +1
+OFFENSE
+Speed 30 ft.
+Melee 2 pincers +6 (1d6+3 plus grab), bite +6 (1d6+1)
+Special Attacks constrict (1d6+3)
+TACTICS
+False spiders are highly territorial and are likely to attack any living creature that enters their area.
+STATISTICS
+Str 16, Dex 14, Con 13, Int —, Wis 10, Cha 2
+Base Atk +3; CMB +6 (+10 grab); CMD 18 (30 vs. trip)
+Skills Perception +4; Racial Modifiers +4 Perception

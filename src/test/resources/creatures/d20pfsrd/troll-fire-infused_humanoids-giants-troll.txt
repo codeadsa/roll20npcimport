@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/troll-fire-infused
+Fire-Infused Troll CR 6
+XP 2,400
+CE Large humanoid (fire, giant)
+Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 17, touch 12, flat-footed 14; (+3 Dex, +5 natural, –1 size)
+hp 57 (6d8+30); regeneration 5 (acid)
+Fort +10, Ref +5, Will +1
+Defensive Abilities elemental body, fire healing; Immune fire
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 30 ft.; firewalk
+Melee bite +7 (1d8+4 plus 1d6 fire), 2 claws +7 (1d6+4 plus 1d6 fire)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (30-ft. cone, 3d6, DC 18, 1d4 round), heat, rend (2 claws, 1d6+6)
+TACTICS
+A fire-infused troll knows that acid is its worst enemy, so it tends to focus on foes not wielding weapons—especially those holding glass or ceramic vials. It typically breathes flame to set the battleground alight, granting it greater mobility and healing.
+STATISTICS
+Str 19, Dex 16, Con 21, Int 10, Wis 5, Cha 8
+Base Atk +4; CMB +9; CMD 22
+Feats Intimidating Prowess, Iron Will, Skill Focus (Perception)
+Skills Intimidate +10, Perception +6
+Languages Giant
+SPECIAL ABILITIES
+Elemental Body (Ex) Fire-infused creatures’ bodies gain some of the qualities of elementals. Each time a fire-infused creature is exposed to a poison, paralysis, sleep, or stunning e?ect, it has a 25% chance to avoid it. In addition, there is a 25% chance that a sneak attack or critical hit deals no extra damage.
+Fire Healing (Ex) A fire-infused creature regains 1 hit point for each full round that it remains in contact with fire. When struck by a magical fire effect, the fire-infused creature heals 1 point of damage per 10 points of damage that the fire effect would otherwise deal.
+Firewalk (Su) A fire-infused creature can climb an object on fire as though it had a climb speed equal to its highest speed. Furthermore, it can fly at its highest speed with perfect maneuverability so long as it remains in contact with fire, and it can walk on flames at its highest speed, as though walking on air via the air walk spell.
+Heat (Su) Each of a fire-infused creature’s natural attacks and melee attacks with metallic weapons deals an extra +1d6 points of fire damage.

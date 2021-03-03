@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/blink-dog
+Blink Dog
+CR 2
+XP 600
+LG Medium magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +7
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 22 (3d10+6)
+Fort +5, Ref +5, Will +4
+OFFENSE
+Speed 40 ft.
+Melee bite +4 (1d6+1)
+Spell-Like Abilities (CL 7th; concentration +7)
+Constant—blink
+At will—quickened dimension door (self only)
+STATISTICS
+Str 12, Dex 15, Con 14, Int 10, Wis 13, Cha 11
+Base Atk +3; CMB +4; CMD 16 (20 vs. trip)
+Feats Combat Reflexes, Iron Will
+Skills Perception +7, Stealth +7, Survival +2 (+6 scent tracking)
+Languages Sylvan

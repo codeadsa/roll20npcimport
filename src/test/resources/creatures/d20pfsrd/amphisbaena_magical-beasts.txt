@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/amphisbaena
+Amphisbaena CR 4
+XP 1,200
+N Large magical beast
+Init +2; Senses all-around vision, darkvision 60 ft., low-light vision, scent; Perception +11
+DEFENSE
+AC 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, –1 size)
+hp 45 (6d10+12)
+Fort +6, Ref +7, Will +3
+Defensive Abilities split; Immune petrification; Resist cold 10
+OFFENSE
+Speed 20 ft., climb 20 ft., swim 20 ft.
+Melee 2 bites +8 (1d8+2 plus poison)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 14, Dex 15, Con 13, Int 2, Wis 13, Cha 4
+Base Atk +6; CMB +9; CMD 21 (can’t be tripped)
+Feats Skill Focus (Stealth), Toughness, Weapon Focus (bite)
+Skills Acrobatics +10 (+6 jump), Climb +10, Perception +11, Stealth +11, Swim +10; Racial Modifiers +8 Climb, +8 Acrobatics, +4 Perception, +4 Stealth, +8 Swim
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d3 Con; cure 1 save.
+Split (Su) An amphisbaena functions normally even if cut in half. If dealt a critical hit with a slashing weapon, the creature is cut in half but continues to function as two separate creatures, each with half the original amphisbaena’s current hit points (rounded down) after the damage from the critical hit is applied. Once split, an amphisbaena cannot be split again. If left alone for 1 minute, the split amphisbaena can rejoin its two halves and become a single whole creature again (add the two creatures’ hit points together). If one of the split creatures is slain, the amphisbaena can regrow the lost portion over the course of 1d3 weeks.

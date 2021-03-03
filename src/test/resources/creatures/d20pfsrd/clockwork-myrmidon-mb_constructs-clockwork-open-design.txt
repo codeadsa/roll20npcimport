@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-open-design/clockwork-myrmidon-mb
+Clockwork Myrmidon CR 6
+XP 2,400
+N Large construct
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 21, touch 11, flat-footed 19 (+2 Dex, +10 natural, +1 size)
+hp 74 (8d10+30)
+Fort +2, Ref +4, Will +2
+Immune construct traits
+OFFENSE
+Speed 30 ft.
+Melee mwk heavy pick +12/+7 (1d8+4/×4), slam +11 (1d6+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks alchemical flame jet, grease spray
+TACTICS
+Before Combat A clockwork myrmidon defends itself from attack but does not initiate combat unless so directed by its master.
+During Combat When it does enter battle, a clockwork myrmidon is unrelenting and single-minded, and it attacks one particular target until that foe surrenders, escapes, or is defeated. Unless given instructions otherwise, a clockwork myrmidon attacks whatever enemy is closest to it.
+Morale A clockwork myrmidon attacks until destroyed or ordered to stand down.
+STATISTICS
+Str 19, Dex 14, Con —, Int —, Wis 10, Cha 1
+Base Atk +8; CMB +13; CMD 25
+Skills Perception +5; Racial Modifiers +5 Perception
+Languages understands Common
+SPECIAL ABILITIES
+Alchemical Flame Jet (Ex) A mechanism within the myrmidon’s chest can fire a 20-ft.-long fiery stream at any target it is aware of 1/round as a standard action, dealing 4d6 fire damage. This is a ranged touch attack that does not provoke an attack of opportunity. The reservoirs inside the myrmidon can only hold four charges of this alchemical fire before it must be refilled. This mechanism explodes when a myrmidon is destroyed, spraying each creature within 5 ft. of the construct with flame and shrapnel (3d6 damage, Reflex DC 14 for half).
+Grease Spray (Ex) A mechanism within the myrmidon’s chest can fire a spray of alchemical grease one time per round as a standard action that does not provoke an attack of opportunity. This has a range of 30 ft., and the effect acts in all other ways as grease (CL 4th, Reflex DC 14). The reservoirs within the myrmidon can only hold four uses of this alchemical grease before it must be refilled. This mechanism explodes when a Myrmidon is destroyed, making one final grease effect on each square within 5 ft. of the construct.
+Clockwork Myrmidon Construction
+A clockwork myrmidon is solid and tough, and it requires a heavy, specialized chassis and components, including a masterwork Large heavy pick (included in the cost). Powering a clockwork myrmidon requires a 4-day ritual combining magic, alchemy, and clockwork techniques that consume 600 gp in special oils and must be performed within a reusable chamber (this chamber cannot be used to build other clockwork creations). Building this chamber costs 750 gp and requires three successful DC 20 Craft (clockwork) checks.
+CL 9th; Price 16,400 gp
+CONSTRUCTION REQUIREMENTS
+Craft Construct, animate objects, grease, magic weapon, make whole; Special creator must be CL 9th; Skill Craft (clockworks) DC 24; Cost 8,500 gp

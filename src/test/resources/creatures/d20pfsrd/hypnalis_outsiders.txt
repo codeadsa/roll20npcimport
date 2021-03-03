@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hypnalis
+Hypnalis CR 5
+XP 1,600
+N Medium outsider (extraplanar)
+Init +6; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 59 (7d10+21)
+Fort +5, Ref +7, Will +6
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee bite +13 (1d6+9 plus grab and poison)
+Special Attacks constrict (1d6+9), poison, sneak attack +2d6
+STATISTICS
+Str 22, Dex 15, Con 16, Int 7, Wis 13, Cha 10
+Base Atk +7; CMB +13 (+17 grapple); CMD 25 (can’t be tripped)
+Feats Blind-Fight, Improved Initiative, Skill Focus (Stealth), Shadow Strike
+Skills Bluff +10, Fly +10, Perception +11, Sense Motive +10, Stealth +15
+Languages Aklo
+SQ ghost touch fangs, phasing
+SPECIAL ABILITIES
+Ghost Touch Fangs (Su) A hypnalis’s bite attack is treated as if it has the ghost touch special weapon quality.
+Phasing (Su) A hypnalis can shift from the Ethereal Plane to the Material Plane as a free action and shift back again as a move action (or part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th).
+Poison (Su) If a hypnalis poisons an ethereal creature while on the Ethereal Plane (including creatures under the effects of spells or effects that grant etherealness such as ethereal jaunt), the creature is immediately forced onto the Material Plane and takes the specified Constitution damage. Creatures on the Material Plane are affected by this poison as normal.
+Hypnalis Venom: Bite—injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d3 Con and effects listed above; cure 2 consecutive saves. The save DC is Constitution-based.

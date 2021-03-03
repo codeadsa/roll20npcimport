@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/asrai-tohc
+Asrai CR 5
+XP 1,600
+CN Tiny fey (aquatic)
+Init +4; Senses low-light vision; Perception +6
+DEFENSE
+AC 18, touch 16, flat-footed 14 (+4 Dex, +2 natural, +2 size)
+hp 9 (2d6+2)
+Fort +1; Ref +7; Will +4
+DR 5/cold iron; Immune cold; SR 16
+Weaknesses water dependent
+OFFENSE
+Speed 20 ft., swim 50 ft.
+Melee touch +7 (1d4 cold)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks cold touch
+Spell-Like Abilities (CL 5th)
+
+2/day—control water, fog cloud, obscuring mist
+
+Spells Known (CL 5th)
+
+2nd (5/day)—hideous laughter (DC 14), summon monster II
+1st (7/day)—charm person (DC 13), hypnotism (DC 13), reduce person (DC 13), sleep (DC 13)
+0 (at will)—dancing lights, daze (DC 12), detect magic, ray of frost, resistance, touch of fatigue (DC 12)
+TACTICS
+During Combat An asrai only engages in combat if its body of water is threatened, or if any intelligent creature other than a fey enters the water without permission.
+Once in combat, an asrai prefers to attack with its magic, using its chilling touch only as a last resort. If it faces overwhelming odds, an asrai seeks escape, often using its fog cloud or obscuring mist ability to cover its exit.
+STATISTICS
+Str 5, Dex 18, Con 13, Int 10, Wis 13, Cha 14
+Base Atk +1; CMB +3; CMD 10
+Feats Eschew Materials B, Weapon Finesse
+Skills Knowledge (arcana) +4, Knowledge (nature) +5, Perception +6, Sense Motive +6, Stealth +14, Spellcraft +5, Swim +16; Racial Modifiers Knowledge (arcana) and Spellcraft are class skills for asrai
+Languages Common, Aquan, Sylvan
+SPECIAL ABILITIES
+Cold Touch (Su) The touch of an asrai is supernaturally cold. All damage dealt from an asrai’s natural attacks is cold damage. This ability is constant, but the asrai can suppress or resume it at will as a free action.
+Water Dependent (Su) An asrai can survive on land for 1 hour per 2 points of Constitution. After that, it begins to suffocate. Lost Constitution points are immediately restored if the asrai returns to the water. If its Constitution reaches 0 it dies, collapsing into a puddle of water.

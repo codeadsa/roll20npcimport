@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/denizen-of-leng
+Denizen of Leng CR 8
+XP 4,800
+CE Medium outsider (chaotic, evil, extraplanar)
+Init +4; Senses darkvision 60 ft.; Perception +16
+DEFENSE
+AC 21, touch 15, flat-footed 16 (+4 Dex, +1 dodge, +6 natural)
+hp 95 (10d10+40); planar fast healing 5
+Fort +11, Ref +11, Will +6
+Defensive Abilities no breath, unusual anatomy; Immune poison; Resist cold 30, electricity 30; SR 19
+OFFENSE
+Speed 40 ft.
+Melee bite +14 (1d6+2 plus 1d6 dexterity drain), 2 claws +14 (1d4+2)
+Special Attacks sneak attack +5d6
+Spell-Like Abilities (CL 10th; concentration +15)
+Constant—tongues
+3/day—detect thoughts (DC 17), hypnotic pattern (DC 17), levitate, minor image (DC 17)
+1/day—locate object, plane shift (DC 20, self only)
+STATISTICS
+Str 14, Dex 18, Con 19, Int 18, Wis 17, Cha 21
+Base Atk +10; CMB +12; CMD 27
+Feats Deceitful, Dodge, Mobility, Persuasive, Weapon Finesse
+Skills Bluff +22, Diplomacy +7, Disable Device +14, Disguise +12 (+16 as Humanoid), Intimidate +12, Knowledge (any one) +17, Perception +16, Profession (sailor) +8, Sense Motive +16, Sleight of Hand +17, Spellcraft +12, Stealth +17, Use Magic Device +18; Racial Modifiers +4 Disguise when disguised as a Medium Humanoid
+Languages Aklo; tongues
+SPECIAL ABILITIES
+Dexterity Drain (Su) The otherworldly teeth and tongue of a denizen of Leng deal 1d6 points of Dexterity drain with a bite. Constructs, elementals, and other creatures that do not possess flesh are immune to this effect. A successful DC 19 Fortitude save reduces the Dexterity drain to 1 point. The save DC is Constitution-based.
+Planar Fast Healing (Su) A denizen of Leng maintains a connection to Leng at all times, and when away from Leng, it has fast healing 5. It loses this ability on Leng or in areas where planar connections do not function. If killed, a denizen’s body dissolves into nothingness in 1d4 rounds, leaving behind its equipment. A slain denizen reforms in Leng, similar to a slain summoned creature; it can only be permanently killed if its fast healing is negated.
+Unusual Anatomy (Ex) A denizen’s internal anatomy varies from individual to individual, and has a 50% chance to treat any critical hit or sneak attack against it as a normal hit.

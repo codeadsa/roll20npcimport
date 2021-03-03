@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-magma/magma-dragon-wyrmling
+Magma Dragon, Wyrmling CR 4
+XP 1,200
+CN Tiny dragon (fire)
+Init +7; Senses dragon senses; Perception +9
+
+DEFENSE
+AC 19, touch 15, flat-footed 16 (+3 Dex, +4 natural, +2 size)
+hp 37 (5d12+5)
+Fort +5, Ref +7, Will +7
+Immune fire, paralysis, sleep
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 40 ft., fly 100 ft. (average)
+Melee bite +8 (1d4+1), 2 claws +8 (1d3+1)
+Space 2.5 ft.; Reach 0 ft. (5 ft. with bite)
+Special Attacks breath weapon (15-ft. cone, DC 13, 2d6 fire)
+
+STATISTICS
+Str 13, Dex 16, Con 13, Int 12, Wis 12, Cha 11
+Base Atk +5; CMB +6; CMD 17 (21 vs. trip)
+Feats Improved Initiative, Iron Will, Power Attack
+Skills Acrobatics +8 (+12 jump), Climb +9, Fly +15, Perception +9, Sense Motive +9, Stealth +19, Swim +9
+Languages Common, Draconic
+

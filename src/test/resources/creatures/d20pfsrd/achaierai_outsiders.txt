@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/achaierai
+Achaierai CR 5
+XP 1,600
+LE Large outsider (evil, extraplanar, lawful)
+Init +1; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 20, touch 11, flat-footed 18 (+1 Dex, +1 dodge, +9 natural, –1 size)
+hp 52 (7d10+14)
+Fort +7, Ref +6, Will +4
+SR 20
+OFFENSE
+Speed 50 ft.
+Melee bite +10 (2d6+4), 2 claws +10 (1d6+4)
+Space 10 ft.; Reach 5 ft. (10 ft. with claw)
+Special Attacks black cloud
+STATISTICS
+Str 19, Dex 13, Con 14, Int 11, Wis 14, Cha 16
+Base Atk +7; CMB +12; CMD 24 (28 vs. trip)
+Feats Combat Reflexes, Dodge, Mobility, Spring Attack
+Skills Acrobatics +11 (+19 jump), Climb +14, Perception +12, Sense Motive +12, Stealth +7, Swim +14
+Languages Infernal
+SPECIAL ABILITIES
+Black Cloud (Su) An achaierai can exhale a cloud of choking, toxic smoke three times per day. All creatures within 10 feet of the achaierai immediately take 2d6 points of damage as their flesh melts and rots away. The cloud erodes sanity as well as flesh, and anyone who takes damage from the black cloud must also make a DC 15 Fortitude save or become confused. Every round, the victim may attempt another DC 15 Fortitude save to recover from the confusion; otherwise it persists, lasting indefinitely until the condition is removed or the victim eventually makes her saving throw. The confusion element of a black cloud is a mind-affecting effect. The save DC is Constitution-based. This is a poison effect. Achaierais are immune to this ability.

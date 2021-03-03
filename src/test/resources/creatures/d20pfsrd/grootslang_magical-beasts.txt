@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/grootslang
+Grootslang CR 16
+XP 76,800
+CE Gargantuan magical beast
+Init +4; Senses darkvision 120 ft., scent; Perception +28
+DEFENSE
+AC 31, touch 11, flat-footed 26 (+4 Dex, +1 dodge, +20 natural, -4 size)
+hp 283 (21d10+168)
+Fort +20, Ref +16, Will +12
+DR 10/magic; SR 27
+OFFENSE
+Speed 40 ft., swim 30 ft.
+Melee bite +30 (4d8+13/19-20), 2 stomps +25 (2d6+6), tail slap +25 (2d6+6)
+Space 20 ft.; Reach 20 ft.
+Special Attacks impaling bite, thunderous stomp (DC 28), trample (2d6+19, DC 33)
+STATISTICS
+Str 36, Dex 19, Con 26, Int 15, Wis 20, Cha 15
+Base Atk +21; CMB +38; CMD 53 (55 vs. trip)
+Feats Awesome Blow, Bleeding Critical, Cleave, Critical Focus, Dodge, Improved Bull Rush, Improved Critical (bite), Mobility, Multiattack, Power Attack, Spring Attack
+Skills Acrobatics +15 (+19 when jumping), Bluff +4, Intimidate +15, Perception +28, Sense Motive +13, Stealth +10, Swim +45
+Languages Aquan, Common, Draconic
+SQ aquatic elusion, hold breath
+SPECIAL ABILITIES
+Aquatic Elusion (Su) As a standard action, a grootslang that is fully immersed in water can teleport to another body of water without error. This ability functions like tree stride, but the grootslang can exit from any body of water within 1 mile so long as both the entry and exit are wide enough for the creature to enter.
+Impaling Bite (Ex) A grootslang can make a bite attack against any creature it is grappling with its tail. If this attack hits, it is automatically treated as a critical threat.
+Thunderous Stomp (Ex) As a full-round action, a grootslang can rear up on its serpentine body to bring its massive forelimbs down with awesome force. The grootslang chooses two adjacent targets to be affected as though trampling them. In addition, each creature within 10 feet must make a DC 28 Reflex save or be knocked prone. The save DC is Constitution-based

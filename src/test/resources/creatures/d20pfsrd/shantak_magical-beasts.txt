@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/shantak
+Shantak CR 8
+XP 4,800
+CE Huge magical beast
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +3
+DEFENSE
+AC 21, touch 11, flat-footed 18 (+3 Dex, +10 natural, –2 size)
+hp 104 (11d10+44)
+Fort +11, Ref +10, Will +6
+Defensive Abilities slippery; Immune cold, disease
+OFFENSE
+Speed 20 ft., fly 80 ft. (average)
+Melee bite +17 (2d6+8) 2 talons +17 (1d8+8 plus grab)
+Space 15 ft.; Reach 15 ft.
+STATISTICS
+Str 26, Dex 17, Con 19, Int 8, Wis 17, Cha 10
+Base Atk +11; CMB +21 (+25 grapple); CMD 34 (42 vs. grapple)
+Feats Awesome Blow, Flyby Attack, Hover, Improved Bull Rush, Power Attack, Wingover
+Skills Escape Artist +11, Fly +13; Racial Modifiers +8 Escape Artist
+Languages Aklo
+SQ no breath, share defenses, starflight
+SPECIAL ABILITIES
+Share Defenses (Su) As a free action, a shantak can extend its no breath ability and cold immunity to a single creature touching it. It can withdraw this protection as a free action.
+Slippery (Ex) A shantak’s scales seep slippery slime. This grants the creature a +8 bonus on all Escape Artist checks and to its CMD against grapples, and imparts a –5 penalty on all Ride checks made by creatures attempting to ride a shantak.
+Starflight (Su) A shantak can survive in the void of outer space. It flies through space at an incredible speed. Although exact travel times vary, a trip within a single solar system should take 3d20 hours, while a trip beyond should take 3d20 days (or more, at the GM’s discretion)—provided the shantak knows the way to its destination. Shantaks speak in a shrill voice that sounds like glass grinding against stone. They are intelligent creatures and cannot be trained as mounts—a would-be shantak rider must use diplomacy or magic to secure a shantak’s cooperation as a mount, and even then, shantaks have a tendency to deliberately strand riders in dangerous areas.

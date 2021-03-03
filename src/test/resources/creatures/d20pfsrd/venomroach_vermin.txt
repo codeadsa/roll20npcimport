@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/venomroach
+Venomroach CR 3
+XP 800
+N Large vermin
+Init +1; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 15, touch 10, flat-footed 14 (+1 Dex, +5 natural, –1 size)
+hp 31 (3d8+18)
+Fort +9, Ref +2, Will +2
+Immune mind-affecting effects
+Weaknesses light sensitivity
+OFFENSE
+Speed 40 ft., climb 40 ft., fly 60 ft. (poor)
+Melee bite +3 (2d6+3 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks poison
+STATISTICS
+Str 15, Dex 13, Con 22, Int —, Wis 13, Cha 2
+Base Atk +2; CMB +5; CMD 16 (24 vs. trip)
+Feats Diehard B, Endurance B
+Skills Climb +10, Fly –5, Perception +5, Stealth + 1; Racial Modifiers +4 Perception, +4 Stealth
+SQ hold breath

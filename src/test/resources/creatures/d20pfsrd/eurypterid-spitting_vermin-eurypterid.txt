@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/eurypterid/eurypterid-spitting
+Spitting Eurypterid CR 12
+XP 19,200
+N Gargantuan vermin (aquatic)
+Init +4; Senses low-light vision, tremorsense 30 ft.; Perception +1
+DEFENSE
+AC 26, touch 6, flat-footed 26 (+20 natural, –4 size)
+hp 184 (16d8+112)
+Fort +17, Ref +5, Will +6
+Immune mind-affecting effects
+OFFENSE
+Speed 10 ft., swim 40 ft.
+Melee 2 claws +20 (1d8+12), sting +20 (2d6+12 plus poison)
+Space 20 ft.; Reach 20 ft. (30 ft. with sting)
+Special Attacks spit
+STATISTICS
+Str 34, Dex 10, Con 24, Int —, Wis 13, Cha 2
+Base Atk +12; CMB +28; CMD 38
+Feats Improved InitiativeB
+Skills Swim +20
+SQ amphibious
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 25; frequency 1/round for 6 rounds; effect 1d6 Con and 1d4 Dex; cure 2 consecutive saves.
+Spit (Ex) A spitting eurypterid can expel a high-pressure jet of water from a vent just below its mouth with startling accuracy and force. This spit attack is equally effective above or below water, creating a 40-foot line that inflicts 10d6 points of nonlethal damage to all creatures in the area of effect. In addition, creatures that take damage from this jet of water are stunned for 1 round. A DC 25 Fortitude save halves the damage and negates the stun effect. Once a spitting eurypterid uses this ability, it cannot use it again until it takes a full-round action while completely submerged to draw more water into its body. The save DC is Constitution-based.

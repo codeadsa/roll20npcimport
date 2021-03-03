@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-annis/annis-hag-alter-ego
+Annis Hag Alter Ego CR 6
+XP 2,400
+N Large construct
+Init +3; Senses darkvision 60 ft., sense progenitor; Perception +10
+DEFENSE
+AC 20, touch 12, flat-footed 17 (+3 Dex, +8 natural, –1 size)
+hp 68 (7d8+37); fast healing 1
+Fort +4, Ref +8, Will +6
+DR 5/adamantine and bludgeoning; Immune construct traits; SR 17
+Weaknesses progenitor dependence
+OFFENSE
+Speed 40 ft.
+Melee bite +13 (1d6+7), 2 claws +13 (1d6+7 plus grab) or slam +13 (1d8+7)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 2d6+10)
+Spell-Like Abilities (CL 7th; concentration +7)
+3/day—alter self, fog cloud
+STATISTICS
+Str 25, Dex 16, Con —, Int 13, Wis 13, Cha 10
+Base Atk +7; CMB +15 (+19 grapple); CMD 28
+Feats Alertness, Blind-Fight, Great Fortitude, Intimidating Prowess, ToughnessB
+Skills Bluff +7, Diplomacy +7, Disguise +0 (+4 to appear as its progenitor), Intimidate +14, Perception +10, Sense Motive +3, Stealth +6; Racial Modifiers +4 Disguise to appear as its progenitor
+Languages Common, Giant
+SQ replicated gear
+SPECIAL ABILITIES
+Progenitor Dependence (Su) An alter ego is nauseated whenever it is more than 1 mile from the original creature of which it is a copy, so long as the original creature is alive.
+Replicated Gear (Su) An alter ego possesses a copy of each item of the clothing and equipment (including magic items except single- or limited-use items such as wands, scrolls, and potions) in its progenitor’s possession at the moment that the alter ego was created.
+This equipment is fabricated of ectoplasm held in place by the alter ego’s mental energy. This equipment operates as normal for the alter ego. One round after leaving the alter ego’s possession (or one round after the alter ego is destroyed), this fabricated equipment dissolves into a thin, silvery mucus.
+Sense Progenitor (Su) An alter ego creature knows the direction and distance to the original creature of which it is a copy—this sense can be blocked by any effect that blocks scrying. An alter ego has detect thoughts and true seeing against its progenitor in effect at all times (CL 20th); these abilities cannot be dispelled.

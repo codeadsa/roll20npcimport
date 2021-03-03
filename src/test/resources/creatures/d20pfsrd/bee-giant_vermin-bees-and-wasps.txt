@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/bees-and-wasps/bee-giant
+Giant Bee
+CR 1
+XP 400
+N Medium vermin
+Init +2; Senses darkvision 60 ft.; Perception +1
+DEFENSE
+AC 13, touch 12, flat-footed 11 (+2 Dex, +1 natural)
+hp 16 (3d8+3)
+Fort +4, Ref +3, Will +2
+Immune mind-affecting effects
+Weaknesses vulnerable to smoke
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee sting +2 (1d4 plus poison)
+STATISTICS
+Str 11, Dex 14, Con 13, Int –, Wis 12, Cha 9
+Base Atk +2; CMB +2; CMD 14 (22 vs. trip)
+Skills Fly +6
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 12; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.
+Vulnerable to Smoke (Ex) Smoke from particularly smoky fires or effects (such as that created by a pyrotechnics spell) causes a giant bee to become nauseated if it fails a DC 14 Fortitude save. This condition persists as long as the giant bee remains in the smoke, plus 1d4 rounds.

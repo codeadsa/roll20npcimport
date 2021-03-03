@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/aurochs
+Aurochs CR 2
+XP 600
+N Large animal
+Init +0; Senses low-light vision, scent; Perception +9
+DEFENSE
+AC 13, touch 9, flat-footed 13 (+4 natural, –1 size)
+hp 22 (3d8+9)
+Fort +6, Ref +3, Will +1
+OFFENSE
+Speed 40 ft.
+Melee gore +7 (1d8+9)
+Space 10 ft.; Reach 5 ft.
+Special Attacks stampede, trample (2d6+9, DC 17)
+STATISTICS
+Str 23, Dex 10, Con 17, Int 2, Wis 11, Cha 4
+Base Atk +2; CMB +9; CMD 19 (23 vs. trip)
+Feats Endurance, Skill Focus (Perception)
+Skills Perception +9
+SPECIAL ABILITIES
+Stampede (Ex) A stampede occurs if three or more creatures with stampede make a trample attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample’s save DC increases by +2.
+Source Wikipedia. Aurochs Animal Companions
+
+Starting Statistics: Size Medium; Speed 40 ft.; AC +1 natural armor, Attack gore (1d6); Ability Scores Str 14, Dex 12, Con 12, Int 2, Wis 11, Cha 4; Special Qualities low-light vision, scent . 7th-Level Advancement: Size Large; AC +3 natural armor; Attack gore (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities stampede, trample.

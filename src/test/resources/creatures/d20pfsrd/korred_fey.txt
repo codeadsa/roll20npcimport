@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/korred
+Korred CR 4
+XP 1,200
+CN Small fey
+Init +3; Senses low-light vision; Perception +14
+DEFENSE
+AC 17, touch 15, flat-footed 13 (+3 Dex, +1 dodge, +2 natural, +1 size)
+hp 33 (6d6+12)
+Fort +4, Ref +8, Will +7
+DR 5/cold iron; SR 15
+OFFENSE
+Speed 30 ft.
+Melee club +8 (1d4+6)
+Ranged rock +8 (1d6+4)
+Special Attacks animated hair, stunning laugh, rock throwing (100 ft.)
+Spell-Like Abilities (CL 6th; concentration +7)
+At will—animate rope, shatter (DC 13), stone shape
+1/day—stone tell
+STATISTICS
+Str 19, Dex 17, Con 14, Int 12, Wis 14, Cha 13
+Base Atk +3; CMB +6; CMD 20
+Feats Dodge, Mobility, Skill Focus (Perception)
+Skills Acrobatics +12, Bluff +10, Craft (rope) +10, Craft (sculpture) +10, Perception +14, Perform (dance) +10, Stealth +16
+Languages Common, Sylvan
+SQ stone stride
+SPECIAL ABILITIES
+Animated Hair (Su) A korred’s hair is constantly writhing and twitching. As a free action, a korred can cause its long hair to reach out and interfere with adjacent creatures—tugging at clothes and weapons, tangling feet and arms, tickling, and generally making a nuisance of itself. The korred can select which adjacent targets are affected by its animated hair. These targets must make a successful DC 16 Reflex save each round to avoid becoming entangled for 1 round. The save DC is Dexterity-based.
+Stone Stride (Su) This ability works like tree stride, except it requires loose boulders at least as large as the korred, and only has a range of 30 feet. The korred can use this ability once per round as a standard action.
+Stunning Laugh (Su) Three times per day as a standard action, a korred can unleash a strange laugh that stuns all creatures within a 30-foot burst for 1d2 rounds (Fortitude DC 14 negates). This is a sonic, mind-affecting effect. Fey are immune to this ability. The save DC is Charisma-based.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/chuul
+Chuul CR 7
+XP 3,200
+CE Large aberration (aquatic)
+Init +7; Senses darkvision 60 ft.; Perception +19
+DEFENSE
+AC 22, touch 12, flat-footed 19 (+3 Dex, +10 natural, –1 size)
+hp 85 (10d8+40)
+Fort +7, Ref +6, Will +9
+Immune poison
+OFFENSE
+Speed 30 ft., swim 20 ft.
+Melee 2 claws +14 (2d6+7 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (2d6+7), paralytic tentacles
+STATISTICS
+Str 25, Dex 16, Con 18, Int 10, Wis 14, Cha 5
+Base Atk +7; CMB +15 (+19 grapple); CMD 28 (32 vs. trip)
+Feats Alertness, Blind-Fight, Combat Reflexes, Improved Initiative, Weapon Focus (claw)
+Skills Knowledge (nature) +8, Perception +19, Sense Motive +9, Stealth +9, Swim +28
+Languages Common (sometimes Undercommon for subterranean variants)
+SQ amphibious
+SPECIAL ABILITIES
+Paralytic Tentacles (Ex) A chuul can transfer a grappled victim from a claw to its tentacles as a move action. The tentacles grapple with the same strength as the claw but deal no damage, instead exuding a paralytic secretion. Anyone held in the tentacles must succeed on a DC 19 Fortitude save each round on the chuul’s turn or be paralyzed for 6 rounds. The save DC is Constitution-based. While held in the tentacles, paralyzed or not, a victim automatically takes 1d8+7 points of damage each round from the creature’s mandibles.

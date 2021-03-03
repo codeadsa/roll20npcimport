@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/apocalypse-locust
+Apocalypse Locust CR 6/MR 3
+XP 2,400
+CE Large outsider (evil, extraplanar, Mythic)
+Init +0; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 20, touch 9, flat-footed 20 (+11 natural, –1 size)
+hp 75 (6d10+42)
+Fort +7, Ref +2, Will +6
+DR 5/epic
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee 2 pincers +7 (1d8+3 plus grab), sting +11 (1d6+6 plus sting)
+Space 10 ft.; Reach 10 ft.
+Special Attacks abyssal torment, breath weapon (30-ft. line, 1d6 fire damage plus accursed brand, Will DC 15 negates, usable every 2d4 rounds), constrict (1d8+9), maddening buzz, Mythic Power (3/day, Surge +1d6), sting
+Spell-Like Abilities (CL 6th; concentration +8)
+1/day—summon swarm (locusts only)
+STATISTICS
+Str 22, Dex 10, Con 14, Int 11, Wis 13, Cha 15
+Base Atk +6; CMB +13 (+17 grapple); CMD 23
+Feats Flyby Attack, Power AttackM, Weapon FocusM (pincer)
+Skills Bluff +11, Fly +11, Intimidate +11, Perception +10, Stealth +5, Survival +10
+Languages Abyssal
+SPECIAL ABILITIES Abyssal Torment (Su) An apocalypse locust’s sting is designed to torment its victims with wracking pain. A victim of the creature’s venomous sting also takes a –4 penalty on attack rolls, skill checks, and ability checks. The effects of abyssal torment last until the sting’s poison is cured.
+Accursed Brand (Su) Whenever a victim fails its save against an apocalypse locust’s breath weapon, the unholy fire burns an accursed brand into his flesh. For the next 24 hours, the branded victim is subjected to auditory hallucinations of foul desires and sinful deeds. The hallucinations cause lawful and good victims to become tainted; good-aligned clerics, druids, paladins, and even lawful monks are treated as though they’ve temporarily broken their codes of conduct. Any character marked by the accursed brand who has a class that’s restricted to a good alignment or lawful alignment is treated as an ex-member of that class for 24 hours; an atonement spell can end this effect.
+Maddening Buzz (Su) When three or more apocalypse locusts in a group simultaneously flap their wings, they create a loud buzzing sound capable of driving other creatures mad. Any creature within a range of 100 feet + 10 additional feet per locust must succeed at a DC 15 Will save or go mad as if affected by a confusion spell (caster level equal to the locusts’ CR plus the number of locusts present). This is a sonic mind-affecting effect. The DC for the save is Charisma-based.
+Sting (Ex) Poison—injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1 Con plus abyssal torment; cure 2 consecutive saves. The save DC is Constitution-based.

@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-lhaksharut
+Lhaksharut CR 20
+XP 307,200
+LN Huge outsider (extraplanar, inevitable, lawful)
+Init +5; Senses darkvision 60 ft., detect chaos, detect magic, low-light vision, true seeing; Perception +34
+Aura shield of law (DC 23)
+DEFENSE
+AC 36, touch 18, flat-footed 35 (+4 deflection, +1 Dex, +5 insight, +18 natural, –2 size)
+hp 337 (22d10+216); regeneration 10 (chaotic)
+Fort +25, Ref +12, Will +22
+Defensive Abilities constructed; DR 15/chaotic; Immune energy spells; SR 31
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee +2 wounding spear +32/+27/+22/+17 (3d6+17/×3 plus 1 bleed), +2 wounding longsword +32 (3d6+12/19–20 plus 1 bleed), +2 wounding morningstar +32 (3d6+12 plus 1 bleed) or 4 slams +30 (2d8+10)
+Ranged 2 energy bolts +21 (10d6 energy)
+Space 15 ft.; Reach 15 ft.
+Special Attacks cunning reflexes, multiweapon mastery, perfect prediction, wounding weapons
+Spell-Like Abilities (CL 22th; concentration +27)
+Constant—detect chaos, detect magic, shield of law (DC 23), true seeing
+At will—dispel magic, greater teleport (self plus 50 lbs. of objects only), sending
+3/day—dictum (DC 22), dimensional anchor (DC 19), dimensional lock (DC 23), disintegrate (DC 21), dismissal (DC 20), greater scrying (DC 22), plane shift (DC 20), wall of force
+1/day—imprisonment (DC 24)
+STATISTICS
+Str 31, Dex 13, Con 26, Int 14, Wis 21, Cha 20
+Base Atk +22; CMB +34; CMD 50*(54?) (can’t be tripped)
+Feats Blind-Fight, Combat Expertise, Combat Reflexes, Greater Bull Rush, Greater Vital Strike, Improved Bull Rush, Improved Disarm, Improved Initiative, Improved Vital Strike, Power Attack, Vital Strike
+Skills Fly +30, Intimidate +30, Knowledge (arcana) +24, Knowledge (geography) +24, Knowledge (planes) +27, Perception +34, Sense Motive +30, Spellcraft +24; Racial modifiers +4 Perception
+Languages truespeech
+SQ perfect prediction
+SPECIAL ABILITIES
+Cunning Reflexes (Ex) A lhaksharut uses its Wisdom modifier, rather than its Dexterity modifier, to determine how many additional attacks of opportunity it gains with the Combat Reflexes feat. For most lhaksharut inevitables, this benefit equates to 5 additional attacks of opportunity per round.
+Energy Bolt (Su) A lhaksharut can fire bolts of elemental energy from two of its six arms—it never wields weapons in these hands. These attacks have a range increment of 100 feet and deal 10d6 energy damage of the inevitable’s choice (acid, cold, electricity, or fire, chosen for each bolt as it is thrown). It can throw two bolts of energy as a standard action, and cannot attack with these hands when it makes weapon or slam attacks with its other limbs.
+Immunity to Energy Spells (Ex) A lhaksharut is immune to any spell or spell-like ability with the acid, cold, electricity, fire, or sonic descriptor that allows spell resistance.
+Multiweapon Mastery (Ex) A lhaksharut never takes penalties on its attack rolls when fighting with multiple weapons.
+Perfect Prediction (Su) A lhaksharut gains an insight bonus to AC equal to its Wisdom bonus.
+Wounding Weapons (Su) Any weapon wielded by a lhaksharut gains the wounding weapon quality as long as it remains in the creature’s grasp.
+Editor’s Note
+The CMD value seems to be incorrect. We believe it should be 54 (10 base +22 BAB +10 STR +1 DEX +4 deflection +5 insight +2 size)

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/megafauna/megafauna-archelon
+Archelon CR 5
+XP 1,600
+N Huge animal
+Init +5; Senses low-light vision, scent; Perception +10
+DEFENSE
+AC 19, touch 9, flat-footed 18 (+10 armor, +1 Dex, -2 size)
+hp 59 (7d8+28)
+Fort +9, Ref +6, Will +5
+OFFENSE
+Speed 15 ft., swim 50 ft.
+Melee bite +10 (2d8+9)
+Space 15 ft.; Reach 10 ft.
+Special Attacks capsize (DC 25)
+STATISTICS
+Str 22, Dex 13, Con 19, Int 2, Wis 12, Cha 6
+Base Atk +5; CMB +13; CMD 24 (28 vs. trip)
+Feats Improved Initiative, Iron Will, Lunge, Weapon Focus (bite)
+Skills Perception +10, Swim +18
+SQ hold breath
+Source Wikipedia

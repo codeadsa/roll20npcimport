@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-titivilus-duke-of-hell-tohc
+Titivilus CR 20
+XP 307,200
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +11; Senses darkvision 60 ft., detect good, detect magic, see in darkness; Perception +34
+DEFENSE
+AC 41, touch 28, flat-footed 34 (+7 Dex, +13 natural, +11 profane)
+hp 275 (19d10+171); regeneration 10 (good, silver)
+Fort +15, Ref +20, Will +21
+DR 15/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 31
+OFFENSE
+Speed 50 ft., fly 60 ft. (average)
+Melee +3 silver wounding longsword +29/+24/+19/+14 (1d8+10/19–20 plus 1 bleed) or fear touch +26 (fear)
+Special Attacks fear touch (Will DC 32, fear spell CL 20th)
+Spell-Like Abilities (CL 20th)
+Constant—detect good, detect magic
+At will—animate dead, bestow curse (DC 24), charm person (DC 22), confusion (DC 25), crushing despair (DC 25), dispel magic, greater invisibility, greater teleport (self plus 50 pounds of objects only), hypnotism (DC 22), illusory script, magic circle against good, message, misdirection (DC 23), nondetection, polymorph, suggestion (DC 24), tongues, unholy aura (DC 29), ventriloquism (DC 22), whispering wind
+2/day—summon (level 9, 4d10 lemures or nupperibos, 1d4 bone devils or erinyes, 1d2 horned devils, or 1 pit fiend 100%)
+1/day—feeblemind (DC 26), symbol of pain (DC 26), symbol of sleep (DC 26)
+TACTICS
+Titivilus prefers to avoid combat, if possible. If pressed, he attacks with his spell-like abilities, seeking to sew confusion and disorder among his adversaries. In close combat, he uses his longsword, but usually summons other devils before such combat occurs. If facing imminent defeat, Titivilus summons other devils to cover his escape.
+STATISTICS
+Str 24, Dex 24, Con 28, Int 28, Wis 26, Cha 32
+Base Atk +19; CMB +26; CMD 54
+Feats Alertness, Cleave, Great Cleave, Improved Initiative, Iron Will, Lightning Reflexes, Persuasive, Power Attack, Quicken Spell-Like Ability (confusion), Vital Strike
+Skills Appraise +28, Bluff +40, Diplomacy +38, Escape Artist +29, Fly +29, Intimidate +37, Knowledge (arcana) +28, Knowledge (history) +28, Knowledge (local) +28, Knowledge (planes) +31, Knowledge (religion) +28, Perception +34, Sense Motive +34, Stealth +29, Survival +30; Racial Modifiers +4 Bluff, +4 Diplomacy
+Languages Abyssal, Celestial, Common, Daemonic, Draconic, Giant, Goblin, Ignan, Infernal, Terran; telepathy 100 ft.
+Gear +3 silver wounding longsword
+SPECIAL ABILITIES
+Fear Touch (Su) A creature that successfully saves cannot be affected again by Titivilus’s fear touch for one day. The save DC is Charisma-based.

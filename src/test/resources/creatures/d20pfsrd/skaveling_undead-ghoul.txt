@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghoul/skaveling
+Skaveling CR 5
+XP 1,600
+CE Large undead
+Init +7; Senses blindsense 120 ft.; Perception +14
+DEFENSE
+AC 19, touch 13, flat-footed 15 (+3 Dex, +6 natural, –1 size)
+hp 58 (9d8+18)
+Fort +5, Ref +6, Will +8
+Immune undead traits
+OFFENSE
+Speed 20 ft., fly 40 ft. (good)
+Melee bite +10 (2d8+7 plus disease and paralysis)
+Space 10 ft.; Reach 5 ft.
+Special Attacks screech, paralysis (1d4+1 rounds, DC 16)
+STATISTICS
+Str 21, Dex 17, Con –, Int 8, Wis 15, Cha 14
+Base Atk +6; CMB +12; CMD 26
+Feats Dodge, Flyby Attack, Improved Initiative, Mobility, Skill Focus (Stealth)
+Skills Fly +13, Perception +14 (+18 when using blindsense), Stealth +14; Racial Modifiers +4 Perception when using blindsense
+Languages Undercommon
+SPECIAL ABILITIES
+Disease (Su) Ghoul Fever Bite—injury; save Fort DC 16; onset 1 day; frequency 1/day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves.
+The save DC is Charisma-based. A humanoid who dies of ghoul fever rises as a ghoul at the next midnight.
+Screech (Su) Once per day as a standard action, a skaveling can screech as a mobat, affecting a 20-foot-radius burst; those who are affected are stunned for 1d3 rounds unless they make a DC 16 Fortitude save. The save DC is Charisma-based.

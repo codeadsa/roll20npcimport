@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/shae
+Shae CR 4
+XP 1,200
+N Medium outsider (extraplanar)
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +8
+DEFENSE
+AC 16, touch 16, flat-footed 10 (+6 Dex)
+hp 38 (4d10+16)
+Fort +8, Ref +7, Will +7
+Defensive Abilities amorphous, blur; Immune cold
+OFFENSE
+Speed 30 ft.
+Melee mwk falchion +8 (2d4+4/18-20 plus 1d6 cold) or touch +7 (1d6 cold)
+Spell-Like Abilities (CL 4th; concentration +7)
+Constant—blur
+At will—lesser shadow evocation (DC 16)
+STATISTICS
+Str 16, Dex 22, Con 18, Int 21, Wis 13, Cha 17
+Base Atk +4; CMB +7; CMD 23
+Feats Combat Expertise, Iron Will
+Skills Acrobatics +13, Bluff +10, Diplomacy +10, Disguise +10, Intimidate +7, Knowledge (arcana) +9, Knowledge (planes) +12, Perception +8, Sense Motive +8, Stealth +13 (+23 in regions oflow light or darkness), Use Magic Device +10; Racial Modifiers +10 Stealth in regions of low light or darkness
+Languages Aklo, Common, Shae
+SPECIAL ABILITIES
+Cold (Su) A shae’s touch saps heat from living creatures, leaving patches of colorless flesh rather than physical wounds. A shae can deal 1d6 points of cold damage with a touch. It adds +1d6 points of cold damage to any melee weapon damage it deals.
+Lesser Shadow Evocation (Sp) This spell-like ability functions identically to the spell shadow evocation, but it can only create quasi-real versions of sorcerer or wizard evocation spells of 2nd level or lower. This spell-like ability is the equivalent of a 3rd-level spell.

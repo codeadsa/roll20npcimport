@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/merrow-freshwater
+Freshwater Merrow CR 3
+XP 800
+NE Large humanoid (aquatic, giant)
+Init +4; Senses low-light vision; Perception +5
+DEFENSE
+AC 17, touch 13, flat-footed 13 (+4 Dex, +4 natural, –1 size)
+hp 30 (4d8+12)
+Fort +7, Ref +5, Will +3
+OFFENSE
+Speed 40 ft., swim 40 ft.
+Melee 2 claws +6 (1d6+4 plus grab)
+Ranged javelin +6 (1d8+4)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 19, Dex 18, Con 17, Int 6, Wis 10, Cha 7
+Base Atk +3; CMB +8 (+12 grapple); CMD 22
+Feats Iron Will, Power Attack
+Skills Perception +5, Stealth +2 (+6 in water), Swim +12; Racial Modifiers +4 Stealth in water, +8 Swim
+Languages Giant
+SQ amphibious
+

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stirge/stirge-swarm-fgg
+Stirge Swarm CR 6
+XP 2,400
+N Tiny magical beast (swarm)
+Init +8; Senses darkvision 60 ft., low-light vision; Perception +11
+DEFENSE
+AC 16, touch 16, flat-footed 12 (+4 Dex, +2 size)
+hp 78 (12d10 plus 12)
+Fort +8; Ref +14; Will +5
+OFFENSE
+Speed 10 ft., fly 40 ft. (average)
+Melee swarm (3d6 plus blood drain)
+Space 10 ft.; Reach 0 ft.
+Special Attacks blood drain (1d6 Constitution), distraction (DC 16)
+STATISTICS
+Str 3, Dex 19, Con 10, Int 1, Wis 12, Cha 6
+Base Atk +12; CMB —; CMD —
+Feats Improved Initiative, Improved Lightning Reflexes, Lightning Reflexes, Skill Focus (Perception), Skill Focus (Stealth), Toughness
+Skills Fly +17, Perception +11, Stealth +20
+SQ diseased
+SPECIAL ABILITIES
+Diseased (Ex) Stirges are harbingers of disease. Any creature subjected to a stirge‘s blood drain attack has a 10% chance of being exposed to filth fever, blinding sickness, or a similar disease. Once this check is made, the victim can no longer be infected by this particular stirge, though attacks by different stirges are resolved normally and may result in multiple illnesses.
+Base Creature
+Stirge

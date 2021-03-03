@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protector
+Protector CR 7
+XP 3,200
+LN Medium outsider (extraplanar, lawful)
+Init +2; Senses darkvision 60 ft., know alignment 50 ft.; Perception +15
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 55 (7d10+14)
+Fort +9, Ref +9, Will +11
+Immune outsider traits
+OFFENSE
+Speed 50 ft.
+Melee longsword +9/+4 (1d8+2 /19-20)
+Domain Spell-Like Abilities (CL 7th):
+8/day—resistant touch, touch of law
+Spells Prepared (CL 7th):
+4th—chaos hammer (DC 19), divine power, spell immunityD
+3rd—daylight, magic circle against chaos, protection from energyD, remove curse
+2nd—aid, align weapon, consecrate, resist energy, shatter (DC 18), shield otherD
+1st—bless, bless water, command (DC 17), divine favor, endure elements, protection from chaosD, sanctuary (DC 17)
+0 (at will)—create water, stabilize, detect magic, read magic
+D domain spell; Domains Law, Protection
+STATISTICS
+Str 15, Dex 15, Con 15, Int 20, Wis 20, Cha 20
+Base Atk +7; CMB +9; CMD 21 (can’t be tripped)
+Feats Cleave, Combat Expertise, Iron Will, Power Attack
+Skills Diplomacy +15, Escape Artist +9, Heal +15, Know ledge (any one) +12, Knowledge (local) +15, Knowledge (the planes) +15, Knowledge (religion) +12, Perception +15, Sense Motive +15, Spellcraft +12, Survival +15
+Languages Auran, Celestial, Common; telepathy 50 ft.
+SQ air walk
+Gear longsword
+SPECIAL ABILITIES
+Air Walk (Su) Protectors can air walk as the spell of the same name (caster level 10th). This ability is always active and can be dispelled, but the protector can restart it as a free action on its next turn.
+Know Alignment (Su) A protector automatically knows the alignment of any creature within 50 feet that it looks upon.

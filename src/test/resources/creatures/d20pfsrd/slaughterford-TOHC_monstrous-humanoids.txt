@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/slaughterford-TOHC
+Slaughterford CR 8
+XP 4,800
+NE Medium monstrous humanoid
+Init +8; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 20, touch 14, flat-footed 16 (+4 Dex, +6 natural)
+hp 95 (10d10+30 plus 10)
+Fort +6, Ref +11, Will +8
+SR 19
+OFFENSE
+Speed 40 ft.
+Melee 2 arm blades +13 (1d8+3/19-20 x3) or flurry +11/+11/+11 (1d8+3/19-20 x3)
+Special Attacks augmented critical, flurry of blows, rend armor
+STATISTICS
+Str 16, Dex 18, Con 17, Int 11, Wis 12, Cha 13
+Base Atk +10; CMB +13; CMD 27
+Feats Critical Focus, Dodge, Improved Critical, Improved Initiative, Mobility, ToughnessB
+Skills Acrobatics +14, Intimidate +14, Perception +14, Stealth +17
+Languages Aklo
+SQ flurry of blows, rend armor
+SPECIAL ABILITIES
+Flurry of Blows (Ex) Similar to a monk, a slaughterford can make a flurry of blows attack at the expense of accuracy. It can make one extra attack per round as a full attack action, but each attack receives a -2 penalty.
+Rend Armor (Ex) If a slaughterford hits with both arm blades, it pulls apart any armor worn by its foe. This attack deals 2d8+6 points of damage to the opponent’s armor. Creatures not wearing armor are unaffected by this special attack. Armor reduced to 0 hit points is destroyed. Damaged armor may be repaired with a successful Craft (armorsmithing) check.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-ocean
+Ocean Giant CR 14
+XP 38,400
+CG or CE Huge humanoid (aquatic, giant)
+Init +4; Senses low-light vision; Perception +24
+DEFENSE
+AC 28, touch 8, flat-footed 28 (+20 natural, –2 size)
+hp 218 (19d8+133)
+Fort +18, Ref +8, Will +10; Resist cold 30, electricity 30
+OFFENSE
+Speed 50 ft., swim 40 ft.
+Melee mwk trident +29/+24/+19 (3d6+22) or 2 slams +27 (2d6+15)
+Ranged rock +13 (2d8+22)
+Space 15 ft.; Reach 15 ft.
+Special Attacks conch focus, rock throwing (110 ft.)
+Spell-Like Abilities (CL 14th; concentration +18)
+Constant—freedom of movement
+3/day—aqueous orb (DC 17), control winds (DC 19), shout (DC 18), summon nature’s ally VII (swimming creatures only), water breathing
+1/day—vortex (DC 20)
+STATISTICS
+Str 40, Dex 11, Con 25, Int 12, Wis 15, Cha 18
+Base Atk +14; CMB +31 (+33 bull rush); CMD 41 (43 vs. bull rush)
+Feats Augment SummoningB (with conch), Combat Reflexes, Critical Focus, Improved Bull Rush, Improved Initiative, Iron Will, Lightning Reflexes, Martial Weapon Proficiency (trident), Power Attack, Vital Strike, Weapon Focus (trident)
+Skills Intimidate +17, Knowledge (nature) +11, Perception +24, Perform (wind) +13, Survival +14, Swim +24
+Languages Aquan, Common, Giant
+SQ amphibious
+SPECIAL ABILITIES
+Conch Focus (Su) When holding its conch, an ocean giant can cast great shout (DC 22) instead of shout, and gains Augment Summoning as a bonus feat. If the conch is destroyed (hardness 5, 20 hp), the giant can spend 1 week to craft a replacement.

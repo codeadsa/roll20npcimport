@@ -1,0 +1,47 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/aberrant
+Aberrant CR 5
+XP 1,600
+NE Large humanoid (giant)
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 19, touch 8, flat-footed 19 (+4 armor, –1 Dex, +7 natural, –1 size)
+hp 60 (8d8+24)
+Fort +9; Ref +1; Will +4
+OFFENSE
+Speed 20 ft.
+Melee Huge greatclub +12/+7 (4d6+9)
+Space 10 ft.; Reach 10 ft.
+Special Attacks deformities, oversized weapon fighting
+STATISTICS
+Str 23, Dex 8, Con 17, Int 10, Wis 14, Cha 10
+Base Atk +6; CMB +13; CMD 22
+Feats Cleave, Power Attack, Vital Strike, Weapon Focus (greatclub)
+Skills Intimidate +11, Perception +9, Survival +9; Racial Modifiers –2 penalty to Charisma-based skills per deformity, except +2 bonus to Intimidate checks per deformity
+Languages Common, Giant
+SQ deformities, slow and steady
+SPECIAL ABILITIES
+Deformities (Ex) Aberrants possess an assortment of terrible deformities unique to each individual creature. When determining the deformities of a typical aberrant, roll randomly or choose 1d4–1 deformities from the Aberrant Deformities table. If two deformities are contradictory, reroll or select another. Racial bonuses gained from different deformities are cumulative.
+For each deformity an aberrant possesses, it gains a –2 racial penalty on Charisma-based checks with non-aberrants except for Intimidate checks, where it instead gains a +2 racial bonus.
+Table: Random Deformities d20 Deformity Effect
+1 Toughened hide +4 bonus to natural armor
+2 Extra arm May make one additional attack per round
+3 Additional eyes +4 racial bonus on Perception checks
+4 Unusually located eyes Gains all-around vision
+5 Hunched back +4 racial bonus to avoid being tripped, bull rushed, or overrun
+6 Strangely deformed head Can’t wear helmets or headgear unless magical or specifically designed for their head shape
+7 Over-sized ears +4 racial bonus on Perception checks to hear noise
+8 Over-sized nose Gains the scent ability
+9 Huge feet or short legs Gains the trample ability (1d8+9, DC 20)
+10 Elongated nails or claws Gains a claw attack with each arm, base 1d8 damage
+11 Fangs or large mouth Gains a bite attack, base 2d4 damage
+12 Tail Gains a tail slap secondary attack, base 2d6 damage
+13 One or more pointed horns Gains a gore primary attack, base 1d10 damage
+14 Large curled horns Can make a slam attack on a charge with its horns as a primary attack that does 2d6 base damage; if it hits, the aberrant can initiate a bull rush as a free action that does not provoke attacks of opportunity
+15 Long, gangly arms +5 ft. reach with attacks using its arms
+16 Long, muscular legs +10 ft. to base land speed
+17 Gills Can breathe underwater; gains swim speed equal to base land speed
+18 Exudes foul odor Gains stench ability (DC 17, 10 rounds); other aberrants are immune to this effect
+19 Venomous One or more of the aberrant’s natural attacks are poisonous; this could be poisonous claws, a tail sting, venomous fangs, or the like. Poison—injury; save Fort DC 17, frequency 1/round for 6 rounds, effect 1d4 to one physical ability score or 1d3 to one mental ability score, cure 2 consecutive saves.
+20 Advanced deformity One of the aberrant’s other deformities is especially pronounced, gaining one of the following: an increase in base damage by one die type; Ability Focus as a bonus feat on the DC of the ability; or double the usual bonus the deformity provides
+Oversized Weapon Fighting (Ex) The twisted bodies of aberrants allow them to wield weapons designed for Huge-sized creatures without penalty, as if they were Large-sized weapons.
+Slow and Steady (Ex) Aberrants have a base speed of 20 feet, but their speed is never modified by armor or encumbrance.

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/phantom-armor/phantom-armor-hollow-helm
+Hollow Helm CR 1
+XP 400
+NE Tiny undead
+Init +5; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 16, touch 13, flat-footed 15 (+1 Dex, +3 natural, +2 size)
+hp 9 (2d8)
+Fort +0, Ref +1, Will +3
+Defensive Abilities channel resistance +2; Immune undead traits
+OFFENSE
+Speed 20 ft., fly 30 ft. (perfect)
+Melee 1 slam +4 (1d4+1)
+Special Attacks skull cage
+STATISTICS
+Str 12, Dex 13, Con —, Int —, Wis 10, Cha 10
+Base Atk +1; CMB +0; CMD 11 (cannot be tripped)
+Feats Improved Initiative
+Skills Perception +5, Stealth +12
+Languages Common (cannot speak)
+SQ freeze

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/al-mi-raj-tohc/al-mi-raj-psionic-tohc
+Psionic Al-Mi’raj CR 1
+XP 400
+N Small magical beast (psionic)
+Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +9
+DEFENSE
+AC 14, touch 14, flat-footed 11 (+3 Dex, +1 size)
+hp 13 (2d10+2)
+Fort +4; Ref +6; Will +1
+Defensive Abilities blink; Immune poison; SR 12
+OFFENSE
+Speed 40 ft.
+Melee gore +6 (1d4-2)
+Psi-like Abilities (ML 2nd)
+
+At will—control air, control light, telekinetic force, psionic levitate
+
+STATISTICS
+Str 6, Dex 17, Con 12, Int 5, Wis 12, Cha 6
+Base Atk +2; CMB -1; CMD 12 (16 vs. trip) Feats Weapon Finesse
+Skills Perception +9, Stealth +11, Survival +1 (+5 when tracking by scent); Racial Modifiers +4 Perception, +4 Survival when tracking by scent
+SQ dimension door
+SPECIAL ABILITIES
+Blink (Su) Al-mi’raj can blink as a free action.
+Dimension Door (Su) An al-mi’raj can create an effect identical to a dimension door spell once per round as a standard action. The ability affects only the al-mi’raj, which never appears within a solid object and can act immediately after teleporting.

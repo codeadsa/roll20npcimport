@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/carnivorous-blob
+Carnivorous Blob CR 13
+XP 25,600
+N Colossal ooze
+Init +0; Senses blindsight 60 ft., tremorsense 120 ft.; Perception –5
+DEFENSE
+AC 2, touch 2, flat-footed 2 (–8 size)
+hp 184 (16d8+112)
+Fort +12, Ref +5, Will +0
+Defensive Abilities reactive strike, split (sonic or slashing, 32 hp); DR 10/–; Immune acid, ooze traits; Resist electricity 30, fire 30
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 20 ft., climb 20 ft., swim 20 ft.
+Melee slam +17 (8d6+19 plus 1d4 Con drain and grab)
+Space 30 ft.; Reach 30 ft.
+Special Attacks absorb flesh, constrict (8d6+19 plus 1d4 Con drain)
+STATISTICS
+Str 36, Dex 11, Con 24, Int –, Wis 1, Cha 1
+Base Atk +12; CMB +33 (+37 grapple); CMD 43 (can’t be tripped)
+Skills Climb +21, Swim +21; Racial Modifiers +8 Climb, +8 Swim
+SPECIAL ABILITIES
+Absorb Flesh (Ex)
+A carnivorous blob cannot eat plant matter or inorganic matter, but it devours living flesh with a voracious speed by dealing Constitution drain on creatures it slams or constricts. Whenever the blob deals Constitution drain in this manner, it heals 10 hit points for each point of Constitution it drains. Excess hit points above its normal maximum are gained as temporary hit points. As soon as a carnivorous blob has at least 50 temporary hit points, it loses those temporary hit points and splits as an immediate action.
+Reactive Strike (Ex)
+Whenever a carnivorous blob takes damage, it reflexively lashes out with a slam attack. This ability effectively grants the carnivorous blob an attack of opportunity against any adjacent foe that deals it damage. These attacks of opportunity do not count against the normal limit the creature can make in a round. Attacks that deal sonic or slashing damage do not trigger a reactive strike—rather, they cause the creature to split. Whenever a carnivorous blob takes cold damage, the creature cannot use its reactive strike ability until after it takes its next action in combat.

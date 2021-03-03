@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sky/sky-dragon-adult
+Adult Sky Dragon CR 13
+XP 25,600
+LG Huge dragon (air)
+Init +4; Senses cloud sight, dragon senses; Perception +30; Aura frightful presence (180 ft., DC 23)
+DEFENSE
+AC 29, touch 8, flat-footed 29 (+21 natural, -2 size)
+hp 184 (16d12+80)
+Fort +15, Ref +12, Will +17
+DR 5/magic; Immune electricity, paralysis, sleep; SR 24
+OFFENSE
+Speed 40 ft., fly 200 ft. (good)
+Melee bite +22 (2d8+12/19-20), 2 claws +22 (2d6+8), gore +22 (2d6+12), tail slap +20 (2d6+12)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite and gore)
+Special Attacks breath weapon (50-ft. cone, 12d8 electricity damage, DC 23), crush (DC 23, 2d8+12)
+Spell-Like Abilities (CL 16th; concentration +21)
+At will—detect evil, feather fall, gust of wind (DC 17)
+Spells Known (CL 7th; concentration +12)
+3rd (5/day)—blink, lightning bolt (DC 18)
+2nd (7/day)—glitterdust (DC 17), invisibility, resist energy
+1st (8/day)—endure elements, expeditious retreat, magic missile, obscuring mist, shocking grasp
+0 (at will)—detect magic, disrupt undead, mage hand, mending, message, ray of frost, read magic
+STATISTICS
+Str 27, Dex 10, Con 21, Int 20, Wis 21, Cha 20
+Base Atk +16; CMB +26; CMD 36 (40 vs. trip)
+Feats Flyby Attack, Hover, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Skill Focus (Perception)
+Skills Acrobatics +19 (+23 when jumping), Diplomacy +24, Fly +19, Heal +24, Knowledge (arcana, geography, religion) +24, Perception +30, Perform (sing) +24, Sense Motive +24, Spellcraft +24
+Languages Auran, Celestial, Common, Draconic, Infernal, Sylvan
+SQ borne aloft, change shape
+SPECIAL ABILITIES
+Borne Aloft (Su) Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.
+Change Shape (Su) A young or older sky dragon can assume any humanoid form three times per day as if using polymorph.
+Cloud Sight (Su) A very young or older sky dragon’s sight is not impeded by clouds or fog, or by spells that create areas of fog.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/wyvern/wyvern-barbtongued
+Barbtongued Wyvern CR 15
+XP 51,200
+Advanced variant wyvern
+NE Huge dragon
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +28
+DEFENSE
+AC 27, touch 11, flat-footed 24 (+2 Dex, +1 dodge, +16 natural, –2 size)
+hp 250 (20d12+120)
+Fort +18, Ref +14, Will +13
+Immune paralysis, sleep
+OFFENSE
+Speed 20 ft., fly 60 ft. (poor)
+Melee sting +26 (2d6+8 plus poison), bite +26 (4d6+8/19–20), 2 wings +21 (2d6+4), tongue +21 (1d4+4 plus grab)
+Space 15 ft.; Reach 15 ft.; 30 ft. with tongue
+Special Attacks pull (tongue, 30 ft.), rake (2 talons +26, 1d8+8)
+TACTICS
+If they can, the barbtongued wyverns start combat by swooping in to attack the PCs before the party can fully enter a room, limiting melee combat options while still being able to take advantage of their reach to strike at foes farther up the stairs or down a hall.
+Barbtongued wyverns fight to the death.
+STATISTICS
+Str 27, Dex 14, Con 22, Int 7, Wis 12, Cha 9
+Base Atk +20; CMB +30; CMD 43
+Feats Critical Focus, Dodge, Improved Critical (bite), Improved Natural Attack (bite), Improved Vital Strike, Improved Natural Attack (sting), Improved Natural Attack (wing), Power Attack, Staggering Critical, Vital Strike
+Skills Fly +17, Perception +28, Sense Motive +24, Stealth +17
+Languages Draconic
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save DC 17; frequency 1/round for 6 rounds; effect 1d4 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.

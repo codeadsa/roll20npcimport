@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/gnarlwood-tohc
+Gnarlwood CR 11
+XP 12,800
+NE Huge plant
+Init +4; Senses low-light vision; Perception +17; Aura unhallowed aura (20 ft.)
+DEFENSE
+AC 24, touch 8, flat-footed 24 (+16 natural, -2 size)
+hp 147 (14d8+84)
+Fort +15; Ref +6; Will +6
+DR 10/slashing and good; Immune plant traits; SR 22
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 30 ft.
+Melee 4 claws +18 (2d6+9)
+Space 15 ft.; Reach 15 ft.
+Special Attacks rend (2 claws, 4d6+13)
+Spell-like Abilities (CL 14th):
+3/day—animate dead, blight (DC 18), crushing despair (DC 17), desecrate, death knell (DC 15), detect evil, detect good, protection from good, unhallow
+1/day—dispel good (DC 18), slay living (DC 18), unholy blight (DC 17)
+1/week—blasphemy (DC 20)
+STATISTICS
+Str 29, Dex 10, Con 23, Int 6, Wis 14, Cha 16
+Base Atk +10; CMB +21; CMD 31
+Feats Alertness, Cleave, Improved Initiative, Lightning Reflexes, Power Attack, Skill Focus (Perception), Weapon Focus (claw)
+Skills Perception +17, Stealth +2 (+18 in forests); Racial Modifiers +16 Stealth in forests
+Languages Abyssal, Sylvan
+SPECIAL ABILITIES
+Spell-Like Abilities (Sp) With its animate dead spell-like ability a gnarlwood can animate any corpse within 60 feet. Because of their arboreal habitat, most gnarlwoods are accompanied by animal zombies and skeletons.
+Unhallowed Aura (Su) A gnarlwood emanates an unhallow spell in a 20-foot radius centered on itself. Thus, a gnarlwood is constantly protected as by a magic circle from good, and the DC to resist positive channeled energy within 20 feet of it is reduced by 4 (at the same time the DC to resist negative channeled energy within 20 feet of a gnarlwood gain a +4 bonus). This aura can be dispelled or negated, but the gnarlwood can restart it again as a free action on its next turn.

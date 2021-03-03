@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/crystalline-horror
+Crystalline Horror CR 5
+XP 1,600
+NE Medium aberration
+Init +6; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 21, touch 13, flat-footed 18 (+1 dodge, +2 Dex, +8 natural)
+hp 59 (7d8+7 plus 7)
+Fort +5, Ref +4, Will +6
+DR 10/magic; Resist cold 10
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +9 (1d6+4)
+Special Attacks bend light, Constitution damage, crystal claws, shard spray (DC 18)
+STATISTICS
+Str 19, Dex 14, Con 16, Int 10, Wis 12, Cha 10
+Base Atk +5; CMB +9; CMD 22
+Feats Ability Focus (shard spray), Dodge, Improved Initiative, Toughness
+Skills Climb +14, Perception +11, Stealth +12, Swim +14
+SPECIAL ABILITIES
+Bend Light (Ex) By shifting the make-up of its body as a standard action, a crystalline horror can refract natural light into a bright light that radiates out in a 10-foot spread. Affected creatures must succeed on a DC 16 Reflex save or be blinded for 3 rounds. The save DC is Constitution-based.
+Creatures to whom sunlight is harmful or unnatural take 2d6 points of damage from the light. Undead creatures caught within the area take 3d6 points of damage, and undead particularly vulnerable to sunlight, such as vampires, take 3d8 points of damage. Creatures that cannot see or perceive objects through the use of vision are unaffected by the blindness, but still suffer damage if they are vulnerable to sunlight.
+Constitution Damage (Ex) A crystalline horror that confirms a critical hit with a claw attack deals 1 point of Constitution damage from blood loss when it hits a creature. Creatures immune to critical hits are immune to the Constitution damage dealt by a crystalline horror’s claws.
+Crystal Claws (Ex) A crystalline horror’s natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+Shard Spray (Ex) A crystalline horror can loose a spray of razor-sharp shards of glass from its body in a 40-foot cone. A creature in the area takes 4d6 points of damage or half that amount if it succeeds on a DC 18 Reflex save. The crystalline horror can launch only five such sprays in a given day. The save DC is Constitution-based.

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/floating-eye
+Floating Eye CR 1/3
+XP 135
+N Diminutive magical beast (aquatic)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +4
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 size)
+hp 5 (1d10)
+Fort +2; Ref +4; Will -3
+OFFENSE
+Speed swim 60 ft.
+Melee bite +0 (1d2-5)
+Space 1 ft.; Reach 0 ft.
+Special Attacks hypnotic gaze (DC 10, 1d6+1 rounds)
+STATISTICS
+Str 1, Dex 15, Con 11, Int 1, Wis 4, Cha 2
+Base Atk +1; CMB –8; CMD 4
+Feats Skill Focus (Perception)
+Skills Perception +4, Stealth +14 (+22 to hide), Swim +10; Racial Modifiers +8 on Stealth checks to hide
+SPECIAL ABILITIES
+Hypnotic Gaze (Ex) Creatures meeting the gaze of a floating eye must succeed on a DC 10 Will save or stand and stare blankly at the floating eye (similar to the effects of a hypnotism spell) for 1d6+1 rounds. A swimming creature that fails its save does not sink, but floats on the surface of the water. The save DC is Constitution-based.

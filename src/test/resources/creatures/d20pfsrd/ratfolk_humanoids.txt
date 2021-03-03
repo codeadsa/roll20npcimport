@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/ratfolk
+Ratfolk CR 1/3
+XP 135
+Ratfolk expert 1
+N Small humanoid (ratfolk)
+Init +2; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 15, touch 13, flat-footed 13 (+2 armor, +2 Dex, +1 size)
+hp 8 (1d8)
+Fort +0, Ref +2, Will +2
+OFFENSE
+Speed 20 ft.
+Melee dagger -1 (1d3-2/19-20)
+Ranged light crossbow +3 (1d6/19-20)
+Special Attacks swarming
+STATISTICS
+Str 6, Dex 15, Con 11, Int 14, Wis 10, Cha 9
+Base Atk +0; CMB -3; CMD 9
+Feats Skill Focus (Perception)
+Skills Appraise +6, Craft (alchemy) +8, Diplomacy +3, Disable Device +6, Handle Animal +3 (+7 with rodents), Perception +9, Sense Motive +4, Survival +4, Use Magic Device +11; Racial Modifiers +2 Craft (alchemy), +4 Handle Animal to influence rodents, +2 Perception, +2 Use Magic Device
+Languages Common
+SPECIAL ABILITIES
+Swarming (Ex) Ratfolk are used to living and fighting communally, and are adept at swarming foes for their own gain and their foes’ detriment. Up to two ratfolk can share the same square at the same time. If two ratfolk in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.

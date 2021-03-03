@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-rune
+Rune Giant CR 17
+XP 102,400
+LE Gargantuan humanoid (giant)
+Init +0; Senses low-light vision; Perception +29
+DEFENSE
+AC 30, touch 6, flat-footed 30 (+9 armor, +15 natural, –4 size)
+hp 270 (20d8+180)
+Fort +15, Ref +6, Will +20
+Immune cold, electricity, fire
+OFFENSE
+Speed 35 ft. (50 ft. without armor); air walk
+Melee mwk longsword +27/+22/+17 (4d6+22/17–20) or 2 slams +26 (2d6+15)
+Ranged mwk spear +12/+7/+2 (4d6+15/×3)
+Space 20 ft.; Reach 20 ft.
+Special Attacks command giants, runes, spark shower
+Spell-Like Abilities (CL 20th; concentration +24)
+Constant—air walk
+At will—charm person (DC 15), suggestion (DC 17)
+3/day—mass charm monster (DC 22), dominate person (DC 19)
+1/day—demand (DC 22), true seeing
+STATISTICS
+Str 41, Dex 11, Con 28, Int 14, Wis 23, Cha 18
+Base Atk +15; CMB +34; CMD 44
+Feats Awesome Blow, Critical Focus, Improved Bull Rush, Improved Critical (longsword), Improved Vital Strike, Iron Will, Power Attack, Quick Draw, Staggering Critical, Vital Strike
+Skills Acrobatics +15 (+23 jump), Craft (any one) +25, Knowledge (history) +12, Knowledge (nobility) +12, Perception +29
+Languages Common, Giant, Terran
+SPECIAL ABILITIES
+Command Giant (Su) A rune giant gains a +4 racial bonus on the save DC of charm or compulsion effects used against giants.
+Runes (Ex) As a free action, whenever a rune giant uses its spark shower or spell-like abilities, it can cause the runes on its body to flash with light. All creatures within 10 feet of the giant must make a DC 24 Fortitude save or be blinded for 1 round. The saving throw is Charisma-based.
+Spark Shower (Su) As a standard action, a rune giant can cause a shower of sparks to erupt out of one of the runes on its body. These sparks function as a breath weapon (30-ft. cone; 10d6 fire and 10d6 electricity damage; Reflex DC 29 half; usable once every 1d4 rounds). The save DC is Constitution-based.

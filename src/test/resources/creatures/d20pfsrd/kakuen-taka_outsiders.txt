@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kakuen-taka
+Kakuen-Taka CR 14
+XP 38,400
+CE Huge outsider (chaotic, evil, extraplanar, swarm)
+Init +10; Senses darkvision 60 ft.; Perception +31
+DEFENSE
+AC 16, touch 15, flat-footed 9 (+6 Dex, +1 dodge, +1 natural, –2 size)
+hp 199 (21d10+84)
+Fort +17, Ref +20, Will +10
+Defensive Abilities fleshy shield; Immune poison; Resist acid 10, cold 10, electricity 10, fire 10; SR 25
+OFFENSE
+Speed 30 ft.
+Melee swarm (5d6 plus dimensional snare and distraction), 2 slams +19 (5d6)
+Space 15 ft.; Reach 0 ft. (10 ft. with slam)
+Special Attacks consume flesh, trample (5d6, DC 20)
+STATISTICS
+Str 10, Dex 23, Con 16, Int 6, Wis 13, Cha 13
+Base Atk +21; CMB 23; CMD 40 (can’t be tripped)
+Feats Ability Focus (consume flesh), Dodge, Great Fortitude, Improved Initiative, Improved Iron Will, Iron Will, Lightning Reflexes, Run, Skill Focus (Perception), Step Up, Toughness
+Skills Acrobatics +30, Intimidate +25, Perception +31, Stealth +12, Survival +11
+Languages Abyssal
+SPECIAL ABILITIES
+Consume Flesh (Su) Once per round, when a kakuen-taka kills or reduces a creature to negative hit points with its swarm attack, it automatically attempts to consume the target’s flesh as a free action (Fortitude DC 24 negates). If the target fails its save, its body is destroyed and the kakuen-taka gains the benefits of a death knell spell. This is a death attack.
+Create Carrionstorm (Ex) As a full-round action at sunrise, a kakuen-taka (a bhoga swarm with a flesh mansion) can create 1d4 carrionstorms. These carrionstorms have a blinding poison in addition to their swarm attack. The carrionstorms are not under the control of the kakuen-taka but instinctively follow it, attacking minor foes while the kakuen-taka destroys greater threats. If the flesh mansion is destroyed and the kakuen-taka does not create another one within 24 hours, the carrionstorms are destroyed. Any carrionstorms in excess of four wander away from the kakuen-taka and are automatically destroyed 24 hours later.
+Carrionstorm Poison (Ex) Swarm–injury; save Fort DC 12, frequency 1/round for 6 rounds, effect permanent blindness, cure 2 consecutive saves. The save DC is Constitution-based (using the carrionstorm’s Constitution).
+Dimensional Snare (Su) Any creature affected by the kakuen-taka’s swarm attack must succeed at a DC 21 Will save or be affected by dimensional anchor for 1 round. This save is Charisma-based.
+Flesh Mansion (Ex) A kakuen-taka’s bhoga swarm normally inhabits a hollowed-out reconfigured corpse called a flesh mansion, which it uses as a shelter, vehicle, and war machine. When the swarm wears a flesh mansion, it uses the above stat block (unlike a normal swarm, the flesh mansion’s slam attacks have reach and threaten squares within its reach). As a standard action, the swarm can abandon its flesh mansion (which falls inert in its square), inhabit an empty flesh mansion, hide within its flesh mansion (gaining cover against all opponents but still being able to use its swarm attack), or stop hiding within the flesh mansion. If the flesh mansion is destroyed, the swarm can create another by performing a ritual that requires 1 hour and the corpse of a Huge creature. The flesh mansion is not a separate creature, nor is it undead; it is merely a corpse the swarm manipulates.
+Base Statistics
+Without a flesh mansion, the bhoga swarm’s statistics are:
+CE Diminutive outsider (chaotic, evil, extraplanar, swarm); AC 22, touch 21, flat-footed 15; Defensive Abilities swarm traits; Melee swarm (5d6 plus dimensional snare and distraction); Reach 0 ft.; Str 1; CMB –; CMD – (can’t be tripped); Stealth +32.
+Fleshy Shield (Ex) A newly created flesh mansion has 150 hit points. The swarm takes only half damage from all attacks that deal hit point damage, with the remainder taken by the flesh mansion. Because a swarm of Diminutive creatures is immune to all weapon damage, apply half of all weapon damage to the fleshy shield and ignore the half that would be applied to the swarm. When the flesh mansion reaches 0 hit points, it is destroyed and the swarm functions like a normal swarm (see Flesh Mansion above). A kakuen-taka can repair a damaged flesh mansion by spending a full-round action grafting a corpse into it (restoring 5 hit points for a Small corpse, 10 for Medium, 20 for Large, 50 for Huge).

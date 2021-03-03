@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ronus
+Ronus CR 2
+XP 600
+N Medium magical beast
+Init +4; Senses darkvision 60 ft., low-light vision, scent; Perception +10
+DEFENSE
+AC 17, touch 14, flat-footed 13 (+4 Dex, +3 natural)
+hp 22 (3d10+6)
+Fort +5, Ref +7, Will +3
+OFFENSE
+Speed 60 ft.
+Melee bite +7 (1d6+3)
+TACTICS
+Ronus always hunt in large packs. A solitary encounter with a ronus is almost unheard of. In such events, the creature encountered is most certainly injured, sick, or old. Such a creature will not attack, unless provoked and only fights to defend itself.
+Ronus live by hunting and are carnivorous monsters. They will eat just about anything from mice to rabbits to goblins to ogres; anything they can catch and kill. Prey is attacked quickly and dispersed as quickly as possible before it has a chance to get its bearings and mount an attack against the ronus pack. Kills are eaten where they fall. The pack ravenously devours most of the meat, but do not pick the bones clean. Area scavengers appreciate this and some actually follow a ronus pack waiting for its chance to eat.
+Ronus are fast and use their quickness to their advantage when hunting. They often sight their prey from a great distance and rely on their closing speed to catch it before it notices the ronus and has a chance to flee. Prey that tries to escape is run down; very few creatures can outrun a hungry ronus.
+These creatures also use “flush” tactics to force prey into a trap. For example, a pack may chase their prey for a short distance before most of the pack seems to break off and give up. One or two continue pursuit, forcing the prey to turn this way or that way; in essence, forcing the prey to go the way the ronus want it to go. Prey that fall for this tactic often wind up face-to-face with the rest of the ronus pack.
+STATISTICS
+Str 16, Dex 19, Con 15, Int 4, Wis 14, Cha 7
+Base Atk +3; CMB +6; CMD 20
+Feats Skill Focus (Perception), Weapon Focus (bite)
+Skills Acrobatics +8, Perception +10, Stealth +12; Racial Modifiers +4 Perception, +4 Stealth
+Languages —

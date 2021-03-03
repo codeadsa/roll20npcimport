@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/ice
+Ice Devil (Gelugon) CR 13
+XP 25,600
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +9; Senses darkvision 60 ft., see in darkness; Perception +27
+Aura fear (10 ft., DC 22)
+DEFENSE
+AC 32, touch 14, flat-footed 27 (+5 Dex, +18 natural, –1 size)
+hp 161 (14d10+84); regeneration 5 (good weapons, good spells)
+Fort +15, Ref +14, Will +12
+DR 10/good; Immune fire, cold, poison; Resist acid 10; SR 24
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee +1 frost spear +21/+16/+11 (2d6+10/×3 plus 1d6 cold plus slow), bite +14 (2d6+6), tail +14 (3d6+3 plus slow)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 13th)
+
+Constant— fly
+At will— cone of cold (DC 20), ice storm , greater teleport (self plus 50 lbs. of objects only), persistent image (DC 20), wall of ice (DC 19)
+1/day— Summon (level 4, 2 bone devils, 50%) STATISTICS
+Str 23, Dex 21, Con 22, Int 25, Wis 22, Cha 20
+Base Atk +14; CMB +21; CMD 36
+Feats Alertness, Cleave, Combat Reflexes, Improved Initiative, Iron Will, Power Attack, Weapon Focus (spear)
+Skills Acrobatics +22, Bluff +22, Diplomacy +22, Fly +13, Intimidate +19, Knowledge (planes) +24, Knowledge (any three others) +21, Perception +27, Sense Motive +27, Spellcraft +21, Stealth +18, Survival +23
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Slow (Su)
+A hit from an ice devil’s tail or spear induces numbing cold. The opponent must succeed on a DC 23 Fortitude save or be affected as though by a slow spell for 1d6 rounds. This effect comes from the devil in the case of its weapon; it is not a quality possessed by the spear itself. The save DC is Constitution-based.

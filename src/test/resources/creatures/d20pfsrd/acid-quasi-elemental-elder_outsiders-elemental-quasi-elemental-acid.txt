@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/quasi-elemental-acid/acid-quasi-elemental-elder
+Elder Acid Quasi-Elemental CR 9
+XP 6,400
+N Huge outsider (acid, elemental, extraplanar)
+Init +10; Senses darkvision 60 ft.; Perception +15; Aura fumes (5 ft., Fort DC 20)
+DEFENSE
+AC 22, touch 14, flat-footed 16 (+6 Dex, +8 natural, -2 size)
+hp 114 (12d10+48)
+Fort +8, Ref +14, Will +10
+DR 10/–; Immune acid, elemental traits
+Weakness vulnerability to water
+OFFENSE
+Speed 20 ft., swim 80 ft.
+Melee 2 slams +17 (1d8+7 plus 1d8 acid)
+Space 15 ft.; Reach 15 ft.
+Special Attacks acid, drench
+STATISTICS
+Str 25, Dex 22, Con 19, Int 6, Wis 11, Cha 11
+Base Atk +12; CMB +21; CMD 37
+Feats Cleave, Great Cleave, Improved Bull Rush, Improved Initiative, Iron Will, Power Attack
+Skills Knowledge (planes) +13, Perception +15, Stealth +13, Swim +30
+Language Aquan
+SPECIAL ABILITIES
+Acid (Ex) Acid quasi-elementals are living creatures of acid; any melee hit deals acid damage. Creatures hitting an acid quasi-elemental unarmed or with natural attacks take acid damage as though hit by the quasi-elemental’s slam attack.
+Acid Swimmer (Ex) Acid quasi-elementals cannot swim in water. The swim speed given in the statistics block is their movement only through acid pools or the acidic nature of their environment on their home plane.
+Drench (Ex) The quasi-elemental’s touch puts out torches, campfires, exposed lanterns, and other open flames of nonmagical origin if these are of Large size or smaller. The creature can dispel magical fire as dispel magic (caster level equals the quasi-elemental’s HD).
+Fumes (Ex) The fumes from an acid quasi-elemental’s body act as an inhaled poison. Creatures within 5 ft. of an acid quasi-elemental must make succeed on a DC 20 Fortitude save or take 1 point of Constitution damage each round. This poison does not have a frequency; a creature is safe as soon as it moves more than 5 ft. away from the acid quasi-elemental.
+Vulnerability to Water (Ex) An acid elemental erupts in a violent chemical reaction when touched by water. An acid quasi-elemental takes 1d4 points of fire damage for each gallon of water poured into it. The reaction is so violent that all creatures within 5 ft. of the acid quasi-elemental when the water hits it must succeed on a DC 15 Reflex save or take the same damage. Pouring water onto an acid quasi-elemental requires a successful ranged touch attack. Water from other sources, such as spells or effects that create water but do not specify an amount in gallons, deal 1d4 points of fire damage per caster level to an acid quasi-elemental within its area of effect. Damage from waterbased attacks, like the slam attack of a water elemental, is increased by 50% against an acid quasi-elemental. Note that this reaction does not occur when the acid quasi-elemental touches water, only when water touches the acid quasi-elemental.

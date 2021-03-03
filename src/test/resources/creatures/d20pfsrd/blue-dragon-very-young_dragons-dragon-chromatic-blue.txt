@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-blue/blue-dragon-very-young
+Very Young Blue Dragon CR 7
+XP 3,200
+LE Medium dragon (earth)
+Init +5; Senses dragon senses; Perception +12
+DEFENSE
+AC 19, touch 11, flat-footed 18 (+1 Dex, +8 natural)
+hp 68 (8d12+16)
+Fort +8, Ref +7, Will +7
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., burrow 20 ft., fly 150 ft. (average)
+Melee bite +12 (1d8+4), 2 claws +11 (1d6+3), 2 wings +9 (1d4+1)
+Special Attacks breath weapon (60-ft. line, DC 16, 4d8 electricity), desert thirst (DC 16)
+TACTICS
+Blue dragons prefer to surprise foes if possible, and are not above retreating if the odds turn against them.
+STATISTICS
+Str 17, Dex 12, Con 15, Int 12, Wis 13, Cha 12
+Base Atk +8; CMB +11; CMD 22 (26 vs. trip)
+Feats Dazzling Display, Improved Initiative, Multiattack, Weapon Focus (bite)
+Skills Bluff +12, Fly +12, Intimidate +12, Knowledge (local) +12, Perception +12, Stealth +12, Survival +12
+Languages Common, Draconic
+SQ sound imitation
+SPECIAL ABILITIES
+Desert Thirst (Su) A blue dragon can cast create water at will (CL 8). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC 16) or be destroyed.
+Sound Imitation (Ex) A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener’s Sense Motive check.

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-dunkleosteus
+Dunkleosteus CR 6
+XP 2,400
+N Huge animal (aquatic)
+Init +6; Senses low-light vision; Perception +15
+DEFENSE
+AC 19, touch 10, flat-footed 17 (+9 armor, +2 Dex, –2 size)
+hp 75 (10d8+30)
+Fort +10, Ref +9, Will +4
+OFFENSE
+Speed swim 60 ft.
+Melee bite +16 (3d8+15/19–20 plus grab)
+Space 15 ft.; Reach 15 ft. Special Attacks siphoning bite, swallow whole (1d10 acid damage, AC 10, 6 hp)
+STATISTICS
+Str 30, Dex 14, Con 17, Int 1, Wis 12, Cha 6
+Base Atk +7; CMB +19 (+23 grapple); CMD 31
+Feats Improved Critical (bite), Improved Initiative, Skill Focus (Perception), Skill Focus (Swim), Weapon Focus (bite)
+Skills Perception +15, Swim +30; Racial Modifiers +4 Perception
+SPECIAL ABILITIES
+Siphoning Bite (Ex) A dunkleosteus can open its giant mouth in a fraction of a second, creating a vortex that draws a target in. When underwater, a dunkleosteus gains an additional 5 feet of reach with its bite attack and a +2 bonus on combat maneuver checks when grappling.
+Source Wikipedia

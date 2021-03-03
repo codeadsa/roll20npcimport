@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/coffer-corpse
+Coffer Corpse CR 3
+XP 800
+CE Medium undead
+Init +1; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 14, touch 11, flat-footed 13 (+1 Dex, +3 natural)
+hp 16 (2d8+4 plus 2)
+Fort +2, Ref +1, Will +4
+Defensive Abilities deceiving death, channel resistance +2; DR 5/magic and bludgeoning; Immune undead traits
+OFFENSE
+Speed 20 ft.
+Melee slam +4 melee (1d4+4 plus grab)
+Special Attacks death grip (1d4+4), fear
+STATISTICS
+Str 16, Dex 12, Con —, Int 6, Wis 13, Cha 14
+Base Atk +1; CMB +4 (+8 grapple); CMD 15
+Feats Toughness
+Skills Intimidate +6, Perception +6, Stealth +5
+Languages Common
+SPECIAL ABILITIES
+Death Grip (Ex) Because the coffer corpse grasps the victim’s throat, a creature in its death grip cannot speak or cast spells with verbal components.
+Deceiving Death (Ex) In any round in which a coffer corpse is struck for 6 or more points of damage (whether the damage bypasses the creature’s damage reduction or not), the creature slumps to the ground, seemingly destroyed. If it has fastened its death grip on a victim, it releases its hold when it falls. A DC 20 Sense Motive check sees through the ruse (necromancers gain a +2 competence bonus on this check). On its next turn, the coffer corpse rises again as if reanimated, triggering its fear ability.
+Fear (Su) A creature viewing a coffer corpse rise after it uses its deceiving death ability must make a DC 13 Will save or become panicked for 2d4 rounds. This is a mind-affecting fear effect. The save DC is Charisma-based.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/tyrant-jelly
+Tyrant Jelly CR 9/MR 3
+XP 6,400
+N Large ooze (Mythic)
+Init +2M; Senses blindsight 60 ft.; Perception +11
+DEFENSE
+AC 23, touch 4, flat-footed 23 (–5 Dex, +29 natural, –1 size)
+hp 129 (10d8+84); fast healing 5
+Fort +11, Ref –2, Will +6
+DR 5/epic; Immune electricity, ooze traits, piercing damage, slashing damage
+OFFENSE
+Speed 20 ft., climb 10 ft.
+Melee slam +12 (6d6+6 plus 1d6 acid plus grab and poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (6d6+4 plus 1d6 acid plus grab and poison), Mythic Power (3/day, Surge +1d6), poison
+Spell-Like Abilities (CL 10th; concentration +11
+3/day—charm monster (vermin only), giant vermin, hold monster (vermin only), dominate monster (vermin only)
+STATISTICS
+Str 18, Dex 1, Con 22, Int 5, Wis 12, Cha 13
+Base Atk +7; CMB +12 (+16 grapple); CMD 17 (can’t be tripped)
+Feats Great Fortitude, Improved InitiativeM, Iron Will, Step Up, Weapon FocusM (slam)
+Skills Climb +12, Perception +11
+SQ compression, control vermin, create spawn, vermin empathy
+SPECIAL ABILITIES
+Control Vermin (Ex) A tyrant jelly’s spell-like abilities work on mindless vermin that have exoskeletons (bees, centipedes, crabs, flies, wasps, and so on), but not soft-bodied creatures such as leeches, slugs, or worms.
+Create Spawn (Ex) Slashing weapons, piercing weapons, and electricity attacks deal no damage to a tyrant jelly. Instead, part of the creature splits off into an ochre jelly. This new jelly has 30 hit points and fast healing 5; the tyrant jelly loses 30 hit points when it splits off. The new jelly is under the control of the tyrant jelly. A tyrant jelly with 30 hit points or fewer can’t split again, and dies if reduced to 0 hit points. A tyrant jelly can reabsorb an adjacent spawn as a full-round action, destroying the spawn and adding the spawn’s current hit points to its own.
+Poison (Ex) Slam—injury; save Fort DC 21; frequency 1/round for 4 rounds; effect 1d4 Con; cure 2 consecutive saves.
+Vermin Empathy (Su) A tyrant jelly can improve the attitude of vermin as a druid can with animals. Vermin have a starting attitude of unfriendly.

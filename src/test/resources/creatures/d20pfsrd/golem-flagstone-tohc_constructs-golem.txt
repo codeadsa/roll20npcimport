@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-flagstone-tohc
+Flagstone Golem CR 7
+XP 3,200
+N Large construct
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 20, touch 10, flat-footed 19 (+1 Dex, +10 natural, –1 size)
+hp 74 (8d10+30)
+Fort +2; Ref +3; Will +2
+Defensive Abilities energy absorption, flatten; DR 10/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +13 (2d8+6 plus stun)
+Space 10 ft.; Reach 10 ft.
+Special Attacks stunning blow
+STATISTICS
+Str 22, Dex 12, Con —, Int —, Wis 11, Cha 1
+SQ camouflage
+SPECIAL ABILITIES
+Camouflage (Ex) While flattened, a flagstone golem is nearly indistinguishable from the surrounding floor. It takes a DC 25 Perception check to notice a flattened flagstone golem for what it is. Dwarves get a +2 bonus on Perception checks to notice a flattened flagstone golem.
+Energy Absorption (Su) Any energy-based (acid, fire, cold, electricity, sonic) attack that directly targets a flagstone golem is absorbed into its body dealing no damage to the golem. A flagstone golem can use the absorbed energy to repair itself, healing 1 hit point for every 3 points of damage the attack would have otherwise dealt. Or it can release the energy in a 30-foot cone that deals 3d8 points of energy damage (of whatever type was absorbed) to all within the area. An affected opponent can attempt a DC 14 Reflex save to reduce the damage by half. The save DC is Constitution-based. The flagstone golem can store the energy before releasing it as an energy blast for a number of rounds equal to half its Hit Dice (four rounds for the standard flagstone golem).
+Flatten (Ex) As a standard action, once per round, a flagstone golem can flatten its form to become (or appear to become) a section of floor, road, or any other stone surface. While flattened it cannot move or attack and its damage reduction increases to 20/adamantine. A flagstone golem can reform into its humanoid shape as a standard action.
+Immunity to Magic (Ex) A flagstone golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A transmute rock to mud spell slows it (as the slow spell) for 2d6 rounds, with no saving throw.
+A transmute mud to rock spell heals all its lost hit points.
+A stone to flesh spell does not actually change the golem’s structure, but it negates the flagstone golem’s damage reduction for 1 round.
+Stunning Blow (Ex) Any creature hit by a flagstone golem’s slam attack must succeed on a DC 16 Fortitude save or be stunned for 1 round. The save DC is Constitution-based and includes a +2 racial bonus.

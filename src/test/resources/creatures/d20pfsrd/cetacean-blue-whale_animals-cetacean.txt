@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/cetacean/cetacean-blue-whale
+Blue Whale CR 12
+XP 19,200
+N Colossal animal
+Init –1; Senses low-light vision; Perception +27
+DEFENSE
+AC 26, touch 1, flat-footed 26 (–1 Dex, +25 natural, –8 size)
+hp 184 (16d8+112)
+Fort +17, Ref +9, Will +8
+OFFENSE
+Speed swim 40 ft.
+Melee tail slap +21 (8d6+24 plus stun)
+Space 30 ft.; Reach 30 ft.
+Special Attacks capsize
+STATISTICS
+Str 42, Dex 8, Con 25, Int 2, Wis 13, Cha 6
+Base Atk +12; CMB +36; CMD 45 (can’t be tripped)
+Feats Awesome Blow, Diehard, Endurance, Improved Bull Rush, Iron Will, Power Attack, Skill Focus (Perception), Weapon Focus (tail slap)
+Skills Perception +27, Swim +35; Racial Modifiers +12 Perception
+SQ hold breath
+SPECIAL ABILITIES
+Hold Breath (Ex) A blue whale can hold its breath a number of rounds equal to 10 times its Constitution score.
+Stun (Ex) A blue whale’s fluke can deliver a powerful stunning blow.
+A creature struck by this attack must succeed at a DC 34 Fortitude save or be dazed for 1 round. If the strike is a critical hit and the target fails its save, it is also stunned for 1d4 rounds. The save DC is Strength-based.
+Tail Slap (Ex) A blue whale’s tail slap is a primary attack and applies 1–1/2 times its Strength bonus on damage rolls.

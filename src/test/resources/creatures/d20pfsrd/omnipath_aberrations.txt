@@ -1,0 +1,48 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/omnipath
+Omnipath CR 18
+XP 153,600
+LE Gargantuan aberration (aquatic)
+Init +13; Senses darkvision 60 ft., detect magic; Perception +30
+DEFENSE
+AC 33, touch 15, flat-footed 24 (+4 armor, +9 Dex, +14 natural, –4 size)
+hp 300 (24d8+192); fast healing 10
+Fort +18, Ref +19, Will +19
+Immune electricity, mind-affecting effects; Resist cold 20; SR 29
+OFFENSE
+Speed 15 ft., swim 100 ft.
+Melee triple-jawed bite +26 (3d6+11/19–20 plus slime), tail slap +23 (3d6+5 plus slime)
+Space 20 ft.; Reach 20 ft.
+Special Attacks mucus cloud, slime, thought barrage
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant—detect magic, mage armor, tongues
+At will—detect thoughts (DC 19), dominate person (DC 22)
+3/day—arcane eye, dominate monster (DC 26), geas/quest (DC 23), mind fog (DC 22), mirage arcana (DC 22)
+1/day—astral projection, veil (DC 23)
+Psychic Spells Known (CL 15th; concentration +22)
+7th (5/day)—ectoplasmic eruption (DC 24), psychic crush III (DC 24)
+6th (7/day)—incorporeal chains, mind thrust VI (DC 23), primal regression (DC 23)
+5th (7/day)—etheric shards (DC 22), explode head (DC 22), mind swap (DC 22), possession (DC 22)
+4th (7/day)—condensed ether, mindwipe (DC 21), riding possession (DC 21), stoneskin
+3rd (8/day)—babble (DC 20), catatonia, displacement, synesthesia (DC 20)
+2nd (8/day)—aversion (DC 19), invisibility, paranoia (DC 19), resist energy, touch of idiocy
+1st (8/day)—deja vu, psychic reading, shield, thought echo, true strike
+0 (at will)—arcane mark, bleed (DC 17), detect magic, grave words, mage hand, open/close, prestidigitation, read magic, telekinetic projectile
+STATISTICS
+Str 32, Dex 28, Con 27, Int 25, Wis 21, Cha 24
+Base Atk +18; CMB +33; CMD 52
+Feats Combat Casting, Combat Reflexes, Great Fortitude, Hidden Presence, Improved Critical (bite), Improved Initiative, Intrusive Presence, Lightning Reflexes, Manipulative Presence, Multiattack, Power Attack, Weapon Focus (bite)
+Skills Bluff +25, Diplomacy +23, Disguise +25, Intimidate +25, Knowledge (all) +25, Perception +30, Sense Motive +24, Spellcraft +35, Stealth +24, Swim +28, Use Magic Device +30
+Languages Aboleth, Aklo, Aquan, Common, Undercommon, and one additional; telepathy 300 ft.; tongues
+SQ servant of the mesh, telepathic mesh, vast knowledge
+SPECIAL ABILITIES
+Mucus Cloud (Ex) An underwater omnipath exudes a cloud of clear slime 20 feet from itself in all directions. Any creature in this area must succeed at a DC 30 Fortitude saving throw each round or lose its ability to breathe air (but gain the ability to breathe water) for 24 hours. Renewed contact with the mucus cloud and failing another saving throw extends the effect for another 24 hours. An omnipath can suppress or reactivate this ability as a swift action. The save DC is Constitution-based.
+Servant of the Mesh (Su) Any creature that failed its saving throws against both an omnipath’s mucus cloud and slime attack begins to transform into a creature better suited to serving as part of the omnipath’s telepathic mesh. The creature takes a –6 penalty on Will saving throws to resist domination effects from the omnipath and on saving throws to resist becoming part of the telepathic mesh.
+Slime (Ex) A creature hit by any of an omnipath’s natural attacks must succeed at a DC 30 Fortitude saving throw or have its flesh and skin transform into a clear, slimy membrane over the course of 1d4 rounds. The creature’s new flesh is soft and tender, reducing its Constitution score by 4 as long as the condition persists. If the creature’s flesh isn’t kept moist, it dries quickly and the victim takes 1d12 points of damage every 10 minutes. Remove disease and similar effects can restore an afflicted creature to normal, but immunity to disease offers no protection from this attack. The save DC is Constitution-based.
+Spells An omnipath can cast spells as a 15th-level psychic.
+Telepathic Mesh (Su) An omnipath can form telepathic connections between a select group of creatures whose Hit Dice total no more than 10 × the omnipath’s Hit Dice (240 HD for most omnipaths). This ability functions only for creatures that are on the same plane as the omnipath. Only aboleths, deep walkers, veiled masters, and creatures dominated by an aboleth, omnipath, or a veiled master can be added to the telepathic mesh. As a standard action, an omnipath can add a number of creatures equal to twice its Hit Dice to its telepathic mesh. Creatures added to the telepathic mesh must succeed at a DC 29 Will save or be incorporated into the mesh. Aboleths, deep walkers, and veiled masters must be within 30 feet of an omnipath to initially be included within the telepathic mesh, but targets dominated by creatures within the telepathic mesh can later be added to the mesh no matter the distance, so long as all parties are on the same plane. A creature that leaves the same plane as the omnipath is no longer considered to be part of the telepathic mesh; if the creature immediately succeeds at another DC 29 Will saving throw upon returning to the plane, it becomes free from the telepathic mesh. As an immediate action, an omnipath can remove any creature from the telepathic mesh.
+An omnipath can communicate telepathically with all individual creatures in the telepathic mesh simultaneously. All creatures within the mesh are considered valid targets for all forms of possession employed by the omnipath. As long as at least two creatures in the telepathic mesh are within 12 miles of each other, if one creature in the mesh is aware of a particular danger, all of the other creatures in the mesh are as well. No creature in the group is considered flanked or flat-footed unless all of them are.
+An omnipath can share the senses of up to six creatures in the telepathic mesh at once. It can stop sharing the senses of one target and switch to another’s senses as a standard action.
+The telepathic mesh can be interrupted via a successful break enchantment spell (the DC of this spell’s caster level check is equal to the save DC of the telepathic mesh). The save DC is Intelligence-based.
+Thought Barrage (Su) As a standard action, an omnipath can fire three rays of shimmering blue-white energy from the glowing balls of light on its tail as a +23 ranged touch attack with a range of 300 feet (no range increment). Any creature struck must succeed at a DC 29 Will saving throw or be stunned for 1 round. The save DC is Charisma-based.
+Triple-Jawed Bite (Ex) An omnipath has three sets of jaws nestled within one another. If an omnipath hits with its bite, it can make a second bite attack as a free action. If this second bite attack hits, the target must succeed at a DC 30 Will saving throw or be shaken for 1d4 rounds, and the omnipath can make a third bite attack as a free action. If the third bite attack is successful, the target must succeed at a DC 30 Fortitude saving throw or be staggered for 1d4 rounds. The save DCs are Constitution-based.
+Vast Knowledge (Ex) Gleaning countless pieces of information from the vast network of active minds it can access at any time, an omnipath treats all Knowledge skills as class skills. In addition, it gains a +4 racial bonus on Intelligence-, Wisdom-, and Charisma-based checks when using skills in which it has ranks.

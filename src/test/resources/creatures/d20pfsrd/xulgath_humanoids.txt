@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/xulgath
+Xulgath CR 4
+XP 1,200
+CE Medium humanoid (reptilian)
+Init +3; Senses darkvision 90 ft.; Perception +11
+Aura stench (DC 16, 10 rounds)
+DEFENSE
+AC 19, touch 13, flat-footed 16 (+3 Dex, +6 natural)
+hp 45 (6d8+18)
+Fort +8, Ref +5, Will +6
+OFFENSE
+Speed 30 ft.
+Melee spear +8 (1d8+6/×3), bite +3 (1d6+2) or 2 claws +8 (1d4+4), bite +8 (1d6+4)
+Ranged spear +7 (1d8+4/×3)
+Special Attacks psychogenic secretions
+Psychic Magic (CL 6th; concentration +7)
+5 PE—mindlink (1 PE, DC 12), silent image (1 PE, DC 12), suggestion (2 PE, DC 13)
+STATISTICS
+Str 18, Dex 17, Con 16, Int 13, Wis 15, Cha 12
+Base Atk +4; CMB +8; CMD 21
+Feats Animal Affinity, Iron Will, Skill Focus (Perception)
+Skills Handle Animal +12, Perception +11, Ride +5, Stealth +13 (+17 in rocky areas); Racial Modifiers +4 Stealth (+8 in rocky areas)
+Languages Draconic, Undercommon; telepathy 30 ft. (see Psychogenic Secretions below)
+SPECIAL ABILITIES
+Psychogenic Secretions (Su) A xulgath’s stench is far more potent than that of its troglodyte cousins. Although a xulgath’s oily secretions are completely odorless, they cause any creatures (other than xulgaths) that come within 30 feet of a xulgath to immediately recall the most repugnant odor they have ever smelled. This is a mind-affecting effect, but it bypasses a vermin’s immunity to mind-affecting effects. The stench assaults the mind of its victims; even if a creature succeeds at its saving throw to resist being sickened by the xulgath’s stench, it takes a –4 penalty on Will saving throws to resist the xulgath’s psychic magic.
+A xulgath’s nonhostile psychic powers, including its mindlink spell and ability to communicate telepathically, are also limited by the range of its stench, as its strange secretions are what allows it to form a bond between its own mind and the minds of others.

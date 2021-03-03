@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/deer-tohc
+Deer CR 1/4
+XP 100
+N Medium animal
+Init +2; Senses low-light vision, scent; Perception +10
+DEFENSE
+AC 14, touch 13, flat-footed 11 (+2 Dex, +1 dodge, +1 natural)
+hp 11 (2d8+2)
+Fort +4, Ref +5, Will +2
+OFFENSE
+Speed 40 ft.
+Melee gore +2 (1d6+1), 2 hooves –3 (1d4)
+TACTICS
+Deer attack with their hooves or antlers. Antelopes, when defending their herd, attack by charging an opponent and butting with their horns (gore). The gore attack only applies to bucks with antlers.
+STATISTICS
+Str 12, Dex 15, Con 12, Int 2, Wis 14, Cha 6
+Base Atk +1; CMB +2; CMD 15 (19 vs. trip)
+Feats Dodge B, Mobility B, Run
+Skills Acrobatics +2 (+6 jump), Perception +10, Stealth +10 (+14 in forests), Swim +5; Racial Modifiers +4 Perception, +4 Stealth (+8 in forests), +4 Swim
+Source: Wikipedia Variants These statistics can be used to represent the average black-tailed deer as well, with a few minor changes. The black-tailed deer prefers plains, hills, and other open ground as its habitat. It has a +4 racial bonus on Acrobatics checks. In combat, a black-tailed deer jumps about in an effort to confuse its attackers before stotting (hopping) away.

@@ -1,0 +1,45 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-kostchtchie-demon-prince-of-wrath-tohc
+Kostchtchie (Demon Prince of Wrath) CR 23
+XP 820,000
+CE Large outsider (chaotic, cold, demon, evil, extraplanar)
+Init +10; Senses darkvision 60 ft., true seeing; Perception +45; Aura unholy aura (DC 26)
+DEFENSE
+AC 43, touch 31, flat-footed 37 (+6 Dex, +12 natural, –1 size, +8 insight, +8 profane)
+hp 536 (29d10+377)
+Fort +31, Ref +24, Will +19
+DR 20/cold iron and good; Immune cold, electricity, poison; Resist acid 10, fire 10; SR 34
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 30 ft.
+Melee Huge +4 cold iron thundering icy burst warhammer +48/+43/+38/+33 (3d6+26/19–20/x3 plus stun)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 23rd)
+Constant—true seeing, unholy aura (DC 26)
+At will—command (DC 19), bestow curse (DC 21), blasphemy (DC 25), deeper darkness, detect good, dispel good, greater dispel magic, greater teleport (self plus 50 pounds of objects only), magic circle against good, telekinesis (DC 23), tongues (self only), wall of ice, wind walk
+3/day— poison (DC 20), summon (level 9, 4d10 dretches, 2d4 babau, 1d4 hezrous, 1d2 nalfeshnees, 1 balor, or 1 marilith 100%)
+1/day—harm (DC 24)
+Spells Prepared (CL 20th; cold-based spells CL 22nd)
+9th—foresight, power word kill, prismatic sphere (DC 26), shades (DC 26)
+8th—incendiary cloud (DC 25), mind blank, polymorph any object (DC 25), trap the soul (DC 25)
+7th—control weather, delayed blast fireball (DC 24), delayed blast coldball (DC 24; as delayed blast fireball (but deals cold damage), insanity (DC 24), waves of exhaustion
+6th—chain lightning (DC 23), acid fog, control water, freezing sphere (DC 23), move earth
+5th—baleful polymorph (DC 22), cone of cold (DC 22), hold monster (DC 22), mind fog (DC 22), transmute rock to mud (DC 22)
+4th—confusion (DC 21), enervation, ice storm, solid fog, wall of ice (DC 21)
+3rd—coldball (DC 20; as fireball but deals cold damage), lightning bolt (DC 20), sleet storm, stinking cloud (DC 20), vampiric touch, wind wall
+2nd—blur (DC 19), fog cloud, glitterdust (DC 19), see invisibility, shatter (DC 19), touch of idiocy
+1st—expeditious retreat, frost finger (DC 18; as burning hands (but deals cold damage), jump, obscuring mist, protection from law, true strike
+0 (at will)—daze (DC 17), detect magic, light, ray of frost
+TACTICS
+Kostchtchie fights with his oversized warhammer in battle. He is relentless in his attack and seeks to kill all interlopers he encounters. Kostchtchie completely destroys any creature’s body he slays. The body is torn to pieces, burned, or devoured by the demon lord or his minions.
+STATISTICS
+Str 41, Dex 22, Con 37, Int 25, Wis 27, Cha 26
+Base Atk +29; CMB +45; CMD 77
+Feats Blind-Fight, Cleave, Combat Casting, Combat Reflexes, Great Cleave, Great Fortitude, Improved Critical (warhammer), Improved Disarm, Improved Initiative, Improved Sunder, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Intimidate), Weapon Focus (warhammer)
+Skills Acrobatics +25, Bluff +30, Climb +36, Diplomacy +36, Escape Artist +30, Handle Animal +37, Intimidate +46, Knowledge (arcana) +36, Knowledge (planes) +39, Knowledge (religion) +36, Perception +45, Ride +35, Sense Motive +25, Spellcraft +36, Survival +40; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common, Draconic, Giant, Ignan, Infernal, Terran; telepathy 100 ft.
+SQ planar omniscience
+Gear Gorynya
+GEAR Unique Item: Gorynya
+Kostchtchie’s unique weapon is a Huge +4 cold iron thundering icy burst warhammer, which he wields two-handed. When used by Kostchtchie, on a successful hit the target must make a DC 39 Fortitude save or be stunned for 2d4 rounds. Kostchtchie does not suffer any penalty while wielding the oversized weapon. The save DC is Strength-based.
+Servants of Kostchtchie
+Followers of Kostchtchie are usually frost giants and fiendish frost giants. They are usually fighters or barbarians. Many that receive his special blessing find their bodies warped an twisted, forever after wracked by pain and filled with rage. Devout followers of Kostchtchie are called Ice Lords and must sign a pact of evil with Kostchtchie. Ice Lords that cast divine spells can receive spells from Kostchtchie and typically have access to two of the following domains: Chaos, Evil, and Destruction.

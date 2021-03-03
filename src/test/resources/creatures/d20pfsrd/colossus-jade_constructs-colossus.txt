@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/colossus/colossus-jade
+Jade Colossus (3pp) CR 16
+XP 76,800
+N Colossal construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 34, touch 2, flat-footed 34 (+32 natural, –8 size)
+hp 256 (32d10+80)
+Fort +10; Ref +10; Will +10
+Defensive Abilities light reflection; DR 15/adamantine; Immune construct traits, fire, magic
+OFFENSE
+Speed 40 ft.
+Melee 2 slams +43 (4d8+19)
+Space 30 ft.; Reach 30 ft.
+Special Attacks breath weapon
+STATISTICS
+Str 49, Dex 10, Con —, Int —, Wis 11, Cha 1
+Base Atk +32; CMB +59; CMD 69
+SPECIAL ABILITIES
+Breath Weapon (Su) Once every 1d4 rounds, a jade colossus can spray a blast of green energy in either a 60–foot cone or a 120–foot line. A creature in the affected area takes 15d6 points of damage, Reflex half DC 26. A creature slain as the result of this breath weapon transforms into jade. The save DC is Constitution-based. A creature turned to jade has Hardness 6, hp 40. This effect can be reversed by casting stone to flesh,
+wish, or miracle. The victim remains dead, but can then be raised or resurrected normally.
+Immunity to Magic (Ex) A jade colossus is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A disintegrate spell slows a jade colossus (as the slow spell) for 1d6 rounds, with no saving throw. A shatter spell deals 3d12 points of damage to a jade colossus, with no saving throw.
+A magical attack that deals fire damage breaks any slow effect on the jade colossus and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A jade colossus gets no saving throw against fire effects.
+Light Reflection (Ex) The angles and makeup of the jade colossus allows it to reflect any light-based attacks or effects (it cannot reflect natural sunlight however). Reflected light acts as an emanation (lasting 1 round) that blinds all creatures within 40 feet. A creature can attempt a Reflex save DC 26 to avoid being blinded If the save fails, the creature is blinded for 2d4 rounds (as the blindness spell); creatures that successfully save are instead dazzled for a like amount of time. Undead and similar creatures to whom sunlight is harmful to take 6d6 points of damage (a successful Reflex save DC 26 halves the damage).

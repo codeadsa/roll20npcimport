@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-hill/hill-giant-runeslave
+Runeslave Hill Giant CR 8
+XP 4,800
+CE Large humanoid (giant)
+Init +0; Senses low-light vision; Perception +7
+DEFENSE
+AC 22, touch 9, flat-footed 22 (+4 armor, +9 natural, –1 size)
+hp 95 (10d8+50)
+Fort +11, Ref +3, Will +4
+Defensive Abilities resist pain, rock catching; Immune exhaustion, fatigue, fear
+Weaknesses arcane decay
+OFFENSE
+Speed 60 ft. (50 ft. in armor)
+Melee greatclub +16/+11 (2d8+13) or 2 slams +15 (1d8+9)
+Ranged rock +7 (1d8+13)
+Space 10 ft.; Reach 10 ft.
+Special Attacks arcane surge, rock Throwing (120 ft.)
+STATISTICS
+Str 29, Dex 10, Con 19, Int 4, Wis 8, Cha 5
+Base Atk +7; CMB +17; CMD 27
+Feats Diehard B, Iron Will, Martial Weapon Proficiency (greatclub), Power Attack, Toughness B, Vital Strike, Weapon Focus (greatclub)
+Skills Climb +14, Perception +7
+Languages Giant

@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ercinee
+Ercinee CR 4
+XP 1,200
+N Large Magical Beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +11; Aura Radiance
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +5 natural, -1 size)
+hp 38 (7d10)
+Fort +5, Ref +7, Will +4
+OFFENSE
+Speed 10 ft., fly 80 ft. (good)
+Melee 2 claws +9 (ld6+3) and bite +4 (ld4+1)
+Space 10 ft.; Reach 5 ft.
+Special Attacks unstable screech
+Spell-Like Abilities (CL 6th; concentration +7, ranged touch +8)
+At will–dancing lights, light
+3/day–searing light
+TACTICS
+If provoked, an ercinee begins combat by using its unstable screech and then seeks out confused foes and uses searing light and flyby attacks until they are no longer threats. Ercinee will not fight to the death. If reduced below 10 hit points, an ercinee flees.
+STATISTICS
+Str 17, Dex 15, Con 10, Int 10, Wis 14, Cha 13
+Base Atk +7; CMB +11; CMD 23
+Feats Ability Focus (unstable screech), Flyby, Skill Focus (perception), Wingover
+Skills Bluff +5, Fly + 10, Perception +11
+Languages Auran
+SQ lighted way
+SPECIAL ABILITIES
+Lighted Way (Su) At will, an ercinee can shed drops of luminous fluid from its wings. This liquid falls behind it as it flies, with one droplet falling every 25 feet. Where these droplets land, the area within 5 feet is lit by shadowy illumination. This fluid lasts for I hour, after which it evaporates to nothing.
+Radiance (Sp) At night, an ercinee sheds light as the spell daylight. It can suppress or reactivate this ability as a free action.
+Unstable Screech (Su) An ercinee can, as a standard action, emit a shrill and bewildering screech. Any creature within 30 feet of the ercinee must make a DC 17 Will save or be confused for 1d4 rounds. Creatures who succeed at this save cannot be affected again by the same ercinee’s screech for 24 hours. Creatures already confused take a -2 penalty on their save to resist additional unstable screeches. The save DC is Wisdom-based.

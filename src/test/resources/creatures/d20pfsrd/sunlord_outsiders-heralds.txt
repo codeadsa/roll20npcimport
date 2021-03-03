@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/sunlord
+The Sunlord CR 15
+XP 51,200
+NG Large outsider (angel, extraplanar, good, herald, shapechanger)
+Init +8; Senses darkvision 60 ft., low-light vision; Perception +24; Aura protective aura (20 ft.)
+DEFENSE
+AC 29, touch 13, flat-footed 25 (+4 Dex, +16 natural, –1 size); +4 deflection vs. evil)
+hp 187 (15d10+105); regeneration 10 (evil effects or weapons)
+Fort +18, Ref +13, Will +13; +4 vs. poison, +4 resistance vs. evil
+Defensive Abilities uncanny dodge; DR 10/evil; Immune acid, cold, fire, petrification; Resist electricity 10; SR 26
+OFFENSE
+Speed 50 ft., fly 100 ft. (good)
+Melee +1 flaming holy scimitars +19/+19/+14/+14/+9/+9 (1d8+8/18–20 plus 1d6 fire plus stun)
+Ranged +1 flaming holy composite longbow +19/+14/+9 (2d6+8/×3 plus 1d6 fire)
+Space 10 ft.; Reach 10 ft.
+Special Attacks stun
+Spell-Like Abilities (CL 15th; concentration +21)
+At will—aid, continual flame, detect evil, discern lies (DC 20), dispel evil (DC 21), dispel magic, holy aura (DC 24), holy smite (DC 20), holy word (DC 23), invisibility (self only), plane shift (DC 21), remove curse, remove disease, remove fear
+7/day—cure light wounds, daylight, see invisibility
+1/day—blade barrier (DC 22), fire shield, flame strike (DC 21), heal, sunburst (DC 24)
+TACTICS
+Before Combat The sunlord casts aid and see invisibility before a battle. If facing an evil outsider, he casts dispel evil. If he has allies, he casts aid on all of them and see invisibility on leaders, then casts holy aura on himself to further protect them. He only uses invisibility if he thinks his foe is too great to deal with in open combat, otherwise he prefers to charge into battle to inspire allies and witnesses.
+During Combat He always tries to engage the most powerful opponent on the battlefield, especially if that opponent could easily defeat or kill his allies. If faced with a dangerous foe who cannot fly, he takes to the air and uses his bow and ranged abilities, closing to melee if others are threatened or to deliver a killing blow. If he has a free round or has to move to another foe, he renews his dispel evil. If he sees good allies are swarmed by weaker evil creatures, he casts holy smite. He uses blade barrier to shield vulnerable allies or divert enemies. The angel saves his heal spell for friendly leaders, though he is not averse to healing himself if he believes his own survival will do more good in the course of a battle.
+Morale Immortal and renewed every day, he never surrenders and fights to the death if doing so can save others. If the battle has turned against his allies, he tries to rescue as many as he can with plane shift, transporting them to a safe place in his god’s realm, often making several such trips if there is time.
+STATISTICS
+Str 24, Dex 19, Con 24, Int 19, Wis 23, Cha 22
+Base Atk +15; CMB +23; CMD 37
+Feats Double Slice, Great Fortitude, Greater Two-Weapon Fighting, Improved Initiative, Improved Two-Weapon Fighting, Iron Will, Two-Weapon Fighting, Weapon Focus (scimitar)
+Skills Acrobatics +19, Diplomacy +24, Fly +6, Heal +21, Intimidate +24, Knowledge (history, planes, religion) +22, Perception +24, Sense Motive +24, Stealth +18
+Languages Celestial, Common; truespeech
+SQ divine trigger, change shape (Small or Medium humanoid or elemental, alter self or elemental body II)
+SPECIAL ABILITIES
+Divine Trigger (Su) The Sunlord can activate any divine spell from a spell trigger item as if he were a 15th-level caster.
+Protective Aura (Su) In addition to the normal effects of an angel‘s protective aura, the Sunlord’s aura grants the benefits of the endure elements spell.
+Stun (Su) If the Sunlord strikes a creature twice in the same round with his scimitars (whether two strikes with one scimitar or one strike with each), that creature must succeed at a DC 24 Fortitude save or be stunned for 1d6 rounds. The save DC is Strength-based.

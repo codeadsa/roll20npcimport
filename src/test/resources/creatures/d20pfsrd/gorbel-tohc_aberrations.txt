@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/gorbel-tohc
+Gorbel CR 1/2
+XP 200
+N Small aberration
+Init +2; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 17, touch 13, flat-footed 15 (+2 Dex, +4 natural, +1 size)
+hp 11 (2d8+2)
+Fort +1; Ref +2; Will +2
+Defensive Abilities all-around vision; DR 5/slashing or piercing; Immune flanking
+Weaknesses explosion
+OFFENSE
+Speed 5 ft., fly 60 ft. (average)
+Melee 2 claws +3 (1d4+1 plus grab), bite +3 (1d6+1)
+Special Abilities grab and bite
+STATISTICS
+Str 12, Dex 14, Con 12, Int 8, Wis 9, Cha 8
+Base Atk +1; CMB +1 (+5 grapple); CMD 13 (can’t be tripped)
+Feats Flyby Attack
+Skills Fly +9, Perception +8, Stealth +11; Racial Modifiers +4 Perception
+Languages Aklo
+SPECIAL ABILITIES
+Explosion (Ex) When a gorbel is hit with a weapon, spell, or effect that deals piercing or slashing damage, it must succeed on a Fortitude save (DC 10 + damage taken) or instantly explode, dealing 1d4 points of damage to all creatures within 5 feet. This instantly kills the gorbel. Creatures in the affected area can attempt a DC 12 Reflex save to reduce the damage by half. The save DC is Constitution-based.
+Grab and Bite (Ex) A gorbel can bite a grappled opponent as a swift action with a +4 attack bonus.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/leprechaun
+Leprechaun CR 2
+XP 600
+CN Small fey
+Init +7; Senses low-light vision; Perception +17
+DEFENSE
+AC 14, touch 14, flat-footed 11 (+3 Dex, +1 size)
+hp 18 (4d6+4)
+Fort +2, Ref +7, Will +6
+DR 5/cold iron; SR 13
+OFFENSE
+Speed 40 ft.
+Melee +1 club +7 (1d8–1)
+Spell-Like Abilities (CL 4th; concentration +7)
+Constant—shillelagh
+At will—dancing lights, ghost sound (DC 13), invisibility (self only), mage hand, major image (visual and auditory elements only, DC 16), prestidigitation, ventriloquism (DC 14)
+3/day—color spray (DC 14), fabricate (1 cubic foot of material only)
+1/day—major creation
+
+STATISTICS
+Str 7, Dex 16, Con 13, Int 14, Wis 15, Cha 16
+Base Atk +2; CMB –1; CMD 12
+Feats Improved Initiative, Weapon Finesse
+Skills Bluff +10, Escape Artist +10, Knowledge (nature) +9, Perception +17, Perform (comedy) +8, Perform (dance) +8, Sense Motive +9, Sleight of Hand +14, Stealth +14; Racial Modifiers +8 Perception, +4 Sleight of Hand
+Languages Common, Elven, Halfling, Sylvan
+SQ leprechaun magic
+SPECIAL ABILITIES
+Leprechaun Magic (Sp) When a leprechaun uses any of its spell-like abilities to deceive, trick, or humiliate a creature (at the GM’s discretion), the spell-like ability resolves at caster level 8th rather than 4th. If a leprechaun uses its spell-like abilities in this manner, it has a bonus of +11 on concentration checks.

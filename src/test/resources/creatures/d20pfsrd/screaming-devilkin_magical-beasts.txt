@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/screaming-devilkin
+Screaming Devilkin CR 2
+XP 600
+LE Small magical beast
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +4
+DEFENSE
+AC 19, touch 15, flat-footed 15 (+3 Dex, +1 dodge, +4 natural, +1 size)
+hp 16 (3d10)
+Fort +3, Ref +6, Will +1
+OFFENSE
+Speed 5 ft., fly 30 ft. (poor)
+Melee tail-barb +7 (1d4)
+Special Attacks scream
+STATISTICS
+Str 10, Dex 17, Con 10, Int 6, Wis 11, Cha 12
+Base Atk +3; CMB +2; CMD 16
+Feats Dodge, Weapon Finesse
+Skills Fly +5, Perception +4, Stealth +11
+Languages Infernal
+SPECIAL ABILITIES
+Scream (Su) A screaming devilkin can howl continuously as a free action. This painful howling affects all creatures within 60 feet that hear it. Affected creatures must succeed on a DC 12 Fortitude save or be dazed for one round. The save DC is Charisma-based. The effects of multiple screaming devilkin using their scream ability in an overlapping area is not cumulative; only one save need be made each round. Conversation, even shouting, is inaudible within 60 feet of a screaming devilkin using this ability. Spellcasters in the area must succeed on a Concentration check (DC 15 + spell level) each time they try to cast a spell. Silence negates the devilkin’s scream for the duration of the spell.

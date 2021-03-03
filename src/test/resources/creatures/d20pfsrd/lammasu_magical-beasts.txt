@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/lammasu
+Lammasu CR 8
+XP 4,800
+LG Large magical beast
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +15; Aura magic circle against evil (20 ft.)
+DEFENSE
+AC 21, touch 10, flat-footed 20 (+1 Dex, +11 natural, -1 size)
+hp 94 (9d10+45)
+Fort +11, Ref +9, Will +8
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee 2 claws +14 (1d8+6), 2 wings +9 (1d6+3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks pounce, rake (2 claws +14; 1d8+6)
+Spell-Like Abilities (CL 9th; concentration +11)
+3/day—greater invisibility
+1/day—dimension door
+Spells Known (CL 7th; concentration +9)
+3rd (4/day)—cure serious wounds, searing light
+2nd (7/day)—cure moderate wounds, lesser restoration, resist energy
+1st (7/day)—bless, command (DC 13), cure light wounds, detect evil, divine favor
+0 (at will)—detect magic, detect poison, guidance, mending, purify food and drink, resistance, stabilize
+STATISTICS
+Str 23, Dex 12, Con 21, Int 16, Wis 17, Cha 14
+Base Atk +9; CMB +16; CMD 27 (31 vs. trip)
+Feats Blind-Fight, Eschew MaterialsB, Improved Initiative, Iron Will, Lightning Reflexes, Power Attack
+Skills Diplomacy +11, Fly +11, Knowledge (arcana) +12, Perception +15, Sense Motive +12
+Languages Celestial, Common
+SPECIAL ABILITIES
+Spells A lammasu casts spells as a 7th-level oracle, but does not gain any other class abilities possessed by an oracle. It ignores all divine focus material components for spells it casts. Lammasus are protectors of the weak and ever-vigilant champions against evil. These noble creatures dwell in crumbling desert ruins or other remote areas, where they tirelessly fight against the forces of darkness, hoping to defend those they consider lesser races from the evils that often lurk in such places.

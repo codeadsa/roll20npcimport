@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/mimic/mimic-failed-apotheosis
+Failed-Apotheosis Mimic CR 8
+XP 4,800
+NE Huge aberration (shapechanger)
+Init +4; Senses blindsight 30 ft., darkvision 60 ft.; Perception +21
+DEFENSE
+AC 21, touch 9, flat-footed 21 (+13 natural, –2 size)
+hp 126 (11d8+77)
+Fort +12, Ref +3, Will +8
+DR 5/—; Immune acid
+OFFENSE
+Speed 20 ft., climb 10 ft., swim 10 ft.
+Melee 2 slams +17 (1d12+10)
+Space 15 ft.; Reach 15 ft.
+Special Attacks adhesive, crush, horrific appearance
+TACTICS
+Before Combat Mimics disguise themselves and wait for the approach of their opponents while luring curious prey closer; they know they cannot chase down most creatures and do not move until their prey is well within reach.
+During Combat The mimic uses its horrific appearance, then strikes out at opponents, grapples using its adhesive, and crushes the life from its foes while constantly shifting to better terrain with its indomitable movement.
+Morale A failed-apotheosis mimic fights until slain.
+STATISTICS
+Str 30, Dex 10, Con 24, Int 10, Wis 13, Cha 10
+Base Atk +8; CMB +20; CMD 30 (cannot be tripped)
+Feats Great Fortitude, Improved Initiative, Improved Natural Attack (slam), Skill Focus (Perception), Power Attack, Weapon Focus (slam)
+Skills Climb +34, Disguise +11 (+31 when mimicking objects), Knowledge (dungeoneering) +14, Perception +21; Racial Modifiers +2 alchemical bonus to Climb, +20 Disguise when mimicking objects
+Languages Common
+SQ bioluminescence, gillfoot, hypersenses, mimic shape
+SPECIAL ABILITIES
+Adhesive (Ex) A mimic exudes a thick slime that acts as a powerful adhesive, holding fast any creatures or items that touch it. An adhesive-covered mimic automatically grapples any creature it hits with its slam attack. Opponents so grappled cannot get free while the mimic is alive without removing the adhesive first. A weapon that strikes an adhesive-coated mimic is stuck fast unless the wielder succeeds on a DC 25 Reflex save. A successful DC 25 Strength check is needed to pry off a stuck weapon. Strong alcohol or universal solvent dissolves the adhesive, but the mimic can still grapple normally. A mimic can dissolve its adhesive at will, and the substance breaks down 5 rounds after the creature dies. The save DC is Strength-based.
+Bioluminescence (Ex) The failed-apotheosis mimic can choose to shed light from any part of its body, ranging in intensity from a soft glow like that of a candle (shadowy illumination in a 5-foot radius) to the full brightness of a torch (bright light in a 20-foot radius and shadowy illumination for an additional 20 feet). The failed-apotheosis mimic may duplicate any color of light it so desires, even creating multiple colors, and may cancel or resume use of this ability at will as a free action.
+Crush (Ex) A failed-apotheosis mimic deals 1d12+10 points of damage with a successful grapple check.
+Gillfoot (Ex) The failed-apotheosis mimic has climb speed 10 and swim speed 10. The failed-apotheosis mimic may always take a 5-foot step in any combat round, even if difficult terrain or other factors reduce its speed. A failed-apotheosis mimic may take this 5-foot step whether it is on land, climbing, or swimming. It can breathe water as easily as air.
+Horrific Appearance (Su) A failed-apotheosis mimic’s natural form is a shifting weave of spurting tendrils, melting human visages, and tortured organs trapped within a web of alien light and slashing bones. This ability functions as a gaze attack; the creature may activate or suppress the ability as a free action. Any creature within 30 feet must save (Fortitude DC 15) or take 1d4 points of Strength drain, 1d4 points of Dexterity drain, and 1d4 points of Constitution drain; a successful save means a creature cannot be affected by the same failed-apotheosis mimic’s horrific appearance for 24 hours. The DC is Charisma-based. When using its horrific appearance, the failed-apotheosis mimic cannot use its mimic shape ability.
+Hypersenses (Ex) The failed-apotheosis mimic’s entire body is a primitive sensory organ. This gives it blindsense with a range of 30 feet, and it cannot be flanked.
+Mimic Shape (Ex) As a Huge creature, this failed-apotheosis mimic can assume the general shape of any object that fills roughly 1,200 cubic feet (10 feet by 10 feet by 12 feet), such as a treasure hoard, a stout cottage, or a vast doorway. The minimum size of any single dimension of a Huge mimic is 6 feet.
+CONVERSION OF A VARIANT
+Base Creature
+Mimic

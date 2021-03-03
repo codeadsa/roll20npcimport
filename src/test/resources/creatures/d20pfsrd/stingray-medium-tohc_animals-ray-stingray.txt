@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/ray-stingray/stingray-medium-tohc
+Medium Stingray CR 2
+XP 600
+N Medium animal (aquatic)
+Init +1; Senses low-light vision, scent, tremorsense 100 ft.; Perception +10
+DEFENSE
+AC 14, touch 11, flat-footed 13 (+1 Dex, +3 natural)
+hp 22 (4d8+4)
+Fort +5, Ref +5, Will +2
+OFFENSE
+Speed swim 30 ft.
+Melee sting +5 (1d4+3 plus poison)
+Special Attacks poison
+STATISTICS
+Str 14, Dex 13, Con 13, Int 1, Wis 12, Cha 2
+Base Atk +3; CMB +5; CMD 16 (can’t be tripped)
+Feats Ability Focus (poison), Skill Focus (Perception)
+Skills Perception +10, Stealth +5, Swim +10
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 15; frequency 1/round for 4 rounds; effect 1 Str and paralysis 1d4+1 rds.; cure 1 save.

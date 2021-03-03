@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/suspiridaemon
+Suspiridaemon CR 7
+XP 3,200
+NE Medium outsider (daemon, evil, extraplanar)
+Init +7; Senses darkvision 60 ft.; Perception +14; Aura thin air
+DEFENSE
+AC 20, touch 14, flat-footed 16 (+3 Dex, +1 dodge, +6 natural)
+hp 85 (9d10+36)
+Fort +9, Ref +9, Will +8
+DR 10/good or silver; Immune acid, disease, death effects, poison; Resist cold 10, electricity 10, fire 10, sonic 30; SR 18
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +13 (1d4+4), tongue +8 (1d6+6/19–20 plus grab)
+Space 5 ft.; Reach 5 ft. (10 ft. with tongue)
+Special Attacks concussive gasp, constrict (1d6+6), strangle, suffocate
+Spell-Like Abilities (CL 9th; concentration +13)
+At will—death knell (DC 16), ghoul touch (DC 16), ray of enfeeblement
+3/day—stinking cloud (DC 17), vampiric touch (DC 17)
+1/day—cloudkill (DC 19), summon (level 4, 1d3 lacridaemons 35%)
+STATISTICS
+Str 19, Dex 17, Con 18, Int 14, Wis 15, Cha 18
+Base Atk +9; CMB +13 (+17 grapple); CMD 27
+Feats Combat Reflexes, Dodge, Great Fortitude, Improved Critical (tongue), Improved Initiative
+Skills Climb +16, Diplomacy +16, Intimidate +16, Knowledge (nature) +14, Knowledge (planes) +14, Perception +14, Sense Motive +14, Stealth +15
+Languages Abyssal, Draconic, Infernal (cannot speak); telepathy 100 ft.
+SQ no breath
+SPECIAL ABILITIES
+Concussive Gasp (Su) Once per day, a suspiridaemon can inhale with such sudden force as to evacuate the air in its proximity, causing a sudden wave of air pressure from the implosion. Every creature within 30 feet must make a DC 18 Fortitude save or take 5d6 points of sonic damage and become sickened for 1d4 rounds. Any creature that makes a successful save takes only half damage and is not sickened. A suspiridaemon cannot perform this ability if it is currently grappling a creature with its tongue. The save DC is Constitution-based.
+Strangle (Ex) Suspiridaemons have an unerring talent for seizing their victims by the neck. A creature that is grappled by a suspiridaemon cannot speak or cast spells with verbal components.
+Suffocate (Ex) A creature affected by the daemon’s strangle ability cannot breathe and must hold its breath. Because of the daemon’s thin air aura, this can quickly render an opponent unconscious.
+Thin Air (Su) A suspiridaemon’s aura makes the air around it difficult to breathe. Creatures that need to breathe can only hold their breath half as long as normal while within this aura, and suffer from altitude sickness as if in a low peak or high pass altitude zone.
+About this Daemon Type… Living personifications of mortal death by suffocation and strangulation, suspiridaemons bear evidence of asphyxiation with purplish-black discolorations, bleeding eyes, and marks of strangulation upon their necks. Fangs, claws, and barbed tongues break all comparison to humanoid corpses, however, as does their speech, which consists of hisses, grating gasps, and labored whispers that are painful to listen to. Largely single-minded, these fiends delight in personally strangling their victims with their hands or tongues, eschewing the use of magic for anything but wearing down their enemies or preparing them for the final act. Conjurers find these fiends most useful when they can convince them to forgo these proclivities and make use of their other deadly abilities. Suspiridaemons deeply resent such deprivation, but face the same imposition of discipline from their own daemonic masters.
+Personification of Death: Suffocation.
+Preferred Sacrifice: A rare animal or sentient creature trapped in a sealed space and allowed to suffocate.

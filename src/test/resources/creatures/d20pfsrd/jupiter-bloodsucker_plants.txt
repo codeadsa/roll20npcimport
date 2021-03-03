@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/jupiter-bloodsucker
+Jupiter Bloodsucker CR 3
+XP 800
+N Medium plant
+Init -3; Senses blindsense 60 ft., bloodsense 60 ft.; Perception +0
+DEFENSE
+AC 15, touch 7, flat-footed 15 (-3 Dex, +8 natural)
+hp 30 (4d8+12)
+Fort +7, Ref -2, Will +1
+Immune plant traits
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 5 ft.
+Melee 6 vine leaves +4 (1d6+1 plus blood drain and grab)
+Special Attacks blood drain (1 Con per vine leaf), smother
+STATISTICS
+Str 12, Dex 5, Con 16, Int –, Wis 10, Cha 10
+Base Atk +3; CMB +4 (+8 to grapple); CMD 11 (can’t be tripped)
+SPECIAL ABILITIES
+Bloodsense (Ex) A Jupiter bloodsucker can detect any living creature that has blood in its body to a range of 60 feet by scent.
+Smother (Ex) By making a successful grapple check (with a +2 bonus for every vine-leaf attached to a foe at the beginning of its turn), a Jupiter bloodsucker can cover a grappled opponent’s nose and mouth. An opponent caught in this way must hold its breath or begin suffocating. A vineleaf attached in this way does not drain blood.

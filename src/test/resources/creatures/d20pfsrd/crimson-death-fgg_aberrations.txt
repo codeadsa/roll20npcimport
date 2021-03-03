@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/crimson-death-fgg
+Crimson Death CR 10
+XP 9,600
+NE Medium aberration
+Init +8; Senses darkvision 60 ft.; Perception +29
+DEFENSE
+AC 24, touch 14, flat-footed 20 (+4 Dex, +10 natural)
+hp 127 (17d8+51)
+Fort +10; Ref +11; Will +15
+DR 5/magic and silver; SR 21
+OFFENSE
+Speed 60 ft. (30 ft. after feeding)
+Melee 2 tentacles +17 (1d6 plus engulf)
+Special Attacks engulf (DC 18, 1d6 plus 1d6 Con)
+STATISTICS
+Str 11, Dex 18, Con 16, Int 17, Wis 16, Cha 16
+Base Atk +12; CMB +16; CMD 26
+Feats Agile Maneuvers, Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Skill Focus (Perception), Skill Focus (Stealth), Weapon Finesse, Weapon Focus (tentacles)
+Skills Climb +20, Escape Artist +24, Knowledge (dungeoneering) +23, Perception +29, Stealth +30 (+42 in mist or fog), Survival +23, Swim +20; Racial Modifiers +12 Stealth in mist or fog
+Languages Aklo (can’t speak)
+SQ susceptibility
+SPECIAL ABILITIES
+Engulf (Ex) When a crimson death strikes a target with one of its tentacles, it can immediately make an engulf attack, including moving into the opponent’s square. Targeted creatures can make attacks of opportunity against the crimson death, but if they do so, they are not entitled to a saving throw against the engulf attack. Those who do not attempt attacks of opportunity can attempt a Reflex (DC 18) save to avoid being engulfed—on a success, they are pushed back or aside (target’s choice) as the crimson death moves forward. Engulfed opponents gain the pinned condition, are in danger of suffocating, are trapped within the crimson death’s body until they are no longer pinned, and suffer 1d6 points of damage and 1d6 points of Constitution damage every round. A victim reduced to 0 Constitution dies. The save DC is Strength-based.
+Susceptibility (Ex) After draining its victim’s Constitution, the crimson death, sated from its feeding, moves at half its normal speed, loses its racial bonus to Stealth checks (because it flushes crimson, hence the name), and suffers a –4 circumstance penalty to AC. These effects last for 1 hour.

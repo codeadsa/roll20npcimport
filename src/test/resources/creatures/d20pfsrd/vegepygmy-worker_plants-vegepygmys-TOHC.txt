@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/vegepygmys-TOHC/vegepygmy-worker
+Vegepygmy Worker CR 1
+XP 400
+N Small plant (fungus)
+Init +2; Senses low-light vision; Perception +9
+DEFENSE
+AC 16, touch 13, flat-footed 14 (+2 Dex, +3 natural, +1 size)
+hp 16 (3d8 plus 3)
+Fort +3, Ref +3, Will +1
+DR 5/bludgeoning or slashing; Immune electricity, plant traits
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +3 (1d3) or spear +3 (1d6/x3)
+Ranged spear +5 (1d6/x3)
+TACTICS
+Vegepygmies attack with claws or weapons, usually either a longspear or club. They prefer to ambush opponents, using their coloration to blend with their natural surroundings.
+STATISTICS
+Str 11, Dex 14, Con 11, Int 8, Wis 11, Cha 10
+Base Atk +2; CMB +1; CMD 13
+Feats Skill Focus (Perception), Toughness
+Skills Perception +9, Stealth +10 (+18 in forested or swampy areas); Racial Modifiers +4 Stealth (+12 in forested or swampy areas)
+Gear spear

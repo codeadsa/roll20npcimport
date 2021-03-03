@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/hangman-tree
+Hangman Tree CR 7
+XP 3,200
+NE Huge plant
+Init +3; Senses blindsight 60 ft.; Perception +11
+DEFENSE
+AC 20, touch 7, flat-footed 20 (–1 Dex, +13 natural, –2 size)
+hp 84 (8d8+48)
+Fort +12, Ref +3, Will +5
+Immune plant traits; SR 18
+Weaknesses vulnerable to electricity
+OFFENSE
+Speed 10 ft.
+Melee 3 vines +11 (1d6+7 plus grab and pull)
+Space 15 ft.; Reach 15 ft.
+Special Attacks constrict (1d6+7), hallucinatory spores, pull (vine, 5 feet), strangle, swallow whole (2d6+7 bludgeoning, AC 16, 8 hp), vines
+STATISTICS
+Str 25, Dex 8, Con 23, Int 7, Wis 12, Cha 10
+Base Atk +6; CMB +15 (+19 grapple); CMD 24
+Feats Improved Initiative, Iron Will, Lightning Reflexes, Skill Focus (Perception)
+Skills Perception +11, Stealth –2
+Languages Sylvan
+SPECIAL ABILITIES
+Hallucinatory Spores (Ex) Once per day as a standard action, a hangman tree can release a cloud of spores in a 50-foot-radius spread. Creatures in the area must make a DC 20 Will save or believe the hangman tree to be a perfectly ordinary tree—or at worst, a treant or some other friendly tree-like creature. An affected creature becomes passive for 2d6 minutes and refuses to attack the hangman tree during this time. An affected creature can attempt a new Will save each round that the tree attacks an ally—if a hallucinating creature is attacked by the tree, it gains a +4 bonus on its Will save to see through the hallucination. This is a mind-affecting compulsion effect. The save DC is Constitution-based.
+Vines (Ex) A hangman tree’s vines are primary attacks that deal bludgeoning damage. When a hangman tree grapples a foe with its vines, the tree does not gain the grappled condition. A hangman tree that uses swallow whole transfers a pinned creature from a vine to inside its trunk.

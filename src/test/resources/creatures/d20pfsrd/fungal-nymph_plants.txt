@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/fungal-nymph
+Fungal Nymph CR 8
+The fungal creature presented here is built using a nymph as the base creature.
+XP 4,800
+CG Medium plant (augmented fey)
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +14; Aura blinding beauty (30 ft., DC 21)
+DEFENSE
+AC 23, touch 21, flat-footed 19 (+7 deflection, +4 Dex, +2 natural)
+hp 84 (8d8+48)
+Fort +15, Ref +17, Will +16
+Defensive Abilities poisonous blood (DC 20); DR 10/cold iron; Immune disease, plant traits
+OFFENSE
+Speed 20 ft., swim 10 ft.
+Melee slam +8 (1d4+3)
+Special Attacks create spawn, poison spore cloud (DC 20), stunning glance (DC 21)
+Spell-Like Abilities (CL 8th; concentration +15)
+1/day—dimension door
+Druid Spells Prepared (CL 7th; concentration +10)
+4th—command plants (DC 17)
+3rd—call lightning (DC 16), speak with plants, spike growth (DC 16)
+2nd—chill metal (DC 15), flame blade, resist energy, summon swarm
+1st—entangle (DC 14), faerie fire, obscuring mist, pass without trace, produce flame
+0—detect magic, guidance, resistance, virtue
+STATISTICS
+Str 14, Dex 19, Con 22, Int 16, Wis 17, Cha 25
+Base Atk +4; CMB +8; CMD 27
+Feats Agile Maneuvers, Combat Casting, Self-Sufficient, Weapon Finesse
+Skills Craft (alchemy) +14, Diplomacy +18, Escape Artist +15, Heal +13, Knowledge (dungeoneering) +11, Knowledge (nature) +14, Perception +14, Sense Motive +14, Stealth +15, Survival +5, Swim +10
+Languages Common, Sylvan, Undercommon
+SQ fungal metabolism, inspiration, rejuvenation, unearthly grace, wild empathy +21

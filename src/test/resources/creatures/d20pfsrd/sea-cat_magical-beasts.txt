@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sea-cat
+Sea Cat CR 4
+XP 1,200
+N Large magical beast
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +10
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 45 (6d10+12)
+Fort +7, Ref +6, Will +5
+OFFENSE
+Speed 10 ft., swim 40 ft.
+Melee bite +8 (1d8+3), 2 claws +9 (1d4+3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks rend (2 claws, 1d4+4)
+STATISTICS
+Str 19, Dex 12, Con 15, Int 2, Wis 13, Cha 10
+Base Atk +6; CMB +10; CMD 21 (can’t be tripped)
+Feats Iron Will, Skill Focus (Perception), Weapon Focus (claw)
+Skills Perception +10, Swim +17
+SQ hold breath

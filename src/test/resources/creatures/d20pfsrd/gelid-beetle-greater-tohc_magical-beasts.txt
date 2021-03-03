@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gelid-beetle-greater-tohc
+Greater Gelid Beetle CR 9
+XP 6,400
+N Large magical beast (cold)
+Init +4; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 22, touch 9, flat-footed 22 (+13 natural, -1 size)
+hp 114 (12d10+48)
+Fort +12; Ref +10; Will +4
+Immune cold
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 30 ft.
+Melee bite +18 (1d6+9/19-20 plus 1d8 cold)
+Space 5 ft.; Reach 5 ft.
+Special Attacks cold, cold cloud
+STATISTICS
+Str 23, Dex 10, Con 18, Int 2, Wis 10, Cha 9
+Base Atk +12; CMB +19; CMD 29
+Feats Improved Critical (bite), Improved Initiative, Power Attack, Skill Focus (Perception), Weapon Focus (bite), Lightning Reflexes
+Skills Perception +12, Stealth +5 (+9 natural surroundings); Racial Modifiers +4 Stealth in natural surroundings
+SPECIAL ABILITIES
+Cold (Ex) A greater gelid beetle’s body generates cold that deals an extra 1d8 points of cold damage every time it succeeds on a bite attack. Creatures attacking a greater gelid beetle unarmed or with natural weapons take this same cold damage each time one of their attacks hits.
+Cold Cloud (Ex) Once per minute as a free action, a greater gelid beetle can emit a cloud of thick, billowing, icy cold vapors in a 20-foot radius around its body. The cloud is extremely thick and prevents effective ranged weapon attacks (except for magic rays). Melee attack and damage rolls suffer a -2 penalty in the cloud. Each round, on the beetle’s turn, the cloud deals 2d6 points of cold damage to each creature within it. A successful DC 20 Fortitude save reduces the damage by half. The save DC is Constitutionbased. The cloud lasts 1d4+3 rounds before dispersing.

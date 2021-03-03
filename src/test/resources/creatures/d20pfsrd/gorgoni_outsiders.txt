@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/gorgoni
+Gorgoni CR 3
+XP 800
+N Medium outsider (native)
+Init +6; Senses darkvision 60 ft., scent; Perception +10
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 natural)
+hp 30 (4d10+8)
+Fort +3, Ref +6, Will +5
+OFFENSE
+Speed 30 ft.
+Melee scimitar +5 (1d6+1/18-20), bite +0 (1d4 plus poison)
+Ranged shortbow +6 (1d6)
+Special Attacks bardic performance 11 rounds/day (standard action, countersong, distraction, fascinate, inspire competence +2, inspire courage), poison
+Spell-Like Abilities (CL 4th)
+3/day – beast shape I (snake only)
+1/day – ghost sound, ventriloquism (DC 12)
+STATISTICS
+Str 12, Dex 15, Con 14, Int 14, Wis 12, Cha 13
+Base Atk +4; CMB +5; CMD 17
+Feats Alertness, Improved Initiative
+Skills Acrobatics +9, Climb +8, Craft (instrument) +9, Knowledge (Geography) +17, Knowledge (all others) +10, Perception +10, Perform (stringed) +8, Sense Motive +10, Stealth +9; Racial Modifier +8 to Knowledge
+Languages Common, Gorgoni
+SQ racial memory
+SPECIAL ABILITIES
+Poison (Ex) Bite – injury; save Fort DC 14; frequency 1/ round for 4 rounds; effect 1d2 Dex; cure 1 save.
+Racial Memory (Ex) The gorgoni can access their race’s collective unconsciousness, allowing them to draw on knowledge they would not otherwise possess as individuals. A gorgoni receives a +8 racial bonus to Knowledge skill checks and can make Knowledge checks untrained.
+

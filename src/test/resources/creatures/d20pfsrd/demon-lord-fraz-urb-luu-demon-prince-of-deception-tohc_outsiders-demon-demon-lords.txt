@@ -1,0 +1,41 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-fraz-urb-luu-demon-prince-of-deception-tohc
+Fraz-Urb’luu (Demon Prince of Deception) CR 29
+XP 6,560,000
+CE Huge outsider (chaotic, demon, evil, extraplanar)
+Init +8; Senses darkvision 60 ft., true seeing; Perception +58; Aura unholy aura (DC 28)
+DEFENSE
+AC 49, touch 29, flat-footed 45 (+4 Dex, +20 natural, –2 size, +7 insight, +10 profane)
+hp 900 (40d10+680)
+Fort +41, Ref +17, Will +29
+DR 25/cold iron and good; Immune electricity, mind-affecting effects, poison; Resist acid 10, cold 10, fire 10; SR 40
+OFFENSE
+Speed 40 ft., fly 60 ft. (perfect)
+Melee 2 slams +53 (2d8+14 plus grab/19–20), bite +52 (3d6+14), tail slash +47 (2d8+21)
+Space 15 ft.; Reach 15 ft.
+Special Attacks constrict (2d8+21)
+Spell-Like Abilities (CL 29th)
+At will—blasphemy (DC 27), charm monster (DC 24), deeper darkness, desecrate, detect good, detect thoughts (DC 22), fear (DC 24), greater dispel magic, greater teleport (self plus 50 pounds of objects only), mass charm monster (DC 28), mass suggestion (DC 26), misdirection (DC 22), polymorph, telekinesis (DC 25), tongues (self only), unhallow, unholy blight (DC 24)
+3/day—baleful polymorph (DC 25), dominate monster (DC 29)
+1/day—plane shift, power word blind, prismatic spray (DC 27), summon (level 9, 1d4 mariliths or nalfeshnees, or 1d2 balors 100%), summon demonic entity (see below)
+Prepared Spells (CL 20th)
+9th—dominate monster (DC 26), crushing hand, meteor swarm (DC 26), power word kill, wail of the banshee (DC 26)
+8th—binding (DC 25), mass charm monster (DC 25), prismatic wall (DC 25), summon monster VIII, symbol of death (DC 25)
+7th—finger of death (DC 24), insanity (DC 24), mass hold person (DC 24), spell turning, symbol of weakness (DC 24)
+6th—acid fog, chain lightning (DC 23), geas/quest (DC 23), permanent image (DC 23), symbol of fear (DC 23)
+5th—false vision, hold monster (DC 22), mind fog (DC 22), persistent image (DC 22), symbol of sleep (DC 22), wall of force
+4th—charm monster (DC 21), confusion (DC 21), crushing despair (DC 21), phantasmal killer (DC 21), shout (DC 21), wall of fire
+3rd—deep slumber (DC 20), dispel magic, displacement, gaseous form, magic circle against good, slow (DC 20)
+2nd—darkness, hypnotic pattern (DC 19), invisibility (DC 19), scorching ray, touch of idiocy, web (DC 19)
+1st—cause fear (DC 18), chill touch (DC 18), color spray (DC 18), ray of enfeeblement, silent image (DC 18), true strike, ventriloquism (DC 18)
+0 (at will)—acid splash, daze (DC 17), dancing lights, ghost sound
+TACTICS
+Fraz-Urb’luu opens combat by pounding his foes with his spells or spell-like abilities. He next assaults them physically by pummeling with his powerful fists and slashing with his tail. A grabbed foe is entwined in his tail and gnashed between the demon prince’s fangs. One of Fraz-Urb’luu’s favorite tactics, after wearing down his opponents, is to summon a demon prince and then immediately teleport away as the prince arrives.
+STATISTICS
+Str 39, Dex 18, Con 44, Int 24, Wis 24, Cha 30
+Base Atk +40; CMB +56 (+60 grapple); CMD 87
+Feats Awesome Blow, Cleave, Craft Staff, Critical Focus, Deceitful, Extend Spell, Empower Spell, Enlarge Spell, Great Fortitude, Improved Bull Rush, Improved Critical (slam), Improved Initiative, Improved Sunder, Maximize Spell, Power Attack, Quicken Spell-Like Ability (prismatic spray), Staggering Critical, Stunning Critical, Weapon Focus (slam), Widen Spell
+Skills Bluff +57, Diplomacy +53, Disguise +12, Escape Artist +44, Fly +51, Knowledge (arcana) +50, Knowledge (history) +47, Knowledge (nobility) +50, Knowledge (planes) +50, Knowledge (religion) +47, Perception +58, Sense Motive +50, Spellcraft +50, Survival +47; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common, Daemonic, Draconic, Giant, Goblin, Infernal; telepathy 100 ft.
+SQ planar omniscience
+SPECIAL ABILITIES
+Summon Demonic Entity (Sp) Once per day, Fraz-Urb’luu can attempt to summon a demon lord or demon prince with a 70% chance of success, and deceive the summoned demon into believing it was called by his opponents. The summoned lord or prince must succeed on a DC 44 Will save. If the save fails, it believes that Fraz-Urb’luu’s opponents called it and deals with them appropriately (which usually involves killing the offending party for daring to call a demon prince or lord). The save DC is Charisma-based and includes a +15 racial bonus. This ability is the equivalent of a 9th-level spell.

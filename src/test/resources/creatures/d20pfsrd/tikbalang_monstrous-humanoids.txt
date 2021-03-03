@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/tikbalang
+Tikbalang CR 9
+XP 6,400
+CE Large monstrous humanoid
+Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +18
+DEFENSE
+AC 22, touch 13, flat-footed 18 (+3 Dex, +1 dodge, +9 natural, –1 size)
+hp 114 (12d10+48)
+Fort +10, Ref +11, Will +11
+OFFENSE
+Speed 40 ft.
+Melee bite +18 (2d4+7/19–20), 2 hooves +13 (1d8+10)
+Ranged 4 spines +14 (1d6+8)
+Space 10 ft.; Reach 10 ft.
+Special Attacks pounce, spines, trample (1d8+10, DC 23)
+Spell-Like Abilities (CL 12th; concentration +16)
+Constant—spider climb
+At will—ventriloquism (DC 15), invisibility
+3/day—major image (DC 17)
+1/day—fly (self only), mirage arcana (DC 19)
+1/week—maze
+STATISTICS
+Str 24, Dex 16, Con 19, Int 11, Wis 16, Cha 19
+Base Atk +12; CMB +20; CMD 34
+Feats Combat Reflexes, Deceitful, Dodge, Great Fortitude, Improved Critical (bite), Power Attack
+Skills Bluff +20, Disguise +6, Perception +18, Sense Motive +9, Stealth +14, Survival +12
+Languages Common, Sylvan
+SQ change shape (Small or Medium humanoid, alter self), powerful blows (hooves), sound mimicry (sounds and voices)
+SPECIAL ABILITIES
+Spines (Ex) As a standard action, a tikbalang can launch four spines from its mane, each dealing 1d6 points of damage plus its Strength bonus. This attack has a range of 120 feet with no range increment. All targets must be within 30 feet of each other. A tikbalang can launch only 24 spines in any 24-hour period.

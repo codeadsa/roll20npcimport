@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-vampiric
+Vampiric Ooze CR 8
+XP 4,800
+CE Large undead
+Init -1; Senses blindsight 60 ft.; Perception +3
+DEFENSE
+AC 4, touch 4, flat-footed 4 (-5 Dex, -1 size)
+hp 52 (12d8-12 plus 12)
+Fort +2, Ref -2, Will +1
+Defensive Abilities split (cold and electricity, 10 hp); Immune cold, electricity, ooze traits, undead traits
+Weaknesses sunlight vulnerability
+OFFENSE
+Speed 10 ft., climb 10 ft.
+Melee slam +10 (2d4+3 plus energy drain and grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (2d4+3), create spawn, energy drain (1 level, DC 14)
+STATISTICS
+Str 15, Dex 1, Con —, Int —, Wis 1, Cha 8
+Base Atk +9; CMB +12 (+16 to grapple); CMD 17 (can’t be tripped)
+Feats Improved InitiativeB, ToughnessB
+Skills Climb +10, Perception +3; Racial Modifiers +8 Perception
+SPECIAL ABILITIES
+Create Spawn (Su) Any humanoid slain by a vampiric ooze becomes a zombie in 1d4 rounds. Spawn are under the command of the vampiric ooze that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.
+Sunlight Vulnerability (Ex) Exposing a vampiric ooze to direct sunlight staggers it on the first round, and it is destroyed utterly in the next round if it cannot escape.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/mawler
+Mawler CR 4
+XP 1,200
+NE Tiny aberration (shapechanger)
+Init +3; Senses darkvision 60 ft.; Perception +8; Aura magic aura
+DEFENSE
+AC 19, touch 15, flat-footed 16 (+3 Dex, +4 natural, +2 size)
+hp 39 (6d8+12)
+Fort +4, Ref +5, Will +7
+OFFENSE
+Speed 20 ft.
+Melee bite +9 (1d4+1 plus grab)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks constrict (1d4+1), vorpal bite
+STATISTICS
+Str 13, Dex 16, Con 14, Int 5, Wis 11, Cha 11
+Base Atk +4; CMB +3 (+7 grapple); CMD 16 (can’t be tripped)
+Feats Iron Will, Skill Focus (Perception), Weapon Finesse
+Skills Disguise +10, Perception +8, Stealth +16; Racial Modifiers +8 Disguise
+SQ mimic shape
+SPECIAL ABILITIES
+Magic Aura (Su) A mawler continuously emits a moderate aura of transmutation magic. This ability can be negated or dispelled (versus caster level 6), but the mawler can activate it as a free action on its next turn.
+Mimic Shape (Ex) A mawler can assume the general shape of any object that is roughly Tiny sized. A mawler’s body is fleshy and pliable, but it can alter the rigidity of its body to resemble metal, wood, and even stone. Most mawlers have found that taking on the shape of articles of clothing provides the most ready meals. The ruse can be detected by a Perception check opposed by the mawler’s Disguise skill.
+Vorpal Bite (Ex) A mawler that scores a critical hit with its bite attack while being worn severs the extremity that was inside it at the time. For example, a mawler being worn as a boot that scores a critical hit, severs the victim’s leg. A mawler can only use its vorpal bite while being worn.
+A creature that loses a limb suffers a -4 penalty to skill checks that require the use of two limbs. For example, a victim that loses a hand or arm suffers a -4 penalty to Climb checks, Disable Device checks, and so forth. Additionally, a creature that loses its primary weapon-wielding arm or hand suffers a -6 penalty when wielding a weapon in its offhand. A creature with the Two-Weapon Fighting feat that loses its primary arm or hand ignores the penalty for wielding a weapon in its offhand.
+If the victim loses a foot or leg, the penalty applies to Acrobatics checks and the like. Additionally, the creature’s speed is reduced to one-quarter. If the severed extremity happens to be the head, the victim dies immediately (unless it can live without its head).

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/frost-mite-swarm
+Frost Mite Swarm CR 10
+XP 9,600
+NE Fine Magical Beast (cold, swarm)
+Init +7; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 21, touch 21, flat-footed 18 (+3 Dex, +8 size)
+hp 97 (13d10+26), Regeneration 5 (fire)
+Fort +9, Ref +11, Will +7
+Defensive Abilities swarm traits Immune weapon damage, cold Weakness swarm traits, Vulnerability to fire
+OFFENSE
+Speed fly 20 ft. (good)
+Melee swarm (3d6 cold plus disease and distraction)
+Space 10 ft.; Reach 0 ft.
+Special Attacks disease, distraction (DC 17)
+STATISTICS
+Str 1, Dex 17, Con 13, Int 3, Wis 12, Cha 10
+Base Atk +13; CMB -; CMD –
+Feats Ability Focus (disease), Hover, Improved Initiative, Iron Will, Skill Focus (Fly), Toughness, Wingover
+Skills Fly +14, Perception +14, Stealth +19 Racial Modifiers +8 Fly
+SQ swarm traits
+SPECIAL ABILITIES
+Disease (Ex) Any creature that takes damage from the frost mite’s swarm attack must succeed a DC 19 Fortitude save or contract frost scars disease. The save DC is Constitution-based.
+Frost Scars: Disease-injury; saveFort DC 19 onset 1 day; frequency 1/day effect 1d2Str plus 1d2Dex damage; cure 2 consecutive saves.

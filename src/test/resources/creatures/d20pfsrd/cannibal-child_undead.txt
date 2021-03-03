@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/cannibal-child
+Cannibal Child CR 3
+XP 800
+CE Small undead
+Init +1; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 14, touch 12, flat-footed 13 (+1 Dex, +2 natural, +1 size)
+hp 22 (3d8+9)
+Fort +4, Ref +2, Will +5
+Immune undead traits
+Weakness vulnerability to silver
+OFFENSE
+Speed 20 ft.
+Melee 2 claws +5 (1d3+2 plus Grab)
+Space 5 ft.; Reach 5 ft.
+Special Attacks devour flesh (2d3+4 plus racking pain), gaze, Grab
+Spell-Like Abilities (CL 3rd)
+At will – detect good
+STATISTICS
+Str 14, Dex 12, Con –, Int 12, Wis 15, Cha 16
+Base Atk +2; CMB +3 (+7 grapple); CMD 14
+Feats Alertness, Skill Focus (Bluff)
+Skills Bluff +12, Disguise +9, Perception +10, Sense Motive +10, Stealth +11; Racial +4 Stealth (due to size)
+Languages Common, 1 more
+SPECIAL ABILITIES
+Devour Flesh (Su) When a cannibal child makes a successful grapple check, it inflicts claw damage as normal plus it literally inhales flesh from its victim, stripping the tissue away with its supernatural inhalation. The victim suffers 2d3+4 points of damage and wracking pains that impose a -4 penalty on attack rolls, skill checks, and ability checks. A DC 14 Fortitude save halves the damage and negates the wracking pains. Otherwise, the pains last until the victim recovers hit points lost due to this ability.
+Charming Gaze (Su) Charm person, range 30 ft., Will DC 14 negates. The save DC is Charisma-based.
+Vulnerability to Silver (Su) A cannibal child takes half again as much damage (+50%) from silver weapons. This increase only applies to the base weapon damage itself, including enhancement bonuses, but does not apply to additional damage from other sources such as high Strength or sneak attack.
+

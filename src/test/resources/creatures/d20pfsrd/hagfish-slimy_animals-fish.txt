@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/hagfish-slimy
+Slimy Hagfish CR 1
+XP 400
+N Tiny animal (aquatic)
+Init +2; Senses low-light vision; Perception +1
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 17 (2d8+8)
+Fort +7, Ref +7, Will +1
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee bite +4 (1d3+1)
+STATISTICS
+Str 12, Dex 15, Con 18, Int 1, Wis 12, Cha 11
+Base Atk +1; CMB +1 (+5 grapple); CMD 12 (can’t be tripped)
+Feats Lightning Reflexes
+Skills Escape Artist +6, Swim +14; Racial Modifiers +4 Escape Artist
+SQ slime cloud
+SPECIAL ABILITIES
+Slime Cloud (Ex) While underwater, as a free action, a hagfish can secrete slime that transforms a 5-foot cube of water into a transparent cloud of viscous slime. This slime is the aquatic equivalent of rough terrain, and creatures swimming through it expend 2 squares of movement. The slime cloud remains for 10 rounds before dissipating. Hagfish are unaffected by these slime clouds. The slime also grants the hagfish a +4 bonus on grapple checks.

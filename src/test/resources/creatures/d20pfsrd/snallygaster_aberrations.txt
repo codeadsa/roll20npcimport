@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/snallygaster
+Snallygaster CR 3
+XP 800
+CE Medium aberration
+Init +2; Senses darkvision 60 ft., scent; Perception +7
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 30 (4d8+12)
+Fort +4, Ref +3, Will +6
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee bite +6 (1d8+3/×3 plus bleed), 2 claws +6 (1d4+3), sucking tentacles +1 (1d4+1 plus grab)
+Special Attacks aerial charge, bleed (1d6), sucking tentacles
+STATISTICS
+Str 17, Dex 15, Con 16, Int 5, Wis 14, Cha 9
+Base Atk +3; CMB +6 (+10 grapple); CMD 18 (22 vs. trip)
+Feats Flyby Attack, Skill Focus (Stealth)
+Skills Fly +10, Perception +7, Stealth +9 (+13 in forests); Racial Modifiers +4 Stealth in forests
+Languages Aklo (can’t speak)
+SPECIAL ABILITIES
+Aerial Charge (Ex) When a snallygaster charges downward at an angle of 45 degrees or more, its bite attack deals double damage (or triple damage on a critical hit). Bleed damage is not multiplied for this attack.
+Sucking Tentacles (Ex) A snallygaster uses its retractable tentacles to suck blood from its victim’s bleeding wounds. If a target has a bleed effect and the snallygaster grabs it with tentacles or maintains a grapple against it, the target takes double the normal bleed damage at the beginning of its next turn. When the snallygaster is using its tentacles, it cannot make bite attacks.

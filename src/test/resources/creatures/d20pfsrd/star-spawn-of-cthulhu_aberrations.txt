@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/star-spawn-of-cthulhu
+Star-Spawn of Cthulhu CR 20
+XP 307,200
+CE Huge aberration
+Init +5; Senses blindsight 30 ft., darkvision 60 ft.; Perception +37; Aura frightful presence (150 ft., DC 29)
+DEFENSE
+AC 36, touch 9, flat-footed 35 (+1 Dex, +27 natural, –2 size)
+hp 362 (25d8+250); regeneration 15 (fire)
+Fort +18, Ref +9, Will +25; +8 vs. divination and mind-affecting
+Defensive Abilities immortality, overwhelming mind; Immune cold, disease, poison; SR 31
+OFFENSE
+Speed 40 ft., fly 60 ft. (average), swim 40 ft.
+Melee 2 claws +32 (2d6+16/19–20), 6 tentacles +27 (1d8+8/19–20 plus grab)
+Space 15 ft.; Reach 30 ft.
+Special Attacks constrict (1d8+8), overwhelming mind
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant—mind blank
+At will—dream, insanity (DC 24), nightmare (DC 22), sending
+3/day—demand (DC 25)
+1/day—gate
+STATISTICS
+Str 42, Dex 13, Con 30, Int 23, Wis 29, Cha 24
+Base Atk +18; CMB +36 (+38 bull rush, +40 grapple); CMD 47 (49 vs. bull rush)
+Feats Awesome Blow, Critical Focus, Greater Vital Strike, Improved Bull Rush, Improved Critical (claw), Improved Critical (tentacle), Improved Initiative, Improved Iron Will, Improved Vital Strike, Iron Will, Power Attack, Staggering Critical, Vital Strike
+Skills Fly +25, Intimidate +35, Knowledge (arcana, geography, planes) +31, Perception +37, Sense Motive +34, Spellcraft +34, Swim +52, Use Magic Device +32
+Languages Aklo; telepathy 300 ft.
+SQ compression, limited starflight, no breath
+SPECIAL ABILITIES
+Immortality (Ex) A star-spawn of Cthulhu does not age, nor does it need to eat or breathe. Only violence can bring about the death of one of these creatures.
+Limited Starflight (Ex) A star-spawn of Cthulhu can survive in the void of outer space, and its wings allow it to use its fly speed in outer space despite the lack of air. Unlike full starflight (like that of the mi-go), a star-spawn of Cthulhu’s ability to fly in outer space does not allow it to reach unusual speeds. When it wishes to fly to another world, the creature relies entirely upon its immortality and patience to complete the journey. When speed is required, it instead uses its gate ability to make the journey quickly.
+Overwhelming Mind (Ex) A star-spawn of Cthulhu’s mind is overwhelming in its power and alien structure. The first time a creature other than an outsider (excluding native outsiders) or aberration makes mental contact with a star-spawn of Cthulhu, it must succeed at a DC 29 Will save or be stunned for 1d4 rounds. On a successful save, the creature is merely staggered for 1 round. This effect can occur whether the star-spawn of Cthulhu initiates mental contact (such as via a demand, dream, nightmare, or sending spell-like ability, or once per round merely by telepathic communication) or another creature attempts to do so (such as via detect thoughts or dominate monster). Once a creature is exposed to a specific star-spawn of Cthulhu’s overwhelming mind, it is immune to this effect from all star-spawn of Cthulhu for 24 hours. This is a mind-affecting effect. The save DC is Charisma-based.

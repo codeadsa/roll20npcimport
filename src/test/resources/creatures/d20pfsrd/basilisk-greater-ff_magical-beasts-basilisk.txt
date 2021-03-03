@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/basilisk/basilisk-greater-ff
+Greater Basilisk CR 7
+XP 3,200
+N Large magical beast
+Init -2; Senses darkvision 60 ft., low-light vision; Perception +14; Aura foul breath (5ft., DC 19)
+DEFENSE
+AC 17, touch 7, flat-footed 18 (-2 Dex, +10 natural, -1 size)
+hp 105 (10d10+50)
+Fort +13, Ref +5, Will +4;
+Immune Poison
+OFFENSE
+Speed 20 ft.
+Melee bite +16 (2d6+7), 2 claws +16 (1d8+3 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks foul breath, petrifying gaze, poison
+TACTICS
+Greater basilisks rear up on their hind legs and slash opponents with their poisonous claws while also using their deadly gaze attack. The breath of a greater basilisk is so foul that all creatures within 5 feet can be affected by it just by entering or remaining in the area.
+STATISTICS
+Str 24, Dex 6, Con 19, Int 2, Wis 13, Cha 11
+Base Atk +10; CMB +18 (+22 sunder); CMD 26 (30 vs sunder, 38 vs trip)
+Feats Great Fortitude, Greater Sunder, Improved Sunder, Power Attack, Toughness
+Skills Perception +14, Stealth -2 (+4*); Racial Modifiers The greater basilisk’s dull coloration and its ability to remain motionless for long periods of time grant it a +4 racial bonus on Stealth checks in natural settings.
+SPECIAL ABILITIES
+Foul Breath (Ex) A greater basilisk’s breath is extremely foul. Any creature in a space directly in front of a greater basilisk must succeed on a DC 19 Fortitude save or take 2d4 points of Constitution damage each round they remain in the area. A creature that successfully saves cannot be affected by the breath of the same greater basilisk for one day. The save DC is Constitution-based.
+Petrifying Gaze (Su) Turn to stone permanently, range 30 feet, Fortitude DC 19 negates. A creature petrified in this manner that is then coated (not just splashed) with fresh greater basilisk blood (taken from a basilisk no more than 1 hour deceased) is instantly restored to flesh.
+A single greater basilisk contains enough blood to coat 1d3+3 Medium creatures in this manner. The save DC is Constitution-based.
+Poison (Ex) A greater basilisk delivers a debilitating poison with a successful claw attack. The save DC is Constitution-based.
+Greater Basilisk Poison
+Type poison, injury Save Fortitude DC 19 Frequency 1/round for 4 rounds Effect 1d3 Con Cure 2 consecutive saves

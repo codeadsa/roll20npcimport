@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/vegepygmys-TOHC/vegepygmy-bodyguard
+Vegepygmy Bodyguard CR 3
+XP 800
+N Small plant (fungus)
+Init +2; Senses low-light vision; Perception +12
+DEFENSE
+AC 16, touch 13, flat-footed 14 (+2 Dex, +3 natural, +1 size)
+hp 37 (5d8+10 plus 5)
+Fort +6, Ref +3, Will +2
+DR 5/bludgeoning or slashing; Immune electricity, plant traits
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +6 (1d3+2) or spear +7 (1d6+3 /x3)
+Ranged spear +7 (1d6+2/x3)
+TACTICS
+Vegepygmies attack with claws or weapons, usually either a longspear or club. They prefer to ambush opponents, using their coloration to blend with their natural surroundings.
+STATISTICS
+Str 15, Dex 14, Con 15, Int 10, Wis 13, Cha 12
+Base Atk +3; CMB +4; CMD 16
+Feats Skill Focus (Perception), Toughness, Weapon Focus (spear)
+Skills Perception +12, Stealth +18 (+26 in forested or swampy areas); Racial Modifiers +4 Stealth (+12 in forested or swampy areas)
+Gear spear

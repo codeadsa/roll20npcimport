@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/amalgamation-fgg
+Amalgamation CR 20
+XP 307,200
+N Gargantuan construct
+Init +9; Senses blindsight 100 ft., darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 25, touch 25, flat-footed 16 (+10 deflection, +9 Dex, –4 size)
+hp 225 (30d10+60)
+Fort +10; Ref +19; Will +15
+DR 10/—; Immune construct traits, magic
+OFFENSE
+Speed 10 ft., fly 50 ft. (perfect)
+Melee varies +33 (damage by weapon)
+Ranged varies +35 (damage by weapon)
+Space 20 ft.; Reach 15 ft.
+Special Attacks multiple attacks, swarm attack (10d6)
+STATISTICS
+Str 24, Dex 28, Con —, Int —, Wis 20, Cha 1
+Base Atk +30; CMB +41; CMD 60
+SQ item use
+SPECIAL ABILITIES
+Item Use (Su) The amalgamation can use any of the items contained within its bulk. When activating magic items, it is considered to be using them as if a person of the required class, with a 20 in any relevant ability scores (or its natural scores, whichever are better.) Furthermore, because of its innate magical nature, the save DC against any effects produced by magic items is 2 greater than normal.
+Finally, it can wield weapons and items as if it were of the appropriate size class for their type, so it suffers no hit penalties for being a Gargantuan construct with such items.
+Unless instructed otherwise, the amalgamation uses items at random from its bulk. However, it does not target them randomly—it uses them with care and precision, as if it had 18 Intelligence. Items with limited uses, such as scrolls and wands, are expended normally.
+Multiple Attacks (Ex) The amalgamation can activate and use up to five items per round. It can therefore attack with weapons, activate magic items, hurl alchemical items like thunderstones, or slam random objects against opponents.
+Swarm Attack (Ex) The amalgamation can move over enemies and damage them with the flying weapons and objects composing its bulk. It does this simply by moving over its victims, who are allowed either a DC 34 Reflex save or an attack of opportunity against the amalgamation, at their option.
+Anyone who begins their turn engulfed by the amalgamation takes 10d6 points of damage per round, with a DC 34 Reflex save allowed for half. This is not considered an area effect for the purposes of evasion and similar abilities. The damage inflicted by the amalgamation overcomes all forms of damage reduction except epic. The save DC for both Reflex saves is Dexterity-based. Further, this damage is considered continuous for the purposes of determining if it disrupts spellcasting, concentration and the like.
+Immunity to Magic (Ex) The amalgamation is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below. Dispel magic and greater dispel magic can be used to deactivate magic items, as per a targeted item dispel. Mage’s disjunction causes it to subside into quiescence for 1d4+1 rounds, during which time it is considered helpless.

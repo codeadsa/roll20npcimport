@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/havero
+Havero CR 24
+XP 1,228,800
+NE Colossal aberration
+Init +5; Senses darkvision 100 ft.; Perception +35
+DEFENSE
+AC 43, touch 3, flat-footed 42 (+1 Dex, +40 natural, -8 size)
+hp 493 (34d8+340); fast healing 25
+Fort +22, Ref +14, Will +30
+Defensive Abilities alien mind; DR 20/—;
+Immune cold, inhaled effects, mind-affecting effects; Resist acid 30, fire 30, electricity 30; SR 35
+Weaknesses light sensitivity
+OFFENSE
+Speed 20 ft., fly 60 ft. (clumsy)
+Melee variable (see below)
+Space 60 ft.; Reach 120 ft.
+Special Attacks appendages
+TACTICS
+Before Combat As most haveros are deep in hibernation upon being encountered, the creatures often take 1d3 rounds to rouse themselves to action.
+During Combat Haveros manufacture appendages as needed to respond to their environment and enemies, generally fighting with two tentacles, two ocular tentacles, two slashing tentacles, two armored tentacles, and an acid spewer.
+Morale Haveros understand the concepts of fear and flight but such ideas do not apply to their existences. Thus, haveros fight until destroyed.
+STATISTICS
+Str 38, Dex 12, Con 28, Int 5, Wis 29, Cha 30
+Base Atk +25; CMB +47 (+49 bull rush, +51 with grasping tentacle); CMD 58 (60 vs. bull rush; cannot be tripped)
+Feats Awesome Blow, Blind-Fight, Bloody Assault, Cleave, Combat Reflexes, Critical Focus, Great Cleave, Great Fortitude, Improved Bull Rush, Improved Initiative, Improved Critical (vorpal tentacle), Improved Lightning Reflexes, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Fly), Skill Focus (Perception), Toughness
+Skills Fly +11, Perception +35
+Languages telepathy
+SQ no breath
+SPECIAL ABILITIES
+Alien Mind (Ex) Anyone who attempts to link minds with a havero (such as via detect thoughts or telepathy) risks the trauma associated with tapping into its raw alien thoughts. Such an act forces the character to make a DC 36 Will save. Those who fail are permanently affected by a feeblemind spell (CL 20th). The save DC is Wisdom-based.
+Light Sensitivity (Ex) Haveros despise sunlight. Even when it lacks an ocular appendage, a havero is dazzled in the presence of natural sunlight or when within the radius of a daylight spell.
+Appendages (Ex) A havero can alter the shape of any of its hundreds of squirming appendages, specializing them into a variety of tentacular tools. A havero has 20 appendage points, which it can spend as a full-round action to create a number of specialized appendages not exceeding this point total. As another full-round action, it can withdraw its tentacles back into itself, dissolving them and regaining the points spent to create them. If one of a havero’s tentacles is destroyed in combat, it immediately regains the points used to create it. For example, a havero could use its 20 points to create 6 slashing tentacles, a grasping tentacle, and an incorporeal tentacle; 4 incorporeal tentacles; 20 reaching tentacles; or any other number of tentacles whose sum total is 20 points. Haveros typically manifest the following tentacles, although some might have the ability to create more more. The point cost of each tentacle is listed after each name.
+Tentacle (1): Grants the following attack—tentacle +31 (2d6+14). Ocular Tentacle (2): Grants +8 bonus on Perception checks per ocular tentacle. Slashing Tentacle (2): Grants the following attack—claw +31 (2d6+14/18–20). Armored Tentacle (3): Increases the havero’s total natural armor bonus by +2 per armored tentacle. Grasping Tentacle (3): Grants the following attack—tentacle +31 (2d6+14); constrict (2d6+14), grab. Reaving Tentacle (3): Grants the following attack—tentacle +31 (2d6+14), rend 4d6+21; requires two reaving tentacles, both of which must hit the same target in the same round in order to rend. Acid-Spewer (4): 30-ft. cone, damage 6d6 acid, Reflex DC 36 half; each additional 4 points spent adds +6d6 acid damage and 10 feet to the cone’s length. The save DC is Wisdom-based. Poison Stinger (4): Grants the following attack—sting +31 (2d6+14 plus poison);
+Havero poison: Sting – injury; save Fort DC 37; frequency 1/round for 6 rounds; effect 1d6 Wisdom drain; cure 3 consecutive saves. The save DC is Constitution-based. Incorporeal Tentacle (5): Grants the following attack—incorporeal touch +31 (2d6 negative energy plus 1d10 Charisma drain, can attack targets through walls and other solid barriers). Vorpal Tentacle (10): Grants the following attack—pincer +31 (4d6+14/19-20/x2; on a successful critical hit, target is beheaded as per the vorpal weapon quality). No Breath (Ex) Havero does not breathe, and as such is immune to inhaled toxins and odor-based effects.
+Telepathic Savant (Su) A havero can transmit vague impressions of its thoughts across limitless distances to any creature it is aware of. A havero does not communicate using language and its thoughts are limited and often unintelligible to mortal minds. A havero contacting a creature using this ability does not subject the target to its alien mind.

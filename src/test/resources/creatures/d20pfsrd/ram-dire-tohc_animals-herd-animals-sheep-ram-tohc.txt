@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/sheep-ram-tohc/ram-dire-tohc
+Dire Ram CR 3
+XP 800
+N Large animal
+Init +6; Senses low-light vision; Perception +14
+DEFENSE
+AC 20, touch 11, flat-footed 18 (+2 Dex, +9 natural, –1 size)
+hp 63 (6d8+30 plus 6)
+Fort +10, Ref +7, Will +4
+Defensive Abilities ferocity
+OFFENSE
+Speed 50 ft.
+Melee gore +8 (1d8+7)
+Space 10 ft.; Reach 5 ft.
+TACTICS
+A dire ram charges its opponents, trying to butt with its horns.
+STATISTICS
+Str 20, Dex 15, Con 20, Int 1, Wis 15, Cha 8
+Base Atk +4; CMB +10; CMD 22 (26 vs. trip)
+Feats Improved Initiative, Skill Focus (Perception), Toughness
+Skills Perception +14
+
+Template Base
+Dire Creature

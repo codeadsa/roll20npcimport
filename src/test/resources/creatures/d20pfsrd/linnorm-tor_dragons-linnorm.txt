@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/linnorm/linnorm-tor
+Tor Linnorm CR 21
+XP 409,600
+CE Colossal dragon
+Init +14; Senses darkvision 60 ft., low-light vision, scent, true seeing; Perception +34
+DEFENSE
+AC 37, touch 12, flat-footed 27 (+10 Dex, +25 natural, -8 size)
+hp 420 (24d12+264); regeneration 20 (cold iron)
+Fort +25, Ref +26, Will +21
+Defensive Abilities freedom of movement; DR 20/cold iron; Immune curse effects, fire, mind-affecting effects, paralysis, poison, sleep; SR 32
+OFFENSE
+Speed 40 ft., climb 40 ft., fly 100 ft. (average), swim 60 ft.
+Melee bite +34 (3d8+18/19-20 plus poison), 4 claws +34 (2d6+18), tail +29 (3d6+9 plus grab)
+Space 30 ft.; Reach 30 ft.
+Special Attacks breath weapon, constrict (tail, 3d6+27), death curse
+STATISTICS
+Str 46, Dex 30, Con 33, Int 7, Wis 25, Cha 28
+Base Atk +24; CMB +50 (+54 grapple); CMD 70 (can’t be tripped)
+Feats Awesome Blow, Blind-Fight, Cleave, Combat Reflexes, Great Cleave, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Power Attack, Vital Strike
+Skills Climb +26, Fly +29, Perception +34, Stealth +21, Swim +53
+Languages Aklo, Draconic, Sylvan
+SQ lava affinity
+SPECIAL ABILITIES
+Breath Weapon (Su) Once every 1d4 rounds as a standard action, a tor linnorm can expel a 60-foot cone of flame and ash, dealing 24d8 points of fire damage to all creatures struck (Reflex DC 33 for half damage). One round after this breath weapon is used, the area affected by the attack becomes covered in a cloud of thick, scorching smoke that burns both the lungs and eyes, dealing an additional 8d8 points of fire damage to all creatures in the area. Each creature that begins its turn in the smoke-covered area and breathes must make a DC 33 (+ 1 per previous check) Fortitude save each round or spend that round choking and coughing. Creatures that keep their eyes open for more than 1 round while in the area of the smoke must make a DC 33 Fortitude save or go blind for 1d3 hours. The smoke dissipates after 2d4 rounds. This duration is halved in strong winds and quartered in more powerful winds. The save DC is Constitution-based.
+Death Curse (Su) Curse of Boiling Blood: save Will DC 31; effect creature gains vulnerability to fire and is permanently staggered from the pain of its boiling blood. The save DC is Charisma-based.
+Lava Affinity (Ex) A tor linnorm can breathe and swim while submerged in lava and magma.
+Poison (Ex) Bite—injury; save Fort DC 33; frequency 1/round for 10 rounds; effect 8d6 fire damage and 1d8 Con drain; cure 3 consecutive saves.

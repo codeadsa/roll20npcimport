@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/saguaroi
+Saguaroi CR 5
+XP 1,600
+N Medium plant
+Init +8; Senses low-light vision; Perception +10
+DEFENSE
+AC 18, touch 14, flat-footed 14 (+4 Dex, +4 natural)
+hp 59 (7d8+28); regeneration 5 (fire)
+Fort +9, Ref +8, Will +4
+Defensive Abilities needle hide; Immune plant traits
+OFFENSE
+Speed 40 ft.
+Melee 2 slams +10 (1d6+5)
+Special Attacks needle cone
+STATISTICS
+Str 20, Dex 18, Con 18, Int 7, Wis 15, Cha 11
+Base Atk +5; CMB +10; CMD 24
+Feats Alertness, Combat Reflexes, Improved Initiative, Lightning Reflexes
+Skills Perception +10, Sense Motive +5, Survival +5
+Languages Sylvan
+SQ freeze, produce water
+SPECIAL ABILITIES
+Needle Cone (Ex) Three times per day, as a standard action a saguaroi can eject a barrage of needles from its body. This effect creates a 15-foot-cone burst of needles that deals 4d6 points of piercing damage to all creatures in the area (Reflex DC 20 for half). The save DC is Constitution-based.
+Needle Hide (Ex) A saguaroi is covered with needles and spines, and its slam attacks deal both bludgeoning and piercing damage. Any creature grappling a saguaroi or attacking it with a natural attack or unarmed strike takes 1d4 points of piercing damage (manufactured weapons with the reach special feature do not endanger the user this way). A creature grappling a saguaroi takes this damage each round of the grapple.
+Produce Water (Ex) As a standard action once per hour, a saguaroi can cut itself (taking 1 point of damage) to produce 1 gallon of water. After producing 4 gallons, it becomes fatigued. After producing 8 gallons, it becomes exhausted and cannot produce more water for 24 hours.

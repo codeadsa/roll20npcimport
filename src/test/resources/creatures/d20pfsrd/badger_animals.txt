@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/badger
+Badger CR 1/2
+XP 200
+N Small animal
+Init +1; Senses low-light vision, scent; Perception +5
+DEFENSE
+AC 13, touch 12, flat-footed 12 (+1 Dex, +1 natural, +1 size)
+hp 9 (1d8+5)
+Fort +4, Ref +3, Will +1
+OFFENSE
+Speed 30 ft., burrow 10 ft.
+Melee bite +1 (1d3), 2 claws +1 (1d2)
+Special Attacks blood rage
+STATISTICS
+Str 10, Dex 13, Con 15, Int 2, Wis 12, Cha 6
+Base Atk +0; CMB –1; CMD 10 (14 vs. trip)
+Feats Toughness
+Skills Escape Artist +5, Perception +5; Racial Modifiers +4 Escape Artist

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/boar/bristle-boar
+Bristle Boar CR 3
+XP 800
+N Medium animal
+Init +0; Senses low-light vision; Perception +6
+DEFENSE
+AC 16, touch 10, flat-footed 16 (+6 natural)
+hp 30 (4d8+12)
+Fort +7, Ref +6, Will +2
+Defensive Abilities ferocity
+OFFENSE
+Speed 40 ft.
+Melee gore +7 (1d8+6 plus spines)
+STATISTICS
+Str 19, Dex 10, Con 17, Int 2, Wis 13, Cha 4
+Base Atk +3; CMB +7; CMD 17
+Feats Lightning Reflexes, Power Attack
+Skills Acrobatics +5, Perception +6
+SPECIAL ABILITIES
+Spines (Ex) Targets of a bristle boar’s successful gore attack must succeed at a DC 16 Reflex saving throw to avoid being speared by the dangerously sharp spines around its head and neck. Failure results in 1d4 points of piercing damage as well as 1 point of bleed damage per round for 3 rounds. Bleed damage from multiple spines doesn’t stack, but the duration is reset by subsequent attacks.
+Magical healing or a successful DC 15 Heal check ends the bleed effect. The save DC is Strength-based.

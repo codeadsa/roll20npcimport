@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/centipede-great-forest
+Centipede, Great Forest
+CR 6
+XP 2,400
+N Gargantuan vermin
+Init +0; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 17, touch 6, flat-footed 17 (+11 natural, -4 size)
+hp 87 (7d8+49+7)
+Fort +12, Ref +4, Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee bite +13 (3d6+18 plus poison)
+Special Attacks poison
+STATISTICS
+Str 34, Dex 11, Con 24, Int —, Wis 10, Cha 2
+Base Atk +5; CMB +21; CMD 31 (can’t be tripped)
+Feats Weapon Focus (bite)B, Skill Focus (Perception), Lightning Reflexes, Toughness
+Skills Climb +20, Perception +7, Stealth -4; Racial Modifiers +4 Perception, +8 Stealth
+SPECIAL ABILITIES
+Poison (Ex)
+Bite—injury; save Fort DC 22; frequency 1/round for 6 rounds; effect 1d3 Dex damage; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-cloud-tohc/cloud-dragon-very-young-TOHC
+very Young Cloud Dragon CR 5
+XP 1,600
+N Medium dragon (air)
+Init +6; Senses cloud vision, dragon senses; Perception +11
+DEFENSE
+AC 19, touch 12, flat-footed 17 (+2 Dex, +7 natural)
+hp 51 (6d12+12)
+Fort +7; Ref +7; Will +7
+Immune electricity, paralysis, sleep, winds
+OFFENSE
+Speed 40 ft., fly 150 ft. (average)
+Melee bite +9 (1d8+4), 2 claws +9 (1d6+3), 2 wings +4 (1d4+1)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (30 ft. cone, DC 15, 4d6 cold plus bull rush [Diminutive or smaller])
+STATISTICS
+Str 17, Dex 14, Con 15, Int 14, Wis 15, Cha 14
+Base Atk +6; CMB +9; CMD 21 (25 vs. trip)
+Feats Flyby Attack, Hover, Improved Initiative
+Skills Bluff +11, Diplomacy +11, Fly +11, Intimidate +11, Knowledge (arcana) +11, Knowledge (nature) +11, Perception +11, Sense Motive +11
+Languages Auran, Aquan, Common, Draconic
+SPECIAL ABILITIES
+Breath Weapon (Su) A cloud dragon’s breath weapon is a powerful cone of icy cold air. When a cloud dragon uses its breath weapon, make a single bull rush attack using the dragon’s CMB against the CMD of any creature that failed its Reflex save and is three or more size categories smaller than the dragon. This bull rush does not provoke attacks of opportunity, and the dragon cannot choose to move with any opponent pushed back. In addition to being pushed back, affected creatures are knocked prone and take 1d4 points of nonlethal damage per 10 feet they are pushed back. Flying creatures are buffeted and pushed back twice the distance and sustain 1d6 points of nonlethal damage per 10 feet they are pushed back.
+Cloud Vision (Ex) A very young cloud dragon can see perfectly in foggy conditions (such as those created by fog cloud or obscuring mist).
+Immunity to Winds (Su) A cloud dragon is immune to the effects of wind. It ignores the penalties applied to the Fly skill incurred by wind speed, and is immune to the negative effects of any spell or effect that manipulates wind, such as gust of wind and whirlwind.

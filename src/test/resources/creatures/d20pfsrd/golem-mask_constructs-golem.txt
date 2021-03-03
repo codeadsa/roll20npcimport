@@ -1,0 +1,40 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-mask
+Mask Golem CR 4
+XP 1,200
+N Medium construct
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 17, touch 13, flat-footed 14 (+3 Dex, +4 natural)
+hp 42 (4d10+20)
+Fort +1, Ref +6, Will +2
+DR 5/bludgeoning; Immune construct traits, magic
+Weaknesses vulnerability to sonic
+OFFENSE
+Speed 40 ft.
+Melee 2 slams +8 (1d8+4)
+Special Attacks masks of control, swarm form
+Spell-Like Abilities (CL 4th)
+Constant—see invisibility
+TACTICS
+During Combat A mask golem attempts to control any powerful melee combatant that moves to threaten it using its mask of obedience ability. Against ranged opponents, it uses its mask of solitude. If these do not work, it relies on its slam attacks instead.
+Morale A mask golem fights to defend the area it has been built to protect, even if this results in its destruction.
+STATISTICS
+Str 18, Dex 17, Con —, Int 7, Wis 12, Cha 13
+Base Atk +4; CMB +8; CMD 21
+Feats Improved Initiative, Lightning Reflexes
+Skills Perception +5
+SPECIAL ABILITIES
+Immunity to Magic (Ex) A mask golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A shatter spell deals 4d6 points of damage (no save). A grease spell prevents the mask golem from using its masks of control ability for the duration of the spell (no save). Masks that are already in place are unaffected. A make whole spell heals the golem as normal and automatically restores one of its masks of control if any have been destroyed. Any magical attack against a mask golem that deals sonic damage affects the mask golem normally. Masks of Control (Su) As a standard action, a mask golem can force one of its masks onto a humanoid opponent’s face. This ability has a range of 30 feet. Attaching a mask in this way requires a successful combat maneuver check and does not provoke an attack of opportunity. Once in place, the mask has one of two effects.
+Obedience: The target must make a DC 13 Will save each round or fall under the mask golem’s control for 1 round. This functions as dominate person. The save DC is Charisma-based.
+Solitude: The target cannot speak, breathe, or hear while the mask is in place.
+The mask can be removed with a successful combat maneuver check against the mask golem‘s CMD. The mask can also be destroyed, but half of any damage dealt is made to the target instead of the mask. The mask has Hardness 5 and 5 hit points. A mask golem has a number of masks equal to its Hit Dice (usually 4). If removed from a victim, the mask returns to the golem immediately and can be used again.
+Destroyed masks are replenished at the rate of 1 per day.
+Swarm Form (Ex) Once per day as a standard action, a mask golem can assume the form of a swarm of masks. While in this form, it gains the swarm subtype, a fly speed of 60 feet (average), a swarm attack that deals 1d6 points of damage, and the distraction quality (DC 12). Anyone who takes damage from the swarm attack can also be attacked with one of the golem‘s masks of control as a free action (assuming the golem has enough masks available). The swarm is made up of Tiny creatures, but does not gain any additional damage reduction. A mask golem can maintain this form for a number of minutes equal to its Hit Dice. Any damage dealt to the swarm is subtracted from the golem‘s hit points, as normal.
+Editor’s Note
+Unlike a standard golem, this golem has an Intelligence score, yet retains the standard golem immunity to mind-affecting effects. GM’s may want to consider removing this immunity to better balance the creature to its given Challenge Rating (or, alternatively, increasing the Challenge Rating by +1 or +2.)
+GM’s should carefully consider the capabilities of this golem before using it, as its abilities are extremely powerful for its listed Challenge Rating.
+Construction A mask golem’s body is made from hundreds of iron masks, as well as a few that are plated in silver and trimmed with gold, worth a total of 2,000 gp. In addition, the crafter must place a sapphire worth 500 gp into the golem’s forehead to complete its creation.
+CL 9th; Price 22,500 gp
+CONSTRUCTION REQUIREMENTS
+Craft Construct, dominate person, see invisibility, telekinesis; Special creator must be caster level 9th; Skill Craft (sculptures) DC 16; Cost 12,500 gp

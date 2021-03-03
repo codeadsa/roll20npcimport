@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/rawbones
+Rawbones CR 8
+XP 4,800
+NE Medium undead
+Init +6; Senses darkvision 60 ft.; Perception +16; Aura nauseating aura (20 ft., DC 19)
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 91 (14d8+28)
+Fort +8, Ref +8, Will +10
+Defensive Abilities channel resistance +2; DR 10/magic or silver; Immune cold, undead traits
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +15 (1d8+4) or entrails lash +14 (1d4+4 plus grab)
+Space 5 ft.; Reach 5 ft. (10 ft. with entrails lash)
+Special Attacks strangulation, vomit gore
+TACTICS
+A rawbones attacks primarily with its powerful fists, but it has other weapons at its disposal. It can vomit forth a horrifying spray of blood and gore or use its entrails as a ranged weapon which it loops around an opponent’s neck in an attempt to strangle it. While battling its foes, it attempts to keep them within range of its nauseating aura.
+STATISTICS
+Str 19, Dex 14, Con –, Int 12, Wis 12, Cha 14
+Base Atk +10; CMB +14 (+18 grapple); CMD 26
+Feats Combat Reflexes, Great Fortitude, Improved Initiative, Improved Natural Attack (slam), Lightning Reflexes, Power Attack, Weapon Focus (slam)
+Skills Acrobatics +13, Climb +18, Escape Artist +14, Intimidate +17, Perception +16, Stealth +17
+Languages Common, Infernal
+SPECIAL ABILITIES
+Nauseating Aura (Su) A rawbones emanates a sickening aura that reeks of death in a 20-foot radius. Any creature that comes within that area must succeed on DC 19 Fortitude save or become nauseated for as long as they remain within the area a 1 minute after leaving the area. A creature that makes a successful save is immune to the nauseating aura of that rawbones for one day. The save DC is Charisma-based.
+Strangulation (Ex) When a rawbones hits an opponent of up to one size larger with its entrails lash, it can then attempt to start a grapple as a free action without provoking attacks of opportunity. If it succeeds on its grapple check, it establishes a hold and deals 1d4 points of strangulation damage per round in addition to normal damage to the grappled opponent each round that the hold is maintained.
+Vomit Gore (Su) Three times per day, a rawbones can spit a blast of blood and gore in a 20-foot cone that deals 7d6 points of damage (DC 19 Reflex save for half). The save DC is Charisma-based.

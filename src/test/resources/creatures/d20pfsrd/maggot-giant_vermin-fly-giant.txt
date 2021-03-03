@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/fly-giant/maggot-giant
+Giant Maggot
+CR 1/2
+
+XP 200
+N Medium vermin
+Init –1; Senses darkvision 60 ft.; Perception –3
+DEFENSE
+AC 9, touch 9, flat-footed 9 (–1 Dex)
+hp 7 (1d8+3)
+Fort +5, Ref –1, Will –3
+Immune disease, mind-affecting effects
+OFFENSE
+Speed 10 ft., burrow 5 ft.
+Melee bite +0 (1d6)
+Special Attacks regurgitate
+STATISTICS
+Str 10, Dex 8, Con 16, Int —, Wis 5, Cha 1
+Base Atk +0; CMB +0; CMD 9 (can’t be tripped)
+SPECIAL ABILITIES
+Regurgitate (Ex)
+Once per day, a giant maggot can empty its putrid stomach upon one creature within 5 feet. The target must make a DC 13 Fortitude save or be sickened for 1 minute (or until the target spends a full-round action with at least a gallon of water to wash off the filth). The save DC is Constitution-based.
+

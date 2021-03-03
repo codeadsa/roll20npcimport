@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/Afanc-smg
+Afanc CR 11
+XP 12,800
+NE Huge magical beast ( aquatic)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +12
+DEFENSES
+AC 16, touch 10, flat-footed 14 (+2 Dex, +6 natural, -2 size)
+hp 157 (15d10+75)
+Fort +14, Ref +11, Will +9
+OFFENSE
+Speed swim 50 ft.
+Melee Bite +21 (5d4+8) and tail slap +16 (3d4+4), or
+Melee (with Power Attack) Bite +17 (5d4+16) and tail slap +12 (3d4+8)
+STATISTICS
+Str 27, Dex 15, Con 21, Int 7, Wis 14, Cha 15
+Base Atk +15; CMB +25 (+29 to sunder); CMD 37 (39 vs. sunder)
+Feats Alertness, Blind-Fight, Greater Sunder, Improved Sunder, Iron Will, Power Attack
+Skills Perception +12, Swim +12; Racial +8 on Swim checks to perform a special action or avoid a hazard
+SPECIAL ABILITIES
+Whirlpool (Su)
+An afanc can cause a whirlpool once every 10 minutes. The center point of the whirlpool must remain within 250 feet of the afanc (otherwise the whirlpool dissipates in 1 round), and the whirlpool lasts for 1 round for every 2 HD the afanc has (normal duration is 7 rounds). The whirlpool is 5 feet wide at its base, 5 feet wide per HD at the surface, and 5 feet deep per 2 HD (normal width is 75 feet and normal depth is 35 feet). As a standard action, the afanc can cause the whirlpool’s center point to move up to 30 feet per round.
+Creatures or objects size Huge or smaller might take damage when caught in the whirlpool and may be pulled down into it. An affected creature must succeed on either a DC 25 Reflex save or a DC 25 Swim check when it comes into contact with the whirlpool or else be pulled into it. An affected creature is allowed a Swim check (DC 25) as a standard action each round to escape the whirlpool. If a Swim check is failed by more than 5, the affected creature is pulled underwater. If an affected creature opts to not take a standard action to fight the whirlpool’s current, that creature is automatically pulled underwater. Normal dangers of drowning apply to any creature pulled underwater.
+Creatures caught in the whirlpool can otherwise act normally, but must make a concentration check (DC 10 + spell level) to cast a spell. Creatures caught in the whirlpool take a -4 penalty to Dexterity and a -2 penalty on attack rolls. The afanc can have only as many creatures trapped inside the whirlpool at one time as will fit inside the whirlpool’s volume. If the whirlpool’s base touches the bottom, it creates a swirling cloud of mud and debris. This cloud is centered on the whirlpool and has a diameter equal to half the whirlpool’s height. The cloud obscures all vision, including darkvision, beyond 5 feet. Creatures 5 feet away have concealment, while those farther away have total concealment. Those caught in the cloud must make a concentration check (DC 15 + spell level) to cast a spell.
+A whirlpool that forms under a boat or ship less than 20 feet long capsizes the vessel 95% of the time. It has a 50% chance to capsize a vessel from 20 to 60 feet long and a 20% chance to capsize one over 60 feet long.
+An afanc isn’t immune to its whirlpool, but it is such a powerful swimmer that the whirlpool poses little threat. Both the save and Swim check DCs are Strength-based.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/immortal-ichor
+Immortal Ichor CR 17
+XP 102,400
+NE Medium ooze (extraplanar)
+Init +7; Senses blindsense 60 ft.; Perception +25
+DEFENSE
+AC 32, touch 32, flat-footed 28 (+3 Dex, +1 dodge, +28 profane)
+hp 270 (20d8+180); regeneration 10 (good spells, good weapons)
+Fort +16, Ref +9, Will +11
+Defensive Abilities amorphous, DR 15/—; Immune acid, bludgeoning damage, electricity, mind-affecting effects, ooze traits, piercing damage; Resist cold 30
+OFFENSE
+Speed 20 ft., fly 20 ft. (average)
+Melee slam +21 (6d6+7 plus 1d3 Wis drain)
+Spell-Like Abilities (CL 17th; concentration +22)
+At will—charm person (DC 18), detect thoughts (DC 17), summon swarm, telekinesis (DC 20)
+3/day—charm monster (DC 19), quickened charm person (DC 18), control undead (DC 22), creeping doom (DC 22), insect plague, mind fog (DC 20), nightmare (DC 20)
+STATISTICS
+Str 20, Dex 17, Con 26, Int 21, Wis 20, Cha 21
+Base Atk +15; CMB +20 (+24 grapple); CMD 34 (can’t be tripped)
+Feats Ability Focus (charm person), Combat Casting, Dodge, Great Fortitude, Hover, Improved Great Fortitude, Improved Initiative, Quicken Spell-Like Ability (charm person), Toughness, Weapon Focus (slam)
+Skills Fly +3, Intimidate +25, Knowledge (arcana, history, planes) +25, Perception +25, Sense Motive +25, Spellcraft +25
+Languages Abyssal, Aklo, Infernal, Undercommon (can’t speak any language); telepathy 100 ft.
+SQ compression, corrupt ally, no breath
+SPECIAL ABILITIES
+Corrupt Ally (Su) Any creature charmed by an immortal ichor takes 1d6 points of Wisdom damage per day. When a charmed creature’s Wisdom damage equals its Wisdom score, it becomes completely subservient to the immortal ichor (as dominate monster, except it even obeys self-destructive orders) and loses the Wisdom damage it has taken from this ability. A subservient ally who is killed rises the next round as a juju zombie under the immortal ichor’s control. If the ichor is killed, these zombies are immediately destroyed.

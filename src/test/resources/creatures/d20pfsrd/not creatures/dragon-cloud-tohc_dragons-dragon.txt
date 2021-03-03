@@ -1,0 +1,40 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-cloud-tohc
+Cloud Dragon (Draco Nimbus Caelo)
+
+N dragon (air)
+BASE STATISTICS CR 3; Size Small; Hit Dice 4d12
+Speed 40 ft., fly 150 ft. (average)
+Natural Armor +4; Breath Weapon cone, 2d6 cold
+Str 13, Dex 16, Con 13, Int 12, Wis 13, Cha 12
+SPECIAL ABILITIES
+Breath Weapon (Su) A cloud dragon’s breath weapon is a powerful cone of icy cold air. When a cloud dragon uses its breath weapon, make a single bull rush attack using the dragon’s CMB against the CMD of any creature that failed its Reflex save and is three or more size categories smaller than the dragon. This bull rush does not provoke attacks of opportunity, and the dragon cannot choose to move with any opponent pushed back. In addition to being pushed back, affected creatures are knocked prone and take 1d4 points of nonlethal damage per 10 feet they are pushed back. Flying creatures are buffeted and pushed back twice the distance and sustain 1d6 points of nonlethal damage per 10 feet they are pushed back.
+Cold Bite (Su) At old age, a cloud dragon’s bite deals an additional 2d6 points of cold damage. An ancient dragon’s damage increases to 4d6, and a great wrym’s to 6d6.
+Cloud Form (Su) As a standard action, a juvenile or older cloud dragon can assume gaseous form at will, but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
+Cloud Vision (Ex) A very young cloud dragon can see perfectly in foggy conditions (such as those created by fog cloud or obscuring mist).
+Immunity to Winds (Su) A cloud dragon is immune to the effects of wind. It ignores the penalties applied to the Fly skill incurred by wind speed, and is immune to the negative effects of any spell or effect that manipulates wind, such as gust of wind and whirlwind.
+Spell-like Abilities A cloud dragon gains the following spell-like abilities, usable at will upon reaching the listed age category.
+Young—create water
+Juvenile—obscuring mist
+Adult—stinking cloud
+Old—call lightning
+Ancient—control winds
+Great Wyrm—control weather
+Whirlwind (Sp) A great wyrm cloud dragon can use this ability three times per day. It works as a whirlwind spell. This ability is the equivalent of an 8th-level spell.
+CR Age Category Special Abilities Caster Level
+3 Wyrmling Immunity to winds —
+5 Very Young Immunity to electricity, cloudvision —
+7 Young create water —
+8 Juvenile Cloud form, obscuring mist 1st
+10 Young Adult DR 5/magic, spell resistance 3rd
+11
+Adult Frightful presence, stinking cloud 5th
+12 Mature Adult DR 10/magic 7th
+14
+Old Call lightning, cold bite 9th
+15 Very Old DR 15/magic 11th
+16 Ancient control winds 14th
+17 Wyrm DR 20/magic 15th
+19 Great Wyrm control weather, whirlwind 17th
+*A cloud dragon can also cast cleric spells and those from the Air, Protection, Water, and Weather domains as arcane spells.
+Subpages
+Cloud Dragon, Adult (3pp) Cloud Dragon, Ancient (3pp) Cloud Dragon, Great Wyrm (3pp) Cloud Dragon, Juvenile (3pp) Cloud Dragon, Mature Adult (3pp) Cloud Dragon, Old (3pp) Cloud Dragon, Very Old (3pp) Cloud Dragon, Very Young (3pp) Cloud Dragon, Wyrm (3pp) Cloud Dragon, Wyrmling (3pp) Cloud Dragon, Young (3pp) Cloud Dragon, Young Adult (3pp)

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/host-lesser-gaav
+Lesser Host Devil (Gaav) CR 3
+XP 800
+LE Small outsider (devil, evil, extraplanar, lawful)
+Initiative +3; Senses darkvision 60 ft., see in darkness; Perception +6
+DEFENSE AC 17, touch 15, flat-footed 13 (+3 Dex, +1 dodge, +2 natural, +1 size)
+hp 30 (4d10+8)
+Fort +6, Ref +7, Will +0
+DR 5/good; Immune fire, poison; Resist acid 10, cold 10
+OFFENSE Speed 5 ft., fly 60 ft. (good)
+Melee mwk spear +7 (1d8+1), 2 claws +6 (1d4+1)
+Special Attacks noxious breath
+Spell-Like Abilities (CL 4th, concentration +3)
+At will— dancing lights, detect magic, greater teleport (self plus 50 lbs. of objects only), mage hand, ventriloquism (DC 10)
+1/day — summon (3rd level, imp 35%)
+STATISTICS
+Str 13, Dex 17, Con 14, Int 7, Wis 9, Cha 8
+Base Atk +4; CMB +4; CMD 18
+Feats Dodge, Hover
+Skills Acrobatics +9, Escape Artist +9, Fly +11, Perception +6, Stealth +13
+Languages Infernal; telepathy 100 ft.
+SQ superior grappler, shared senses, swarming
+SPECIAL ABILITIES
+Superior Grappler (Ex) A gaav can wield a weapon and still make grapple checks. If it’s not wielding a weapon, a gaav gains a +4 bonus on grapple checks. In addition, it takes up to eight gaavs cooperatively to lift a creature that one or more of them is grappling; each gaav can lift up to 50 pounds and still fly without being impeded.
+Noxious Breath (Su) Three times per day, a gaav can exhale a breath that reeks of pure corruption upon a creature within 5 feet. The target must make a DC 14 Fortitude save or be sickened for 1d4 rounds. The save DC is Constitution-based. Creatures that successfully save cannot be affected by the same gaav’s noxious breath for 24 hours. A delay poison or neutralize poison spell removes the effect from the sickened creature. Creatures with immunity to poison are unaffected, and creatures resistant to poison receive their normal bonus on their saving throws. Once a gaav uses its breath weapon, it can’t breathe again until 1d4 rounds later.
+Shared Senses (Su) All gaavs and magaavs within 100 feet of one another share the same senses. Thus, if one individual perceives something (for example, with a successful Perception check), all others within range are immediately aware of it. Senses are instantly relayed from one gaav or magaav to the next, allowing for the senses of a single devil to potentially spread through and inform an entire massive swarm instantly. It is still possible for a gaav to be surprised or flat-footed even if other gaavs nearby are not.
+Swarming (Ex) Up to two gaavs can share the same space at the same time. If two gaavs in the same square attack the same foe, they are considered to be flanking that foe as if they were in two opposite squares.

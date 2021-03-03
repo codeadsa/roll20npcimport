@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/janni/cheitan-janni-tohc
+Cheitan Janni CR 6
+
+XP 2,400
+NE Medium outsider (native)
+Init +8; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 23, touch 13, flat-footed 20 (+6 armor, +2 Dex, +1 dodge, +4 natural)
+hp 45 (6d10+12)
+Fort +4; Ref +9; Will +8
+Resist fire 20
+OFFENSE
+Speed 30 ft., fly 40 ft. (perfect); 20 ft., fly 30 ft. (perfect) in chainmail
+Melee scimitar +12/+7 (1d6+9/18–20) or 2 slams +12 (1d6+6 plus 1d3 fire)
+Ranged composite longbow +10/+5 (1d8+6/x3)
+Special Attacks change size, heat
+Spell–like Abilities (CL 8th unless otherwise noted)
+3/day—detect magic (CL 6th), invisibility (self only), plane shift (willing targets to elemental planes, Astral Plane, or Material Plane), produce flame (CL 6th), speak with animals
+1/day—create food and water, ethereal jaunt (for 1 hour), pyrotechnics (CL 6th; DC 15)
+STATISTICS
+Str 22, Dex 19, Con 14, Int 14, Wis 17, Cha 15
+Base Atk +6; CMB +12; CMD 27
+Feats Combat Reflexes, Dodge, Improved Initiative B, Mobility
+Skills Appraise +11, Craft (weaponsmith) +11, Fly +13, Knowledge (planes) +11, Perception +12, Ride +5, Sense Motive +12, Spellcraft +11, Stealth +8
+Languages Common, Ignan, Infernal; telepathy 100 ft.
+SQ elemental endurance
+SPECIAL ABILITIES
+Change Size (Sp) Twice per day, a janni can magically change a creature’s size. This works just like an enlarge person or reduce person spell (the janni chooses when using the ability), except that the ability can work on the janni. A DC 14 Fortitude save negates the effect. The save DC is Charisma–based. This is the equivalent of a 2nd–level spell. Heat (Ex) A cheitan’s body deals 1d3 points of extra fire damage whenever it hits in melee with a natural attack or in each round it maintains a hold while grappling.
+Elemental Endurance (Ex) Jann can remain on the Planes of Air, Earth, Fire, or Water for up to 48 hours at a time. Failure to return to the Material Plane before that time expires causes a janni to take 1 point of damage per additional hour spent on the elemental plane, until it dies or returns to the Material Plane.
+Editor’s Note
+Base template: Cheitan

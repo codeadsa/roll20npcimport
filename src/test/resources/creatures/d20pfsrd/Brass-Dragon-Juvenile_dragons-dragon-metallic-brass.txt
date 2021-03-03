@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-brass/Brass-Dragon-Juvenile
+Brass Dragon, Juvenile CR 8
+XP 4,800
+CG Medium dragon (fire)
+Init +6; Senses blindsense 60 ft., dragon senses; Perception +19
+
+DEFENSE
+AC 24, touch 12, flatfooted 22 (+2 Dex, +12 natural)
+hp 105 (10d12+40)
+Fort +11, Ref +9, Will +9;
+Immune fire, paralysis, sleep;
+Weaknesses Vulnerability to cold
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 150 ft. (average);
+Melee bite +15 (1d8+7), 2 claws +15 (1d6+5), 2 wings +10 (1d4+2)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (60-ft. line, DC 19, 8d4 fire), desert wind, sleep breath
+Spell-Like Abilities (CL 10th; concentration +12)
+At will—endure elements, speak with animals
+Sorcerer Spells Known (CL 3rd, concentration +5)
+1st (6/day)—charm person (DC 14), comprehend languages, shield
+0 (at will)—arcane mark, dancing lights, detect magic, mage hand, message
+STATISTICS
+Str 21, Dex 14, Con 19, Int 14, Wis 15, Cha 14
+Base Atk +10; CMB +15; CMD 27 (31 vs. trip)
+Feats Alertness, Flyby Attack, Hover, Improved Initiative, Spell Focus (Enchantment)
+Skills Bluff +15, Diplomacy +15, Fly +15, Heal +15, Linguistics +15, Perception +19, Sense Motive +19, Spellcraft +15
+Languages Common, Draconic, and 11 others
+SQ Move Sand
+SPECIAL ABILITIES
+Desert Wind (Su) A juvenile or older brass dragon can call up the desert wind to serve him. This functions as gust of wind, but any creature in its path must make a Fortitude save (DC 19) or be blinded for 1d4 rounds by the sand.
+Move Sand (Su) A young or older brass dragon can move sand to excavate ruins or hide treasures. This functions as move earth, but it only affects sand. The dragon uses his HD in place of his caster level for this effect. This is equivalent to a 5th-level spell.
+Sleep Breath (Su) Instead of a line of fire, a brass dragon can breathe a cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+4 rounds.
+
+

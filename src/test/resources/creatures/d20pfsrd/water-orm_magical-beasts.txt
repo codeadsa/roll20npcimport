@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/water-orm
+Water Orm CR 10
+XP 9,600
+N Huge magical beast (aquatic)
+Init +7; Senses darkvision 120 ft., low-light vision; Perception +11
+DEFENSE
+AC 24, touch 11, flat-footed 21 (+3 Dex, +13 natural, –2 size)
+hp 136 (13d10+65)
+Fort +13, Ref +13, Will +7
+Defensive Abilities elusive; Immune cold; Resist fire 20
+OFFENSE
+Speed 20 ft., swim 50 ft.
+Melee bite +19 (4d6+8/19–20 plus grab), tail slap +14 (2d8+4)
+Space 15 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks swallow whole (3d6+12 bludgeoning damage, AC 16, 13 hp)
+STATISTICS
+Str 26, Dex 16, Con 21, Int 4, Wis 13, Cha 11
+Base Atk +13; CMB +23 (+27 grapple); CMD 36 (40 vs. trip)
+Feats Improved Critical (bite), Improved Initiative, Improved Iron Will, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Stealth)
+Skills Perception +11, Stealth +14, Swim +16; Racial modifiers +4 Perception, +8 Swim
+Languages Aquan (cannot speak)
+SQ water travel
+SPECIAL ABILITIES
+Elusive (Su) Water orms are rarely discovered except by their own choice. As a full-round action while in water, a water orm can move up to its run speed (200 ft.) without leaving any trace of its passage (identical in effect to pass without trace). An elusive water orm gains a +40 circumstance bonus to its Stealth check. In addition, when not in combat, a water orm is considered to be under the effects of a nondetection spell. These effects function at caster level 20th and cannot be dispelled.
+Water Travel (Su) As a full-round action once per day, a water orm can dissolve into water, appearing only as a long, dark, serpentine stretch of water that looks similar to the passage of a school of fish when viewed from above the water. While in this form, the water orm swims at a speed of 600 feet per round (60 mph) and gains a +40 bonus on all Swim checks. It cannot attack or take any action other than swimming in this form, and can remain in this form for up to 8 hours at a time. A water orm can revert to its solid form from this state as a free action. Water orms are unable to pass into or through salt water when using this ability.

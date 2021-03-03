@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/golden-cat-tohc
+Golden Cat CR 1
+XP 400
+N Small magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +6
+DEFENSE
+AC 15, touch 13, flat-footed 13 (+2 Dex, +2 natural, +1 size)
+hp 11 (2d10)
+Fort +3; Ref +5; Will +1
+OFFENSE
+Speed 20 ft., climb 10 ft.
+Melee bite +5 (1d3-1), 2 claws +5 (1d2-1)
+Special Attacks luck/unluck
+STATISTICS
+Str 8, Dex 15, Con 10, Int 2, Wis 12, Cha 6
+Base Atk +2; CMB +0; CMD 12
+Feats Weapon Finesse
+Skills Acrobatics +2 (+10 balancing or jumping), Climb +10, Perception +6, Stealth +10; Racial Modifiers +8 Acrobatics when balancing or jumping, +4 Stealth. The golden cat uses its Dexterity modifier for Climb checks.
+Languages Common (cannot speak); telepathy 100 ft.
+SPECIAL ABILITIES
+Luck/Unluck (Su) When a golden cat selects an “owner” it grants that creature good fortune. Three times per day, so long as the golden cat is within 40 feet, the owner can reroll one die roll and take the most favorable result. Only one die can be rerolled each round. This ability is a power of the cat, not the owner, though the owner can simply telepathically communicate its desire to the cat. A golden cat cannot be forced to activate this ability if it does not wish to do so (unless magically compelled). Each time the golden cat activates this ability and the owner rerolls a die, all other creatures (including the owner’s allies) within 40 feet of the golden cat must reroll one die roll and take the least favorable result each time.

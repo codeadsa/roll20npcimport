@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-copper/copper-dragon-very-young
+Copper Dragon, Very Young CR 6
+XP 2,400
+CG Small dragon (earth)
+Init +6; Senses dragon senses; Perception +12
+DEFENSE
+AC 20, touch 13, flat-footed 18 (+2 Dex, +7 natural, +1 size)
+hp 59 (7d12+14)
+Fort +7, Ref +7, Will +7
+Immune acid, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (average); climb stone
+Melee bite +10 (1d6+3/19–20), 2 claws +10 (1d4+2)
+Special Attacks breath weapon (40-ft. line, DC 15, 4d6 acid), slow breath
+Spell-Like Abilities (CL 7th; concentration +9)
+At will—grease (DC 13)
+STATISTICS
+Str 15, Dex 14, Con 15, Int 14, Wis 15, Cha 14
+Base Atk +7; CMB +8; CMD 20 (24 vs. trip)
+Feats Combat Expertise, Improved Critical (bite), Improved Initiative, Power Attack
+Skills Bluff +12, Craft (traps) +12, Fly +14, Perception +12, Perform (comedy) +9, Sense Motive +12, Stealth +16, Use Magic Device +12
+Languages Common, Draconic, Gnome
+SPECIAL ABILITIES
+Climb Stone (Ex) A copper dragon can climb on stone surfaces as though using the spider climb spell.
+Slow Breath (Su) Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.
+

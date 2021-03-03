@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/helix-moth-larva
+Helix moth, larva CR 6
+XP 2,400
+N Large vermin
+Init +0; Senses blindsense 60ft; Perception +0
+DEFENSE
+AC 18, touch 9, flat-footed 18 (+9 natural, –1 size)
+hp 55 (10d8+10)
+Fort +8; Ref +3; Will +3
+Immune vermin traits
+OFFENSE
+Speed 10 ft.
+Melee bite +9 (1d8+3 plus grab plus 1d6 acid)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 16, Dex 10, Con 12, Int —, Wis 11, Cha 2
+Base Atk +7; CMB +11; CMD 21
+

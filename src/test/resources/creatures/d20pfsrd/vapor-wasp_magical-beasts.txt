@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/vapor-wasp
+Vapor Wasp CR 4
+XP 1,200
+N Large magical beast (augmented vermin, vapor)
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +11
+DEFENSE
+AC 14, touch 10, flat-footed 13 (+1 Dex, +4 natural, -1 size)
+hp 47 (5d10+20); fast healing 2
+Fort +8, Ref +5, Will +2
+Resist fire 5
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee sting +8 (1d8+6 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks death throes (DC 16), poison
+TACTICS
+Vapor wasps are not aggressive creatures and generally avoid combat unless threatened or unless the hive is threatened. Creatures wandering within 100 feet of a vapor wasp hive are harassed but almost always left alone. If attacked, or if the hive itself is threatened, the vapor wasps attack relentlessly, using their poisonous sting to fell their opponents.
+STATISTICS
+Str 18, Dex 12, Con 18, Int 6, Wis 13, Cha 11
+Base Atk +5; CMB +10; CMD 21
+Feats Flyby Attack, Power Attack, Skill Focus (Perception)
+Skills Fly +7, Perception +11
+SQ vaporous form
+SPECIAL ABILITIES
+Poison (Ex) Sting–injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d2 Dexterity damage; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.

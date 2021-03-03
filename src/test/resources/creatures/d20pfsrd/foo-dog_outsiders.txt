@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/foo-dog
+Foo Dog CR 2
+XP 600
+NG Medium outsider (augmented, good, extraplanar)
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 17 (2d10+6)
+Fort +6, Ref +5, Will +3
+Defensive Abilities paired protectors, stony defense 2/day; DR 5/bludgeoning; Immune poison, disease, paralysis, sleep
+OFFENSE
+Speed 30 ft.
+Melee bite +4 (1d6+4 plus trip)
+STATISTICS
+Str 17, Dex 15, Con 17, Int 6, Wis 12, Cha 6
+Base Atk +1; CMB +4; CMD 16 (20 vs. trip)
+Feats Iron WillB, Skill Focus (Perception)
+Skills Acrobatics +6 (+10 when jumping), Perception +8; Racial
+Modifiers Acrobatics (+4 when jumping), +4 Survival when tracking by scent
+Languages Celestial, Common
+SQ freeze
+SPECIAL ABILITIES
+Freeze (Ex) A foo creature can hold itself so still it appears to be a statue. A foo creature that uses freeze can take 10 on its Stealth check to hide in plain sight as a stone statue. A foo creature can maintain this position for as long as it wishes.
+Paired Protectors (Su) When two or more foo creatures are within 30 feet of one another, they both gain the benefit of a protection from evil spell. The caster level of this protection from evil effect is equal to the highest Hit Dice of the affected foo creatures. This effect can be dispelled, but if it is, a foo creature can reactivate it as a swift action.
+Stony Defense (Su) A number of times per day equal to its Hit Dice, a foo creature can harden its skin to unyielding stone as an immediate action. It gains hardness 8 until the end of its next turn, but its speed is reduced by 10 feet for the same duration.

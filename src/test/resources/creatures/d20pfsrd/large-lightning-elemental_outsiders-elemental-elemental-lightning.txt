@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning/large-lightning-elemental
+Large Lightning Elemental
+CR 5
+XP 1,600
+N Large outsider (air, elemental, extraplanar)
+Init +10; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 18, touch 16, flat-footed 11 (+6 Dex, +1 dodge, +2 natural, –1 size)
+hp 60 (8d10+16)
+Fort +8, Ref +12, Will +2
+DR 5/—; Immune electricity, elemental traits
+OFFENSE
+Speed fly 100 ft. (perfect)
+Melee 2 slams +13 (1d8+3 plus 1d6 electricity)
+Space 10 ft.; Reach 10 ft.
+Special Attacks metal mastery, spark leap
+STATISTICS
+Str 16, Dex 23, Con 14, Int 6, Wis 11, Cha 11
+Base Atk +8; CMB +12; CMD 29
+Feats Dodge, Flyby Attack, Improved Initiative, Mobility, Weapon FinesseB
+Skills Acrobatics +17, Escape Artist +17, Fly +12, Knowledge (planes) +9, Perception +11
+Language Auran
+SPECIAL ABILITIES
+Metal Mastery (Ex) A lightning elemental gains a +3 bonus on attack rolls if its opponent is wearing metal armor, is wielding a metal weapon, or is made of metal (such as an iron golem).
+Spark Leap (Ex) A lightning elemental gains a +10 bonus on bull rush, disarm, overrun, and trip attacks when it charges a creature against whom its metal mastery ability applies.

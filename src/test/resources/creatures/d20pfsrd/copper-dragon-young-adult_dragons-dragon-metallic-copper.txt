@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-copper/copper-dragon-young-adult
+Copper Dragon, Young Adult CR 11
+XP 12,800
+CG Large dragon (earth)
+Init +5; Senses dragon senses; Perception +19
+DEFENSE
+AC 26, touch 10, flat-footed 25 (+1 Dex, +16 natural, -1 size)
+hp 136 (13d12+52)
+Fort +12, Ref +9, Will +11
+Defensive Abilities uncanny dodge; DR 5/magic; Immune acid, paralysis, sleep; SR 22
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor); climb stone
+Melee bite +18 (2d6+9/19–20), 2 claws +18 (1d8+6/19–20), tail slap +13 (1d8+9), 2 wings +13 (1d6+3)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (80-ft. line, DC 20, 10d6 acid), slow breath
+Spell-Like Abilities (CL 13th; concentration +16)
+At will—grease (DC 14), hideous laughter (DC 15)
+Sorcerer Spells Known (CL 5th; concentration +8)
+2nd (5/day)—invisibility, phantom trap
+1st (7/day)—alarm, magic missile, shield, silent image (DC 14)
+0 (at will)—detect magic, ghost sound (DC 13), light, message, prestidigitation, read magic
+STATISTICS
+Str 23, Dex 12, Con 19, Int 16, Wis 17, Cha 16
+Base Atk +13; CMB +20 (+24 trip); CMD 31 (37 vs. trip)
+Feats Combat Expertise, Greater Trip, Improved Critical (bite, claw), Improved Initiative, Improved Trip, Power Attack
+Skills Bluff +19, Craft (traps) +24, Diplomacy +19, Fly +11, Perception +19 (+24 vs. traps), Perform (comedy) +16, Sense Motive +19, Stealth +13, Use Magic Device +19
+Languages Common, Draconic, Gnome, Halfling
+SQ trap master
+SPECIAL ABILITIES
+Climb Stone (Ex) A copper dragon can climb on stone surfaces as though using the spider climb spell.
+Slow Breath (Su) Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.
+Trap Master (Ex) A juvenile or older copper dragon receives a +1 bonus per age categroy on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue’s Trapfinding class feature.
+

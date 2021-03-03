@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/beheaded/medusa-head/medusa-head-burning
+Burning Medusa Head
+CR 4
+XP 1,200
+NE Small undead
+Init +1; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 15, touch 12, flat-footed 14 (+1 Dex, +3 natural, +1 size)
+hp 30 (4d8+12)
+Fort +3, Ref +2, Will +4
+Immune undead traits
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee bite +6 (1d4+2 plus burn, petrifying bite)
+Special Attacks burning
+STATISTICS
+Str 14, Dex 12, Con –, Int –, Wis 11, Cha 15
+Base Atk +3; CMB +4; CMD 15 (can’t be tripped)
+Feats Flyby AttackB
+Languages common
+SPECIAL ABILITIES
+Burning (Ex) This beheaded is similar to the flaming skull; however, the fire not only surrounds the skull, but can pass on to those it attacks. The fire that consumes the head can be any color the animator chooses, though blue is one of the most common. A burning skull gains the burn (1d6) special ability when using its slam attack, where the Reflex save DC is 10 + 1/2 the burning skull’s racial HD + the burning skull’s Cha modifier.
+Petrifying Bite (Su) Creatures bitten by a medusa head must make a DC 14 Fortitude save or turn to stone for 1d4 rounds. Targets immune to poison are immune to this effect. The save DC is Charisma-based.

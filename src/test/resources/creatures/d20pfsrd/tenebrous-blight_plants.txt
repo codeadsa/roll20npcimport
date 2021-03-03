@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/tenebrous-blight
+Tenebrous Blight CR 6
+XP 2,400
+N Huge plant
+Init +0; Senses blindsight 60 ft., low-light vision, see in darkness; Perception +2; Aura tenebrous aura (30 ft.)
+DEFENSE
+AC 20, touch 8, flat-footed 20 (+12 natural, –2 size)
+hp 76 (9d8+36); regeneration 5 (acid)
+Fort +10, Ref +3, Will +5
+Immune fire, plant traits
+OFFENSE
+Speed 20 ft.
+Melee 2 tentacles +12 (1d8+8)
+Space 15 ft.; Reach 15 ft.
+Special Attacks psychic trauma spores (DC 18)
+STATISTICS
+Str 26, Dex 10, Con 19, Int —, Wis 15, Cha 1
+Base Atk +6; CMB +16; CMD 26 (can’t be tripped)
+SQ darken flames
+SPECIAL ABILITIES
+Darken Flames (Ex) Any non-magical fire that comes into contact with a tenebrous blight immediately turns into a dark, purplish-black flame that sheds no light. These fires must still consume fuel, and they die out just as normal fires do. These dark flames—often called blight fires—are particularly effective in inducing hypnosis, granting their possessor a +4 circumstance bonus on Diplomacy checks made to hypnotize a creature using the hypnotism occult skill unlock so long as the blight fire is present.
+Many inhabitants of the underworld covet blight fires and go to great lengths to acquire them and keep them burning indefinitely.
+Psychic Trauma Spores (Su) A tenebrous blight’s spores float around it in a shadowy cloud out to a distance of 30 feet. Any creature entering the spore cloud, as well as any creature beginning its turn in the radius of the spore cloud, must succeed at a DC 18 Will saving throw once per round or suffer the following effects, which grow progressively worse with each failed saving throw: on the first failed save, the creature suffers the effects of the paranoia spell for as long as it remains within the spore cloud and for 2d4 rounds after leaving; on the second, the creature permanently loses the ability to see in color; on the third, the creature permanently loses the ability to see at a distance greater than 60 feet; on the fourth, the creature becomes permanently blind. A blind creature suffering from paranoia that fails its save against the spores instead takes 1d4 points of Wisdom damage per failed save. Any effect that cures blindness can also cure any of the sight-altering effects caused by the spores. The save DC is Constitution-based.
+Tenebrous Aura (Ex) The light level around a tenebrous blight is always two steps lower than normal (to a minimum of supernatural darkness like that created by deeper darkness). This is not a darkness effect, and it applies after determining the interactions of all light and darkness effects.

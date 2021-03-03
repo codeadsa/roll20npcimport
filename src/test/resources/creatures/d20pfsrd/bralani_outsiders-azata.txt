@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/bralani
+Bralani CR 6
+XP 2,400
+CG Medium outsider (azata, chaotic, extraplanar, good, shapechanger)
+Init +8; Senses darkvision 60 ft., low-light vision; Perception +15
+DEFENSE
+AC 20, touch 14, flat-footed 16 (+4 Dex, +6 natural)
+hp 66 (7d10+28)
+Fort +9, Ref +9, Will +6
+DR 10/cold iron or evil; Immune electricity, petrification; Resist cold 10, fire 10; SR 17
+OFFENSE
+Speed 40 ft., fly 100 ft. (perfect)
+Melee +1 scimitar +13/+8 (1d6+8/18–20) or slam +12 (1d6+7)
+Ranged +1 composite longbow +12/+7 (1d8+6/×3)
+Special Attacks whirlwind blast
+Spell-Like Abilities (CL 6th)
+At Will—blur, charm person (DC 13), gust of wind (DC 14), mirror image, wind wall
+2/day—lightning bolt (DC 15), cure serious wounds
+STATISTICS
+Str 20, Dex 18, Con 19, Int 13, Wis 14, Cha 15
+Base Atk +7; CMB +12; CMD 26
+Feats Blind-Fight, Improved Initiative, Iron Will, Skill Focus (Perception)
+Skills Bluff +12, Fly +22, Handle Animal +12, Perception +15, Ride +14, Sense Motive +12, Stealth +14
+Languages Celestial, Draconic, Infernal; truespeech
+SQ wind form
+SPECIAL ABILITIES
+Whirlwind Blast (Su) When in wind form, a bralani can attack with a scouring blast of wind, dealing 3d6 points of damage in a 20-foot line (Reflex DC 17 half). The save DC is Constitution-based.
+Wind Form (Su) A bralani can shift between its humanoid body and a body made of wind and mist as a standard action. In humanoid form, it cannot fly or use its whirlwind blast. In wind form, it functions as if under the effects of a wind walk spell. It can make slam attacks and use spell-like abilities in either form. A bralani remains in one form until it chooses to assume its other form. A change in form cannot be dispelled, nor does the bralani revert to any particular form when killed (both shapes are its true form). A true seeing spell reveals both forms simultaneously.

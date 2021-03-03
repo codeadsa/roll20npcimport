@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-cave-kp/dragon-adult-cave-kp
+Adult Cave Dragon
+CR 11
+XP 12,800
+NE Large dragon (earth)
+Init -1; Senses blindsense 180 ft.; Perception +18
+DEFENSE
+AC 30, touch 9, flat-footed 30 (+21 natural, -1 size)
+hp 203 (14d12+112)
+Fort +17, Ref +9, Will +13
+Defensive Abilities darkness aura; DR 5/good;
+Immune acid, paralysis, sleep, sonic; SR 18
+OFFENSE
+Speed 40 ft., burrow 20 ft.; earth glide
+Melee bite +23 (2d8+10), 2 claws +21 (1d8+5), 2 wings +21 (1d6+5), and 1 tail slap +21 (1d8+5)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (40 ft. cone, poison DC 25, 1d6+6 Strength damage; sonic 12d6 sonic), ruff spikes
+Spell-Like Abilities (CL 14th)
+3/day—darkness, deeper darkness
+Spells Prepared (CL 7th, +11 concentration)
+4th—cure critical wounds, death ward, divination
+3rd—cure serious wounds, dispel magic, invisibility purge, speak with dead
+2nd—cure moderate wounds, deathwatch, detect thoughts (DC 16), hold person (DC 16), silence
+1st—comprehend languages, cure light wounds, deathwatch, doom (DC 15), entropic shield, protection from good
+0th—bleed (DC 14), detect magic, mending, read magic
+Domains Evil, Knowledge
+STATISTICS
+Str 30 Dex 8 Con 26 Int 16 Wis 18 Cha 19
+Base Atk +14; CMB +24 (+26 for Bull Rush); CMD 33 (37 vs. trip)
+Feats Awesome Blow, Cleave, Improved Bull Rush, Improved Natural Attack (bite), Lightning Reflexes, Multiattack, Power Attack
+Skills Bluff +18, Climb +18, Diplomacy +18, Intimidate +18, Knowledge (dungeoneering) +19, Knowledge (local) +18, Linguistics +15, Perception +18, Sense Motive +12, Stealth +20, Survival +17; Racial Modifiers +4 Climb, +4 Stealth
+Languages Draconic, Undercommon

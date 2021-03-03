@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/korred-TOHC
+Korred CR 4
+XP 1,200
+CN Small fey
+Init +2; Senses low-light vision; Perception +11
+DEFENSE
+AC 16, touch 14, flat-footed 13 (+2 Dex, +1 dodge, +2 natural, +1 size)
+hp 27 (6d8+6)
+Fort +3, Ref +7, Will +7
+DR 10/cold iron; SR 15
+OFFENSE
+Speed 30 ft.
+Melee slam +8 (1d2+4) or shears +8 (1d4+4) or club +8 (1d4+4)
+Ranged rock +7 (1d4+4)
+Special Attacks animate hair, laugh, rock throwing (20 ft.)
+Spell-like Abilities (CL 8th):
+At will—animate objects (rock only), shatter (rock only) (DC 13), stone door (functions as tree stride, but maximum distance moved is 30 feet), stone shape, stone tell, transmute rock to mud (DC 16)
+STATISTICS
+Str 19, Dex 15, Con 12, Int 12, Wis 14, Cha 13
+Base Atk +3; CMB +6; CMD 19
+Feats Dodge, Mobility, Point-Blank Shot
+Skills Bluff +10, Intimidate +7, Knowledge (local) +10, Knowledge (nature) +10, Perception +11, Perform (dance) +10, Stealth +15
+Languages Common, Korred, Sylvan
+Gear club, korred shears, pouch
+SPECIAL ABILITIES
+Animate Hair (Su) A korred can weave its hair (contained in its pouch) into animated ropes that can entangle foes. The time it takes to weave enough hair to entangle one foe is dependent on the size of the creature as follows:
+Size Time
+Up to Tiny 1 round
+Small or Medium 2 rounds
+Large 3 rounds
+A korred cannot entangle an opponent of greater than Large size. This ability otherwise is similar to the animate rope spell (caster level 15th)
+Laugh (Su) Three times per day, a korred can unleash a laugh that stuns all creatures that hear it within 60 feet for 1d2 rounds. A DC 14 Will save negates the effects. A bard‘s countersong ability allows a stunned creature a new Will save to break free. Whether the save is successful or not, a creature is immune to the laugh of the same korred for one day. The save DC is Constitution-based.

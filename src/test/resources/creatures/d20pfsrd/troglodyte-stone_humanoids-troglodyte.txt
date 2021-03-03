@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/troglodyte/troglodyte-stone
+Stone Troglodyte CR 2
+XP 600
+CE Medium monstrous humanoid (earth, reptillian)
+Init -1; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 17, touch 9, flat-footed 17 (-1 Dex, +8 natural)
+hp 25 (3d10+9)
+Fort +6, Ref +2, Will +4
+Immune poison
+Weaknesses light sensitivity
+OFFENSE
+Speed 20 ft. burrow 20 ft.
+Melee bite +5 (1d6+1), 2 claws +4 (1d4+1)
+Special Attacks rock spew (20-ft. cone, DC 14, 2d6 slashing)
+Spell-Like Abilities (CL 5th; concentration +5)
+1/day—stone shape
+STATISTICS
+Str 12, Dex 9, Con 16, Int 9, Wis 12, Cha 10
+Base Atk +3; CMB +4; CMD 13
+Feats Great Fortitude, Weapon Focus (bite)
+Skills Climb +6, Perception +6, Stealth +4 (+8 in rocky areas); Racial Modifier +4 to Stealth in rocky areas
+Languages Undercommon
+SPECIAL ABILITIES
+Rock Spew (Ex) Three times per day a stone troglodyte can spit a burst of sharp, rocky splinters in a 20-foot cone. Creatures caught in the area take 2d6 points of slashing damage, or half damage on a DC 14 Reflex save. The save DC is Constitution-based.
+
+

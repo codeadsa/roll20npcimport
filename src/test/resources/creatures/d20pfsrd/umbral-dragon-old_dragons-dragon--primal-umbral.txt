@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-umbral/umbral-dragon-old
+Umbral Dragon, Old
+CR 17
+XP 102,400
+CE Gargantuan dragon (extraplanar)
+Init +3; Senses dragon senses; Perception +30; Aura frightful presence (240 ft., DC 26)
+DEFENSE
+AC 32, touch 5, flat-footed 32 (-1 Dex, +27 natural, -4 size)
+hp 262 (21d12+126)
+Fort +18, Ref +11, Will +18
+DR 10/magic; Immune cold, death effects, negative energy, paralysis, sleep; SR 28
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +27 (4d6+15/19–20), 2 claws +27 (2d8+10), tail slap +25 (2d8+15) and 2 wings +25 (2d6+5)
+Special Attacks breath weapon (50-ft. cone, 16d8 negative energy, DC 26), crush (4d6+15, DC 26), shadow breath (8 Str), tail sweep (2d6+15, DC 26)
+Spell-Like Abilities (CL 21st; concentration +27)
+At will—darkness, project image (DC 23), shadow walk, vampiric touch
+Spells Known (CL 11th; concentration +17)
+5th (5/day)—slay living, unhallow (DC 21)
+4th (7/day)—enervation, inflict critical wounds (DC 20), unholy blight (DC 20)
+3rd (7/day)—dispel magic, haste, inflict serious wounds (DC 19), lightning bolt (DC 19)
+2nd (8/day)—alter self, blur, command undead (DC 18), invisibility, web (DC 18)
+1st (8/day)—grease (DC 17), inflict light wounds (DC 17), magic missile, reduce person (DC 17), shield
+0 (at will)—acid splash, bleed (DC 16), detect magic, detect poison, disrupt undead (DC 16), ghost sound, mage hand, ray of frost, read magic
+STATISTICS
+Str 31, Dex 8, Con 23, Int 22, Wis 23, Cha 22
+Base Atk +21; CMB +35; CMD 44 (48 vs trip)
+Feats Bleeding Critical, Critical Focus, Hover, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Multiattack, Power Attack, Skill Focus (Stealth), Snatch, Vital Strike
+Skills Appraise +30, Bluff +30, Diplomacy +30, Fly +9, Knowledge (arcana, local, planes, religion) +30, Perception +30, Sense Motive +30, Spellcraft +30, Stealth +17
+Languages Abyssal, Common, Draconic, Undercommon, 3 more
+SQ ghost bane, umbral scion
+SPECIAL ABILITIES
+Breath Weapon (Su) Although it deals negative energy damage, an umbral dragon’s breath weapon does not heal undead creatures.
+Ghost Bane (Su) A young or older umbral dragon’s physical attacks deal damage to incorporeal creatures normally.
+Shadow Breath (Su) Three times per day, an adult or older umbral dragon can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the dragon. A successful save negates the blindness and reduces Str drain to 1d4 points.
+Umbral Scion (Ex) Umbral dragons have negative energy affinity and are immune to energy drain and death effects.
+
+

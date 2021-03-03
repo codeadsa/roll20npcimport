@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/burning-dervish
+Burning Dervish CR 7
+XP 3,200
+LE Medium outsider (extraplanar, fire)
+Init +3; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 17, touch 14, flat-footed 13 (+3 Dex, +1 dodge, +3 natural)
+hp 58 (9d10+9)
+Fort +7; Ref +6; Will +8
+Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft., fly 20 ft. (perfect)
+Melee +1 falchion +14/+9 (2d4+7/18-20), or 2 slams +13 (1d6+4 plus 1d6 fire plus burn) (flame form only)
+Special Attacks burn (1d6, DC 15)
+Spell-like Abilities (CL 14th)
+3/day—invisibility (self only), pyrotechnics (DC 14)
+1/day—enlarge person or reduce person (DC 13), plane shift (Elemental, Astral, or Material Planes), produce flame
+STATISTICS
+Str 18, Dex 16, Con 13, Int 13, Wis 15, Cha 15
+Base Atk +9; CMB +13; CMD 27
+Feats Combat Expertise, Dodge, Mobility, Spring Attack, Whirlwind Attack
+Skills Bluff +13, Escape Artist +13, Knowledge (planes) +13, Perception +14, Search +9, Sense Motive +13, Stealth +14, Survival +14; Racial Modifiers Survival +2 when tracking
+Languages Common, Ignan, Infernal
+SQ elemental endurance, plane shift
+Gear +1 falchion
+SPECIAL ABILITIES
+Elemental Endurance (Ex) Burning dervishes can survive on the Elemental Planes of Air or Earth for up to 48 hours and on the Elemental Planes of Water for up to 12 hours. Failure to return to the Elemental Planes of Fire or Plane of Molten Skies after that time deals 1 point of damage per hour to a burning dervish until it dies or returns to the Elemental Planes of Fire.
+Flame Form (Su) Three times per day, as a standard action, a burning dervish can change its form to that of a column of fire. In this form it gains two slam attacks. The transformation lasts indefinitely; changing back requires another standard action.

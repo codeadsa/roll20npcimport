@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/gug/gug-savant
+Gug Savant CR 11
+XP 12,800
+CE Large aberration
+Init +1; Senses darkvision 60 ft.; Perception +27
+DEFENSE
+AC 24, touch 10, flat-footed 23 (+1 Dex, +14 natural, –1 size)
+hp 127 (15d8+60)
+Fort +9, Ref +6, Will +12
+Immune disease, poison
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +17 (1d8+7), 4 claws +17 (1d6+7)
+Space 10 ft.; Reach 15 ft.
+Special Attacks rend (2 claws, 1d6+10)
+Spell-Like Abilities (CL 10th; concentration +14)
+1/day—invisibility, spike stones (DC 18), transmute rock to mud (DC 19), unholy blight (DC 18)
+STATISTICS
+Str 25, Dex 12, Con 18, Int 11, Wis 16, Cha 18
+Base Atk +11; CMB +19; CMD 30
+Feats Awesome Blow, Blind-Fight, Combat Reflexes, Greater Bull Rush, Improved Bull Rush, Lunge, Power Attack, Skill Focus (Perception)
+Skills Climb +15, Escape Artist +13, Knowledge (dungeoneering) +13, Perception +27, Stealth +15, Survival +21; Racial Modifiers +8 Climb, +4 Escape Artist
+Languages Undercommon
+SQ compression

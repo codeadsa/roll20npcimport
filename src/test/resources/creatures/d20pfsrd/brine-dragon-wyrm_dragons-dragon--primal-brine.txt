@@ -1,0 +1,40 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-brine/brine-dragon-wyrm
+Brine Dragon, Wyrm CR 17
+XP 102,400
+LN Huge dragon (water)
+Init +2; Senses dragon senses; Perception +32; Aura frightful presence (330 ft., DC 27)
+DEFENSE
+AC 39, touch 6, flat-footed 39 (-2 Dex, +33 natural, -2 size)
+hp 300 (24d12+144)
+Fort +20, Ref +14, Will +19
+DR 20/magic; Immune acid, paralysis, sleep; SR 28
+OFFENSE
+Speed 60 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +37 (2d8+22 plus 1d2 Str), 2 claws +37 (2d6+15), tail slap +35 (2d6+22), 2 wings +35 (1d8+7)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (100-ft. line, 22d6 acid, DC 28), capsize, crush (2d8+22, DC 28), desiccating bite
+Spell-like Abilities (CL 24th; concentration +29)
+At will—control water, obscuring mist, speak with animals (fish only), water breathing
+3/day—horrid wilting (DC 23)
+Spells Known (CL 17th; concentration +22)
+8th (4/day)—seamantle, screen
+7th (6/day)—control weather, mass fly*, plane shift
+6th (6/day)—fluid form*, true seeing, transformation
+5th (7/day)—break enchantment, dismissal, teleport, wall of force
+4th (7/day)—ball lightning* (DC 19), ice storm, greater invisibility, solid fog
+3rd (7/day)—aqueous orb* (DC 18), deep slumber (DC 18), dispel magic, sleet storm (DC 18)
+2nd (7/day)—alter self, detect thoughts, invisibility, make whole, slipstream*
+1st (8/day)—color spray (DC 16), feather fall, flare burst* (DC 16), ray of enfeeblement, touch of the sea*
+0 (at will)—arcane mark, detect magic, detect poison, mage hand, message, open/close, prestidigitation, read magic, resistance
+* – denotes spell from Advanced Player’s Guide. STATISTICS
+Str 40, Dex 7, Con 23, Int 23, Wis 20, Cha 21
+Base Atk +24; CMB +41; CMD 49 (53 vs. trip)
+Feats Awesome Blow, Greater Vital Strike, Hover, Improved Bull Rush, Improved Initiative, Improved Vital Strike, Lightning Reflexes, Multiattack, Power Attack, Skill Focus (Swim), Vital Strike, Wingover
+Skills Bluff +32, Diplomacy +32, Fly +17, Heal +32, Knowledge (arcana, geography, nature) +33, Perception +32, Sense Motive +32, Survival +32, Swim +56, Use Magic Device +32; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic, Dwarven, Elven, Gnome, Halfling
+SQ water breathing
+SPECIAL ABILITIES
+Capsize (Ex) An old or older brine dragon can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain’s Profession (sailor) check, whichever is higher. For each size category larger the ship is than the brine dragon’s size, the dragon takes a cumulative –10 penalty on the check.
+Desiccating Bite (Su) An Ancient brine dragon’s bite causes weakness, dealing 1d2 points of Strength drain in addition to its normal damage. A great wyrm’s bite deals 1d4 points of Strength drain. A Fortitude save (DC equals the Dragon’s breath weapon save DC) negates the Strength drain.
+
+

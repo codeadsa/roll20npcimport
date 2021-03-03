@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/centipede-hissing
+Centipede, Hissing
+CR 1
+XP 400
+N Large vermin
+Init +1; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 14, touch 10, flat-footed 13 (+1 Dex, +4 natural, -1 size)
+hp 15 (2d8+6)
+Fort +6, Ref +1, Will +0
+Immune mind-affecting effects
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee bite +4 (1d8+4 plus poison)
+Special Attacks poison
+STATISTICS
+Str 17, Dex 13, Con 16, Int —, Wis 10, Cha 2
+Base Atk +1; CMB +5; CMD 16 (can’t be tripped)
+Feats Weapon Focus (bite)B
+Skills Climb +11, Perception +4, Stealth +5; Racial Modifiers +4 Perception, +8 Stealth
+SPECIAL ABILITIES
+Poison (EX)
+Bite—injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d3 Dex damage; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.

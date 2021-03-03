@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/hamadryad
+Hamadryad CR 15
+XP 51,200
+CG Medium fey
+Init +6; Senses low-light vision; Perception +31
+DEFENSE
+AC 29, touch 17, flat-footed 22 (+6 Dex, +1 dodge, +12 natural)
+hp 190 (20d6+120); fast healing 5
+Fort +12, Ref +18, Will +18
+DR 10/cold iron; Resist acid 30, cold 30, electricity 30
+OFFENSE
+Speed 30 ft.
+Melee mwk dagger +16/+11 (1d4+5/19–20)
+Ranged +2 speed composite longbow +18/+18/+13 (1d8+7/×3)
+Spell-Like Abilities (CL 20th; concentration +26)
+Constant—speak with animals, speak with plants
+At will—entangle (DC 17), hold animal (DC 18), rusting grasp, tree shape, wood shape (10 lbs. only)
+5/day—charm monster (DC 20), charm person (DC 17), confusion (DC 19), deep slumber (DC 19), neutralize poison, sending (dryads only), suggestion (DC 19), tree stride
+1/day—call lightning storm (DC 21), changestaff, greater heroism, heal, liveoak, summon nature’s ally VIII
+STATISTICS
+Str 12, Dex 23, Con 23, Int 18, Wis 19, Cha 22
+Base Atk +10; CMB +11; CMD 28
+Feats Alertness, Combat Casting, Dodge, Great Fortitude, Improved Iron Will, Iron Will, Mounted Combat, Stealthy, Toughness, Weapon Finesse
+Skills Bluff +29, Climb +14, Craft (wood) +12, Diplomacy +29, Escape Artist +19, Handle Animal +16, Heal +9, Intimidate +16, Knowledge (geography) +17, Knowledge (nature) +27, Knowledge (nobility) +9, Perception +31, Perform (any one) +19, Ride +16, Sense Motive +19, Spellcraft +14, Stealth +19, Survival +14; Racial Modifiers +8 Craft (wood)
+Languages Common, Elven, Sylvan; speak with animals, speak with plants, tongues
+SQ druid magic, tree meld, wild empathy, woodcraft
+SPECIAL ABILITIES
+Druid Magic (Su) A hamadryad can use any magic item as if she were a 20th-level druid.
+Tree Meld (Su) A hamadryad can meld with any tree (similar to meld into stone) and can remain melded with a tree as long as she wishes.
+Woodcraft (Ex) A hamadryad has a +8 racial bonus on Craft checks involving wood, and is always treated as if she had masterwork artisan’s woodworking tools when attempting such checks.

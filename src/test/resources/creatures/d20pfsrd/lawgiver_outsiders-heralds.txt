@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/lawgiver
+Lawgiver CR 15
+XP 51,200
+LN Gargantuan construct (extraplanar, herald, lawful)
+Init +1; Senses all-around vision, darkvision 60 ft., low-light vision, see in darkness; Perception +29
+DEFENSE
+AC 34, touch 7, flat-footed 33 (+1 Dex, +27 natural, –4 size)
+hp 177 (18d10+78)
+Fort +8, Ref +7, Will +13
+DR 15/chaotic; Immune acid, construct traits, critical hits, electricity, rust; Resist cold 10, fire 10; SR 26
+OFFENSE
+Speed 40 ft., fly 60 ft. (perfect)
+Melee +1 axiomatic warhammer +24/+19/+14/+9 (4d6+10/×3) or 2 slams +23 (2d6+9)
+Space 20 ft.; Reach 20 ft.
+Spell-Like Abilities (CL 18th; concentration +25)
+3/day—cure serious wounds, neutralize poison, remove blindness/deafness, remove curse, remove disease, remove paralysis
+TACTICS
+Before Combat Lawgiver is a cautious opponent and, if given time, takes several moments to judge the battlefield before entering combat. In most cases, it prefers to let battle come to it, using its freeze ability to appear as nothing more than a giant statue, then coming to devastating life once his lord’s enemies surround it.
+During Combat Lawgiver pounds a single opponent until dead before moving onto another enemy. If possible, it pursues its foes, using its wings to mete out judgment wherever the foes of law might flee.
+Morale Lawgiver fights until its master commands it to retreat or it is destroyed. Even if killed, though, the herald reappears at his lord’s side 1 day later.
+STATISTICS
+Str 28, Dex 12, Con —, Int 14, Wis 24, Cha 20
+Base Atk +18; CMB +31 (+33 bull rush or overrun); CMD 42 (44 vs. bull rush or overrun)
+Feats Alertness, Awesome Blow, Cleave, Great Fortitude, Improved Bull Rush, Improved Great Fortitude, Improved Overrun, Power Attack, Toughness
+Skills Appraise +11, Fly +3, Knowledge (engineering, local, religion) +11, Perception +29, Sense Motive +29
+Languages Celestial, Common, Draconic, Infernal
+SQ change shape (giant eagle or two-headed golden eagle [same stats as an eagle, but with two bite attacks]; beast shape IV), freeze (metal statue)
+SPECIAL ABILITIES
+All Around Vision (Su) Lawgiver is aware of everything around it at all times, providing it with a +4 racial bonus on Perception checks. The Herald cannot be flanked.
+Freeze (Ex) Lawgiver can hold itself so still it appears to be a gigantic, golden statue. An observer must succeed on a DC 25 Perception check to notice the Herald is really alive.
+Golden Body (Ex) Lawgiver is a creature of living gold and blessed steel, granting it immunity to acid, electricity, critical hits, and rusting effects (such as the rusting grasp spell or a rust monster’s rust attack).
+Herald of Law (Su) Lawgiver can be summoned by clerics of a deity of law using the spell gate or greater planar ally, despite any restrictions of those spells.
+Wings of Law (Su) As a free action, Lawgiver can manifest a pair of gigantic golden wings. These wings grant the herald a flight speed of 60 feet with perfect maneuverability. The Herald can dismiss its wings at will. Alternatively, as a standard action, the Herald can take the form a two-headed golden eagle, one of his lord’s many symbols. The Herald retains its normal hit points and bonus to Perception in this form, but otherwise has the same statistics and abilities of an eagle.

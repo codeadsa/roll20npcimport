@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/hellgrammite-giant
+Giant Hellgrammite CR 5
+XP 1,600
+N Large vermin (aquatic)
+Init +0; Senses darkvision 60 ft., Perception +5
+DEFENSE
+AC 16, touch 9, flat-footed 16 (+7 natural, –1 size)
+hp 52 (7d8+21)
+Fort +8, Ref +2, Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., swim 20 ft.
+Melee bite +8 (2d8+4 plus grab), tail slap +3 (1d8+2)
+Space 10 ft.; Reach 10 ft.
+Special Attacks death grip, constrict (2d8+4)
+TACTICS
+The giant hellgrammite is a simple but ferocious predator. It latches onto its prey with its deadly jaws and proceeds to crush the life from it, feeding on the body after its victim can no longer struggle. The hellgrammite often attempts to drag the prey back to a protected area between or behind stream boulders, or down to the bottom of a deep side-pool. The strength of a hellgrammite’s jaws is so great that, even in death, they clench tightly and do not relinquish their grip.
+STATISTICS
+Str 19, Dex 11, Con 16, Int —, Wis 9, Cha 2
+Base Atk +5; CMB +10 (+14 grapple); CMD 20 (28 vs. trip)
+Skills* Climb +8, Perception +5 (+9 in water), Stealth +1 (+9 in water), Swim +7; Racial Modifiers +4 Perception (+8 in water), +8 Stealth in water
+SQ amphibious
+SPECIAL ABILITIES
+Death Grip (Ex) Upon its death, a hellgrammite’s massive jaws close tightly and lock. Any creature or object that is grappled at the time of the hellgrammite’s death takes an additional 1d8+2 points of damage per round unless it makes a DC 22 Escape Artist check, makes a DC 20 Strength check, or deals an additional 10 points of damage to the hellgrammite’s corpse to escape.
+A non-giant Hellgrammite (Dobsonfly Larva)
+Source Wikipedia Editor’s Note
+Skills line seem to contain errors (Skills are off as creature is mindless). Corrected lines appear below: Skills Climb +4, Perception +3 (+7 in water), Stealth -4 (+4 in water), Swim +12

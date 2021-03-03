@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sloth-viper-tohc
+Sloth Viper CR 3
+XP 800
+N Large magical beast
+Init +7; Senses darkvision 60 ft. low-light vision; Perception +9
+DEFENSE
+AC 17, touch 13, flat-footed 13 (+4 Dex, +4 natural, -1 size)
+hp 27 (5d10)
+Fort +4, Ref +8, Will +2
+OFFENSE
+Speed 30 ft., climb 30 ft., swim 30
+Melee bite +8 (1d4+1 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks quickness
+TACTICS
+Sloth vipers are ambush hunters and wait patiently among the limbs and branches of trees for potential prey to pass underneath it. When unsuspecting prey is in range, the viper either drops on it from above, or snaps down quickly with its vicious bite, recoiling back into the trees afterwards.
+STATISTICS
+Str 13, Dex 19, Con 11, Int 2, Wis 12, Cha 2
+Base Atk +5; CMB +7; CMD 21 (can’t be tripped)
+Feats Improved Initiative, Skill Focus (Perception), Weapon Finesse
+Skills Acrobatics +16, Climb +13, Perception +9, Stealth +8, Swim +15; Racial Modifiers +8 Acrobatics, +4 Perception, +4 Stealth
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save DC 14; frequency 1 round/6 rounds; effect slowed for 1 minute as the slow spell (CL 7th); cure 2 consecutive saves. The save DC is Constitution-based and includes a +2 racial bonus.
+Quickness (Ex) A sloth viper is inherently quick and can take an extra standard action or move action during its turn each round.

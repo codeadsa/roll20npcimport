@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/dakon
+Dakon CR 2
+XP 600
+LN Large monstrous humanoid
+Init +2; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+2 Dex, +4 natural, –1 size)
+hp 15 (2d10+4)
+Fort +2, Ref +5, Will +4
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee 2 claws +6 (1d6+5)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 21, Dex 15, Con 14, Int 10, Wis 12, Cha 10
+Base Atk +2; CMB +8; CMD 20
+Feats Alertness
+Skills Climb +18, Perception +8, Sense Motive +5, Stealth +3
+Languages Common
+Dakon Characters
+Dakons have racial Hit Dice and can have class levels. Dakon characters
+possess the following racial traits.
++10 Strength, +4 Dexterity, +4 Constitution, +2 Wisdom: Dakons are powerful but possessed of wisdom. Large size: Dakons are Large and have the following adjustments –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on Stealth checks, +1 bonus on CMB/CMD, lifting and carrying limits double those of Medium characters. Space/Reach: 10 ft./10 ft. Base speed: Dakons’ base speed is 30 feet. A dakon has a climb speed of 30 feet. Darkvision: Dakons can see in the dark up to 60 feet. Racial Hit Dice: A dakon begins with two levels of monstrous humanoid, which provide 2d10 HD, a base attack bonus of +2, and base saves of Fort +0, Ref +3, and Will +3.
+Racial Skills: A dakon’s monstrous humanoid levels give it skill points equal to 2 x (4 + Int modifier, minimum 1). Dakons have a +8 racial bonus on Climb checks. Racial Feats: A dakon’s monstrous humanoid levels give it one feat. AC: Dakons have a +4 natural armor bonus Natural Weapons: Dakons can fight with 2 claws (1d6).
+Languages: Dakons begin play speaking Common. Dakons with high
+Intelligence scores can choose from the following bonus languages:
+Dwarven, Gnome, Goblin, Orc.

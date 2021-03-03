@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/rot-grub/parasite-rot-grub-giant
+Giant Rot Grub CR 3
+XP 800
+N Small vermin
+Init +1; Senses blindsense 30 ft.; Perception +0
+DEFENSE
+AC 15, touch 12, flat-footed 14 (+1 Dex, +3 natural, +1 size)
+hp 34 (4d8+16)
+Fort +8, Ref +2, Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft.
+Melee bite +6 (1d6+3 plus poison and grab)
+Special Attacks gnaw, grab (Medium)
+STATISTICS
+Str 14, Dex 12, Con 18, Int —, Wis 10, Cha 1
+Base Atk +3; CMB +4 (+8 grapple); CMD 15
+SPECIAL ABILITIES
+Gnaw (Ex) A rot grub that is grappling a foe and chooses to damage the foe with an additional grapple check deals twice its normal bite damage (2d6+6 for most giant rot grubs), in addition to injecting an additional dose of poison with each successful check.
+Poison (Ex) Bite—injury; save Fort DC 16; frequency 1/round for 5 rounds; effect 1d3 Str; cure 1 save.

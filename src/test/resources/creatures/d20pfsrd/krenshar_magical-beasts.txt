@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/krenshar
+Krenshar CR 1
+XP 400
+N Medium magical beast
+Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception +5
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 13 (2d10+2)
+Fort +4, Ref +5, Will +1
+OFFENSE
+Speed 40 ft.
+Melee bite +2 (1d6), 2 claws +2 (1d4)
+Special Attacks skullface
+STATISTICS
+Str 11, Dex 14, Con 13, Int 6, Wis 12, Cha 13
+Base Atk +2; CMB +2; CMD 14 (18 vs. trip)
+Feats Improved Initiative
+Skills Intimidate +1 (+5 to demoralize), Perception +5, Stealth +10; Racial Modifiers +4 Intimidate to demoralize, +4 Stealth
+Languages Sylvan (can’t speak)
+SPECIAL ABILITIES
+Skullface (Su)
+As a standard action, a krenshar can pull the skin back from its face, revealing the musculature and bony structures of its skull. This counts as using Intimidate to demoralize an opponent, and is an extraordinary ability. The krenshar can emit a loud screech while peeling back its skin, causing potent fear in a single creature within 100 feet that can see the krenshar. The targeted creature must make a DC 12 Will save or become frightened (if the target has 6 or fewer Hit Dice) or shaken (if the target has more than 6 Hit Dice) for 1d4 rounds. A creature that successfully saves cannot be affected again by the same krenshar’s skullface ability for 24 hours. This is a sonic, mind-affecting fear effect. The save DC is Charisma-based.

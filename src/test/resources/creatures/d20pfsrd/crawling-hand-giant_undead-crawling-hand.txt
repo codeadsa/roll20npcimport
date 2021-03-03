@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/crawling-hand/crawling-hand-giant
+Crawling Hand, Giant CR 5
+XP 1,600
+NE Medium undead
+Init +2; Senses blindsense 30 ft., darkvision 60 ft.; Perception +7
+DEFENSE
+AC 19, touch 13, flat-footed 16 (+2 Dex, +1 dodge, +6 natural)
+hp 52 (7d8+21)
+Fort +4, Ref +6, Will +6
+Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee claw +11 (1d6+7 plus grab)
+Special Attacks mark quarry, pus burst
+STATISTICS
+Str 21, Dex 15, Con –, Int 2, Wis 13, Cha 14
+Base Atk +5; CMB +10 (+14 grapple); CMD 23
+Feats Dodge, Lightning Reflexes, Toughness, Weapon Focus (claw)
+Skills Acrobatics +3, Perception +7, Stealth +12; Racial Modifiers +4 Stealth
+Languages Common (can’t speak)
+SPECIAL ABILITIES
+Mark Quarry (Su) A crawling hand is assigned a quarry by anointing the hand with a drop of the intended quarry’s blood. If the hand has no current quarry, it automatically gains the next creature it damages as its quarry. Once attuned to a target, it becomes aware of the target’s location as if under the effect of a continuous locate creature spell. The hand gains a +1 bonus on all attack rolls, damage rolls, and skill checks made to seek out and destroy the marked quarry. The mark quarry ability lasts until the quarry or the hand is slain.
+Pus Burst (Su) When damaged by a piercing or slashing melee weapon, a spray of vile pus strikes the attacker unless the attacker makes a DC 15 Reflex save. Weapons that provide reach protect the attacker completely from a pus burst. Creatures struck by pus become nauseated for 1d3 rounds and take 2d6 points of negative energy damage. The save DC is Charisma-based.

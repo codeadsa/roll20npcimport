@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/swarm-locust
+Locust Swarm CR 2
+XP 600
+N Fine vermin (swarm)
+Init +2; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 20, touch 20, flat-footed 18 (+2 Dex, +8 size)
+hp 18 (4d8)
+Fort +4, Ref +3, Will +1
+Defensive Abilities swarm traits; Immune mind-affecting effects
+OFFENSE
+Speed 10 ft., climb 10 ft., fly 30 ft. (average)
+Melee swarm (1d6)
+Space 10 ft.; Reach 0 ft.
+Special Attacks devour, distraction (DC 12), voracious (see giant locust)
+STATISTICS
+Str 1, Dex 15, Con 10, Int —, Wis 11, Cha 2
+Base Atk +3; CMB —; CMD —
+Skills Climb +3, Fly +10
+SPECIAL ABILITIES
+Devour (Ex) A locust swarm causes damage to unattended objects in its space each round as though they were creatures. It even damages inedible objects.

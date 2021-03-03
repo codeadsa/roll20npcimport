@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/frog/frog-poisonous
+Frog, Poisonous CR 1/2
+XP 200
+N Tiny animal
+Init +1; Senses low-light vision; Perception +3
+DEFENSE
+AC 13, touch 13, flat-footed 12 (+1 Dex, +2 size)
+hp 4 (1d8)
+Fort +2, Ref +3, Will –1
+OFFENSE
+Speed 10 ft., swim 20 ft.
+Melee bite +3 (1 plus poison)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 2, Dex 12, Con 11, Int 1, Wis 9, Cha 10
+Base Atk +0; CMB –1; CMD 5 (9 vs. trip)
+Feats Weapon Finesse
+Skills Acrobatics +5 (+1 jumping), Perception +3, Stealth +13, Swim + 9; Racial Modifiers +4 Acrobatics (+8 jumping), +4 Stealth; uses Dex to swim
+SPECIAL ABILITIES
+Poison (Ex) Injury; save Fort DC 10; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 1 save
+Frog, Poisonous (Giant) CR 1
+XP 400
+N Small animal
+Init +0; Senses low-light vision; Perception +3
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+3 natural armor, +1 size)
+hp 6 (1d8+2)
+Fort +4, Ref +2, Will –1
+OFFENSE
+Speed 20 ft., swim 20 ft.
+Melee bite +2 (1d2-1 plus poison)
+STATISTICS
+Str 6, Dex 10, Con 15, Int 1, Wis 9, Cha 10
+Base Atk +1; CMB –1; CMD 7 (11 vs. trip)
+Feats Weapon Finesse
+Skills Acrobatics +4 (+0 jumping), Perception +3, Stealth +12, Swim +8; Racial Modifiers +4 Acrobatics (+8 jumping), +4 Stealth; uses Dex to swim
+SPECIAL ABILITIES
+Poison (Ex) Injury; save Fort DC 12; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 1 save

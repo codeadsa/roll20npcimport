@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/axiomite
+Axiomite CR 8
+XP 4,800
+LN Medium outsider (extraplanar, lawful)
+Init +8; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 21, touch 15, flat-footed 16 (+4 Dex, +1 dodge, +6 natural)
+hp 85 (10d10+30); regeneration 5 (chaotic or magic)
+Fort +6, Ref +11, Will +14
+DR 10/chaotic; Immune disease, electricity, mind-affecting effects; Resist cold 10, fire 10; SR 19
+OFFENSE
+Speed 30 ft., fly 30 ft. (good)
+Melee +1 longsword +16/+11 (1d8+8/19-20)
+Spell-Like Abilities (CL 9th; concentration +14)
+3/day—dispel chaos, haste, hold monster (DC 20), lightning bolt (DC 18), empowered order’s wrath (DC 19), telekinesis (DC 20), true strike
+1/day–summon inevitable (level 6, 1 zelekhut, see below), true seeing
+STATISTICS
+Str 21, Dex 19, Con 16, Int 21, Wis 20, Cha 20
+Base Atk +10; CMB +15; CMD 30
+Feats Dodge, Empower Spell-Like Ability (order’s wrath), Improved Initiative, Iron Will, Mobility
+Skills Craft (any one) +18, Diplomacy +18, Fly +8, Knowledge (any three) +15, Knowledge (planes) +18, Perception +18, Sense Motive +18, Spellcraft +18, Stealth +17, Survival +18
+Languages Abyssal, Celestial, Common, Draconic, Infernal
+SQ crystalline dust form
+SPECIAL ABILITIES
+Crystalline Dust Form (Su) An axiomite can shift between its solid body and one made of golden, crystalline dust as a free action once per round. In dust form, the axiomite looks like a shifting mass of glowing mathematical symbols and equations. In this form it can fly and gains the incorporeal quality; it can use spelllike abilities but cannot make physical attacks. In its solid form, an axiomite cannot fly. Both shapes are the axiomite’s true form, and it does not revert to a different form if killed. A true seeing spell reveals both forms simultaneously.
+Summon Inevitable (Sp) Once per day, four axiomites may join hands to summon a single zelekhut inevitable as a full-round action.

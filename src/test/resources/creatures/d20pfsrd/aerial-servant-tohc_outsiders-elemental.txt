@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/aerial-servant-tohc
+Aerial servant CR 11
+XP 12,800
+N Medium outsider (air, elemental, extraplanar)
+Init +10; Senses darkvision 60 ft.; Perception +19
+DEFENSE
+AC 24, touch 16, flat-footed 18 (+6 Dex, +8 natural)
+hp 138 (12d10+72)
+Fort +10; Ref +14; Will +10
+Defensive Abilities natural invisibility;
+DR 10/magic; Immune elemental traits
+OFFENSE
+Speed 60 ft., fly 60 ft. (perfect)
+Melee 2 slams +19 (2d8+6 plus grab)
+Special Attacks constrict (2d8+6), wind blast
+TACTICS
+Aerial servants attack by using a shearing blast of wind as a weapon or by grabbing an opponent and crushing it within their powerful grasp. Aerial servants can only be killed on their native plane. If slain elsewhere, they simply dissolve into wisps of vapor and return to their home plane.
+STATISTICS
+Str 23, Dex 22, Con 23, Int 4, Wis 10, Cha 11
+Feats Alertness, Combat Reflexes, Improved Initiative, Iron Will, Power Attack, Weapon Focus (slam)
+Skills Fly +20, Knowledge (planes) +5, Perception +19, Stealth +20, Survival +12; Racial Modifiers +4 Survival
+Languages Auran, Common
+SQ improved tracking, link with caster
+SPECIAL ABILITIES
+Improved Tracking (Ex) An aerial servant takes no penalty to Survival checks when tracking and moving at any speed.
+Link with Caster (Ex) When summoned, an aerial servant creates a mental link between itself and the caster who summoned it. Should the aerial servant fail the mission it has been assigned, it returns to the caster and attacks him. The aerial servant can find the caster as long as they both are on the same plane of existence. If the caster leaves the plane, the link is temporarily broken. Once the caster returns or the aerial servant enters the plane the caster is on, the link is immediately reestablished and the aerial servant moves at full speed toward the caster’s current location. Only when the aerial servant or caster is destroyed, is the link permanently broken.
+Natural Invisibility (Su) This ability is constant, allowing an aerial servant to remain invisible even when attacking. This ability is inherent and is not subject to the invisibility purge spell. Against foes that cannot pinpoint it, the aerial servant gains a +20 bonus on Stealth checks when moving, or +40 when standing still—these bonuses are not included in the statistics above. This ability does not function when an aerial servant is on the Astral Plane or Ethereal Plane, but instead grants the creature concealment (20% miss chance).
+Wind Blast (Su) Once every 1d4 rounds, as a standard action, an aerial servant can release a blast of wind in an 80-foot line. A creature struck takes 4d8 points of damage and those up to the aerial servant’s size or smaller are knocked down and back 2d10 feet. An affected creature can attempt a DC 22 Reflex save to reduce the damage by half and avoid being knocked down. The save DC is Constitution-based.

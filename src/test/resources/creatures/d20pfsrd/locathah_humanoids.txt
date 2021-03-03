@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/locathah
+Locathah CR 1/2
+XP 200
+N Medium humanoid (aquatic)
+Init +1; Senses low-light vision; Perception +3
+DEFENSE
+AC 13, touch 11, flat-footed 12 (+1 Dex, +2 natural)
+hp 9 (2d8)
+Fort +3, Ref +1, Will +1
+OFFENSE
+Speed 10 ft., swim 60 ft.
+Melee longspear +2 (1d8/×3)
+Ranged light crossbow +2 (1d8/19–20)
+STATISTICS
+Str 10, Dex 12, Con 10, Int 13, Wis 13, Cha 11
+Base Atk +1; CMB +1; CMD 12
+Feats Weapon Focus (longspear)
+Skills Craft (any one) +6, Perception +3, Survival +6, Swim +8; Racial Modifiers +8 Swim
+Languages Aquan
+SQ amphibious

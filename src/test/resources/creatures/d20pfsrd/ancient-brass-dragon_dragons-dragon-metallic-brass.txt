@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-brass/ancient-brass-dragon
+Ancient Brass Dragon CR 16
+XP 76,800
+CG Huge dragon (fire)
+Init +4; Senses dragon senses; Perception +34; Aura fire (10 ft., 1d6 fire), frightful presence (300 ft., DC 26)
+DEFENSE
+AC 38, touch 8, flat-footed 38; (+30 natural, -2 size)
+hp 297 (22d12+154)
+Fort +20, Ref +13, Will +18
+DR 15/magic; Immune fire, paralysis, sleep; SR 27
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 200 ft. (poor)
+Melee bite +31 (2d8+16), 2 claws +31 (2d6+11), 2 wings +29 (1d8+5), tail slap +29 (2d6+16)
+Special Attacks breath weapon (100-ft. line, DC 28, 20d4 fire), crush, desert wind, sandstorm, sleep breath
+Spell-Like Abilities (CL 22th)
+At will—control weather, control winds, endure elements, speak with animals, suggestion (DC 18)
+Spells Known (CL 15th)
+7th (4/day)— greater teleport, power word blind
+6th (6/day)—forceful hand, geas, greater dispel magic
+5th (7/day)—contact other plane, dominate person (DC 22), mirage arcana, prying eyes
+4th (7/day)—charm monster (DC 21), confusion (DC 21), dimensional anchor, locate creature
+3rd (7/day)—displacement, heroism, hold person (DC 20), tongues
+2nd (7/day)—alter self, detect thoughts (DC 17), locate object, resist energy, see invisibility
+1st (8/day)—alarm, charm person (DC 18), protection from evil, shield, ventriloquism
+0 (at will)—arcane mark, dancing lights, dispel magic, detect poison, ghost sound (DC 15), mage hand, message, prestidigitation, read magic
+STATISTICS
+Str 33, Dex 10, Con 25, Int 20, Wis 21, Cha 20
+Base Atk +22; CMB +35; CMD 45 (49 vs. trip)
+Feats Alertness, Flyby Attack, Greater Spell Focus (enchant), Hover, Improved Initiative, Improved Vital Strike, Multiattack, Power Attack,Quicken Spell, Spell Focus (enchant), Vital Strike
+Skills Bluff +30, Diplomacy +30, Fly +17, Heal +30, Knowledge (local) +30, Knowledge (history) +30, Linguistics +30, Perception +34, Sense Motive +34, Spellcraft +30, Survival +30
+Languages Common, Draconic, plus any 22 others

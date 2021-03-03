@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/garmunchi
+Garmunchi CR 6
+XP 2,400
+CN Large monstrous humanoid
+Init +5; Senses low-light vision; Perception +4
+DEFENSE
+AC 21, touch 13, flat-footed 17 (+4 armor, +4 Dex, +4 natural, -1 size)
+hp 52 (8d10+8)
+Fort +2, Ref +11, Will +6
+OFFENSE
+Speed 40 ft. (30 ft in armor)
+Melee large mwk greatclub +12/+7 (2d8+6)
+Ranged large mwk shortspear +13/+8 (1d8+4)
+Space 10 ft.; Reach 10 ft. (15 ft. with Lunge)
+Special Attacks roar (20 ft. cone, 4d4 sonic damage, Reflex DC 17)
+STATISTICS
+Str 19 Dex 21, Con 10, Int 5, Wis 10, Cha 17
+Base Atk +8; CMB +13 (17 bull rush); CMD 28 (30 vs bull rush, trip)
+Feats Greater Bull Rush, Improved Bull Rush, LungeB, Power Attack, Toughness
+Skills Survival +11; Racial Modifiers +4 Perception
+Languages Giant
+SQ nimbleness
+SPECIAL ABILITIES
+Lunge (Ex) Garmunchi receive the Lunge feat as a bonus racial feat.
+Nimbleness (Ex) The long, thin limbs of the garmunchi hide significant strength and grace. Garmunchi ignore terrain penalties when taking a single move, and may run up to 6 times their normal speed with a run action. Garmunchi also gain a +2 racial bonus to their CMD when being tripped.
+Roar (Su) As a standard action, a garmunchi can let out a great and terrifying roar that can break the will of the hardiest adversaries. The roar is a 20 ft. cone of attack that deals 4d4 sonic damage (Reflex save DC 17 for half damage). All those that take damage from the roar attack must succeed a DC 17 Will save or be shaken. A garmunchi can do this 3 times per day. The save DCs are Charisma-based.

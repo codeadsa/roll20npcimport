@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/gibbering-abomination-fgg
+Gibbering Abomination CR 13
+XP 25,600
+CE Large aberration
+Init +7; Senses all-around vision, darkvision 60 ft., tremorsense 60 ft.; Perception +18
+DEFENSE
+AC 22, touch 12, flat-footed 19 (+3 Dex, +10 natural, –1 size)
+hp 162 (13d8+91 plus 13); fast healing 3
+Fort +13; Ref +8; Will +8
+Defensive Abilities amorphous; DR 10/bludgeoning; Immune critical hits, nausea, pain, precision damage, sickening; Resist electricity 10, sonic 10
+OFFENSE
+Speed 10 ft., climb 10 ft.
+Melee 6 bites +13 (1d8+4 plus grab /19–20)
+Space 10 ft.; Reach 5 ft.
+Special Attacks arcane frenzy, blood drain, disruptive cacophony
+Spell-like Abilities (CL 13th; ranged touch +12)
+At will—blur, confusion (single target only, DC 18), daze monster (no HD limit, DC 16), dispel magic, enfeeblement (as ray but no ranged attack required, DC 15), fear (single target only DC 18), freedom of movement, freezing ray (as scorching ray but cold damage) overland flight, telekinesis (325 pounds max, DC 19)
+STATISTICS
+Str 18, Dex 16, Con 25, Int 10, Wis 6, Cha 19
+Base Atk +9; CMB +14 (+18 to grapple); CMD 27 (can’t be tripped)
+Feats Combat Reflexes, EnduranceB, Great Fortitude, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Toughness, Weapon Focus (bite)
+Skills Climb +12, Fly +9, Knowledge (dungeoneering) +9, Perception +18, Spellcraft +12, Stealth +15, Survival +10; Racial Modifiers +4 Perception
+Languages Aklo
+SQ deathless
+SPECIAL ABILITIES
+All-around Vision (Ex) A gibbering abomination sees in all directions at once. It cannot be flanked.
+Amorphous (Ex) A gibbering abomination’s body is malleable and shapeless. It is immune to precision damage (like sneak attacks) and critical hits, and can move through an area as small as one-quarter its space without squeezing or one-eighth its space when squeezing.
+Arcane Frenzy (Ex) A gibbering abomination is capable of using its spell-like abilities more frequently than other creatures. It may use a single spell-like ability each round as a swift action, two spell-like abilities as a standard action, or four spell-like abilities as a full-round action; it may not choose to do more than one of these in the same round, and cannot use this ability in the same round it uses Disruptive Cacophony. When engaging in an arcane frenzy, the gibbering abomination may use the same spell-like ability multiple times, but may not use the same spell-like ability against the same target twice in one round. If more than one spell-like ability is used, the specific spell-like abilities and their targets must be determined before any effects are determined, including saves and attack rolls.
+Blood Drain (Ex) On a successful grapple check after grabbing, several of the creature’s mouths attach to its target. Each round it maintains its grapple, the gibbering abomination automatically deals 3d6+12 points of bite damage and 1 point of Constitution damage as it drains its victim’s blood.
+Deathless (Su) When a gibbering abomination is slain, it is not truly dead, and 1 hour later it returns to life at 0 hit points, allowing fast healing thereafter to resume healing it. A gibbering abomination can be permanently destroyed only with death magic or complete incineration of its remains (such as dumping it into a pool of magma).
+Disruptive Cacophony (Su) As a free action the gibbering abomination may produce a horrible quasi-arcane chanting that is highly disruptive to nearby magic effects.
+Any creature that can clearly hear this chanting (maximum range 100 ft.) must make a concentration check (DC 20 plus level of spell) to successfully cast a spell or use a spell-like ability. The check DC is Charisma-based. A gibbering abomination that uses this ability may not use any of its spell-like abilities on its current turn, or until the start of its next turn.
+Pain Immunity (Ex) Because the gibbering abomination is already in incredible pain, it is immune to any effect or condition caused as a result of extreme pain or agony. This ability does not protect it against any physical damage it might suffer as well, however.

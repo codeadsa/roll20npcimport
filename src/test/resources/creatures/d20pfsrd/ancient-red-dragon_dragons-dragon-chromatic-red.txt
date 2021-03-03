@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-red/ancient-red-dragon
+Ancient Red Dragon CR 19
+XP 204,800
+CE Gargantuan dragon (fire)
+Init +3; Senses dragon senses, smoke vision; Perception +33
+Aura fire (10 ft., 2d6 fire), frightful presence (300 ft., DC 27)
+DEFENSE
+AC 38, touch 5, flat-footed 38 (-1 Dex, +33 natural, -4 size)
+hp 362 (25d12+200)
+Fort +22, Ref +13, Will +21
+DR 15/magic; Immune fire, paralysis, sleep; SR 30
+Weaknesses Vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy)
+Melee bite +35 (4d6+21/19-20), 2 claws +35 (2d8+14), 2 wings +33 (2d6+7), tail slap +33 (2d8+21)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (60-ft. cone, DC 30, 20d10 fire), crush (Medium Creatures, DC 30, 4d6+21), manipulate flames, melt stone, tail sweep (Small Creatures, DC 30, 2d6+21)
+Spell-Like Abilities (CL 25th, concentration +30)
+At will—detect magic, find the path, pyrotechnics (DC 17), suggestion (DC 18), wall of fire
+Spells Known (CL 15th, concentration +20)
+7th (4/day)—limited wish, spell turning
+6th (6/day)—antimagic field, contingency, greater dispel magic
+5th (7/day)—polymorph, telekinesis (DC 20), teleport, wall of force
+4th (7/day)—fear (DC 19), fire shield, greater invisibility, stoneskin
+3rd (7/day)—dispel magic, displacement, haste, tongues
+2nd (7/day)—alter self, detect thoughts (DC 17), misdirection (DC 17), resist energy, see invisibility
+1st (8/day)—alarm, grease (DC 16), magic missile, shield, true strike
+0 (at will)—arcane mark, bleed, light, mage hand, mending, message, open/close, prestidigitation, read magic
+STATISTICS
+Str 39, Dex 8, Con 27, Int 20, Wis 21, Cha 20
+Base Atk +25; CMB +43; CMD 52 (56 vs. trip)
+Feats Cleave, Critical Focus, Greater Vital Strike, Improved Critical (bite), Improved Initiative, Improved Iron Will, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Quicken Spell, Staggering Critical, Vital Strike
+Skills Appraise +33, Bluff +33, Diplomacy +33, Fly +11, Intimidate +33, Knowledge (arcana) +33, Knowledge (history) +33, Perception +33, Sense Motive +33, Spellcraft +33, Stealth +15
+Languages Abyssal, Common, Draconic, Dwarven, Giant, Orc
+SPECIAL ABILITIES
+Fire Aura (Su) An ancient red dragon is surrounded by an aura of intense heat. All creatures within 10 feet take 2d6 points of fire damage at the beginning of the dragon’s turn.
+Manipulate Flames (Su) An ancient red dragon can control any fire spell within 100 feet as a standard action. This ability allows it to move any fire effect in the area, as if it were the caster. This ability also allows it to reposition a stationary fire effect, although the new placement must be one allowed by the spell. Finally, for 1 round following the use of this ability, the dragon can control any new fire spell cast within its area of control, as if it were the caster. It can make all decisions allowed to the caster, including canceling the spell if it so desires.
+Melt Stone (Su) An ancient red dragon can use its breath weapon to melt rock at a range of 100 feet, affecting a 50-foot-radius area. The area becomes lava to a depth of 1 foot. Any creature in contact with the lava takes 20d6 points of fire damage on the first round, 10d6 on the second, and none thereafter as the lava hardens and cools. If used on a wall or ceiling, treat this ability as an avalanche that deals fire damage.
+Smoke Vision (Ex) An ancient red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).

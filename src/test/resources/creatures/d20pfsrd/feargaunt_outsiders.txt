@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/feargaunt
+Feargaunt CR 9
+XP 6,400
+CE Large outsider (extraplanar, incorporeal)
+Init +9; Senses darkvision 60 ft.; Perception +18; Aura nightmare (60 ft., DC 20)
+DEFENSE
+AC 23, touch 23, flat-footed 17 (+7 deflection, +5 Dex, +1 dodge, –1 size)
+hp 102 (12d10+36)
+Fort +7, Ref +13, Will +11
+Defensive Abilities incorporeal
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee tormenting touch +16 (6d6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks tormenting touch
+Spell-Like Abilities (CL 12th; concentration +16)
+At will—fear (DC 17), ghost sound (DC 14)
+3/day—confusion (DC 17), nightmare (DC 19), phantasmal killer (DC 18)
+STATISTICS
+Str —, Dex 21, Con 17, Int 12, Wis 16, Cha 19
+Base Atk +12; CMB +18; CMD 37
+Feats Blind-Fight, Dodge, Flyby Attack, Improved Initiative, Lunge, Skill Focus (Stealth)
+Skills Bluff +19, Fly +26, Intimidate +19, Knowledge (planes) +16, Perception +18, Sense Motive +18, Stealth +22
+Languages Common (can’t speak); telepathy 100 ft.
+SQ never far behind, prideful defense
+SPECIAL ABILITIES
+Never Far Behind (Su) A number of times per day equal to its Charisma modifier, a feargaunt can teleport to a square adjacent to a creature that is still shaken from the feargaunt’s nightmare aura or damaged by its tormenting touch. This ability functions as greater teleport. This ability functions only if the feargaunt and the creature are both in the Dimension of Dreams.
+Nightmare Aura (Su) A feargaunt is cloaked in a 60-foot-radius aura of fear, which manifests as darkened shadows, subtle rot, and skewed perspective. The first time a creature ends its turn within the aura, it must succeed at a DC 20 Will save or be shaken for as long as it stays within the aura and for 1d4 rounds thereafter.
+Creatures within the aura suffering from any fear effect automatically fail Charisma checks to attempt impossible feats in a dreamscape. The feargaunt can suppress or reactivate this aura as a swift action. If the creature succeeds at the saving throw, it cannot be affected again by the aura for another 24 hours. This is a mind-affecting fear effect.
+The DC is Charisma-based.
+Prideful Defense (Su) A feargaunt gains a deflection bonus to its Armor Class equal to its Wisdom modifier, in addition to the deflection bonus an incorporeal creature normally receives based on its Charisma modifier.
+Tormenting Touch (Su) A feargaunt’s touch is an incorporeal touch attack that deals 6d6 points of damage and bypasses damage reduction. A creature that is suffering from a fear effect and is struck by the feargaunt’s tormenting touch also takes 1d2 points of Charisma bleed damage. This bleed damage can be stopped as normal, but also stops when the subject is no longer suffering from a fear effect.

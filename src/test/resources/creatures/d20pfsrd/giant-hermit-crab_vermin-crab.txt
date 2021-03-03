@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/giant-hermit-crab
+Crab, Hermit (Giant)
+CR 5
+XP 1,600
+Advanced giant crab
+N Large vermin ( aquatic)
+Init +0; Senses darkvision 60 ft.; Perception +4
+
+DEFENSE
+AC 16, touch 9, flat-footed 16 (+7 natural, -1 size)
+hp 59 (7d8+28)
+Fort +9, Ref +2, Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., Swim 20 ft.
+Melee 2 claws +11 (1d6+7 plus Grab)
+Special Attacks Constrict (1d6+7)
+STATISTICS
+Str 24, Dex 11, Con 18, Int —, Wis 10, Cha 2
+Base Atk +5; CMB +11 (+15 grapple); CMD 21 (33 vs. trip)
+Skills Perception +4, Swim +15
+SQ water dependency

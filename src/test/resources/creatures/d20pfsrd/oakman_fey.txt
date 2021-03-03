@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/oakman
+Oakman CR 3
+XP 800
+CN Small fey
+Init +1; Senses low-light vision; Perception +8
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural, +1 size)
+hp 16 (3d6+6)
+Fort +3, Ref +4, Will +5
+DR 5/cold iron
+Weaknesses tree dependent
+OFFENSE
+Speed 20 ft., climb 30 ft.
+Melee +1 club +5 (1d8+2)
+Special Attacks shillelagh
+STATISTICS
+Str 12, Dex 13, Con 14, Int 11, Wis 15, Cha 14
+Base Atk +1; CMB +1; CMD 12
+Feats Skill Focus (Craft (herbalism)), Weapon Focus (club)
+Skills Climb +15, Craft (herbalism) +9, Knowledge (nature) +6, Perception +8, Stealth +11, Survival +8
+Languages Common, Sylvan
+SQ moss, tree stride
+SPECIAL ABILITIES
+Shillelagh (Su) Any oaken club or staff wielded by an oakman automatically gains the benefits of the shillelagh spell (caster level 5th). The oakman does not have to cast this spell to get the benefit; its effects are automatic as long as the club or staff is in the oakman’s hands. (This benefit is already included in the statistics block above.) In anyone else’s hands, the oaken club or staff functions as a normal weapon of whatever type it is.
+Moss (Ex) Using his unique knowledge of plants and herbal mixtures, an oakman can concoct unusual cakes from tree moss. A typical oakman has 1d6 moss cakes of random type on his person. These moss cakes have a variety of effects and must be eaten by the target creature to take effect. Saves (where applicable) have a DC of 15.
+Ability Score Damage: The victim suffers 1d6 points of ability damage to a random ability (determined when the moss cake is created). One day after eating the moss cake, if the victim doesn’t receive a restoration spell, it must make another successful save or one point of the ability damage is actually drain. Coloration: This moss cake is quite harmless when eaten and does nothing more than cause the victim’s skin to become spotted. The spots can be of just about any color, though most tend to be brown, red, or blue. The spots last for 1 hour before fading. Healing: This moss cake heals the target as by a heal spell* cast by a 5th-level cleric. Lethargy: The victim falls into a state of apathy and becomes sluggish if it fails a Fortitude save. The effects last for 30 minutes. While affected, the victim moves at one-half its normal speed and suffers a -2 circumstance penalty to AC and on attack rolls, checks, and saves. Pain: Eating this moss cake wracks the victim with pain for 1d4 hours if it fails a Fortitude save. During this time, the victim suffers a -2 circumstance penalty on attack rolls, weapon damage rolls, and ability and skill checks. Poison: Eating this moss cake poisons the victim (ingestion; save Fort DC 15; effect 1d6 Con, cure two consecutive saves). Sleep: This moss cake puts the victim to sleep for 1 hour (as the sleep spell) if it fails a Fortitude save. Tree Dependent (Su) An oakman is mystically bonded to a single, enormous tree and must never stray more than a mile from it. An oakman who moves more than a mile from his bonded tree immediately becomes sickened. Every hour thereafter, he must make a DC 15 Fortitude save to resist becoming nauseated for an hour. An oakman that is out of range of his bonded tree for 24 hours takes 1d6 points of Constitution damage, and another 1d6 points of Constitution damage every day that follows–eventually, this separation kills the oakman. An oakman cannot forge a new bond with a new tree; if his tree is destroyed, he will eventually sicken and die.
+Tree Stride (Su) At will, an oakman can create an effect identical to that of the tree stride spell (caster level 5th). Oakmen can only travel through oak trees. This ability can be negated or dispelled, but the oakman can restart it on its next turn.

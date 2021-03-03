@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-carrion/golem-carrion-stand-in
+Carrion Golem (stand-in) CR 4
+XP 1,200
+N Medium construct
+Init +1; Senses blindsense 10 ft., darkvision 60 ft., low-light vision; Perception +0; Aura foul stench (DC 12, 1 round)
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+1 Dex, +6 natural)
+hp 42 (4d10+20)
+Fort +1, Ref +2, Will +1
+DR 5/bludgeoning or slashing; Immune construct traits, magic
+OFFENSE
+SSpeed 30 ft.
+Melee 2 slams +7 (1d8+3 plus disease)
+Special Attacks plague carrier
+STATISTICS
+Str 17, Dex 12, Con —, Int —, Wis 11, Cha 1
+Base Atk +4; CMB +7; CMD 18
+Skills Disguise +3; Racial Modifiers +8 Disguise
+SPECIAL ABILITIES
+Foul Stench (Ex) This functions as the stench ability, but causes affected creatures to be nauseated rather than sickened.
+Immune to Magic (Ex) A carrion golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+Gentle repose causes a carrion golem to become stiff and helpless for 1d4 rounds if it fails a Will save against the spell. Animate dead causes the various parts of the golem’s body to shudder and tear, dealing 1d6 points of damage per caster level to the golem (no save). Any magical attack that deals cold or fire damage slows a carrion golem (as the slow spell) for 2d6 rounds (no save). Any magical attack that deals electricity damage hastes a carrion golem (as the haste spell) for 2d6 rounds. Plague Carrier (Ex) When a carrion golem is created, its creator infects it with a specific disease. The carrion golem can then infect those it strikes with its slams with this disease—most carrion golems inflict filth fever. The save DC is Constitution-based and includes a +2 racial bonus.
+Filth Fever: slam—injury; save Fortitude DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves.
+
+Construction
+
+A stand-in carrion golem’s body can be constructed using at least two Medium corpses and four smaller corpses, but the corpses must have the similar physical traits to the caster. Special care must be taken when assembling the stand-in to gain the disguise benefit, hence the higher DC skill check. Special reagents worth 500 gp are also required.
+Carrion Golem (Stand-In)
+
+CL 7th; Price 10,500 gp
+CONSTRUCTION
+Requirements Craft Construct, animate dead, contagion, false life, gentle repose, lesser geas; Special creator must be caster level 7th; Skill Craft (leather) or Heal DC 18; Cost 5,500 gp
+
+

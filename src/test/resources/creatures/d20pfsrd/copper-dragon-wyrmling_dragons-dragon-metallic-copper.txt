@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-copper/copper-dragon-wyrmling
+Copper Dragon, Wyrmling CR 4
+XP 1,200
+CG Tiny dragon (earth)
+Init +7; Senses dragon senses; Perception +9
+DEFENSE
+AC 19, touch 15, flat-footed 16 (+3 Dex, +4 natural, +2 size)
+hp 37 (5d12+5)
+Fort +5, Ref +7, Will +5
+Immune acid, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 100 ft. (average); climb stone
+Melee bite +7 (1d4/19–20), 2 claws +7 (1d3)
+Space 2.5 ft.; Reach 0 ft. (5 ft. with bite)
+Special Attacks breath weapon (30-ft. line, DC 13, 2d6 acid), slow breath
+STATISTICS
+Str 11, Dex 16, Con 13, Int 12, Wis 13, Cha 12
+Base Atk +5; CMB +6; CMD 16 (20 vs. trip)
+Feats Improved Critical (bite), Improved Initiative, Power Attack
+Skills Bluff +9, Craft (traps) +9, Fly +15, Perception +9, Perform (comedy) +6, Sense Motive +9, Stealth +19
+Languages Common, Draconic
+SPECIAL ABILITIES
+Climb Stone (Ex) A copper dragon can climb on stone surfaces as though using the spider climb spell.
+Slow Breath (Su) Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow for 1d6 rounds plus 1 round per age category of the dragon.
+

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/half-dragon-basilisk-black
+Dracolisk CR 7
+XP 3,200
+Half-black dragon basilisk
+N Medium dragon
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +14
+
+DEFENSE
+AC 21, touch 9, flat-footed 21 (–1 Dex, +12 natural)
+hp 73 (7d10+35)
+Fort +12, Ref +4, Will +5
+Immune acid, sleep, paralysis
+OFFENSE
+Speed 20 ft., fly 40 ft. (average)
+Melee bite +14 (1d8+7), 2 claws +14 (1d4+7)
+Special Attacks breath weapon (60-foot line of acid, 7d6 acid damage, Reflex DC 18 half), gaze (DC 18, see Basilisk)
+STATISTICS
+Str 24, Dex 8, Con 21, Int 4, Wis 13, Cha 13
+Base Atk +7; CMB +14; CMD 23 (31 vs. trip)
+Feats Blind-Fight, Great Fortitude, Iron Will, Skill Focus ( Perception)
+Skills Fly +9, Perception +14, Stealth +13; Racial Modifiers +4 Stealth

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/possessor
+Possessor CR 5
+XP 1,600
+LE Medium aberration
+Init +7; Senses blindsight 200 ft., detect magic, detect thoughts, hive mind 100 mi.; Perception +10
+Aura unnatural aura (20 ft.)
+DEFENSE
+AC 16, touch 13, flat-footed — (+3 Dex, +3 natural)
+hp 42 (5d8+20)
+Fort +5, Ref +4, Will +6
+Defensive Abilities hive mind; Immune sight-based attacks
+Weaknesses vulnerability to sonic
+OFFENSE
+Speed 5 ft., fly 30 ft. (average)
+Melee 4 tentacles +6 (1d4+1) or bite +6 (1d6+1 plus attach)
+Special Attacks dominance (attach), psionic blast (30-ft. cone, DC 13)
+Spell-Like Abilities (CL 5th)
+Constant—detect magic, detect thoughts
+STATISTICS
+Str 12, Dex 17, Con 18, Int 19, Wis 15, Cha 12
+Base Atk +3; CMB +4 (+8 vs. grapple); CMD 17 (21 vs. grapple, can’t be tripped)
+Feats Hover, Improved Initiative, Weapon Finesse
+Skills Escape Artist +11, Fly +11, Intimidate +9, Knowledge (dungeoneering) +12, Perception +10, Spellcraft +12, Stealth +11, Survival +10
+Languages Alko, Infernal, Terran, Undercommon; telepathy 120 ft.
+SPECIAL ABILITIES
+Attach (Ex) When not already joined to a host body, a possessor can attempt to swallow the head of a medium or small humanoid. If its bite attack hits, the possessor can attempt to grapple the humanoid as a free action. While attached to an opponent, the possessor can still use its mental assault or tentacles against other foes. The swallowed creature is subject to the creature’s dominance.
+Dominance (Ex) When attached to a possessor, the host creature suffers 1 point of Intelligence and Charisma damage per round. If a creature is reduced to 0 Intelligence or 0 Charisma, the possessor bonds with the creature and assumes control it. The possessor then has access to all the host’s motor functions, class abilities, skills, feats and equipment. If a host creature is able to break free of the possessor’s attachment, it suffers 1 point of Intelligence and Charisma drain. Being a host for a possessor is hard on the physical body. The body is only viable for 1 day per host creature hit dice before the body is “spent” and is discarded as a dead host.
+Hive Mind (Ex) All possessors within a 100-mile range are in constant communication. If one is aware of a particular danger, they all are. If one group is not flat-footed, none of them are. No possessor in a group is considered flanked unless all are flanked.
+Psionic Blast (Su) Possessors may generate a psionic blast in a 30-ft. cone. All creatures within the cone must make a DC 13 Will save or be stunned for 3 rounds. The save is Charisma-based.

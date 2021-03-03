@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/rat/rat-common
+Rat CR 1/4
+XP 100
+N Tiny animal
+Init +2; Senses low-light vision, scent; Perception +1
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 4 (1d8)
+Fort +2, Ref +4, Will +1
+OFFENSE
+Speed 15 ft., climb 15 ft., swim 15 ft.
+Melee bite +4 (1d3–4)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 2, Dex 15, Con 11, Int 2, Wis 13, Cha 2
+Base Atk +0; CMB +0; CMD 6 (10 vs. trip)
+Feats Weapon Finesse
+Skills Climb +10, Stealth +18, Swim +10; Racial Modifiers +4 Stealth
+Source: Wikipedia

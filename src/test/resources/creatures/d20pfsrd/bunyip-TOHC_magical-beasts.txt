@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bunyip-TOHC
+Bunyip CR 4
+XP 1,200
+N Medium magical beast (aquatic)
+Init +3; Senses darkvision 60 ft., keen scent, low-light vision; Perception +11
+DEFENSE
+AC 17, touch 13, flat-footed 14 (+3 Dex, +3 natural)
+hp 42 (5d10+15)
+Fort +7; Ref +7; Will +3
+OFFENSE
+Speed swim 50 ft.
+Melee bite +8 (2d6+3)
+Special Attacks frenzy, roar, vorpal bite
+TACTICS
+Bunyips do not attack creatures larger than themselves, except in self-defense or if they detect blood in the water. They begin combat using their powerful roar and then bite opponents who do not succumb to the fear-inducing effects of their roar.
+STATISTICS
+Str 14, Dex 16, Con 17, Int 2, Wis 11, Cha 7
+Base Atk +5; CMB +7; CMD 20
+Feats Iron Will, Skill Focus (Perception), Weapon Focus (bite)
+Skills Perception +11 Swim +11; Racial Modifiers modifies Swim with Str or Dex
+SPECIAL ABILITIES
+Frenzy (Ex) A bunyip that detects blood in the water goes into a killing frenzy, as do all other bunyips within a 90-foot radius. Frenzied bunyips attack until either they or their opponents are dead.
+A frenzied bunyip can make one extra attack when making a full attack action. The attack is made using the creature’s full base attack. Additionally, it gains a +1 bonus on attack rolls and a +1 dodge bonus to AC and Reflex saves (none of which are included in the statistic block above). A frenzied bunyip’s swim speed increases by 10 feet (to 60 feet). This frenzy lasts for 1 minute (10 rounds) and can only be used once per encounter.
+Keen Scent (Ex) Bunyips can notice creatures by scent in a 90-foot radius and detect blood in the water at ranges of up to one-half mile.
+Roar (Su) When a bunyip roars, all creatures with 4 or less HD within a 100-foot spread must succeed on a DC 15 Will save or become panicked for 2d4 rounds. This is a sonic, mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the roar of that bunyip for one day. The save DC is Constitution-based.
+Vorpal Bite (Ex) If a bunyip scores a natural 20 on its attack roll and confirms the critical hit, it severs one of the opponent’s extremities (roll 1d6: 1-3 arm, 4-6 leg; 50% chance of either right or left).

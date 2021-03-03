@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/deinonychus
+Deinonychus CR 3
+XP 800
+N Medium animal
+Init +6; Senses low-light vision, scent; Perception +14
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 34 (4d8+16)
+Fort +8, Ref +6, Will +2
+OFFENSE
+Speed 60 ft.
+Melee 2 talons +5 (1d8+2), bite +5 (1d6+2), foreclaws +0 (1d4+1)
+Special Attacks pounce
+STATISTICS
+Str 15, Dex 15, Con 19, Int 2, Wis 12, Cha 14
+Base Atk +3; CMB +5; CMD 17
+Feats Improved Initiative, Run
+Skills Acrobatics +10 (+22 jump), Perception +14, Stealth +15; Racial Modifiers +8 Acrobatics, +8 Perception, +8 Stealth

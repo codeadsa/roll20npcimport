@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stymphalidies/stymphalides-swarm
+Stymphalides Swarm CR 6
+2,400 XP
+N Tiny magical beast (swarm)
+Init +8; Senses low-light vision; Perception +13
+DEFENSE
+AC 23, touch 17, flat-footed 18 (+4 Dex, +1 dodge, +6 natural, +2 size)
+hp 52 (7d10+14)
+Fort +7, Ref +9, Will +3
+Defensive Abilities half damage from slashing and piercing weapons, swarm traits; DR 5/magic; Immune fire
+Weakness sonic
+OFFENSE
+Speed 10 ft., fly 60 ft. (average)
+Melee swarm +7 (2d6–2 plus bleed)
+Space 10 ft.; Reach 0 ft.
+Special Attacks bleed (1), dazzle, distraction (DC 15)
+STATISTICS
+Str 6, Dex 19, Con 14, Int 2, Wis 13, Cha 11
+Base Atk +7; CMB —; CMD —
+Feats Alertness, Dodge, Improved Initiative, Step Up
+Skills Fly +8, Perception +13
+SPECIAL ABILITIES
+Dazzle (Ex) As a stymphalides swarm beats its wings, the birds’ steel feathers reflect light in blinding patterns of flashes and flares. While in an area of normal or brighter light, anyone who occupies the same square as a stymphalides swarm at the beginning of its turn must make a DC 15 Fortitude save. Those who fail are blinded for 1d4 rounds, while those who make their saves are dazzled until they spend 1 full round outside the swarm’s space. This is a sight-based effect.

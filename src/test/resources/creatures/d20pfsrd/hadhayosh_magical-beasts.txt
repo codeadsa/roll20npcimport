@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hadhayosh
+Hadhayosh CR 18
+XP 153,600
+Always N Gargantuan magical beast (fire)
+Init +2; Senses Perception +26; Aura frightful presence (60 ft., DC 23), stench (100 ft., DC 30, 1d6+4 min.)
+DEFENSE
+AC 34, touch 8, flat-footed 32 (+2 Dex, +26 natural, -4 size)
+hp 264 (23d10+138)
+Fort +21, Ref +15, Will +7
+DR 10/-; Immune acid, electricity, fire, sonic
+Weaknesses cold vulnerability
+OFFENSE
+Speed 40 ft.
+Melee gore +31 (4d6+12 plus 1d6 fire/19-20) and bite +31 (2d6+12 plus 1d6 fire) and 2 hooves +29 (2d8+6 plus 1d6 fire) or Power Attack gore +25 (4d6+24 plus 1d6 fire/19-20) and bite +25 (2d6+24 plus 1d6 fire) and 2 hooves +23 (2d8+12 plus 1d6 fire)
+Space 20 ft.; Reach 15 ft.
+Special Attacks frightful charge, heat, rush
+STATISTICS
+Str 35, Dex 15, Con 22, Int 3, Wis 10, Cha 14
+Base Atk +23; CMB +39 (+43 bull rush/overrun); CMD 51 (53 vs. bull rush/overrun)
+Feats Awesome Blow, Cleave, Combat Reflexes, Great Cleave, Great Fortitude, Greater Bull Rush, Greater Overrun, Improved Bull Rush, Improved Critical (gore), Improved Overrun, Multiattack, Power Attack
+Skills Perception +26
+Languages Ignan
+SQ godforged horns
+SPECIAL ABILITIES
+Frightful Charge (Su) A hadhayosh can inspire terror by charging. A creature charged by a hadhayosh must succeed on a DC 23 Will save or become paralyzed with fear, remaining in that condition as long as they stay within 60 feet of the hadhayosh. This is a mind-affecting fear effect. The save DC is Charisma-based.
+Godforged Horns (Ex) A hadhayosh’s horns are treated as silver and cold iron for the purposes of overcoming damage reduction.
+Heat (Ex) A hadhayosh generates so much heat that its mere touch deals 1d6 fire damage. A hadhayosh controls the heat it emits, allowing it to carry riders without harming them.
+Rush (Ex) Once per minute, the hadhayhosh can move at a speed of 150 feet.

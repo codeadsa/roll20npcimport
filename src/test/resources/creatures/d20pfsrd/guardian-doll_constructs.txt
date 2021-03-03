@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/guardian-doll
+Guardian Doll CR 3
+XP 800
+NE Tiny construct (cold)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 16, touch 15, flat-footed 13 (+3 Dex, +1 natural, +2 size)
+hp 22 (4d10)
+Fort +1, Ref +4, Will +2
+DR 5/magic; Immune cold, construct traits; SR 14
+Weaknesses susceptible to mind-affecting effects, vulnerable to fire
+OFFENSE
+Speed 30 ft.
+Melee doll’s dagger +10 (1d2–1/19–20 plus 1d6 cold and paralysis)
+Spell-Like Abilities (CL 4th; concentration +4)
+At Will—ray of frost
+3/day—alarm, charm person (DC 11), light, mage hand, open/close, prestidigitation
+1/day—frost fall (DC 12), levitate
+STATISTICS
+Str 8, Dex 17, Con —, Int 13, Wis 12, Cha 10
+Base Atk +4; CMB +5; CMD 11
+Feats Improved Initiative, Weapon Finesse
+Skills Escape Artist +5, Linguistics +3, Perception +5, Stealth +15
+Languages Common, Skald, one other
+SQ soul focus
+SPECIAL ABILITIES
+Doll’s Dagger (Su) The dagger wielded by a guardian doll is treated as a masterwork weapon and delivers 1d6 points of cold damage in addition to its normal damage. Those struck by the dagger must succeed at a DC 12 Fortitude save or be paralyzed by the supernatural cold of the weapon for 1d4 rounds. If the guardian doll is destroyed, its weapon becomes a useless child’s toy.
+The save DC is Charisma-based.
+Soul Focus (Su) The soul bound to the doll lives within a focus integrated into the doll or its apparel, typically one of the doll’s eyes or a gem embedded into its neck or chest. As long as this soul focus remains intact, it can be used to animate another doll, using the same cost as creating a new construct. Once bound into the soul focus, the soul continues to learn. If it is put into a new doll body, the soul retains its personality and memories from its previous bodies. A soul focus has hardness 8, 12 hit points, and a break DC of 20.
+Susceptible to Mind-Affecting Effects (Ex) Like a soulbound doll, a guardian doll is susceptible to mind-affecting effects. However, due to the singular purpose with which it is imbued, its saves against such effects are made with a +1 racial bonus.

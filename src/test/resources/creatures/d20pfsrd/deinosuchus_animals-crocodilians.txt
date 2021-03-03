@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/crocodilians/deinosuchus
+Deinosuchus CR 8
+XP 4,800
+N Gargantuan animal
+Init +5; Senses low-light vision; Perception +14
+DEFENSE
+AC 21, touch 7, flat-footed 20 (+1 Dex, +14 natural, –4 size)
+hp 104 (11d8+55)
+Fort +12, Ref +10, Will +7
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee bite +18 (2d6+13 plus grab), tail slap +12 (2d8+6)
+Space 20 ft.; Reach 20 ft.
+Special Attacks constrict (2d6+13), snap bite
+STATISTICS
+Str 36, Dex 12, Con 21, Int 1, Wis 15, Cha 2
+Base Atk +8; CMB +25 (+29 grapple); CMD 36 (40 vs. trip)
+Feats Awesome Blow (tail slap only)B, Improved Initiative, Iron Will, Lightning Reflexes, Skill Focus (Perception, Stealth), Weapon Focus (bite)
+Skills Perception +14, Stealth +0 (+12 in water), Swim +21; Racial Modifiers +12 Stealth in water
+SQ hold breath
+SPECIAL ABILITIES
+Hold Breath (Ex) A deinosuchus can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning.
+Snap Bite (Ex) A deinosuchus making a full attack can make a second bite attack at a –2 penalty if its primary bite attack misses.

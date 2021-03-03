@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/megafauna/embolotherium
+Embolotherium CR 5
+XP 1,600
+N Large animal
+Init +0; Senses low-light vision; Perception +10
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+8 natural, –1 size)
+hp 59 (7d8+28)
+Fort +11, Ref +5, Will +3
+OFFENSE
+Speed 30 ft.
+Melee slam +12 (2d6+12)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 26, Dex 11, Con 18, Int 2, Wis 13, Cha 3
+Base Atk +5; CMB +14; CMD 24 (28 vs. trip)
+Feats Diehard, Endurance, Great Fortitude, Power Attack
+Skills Perception +10, Swim +12
+Get this book AND support this site!

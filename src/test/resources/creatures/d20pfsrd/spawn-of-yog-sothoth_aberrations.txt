@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/spawn-of-yog-sothoth
+Spawn of Yog-Sothoth CR 10
+XP 9,600
+CE Large aberration (extraplanar)
+Init +6; Senses blindsight 30 ft., darkvision 60 ft.; Perception +20; Aura stench (30 ft., DC 22, 10 rounds)
+DEFENSE
+AC 24, touch 11, flat-footed 22 (+2 Dex, +13 natural, –1 size)
+hp 133 (14d8+70)
+Fort +9, Ref +8, Will +12
+Defensive Abilities tenuous natural invisibility; DR 10/magic; Immune cold, fire; Resist sonic 10; SR 21
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee bite +17 (1d8+8/19–20/×3), 4 tentacles +16 (1d6+4 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks blood drain (1d4 Con), devastation
+STATISTICS
+Str 26, Dex 15, Con 21, Int 17, Wis 17, Cha 20
+Base Atk +10; CMB +19; CMD 30 (38 vs. trip)
+Feats Combat Reflexes, Improved Critical (bite), Improved Initiative, Lightning Reflexes, Multiattack, Vital Strike, Weapon Focus (tentacle)
+Skills Climb +33, Escape Artist +19, Intimidate +22, Knowledge (arcana) +20, Perception +20, Spellcraft +20, Stealth +15
+Languages Aklo
+SPECIAL ABILITIES
+Devastation (Ex) As a full-round action, the spawn can assault a structure, dealing 4d6+16 points of damage to the structure in that round.
+Tenuous Natural Invisibility (Ex) This functions like natural invisibility, except it is subject to invisibility purge and effects that outline invisible creatures (such as glitterdust and faerie fire). It cannot be dispelled.

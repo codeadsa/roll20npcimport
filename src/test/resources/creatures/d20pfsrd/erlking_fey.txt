@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/erlking
+Erlking CR 18
+XP 153,600
+CN Medium fey
+Init +7; Senses low-light vision; Perception +28
+DEFENSE
+AC 34, touch 15, flat-footed 29 (+7 armor, +4 Dex, +1 dodge, +12 natural; +2 deflection vs. evil or law)
+hp 270 (20d6+200); fast healing 10
+Fort +15, Ref +20, Will +17
+Defensive Abilities blur, protection from good (and law), DR 10/cold iron; Immune poison; Resist acid 30, cold 30, electricity 30
+OFFENSE
+Speed 70 ft., fly 90 ft. (good)
+Melee +3 cold iron keen longsword +20/+20/+15 (1d8+12/17–20 plus bleed)
+Ranged +3 ironwood longbow +20/+20/+15 (1d8+3/×3 plus bleed)
+Special Attacks bleed (1d6), favored enemy (all humanoids +10), ironwood mastery
+Spell-Like Abilities (CL 20th; concentration +25)
+Constant—blur, haste (self only), protection from evil, protection from law, speak with animals, speak with plants
+At will—whispering wind
+3/day—animate plants, black tentacles, cure critical wounds, haste, ironwood, move earth, plant growth, summon nature’s ally VI, summon (level 6, 1d4+1 centaurs or 1 treant 100%), tree stride
+1/day—finger of death (DC 23), repel metal or stone, summon nature’s ally IX
+STATISTICS
+Str 20, Dex 25, Con 28, Int 19, Wis 20, Cha 21
+Base Atk +10; CMB +15; CMD 33
+Feats Critical Focus, Disruptive, Greater Weapon Focus (longsword), Greater Weapon Specialization (longsword), Power Attack, Spellbreaker, Toughness, Vital Strike, Weapon Focus (longsword), Weapon Specialization (longsword)
+Skills Acrobatics +19 (+35 when jumping), Bluff +18, Climb +12, Diplomacy +13, Fly +18, Handle Animal +15, Heal +10, Intimidate +25, Knowledge (geography) +17, Knowledge (nature) +27, Knowledge (nobility) +9, Perception +28, Perform (any one) +13, Ride +16, Sense Motive +18, Spellcraft +14, Stealth +29, Survival +15, Swim +17; Racial Modifiers +16 Acrobatics when jumping
+Languages Common, Elven, Sylvan; speak with animals, speak with plants
+SQ warrior fey
+SPECIAL ABILITIES
+Ironwood Mastery (Su) Any ironwood armor an erlking wears gains a +3 enhancement bonus, and any ironwood weapon it wields is treated as a +3 cold iron keen weapon.
+Warrior Fey (Ex) An erlking counts as a 20th-level fighter for all abilities and effects requiring fighter levels.

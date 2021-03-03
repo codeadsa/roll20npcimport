@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-beluiri-the-temptress-tohc
+Beluiri (The Temptress) CR 15
+XP 51,200
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +7; Senses darkvision 60 ft., true seeing; Perception +36
+DEFENSE
+AC 40, touch 25, flat-footed 32 (+7 Dex, +1 dodge, +15 natural, +7 profane)
+hp 184 (16d10+96)
+Fort +16, Ref +14, Will +17
+DR 15/cold iron and good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 26
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +22 (1d6+6 plus poison)
+Special Attacks dominating gaze, seduction
+Spell-Like Abilities (CL 20th)
+Constant—true seeing
+At will—blasphemy (DC 24), charm monster (DC 21), deeper darkness, desecrate, detect good, detect law, fear (DC 21), greater teleport (self plus 50 pounds of objects only), polymorph, tongues (self only), unhallow
+3/day—greater dispel magic, suggestion (DC 20), wall of fire
+1/day—fire storm (DC 24), wail of the banshee (DC 26), summon (level 9, 1d4 hezrous or 1d4 gharros demons, 100%)
+TACTICS
+Beluiri prefers subterfuge rather than directly assaulting an opponent. She usually alters her appearance to appear as an attractive member of a potential victim’s race; once the victim is lured in, she assumes her true form and attacks. If combat goes against her, she flees, but only after summoning lesser demons to cover her escape and kill her opponents.
+STATISTICS
+Str 22, Dex 24, Con 22, Int 20, Wis 20, Cha 24
+Base Atk +16; CMB +22; CMD 47
+Feats Ability Focus (seduction), Alertness, Blind-Fight, Combat Reflexes, Deceitful, Dodge, Iron Will, Lightning Reflexes
+Skills Acrobatics +18, Bluff +30, Diplomacy +26, Disguise +27, Escape Artist +18, Intimidate +26, Knowledge (arcana) +21, Knowledge (planes) +24, Perception +36, Sense Motive +28, Stealth +26, Survival +21; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common, Goblin, Infernal
+SPECIAL ABILITIES
+Dominating Gaze (Su) Three times per day, 30 feet, DC 25 Will save or dominated as per the dominate person spell (CL 20th). The save DC is Charisma-based.
+Poison (Ex) Claw—injury; save Fort DC 24; frequency 1 round for 4 rounds; effect 1d4 Str damage; cure 2 consecutive saves. The save DC is Constitution-based.
+Seduction (Su) Through body language and movement, Beluiri can fascinate all creatures of the opposite sex (which could be either sex, depending on her current form) within 30 feet that observe her dancing. Those viewing this dance must succeed on a DC 27 Will save or fall under her influence for 1d6+1 hours as if affected by a charm monster spell (CL 20th). The save DC is Charisma-based and includes a +2 bonus from her Ability Focus feat.

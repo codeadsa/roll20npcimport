@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/divs/div-sepid
+Sepid CR 14
+XP 38,400
+NE Large outsider (div, evil, extraplanar)
+Init +9; Senses darkvision 60 ft., see in darkness; Perception +22
+DEFENSE
+AC 32, touch 14, flat-footed 27 (+5 Dex, +18 natural, -1 size)
+hp 202 (15d10+120)
+Fort +13, Ref +16, Will +15
+DR 10/cold iron and good; Immune fire, poison; Resist acid 10, electricity 10; SR 25
+OFFENSE
+Speed 40 ft.
+Melee +1 falchion +23/+18/+13 (2d6+11/15-20) or 2 claws +21 (1d6+7)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rain of debris
+Spell-Like Abilities (CL 15th; concentration +21)
+At will—comprehend languages, deeper darkness, greater teleport (self plus 50 lbs. of objects only), nondetection, speak with dead (DC 19)
+3/day—blindness/deafness (DC 18), fly, ice storm, invisibility, mirror image, scorching ray, touch of idiocy, true strike
+1/day—animate dead, baleful polymorph (DC 21), bestow curse (DC 20), break enchantment, create undead, disintegrate (DC 22), enervation, fireball (DC 19), hold monster (DC 21), summon (level 4, 1 ghawwas or 1 shira 40%), true seeing
+STATISTICS
+Str 25, Dex 20, Con 27, Int 19, Wis 19, Cha 22
+Base Atk +15; CMB +23; CMD 38
+Feats Cleave, Combat Reflexes, Deflect ArrowsB, Improved Critical (falchion), Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Weapon Focus (falchion)
+Skills Bluff +24, Fly +15, Intimidate +24, Knowledge (arcana) +22, Knowledge (planes) +22, Knowledge (religion) +15, Perception +22, Sense Motive +20, Spellcraft +22, Stealth +19, Use Magic Device +24
+Languages Abyssal, Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SQ deflect rays
+SPECIAL ABILITIES
+Deflect Rays (Su) Once per round as an immediate action, a sepid can use its Deflect Arrows feat to deflect a ray or a spell that uses a ranged touch attack.
+Rain of Debris (Su) Three times per day as a standard action, a sepid can call forth a hail of stones, wood, metal, and similar debris. The debris rains down and pelts all creatures in a 10-foot-high, 40-foot-radius cylinder centered on the sepid, dealing 15d6 points of bludgeoning damage (Reflex DC 25 for half). This attack does not harm the sepid, and counts as an evil attack for the purpose of damage reduction. The save DC is Constitution-based.

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/swarm-scarlet-spider-tohc
+Scarlet Spider Swarm CR 2
+XP 600
+N Fine vermin (swarm)
+Init +2; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 20, touch 12, flat-footed 18 (+2 Dex, +8 size)
+hp 13 (3d8)
+Fort +3, Ref +3, Will +1
+Immune mind-affecting effects, weapon damage, swarm traits, vermin traits
+Weaknesses swarm traits
+OFFENSE
+Speed 10 ft., climb 10 ft.
+Melee swarm (1d6 plus disease)
+Space 10 ft.; Reach 0 ft.
+Special Attacks disease, distraction (DC 11), painful bite
+STATISTICS
+Str 1, Dex 15, Con 10, Int —, Wis 10, Cha 2
+Base Atk +2; CMB —; CMD —
+Skills Climb +10, Perception +4, Stealth +22; Racial Modifiers +4 Perception, +4 Stealth
+SPECIAL ABILITIES
+Disease (Ex) Red Ache: Swarm—injury; save Fort DC 13; onset 1d3 days; frequency 1/day; effect 1d6 Str damage; cure 2 consecutive saves. The save DC is Constitution-based and includes a +2 racial bonus.
+Painful Bite (Ex) The bite of a scarlet spider is extremely painful. A creature bitten takes a -1 circumstance penalty on attack rolls, weapon damage rolls, and ability and skill checks until cured. A neutralize poison or remove disease spell, or a DC 13 Heal check removes the penalty. The check DC is Constitution-based and includes a +2 racial bonus.

@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-fuath
+Fuath (CR 1)
+XP 400
+CE Tiny fey (aquatic)
+Init +5; Senses darkvision 120 ft., low-light vision; Perception +5
+DEFENSE
+AC 15, touch 13, flat-footed 14 (+1 Dex, +2 natural, +2 size)
+hp 7 (1d6+4)
+Fort +1, Ref +3, Will +3
+DR 5/cold iron; Resist cold 10; SR 12
+Weaknesses vulnerable to fire and sunlight
+OFFENSE
+Speed 20 ft., climb 10 ft., swim 30 ft.
+Melee 2 claws +3 (1d3-2)
+Ranged dart +3 (1d2-2)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks congeal water
+Spell-Like Abilities (CL 1st; concentration +0)
+At will—create water, prestidigitation
+1/day—sleep (DC 10)
+STATISTICS
+Str 7, Dex 13, Con 12, Int 10, Wis 13, Cha 8
+Base Atk +0; CMB -1; CMD 7
+Feats Improved Initiative, ToughnessB, Weapon FinesseB
+Skills Climb +6, Escape Artist +5, Handle Animal +4, Perception +5, Stealth +13, Swim +10, Use Magic Device +3; Racial Modifiers +4 Handle Animal
+Languages Aquan
+SQ amphibious
+SPECIAL ABILITIES
+Congeal Water (Su) Once per day, a fuath can surround a creature in a thin layer of magically viscous water as a standard action at a range of 30 feet. A target that fails a DC 10 Reflex save becomes entangled and must hold its breath or risk drowning. The target or an adjacent creature can spend a full-round action on its turn scraping off the clinging fluid, allowing a new Reflex save with a +2 bonus; otherwise, the effect lasts for 1d4 minutes. A fuath can use this ability even if there is no source of water nearby. The save DC is Charisma-based and includes a +1 racial bonus.
+Vulnerable to Sunlight (Ex) A fuath takes 1 point of Constitution damage after every hour it is exposed to sunlight. Water of a depth of at least 1 foot negates this harmful effect.

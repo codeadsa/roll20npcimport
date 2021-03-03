@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/mantari
+Mantari CR 1/2
+XP 200
+NE Medium magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +4
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 5 (1d10)
+Fort +2, Ref +4, Will +0
+OFFENSE
+Speed 5 ft., fly 60 ft. (good)
+Melee tail sting +3 (1d6)
+Space 5 ft.; Reach 5 ft. (10 ft. with tail)
+STATISTICS
+Str 12, Dex 14, Con 11, Int 2, Wis 11, Cha 6
+Base Atk +1; CMB +2; CMD 14 (can’t be tripped)
+Feats Weapon Finesse
+Skills Fly +6, Perception +4, Stealth +2

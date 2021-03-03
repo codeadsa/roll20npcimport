@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-fiend/elemental-fiend-waterfiend-tohc
+Waterfiend CR 5
+XP 1,600
+CE Medium outsider (chaotic, elemental, evil, extraplanar, water)
+Init +1; Senses all-around vision, darkvision 60 ft.; Perception +15
+DEFENSE
+AC 18, touch 11, flat-footed 17 (+1 Dex, +7 natural)
+hp 68 (8d10+24)
+Fort +5; Ref +7; Will +6
+DR 5/—; Immune elemental traits, cold
+OFFENSE
+Speed 30 ft.,swim 30 ft.
+Melee 3 tridents (damage 1d8+4/x2 plus freeze)
+Ranged 3 tridents +10 ranged (damage 1d8+4/x2 plus freeze)
+Special Attacks freeze, water mastery
+STATISTICS
+Str 18, Dex 13, Con 16, Int 8, Wis 10, Cha 8
+Base Atk +8; CMB +12; CMD 23 (25 vs. trip)
+Feats Cleave, Intimidating Prowess, Power Attack, Weapon Focus (trident)
+Skills Bluff +10, Intimidate +14, Knowledge (planes) +10, Perception +15, Sense Motive +11; Swim +12; Racial Modifiers +4 Perception
+Languages Aquan
+SQ willful weapon
+Combat Gear 3 masterwork weapons
+SPECIAL ABILITIES
+All-Around Vision (Ex) An elemental fiend’s three faces allow it to see in all directions at once. It cannot be flanked.
+Freeze (Ex) A waterfiend deals cold damage in addition to damage dealt on a successful hit in melee. Those affected by the freeze ability must also succeed on a DC 17 Reflex save or get frostbite, taking 1d6 cold damage for an additional 1d4 rounds at the start of its turn. A freezing creature can attempt a new save as a full-round action by shivering and rubbing their arms and legs. Creatures that hit a waterfiend with natural weapons or unarmed attacks take cold damage as though hit by the waterfiend. The save DC is Constitution-based.
+Willful Weapon (Su) A disarmed elemental fiend can will its weapon to return to its hand on its turn as a free action, as long as the weapon is within 30 ft. of the elemental fiend and is in its line of sight and line of effect. The weapon automatically returns to the elemental fiend’s hand even if the weapon is being held by another creature.

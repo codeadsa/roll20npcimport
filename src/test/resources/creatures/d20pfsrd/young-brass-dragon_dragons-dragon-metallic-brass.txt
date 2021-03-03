@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-brass/young-brass-dragon
+Young Brass Dragon CR 7
+XP 3,200
+CG Medium dragon (fire)
+Init +6; Senses blindsense 60 ft., dragon senses; Perception +14
+DEFENSE
+AC 21, touch 12, flat-footed 19; (+2 Dex, +9 natural)
+hp 76 (8d12+24)
+Fort +9, Ref +8, Will +7
+Immune fire, paralysis, sleep
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 150 ft. (average)
+Melee bite +12 (1d8+6), 2 claws +12 (1d6+4), 2 wings +7 (1d4+2)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (60-ft. line, DC 17, 6d4 fire), sleep breath
+Spell-Like Abilities (CL 8th)
+At will—speak with animals
+Spells Known (CL 1st)
+1st (4/day)—charm person (DC 13), comprehend languages
+0 (at will)—dancing lights, detect magic, mage hand, message
+STATISTICS
+Str 19, Dex 14, Con 17, Int 12, Wis 13, Cha 12
+Base Atk +8; CMB +12; CMD 24 (28 vs. trip)
+Feats Alertness, Hover, Improved Initiative, Spell Focus (enchant)
+Skills Bluff +12, Diplomacy +12, Fly +13, Heal +12, Linguistics +12, Perception +14, Sense Motive +14
+Languages Common, Draconic, plus any 8 others

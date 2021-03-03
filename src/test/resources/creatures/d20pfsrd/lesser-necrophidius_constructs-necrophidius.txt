@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/necrophidius/lesser-necrophidius
+Lesser Necrophidius CR 2
+XP 600
+N Small construct
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 16, touch 16, flat-footed 11 (+5 Dex, +1 size)
+hp 26 (3d10+10)
+Fort +1, Ref +6, Will +1
+DR 5/bludgeoning; Immune construct traits
+OFFENSE
+Speed 20 ft.
+Melee bite +5 (1d6+1 plus paralysis)
+Special Attacks dance of death
+Tactics The necrophidiuses attack the closest target. They fight until destroyed.
+STATISTICS
+Str 12, Dex 21, Con –, Int –, Wis 11, Cha 1
+Base Atk +3; CMB +3; CMD 18
+Skills Stealth +21; Racial Modifiers +12 Stealth
+SPECIAL ABILITIES
+Dance of Death (Ex) A lesser necrophidius can entrance opponents by swaying back and forth as a full-round action. All creatures within 30 feet who can see the necrophidius when it uses its dance of death must succeed on a DC 13 Will save or be dazed for 2d4 rounds. This is a mind-affecting effect. The save DC is Constitution-based and includes a +2 racial bonus.
+Paralysis (Su) Any living creature that is bitten by a necrophidius must succeed on a DC 13 Fortitude save or be paralyzed for 1d4 rounds. The save DC is Constitution-based and includes a +2 racial bonus.
+
+Conversion by overfiend_87 Construction A necrophidius’s body consists of a small humanoid’s skull and the skeletal remains of a constrictor snake, all treated with rare oils and powders worth 500 gp.
+Necrophidius CL 6th; Price 4,500 gp
+CONSTRUCTION REQUIREMENTS
+Feats Craft Construct, daze, lesser geas, ghoul touch; Special creator must be caster level 5th; Skill Craft (sculpture) or Heal DC 13; Cost 2,500 gp

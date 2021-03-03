@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/akhlut
+Akhlut CR 13
+XP 25,600
+N Huge magical beast (cold, shapechanger)
+Init +6; Senses darkvision 60 ft., low-light vision, scent, snow vision; Perception +14
+DEFENSE
+AC 30, touch 11, flat-footed 27 (+2 Dex, +1 dodge, +19 natural, -2 size)
+hp 189 (18d10+90)
+Fort +16, Ref +13, Will +10
+DR 15/magic; Immune cold
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 40 ft., swim 60 ft.
+Melee bite +27 (4d8+15/15-20 plus 4d6 cold and grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks savage bite, shore storming, swallow whole (2d8+15 bludgeoning damage plus 4d6 cold, AC 19, 18 hp)
+Spell-Like Abilities (CL 18th; concentration +16)
+1/day—control weather (windy or cold weather only)
+STATISTICS
+Str 31, Dex 15, Con 20, Int 4, Wis 15, Cha 6
+Base Atk +18; CMB +30 (+34 grapple); CMD 43 (47 vs. trip)
+Feats Dodge, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Iron Will, Power Attack, Skill Focus (Stealth), Vital Strike, Weapon Focus (bite)
+Skills Acrobatics +8 (+12 when jumping), Perception +14, Stealth +16 (+28 in snow), Swim +18; Racial Modifiers +4 Perception, +12 Stealth in snow
+SQ change shape (orca; beast shape III), hold breath, snow walking
+Languages Aquan (cannot speak)
+SPECIAL ABILITIES
+Savage Bite (Ex) An akhlut’s bite threatens a critical hit on a roll of 18-20.
+Shore Storming (Ex) An akhlut automatically transforms into an orca whenever it is fully immersed in water, losing its legs and fur. Likewise, when an akhlut emerges from the water, it automatically transforms into its wolf–orca hybrid form. If an akhlut moves from water to land (or vice versa) on the round before initiating combat, it gains a +8 bonus on its initiative check. This initial attack resolves as a charge. An akhlut has the same statistics in both forms.
+Snow Vision (Ex) An akhlut can see perfectly well in snowy conditions, and does not take any penalties on Perception checks while in snowy weather.
+Snow Walking (Su) An akhlut can walk on snow or thin sheets of ice as though affected by water walk. It only leaves a trail on such surfaces when it wants to.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/bone
+Bone Devil (Osyluth) CR 9
+XP 6,400
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +9; Senses darkvision 60 ft., see in darkness; Perception +19; Aura fear aura (5 ft., DC 19, 1d6 rounds)
+DEFENSE
+AC 25, touch 14, flat-footed 20 (+5 Dex, +11 natural, –1 size)
+hp 105 (10d10+50)
+Fort +12, Ref +12, Will +7
+DR 10/good; Immune fire, poison; Resist acid 10, cold 10; SR 20
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee bite +14 melee (1d8+5), 2 claws +14 melee (1d6+5), sting +14 melee (3d4+5 plus poison)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 12th)
+Constant—fly
+At will—dimensional anchor, greater teleport (self plus 50 lbs. of objects only), invisibility (self only), major image (DC 17), wall of ice
+3/day—quickened invisibility (self only)
+1/day—summon (level 4, 1 bone devil, 35%)
+STATISTICS
+Str 21, Dex 21, Con 20, Int 16, Wis 15, Cha 18
+Base Atk +10; CMB +16; CMD 31
+Feats Alertness, Combat Reflexes, Improved Initiative, Iron Will, Quicken Spell-Like Ability (invisibility)
+Skills Bluff +17, Diplomacy +17, Fly +21, Intimidate +17, Knowledge (planes) +16, Perception +19, Sense Motive +19, Spellcraft +16, Stealth +14
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d3 Str damage; cure 2 consecutive saves. The save DC is Constitution-based.

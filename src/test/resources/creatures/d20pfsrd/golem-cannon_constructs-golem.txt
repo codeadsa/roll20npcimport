@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-cannon
+Cannon Golem CR 15
+XP 51,200
+N Large construct
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +2
+DEFENSE
+AC 31, touch 16, flat-footed 24 (+7 Dex, +15 natural, -1 size)
+hp 140 (20d10+30)
+Fort +6, Ref +13, Will +8
+DR 15/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +29 (2d10+10)
+Ranged cannon +26/+21 (6d6+7/19-20/x4)
+Space 10 ft.; Reach 10 ft.
+Special Attacks cannon
+STATISTICS
+Str 30, Dex 24, Con —, Int —, Wis 15, Cha 2
+Base Atk +20; CMB +31; CMD 48
+Feats Improved Critical (cannon)B
+SQ alloyed, blasting critical, gun training
+SPECIAL ABILITIES
+Alloyed (Ex) A cannon golem’s slam and cannon attacks count as adamantine, cold iron, and silver for the purpose of overcoming damage reduction.
+Blasting Critical (Ex) When a cannon golem confirms a critical hit with a slam attack, it can make one cannon attack against that target as a free action (as long as the cannon is loaded).
+Cannon (Ex) The golem’s cannon has a range increment of 100 feet and deals 6d6 points of bludgeoning and piercing damage on a hit with a x4 critical modifier. The cannon’s magazine can hold up to 20 cannonballs at a time—reloading a single cannonball into this magazine is a standard action for the golem, while loading a cannonball into the cannon itself to fire it is a swift action; this allows the golem to take two shots per round with the cannon.
+Gun Training (Ex) A cannon golem adds its Dex modifier to the damage dealt by its cannon.
+Immunity to Magic (Ex) A cannon golem is immune to spells and spell-like abilities that allow spell resistance. Certain spells and effects function differently against it, as noted below.
+Any spell with the water descriptor that affects a cannon golem renders its cannon unusable for 1 round (no save). A heat metal spell causes the golem’s cannon to instantly backfire, dealing 6d6 points of damage to the golem and staggering it for 1 round (no save). Construction A cannon golem is built from 2,000 pounds of adamantine, brass, cold iron, and mithral.
+CL 17th; Price 200,000 gp
+CONSTRUCTION REQUIREMENTS
+Craft Construct, geas/quest, limited wish, plane shift or secret chest; Special creator must be caster level 17th; Skill Craft (siege engine) and Knowledge (engineering) DC 25; Cost 105,000 gp

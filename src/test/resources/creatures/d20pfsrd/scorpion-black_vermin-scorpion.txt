@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/scorpion/scorpion-black
+Black Scorpion
+CR 15
+XP 51,200
+N Colossal vermin
+Init +0; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +4
+DEFENSE
+AC 30, touch 2, flat-footed 30 (+28 natural, –8 size)
+hp 228 (24d8+120)
+Fort +19, Ref +8, Will +8
+Immune mind-affecting effects
+OFFENSE
+Speed 60 ft.
+Melee 2 claws +23 (2d8+13 plus grab), sting +23 (2d6+13 plus poison)
+Space 30 ft.; Reach 30 ft.
+Special Attacks constrict (2d8+19), rapid stinging
+STATISTICS
+Str 36, Dex 10, Con 20, Int —, Wis 10, Cha 2
+Base Atk +18; CMB +39 (+43 grapple); CMD 49 (61 vs. trip)
+Skills Climb +17, Perception +4, Stealth –12; Racial Modifiers +4 Climb, +4 Perception, +4 Stealth
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 27; frequency 1/round for 6 rounds; effect 1d4 Str, 1d4 Dex, and 1d4 Con; cure 3 saves.
+Rapid Stinging (Ex) A black scorpion’s stinger strikes with astounding speed; it can make one additional attack in a round with its sting as a swift action.

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-vermlek
+Vermlek CR 3
+XP 800
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init –1; Senses blindsense 30 ft., darkvision 60 ft., scent; Perception +8
+DEFENSE
+AC 15, touch 9, flat-footed 15 (+3 armor, –1 Dex, +3 natural)
+hp 30 (4d10+8)
+Fort +8, Ref +0, Will +5
+Defensive Abilities abandon flesh, flesh armor, negative energy affinity; DR 5/cold iron or good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 14
+OFFENSE
+Speed 30 ft., burrow 20 ft.
+Melee longsword +6 (1d8+2/19–20), bite +1 (1d6+1)
+Special Attacks inhabit body
+Spell-Like Abilities (CL 3rd; concentration +4)
+3/day—mass inflict light wounds (DC 16), spider climb
+1/day—gentle repose, summon (level 2, 1d4 dretches 50%)
+STATISTICS
+Str 15, Dex 9, Con 14, Int 12, Wis 13, Cha 12
+Base Atk +4; CMB +6; CMD 15
+Feats Deceitful, Great Fortitude
+Skills Bluff +10, Disguise +10 (+18 when inhabiting a corpse), Escape Artist +6 (+14 when not inhabiting a corpse), Knowledge (religion) +8, Perception +8, Sense Motive +8, Use Magic Device +8; Racial Modifiers +8 Disguise when inhabiting a corpse, +8 Escape Artist when not inhabiting a corpse
+Languages Abyssal, Common; telepathy 100 ft.
+SPECIAL ABILITIES
+Abandon Flesh (Su) As a swift action, a vermlek can abandon an inhabited body, crawling hideously out of its host and leaving behind an empty sack of skin and bits of gristle. In so doing, it absorbs much of the body’s flesh to heal itself, regaining 2d6+3 hit points. A vermlek cannot later reclaim this body with its inhabit body ability.
+Flesh Armor (Su) When a vermlek inhabits a humanoid body (see Inhabit Body below), it treats the dead flesh and muscle as armor, gaining a +3 armor bonus to its AC.
+Inhabit Body (Su) A vermlek can crawl into the body of any dead Medium humanoid, consuming and replacing the bulk of the humanoid’s skeleton and internal organs as it does so.
+This process takes 1d4 rounds, during which the vermlek is flat-footed. Once the process is complete, the vermlek appears for all practical purposes to be a living but hideously obese version of the previous humanoid—it gains a +8 racial bonus on Disguise checks to appear as a normal humanoid while wearing a dead body in this manner, but does not gain any of the abilities that the dead creature had in life, including natural attacks, unusual movement types, or natural armor.
+It loses its own burrow speed while inhabiting a body but gains the ability to wield weapons or wear armor shaped for humanoids (although the armor bonus granted by wearing armor does not stack with the bonus granted by the vermlek’s flesh armor ability).

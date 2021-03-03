@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/cherum
+Cherum CR 22
+XP 615,000
+N(E) Colossal aberration (fire)
+Init +8; Senses darkvision 120 ft.; Perception +45; Aura fiery aura (40 ft., 6d6 fire, DC 36)
+DEFENSE
+AC 37, touch 7, flat-footed 32 (+4 Dex, +1 dodge, +30 natural, –8 size)
+hp 450 (36d8+288); fast healing 15 when touching fire
+Fort +22; Ref +18; Will +24
+DR 15/epic; Immune fire, poison; SR 33
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft.
+Melee bite +33 (4d8+14/19-20 plus 2d6 fire plus grab), 2 claws +33 (3d6+14/19-20 plus 2d6 fire)
+Space 30 ft.; Reach 30 ft.
+Special Attacks swallow whole (3d6+14 plus 2d6 fire damage, AC 25, 45 hp)
+STATISTICS
+Str 39, Dex 18, Con 26, Int 12, Wis 14, Cha 12
+Base Atk +27; CMB +49 (+53 bull rush, grapple); CMD 64 (68 bull rush)
+Feats Alertness, Awesome Blow, Cleave, Diehard, Dodge, Endurance, Great Cleave, Greater Bull Rush, Improved Bull Rush, Improved Critical (bite, claw), Improved Initiative, Improved Lightning Reflexes, Intimidating Prowess, Iron Will, Lightning Reflexes, Power Attack, Vital Strike
+Skills Climb +53, Bluff +20, Intimidate +54, Knowledge (religion) +22, Perception +45, Sense Motive +24 Survival +23
+Languages Common, Giant
+SPECIAL ABILITIES
+Fast Healing (Ex) A cherum heals only if it is touching a flame or lava pool that covers at least an area equal to its space (30-foot area).

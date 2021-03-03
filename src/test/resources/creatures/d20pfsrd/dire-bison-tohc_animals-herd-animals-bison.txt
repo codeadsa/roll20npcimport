@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/bison/dire-bison-tohc
+Dire Bison CR 6
+XP 2,400
+N Huge animal
+Init +1; Senses low-light vision, scent; Perception +19
+DEFENSE
+AC 18, touch 9, flat-footed 17 (+1 Dex, +9 natural, –2 size)
+hp 105 (10d8+60)
+Fort +15; Ref +8; Will +5
+OFFENSE
+Speed 50 ft.
+Melee gore +15 (3d6+15)
+Space 15 ft.; Reach 10 ft.
+Special Attacks stampede, trample (3d6+15, DC 25)
+STATISTICS
+Str 31, Dex 12, Con 23, Int 2, Wis 15, Cha 8
+Base Atk +7; CMB +19; CMD 30 (34 vs. trip)
+Feats Alertness, Endurance, Great Fortitude, Improved Bull Rush, Power Attack
+Skills Perception +19, Sense Motive +4
+SPECIAL ABILITIES
+Stampede (Ex) A stampede occurs if three or more creatures with stampede make a trample attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample’s save DC increases by +2.
+Template Base
+Dire Creature

@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/herald-of-freedom
+Herald of Freedom CR 15
+XP 51,200
+CG Large outsider (chaotic, extraplanar, good, herald, shapechanger)
+Init +12; Senses darkvision 60 ft., low-light vision; Perception +24; Aura bravery (30 ft.)
+DEFENSE
+AC 32, touch 25, flat-footed 23 (+7 deflection, +8 Dex, +1 dodge, +7 natural, –1 size)
+hp 195 (17d10+102)
+Fort +17, Ref +21, Will +12
+Defensive Abilities armor of valor, improved evasion, uncanny dodge; DR 15/lawful; Immune electricity, fear, petrification; Resist cold 10, fire 10; SR 26
+OFFENSE
+Speed 50 ft., fly 80 ft. (good)
+Melee +2 anarchic keen halberd +25/+20/+15/+10 (2d8+12/×3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks luck domain, penetrating gaze
+Spell-Like Abilities (CL 15th; concentration +22)
+At will—freedom of movement, greater heroism, true strike
+3/day—break enchantment, displacement, greater dispel magic, plane shift (self and willing targets only), shout (DC 21)
+1/day—greater planar ally (one bralani or ghaele azata only), hallow, word of chaos (DC 24)
+TACTICS
+During Combat The Herald of Freedom dislikes personally engaging in physical combat, instead preferring to inspire and bolster her allies with her aura of bravery, fortune’s kisses, and the use of good hope and greater heroism, coupled with her piercing gaze. If hard-pressed, she grows to Huge size and makes flyby or spring attacks with her halberd.
+Morale The Herald of Freedom withdraws from combat via plane shift if reduced to 40 hit points or less.
+STATISTICS
+Str 24, Dex 26, Con 22, Int 21, Wis 18, Cha 24
+Base Atk +17; CMB +25; CMD 51
+Feats Combat Expertise, Combat Reflexes, Dodge, Flyby Attack, Hover, Improved Initiative, Iron Will, Lightning Reflexes, Mobility
+Skills Acrobatics +28, Bluff +27, Diplomacy +24, Disguise +17, Fly +10, Heal +11, Intimidate +18, Knowledge (local, religion) +12, Knowledge (planes) +15, Perception +24, Perform (dance) +24, Profession (courtesan) +12, Sense Motive +24, Sleight of Hand +28, Stealth +24
+Languages Auran, Celestial, Common, Draconic, Infernal; tongues
+SQ change shape (female elf, half-elf, or human from Medium to Huge size; alter self or giant form II)
+SPECIAL ABILITIES
+Armor of Valor (Su) The Herald of Freedom adds her Charisma modifier as a deflection bonus to her Armor Class and gains a +1 luck bonus on all saving throws.
+Aura of Bravery (Su) Allies within her aura are affected by remove fear and remove paralysis. Allies gain a +1 morale bonus on attack rolls, weapon damage rolls, saves, and skill checks; opponents take a –1 morale penalty on such rolls.
+Luck Domain (Ex) The Herald of Freedom can use the bit of luck (30 ft. range) and good fortune Luck domain powers three times per day each.
+Penetrating Gaze (Su) Lawful opponents within 30 feet take 5d6 points of damage and are dazed for 1 round. A successful DC 25 Will save halves the damage and negates the daze effect. The save DC is Charisma-based.
+Unique Weapon The Herald of Freedom wields a Large +2 anarchic keen halberd.
+Three times per day, as a standard action, she can use the halberd to open all non-magical locked doors and bindings and break all non-magical chains and shackles within 30 feet (regardless of hardness). If the halberd is ever removed from her hands, she can summon the weapon back to her grasp as a free action.

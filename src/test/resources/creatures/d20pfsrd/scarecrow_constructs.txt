@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/scarecrow
+Scarecrow CR 4
+XP 1,200
+N Medium construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 16, touch 10, flat-footed 16 (+6 natural)
+hp 47 (5d10+20)
+Fort +1, Ref +1, Will +1
+Immune cold, construct traits
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +8 (1d8+3 plus fear)
+Special Attacks fascinating gaze
+STATISTICS
+Str 16, Dex 10, Con —, Int —, Wis 11, Cha 14
+Base Atk +5; CMB +8; CMD 18
+SQ freeze
+SPECIAL ABILITIES
+Fascinating Gaze (Su) Target is fascinated, 30 feet, Will DC 14 negates. Fascination lasts as long as the scarecrow remains within 300 feet of the fascinated creature. The approach or animation of the scarecrow does not count as an obvious threat to the victim of this particular fascination effect (although the scarecrow’s attack does count as an obvious threat and ends the fascination immediately). This is a mind-affecting effect. The save DC is Charisma-based.
+
+Fear (Su) A scarecrow’s touch infuses its target with overwhelming waves of fear. If the victim fails a DC 14 Will save, she cowers and can take no actions other than attempting a new DC 14 Will save at the end of the following round (and each round thereafter) to end this fear. A successful first save leaves the victim shaken for 1 round. This is a mind-affecting fear effect. The save DC is Charisma-based.
+Construction
+Scarecrows are constructed of a variety of materials, but usually include a frame of wood bound by rope or twine, covered in cloth or ragged garments, then stuffed with grass or straw. Some have simple heads made from bags stuffed with straw, with two holes cut for eyes, while others have more elaborate pumpkin or gourd heads carved with grotesque faces. Once the basic body has been constructed, unguents and special powders worth 500 gp are also required.
+Scarecrow
+CL 6th; Price 15,500 gp
+CONSTRUCTION REQUIREMENTS
+
+Requirements Craft Construct, command, fear, geas/quest, hypnotic pattern; Special creator must be caster level 6th; Skill Craft (carpentry), Craft (sculptures), or Profession (farmer) DC 12; Cost 8,000 gp

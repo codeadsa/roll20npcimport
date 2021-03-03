@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/dream-spider
+Dream Spider CR 1/2
+XP 200
+N Small vermin
+Init +2; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +5
+DEFENSE
+AC 13, touch 12, flat-footed 11 (+2 Dex, +1 size)
+hp 5 (1d8+1)
+Fort +3, Ref +2, Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee bite +3 (1d3 plus poison)
+Special Attacks dream web
+TACTICS
+Dream spiders try to lure opponents into their webbing before moving in to bite them. Opponents who become senseless due to Wisdom loss are often wrapped in webbing to ensure they do not recover and are slowly devoured.
+STATISTICS
+Str 10, Dex 15, Con 12, Int —, Wis 12, Cha 11
+Base Atk +0; CMB -1; CMD 11
+Feats Weapon FinesseB
+Skills Climb +10, Stealth +10, Perception +5; racial +4 Stealth, +4 Perception, +8 Climb
+SPECIAL ABILITIES
+Dream Web (Ex) A dream spider can spin webs just like a monstrous spider of the same size but its webs carry an iridescent hue, making them easy to notice (Spot DC 15). Any animal, humanoid, giant, or monstrous humanoid that comes in contact with these webs experiences strange hallucinations, taking 1 point of Wisdom damage per round of contact. A DC 11 Fortitude save negates this damage. If the webs of a dream spider are burned, they create a spread of poisonous gas in a 10-foot radius. This gas deals 1d4 points of Wisdom damage to all creatures in the area (not just to those susceptible to contact with webs as listed above). A DC 11 Fortitude save halves this damage. The cloud of colorful vapor remains for only a single round before dissipating harmlessly. The save DC is Constitution-based.
+Dream Spider Poison (Ex) Type poison, injury; Save Fortitude DC 11
+Frequency 1/round for 5 rounds
+Effect 1d2 Wis damage; Cure 2 saves

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/xorn
+Xorn CR 6
+XP 2,400
+N Medium outsider (earth, extraplanar)
+Init +0; Senses all-around vision, darkvision 60 ft., tremorsense 60 ft.; Perception +14
+DEFENSE
+AC 21, touch 10, flat-footed 21 (+11 natural)
+hp 66 (7d10+28)
+Fort +8, Ref +2, Will +5
+DR 5/bludgeoning; Immune cold, fire, flanking; Resist electricity 10
+OFFENSE
+Speed 20 ft., burrow 20 ft.; earth glide
+Melee bite +10 (4d6+3), 3 claws +10 (1d4+3)
+STATISTICS
+Str 17, Dex 10, Con 17, Int 10, Wis 11, Cha 10
+Base Atk +7; CMB +10; CMD 20 (22 vs. trip)
+Feats Cleave, Improved Bull Rush, Power Attack, Toughness
+Skills Appraise +10, Intimidate +10, Knowledge (dungeonering) +10, Perception +14, Stealth +10, Survival +10; Racial Modifiers +4 Perception
+Languages Common, Terran
+SPECIAL ABILITIES
+All-Around Vision (Ex) A xorn sees in all directions at the same time, giving it a +4 racial bonus on Perception checks. A xorn cannot be flanked.
+Earth Glide (Ex) A xorn can glide through any sort of natural earth or stone as easily as a fish swims through water. Its burrowing leaves no sign of its passage nor hint at its presence to creatures that don’t possess tremorsense. A move earth spell cast on an area containing a xorn moves the xorn back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.

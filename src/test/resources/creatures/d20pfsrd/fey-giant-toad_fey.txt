@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/fey-giant-toad
+Fey Giant Toad CR 3
+XP 800
+CN Large fey
+Init +3; Senses low-light vision, scent; Perception +7
+DEFENSE
+AC 15, touch 12, flat-footed 12 (+3 Dex, +3 natural, -1 size)
+hp 22 (3d8+9)
+Fort +6, Ref +8, Will +0; +4 vs. mind-affecting effects
+Defensive Abilities poison skin; DR 5/cold iron; Resist cold 10, electricity 10
+OFFENSE
+Speed 30 ft., fly 45 ft. (good), swim 15 ft.
+Melee bite +4 (1d6+4 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks swallow whole (1d4 bludgeoning damage, AC 11, 2 hp)
+Spell-Like Abilities (CL 3rd; concentration +2)
+3/day—dancing lights
+1/day—entangle (DC 10), faerie fire, glitterdust (DC 11)
+STATISTICS
+Str 17, Dex 17, Con 16, Int 3, Wis 8, Cha 8
+Base Atk +2; CMB +6 (+10 grapple); CMD 19 (23 vs. trip)
+Feats Lightning Reflexes, Skill Focus (Perception)
+Skills Acrobatics +11 (+15 when jumping), Fly +9, Perception +7, Stealth +8, Swim +11; Racial Modifiers +4 Acrobatics (+8 when jumping), +4 Stealth
+Languages Sylvan
+SQ vanish (3 rounds/day)
+SPECIAL ABILITIES
+Poison Skin (Ex) A creature that strikes a fey giant toad with an unarmed strike or natural weapon exposes itself to the toad’s poisonous skin.
+Skin—contact; save Fort DC 14; frequency 1/round for 4 rounds; effect 1d2 Wisdom damage; cure 1 save.

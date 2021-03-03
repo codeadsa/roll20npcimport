@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sea-serpent
+Sea Serpent
+CR 12
+XP 19,200
+N Gargantuan magical beast ( aquatic)
+Init +6; Senses darkvision 120 ft., low-light vision; Perception +8
+DEFENSE
+AC 25, touch 8, flat-footed 23 (+2 Dex, +17 natural, –4 size)
+hp 187 (15d10+105)
+Fort +16, Ref +13, Will +7
+Defensive Abilities elusive; Immune cold; Resist fire 30
+
+OFFENSE
+Speed 20 ft., swim 60 ft.
+Melee bite +23 (4d8+22/19-20 plus grab), tail slap +18 (3d6+6 plus grab)
+Space 20 ft.; Reach 20 ft.
+Special Attacks capsize, constrict (3d6+18), swallow whole (4d8+18 bludgeoning damage, AC 18, hp 18)
+
+STATISTICS Str 34, Dex 14, Con 25, Int 2, Wis 11, Cha 11
+Base Atk +15; CMB +31 (+35 grapple); CMD 43 (can’t be tripped)
+Feats Improved Bull Rush, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Skill Focus ( Stealth), Stealthy
+Skills Perception +8, Stealth +13, Swim +20
+SPECIAL ABILITIES Capsize (Ex) A sea serpent can attempt to capsize a boat or ship of its size or smaller by ramming it as a charge attack and making a combat maneuver check. The DC of this check is 25 or the result of the boat captain’s Profession (sailor) check, whichever is higher.
+Elusive (Su) Sea serpents have long been the stuff of maritime legends, but despite countless attempts to hunt them, they are rarely encountered unless they wish it. As a full-round action while in water, a sea serpent can move up to its run speed (300 ft.) without leaving any trace of its passing (identical in effect to a pass without trace). An elusive sea serpent gains a +40 circumstance bonus to its Stealth check. In addition, except when in combat, a sea serpent is considered to be under the effects of a nondetection spell. Both of these spell effects are at caster level 20th and cannot be dispelled.

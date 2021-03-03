@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/livestone
+Livestone CR 6
+XP 2,400
+N Large ooze
+Init +0; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 9, touch 9, flat-footed 9 (-1 size)
+hp 76 (8d8+40)
+Fort +7, Ref +2, Will -3
+Defensive Abilities solidify; Immune petrification, ooze traits
+OFFENSE
+Speed 20 ft.
+Melee slam +10 (1d8+7)
+Space 10 ft.; Reach 5 ft.
+Special Attacks engulf (DC 17, 1 acid)
+STATISTICS
+Str 20, Dex 10, Con 20, Int –, Wis 1, Cha 1
+Base Atk +6; CMB +12; CMD 22 (can’t be tripped)
+Skills Stealth -4 (+8 in stony areas, +16 while solidified); Racial Modifiers +12 Stealth in stony areas, +20 if it solidifies while in stony areas
+SPECIAL ABILITIES
+Engulf (Ex) A livestone that has engulfed an opponent can instantly solidify its form, dealing 8d6 points of bludgeoning damage per round to the trapped victim (DC 17 Fort half). The save DC is Strength-based.
+An engulfed creature can be freed by killing the livestone or by casting stone to flesh on the livestone. This deals 1d6 points of damage per caster level to the livestone and automatically ejects an engulfed victim.
+Solidify (Ex) A livestone can solidify all or part of itself into a material with the hardness and consistency of solid rock. A solidified part of a livestone has a hardness of 8 and a break DC of 50. A livestone can effect the solidification as a free action. An opponent attacking a livestone must succeed on a DC 19 Reflex save each time his attack hits. If the save is failed, the livestone actually solidifies the portion of its body at the instant it was hit, thus applying its hardness rating of 8 to any damage it takes. A livestone cannot attack if its entire form is solidified. The save DC is Strength-based.

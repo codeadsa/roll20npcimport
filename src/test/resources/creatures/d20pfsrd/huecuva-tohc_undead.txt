@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/huecuva-tohc
+Huecuva CR 2
+XP 600
+CE Medium undead
+Init +6; Senses darkvision 60 ft.; Perception +5; Aura faithless (30 ft.)
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 16 (3d8+3)
+Fort +2; Ref +3; Will +4
+DR 5/magic or silver; Immune undead traits Spd 30 ft.
+Melee 2 claws +4 (1d6+1 plus disease)
+Spell-like Abilities (CL 3rd)
+3/day—disguise self
+STATISTICS
+Str 13, Dex 14, Con —, Int 4, Wis 12, Cha 12
+Base Atk +2; CMB +3; CMD 15
+Feats Improved Initiative, Weapon Focus (claw)
+Skills Perception +5, Stealth +7
+SPECIAL ABILITIES
+Disease (Ex) Filth fever: Claw—injury; save Fort DC 12; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. The save DC is Charisma-based.
+Faithless (Su) The huecuva and all undead creatures within 30 feet receive a +2 profane bonus on Will saves made to resist channeled energy and any effects based off that ability. This bonus stacks with channel resistance.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/cyclops/cyclops-mighty
+Mighty Cyclops CR 10
+XP 9,600
+NE Large mighty humanoid (giant)
+Init +4; Senses low-light vision; Perception +11
+DEFENSE
+AC 24, touch 13, flat-footed 24 (+4 armor, –1 Dex, +7 natural, –1 size, +5 dodge)
+hp 165 (10d8+20+100)
+Fort +14, Ref +7, Will +9
+DR 3/—; Defensive Abilities ferocity; Immune mind-affecting, paralysis, sleep; SR 17
+OFFENSE
+Speed 60 ft.
+Melee greataxe +21/+16 (3d6+12/x3)
+Ranged heavy crossbow +15 (2d8+5/19–20)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 21, Dex 8, Con 15, Int 10, Wis 13, Cha 8
+Base Atk +17; CMB +23; CMD 37
+Feats Alertness, Cleave, Great Cleave, Improved Bull Rush, Power Attack
+Skills Intimidate +17, Perception +11, Profession (soothsayer) +15 Sense Motive +10, Survival +11; Racial Modifiers +8 Perception
+Languages Common, Cyclops, Giant
+SQ flash of insight
+SPECIAL ABILITIES
+Flash of Insight (Su) Once per day as an immediate action, a cyclops can peer into an occluded visual spectrum of possible futures, gaining insight that allows it to select the exact result of one die roll before the roll is made. This effect can alter an action taken by the cyclops only, and it cannot be applied to the rolls of others.
+

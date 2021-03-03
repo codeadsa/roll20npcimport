@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/raggoth
+Raggoth CR 9
+XP 6,400
+NE Large magical beast
+Init +7; Senses darkvision 60 ft., low-light vision, scent; Perception +13
+DEFENSE
+AC 22, touch 12, flat-footed 19 (+3 Dex, +10 natural, -1 size)
+hp 115 (11d10+55)
+Fort +12, Ref +10, Will +6
+Defensive Abilities stability; DR 10/magic
+OFFENSE
+Speed 40 ft.
+Melee bite +16 (1d8+6), 4 claws +16 (1d6+6 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks pounce, rake (2 claws +16, 1d6+6), tormenting howl
+TACTICS
+Raggoths are ambush hunters and always use stealth tactics when hunting and tracking their prey. When spotted, a raggoth moves slowly toward its target and then quickly bursts from its hiding spot at its opponent. If the raggoth doesn’t fell its opponent in the first round, it lets loose its tormenting howl to weaken its prey before attempting to finish it off with its terrible claws and bite. A raggoth fights to the death only if cornered or defending its lair.
+STATISTICS
+Str 23, Dex 16, Con 21, Int 6, Wis 12, Cha 14
+Base Atk +11; CMB +18 (+22 grapple); CMD 31 (35 vs. bull rush, 39 vs. trip)
+Feats Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception, Stealth, Survival)
+Skills Perception +13, Stealth +14, Survival +8 (+16 when tracking by scent); Racial Modifiers +4 Stealth, +4 Survival (+8 Survival when tracking by scent)
+SPECIAL ABILITIES
+Stability (Ex) A raggoth gets a +4 bonus on checks made to resist being bull rushed when standing on the ground (but not when climbing, flying, riding, or otherwise not standing firmly on the ground).
+Tormenting Howl (Su) Once every 1d4 rounds, a raggoth can loose a piercing howl that affects all creatures within 60 feet that hear it. A creature within the area must succeed on a DC 17 Will save or become shaken for 2d4 rounds. A creature that succeeds on its save is immune to the tormenting howl of that raggoth for 24 hours. Multiple uses of tormenting howl do not stack but do increase the duration. The save DC is Charisma-based.

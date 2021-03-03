@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/dinosaur-pachycephalosaurus
+Pachycephalosaurus CR 4
+XP 1,200
+N Large animal
+Init +2; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, -1 size)
+hp 37 (5d8+15)
+Fort +7, Ref +6, Will +2
+OFFENSE
+Speed 40 ft.
+Melee slam +8 (2d6+9)
+Space 10 ft.; Reach 10 ft.
+Special Attacks clobbering charge
+STATISTICS
+Str 22, Dex 15, Con 17, Int 2, Wis 12, Cha 5
+Base Atk +3; CMB +10; CMD 22
+Feats Improved Bull Rush, Power Attack, Run
+Skills Perception +8, Stealth +2
+SPECIAL ABILITIES
+Clobbering Charge (Ex) When a pachycephalosaurus hits a target with its slam attack at the end of a charge, it can initiate a bull rush as a free action to move the struck target back in the same direction as the dinosaur’s charge. The pachycephalosaurus cannot move with the target of the bull rush. If a pachycephalosaurus scores a critical hit against a creature with its slam attack at the end of a charge, it also staggers the target for 1 round. If the victim succeeds at a DC 18 Fortitude save, the stagger effect is negated, but the victim still suffers the effects of the dinosaur’s bull rush attempt. The save DC is Strength-based.
+Source Wikipedia Source Wikipedia

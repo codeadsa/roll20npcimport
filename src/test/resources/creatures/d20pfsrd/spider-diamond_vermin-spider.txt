@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/spider-diamond
+Diamond Spider CR 3
+XP 800
+N Medium vermin
+Init +3; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +4
+DEFENSE
+AC 15, touch 13, flat-footed 12 (+3 Dex, +2 natural)
+hp 16 (3d8+3) plus 30 temporary hp
+Fort +4, Ref +4, Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee diamond blade +5/+5 (1d8, 15–20) or bite +2 (1d6 plus poison)
+STATISTICS
+Str 11, Dex 17, Con 12, Int —, Wis 10, Cha 2
+Base Atk +2; CMB +2; CMD 15 (27 vs. trip)
+Skills Acrobatics +11, Climb +16, Perception +4 (+8 in webs), Stealth +7 (+11 in webs); Racial Modifiers +4 Perception, +4 Stealth (+8 in webs), +16 Climb
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; saving throw Fort DC 14; frequency 1/round for 4 rounds; effect 1d2 Strength damage; cure 1 saving throw.

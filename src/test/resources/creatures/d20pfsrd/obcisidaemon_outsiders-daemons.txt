@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/obcisidaemon
+Obcisidaemon CR 19
+XP 204,800
+NE Gargantuan outsider (daemon, evil, extraplanar)
+Init +4; Senses darkvision 60 ft., deathwatch, true seeing; Perception +30; Aura scorched earth (60 ft.)
+DEFENSE
+AC 34, touch 10, flat-footed 30 (+4 Dex, +24 natural, –4 size)
+hp 319 (22d10+198)
+Fort +22, Ref +11, Will +18
+DR 15/good and silver; Immune acid, death effects, disease, poison; Resist cold 30, electricity 30, fire 30; SR 30
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee +1 unholy halberd +30/+25/+20/+15 (4d8+16/×3 plus inherit soul), bite +28 (2d8+15)
+Space 20 ft.; Reach 20 ft.
+Special Attacks cloak of souls
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant—deathwatch, true seeing
+At will—cloudkill (DC 22), greater teleport (self plus 50 lbs. of objects only)
+3/day—destruction (DC 24), fire storm (DC 25), incendiary cloud (DC 25), quickened spell turning
+1/day—mass hold person (DC 24), meteor swarm (DC 26), summon (level 9, 1 purrodaemon 50%)
+STATISTICS
+Str 30, Dex 19, Con 28, Int 13, Wis 21, Cha 24
+Base Atk +22; CMB +36; CMD 50
+Feats Bleeding Critical, Cleave, Critical Focus, Great Cleave, Greater Vital Strike, Improved Vital Strike, Power Attack, Quicken Spell-Like Ability (spell turning), Staggering Critical, Vital Strike, Weapon Focus (halberd)
+Skills Bluff +32, Fly +23, Intimidate +32, Knowledge (history) +15, Knowledge (planes) +15, Perception +30, Sense Motive +30, Spellcraft +26
+Languages Abyssal, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Cloak of Souls (Su) An obcisidaemon is surrounded by a dark cloud of souls it has consumed, often resembling a tattered, ethereal cloak. When an obcisidaemon successfully captures a soul with its inherit soul ability, the soul becomes a part of its cloak of souls, taking up one soul slot. An obcisidaemon has a number of soul slots equal to its Charisma modifier (usually 7). An obcisidaemon can consume a soul as a swift action to achieve a particular effect. When a soul within this cloak is consumed by the obcisidaemon, it is immolated as though by the destruction spell. Destroying the daemon frees the souls in its cloak, though this does not return the deceased creatures to life. Any attempt to resurrect a body whose soul is trapped in a cloak of souls requires a DC 28 caster level check. Failure results in the spell having no effect, while success tears the victim’s soul free from the cloak and returns the creature to life as normal. If the daemon is in an unholy location, such as that created by the unhallow spell, the DC of this caster level check increases by +2. The caster level check DC is Charisma-based. An obcisidaemon can achieve one of the following effects by consuming a single soul.
+Increase the DC of the next spell-like ability the obcisidaemon uses that round by +1. Give the obcisidaemon 3d6 temporary hit points for 1 hour. Increase the damage of the obcisidaemon’s next melee attack that round by +1d6 hit points. Inherit Soul (Su) Whenever an obcisidaemon kills a creature with its halberd, that creature must immediately make a DC 31 Fortitude save or be consumed by the daemon’s cloak of souls. This is a death effect. If the cloak cannot consume this soul without exceeding its number of soul slots, the daemon can release a soul as a free action in order to make room for the new soul, otherwise, the killed creature automatically succeeds at its save and its soul is not absorbed. The save DC is Constitution-based.
+Scorched Earth (Su) A creature that dies within 60 feet of an obcisidaemon must immediately make a DC 28 Fortitude save to prevent its body from being utterly consumed in unholy fire equivalent to the destruction spell. The save DC is Charisma-based.

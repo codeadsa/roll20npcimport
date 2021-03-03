@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-piranha-swarm-jbe
+Piranha Swarm CR 2
+XP 600
+N Tiny animal (aquatic, swarm)
+Init +7; Senses low-light vision, scent; Perception +10
+DEFENSE AC 15, touch 15, flat-footed 12 (+3 Dex, +2 size)
+hp 14 (4d8-4)
+Fort +3, Ref +7, Will +2
+Defensive Abilities swarm traits
+OFFENSE Speed swim 30 ft.
+Melee swarm (1d6 plus 1 bleed)
+Space 10 ft. cube; Reach 0 ft.
+Special Attacks distraction (DC 11)
+STATISTICS Str 4, Dex 16, Con 8, Int 1, Wis 12, Cha 5
+Base Atk +3; CMB -; CMD –
+Feats Alertness, Improved Initiative
+Skills Perception +9; Racial Modifiers Swim +8
+SPECIAL ABILITIES Scent (Ex) A piranha swarm can smell a warm-blooded creature in the water up to 100 ft away and fresh blood in the water up to 300 ft away.

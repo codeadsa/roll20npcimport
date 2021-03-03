@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/boilborn
+Boilborn CR 1
+XP 400
+N Tiny ooze
+Init –5; Senses blindsight 30 ft.; Perception –4
+DEFENSE
+AC 7, touch 7, flat-footed 7 (–5 Dex, +2 size)
+hp 15 (2d8+6)
+Fort +3, Ref –5, Will –4
+Immune ooze traits; Resist acid 10
+OFFENSE
+Speed 10 ft., climb 10 ft., swim 10 ft.
+Melee slam +4 (1d2+1 plus disease)
+Special Attacks death throes, disease
+Space 2 ft.; Reach 0 ft.
+STATISTICS
+Str 12, Dex 1, Con 17, Int —, Wis 2, Cha 1
+Base Atk +1; CMB –6; CMD 5 (can’t be tripped)
+Skills Climb +9, Swim +9
+SPECIAL ABILITIES
+Death Throes (Su) When killed, a boilborn pops in a 10-foot-radius burst that deals 2d6 points of acid damage (DC 14 Reflex half). Creatures taking damage must succeed at a DC 12 Fortitude save or contract leprosy.
+Disease (Su) Leprosy: Injury; save Fort DC 12; onset 2d4 weeks; frequency 1/week; effect 1d2 Cha damage; cure 2 consecutive saves. This save is Constitution-based.

@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/spawn-of-destruction/the-end-singer
+The End-Singer CR 22
+XP 614,400
+CE Colossal magical beast
+Init +10; Senses all-around vision, blindsense 300 ft., darkvision 60 ft., low-light vision, scent; Perception +20; Aura frightful presence (300 ft., DC 27)
+DEFENSE
+AC 39, touch 9, flat-footed 32 (+6 Dex, +1 dodge, +30 natural, –8 size)
+hp 437 (25d10+300); regeneration 30
+Fort +26, Ref +20, Will +12
+DR 15/epic; Immune ability damage, acid, bleed, disease, electricity, energy drain, mind-affecting effects, paralysis, permanent wounds, petrification, poison, polymorph; SR 33
+OFFENSE
+Speed 20 ft., fly 100 ft. (perfect)
+Melee bite +29 (4d6+12), 3 razor tongues +29 (2d6+12/18–20/x3 plus 1d6 bleed, 1 Con bleed, and blood rage), 6 wings +24 (2d8+6)
+Ranged 4 eye rays +23 (4d6 sonic/18–20 plus nausea)
+Space 30 ft.; Reach 30 ft. (50 ft. with razor tongues)
+Spell-Like Abilities (CL 25th; concentration +30)
+At will–acid fog, greater invisibility, song of discord (DC 20)
+3/day–winds of vengeance
+STATISTICS
+Str 34, Dex 22, Con 35, Int 7, Wis 14, Cha 21
+Base Atk +25; CMB +45; CMD 62 (can’t be tripped)
+Feats Ability Focus (eye ray), Dodge, Flyby Attack, Improved Initiative, Improved Precise Shot, Improved Vital Strike, Iron Will, Mobility, Point-Blank Shot, Power Attack, Precise Shot, Snatch, Vital Strike
+Skills Fly +19, Perception +20
+Languages Aklo
+SQ hibernation, shatter silence, unstoppable force
+SPECIAL ABILITIES
+Blood Rage (Ex) Any creature taking bleed damage from its razor tongues takes a –4 penalty on Will saves and is affected as the murderous command spell (Will DC 16 negates) each round that bleeding continues, ignoring allies that are also taking bleed damage from it.
+Eye Rays (Su) The End-Singer fires eye rays at a range of up to 120 feet. Creatures struck by his eye rays are nauseated for 1 minute (Fortitude DC 29 negates). In addition, if the target fails a second Fortitude save against the same DC, it gains one of the following conditions, lasting as long as the nauseated condition, as its mind and body begin to unravel (roll 1d6):
+d6 Condition
+1 Confused
+2 Fatigued (exhausted if already fatigued)
+3 Shaken (increase severity of fear effect if already present)
+4 Sickened
+5 Staggered
+6 Stunned
+Reroll if an identical condition already exists. This is a sonic effect. The save DC is Charisma-based.
+Shatter Silence (Su) The End-Singer’s presence unravels magical silence effects or effects that provide energy resistance against sonic attacks. At the beginning of its turn, any such effect within 60 feet is targeted as dispel magic (caster level 25th).

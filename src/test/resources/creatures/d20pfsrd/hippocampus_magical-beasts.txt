@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hippocampus
+Hippocampus CR 1
+XP 400
+N Large magical beast (aquatic)
+Init –1; Senses darkvision 60 ft., low-light vision, scent; Perception +6
+DEFENSE
+AC 12, touch 8, flat-footed 12 (–1 Dex, +4 natural, –1 size)
+hp 15 (2d10+4)
+Fort +5, Ref +2, Will +1
+OFFENSE
+Speed 5 ft., swim 60 ft.
+Melee bite +4 (1d4+3), tail slap –1 (1d4+1)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 16, Dex 9, Con 15, Int 2, Wis 12, Cha 11
+Base Atk +2; CMB +6; CMD 15
+Feats Endurance
+Skills Perception +6, Swim +11; Racial Modifiers +8 Swim
+SQ water dependency
+SPECIAL ABILITIES
+Water Dependency (Ex)
+A hippocampus can survive out of the water for 1 minute per point of Constitution. Beyond this limit, a hippocampus runs the risk of suffocation, as if it were drowning.

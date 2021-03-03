@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/mite-TOHC
+Common Mite CR 1/2
+XP 400
+LE Small fey
+Init +1; Senses darkvision 90 ft., low-light vision, scent; Perception +5
+DEFENSE
+AC 12, touch 12, flat-footed 11 (+1 Dex, +1 size)
+hp 3 (1d6)
+Fort +0, Ref +3, Will +3
+DR 2/cold iron
+Weaknesses light sensitivity
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee dagger +2 (1d3-1/19-20), bite +2 (1d2-1)
+Ranged dart +2 (1d3-1)
+Special Attacks hatred
+Spell-like Abilities (CL 2nd)
+At will—prestidigitation
+1/day—doom (DC 11)
+TACTICS
+Trickery and surprise are the forte of the mite. They avoid direct melee with opponents, preferring to attack from ambush. Often, the first telltale signs that mites may be nearby is the plethora of traps, snares, and tripwires encountered. Mites prefer to attack those they feel they can overpower or dispose of quickly. Extremely tough or powerful opponents are ignored and left to pass through unabated or swarmed by a massive number of mites. Though considered unintelligent and stupid by other races, there is a sort of weird cooperation and strategy to mite tactics (that only mites can understand).
+A typical mite ambush has the creatures digging narrow tunnels that parallel a dungeon’s corridors. When a foe traverses these corridors, the mites burst from the walls and tunnels and strike quickly with their daggers. Opponents are rarely killed, but any knocked unconscious are relieved of coins, weapons, or any other item of value. If forced into melee, mites seek escape at the first possible opportunity. Mites attack with daggers and a bite in combat.
+STATISTICS
+Str 8, Dex 13, Con 11, Int 8, Wis 13, Cha 10
+Base Atk +0; CMB -2 ; CMD 9
+Feats Weapon Finesse
+Skills Climb +11, Craft (traps) +7, Perception +5, Stealth +10; Racial Modifiers +4 Craft (traps)
+Languages Aklo
+SQ vermin empathy +4
+Gear dagger, 6 darts
+SPECIAL ABILITIES
+Hatred (Ex) Mites receive a +1 bonus on attack rolls against creatures with the dwarf or gnome subtype due to special training against these hated foes.
+Vermin Empathy (Ex) This ability functions as a druid’s wild empathy, save that a mite can only use this ability on vermin.
+A mite gains a +4 racial bonus on this check. Vermin are normally mindless, but this empathic communication imparts on them a modicum of implanted intelligence, allowing mites to train Medium vermin and use them as mounts.
+Vermin empathy treats swarms as if they were one creature possessing a single mind–a mite can thus use this ability to influence and direct the actions of swarms with relative ease.

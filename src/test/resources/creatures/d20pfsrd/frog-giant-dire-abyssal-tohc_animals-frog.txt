@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/frog/frog-giant-dire-abyssal-tohc
+Giant Abyssal Dire Frog CR 4
+XP 1200
+CE Large outsider (augmented animal, extraplanar)
+Init +8; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 24, touch 14, flat-footed 20 (+4 Dex, +10 natural, -1 size)
+hp 58 (4d8+36)
+Fort +13; Ref +10; Will +4
+Resistance cold 5, fire 5; SR 9
+OFFENSE
+Speed 40 ft., swim 40 ft.
+Melee bite +10 (1d8+8 plus grab) or tongue +10 touch (grab)
+Space 10 ft.; Reach 10 ft. (20 ft. with tongue)
+Special Attacks pull (tongue, 10 feet), smite good 1/day (+4 damage), swallow whole (1d8+8 bludgeoning damage, AC 12, 2 hp), tongue
+STATISTICS
+Str 27, Dex 19, Con 28, Int 5, Wis 16, Cha 14
+Base Atk +3; CMB +12 (+16 grapple); CMD 26 (30 vs. trip)
+Feats Improved Initiative, Lightning Reflexes
+Skills Acrobatics +13 (+17 jumping), Perception +8, Stealth +4, Swim +16; Racial Modifiers +4 Acrobatics (+8 jumping), +4 Stealth
+Language Abyssal

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/urchin/sea-urchin-spear
+Spear Urchin CR 4
+XP 1200
+N Large vermin (aquatic)
+Init –4; Senses low-light vision, scent, tremorsense 30 ft.; Perception +4
+DEFENSE
+AC 17, touch 5, flat-footed 17 (–4 Dex, +12 natural, –1 size)
+hp 42 (5d8+20)
+Fort +8, Ref –3, Will +1
+Defensive Abilities all-around vision, stability (see the hunter urchin); Immune mind-affecting effects
+OFFENSE
+Speed 5 ft.
+Melee 2 spines +8 (1d6+6 plus poison)
+Ranged 2 spines +3 (1d6+6 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks spines (+8, 1d6+6 plus poison)
+STATISTICS
+Str 23, Dex 3, Con 18, Int —, Wis 11, Cha 2
+Base Atk +3; CMB +10; CMD 16 (24 vs. bull rush, can’t be tripped)
+Skills Perception +4; Racial Modifiers +4 Perception
+SQ amphibious
+SPECIAL ABILITIES
+Poison (Ex) Spines—injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d2 Str and nauseated for 1 round; cure 1 save.
+Spines (Ex) When a creature attacks a spear urchin with an unarmed strike or natural attack, or with a manufactured melee weapon while adjacent to the urchin, the urchin automatically gains a free attack with its spines. In addition, a spear urchin can fire up to 2 spines each round with a range increment of 30 feet. As long as its target is within 30 feet, a spear urchin ignores Dexterity and size penalties on ranged attack rolls, but beyond this range the penalties function normally. A spear urchin’s spines function equally well underwater and above water.

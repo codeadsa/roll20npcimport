@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ectoplasm-tohc
+Ectoplasm (ghost Ooze) CR 5
+XP 1,600
+N Large ooze (incorporeal)
+Init +1; Senses blindsight 60 ft.; Perception –5
+DEFENSE
+AC 11, touch 11, flat-footed 10 (+1 deflection, +1 Dex, -1 size)
+hp 47 (5d8+25)
+Fort +6; Ref +2; Will -4
+Defensive Abilities incorporeal; Immune ooze traits
+OFFENSE
+Speed fly 30 ft. (perfect)
+Melee incorporeal touch +3 (1d8 Strength damage)
+Space 10 ft.; Reach 5 ft.
+Special Attacks breath weapon, manifestation, strength damage, undead bane
+STATISTICS
+Str —, Dex 12, Con 21, Int —, Wis 1, Cha 1
+Base Atk +3; CMB +5; CMD 16
+Skills Fly +7
+SQ glow
+SPECIAL ABILITIES
+Breath Weapon (Su) Once every 2 rounds as a standard action, an ectoplasm can release a 20-foot cone of ectoplasmic goo at its foes. Affected opponents must succeed on a DC 17 Fortitude save or be affected as if by a sleep spell (caster level 7th). A successful save renders a creature immune to that ectoplasm’s breath weapon for 24 hours. The save DC is Constitution-based.
+Glow (Su) An ectoplasm continually gives off light with the approximate brightness of a candle. It cannot consciously extinguish this light. When an ectoplasm is killed, this light fades to darkness.
+Manifestation (Su) An ectoplasm dwells on the Ethereal Plane and as an ethereal creature, it cannot affect or be affected by anything in the material world. When an ectoplasm manifests, it partly enters the Material Plane and becomes visible but incorporeal. A manifested ectoplasm can be harmed only by other incorporeal creatures, magic weapons, or spells, with a 50% chance to ignore any damage from a corporeal source. A manifested ectoplasm can pass through solid objects at will, and its own attacks pass through armor. A manifested ectoplasm always moves silently.
+Strength Damage (Su) The touch of an ectoplasm deals 1d8 points of Strength damage to living opponents.
+Undead Bane (Su) Against corporeal undead, an ectoplasm deals 1d8 points of Strength damage and 1d8 points of damage. Ectoplasms ignore the damage reduction of corporeal undead.
+

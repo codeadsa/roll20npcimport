@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/mortuary-cyclone
+Mortuary Cyclone CR 20
+XP 307,200
+N Huge undead
+Init +5; Senses darkvision 60 ft.; Perception +39; Aura desecrating aura (50 ft.)
+DEFENSE
+AC 28, touch 13, flat-footed 27 (+1 Dex, +15 natural, +4 profane, -2 size)
+hp 263 (31d8+124)
+Fort +20, Ref +17, Will +24
+DR 15/bludgeoning and magic; Immune undead traits; SR 31
+OFFENSE
+Speed 40 ft.
+Melee slam +33 (2d8+16/19-20 plus energy drain)
+Space 15 ft.; Reach 15 ft.
+Special Attacks create spawn, energy drain (2 levels, DC 29), necrocone, whirlwind (10-40 ft. high, 3d6 damage, DC 36),
+STATISTICS
+Str 33, Dex 12, Con –, Int 11, Wis 12, Cha 19
+Base Atk +23; CMB +36; CMD +49
+Feats Ability Focus (energy drain), Alertness, Blind-Fight, Cleave, Combat Reflexes, Great Cleave, Great Fortitude, Improved Critical (slam), Improved Initiative, Improved Iron Will, Intimidating Prowess, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Intimidate), Weapon Focus (slam)
+Skills Acrobatics +32, Intimidate +46, Perception +39, Sense Motive +1, Stealth +27
+Languages Common (cannot speak)
+SQ unholy grace
+SPECIAL ABILITIES
+Create Spawn (Su) Any living creature slain by a mortuary cyclone’s necrocone attack or energy drain attack becomes an undead creature in 1d4 rounds. Spawn are under the command of the mortuary cyclone that created them and remain enslaved until its destruction.
+Desecrating Aura (Su) A mortuary cyclone emanates an aura of desecration within a 50-foot radius centered on its body. This functions as a desecrate spell (caster level 18th) as if the mortuary cyclone where a permanent fixture dedicated to its own deity. Clerics in the area take a -6 profane penalty on turning checks, undead within the area gain a +2 profane bonus on attack rolls, damage rolls, and saves, and undead created within the area have +2 hit points per HD. Further, anyone casting animate dead within 50 feet of a mortuary cyclone creates as many as double the normal amount of undead (4 HD per caster level instead of 2 HD per caster level).
+A consecrate spell cast on a mortuary cyclone by a caster of 18th level or higher nullifies its desecrating aura for 1 minute per caster level.
+Necrocone (Su) Once every 1d4 rounds, a mortuary cyclone can blast forth a mass of bone fragments, debris and negative energy in a 30-foot cone. Creatures caught in the cone take 6d6 points of damage. Half this damage is piercing damage, but the other half is from negative energy and is not subject to resistance or immunity (unless the opponent is resistant or immune to negative energy effects). An affected creature that succeeds on a DC 27 Reflex save reduces the piercing damage by half. Undead within the area of a necrocone heal a number of hit points equal to the amount of negative energy damage (3d6) the attack would otherwise deal. An undead creature cannot gain temporary or bonus hit points from a mortuary cyclone’s necrocone. The save DC is Charisma-based.
+Mortuary Cyclone Spawn
+A creature killed by a mortuary cyclone’s necrocone rises as an undead creature in 1d4 rounds. The type is based on the creature’s total HD.
+Total HD Opponent Rises as
+Less than 10 Zombie or skeleton
+11–15 HD Wraith
+16–20 HD Spectre
+21+ HD Dread wraith
+Unholy Grace (Su) A mortuary cyclone adds its Charisma modifier as a bonus on its saving throws and as a profane bonus to its Armor Class. (The statistics block already reflects these bonuses.)

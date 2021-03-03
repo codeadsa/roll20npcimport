@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ubue
+Ubue CR 2
+XP 600
+CN Large humanoid (giant)
+Init -1; Senses low-light vision; Perception +8
+DEFENSE
+AC 18, touch 8, flat-footed 18 (+4 armor, -1 Dex, +6 natural, -1 size)
+hp 19 (3d8+6)
+Fort +5, Ref +0, Will +1
+Defensive Abilities all-around vision; Immune flanking
+Weaknesses multiple personalities
+OFFENSE
+Speed 20 ft. (30 ft. base)
+Melee 3 clubs +5 (1d8+3) or 3 slams +4 (1d6+3)
+Ranged 3 clubs +1 (1d6+3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks superior multiweapon fighting
+TACTICS
+Ubues attack with savage brutality as if in an animalistic rage.
+STATISTICS
+Str 16, Dex 9, Con 15, Int 8, Wis 10, Cha 12
+Base Atk +2; CMB +6; CMD 15
+Feats Power Attack, Weapon Focus (club)
+Skills Climb +7, Intimidate +5, Perception +8; Racial Modifiers +4 Perception
+Languages Giant
+Gear hide armor, 3 clubs
+SPECIAL ABILITIES
+Multiple Personalities (Ex) The three heads of an ubue rarely get along with each other. Due to this division of personalities, there is a 15% chance in any given situation (usually once per encounter) that the heads get into an argument. An ubue engaged in an argument with itself takes a -2 circumstance penalty on attack rolls, Reflex saves, and to AC for the duration of the encounter, or until they can reach some sort of accord.
+In a non-combat situation, an opponent can coerce an ubue into a self-argument by making a Charisma check opposed by the ubue’s Wisdom check. If the ubue wins the opposed check, the character cannot attempt to coerce that ubue again for one day.
+Superior Multiweapon Fighting (Ex) An ubue fights with a club in each of its three hands. Because each of its three heads controls an arm, the ubue does not take a penalty on attack or damage rolls for attacking with three weapons.
+Ubue Characters Ubues are simple thinkers, and prefer simple choices when advancing in a class, particularly favoring the barbarian and fighter classes. All ubues have the following racial traits.
++6 Strength, -2 Dexterity, +4 Constitution, -2 Intelligence, +2 Charisma: Ubues are sturdy and powerful creatures. Large Size: -1 penalty to AC, -1 penalty to attack rolls, -4 penalty on Stealth checks, +1 bonus on CMB and CMD, lifting and carrying limits double those of Medium creatures. Space/Reach: 10 ft./10 ft. Low-Light Vision: Ubues can see twice as far as humans in dimly lit conditions. All-Around Vision: Because each head thinks independently, ubues can see in all directions, and can’t be flanked. Racial Hit Dice: An ubue begins with three levels of humanoid, which provide 3d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +3, Ref +1, and Will +1. Racial Skills: An ubue’s humanoid levels give it skill points equal to 3 x (2 + Int modifier). Racial Feats: An ubue’s humanoid levels give it two feats. AC: +6 natural armor bonus. Natural Weapons: Ubues can fight with slam attacks that deal lethal damage (1d6). Special Attacks: Superior Multiweapon Fighting (see left). Special Qualities: Multiple personalities (see left). Weapon Familiarity: Ubues are proficient with simple weapons. Armor Familiarity: Ubues are proficient with light and medium armor and with shields (except tower shields). Languages: Ubues begin play speaking Giant. If an ubue has an Intelligence of at least 10 it also knows Common. Ubues with high Intelligence can choose from among the following bonus languages: Aklo, Gnoll, Goblin, Orc, Undercommon.

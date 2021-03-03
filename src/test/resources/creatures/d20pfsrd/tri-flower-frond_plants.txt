@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/tri-flower-frond
+Tri-Flower Frond CR 2
+XP 600
+N Medium plant
+Init +0; Senses blindsight 30 ft., low-light vision; Perception +1
+DEFENSE
+AC 13, touch 10, flat-footed 13 (+3 natural)
+hp 13 (2d8+4)
+Fort +5, Ref +0, Will +1
+Defensive Abilities camouflage; Immune plant traits
+OFFENSE
+Speed 0 ft. (immobile)
+Melee 4 tendrils +3 (1d2+2 plus sleep pollen)
+Special Attacks acid, fluid drain, sleep pollen
+TACTICS
+These creatures are generally most active during the day and dine on fresh meat, having no preference as to the source. If a foe falls victim to its sleep poison, the tri-flower frond droops over the fallen foe, allowing its yellow bloom to drip a shower of caustic acid on the sleeping victim while it inserts a needle-like tendril from its red bloom into the victim’s body and drains fluids.
+STATISTICS
+Str 14, Dex 10, Con 14, Int –, Wis 13, Cha 9
+Base Atk +1; CMB +3; CMD 13 (can’t be tripped or bull rushed)
+SPECIAL ABILITIES
+Acid (Ex) The tri-flower frond can tip its yellow bloom over a slumbering or prone foe and shower it with sap laden with potent digestive enzymes. This sap does 1d6 points of acid damage per round to flesh until it is washed or scraped off.
+Camouflage (Ex) Since a tri-flower frond looks like a normal flowering plant when at rest, it takes a DC 20 Perception check to notice it before it attacks. Anyone with ranks in Survival or Knowledge (nature) can use one of those skills instead of Perception to notice the plant.
+Fluid Drain (Ex) Against a sleeping or helpless foe, a tri-flower frond can release a needle-sharp tendril from its red bloom that pierces its target and drains its body fluids. This deals 1d4 points of Constitution damage each round, and the victim is considered grappled.
+Sleep Pollen (Ex) A creature struck by one of the tri-flower frond’s tendrils must make a DC 13 Fortitude save or fall into a deep, coma-like slumber from which it cannot be awakened that lasts for 1-4 hours. The save DC is Constitution-based. Resistances and immunities to poison apply against the pollen, but resistances or immunities to sleep effects do not. A slumbering victim can also be awakened by a successful DC 20 Heal check after one minute of treatment.
+A creature that falls victim to the sleep pollen is subject to the tri-flower frond’s acid and fluid drain attacks, both as free actions.

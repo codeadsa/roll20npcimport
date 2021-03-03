@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/living-lake
+Living Lake CR 22
+XP 615,000
+N Colossal ooze
+Init +4; Senses blindsight 60 ft., tremorsense 120 ft.; Perception +40
+DEFENSE
+AC 23, touch 2, flat-footed 23 (+21 natural, -8 size)
+hp 525 (30d8+360 plus 30)
+Fort +24, Ref +12, Will +18
+Immune gaze attacks, visual effects, poison, sleep, paralysis, polymorph, stunning
+OFFENSE
+Speed 30 ft.
+Melee 4 (or more) slams +31 (4d6+17 plus grab)
+Space 100 ft.; Reach 20 ft.
+Special Attacks constrict (4d6+17), engulf (4d6+17 bludgeoning, AC 20, 52 hp), trample (4d6+25, DC 42)
+Druid Spells Prepared (CL 20th):
+9th—antipathy (DC 25), mass cure critical wounds, regenerate, summon nature’s ally IX
+8th—control plants (DC 24), earthquake, sunburst (DC 24), whirlwind (DC 24)
+7th—animate plants, control weather, heal, sunbeam (DC 23)
+6th—greater dispel magic, liveoak, move earth, stone tell, summon nature’s ally VI
+5th—animal growth, baleful polymorph (DC 21), insect plague, summon nature’s ally V, wall of thorns
+4th—blight (DC 20), command plants (DC 20), flame strike (DC 20), scrying, summon nature’s ally IV
+3rd—call lightning (DC 19), dominate animal (DC 19), poison (DC 19), sleet storm, water breathing
+2nd—animal trance (DC 18), bull’s strength, flaming sphere (DC 18), heat metal (DC 18), hold animal (DC 18), lesser restoration
+1st—calm animals (DC 17), charm animal (DC 17), cure light wounds, obscuring mist, produce flame, summon nature’s ally I
+0 (at will)—detect magic, flare (DC 16), purify food and drink, virtue
+STATISTICS
+Str 45, Dex 10, Con 35, Int 16, Wis 22, Cha 16
+Base Atk +22; CMB +47 (+51 grapple); CMD 57 (can’t be tripped)
+Feats Alertness, Cleave, Combat Casting, Empower Spell, Great Fortitude, Improved Initiative, Improved Natural Armor, Improved Natural Attack (slam), Iron Will, Lightning Reflexes, Power Attack, Quicken Spell, Spell Focus (conjuration), Toughness, Weapon Focus (slam)
+Skills Knowledge (local) +33, Knowledge (nature) +33, Perception +40, Sense Motive +8, Stealth +14, Survival +38; Racial Modifiers +2 Survival
+Languages Aquan, Common, Orc, Sylvan
+SPECIAL ABILITIES
+Engulf (Ex) A living lake that has grabbed an opponent can try to engulf the creature in its body. This ability functions as swallow whole, except for the following changes. An engulfed creature is trapped in the living lake’s body, where the ooze inflicts automatic slam damage each round. In addition, an engulfed foe has no air to breathe and must hold its breath or risk drowning. A living lake can engulf 1 Gargantuan, 2 Huge, 8 Large, 16 Medium, 32 Small, 64 Tiny, 128 Diminutive, or 512 Fine creatures. If an engulfed creature cuts its way free, living lake simply flows together again and can still use its engulf attack.

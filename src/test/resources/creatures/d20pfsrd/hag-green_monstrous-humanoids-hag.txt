@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-green
+Green Hag CR 5
+XP 1,600
+CE Medium monstrous humanoid
+Init +1; Senses darkvision 90 ft.; Perception +15
+DEFENSE
+AC 19, touch 11, flat-footed 18 (+1 Dex, +8 natural)
+hp 58 (9d10+9)
+Fort +6, Ref +7, Will +7
+SR 16
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee 2 claws +13 (1d4+4 plus weakness)
+Spell-Like Abilities (CL 9th)
+Constant—pass without trace, tongues, water breathing
+At will—alter self, dancing lights , ghost sound (DC 12), invisibility, pyrotechnics (DC 14), tree shape, whispering wind
+STATISTICS
+Str 19, Dex 12, Con 12, Int 15, Wis 13, Cha 14
+Base Atk +9; CMB +13; CMD 24
+Feats Alertness, Blind-Fight, Combat Casting, Deceitful, Great Fortitude
+Skills Bluff +13, Disguise +13, Knowledge (arcana) +11, Perception +15, Sense Motive +9, Stealth +13, Swim +18
+Languages Aklo, Common, Giant
+SQ mimicry
+SPECIAL ABILITIES
+Weakness (Su) A green hag’s claws sap strength from those she strikes. Each time a green hag hits a foe with her claw attack, the victim takes 2 points of Strength damage unless he resists the weakness with a DC 16 Fortitude save. Alternatively, a green hag can attempt to inflict even greater weakness on a foe by making a touch attack—this variant requires a standard action, and cannot be attempted in the same round the hag makes claw attacks. The opponent touched must succeed on a DC 16 Fortitude save or take 2d4 points of Strength damage. The save DC is Charisma-based.
+Mimicry (Ex) A green hag can imitate the sounds of almost any animal found near its lair.

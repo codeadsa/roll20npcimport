@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/charnel-colossus
+Charnel Colossus CR 19
+XP 204,800
+NE Colossal undead
+Init +3; Senses darkvision 60 ft., see invisibility; Perception +50
+DEFENSE
+AC 29, touch 1, flat-footed 29 (–1 Dex, +28 natural, –8 size)
+hp 345 (30d8+210)
+Fort +19, Ref +11, Will +32
+Defensive Abilities amorphous, channel resistance +4; DR 15/magic and slashing; Immune critical hits, precision damage, turning, undead traits; SR 30
+OFFENSE
+Speed 30 ft.
+Melee 6 slams +26 (2d8+12/19–20 plus grab and mind feed) or 2 tendrils +21 (2d6+6 plus grab and pull)
+Space 30 ft.; Reach 20 ft. (40 ft. with tendrils)
+Special Attacks voice of the ancients
+Spell-Like Abilities (CL 18th; concentration +25)
+Constant–see invisibility
+At will–augury, blindness/deafness (DC 20), doom (DC 18)
+3/day–bestow curse (DC 20), speak with dead (DC 20), unholy blight (DC 21)
+1/day–blasphemy (DC 24), horrid wilting (DC 25)
+STATISTICS
+Str 34, Dex 9, Con –, Int 18, Wis 36, Cha 25
+Base Atk +22; CMB +42 (+46 grapple); CMD 51 (can’t be tripped)
+Feats Ability Focus (voice of the ancients), Alertness, Blind-Fight, Combat Reflexes, Critical Focus, Great Fortitude, Improved Critical (slam), Improved Initiative, Improved Iron Will, Iron Will, Lightning Reflexes, Power Attack, Staggering Critical, Stand Still, Stunning Critical
+Skills Climb +45, Intimidate +40, Knowledge (arcana) +37, Knowledge (history) +34, Knowledge (religion) +37, Perception +50, Sense Motive +50, Spellcraft +37
+Languages Common (or the most commonly spoken language of its corporate body)
+SQ corporate will
+SPECIAL ABILITIES
+Corporate Will (Su) A charnel colossus is composed of the sentience of scores of creatures. Though they are able to work in concert as a cohesive whole, they are also able to separate their actions at will so as to not be impeded by the limitations of a single consciousness, effectively allowing them to focus on two things at once. As a result, the charnel colossus can use up to two spell-like abilities in the same round that it makes physical attacks or other full-found actions. It also gains an additional spell attack per round. In addition, a charnel colossus is immune to being turned (though it can still take damage from channeled positive energy). While part of the creature’s sentience may be affected by a turn attempt, there are enough unaffected intellects within to override the effect.
+Mind Feed (Su) When a charnel colossus succeeds at a grapple check with a slam attack, it can use its mind feed ability as a free action during each round in which the grapple is maintained. A victim of a mind feed attempt must succeed at a DC 38 Will save each round that the ability is used. On a failed save, the cadavers that make up the charnel colossus lock their mouths against the victim and begin to draw forth a part of her sentience to add to the collective. This action deals 1d6 points of Wisdom damage per round. If the victim’s Wisdom score is reduced to 0, her soul and persona are wholly subsumed by the charnel colossus, and her body becomes bleached white and brittle and is incorporated into the creature’s mass. The charnel colossus then has full access to all of the victim’s memories (though not any special powers), and the victim can only be recovered and returned to life with a wish or miracle. If the charnel colossus has grappled multiple victims, it can attempt multiple mind feeds in a single round. The save DC is Wisdom-based.
+Voice of the Ancients (Su) A charnel colossus can, as a full-round action, cause its collective knowledge to be whispered into the minds of any sentient creature within 100 feet. These whispers riffle through the brain of any such creatures within range in a maddening susurrus. These individuals must succeed at a DC 34 Will save or be paralyzed and frozen in place as if by the hold monster spell. The victim may attempt a new save each round to try and break the effect. Regardless of whether or not the save is successful, the effect leaves an insidious seed implanted in the victim’s mind. The day after the save is made, the victim must succeed at a new save or the seed takes root and creates the subconscious compulsion for the victim to return to the charnel colossus at some point in the future. When and how this occurs is up the GM. This compulsion can be removed with a remove curse spell or by destroying the charnel colossus that implanted the compulsion. This is a mind-affecting compulsion and cannot be negated by a silence spell because it is heard directly in the mind of the victim. Each time a creature is subjected to this attack, there is a 1% chance that some of the lost lore transmitted into her mind causes her to gain a permanent +2 bonus to Intelligence. This beneficial side effect can only occur to a creature once. When a charnel colossus uses this ability, it cannot use its spell-like abilities or take other actions in that round. The save DC is Charisma-based.

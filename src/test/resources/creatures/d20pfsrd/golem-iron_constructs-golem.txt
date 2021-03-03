@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-iron
+Iron Golem CR 13
+XP 25,600
+N Large construct
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 28, touch 8, flat-footed 28 (–1 Dex, +20 natural, –1 size)
+hp 129 (18d10+30)
+Fort +6, Ref +5, Will +6
+DR 15/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +28 (2d10+16/19–20)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon, powerful blows
+STATISTICS
+Str 32, Dex 9, Con —, Int —, Wis 11, Cha 1
+Base Atk +18; CMB +30; CMD 39
+SPECIAL ABILITIES
+Breath Weapon (Su) As a free action once every 1d4+1 rounds, an iron golem can exhale a 10-foot cube of poisonous gas. This gas cloud persists for 1 round; any creature within the area when the golem creates it (as well as any creature that passes through the cloud during the remainder of that round) is exposed to the cloud’s poisonous effects. This poison is magically created each time the golem uses this power.
+Breath weapon—inhaled; save Fort 19; frequency 1/round for 4 rounds; effect 1d4 Constitution damage; cure 2 saves. The save DC is Constitution-based.
+Immunity to Magic (Ex) An iron golem is immune to spells or spell-like abilities that allow spell resistance. Certain spells and effects function differently against it, as noted below.
+A magical attack that deals electricity damage slows an iron golem (as the slow spell) for 3 rounds, with no saving throw. A magical attack that deals fire damage breaks any slow effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. An iron golem gets no saving throw against fire effects. An iron golem is affected normally by rust attacks, such as those of a rust monster or a rusting grasp spell. Powerful Blows (Ex) An iron golem inflicts one and a half times its Strength modifier and threatens a critical hit on a 19–20 with its slam attacks.

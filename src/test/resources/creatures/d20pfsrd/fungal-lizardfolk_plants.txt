@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/fungal-lizardfolk
+Fungal Lizardfolk CR 1
+XP 400
+N Medium plant (augmented, humanoid, reptilian)
+Init -1; Senses low-light vision; Perception +0; Aura poison spore cloud (15 ft., DC 12)
+DEFENSE
+AC 14, touch 9, flat-footed 14 (-1 Dex, +3 natural, +2 shield)
+hp 11 (2d8+2)
+Fort +4, Ref -1, Will +0
+Immune plant traits
+OFFENSE
+Speed 30 ft., swim 15 ft
+Melee club +2 (1d6+1) and bite +0 (1d4) or 2 claws +2 (1d4+1) and bite +0 (1d4)
+Ranged +0 javelin (1d6+1)
+Special Attacks create spawn, poison spore cloud
+TACTICS
+Fungal lizardfolk save their poison spore clouds until several creatures are within range. When they can catch multiple creatures in their spores, they attempt to kill the weaker ones in order to create more of their kind.
+STATISTICS
+Str 12, Dex 8, Con 12, Int 8, Wis 10, Cha 10
+Base Atk +1; CMB +2; CMD 11
+Feats Multiattack
+Skills Acrobatics +1, Perception +1, Swim +8; Racial Modifiers +4 Acrobatics
+Languages draconic, sylvan
+SQ fungal metabolism, hold breath, poisonous blood, rejuvenation
+Combat Gear club, heavy wooden shield, javelin
+SPECIAL QUALITIES
+Create Spawn (Ex) The body of a creature killed by Constitution damage from a fungal creature’s spore cloud is slowly transformed into a fungal creature. This transformation takes at least 1 full day, but particularly dry conditions can extend the process for up to a week (GM’s discretion). Once fully converted, the corpse cannot be raised from the dead, but it can still be resurrected or reincarnated. The application of a plant growth spell halves the transformation time, and the application of a diminish plants spell doubles it. A blight spell destroys the fungal spores and prevents transformation of the corpse. Spells that remove disease are ineffective against the spores.
+The fungal creature lacks the class levels and memories of the creature from which it gained its form. If the base creature has 1 or fewer racial HD and is normally presented as classed (as with most humanoids), use a 1st-level warrior version of it as the base creature. The fungal creature awakens as a free-willed being knowing all it needs to know (including language) in order to use its abilities and survive. Although it bears no allegiance to the fungal creature that created it, the new fungal creature immediately recognizes other fungal creatures as its own kind.
+Hold Breath (Ex)
+A lizardfolk can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning. Poison Spore Cloud (Ex) Once per day, a fungal creature can release a choking yellow cloud of spores in a 15-foot-radius spread. The spore cloud lingers visibly in the air for 10 rounds, but it dissipates normally on the wind. This cloud functions as an inhaled poison.
+Any creature that does not hold its breath before the fungal creature activates this ability is assumed to inhale the spores. Each breathing creature in the cloud must succeed on a Fortitude save (DC 10 + 1/2 fungal creature HD + fungal creature’s Con modifier) or take 1d2 points of Constitution damage and be fatigued for 1 minute. Thereafter, the creature must succeed on a second save (whether or not it succeeded on the first) or take 1d2 points of Constitution damage and become fatigued (or exhausted if already fatigued).
+A creature that continues to inhale the spores continues to make Fortitude saves against their effects. Multiple spore clouds from multiple fungal creatures require multiple saves from any creature in an area where the clouds overlap. Creatures that are immune to poisons are immune to the fungal creature’s poison spore cloud.
+Poisonous Blood (Ex) A fungal creature’s blood and flesh function as ingested poisons. Any creature that makes a bite attack against a fungal creature, swallows one whole, or otherwise ingests part of one must succeed on a Fortitude save (DC 10 + 1/2 fungal creature HD + fungal creature’s Con modifier) or take 1 point of Strength damage and 1 point of Dexterity damage. One minute later, the creature must make a second save at the same DC or be nauseated for 1 minute and take 1d6 points of Strength damage and 1d6 points of Dexterity damage.
+A fungal creature can drain its own blood to procure an ingested poison that affects creatures as described above. Unfortunately, its blood has a distinctive and largely unwelcome smell and taste, so most intelligent creatures would not eat food tainted with it unless the taste were thoroughly disguised (a DC 15 Profession [cook] check). The fungal creature must deal at least 1 point of damage to itself to get a full dose of poison, and the drawn blood (or amputated flesh) retains its poisonous nature for just 1 day unless additional living fungal blood is mixed into it.
+Fungal Metabolism (Ex) Fungal creatures do not breathe, nor do they need to eat or sleep in the typical manner. They gain all the sustenance they require from contact with moist natural earth, but they require rejuvenation (see Rejuvenation) as often and for as long as humans need sleep.
+Rejuvenation (Ex) So long as it is in contact with moist natural earth, a resting fungal creature regains hit points as though it were experiencing complete bed rest and long term care (3 hit points per character level for each day of rest). The fungal creature can engage in light activity during rejuvenation, but any strenuous activity (fighting, running, casting a spell, and so on) prevents it from regaining hit points for that day. Complete bed rest does not increase the amount of healing a fungal creature gains from rejuvenation.
+Image used by permission of Purple Duck Games.

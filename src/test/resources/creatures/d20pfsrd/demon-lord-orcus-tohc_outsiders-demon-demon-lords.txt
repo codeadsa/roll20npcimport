@@ -1,0 +1,61 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-orcus-tohc
+Orcus (Demon Prince of the Undead) CR 35
+XP 52,480,000
+CE Huge outsider (chaotic, demon, evil, extraplanar)
+Init +10; Senses darkvision 60 ft., life sight 40 ft. (20 rounds), true seeing; Perception +65; Aura destructive aura (30 ft., +7 damage, 15 rounds); fear (60-ft., Will DC 44, CL 35th), unholy aura (DC 30)
+DEFENSE
+AC 55, touch 35, flat-footed 49 (+6 Dex, +20 natural, –2 size, +9 insight, +12 profane)
+hp 742 (45d10+495); fast healing 5
+Fort +37, Ref +21, Will +35
+Defensive Abilities death’s embrace; DR 25/cold iron and good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 46
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee +5 unholy greatclub +62/+57/+52/+47 (2d8+26 plus death) or 2 slams +57 (2d6+14), sting +52 (2d4+7 plus poison)
+Space 15 ft.; Reach 15 ft.
+Special Attacks channel negative energy 15/day (DC 19, 8d6), channel negative energy to command undead 12/day, (DC 32) destructive smite 12/day (+7 damage), scythe of evil 2/day (7 rounds)
+Spell-Like Abilities (CL 35th)
+Constant—speak with dead, true seeing, unholy aura (DC 30)
+At will—animate dead, blasphemy (DC 29), charm monster (DC 26), deeper darkness, desecrate, detect good, detect magic, detect thoughts (DC 25), fear (DC 26), greater dispel magic, greater teleport (self plus 50 pounds of objects only), lightning bolt (DC 28), polymorph, read magic, suggestion (DC 28), symbol of death (DC 30), symbol of pain (DC 27), tongues (self only), true seeing, unhallow, unholy blight (DC 26), wall of fire
+3/day—summon (level 9, 1d4 mariliths, 1d3 nalfeshnees, or 1 balor 100%)
+1/day—feeblemind (DC 29), summon (level 9, 90 HD of undead 100%)
+Domain Spell-Like Abilities (CL 15th)
+12/day—bleeding touch (7 rounds), touch of evil (7 rounds)
+Necromancer Spell-Like Abilities (20th)
+12/day—grave touch (10 rounds)
+Unholy Spells Prepared (CL 15th)
+8th—cloak of chaos (DC 27), create greater undeadD , mass inflict critical wounds (DC 27)
+7th—destructionD (DC 26), mass inflict serious wounds (DC 26), repulsion (DC 26), word of chaos (DC 26)
+6th—geas/quest (DC 25), harm (DC 25), harmD (DC 25), mass inflict moderate wounds (DC 25, x2)
+5th—break enchantment, dispel good (DC 24), dispel goodD (DC 24), dispel law (DC 24), slay living (DC 24, x2), scrying
+4th—death ward, death wardD, dimensional anchor, divine power, inflict critical wounds (DC 23, x2), spell immunity
+3rd—bestow curse (DC 22, x2), blindness/deafness (DC 22), contagion (DC 22), inflict serious wounds (DC 22, x2), magic circle against goodD, protection from energy
+2nd—bull’s strength, death knell (DC 21), inflict moderate wounds (DC 21, x3), shatter (DC 21), shatterD (DC 21), silence (DC 21)
+1st—bane (DC 20), cause fearD (DC 20), command (DC 20), detect undead, doom (DC 20), entropic shield, inflict light wounds (DC 20, x3)
+0 (at will)—bleed (DC 19), guidance, light, resistance
+D domain spell; Domains Death, Destruction, Evil
+Necromancer Spells Prepared (CL 20th)
+9th—energy drain (DC 28, x2), meteor swarm (DC 28), soul bind (DC 28), wail of the banshee (DC 28), wish
+8th—create greater undead, horrid wilting (DC 27, x3), iron body, polar ray
+7th—control weather, finger of death (DC 26, x2), limited wish, spell turning, waves of exhaustion
+6th—acid fog, circle of death (DC 25, x2), create undead (x2), eyebite (DC 25)
+5th—blight (DC 24), cloudkill (DC 24, x2), cone of cold (DC 24), magic jar (DC 24), symbol of pain (DC 24), waves of fatigue
+4th—animate dead, bestow curse (DC 23), enervation (x2), ice storm, shout (DC 23), wall of fire
+3rd—gaseous form, gentle repose, halt undead (DC 22), haste, ray of exhaustion (DC 22, x2), vampiric touch
+2nd—false life, flaming sphere (DC 21), ghoul touch (DC 21), gust of wind (DC 21), scare (DC 21), scorching ray, spectral hand
+1st—cause fear (DC 20), chill touch (DC 20), grease (DC 20), hold portal, obscuring mist, ray of enfeeblement (x3)
+0 (at will)—acid splash, arcane mark, dancing lights, disrupt undead, touch of fatigue (DC 19)
+STATISTICS
+Str 38, Dex 22, Con 33, Int 28, Wis 28, Cha 34
+Base Atk +45; CMB +61; CMD 98
+Feats Alertness, Awesome Blow, Blind-Fight, Cleave, Combat Casting, Combat Expertise, Command UndeadB, Craft Wand, Craft Wondrous Item, Critical Focus, Deceitful, Empower Spell, Extend Spell, Great Cleave, Great Fortitude, Heighten Spell, Improved Initiative, Iron Will, Maximize Spell, Power Attack, Quicken Spell, Sickening Critical, Staggering Critical, Stunning Critical
+Skills Bluff +64, Diplomacy +60, Disguise +14, Escape Artist +51, Fly +50, Heal +54, Intimidate +60, Knowledge (arcana) +57, Knowledge (history) +54, Knowledge (nobility) +54, Knowledge (planes) +57, Knowledge (religion) +54, Perception +69, Sense Motive +61, Spellcraft +57, Survival +54; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common, Draconic, Giant, Goblin, Ignan, Infernal, Sylvan; telepathy 100 ft.
+SQ planar omniscience
+Gear Wand of Orcus
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 43; onset immediate; frequency 1/round for 10 rounds; effect 2d6 Constitution; cure 3 consecutive saves. The save DC is Constitution-based.
+GEAR Unique Item: Wand of Orcus Mighty Orcus wields a huge black skull-tipped rod that functions as a Large +5 unholy greatclub.
+It slays any living creature it touches if the target fails a DC 40 Fortitude save. Orcus, can at will, shut this ability off so as to allow his wand to pass into the Material Plane (and usually into the hands of one of his servants).
+Further, the wand has the following powers (Caster Level 20th; save DC 25 + spell level):
+3/day—animate dead, deeper darkness, desecrate, fear, unhallow
+2/day—blasphemy, unholy aura

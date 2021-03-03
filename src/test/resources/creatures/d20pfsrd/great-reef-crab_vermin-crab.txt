@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/great-reef-crab
+Crab, Great Reef CR 10
+XP 9,600
+N Gargantuan vermin (aquatic)
+Init +0; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 20, touch 6, flat-footed 20 (+14 natural, -4 size)
+hp 137 (11d8+88)
+Fort +15, Ref +3, Will +3
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., swim 20 ft.
+Melee 2 claws +19 (2d6+15 plus grab)
+Special Attacks constrict (2d6+15)
+STATISTICS
+Str 40, Dex 10, Con 26, Int —, Wis 10, Cha 2
+Base Atk +8; CMB +27 (+29 grapple); CMD 37 (49 vs. trip)
+Skills Perception +4, Swim +25; Racial Modifiers +4 Perception
+SQ water dependency
+SPECIAL ABILITIES
+Water Dependency (Ex)
+Great Reef crabs can survive out of the water for 1 hour per point of Constitution. Beyond this limit, a Great Reef crab runs the risk of suffocation, as if it were drowning.

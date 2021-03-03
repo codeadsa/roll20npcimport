@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dracolisk-tohc
+Dracolisk CR 9
+XP 6,400
+N Large dragon
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 24, touch 11, flat-footed 22 (+2 Dex, +13 natural, –1 size)
+hp 115 (11d12+44)
+Fort +11; Ref +9; Will +8
+Immune energy type, sleep, paralysis
+OFFENSE
+Speed 30 ft., fly 60 ft. (poor)
+Melee bite +16 (2d6+6), 2 claws +16 (1d6+6)
+Space 10 ft.; Reach 5 ft.
+Special Attacks breath weapon, petrifying gaze (Fort DC 16)
+TACTICS
+A dracolisk attacks first with its breath weapon and gaze attack. After this, it attacks with its bite and clawed forelegs.
+STATISTICS
+Str 23, Dex 14, Con 19, Int 6, Wis 12, Cha 13
+Base Atk +11; CMB +18; CMD 30 (34 vs. trip)
+Feats Alertness, Blind-Fight, Cleave, Improved Vital Strike, Power Attack, Vital Strike
+Skills Climb +14, Diplomacy +8, Fly +10, Intimidate +8, Perception +10, Sense Motive +10, Stealth +5, Survival +8, Swim +13
+Languages Draconic
+SPECIAL ABILITIES
+Breath Weapon (Su) A dracolisk’s breath weapon depends on what type of dragon parent it had, as summarized on the table below. Regardless of its type, a dracolisk’s breath weapon is usable once every 1d4 rounds (and no more than three times per day), deals 4d8 points of damage, and allows a DC 19 Reflex save for half damage. The save DC is Constitution-based.
+Dracolisk Variety Breath Weapon
+Black 60-foot line of acid
+Blue 60-foot line of electricity
+Green 30-foot cone of gas (acid)
+Red 30-foot cone of fire
+White 30-foot cone of cold
+Immunity to Energy (Ex) A dracolisk is immune to one type of energy based on its dragon parent and variety.
+Dracolisk Variety Immunity
+Black Acid
+Blue Electricity
+Green Acid
+Red Fire
+White Cold
+Petrifying Gaze (Su) Turn to stone permanently, range 30 feet, Fortitude DC 16 negates. The save DC is Charisma-based.

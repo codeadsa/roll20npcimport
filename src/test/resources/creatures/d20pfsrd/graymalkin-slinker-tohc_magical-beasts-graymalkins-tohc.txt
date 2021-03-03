@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/graymalkins-tohc/graymalkin-slinker-tohc
+Slinker CR 2
+XP 600
+LE Small magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+2 Dex, +1 natural, +1 size)
+hp 16 (3d10)
+Fort +3; Ref +5; Will +5
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee bite +6 (1d4–2), 2 claws +6 (1d3–2)
+Special Attacks breath stealing, fascination
+STATISTICS
+Str 6, Dex 15, Con 11, Int 11, Wis 15, Cha 14
+Base Atk +3; CMB +0; CMD 12 (+16 vs. trip)
+Feats Iron Will, Weapon Finesse
+Skills Acrobatics +6 (+14 when balancing), Climb +10, Escape Artist +4, Perception +8, Stealth +11; Racial Modifiers +8 Acrobatics when balancing, +4 Stealth. The slinker uses its Dexterity modifier for Climb checks.
+SPECIAL ABILITIES
+Breath Stealing (Su) A slinker can suck the air from a living victim’s lungs as a full-round action against any helpless opponent. The victim must succeed on a DC 11 Fortitude save. If the save fails, it takes 1d4 points of Constitution damage. At Con 0, the victim dies. The save DC is Constitution-based.
+Fascination (Su) Will DC 13.

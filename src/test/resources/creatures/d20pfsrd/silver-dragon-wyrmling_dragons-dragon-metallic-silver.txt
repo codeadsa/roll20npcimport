@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-silver/silver-dragon-wyrmling
+Silver Dragon, Wyrmling CR 6
+XP 2,400
+LG Small dragon (cold)
+Init +6; Senses dragon senses; Perception +12
+DEFENSE
+AC 19, touch 13, flat-footed 17 (+2 Dex, +6 natural, +1 size)
+hp 52 (7d12+7)
+Fort +6, Ref +7, Will +9
+Immune acid, cold, paralysis, sleep
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 40 ft., fly 150 ft. (average)
+Melee bite +10 (1d6+1), 2 claws +9 (1d4+1)
+Special Attacks breath weapon (20-ft. cone, DC 14, 2d8 cold), paralyzing breath
+STATISTICS
+Str 13, Dex 14, Con 13, Int 14, Wis 15, Cha 14
+Base Atk +7; CMB +7; CMD 19 (23 vs. trip)
+Feats Improved Initiative, Iron Will, Power Attack, Weapon Focus (bite)
+Skills Diplomacy +12, Fly +14, Heal +12, Intimidate +12, Knowledge (local) +12, Perception +12, Sense Motive +12, Spellcraft +12
+Languages Auran, Common, Draconic
+SQ change shape
+SPECIAL ABILITIES
+Change Shape (Su)
+A silver dragon can assume any animal or humanoid form 3/day as if using polymorph.
+Paralyzing Breath (Su) Instead of a cone of cold, a silver dragon can breathe a cone of paralyzing gas. Creatures within the cone must succeed on a Fortitude save or be paralyzed for 1d6 rounds plus 1 round per age category of the dragon.
+
+

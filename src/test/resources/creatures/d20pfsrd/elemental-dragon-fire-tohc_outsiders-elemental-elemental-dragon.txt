@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-dragon/elemental-dragon-fire-tohc
+Elemental Fire Dragon CR 22
+XP 615,000
+(N)E Huge outsider (elemental, extraplanar, fire)
+Init +6; Senses darkvision 60 ft.; Perception +29; Aura fiery aura (60 ft., DC 27, 2d8 fire)
+DEFENSE
+AC 30, touch 14, flat-footed 24 (+6 Dex, +16 natural, –2 size)
+hp 252 (24d10+120)
+Fort +13; Ref +20; Will +16
+DR 10/epic and silver; Immune elemental traits, fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 100 ft. (poor)
+Melee bite +32 (2d8+13 plus burn), 2 claws +32 (2d6+9 plus burn), 2 wings +29 (1d8+9 plus burn), tail slap +29 (2d6+13 plus burn)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50 ft. cone, DC 29, 16d10 fire), burn (2d8, DC 27) rain of fire (100 ft. radius, DC 27, 2d8 fire)
+STATISTICS
+Str 28, Dex 23, Con 21, Int 12, Wis 15, Cha 12
+Base Atk +24; CMB +35; CMD 51 (55 vs. trip)
+Feats Ability Focus (breath weapon), Blind-Fight, Cleave, Flyby Attack, Great Cleave, Hover, Multiattack, Power Attack, Snatch, Vital Strike, Weapon Focus (bite), Weapon Focus (claw)
+Skills Fly +25, Intimidate +28, Knowledge (arcana) +28, Knowledge (nature) +28, Knowledge (planes) +28, Perception +29, Survival +29
+Languages Common, Ignan
+SPECIAL ABILITIES
+Breath Weapon (Su) A fire elemental dragon’s breath weapon is a 50 ft. cone of elemental fire.
+Fiery Aura (Ex) Anyone within 60 feet of an elemental fire dragon must succeed on a DC 27 Fortitude save or take 2d8 points of fire damage from the intense heat. The save DC is Constitution-based. Combustibles automatically catch fire if they contact an elemental fire dragon.
+Rain of Fire (Ex) As a standard action, a hovering elemental fire dragon can rapidly beat its wings causing fire to rain down on an area in a 100-foot radius. Creatures within the area must succeed on a DC 27 Reflex save or take 2d8 points of fire damage as clothes catch fire or armor and weapons become searing hot. The damage continues for another 1d8 rounds after the attack or until the flames are extinguished. Combustibles in the area automatically catch on fire.

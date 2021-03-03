@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/avernal-ghoul
+Ghoul, Avernal CR 3
+XP 800
+LE Medium outsider (evil, extraplanar, lawful)
+Init +7; Senses channel awareness, darkvision 60 ft., scent; Perception +9
+DEFENSE
+AC 17, touch 13, flat-footed 14 (+3 Dex, +4 natural )
+hp 30 (4d10+8); fast healing 1
+Fort +6, Ref +4, Will +6 OFFENSE
+Speed 30 ft., climb 10 ft.
+Melee bite +7 (1d6+1 plus disease and paralysis) and 2 claws +7 (1d4+1 plus paralysis)
+Special Attacks paralysis (1d4+1 rounds, DC 14, elves are immune to this effect) STATISTICS
+Str 13, Dex 17, Con 14, Int 13, Wis 14, Cha 14
+Base Atk +4; CMB +5; CMD 18
+Feats Improved Initiative, Weapon Finesse
+Skills Acrobatics +10, Climb +16, Intimidate +9, Knowledge (planes) +8, Perception +9, Stealth +10, Swim +8
+Languages Common, Infernal
+SQ ghoul blood, hellish infusion SPECIAL ABILITIES
+Channel Awareness (Su) An avernal ghoul automatically senses when it is in the area of a channel energy ability if that ability is being used to affect undead (whether positive or negative energy).
+
+Disease (Su) Ghoul Fever: Bite–injury; save Fort DC 14; onset 1 day; frequency 1 day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves. The save DC is Charisma-based.
+A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast.
+
+Ghoul Blood (Ex) An avernal ghoul counts as a ghoul for any effect related to race. This means that while an enemy may not be able to find it with detect undead (because it is an outsider), a spell or magic item to specifically detect ghouls can locate it easily.
+
+Hellish Infusion (Su) Once per day as a standard action an avernal ghoul can charge a corpse with evil energy drawn from its connection to Hell. Any ghoul, ghast, or avernal ghoul that eats at least 10 pounds of flesh from this corpse gains a +1 profane bonus to AC, saves, and checks for the next day. The corpse remains charged for 1 hour, after which the energy fades and the corpse has no special powers. The avernal ghoul’s CR 3 assumes it has not had the opportunity to eat a charged corpse in the past day; if it has, treat it as CR 4.

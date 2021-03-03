@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/purple-worm/aquatic-worm
+Aquatic Worm CR 12
+
+XP 19,200
+N Gargantuan magical beast
+Init –2; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +18
+
+DEFENSE
+AC 26, touch 4, flat-footed 26 (–2 Dex, +22 natural, –4 size)
+hp 200 (16d10+112)
+Fort +17, Ref +8, Will +4
+OFFENSE
+Speed 20 ft., swim 40 ft.
+Melee bite +25 (4d8+12/19–20 plus grab), sting +25 (2d8+12 plus poison)
+Space 20 ft.; Reach 15 ft.
+Special Attacks swallow whole (4d8+18 bludgeoning damage, AC 21, 20 hp)
+STATISTICS
+Str 35, Dex 6, Con 25, Int 1, Wis 8, Cha 8
+Base Atk +16; CMB +32 (+36 grapple); CMD 40 (can’t be tripped)
+Feats Awesome Blow , Critical Focus, Improved Bull Rush, Improved Critical (bite), Power Attack, Staggering Critical, Weapon Focus (bite, sting)
+Skills Perception +18, Swim +20 SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 25; frequency 1/round for 6 rounds; effect 1d4 Strength damage; cure 3 consecutive saves. The save DC is Constitution-based.
+
+
+

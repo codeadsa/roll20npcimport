@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bat-mobat-TOHC
+Bat, Mobat CR 3
+XP 800
+N(E) Large magical beast
+Init +5; Senses blindsense 120 ft., darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 15, touch 14, flat-footed 10 (+5 Dex, +1 natural, -1 size)
+hp 34 (4d10+12)
+Fort +7; Ref +9; Will +2
+OFFENSE
+Speed 20 ft., fly 40 ft. (good)
+Melee bite +8 (1d8+4)
+Space 10 ft.; Reach 5 ft.
+Special Attacks sonic screech
+TACTICS
+A mobat attacks by biting its opponent using its razor sharp fangs. Surviving prey is subjected to the mobat’s sonic screech attack.
+STATISTICS
+Str 17, Dex 21, Con 17, Int 6, Wis 14, Cha 6
+Base Atk +4; CMB +8; CMD 23
+Feats Flyby Attack, Weapon Finesse
+Skills Fly +11, Perception +10, Stealth +5; Racial Modifier +4 Perception when using blindsense
+SPECIAL ABILITIES
+Sonic Screech (Su) A mobat can blast an ear-splitting screech that affects all creatures (except other mobats) within a 20-ft. radius. The screech stuns any creature in the area for 1d3 rounds if it fails a DC 15 Will save. This is a sonic mind-affecting effect. Whether or not the save succeeds an affected creature is immune to the same mobat’s screech for 24 hours. The save DC is Constitution-based.

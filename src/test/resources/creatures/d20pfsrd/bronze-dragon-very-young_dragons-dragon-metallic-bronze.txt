@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-bronze/bronze-dragon-very-young
+Bronze Dragon, Very Young CR 7
+XP 3,200
+LG Medium dragon (water)
+Init +1; Senses dragon senses; Perception +16
+
+DEFENSE
+AC 19, touch 11, flat-footed 18 (+1 Dex, +8 natural)
+hp 68 (8d12+16)
+Fort +8, Ref +7, Will +9
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (average); swim 60 ft.
+Melee bite +11 (1d8+4), 2 claws +11 (1d6+3), 2 wings +6 (1d4+1)
+Special Attacks breath weapon (60-ft. line, DC 16, 4d6 electricity), repulsion breath
+Spell-Like Abilities (CL 8th; concentration +11)
+At will— speak with animals
+STATISTICS
+Str 17, Dex 12, Con 15, Int 16, Wis 17, Cha 16
+Base Atk +8; CMB +11; CMD 22 (26 vs. trip)
+Feats Alertness, Flyby Attack, Power Attack, Vital Strike
+Skills Diplomacy +14, Fly +12, Intimidate +14, Knowledge (arcana) +14, Perception +16, Sense Motive +16, Spellcraft +14, Stealth +12, Swim +22; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic, Elven
+SQ water breathing
+SPECIAL ABILITIES
+Repulsion Breath (Su) Instead of a line of electricity, a bronze dragon can breathe a cone of repulsion gas. Targets must make a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category. This is a mind-affecting compulsion effect.
+Water Breathing (Ex) A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
+

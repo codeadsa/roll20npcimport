@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/sheep-ram-tohc
+Ram CR 1
+XP 400
+N Medium animal
+Init +1; Senses low-light vision; Perception +9
+DEFENSE
+AC 13, touch 11, flat-footed 12 (+1 Dex, +2 natural)
+hp 19 (3d8+3 plus 3)
+Fort +4, Ref +4, Will +1
+Defensive Abilities ferocity
+OFFENSE
+Speed 40 ft.
+Melee gore +3 (1d6+1)
+STATISTICS
+Str 12, Dex 13, Con 12, Int 1, Wis 11, Cha 4
+Base Atk +2; CMB +3; CMD 14 (18 vs. trip)
+Feats Skill Focus (Perception), Toughness
+Skills Perception +9

@@ -1,0 +1,41 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/spriggan/fellnight-spriggan
+Fellnight Spriggan CR 4
+XP 1,200
+Male bramble spriggan
+CE Large plant (augmented humanoid, gnome)
+Init +3; Senses low-light vision; Perception +2
+DEFENSE
+AC 18, touch 12, flat-footed 15 (+4 armor, +3 Dex, +2 natural, –1 size)
+hp 34 each (4d8+16)
+Fort +8, Ref +7, Will +1
+Immune plant traits
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +4 (1d6+1 plus grab), gore +3 (1d8+1 plus grab) or prickle whip +3 (1d4+1) or battleaxe +3 (2d6+1 plus greenblood oil)
+Ranged thorn dart +5 (1d6+1)
+Space 10 ft.; Reach 10 ft.
+Special Attacks prickle whip, thorn dart, size alteration, sneak attack +2d6
+Spell-Like Abilities (CL 4th; concentration +3)
+At will—flare* (DC 10), scare* (DC 12), shatter* (DC 12)
+1/day—entangle (DC 10).
+* These save DCs include a +1 racial bonus.
+STATISTICS
+Str 12, Dex 17, Con 18, Int 11, Wis 10, Cha 9
+Base Atk +3; CMB +5; CMD 18
+Feats Combat Reflexes, Quick Draw B, Weapon Focus (slam)
+Skills Climb +0, Disable Device +5, Perception +0, Sleight of Hand +8, Stealth +2 (+10 in forested areas and thickets); Racial Modifiers +2 Climb, +2 Disable Device, +2 Perception, +2 Sleight of Hand, +2 Stealth.
+Languages Common, Gnome, Sylvan
+SQ spriggan magic, thorn walk, thorny grasp, woodland stride
+Gear chain shirt, battleaxe, greenblood oil (2 doses)
+Base Statistics
+In its normal, Small form, a Fellnight spriggan has the following statistics:
+Init +5; AC 22, touch 16, flat-footed 17 (+4 armor, +5 Dex, +2 natural, +1 size); Ref +9; Melee 2 slams +4 (1d3–1 plus grab), gore +3 (1d4–1 plus grab), or prickle whip +3 (1d2–1), or battleaxe +3 (1d6–1 plus greenblood oil); Ranged thorn dart +9 (1d3–1); Space 5 ft., Reach 5 ft.; Str 8, Dex 21; CMB +1, CMD 16; Skills Disable Device +7, Sleight of Hand +10, Stealth +10 (+18 in forested areas and thickets)
+SPECIAL ABILITIES
+Prickle Whip (Ex) Once per day, a Fellnight spriggan can unravel and detach from its body a whip-like strand of thorny bramble, as if it were drawing a weapon. This weapon counts as a whip of the spriggan’s size, except it deals normal (not nonlethal) damage and is effective against creatures with armor or natural armor. The spriggan is proficient with this whip. The whip becomes brittle and useless after 1 hour.
+Size Alteration (Su) A spriggan can change its size from Small to Large or back again as a standard action, similar to using enlarge person except increasing or decreasing two size categories instead of one (doubling the modifiers to Strength, Dexterity, attack rolls, and AC).
+Spriggan Magic (Su) Spriggans have a +1 racial bonus to their spriggan spell-like ability DCs.
+Thorn Dart (Ex) Eight times per day, a Fellnight spriggan can pull a long thorn from its body, as if it were drawing ammunition. This thorn functions as a dart of the spriggan’s size. The spriggan is proficient with this dart.
+Thorn Walk (Sp) This ability works like tree stride, except the Fellnight spriggan can only travel through thorny trees or pass harmlessly through a wall of thorns (or similar thorn-related effect) without harm. The spriggan can use this ability once per day.
+Thorny Grasp (Ex) A Fellnight spriggan’s thorny body deals 1d4 piercing damage (1d8 for a Large spriggan) to a grappled opponent on a successful grapple check. A creature that grapples, pins, constricts, or swallows the spriggan takes this damage automatically on its turn.
+Woodland Stride (Ex) A Fellnight spriggan can use woodland stride like a druid, except it can also freely pass through areas affected by its own entangle spell-like ability.

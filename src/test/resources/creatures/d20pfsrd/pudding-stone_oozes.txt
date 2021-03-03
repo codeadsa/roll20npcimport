@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/pudding-stone
+Stone Pudding CR 9
+XP 6,400
+N Huge ooze
+Init -5; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 3, touch 3, flat-footed 3 (-5 Dex, -2 size)
+hp 126 (11d10+126);
+Fort +9, Ref -2, Will -2
+Defensive Abilities split (fire, 10 hp); Immune fire, mind-affecting effects, ooze traits
+Weaknesses racial vulnerabilities
+OFFENSE
+Speed 20 ft. (4 squares), climb 20 ft.
+Melee slam +11 (2d6+3 plus grab plus 1d6 acid, plus petrifying touch)
+Space 15 ft.; Reach 10 ft.
+Special Attacks acid, constrict (2d6+4 plus 1d6 acid), petrifying touch
+STATISTICS
+Str 17, Dex 1, Con 22, Int X-, Wis 1, Cha 1
+Base Atk +8; CMB +13; CMD +18
+Skills Climb +11, Stealth -13 (-3 when hiding on stone surfaces); Racial Modifiers +10 Stealth on stone
+Languages —
+SQ split
+SPECIAL ABILITIES
+Acid (Ex) A stone pudding secretes a digestive acid that dissolves organic material and stone, but not metal. Any melee hit or constrict attack deals acid damage.
+Furthermore, clothing, leather armor, and stone and wooden weapons dissolve upon contact, immediately becoming useless. A DC 21 Reflex saving throw, negates. The save DCs are Constitution-based. The pudding’s acidic touch deals 21 points of damage per round to wooden or stone objects (including creatures it has turned to stone), but the pudding must remain in contact with the object for 1 full round to deal this damage.
+Petrifying Touch (Su) A stone pudding’s touch attacks turn opponents to stone permanently. Fortitude save DC 21 negates. The save DC is Constitution-based.
+Racial Vulnerability (Ex) A stone pudding is slowed (as by a slow spell) for 3 rounds if stone to flesh is cast on it. The stone pudding does not receive a save against this effect.

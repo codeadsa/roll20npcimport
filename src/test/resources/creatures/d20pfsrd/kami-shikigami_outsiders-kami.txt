@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kami/kami-shikigami
+Kami, Shikigami CR 2
+XP 600
+LN Tiny outsider (kami, native)
+Init +1; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 15, touch 13, flat-footed 14 (+1 Dex, +2 natural, +2 size)
+hp 19 (3d10+3); fast healing 2
+Fort +4, Ref +2, Will +8
+DR 5/cold iron; Immune bleed, mind-affecting effects, petrification, polymorph; Resist acid 10, electricity 10, fire 10
+OFFENSE
+Speed 30 ft.
+Melee improvised weapon +4 (1d4+2/x3)
+Ranged improvised weapon +6 (1d3+2/x3)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-Like Abilities (CL 6th; concentration +8)
+At will—invisibility (self only), statue (self only)
+3/day—hide from animals, purify food and drink
+1/week—commune with nature (CL 12th)
+STATISTICS
+Str 8, Dex 13, Con 12, Int 11, Wis 17, Cha 14
+Base Atk +3; CMB +2; CMD 11
+Feats Alertness, Catch Off-GuardB, Iron Will, Throw AnythingB
+Skills Heal +9, Knowledge (nature) +6, Perception +11, Sense Motive +11, Stealth +15, Survival +9
+Languages Common*
+SQ improvised weapon mastery, merge with ward, ward (minor works of civilization)
+SPECIAL ABILITIES
+Improvised Weapon Mastery (Ex) A shikigami gains Catch Off-Guard and Throw Anything as bonus feats, and adds its Charisma modifier instead of its Strength modifier to damage done with any improvised weapon, as attacks it makes with such weapons seem supernaturally lucky in landing damaging blows. Although a shikigami is Tiny, it never provokes attacks of opportunity when it attacks an adjacent foe with a melee weapon. If a shikigami critically hits an opponent with an improvised weapon, it deals x3 damage.

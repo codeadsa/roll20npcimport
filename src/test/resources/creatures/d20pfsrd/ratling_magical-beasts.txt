@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ratling
+Ratling CR 2
+XP 600
+CE Tiny magical beast
+Init +2; Senses darkvision 60 ft., detect magic, low-light vision; Perception +6
+DEFENSE
+AC 16, touch 15, flat-footed 13 (+2 Dex, +1 dodge, +1 natural, +2 size)
+hp 19 (3d10+3)
+Fort +4, Ref +5, Will +1
+Defensive Abilities evasion; Immune disease, poison
+OFFENSE
+Speed 30 ft., burrow 10 ft., climb 20 ft., swim 30 ft.
+Melee bite +3 (1d3–2 plus bleed 1)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks sneak attack +1d6
+Spell-Like Abilities (CL 6th; concentration +7)
+Constant—detect magic, read magic, speak with animals (rodents only), spider climb, tongues
+3/day—cause fear (DC 12), dimension door, invisibility (self only)
+1/day—summon swarm (rat swarm only)
+1/week—commune (only when serving as a familiar; 6 questions, CL 12th)
+STATISTICS
+Str 6, Dex 15, Con 13, Int 12, Wis 10, Cha 13
+Base Atk +3; CMB +3; CMD 12 (16 vs. trip)
+Feats Dodge, Mobility
+Skills Climb +6, Knowledge (planes) +4, Perception +6, Stealth +16, Swim +6
+Languages Aklo; speak with animals (rodents only), tongues
+SQ scroll use
+SPECIAL ABILITIES
+Scroll Use (Ex) A ratling can cast spells from any magic scroll as if it had the spell on its spell list.

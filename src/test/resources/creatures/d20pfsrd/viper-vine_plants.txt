@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/viper-vine
+Viper Vine CR 13
+XP 25,600
+N Large plant
+Init +8; Senses low-light vision, tremorsense 60 ft.; Perception +13
+DEFENSE
+AC 27, touch 14, flat-footed 22 (+4 Dex, +1 dodge, +13 natural, –1 size)
+hp 190 (20d8+100)
+Fort +16, Ref +12, Will +6
+Immune acid, plant traits
+Weaknesses cold lethargy
+OFFENSE
+Speed 10 ft.
+Melee bite +23 (2d6+8/19–20 plus 3d6 acid), 4 tentacles +21 (1d6+4 plus grab)
+Space 10 ft.; Reach 10 ft. (20 ft. with tentacle)
+Special Attacks captivating cloud, constrict (1d6+8)
+STATISTICS
+Str 26, Dex 19, Con 19, Int 1, Wis 10, Cha 6
+Base Atk +15; CMB +24 (+28 grapple); CMD 39 (can’t be tripped)
+Feats Combat Reflexes, Dodge, Improved Critical (bite), Improved Initiative, Lightning Reflexes, Multiattack, Power Attack, Toughness, Weapon Focus (bite), Weapon Focus (tentacle)
+Skills Perception +13, Stealth +13
+SPECIAL ABILITIES
+Captivating Cloud (Su) Once per day as a swift action, a viper vine can emit a transparent cloud of pollen in a 60-foot spread that has the power to lull the minds of those that smell it. Once activated, the cloud persists for 5 rounds unless dispersed by moderate or stronger wind. All creatures in the cloud must succeed on a DC 24 Will saving throw each round or become captivated. Once a creature becomes captivated, it takes no actions save to approach the viper vine via the most direct route possible. If this path leads it into a dangerous area, such as through fire or off a cliff, that creature receives a second saving throw to end the effect before moving into peril. A victim that is attacked by the viper vine gets a new saving throw as a free action during each of the vine’s attacks to overcome the effect. This is a mind-affecting effect. The save DC is Constitution-based.
+Cold Lethargy (Ex) Exposure to any cold effect slows a viper vine (as a slow spell) for 1d4 rounds.

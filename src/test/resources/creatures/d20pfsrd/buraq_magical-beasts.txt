@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/buraq
+Before you stands a noble mount with a proud and regal bearing. It has the strong body of a mule, pure white in color, with shining black hooves and the glittering, iridescent wings and tail of a peacock. With a dignified bow of its richly adorned human head, it spreads its powerful wings wide in a fan of shimmering colors.
+Buraq CR 5
+XP 1,600
+NG Large magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +11
+DEFENSE
+AC 19, touch 11, flat-footed 15 (+2 Dex, +8 natural, -1 size)
+hp 51 (6d10+18)
+Fort +8, Ref +9, Will +7
+OFFENSE
+Speed 50 ft., fly 100 ft. (average)
+Melee 2 hooves +9 (1d4+4)
+Space 10 ft.; Reach 5 ft.
+Special Attacks drink the wind, shimmering wings
+Spell-Like Abilities (CL 6th)
+At will—call lightning (DC 15), create food and water, bless water, magic circle against evil, purify food and drink, shocking grasp
+STATISTICS
+Str 18, Dex 15, Con 17, Int 12, Wis 20, Cha 14
+Base Atk +6; CMB +11; CMD 23
+Feats Endurance, Flyby Attack, Lightning ReflexesB, Run
+Skills Acrobatics +10, Diplomacy +9, Fly +11, Heal +9, Knowledge (any one) +8, Perception +11, Sense Motive +9 Racial Modifiers +2 Perception checks, +4 Acrobatics
+Languages Common, Celestial, Draconic
+SQ fold the earth
+SPECIAL ABILITIES
+Drink the Wind (Su) Once per day, a buraq may fill its lungs with air and release an explosive gust of wind in a line 150 feet long. Any creature caught by the wind takes 2d6 points of bludgeoning damage and is affected by windstorm-strength winds, possibly suffering other effects. A DC 18 Reflex save negates both the damage and the effects of the wind. The save DC is Constitution-based.
+Shimmering Wings (Su) A buraq can flutter its iridescent wings to create a pattern of subtle, shifting colors around its body. Any creature within 60 feet who can see the buraq must make a DC 17 Will save or be fascinated for 2d4 rounds. A creature that makes the save is immune to the shimmering wings of that buraq for 24 hours. This is a mind-affecting pattern and affects up to 24 HD of creatures. The save DC is Charisma-based and includes a +2 racial bonus.
+Static Field (Su) Three times per day, a buraq can surround itself (and its rider, if any) with a coruscating aura of static electricity that deflects Medium or smaller ranged attacks. This ability functions like an entropic shield and lasts for 1 minute.
+Fold the Earth (Su) Once per day, a buraq can transport itself over great distances. This functions as a teleport spell (caster level 6th) with the usual chances of success or mishap. However, a buraq can teleport itself to any location that it can see (usually as far as the horizon, or approximately 200 miles) as if that location were “studied carefully.”

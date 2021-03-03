@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/formian/formian-taskmaster
+Formian Taskmaster CR 7
+XP 3,200
+LN Medium monstrous humanoid
+Init +2 (+6 with hive mind); Senses blindsight 30 ft., darkvision 60 ft., hive mind; Perception +16 (+20 with hive mind)
+DEFENSE
+AC 20, touch 12, flat-footed 18 (+2 Dex, +8 natural)
+hp 85 (10d10+30)
+Fort +6, Ref +9, Will +10 Resist sonic 10
+OFFENSE
+Speed 40 ft.
+Melee sting +13 (1d4+3 plus poison), 2 claws +13 (1d4+3)
+Ranged dart +12/+7 (1d4+3)
+Special Attacks poison
+Spell-Like Abilities (CL 10th; concentration +14
+3/day—detect thoughts (DC 16), sending (to the hive queen only)
+Bard Spells Known (caster level 7th; concentration +11)
+3rd (2)—confusion (DC 18), good hope
+2nd (4)—heroism, invisibility, sound burst (DC 16), suggestion (DC 17)
+1st (5)—charm person (DC 16), comprehend languages, cure light wounds, hideous laughter (DC 16), silent image (DC 15)
+0 (at will)—dancing lights, daze (DC 15), detect magic, mending, message, prestidigitation
+STATISTICS
+Str 17, Dex 14, Con 16, Int 13, Wis 16, Cha 19
+Base Atk +10; CMB +13; CMD 26 (30 vs. trip)
+Feats Combat Casting, Point-Blank Shot, Quick Draw, Rapid Shot, Spell Focus (enchantment)
+Skills Appraise +6, Bluff +9, Climb +11, Craft (armor) +9, Diplomacy +14, Perception +16 (+20 with hive mind), Sense Motive +8, Spellcraft +6
+Languages Common; telepathy 120 ft.
+SQ formian traits, mental motivator (20 rounds/day)
+SPECIAL ABILITIES
+Mental Motivator (Su) A formian taskmaster can inspire competence or inspire courage as a 7th-level bard (typically 20 rounds/day). The taskmaster’s performance is purely mental and only affects formians from its own hive within telepathic range.
+Poison (Ex) Sting—injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d4 Dexterity; cure 2 consecutive saves.
+Spells A formian taskmaster casts spells as a 7th-level bard. It favors enchantment and illusion spells.

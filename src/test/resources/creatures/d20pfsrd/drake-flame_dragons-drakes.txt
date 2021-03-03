@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/drakes/drake-flame
+Flame Drake CR 5
+XP 1,600
+CE Large dragon (fire)
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +10
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 57 (6d12+18)
+Fort +8, Ref +6, Will +6
+Immune fire, paralysis, sleep
+Weakness vulnerability to cold
+OFFENSE
+Speed 20 ft., fly 60 ft. (average)
+Melee bite +10 (2d6+5 plus 1d6 fire), tail slap +5 (1d6+2)
+Space 10 ft.; Reach 10 ft.
+Special Attacks fireball breath
+STATISTICS
+Str 21, Dex 13, Con 16, Int 9, Wis 12, Cha 10
+Base Atk +6; CMB +12; CMD 23
+Feats Flyby Attack, Improved Initiative, Power Attack
+Skills Fly +8, Intimidate +9, Perception +10, Stealth +6, Survival +10
+Languages Draconic
+SQ speed surge
+SPECIAL ABILITIES
+Fireball Breath (Su) A flame drake can, as a standard action, breathe a ball of flame that explodes like a fireball. This attack has a range of 180 feet and deals 5d6 points of fire damage (DC 16 Reflex half) to all creatures within a 20-foot-radius spread. Once a flame drake has used its fireball breath, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+Speed Surge (Ex) Three times per day as a swift action, a flame drake may draw on its draconic heritage for a boost of strength and speed to take an additional move action in that round.

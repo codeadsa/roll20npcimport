@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghost/ghost-prana
+Prana Ghost CR 11
+XP 12,800
+Half-elf prana ghost hydrokineticist (elemental ascetic) 11
+NG Medium outsider (augmented humanoid, elf, extraplanar, human, incorporeal)
+Init +11; Senses darkvision 60 ft., low-light vision; Perception +30
+DEFENSE
+AC 27, touch 27, flat-footed 20 (+4 deflection, +7 Dex, +6 Wis)
+hp 126 (11d8+77)
+Fort +13, Ref +15, Will +10; +2 vs. enchantments
+Defensive Abilities AC bonus, dual minded, incorporeal, rejuvenation; Immune dazing, disease, effects requiring a physical body, exhaustion, fatigue, nonlethal damage, paralysis, poison, sleep effects, stunning
+Weaknesses living prana
+OFFENSE
+Speed fly 30 ft. (perfect); astral step (4/day)
+Melee flurry of blows +18/+18/+13/+13/+8 (1d10+4 plus kinetic fist) or dazing touch +15 incorporeal touch attack (1d6 plus daze)
+Special Attacks dazing touch (DC 19), elemental flurry, metakinesis (empower, maximize), powerful fist
+Kineticist Wild Talents Known Infusions—bowling infusion, chilling infusion (DC 19), entangling infusion (DC 19), kinetic fist (2d6), pushing infusion, Kinetic blasts—aetheric boost, cold blast (6d6+2), telekinetic blast (6d6+11), Utility—basic hydrokinesis, basic telekinesis, slick (DC 15), suffocate (DC 15), telekinetic invisibility, veil of mists, water manipulator
+STATISTICS
+Str —, Dex 24, Con 20, Int 12, Wis 18, Cha 10
+Base Atk +8; CMB +15; CMD 35
+Skills Acrobatics +16, Diplomacy +8, Perception +30, Sense Motive +30, Stealth +29, Use Magic Device +14; Racial Modifiers +10 Perception, +8 Sense Motive, +8 Stealth
+Feats AlertnessB, Combat Reflexes, Extra Wild Talent, Improved InitiativeB, Improved Unarmed Strike, Snake Fang, Snake Sidewind, Snake Style, ToughnessB, Weapon Focus (unarmed strike)
+Languages Celestial, Common, Elven
+SQ burn (3 points/round, maximum 8), elemental wisdom, elf blood, expanded element (aether), gather power, infusion specialization 3, internal buffer 2, supercharge
+SPECIAL ABILITIES
+Astral Step (Su) As a standard action a number of times per day equal to its Wisdom bonus, a prana ghost can teleport to a space within 60 feet that it can see. This is a teleportation effect.
+Dazing Touch (Su) With a touch, a prana ghost can deal 1d6 points of damage, and the creature touched must succeed at a Will saving throw (DC = 10 + 1/2 the prana ghost’s Hit Dice + the prana ghost’s Wisdom modifier) or be dazed for 1 round.
+Living Prana (Ex) A prana ghost is made entirely of life essence, so it is vulnerable to effects that snuff life essence out. A prana ghost takes half again as much damage (+50%) from negative energy effects and death effects that deal damage, half again as many negative levels from negative energy effects that inflict negative levels, and half again as much Constitution damage and drain from negative energy effects (such as a wraith’s touch). If a prana ghost dissipates from such an effect, it takes twice as long for it to restore itself via rejuvenation.
+Rejuvenation (Su) In most cases, it is difficult to dissipate a prana ghost through simple combat; the prana ghost restores itself in 2d4 days. Generally, the only way to permanently dissipate a prana ghost is to help it complete its mission or to make the mission impossible to complete, after which the prana ghost continues its path to the afterlife.

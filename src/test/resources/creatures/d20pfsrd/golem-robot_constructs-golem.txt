@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-robot
+Robot Golem CR 11
+XP 12,800
+N Large construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 27, touch 9, flat-footed 27 (+18 natural, –1 size)
+hp 112 (15d10+30)
+Fort +5, Ref +5, Will +5 DR 10/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +22 (2d10+8)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend construct (2 slams, 2d10+12), shockwave (30-ft.-radius spread, 8d6 electricity, Reflex DC 19 for half, usable every 1d4 rounds)
+STATISTICS
+Str 26, Dex 11, Con —, Int —, Wis 11, Cha 1
+Base Atk +15; CMB +24; CMD 34
+SPECIAL ABILITIES
+Immunity to Magic (Ex) A robot golem is immune to spells or spell-like abilities that allow spell resistance. In addition, certain spells and effects function differently against it, as noted below.
+A magical attack that deals electricity damage deals half damage to the golem. Additionally, for 1d4+1 rounds the golem gains the benefits of haste and goes berserk. The uncontrolled golem goes on a rampage, attacking the nearest living creature or smashing an object smaller than itself if no creature is within reach; it then moves on to spread more destruction. The golem comes back under the control of its creator when the duration ends. A transmute metal to wood spell reduces the robot golem’s damage reduction by 5 and its natural armor bonus by 9 for 1d4 rounds. A robot golem is affected normally by rust attacks, such as those of a rust monster or a rusting grasp spell. Rend Construct (Ex) This functions as the rend special ability, except the robot golem can rend only other constructs.
+Shockwave (Ex) A robot golem can release a pulse of electrical energy held within its nonfunctioning batteries as a standard action once every 1d4 rounds. This pulse is a 30-foot-radius spread that deals 8d6 points of electricity damage to all creatures in its area of effect (Reflex DC 19 half). The save DC is Constitution-based and includes a +2 racial bonus.

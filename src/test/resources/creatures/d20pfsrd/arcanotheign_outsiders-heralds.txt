@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/arcanotheign
+Arcanotheign CR 15
+XP 51,200
+N Medium outsider (herald, incorporeal)
+Init +12; Senses blindsense 60 ft., darkvision 60 ft., arcane sight 120 ft.; Perception +25; Aura energy channel (30 ft., DC 26)
+DEFENSE
+AC 27, touch 27, flat-footed 18 (+8 deflection, +8 Dex, +1 dodge)
+hp 195 (17d10+102)
+Fort +18, Ref +13, Will +17; +2 vs. chaos/evil/good/law
+Defensive Abilities incorporeal; Immune poison; Resist acid 30, cold 30, divine power 30 (such as from flame strike), electricity 30, fire 30, sonic 30; SR 31
+OFFENSE
+Speed 40 ft., fly 60 ft. (perfect)
+Melee 2 incorporeal touches +25 (4d6 plus energy channel)
+Ranged 2 eldritch blasts +25 touch (4d6 plus special)
+Spell-Like Abilities (CL 17th; concentration +25)
+Constant—arcane sight, protection from chaos/evil/good/law
+At will—clairaudience/clairvoyance, greater teleport (self plus 50 lbs. of objects only)
+3/day—cloudkill (DC 23), cure critical wounds, lightning bolt (DC 21), telekinesis (DC 23)
+1/day—harm (DC 24), heal, limited wish (DC 25), plane shift (DC 25)
+STATISTICS
+Str —, Dex 27, Con 22, Int 31, Wis 20, Cha 27
+Base Atk +17; CMB +25; CMD 44
+Feats Combat Casting, Combat Reflexes, Command Undead, Dodge, Great Fortitude, Greater Spell Penetration, Improved Initiative, Iron Will, Spell Penetration
+Skills Craft (alchemy) +30, Diplomacy +25, Fly +36, Heal +22, Intimidate +25, Knowledge (arcana, planes, religion) +30, Knowledge (history) +27, Linguistics +27, Perception +25, Perform (sing) +25, Sense Motive +25, Spellcraft +30, Stealth +28, Use Magic Device +28
+Languages Abyssal, Celestial, Common, Draconic, Infernal, Protean, +1 additional; telepathy 100 ft.
+SQ change shape (corporeal form)
+SPECIAL ABILITIES
+Corporeal Form (Ex) As an immediate action, the herald can take physical form, losing its incorporeal special quality and subtype and its deflection bonus to AC, but gaining a Strength score of 20 and a natural armor bonus equal to its incorporeal deflection bonus.
+Eldritch Blast (Su) The herald chooses an additional effect for its eldritch blasts each round (DC 26 negates). A creature that fails its saves against both blasts in the same round suffers an increased effect. The save DC is Charisma-based.
+Dement (Will): The creature is confused for 1 minute. Increased effect: The creature goes insane (as insanity). Displace (Fortitude): The creature teleports (as dimension door) 5 feet in a random horizontal direction at the end of its turn each round for the next 10 rounds. Increased effect: The creature is affected by maze. Ignite (Reflex): The creature takes 2d6 points of fire damage. Increased effect: The creature catches on fire. Energy Channel Aura (Su) On its turn, the herald can channel energy (Will DC 26 half) to deal 2d6 points of acid, cold, electricity, or fire damage to each creature in its aura. A creature struck by its incorporeal touch attack also takes this damage (no saving throw). The save DC is Charisma-based.

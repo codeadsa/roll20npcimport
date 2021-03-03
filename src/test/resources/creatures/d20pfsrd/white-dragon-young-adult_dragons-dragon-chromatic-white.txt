@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-white/white-dragon-young-adult
+Young Adult White Dragon CR 9
+XP 6,400
+CE Large dragon (cold)
+Init +5; Senses dragon senses, snow vision; Perception +19
+DEFENSE
+AC 24, touch 10, flat-footed 23 (+1 Dex, +14 natural, -1 size)
+hp 115 (11d12+44)
+Fort +11, Ref +8, Will +8
+DR 5/magic; Immune cold, paralysis, sleep; SR 20
+Weaknesses Vulnerability to fire
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +17 (2d6+9/19-20), 2 claws +16 (1d8+6), 2 wings +11 (1d6+3), tail slap +11 (1d8+9)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, DC 19, 10d4 cold)
+Spell-Like Abilities (CL 11th; concentration +11)
+At will— fog cloud, gust of wind STATISTICS
+Str 23, Dex 12, Con 19, Int 10, Wis 13, Cha 10
+Base Atk +11; CMB +18; CMD 29 (33 vs. trip)
+Feats Alertness, Flyby Attack, Improved Critical (bite), Improved Initiative, Power Attack, Weapon Focus (bite)
+Skills Fly +9, Intimidate +14, Perception +19, Spellcraft +14, Stealth +11, Swim +28; Racial Modifiers +8 Swim
+Languages Draconic
+SQ icewalking, ice shape
+SPECIAL ABILITIES
+Ice Shape (Su) A young white dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A white dragon’s caster level for this effect is equal to its Hit Dice.
+Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+Snow Vision (Ex) A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.

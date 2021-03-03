@@ -1,0 +1,15 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/shark/shark
+Shark CR 2
+XP 600
+N Large animal ( aquatic)
+Init +5; Senses blindsense 30 ft., keen scent; Perception +8
+DEFENSE AC 14, touch 10, flat-footed 13 (+1 Dex, +4 natural, –1 size)
+hp 22 (4d8+4)
+Fort +7, Ref +5, Will +2
+OFFENSE Speed swim 60 ft.
+Melee bite +5 (1d8+4)
+Space 10 ft.; Reach 5 ft.
+STATISTICS Str 17, Dex 12, Con 13, Int 1, Wis 12, Cha 2
+Base Atk +3; CMB +7; CMD 18
+Feats Great Fortitude, Improved Initiative
+Skills Perception +8, Swim +11

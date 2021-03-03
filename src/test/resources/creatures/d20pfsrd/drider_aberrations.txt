@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/drider
+Drider CR 7
+XP 3,200
+CE Large aberration
+Init +2; Senses darkvision 120 ft., detect good, detect law, detect magic; Perception +15
+DEFENSE
+AC 20, touch 12, flat-footed 17; (+2 Dex, +1 dodge, +8 natural, –1 size)
+hp 76 (9d8+36)
+Fort +7, Ref +5, Will +9
+Immune sleep; SR 18
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee mwk heavy mace +9/+4 (1d8+3), bite +3 (1d4+1 plus poison)
+Ranged mwk composite longbow +8/+3 (1d8+2/×3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks web (+7 ranged, DC 18, hp 9)
+Spell-Like Abilities (CL 9th)
+Constant—detect good, detect law, detect magic
+At will—dancing lights, darkness, faerie fire
+1/day—clairaudience/clairvoyance, deeper darkness, dispel magic, levitate, suggestion (DC 16)
+Sorcerer Spells Known (CL 6th)
+3rd (4/day)—lightning bolt (DC 16)
+2nd (6/day)—invisibility, web (DC 15)
+1st (7/day)—mage armor, magic missile, ray of enfeeblement (DC 14), silent image (DC 14)
+0 (at will)—bleed (DC 13), daze (DC 13), ghost sound, mage hand, ray of frost, read magic, resistance
+STATISTICS
+Str 15, Dex 15, Con 18, Int 15, Wis 16, Cha 16
+Base Atk +6; CMB +9; CMD 21 (33 vs. trip)
+Feats Blind-Fight, Dodge, Combat Casting, Weapon Focus (bite, mace)
+Skills Climb +22, Intimidate +15, Knowledge (arcana) +14, Perception +15, Spellcraft +14, Stealth +14; Racial Modifiers +4 Stealth
+Languages Common, Elven, Undercommon
+SQ undersized weapons
+SPECIAL ABILITIES
+Poison (Ex)
+Bite—injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 save. The save DC is Constitution-based.
+Spells
+A drider casts spells as a 6th-level cleric, sorcerer, or wizard, but does not gain any other class abilities.
+Undersized Weapons (Ex)
+Although a drider is Large, its upper torso is the same size as that of a Medium humanoid’s upper torso. As a result, it wields weapons as if it were one size category smaller than its actual size (Medium for most driders).

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/addanc
+Addanc CR 7
+XP 3,200
+NE Large magical beast
+Init +2; Senses low-light vision, scent; Perception +14
+DEFENSE
+AC 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, -1 size)
+hp 85 (10d10+30)
+Fort +12, Ref +9, Will +4
+OFFENSE
+Speed 20 ft., Swim 30 ft.
+Melee bite +15 (2d6+6 plus Grab), 2 claws +15 (1d6+6), tail slap +12 (1d8+3)
+Space 10 ft.; Reach 5 ft. (10 ft with bite)
+Special Attack death roll (2d6+9 plus trip)
+STATISTICS
+Str 22, Dex 15, Con 16, Int 5, Wis 12, Cha 7
+Base Atk +10; CMB +17; CMD 29 (33 vs trip)
+Feats Great Fortitude, Improved Natural Armor, Improved Natural Attack (bite), Multiattack, Power Attack
+Skills Perception +14; Racial Modifiers +4 Stealth (in water), +4 Swim
+SQ hold breath, swimming grapple
+SPECIAL ABILITIES
+Death Roll (Ex) When grappling a foe of its size or smaller, a addanc can perform a death roll upon making a successful grapple check. As it clings to its foe, it tucks in its legs and rolls rapidly, twisting and wrenching its victim. The addanc inflicts its bite damage and knocks the creature prone. If successful, the addanc maintains its grapple.
+Hold Breath (Ex) An addanc may hold its breath for (four times its Con score) rounds before beginning to drown.
+Swimming Grapple (Ex) An addanc can swim at full swim speed while grappling a creature.

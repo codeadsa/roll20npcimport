@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/cayhound
+Cayhound CR 5
+XP 1,600
+CG Medium outsider
+Init +6; Senses darkvision 60 ft., scent; Perception +10
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 51 (6d10+18)
+Fort +5, Ref +7, Will +6
+DR 5/cold iron
+OFFENSE
+Speed 40 ft.
+Melee bite +11 (1d10+7 plus 1d6 sonic and trip)
+Special Attacks righteous bite, thunderous bark
+Spell-Like Abilities (CL 7th; concentration +8)
+Constant–freedom of movement
+At will–open/close
+3/day–dimension door, knock
+STATISTICS
+Str 21, Dex 15, Con 16, Int 8, Wis 12, Cha 13
+Base Atk +6; CMB +11; CMD 23 (27 vs. trip)
+Feats Dimensional Agility, Dimensional Assault, Improved Initiative
+Skills Acrobatics +10 (+14 when jumping), Intimidate +6, Knowledge (planes) +6, Perception +10, Sense Motive +8, Stealth +10, Survival +8
+Languages Celestial
+SQ unbound
+SPECIAL ABILITIES
+Righteous Bite (Su) A cayhound’s bite is treated as magical for the purpose of overcoming damage reduction.
+Thunderous Bark (Su) Once every 1d6 rounds, a cayhound can bark with the concussive force of a thunderbolt. Every creature within a 15-foot cone-shaped burst must succeed at a DC 14 Fortitude saving throw or take 3d8 points of sonic damage and be knocked prone. A successful saving throw reduces this damage by half and negates being knocked prone. The save DC is Charisma-based.
+Unbound (Su) Cayhounds move as if under a continuous freedom of movement spell. They are immune to dimensional anchor, but are affected by dimensional lock normally.

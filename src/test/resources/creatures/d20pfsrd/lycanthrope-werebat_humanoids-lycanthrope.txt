@@ -1,0 +1,49 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lycanthrope/lycanthrope-werebat
+Werebat (Human Form) CR 3
+XP 800
+Human natural werebat rogue 3
+NE Medium humanoid (human, shapechanger)
+Init +2; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 armor, +2 Dex)
+hp 23 (3d8+6)
+Fort +3, Ref +5 (+1 vs. traps), Will +3
+Defensive Abilities evasion, trap sense +1
+OFFENSE
+Speed 30 ft.
+Melee mwk short sword +6 (1d6+2/19–20)
+Ranged mwk shortbow +5 (1d6/×3)
+Special Attacks sneak attack +2d6
+STATISTICS
+Str 14, Dex 15, Con 15, Int 10, Wis 14, Cha 6
+Base Atk +2; CMB +4; CMD 16
+Feats Agile Maneuvers, Combat Reflexes, Weapon Focus (short sword)
+Skills Acrobatics +8, Climb +8, Disable Device +8, Disguise +4, Handle Animal +1, Intimidate +4, Perception +8, Sense Motive +8, Sleight of Hand +8, Stealth +8
+Languages Common
+SQ change shape (human, hybrid, and bat; polymorph), lycanthropic empathy (bats and dire bats), rogue talents (ledge walker), trapfinding +1
+Werebat (Hybrid Form)
+XP 800
+Human natural werebat rogue 3
+NE Medium humanoid (human, shapechanger)
+Init +2; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 armor, +2 Dex, +2 natural)
+hp 26 (3d8+9)
+Fort +4, Ref +5 (+1 vs. traps), Will +3
+Defensive Abilities evasion, trap sense +1; DR 10/silver
+OFFENSE
+Speed 30 ft., fly 40 ft. (average)
+Melee bite +5 (1d6+3), 2 claws +5 (1d4+3)
+Ranged
+Special Attacks curse of lycanthropy, sneak attack +2d6
+STATISTICS
+Str 16, Dex 15, Con 17, Int 10, Wis 14, Cha 6
+Base Atk +2; CMB +4; CMD 17
+Feats Agile Maneuvers, Combat Reflexes, Weapon Focus (short sword)
+Skills Acrobatics +8, Climb +9, Disable Device +8, Disguise +4, Handle Animal +1, Intimidate +4, Perception +8, Sense Motive +8, Sleight of Hand +8, Stealth +8
+Languages Common
+SQ change shape (human, hybrid, and bat; polymorph), lycanthropic empathy (bats and dire bats), rogue talents (ledge walker), trapfinding +1
+SPECIAL ABILITIES
+Change Shape (Su) A werebat has three forms—a humanoid form, an animal form, and a hybrid form. Equipment does not meld with the new form between humanoid and hybrid form, but does between those forms and animal form. A werebat can shift to any of its three alternate forms as a move-equivalent action. If slain, it reverts to its humanoid form, but remains dead.
+Curse of Lycanthropy (Su) A werebat’s bite attack in animal or hybrid form infects a humanoid target with lycanthropy (Fortitude DC 15 negates). If the victim’s size is not within one size category, this ability has no effect.
+Lycanthropic Empathy (Ex) In any form, a werebat can communicate and empathize with bats and dire bats. It can use Diplomacy to alter such an animal’s attitude, and when so doing gain a +4 racial bonus on the check.

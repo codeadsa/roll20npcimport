@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/lizard/lizard-chameleon-giant
+Giant Chameleon CR 3
+XP 800
+N Large animal
+Init +6; Senses low-light vision; Perception +4
+DEFENSE
+AC 14, touch 11, flat-footed 12 (+2 Dex, +3 natural, -1 size)
+hp 34 (4d8+16)
+Fort +8, Ref +6, Will +1
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee bite +6 (2d6+4) or tongue +5 touch (grab)
+Space 10 ft.; Reach 10 ft. (15 ft. with tongue)
+Special Attacks tongue, pull (tongue, 5 ft.)
+STATISTICS
+Str 16, Dex 15, Con 18, Int 2, Wis 11, Cha 7
+Base Atk +3; CMB +7 (+11 grapple); CMD 19
+Feats Improved Initiative, Skill Focus (Stealth)
+Skills Climb +15, Perception +4, Stealth +18 (+28 when still); Racial Modifiers +12 Stealth (+22 when still)
+SPECIAL ABILITIES
+Tongue (Ex) A giant chameleon can grab a foe with its tongue and draw the victim to its mouth. This tongue attack has a reach of 15 feet. The attack does no damage, but allows the creature to grab. A giant chameleon does not gain the grappled condition while using its tongue in this manner.

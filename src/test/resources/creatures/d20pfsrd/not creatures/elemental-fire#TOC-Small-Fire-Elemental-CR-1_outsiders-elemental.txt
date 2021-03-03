@@ -1,0 +1,10 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-fire#TOC-Small-Fire-Elemental-CR-1
+SPECIAL ABILITIES
+Burn (Ex) A fire elemental deals fire damage in addition to damage dealt on a successful hit in melee. Those affected by the burn ability must also succeed on a Reflex save or catch fire, taking the listed damage for an additional 1d4 rounds at the start of its turn. A burning creature can attempt a new save as a full-round action. Dropping and rolling on the ground grants a +4 bonus on this save. Creatures that hit a burning creature with natural weapons or unarmed attacks take fire damage as though hit by the burning creature and must make a Reflex save to avoid catching on fire (see Burn universal monster ability for complete details.)
+Elemental Size Category Height Weight Burn DC Burn Damage
+Small Small 4 ft. 1 lb. 11 1d4
+Medium Medium 8 ft. 2 lbs. 14 1d6
+Large Large 16 ft. 4 lbs. 16 1d8
+Huge Huge 32 ft. 8 lbs. 18 2d6
+Greater Huge 32 ft. 8 lbs. 20 2d8
+Elder Huge 32 ft. 8 lbs. 22 2d10

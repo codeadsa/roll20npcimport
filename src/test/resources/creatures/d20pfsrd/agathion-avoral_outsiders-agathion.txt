@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-avoral
+Avoral CR 9
+XP 6,400
+NG Medium outsider (agathion, extraplanar, good)
+Init +6; Senses darkvision 60 ft., detect magic, low-light vision, see invisibility, true seeing; Perception +23; Aura fear aura (20 ft., DC 17)
+DEFENSE
+AC 25, touch 17, flat-footed 18 (+6 Dex, +1 dodge, +8 natural)
+hp 94 (9d10+45)
+Fort +11, Ref +12, Will +6; +4 vs. poison
+DR 10/evil or silver; Immune electricity, petrification; Resist cold 10, sonic 10; SR 20
+OFFENSE
+Speed 40 ft., fly 90 ft. (good)
+Melee 2 claws +16 (2d6+3), 2 wings +10 (2d6+1)
+Spell-Like Abilities (CL 9th; concentration +12)
+Constant—detect magic, see invisibility, speak with animals
+
+At will—aid, blur (self only), command (DC 14), detect magic, dimension door, dispel magic, gust of wind (DC 15), hold person (DC 16), light, magic circle against evil (self only)
+
+3/day-—lightning bolt (DC 16), empowered magic missile
+STATISTICS
+Str 17, Dex 20, Con 23, Int 15, Wis 16, Cha 16
+Base Atk +9; CMB +12; CMD 29
+Feats Dodge, Empower Spell-Like Ability (magic missile), Flyby Attack, Weapon Finesse, Weapon Focus (claw)
+Skills Bluff +10, Diplomacy +7, Fly +22, Handle Animal +9, Intimidate +15, Knowledge (any one) +14, Perception +23, Ride +7, Sense Motive +15, Spellcraft +11, Stealth +18; Racial Modifiers Perception +8
+Languages Celestial, Draconic, Infernal; speak with animals, truespeech
+SQ lay on hands (4d6, 7/day, as a 9th-level paladin), true seeing
+SPECIAL ABILITIES
+True Seeing (Su) This ability works like the true seeing spell (caster level 14th), except it only affects the avoral, the avoral must concentrate for 1 full round before it takes effect, and it remains as long as the avoral concentrates.

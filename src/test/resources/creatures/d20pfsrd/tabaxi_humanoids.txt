@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/tabaxi
+Tabaxi CR 2
+XP 600
+CN Medium humanoid (tabaxi)
+Init +2; Senses darkvision 60 ft., scent; Perception +2
+DEFENSE
+AC 13, touch 12, flat-footed 11 (+2 Dex, +1 natural)
+hp 11 (2d8+2)
+Fort +1, Ref +5, Will +1
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee 2 claws +3 (1d4+1 plus grab) or short sword +3 (1d6+1); bite +3 (1d3+1)
+Ranged javelin +3 (1d6+1)
+Special Attacks pounce, rake (2 claws +3, 1d3+1)
+STATISTICS
+Str 13, Dex 14, Con 12, Int 10, Wis 12, Cha 10
+Base Atk +1; CMB +2 (+6 grappling); CMD 14
+Feats Weapon Finesse
+Skills Acrobatics +3, Climb +13, Perception +2, Stealth +3
+Languages Common, Tabaxi
+SQ weapon aptitude
+SPECIAL ABILITIES
+Weapon Aptitude (Ex) Tabaxis have an instinctive love of weaponry of all kinds, and an innate knack for quickly learning to employ them skillfully. This grants them proficiency with all simple, martial, and exotic weapons.
+Tabaxi Characters
+Tabaxi characters possess the following racial traits.
++2 Strength, +4 Dexterity, +2 Constitution, +2 Wisdom. Darkvision: Tabaxis can see in the dark up to 60 feet. Racial Hit Dice: A tabaxi begins with two levels of humanoid, which provide 2d8 Hit Dice, a base attack bonus of +1, and base saving throw bonuses of Fort +0, Ref +3, and Will +0. Racial Skills: A tabaxi’s humanoid levels give it skill points equal to 2 x (2 + Int modifier). Racial Feats: A tabaxi’s humanoid levels give it one feat. AC: +1 natural armor bonus. Natural Weapons: Tabaxis can fight with 2 claws that deal 1d4 base damage, plus a bite attack that deals 1d3 base damage. They also can rake with their hind claws for base 1d3 damage when pouncing or when grappling a foe, but only if both hands are free. Special Attacks: Grab, pounce, rake (see left). Special Qualities: Weapon aptitude (see left). Languages: Tabaxis begin play speaking Common and Tabaxi. Bonus languages can be chosen from the following: Elven, Gnome, Goblin, Orc, and Sylvan.

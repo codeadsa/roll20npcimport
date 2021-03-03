@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oni/oni-atamahuta
+Atamahuta Oni CR 11
+XP 12,800
+LE Large outsider (giant, native, oni, shapechanger)
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +24
+DEFENSE
+AC 25, touch 10, flat-footed 24 (+7 armor, +1 Dex, +8 natural, –1 size)
+hp 147 (14d10+70); regeneration 5 (acid or fire)
+Fort +14, Ref +5, Will +12
+SR 22
+OFFENSE
+Speed 30 ft.
+Melee +2 orc double axe +22/+22/+17/+17/+12/+12 (2d6+12/19–20)
+Space 10 ft.; Reach 10 ft.
+Special Attacks double weapon mastery, spellstrike
+Spell-Like Abilities (CL 11th; concentration +14)
+Constant—see invisibility
+3/day—chill touch (DC 14), dimension door, fireball (DC 16), haste, rage, shocking grasp
+1/day—black tentacles, stoneskin, wall of fire
+STATISTICS
+Str 25, Dex 12, Con 20, Int 13, Wis 16, Cha 17
+Base Atk +14; CMB +22; CMD 33
+Feats Cleave, Combat Casting, Improved Initiative, Improved Sunder, Power Attack, Spell Penetration, Vital Strike
+Skills Bluff +20, Disguise +20, Intimidate +20, Knowledge (planes) +18, Perception +24, Sense Motive +20, Spellcraft +18; Racial Modifiers +4 Perception
+Languages Common, Giant, Orc, +1 additional
+SQ change shape (Large humanoid, alter self), ward off distractions
+Gear banded mail
+SPECIAL ABILITIES
+Double Weapon Mastery (Ex) An atamahuta fights with an orc double axe. While making a full attack, an atamahuta controls its arms with both heads and does not take a penalty on attack or damage rolls for attacking with a double weapon.
+Spellstrike (Su) An atamahuta can imbue its weapon with magical properties using its spell-like abilities. Whenever an atamahuta casts a spell with a range of “touch” from its spell-like abilities, it can deliver the spell through any weapon it is holding as part of a free melee attack at its highest base attack bonus as part of casting its spell. If successful, this melee attack deals its normal damage as well as the effects of the spell. This attack uses the weapon’s critical multiplier (usually ×3), but the spell effect only deals x2 damage on a successful critical hit, while the weapon damage uses its own critical modifier. An atamahuta cannot make a full attack during the same round that it uses a spell-like ability unless another effect would allow it to do so.
+Ward Off Distractions (Ex) An atamahuta uses one of its heads to defend against attacks while the other is using a spell-like ability, giving it a +4 bonus to AC against attacks of opportunity while casting.

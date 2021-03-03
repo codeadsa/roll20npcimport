@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/zombie/zombie-voidstick
+Voidstick Zombie CR 12
+XP 19,200
+CE Medium undead
+Init +4; Senses darkvision 60 ft., lifesense 60 ft; Perception +10; Aura sacrilegious aura
+DEFENSE
+AC 26, touch 14, flat-footed 26 (+12 natural, +4 profane)
+hp 157 (15d8+90); fast healing 3
+Fort +9, Ref +7, Will +9
+Defensive Abilities channel resistance +4; Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee 2 melee touch +13 (1d8 negative energy)
+Special Attacks channel negative energy 5/day (DC 22, 8d6)
+STATISTICS
+Str 12, Dex 11, Con —, Int 7, Wis 6, Cha 15
+Base Atk +11; CMB +12; CMD 26
+Feats Channel Smite, Great Fortitude, Improved Channel, Improved Initiative, Iron Will, Lightning Reflexes, Skill Focus (Stealth), Toughness
+Skills Climb +5, Perception +10, Stealth +11
+Languages Common
+SPECIAL ABILITIES
+Channel Energy (Su) The voidstick zombie can channel negative energy as a 15th-level cleric.
+Sacrilegious Aura (Sp) The overwhelming entropic energies and the sheer number of voidsticks animating the voidstick zombie warp and augment negative and positive energy around the creature. As with all voidsticks, an aura of intense negative energy extends in a 30-foot radius from the zombie functioning as the spell desecrate. Undead within this aura receive a +1 profane bonus on attack and damage rolls and the DC to resist channeled negative energy increases by +3. The voidstick zombie constantly gains the benefits of this effect (the attack and damage bonuses are already incorporated into its statistics).
+In addition, this miasma of void energies also interferes with wielding positive energy. Any creature attempting to use positive energy in this area—such as through a cleric’s channel energy ability, a paladin’s lay on hands, or any spell with the healing descriptor—must make a DC 25 concentration check. If this check fails, the effect is blocked, consuming one use of the ability, or the spell is lost.

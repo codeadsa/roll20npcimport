@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/carrion-moth
+Carrion Moth CR 5
+XP 1,600
+N Large aberration
+Init +4; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 20, touch 13, flat-footed 16 (+4 Dex, +7 natural, –1 size)
+hp 45 (7d8+14)
+Fort +4; Ref +6; Will +8
+OFFENSE
+Speed 30 ft., climb 15 ft., fly 60 ft. (good)
+Melee bite +8 bite (2d8+3), 4 tentacles +3 (paralysis)
+Space 10 ft.; Reach 5 ft.
+Special Attacks drone, paralysis (2d6 rounds, DC 15)
+STATISTICS
+Str 16, Dex 18, Con 14, Int 1, Wis 16, Cha 6
+Base Atk +5; CMB +9; CMD 23
+Feats Combat Reflexes, Skill Focus (Perception), Weapon Finesse
+Skills Climb +11, Fly +4, Perception +12, Stealth +5
+SQ stench
+SPECIAL ABILITIES
+Drone (Ex) The flapping wings of a carrion moth emit a mind-numbing drone that affects all creatures within 80 feet that hear it. Affected creatures must succeed on a DC 15 Will save or become confused for 2d4 rounds. A creature that successfully saves cannot be affected by the same carrion moth’s drone attack for 24 hours. The save DC is Constitution-based.
+Stench (Ex) When a carrion moth dies, its carcass splits open and releases a foul-smelling gas. All living creatures (except other carrion moths) within 5 feet of the carcass must succeed on a DC 15 Fortitude save or be nauseated for 1d4+1 rounds. A delay poison or neutralize poison spell removes the effect from the nauseated creature. This is a poison effect. The save DC is Constitution-based.

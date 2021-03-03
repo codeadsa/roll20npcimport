@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dog/breeds/apollo
+Apollo CR 1/2
+XP 200
+N Medium Animal
+Init +2; Senses low-light vision, scent; Perception +8
+
+DEFENSE
+AC 13, touch 12, flat-footed 11 (+2 Dex, +1 natural)
+hp 13 (2d8+4)
+Fort +5, Ref +5, Will +1
+
+OFFENSE
+Speed 40 ft.
+Melee Bite +3 (1d6+3 plus trip)
+STATISTICS
+Str 15, Dex 15, Con 15, Int 2, Wis 12, Cha 6
+Base Atk +1; CMB +3 (+5 on Trip maneuvers); CMD 15 (19 vs. trip)
+Feats Skill Focus (Perception)
+Skills Acrobatics +6 (+14 jumping), Perception +8, Survival +1 (+5 Scent tracking); Racial Modifiers +4 Acrobatics when jumping, +4 Survival when tracking by Scent
+SPECIAL ABILITIES
+Trip Attacks (Ex)
+Apollos have so long been bred for combat that it is almost innate to them.
+These dogs receive a +2 bonus to their CMB when making Trip attempts.
+
+Carrying Capacity: A light load for an Apollo is up to 99 pounds; a medium load, 100-200 pounds; a heavy load, 201-300 pounds. An Apollo can drag 1,500 pounds.
+
+Average Cost: 50g

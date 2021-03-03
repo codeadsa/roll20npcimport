@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/false-spider-pedipalp
+False Spider, Pedipalp CR 2
+XP 600
+N Medium vermin
+Init +2; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 natural)
+hp 11 (2d8+2)
+Fort +4; Ref +2; Will +0
+OFFENSE
+Speed 30 ft.
+Melee 2 pincers +2 (1d6+1 plus grab), bite +2 (1d6+1)
+Special Attacks constrict (1d6+1)
+TACTICS
+False spiders are highly territorial and are likely to attack any living creature that enters their area.
+STATISTICS
+Str 12, Dex 14, Con 13, Int -, Wis 10, Cha 2
+Base Atk +1; CMB +2 (+6 grab); CMD 14 (26 vs. trip)
+Skills Perception +4; Racial Modifiers +4 Perception
+Variants Poisonous Pedipalp (CR 3)
+A rare variety of the common pedipalp exists. Rarely encountered, the poisonous pedipalp is a solitary creature. No more than one has ever been encountered at a given time. They do not associate with others of their kind or with normal pedipalps. The poisonous pedipalp uses the same statistics as the normal pedipalp with the additions below. The poisonous pedipalp is CR 3.
+Poison Cloud (Ex) When threatened, a poisonous pedipalp releases a cloud of noxious fumes in a 20-foot radius around its body. Living creatures within the cloud must succeed on a DC 12 Fortitude save or be nauseated for 1d6 rounds. The poisonous pedipalp can use this cloud three times per day. The save DC is Constitution-based. A delay poison or neutralize poison spell removes the effect from the nauseated creature. Creatures with immunity to poison are unaffected, and creatures resistant to poison receive their normal bonus on their saving throws.

@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/sard
+Sard CR 19
+XP 204,800
+CE Colossal plant
+Init +8; Senses blindsight 30 ft., darkvision 60 ft., low-light vision, tremorsense 30 ft.; Perception +32
+DEFENSE
+AC 34, touch 10, flat-footed 26 (+8 Dex, +24 natural, –8 size)
+hp 333 (23d8+230); fast healing 10
+Fort +23, Ref +17, Will +13
+Defensive Abilities death throes, electrical jolt; DR 15/cold iron and slashing; Immune electricity, plant traits; Resist cold 30, fire 30; SR 30
+Weaknesses vulnerable to sonic
+OFFENSE
+Speed 50 ft., climb 30 ft.
+Melee 2 slams +25 (4d10+16/19–20 plus 4d6 electricity)
+Ranged 4 thorns +17 (2d8+16 plus poison)
+Space 30 ft.; Reach 30 ft.
+Spell-Like Abilities (CL 20th; concentration +27)
+At will—control weather, lightning bolt (DC 20), tree shape (Colossal tree), transport via plants
+3/day—chain lightning (DC 23), quickened lightning bolt (DC 20)
+1/day—storm of vengeance (DC 26), whirlwind (DC 25)
+STATISTICS
+Str 42, Dex 27, Con 30, Int 9, Wis 22, Cha 25
+Base Atk +17; CMB +41; CMD 59 (67 vs. trip)
+Feats Awesome Blow, Improved Bull Rush, Improved Critical (slam), Improved Lightning Reflexes, Improved Precise Shot, Improved Sunder, Lightning Reflexes, Point-Blank Shot, Power Attack, Precise Shot, Quicken Spell-Like Ability (lightning bolt), Vital Strike
+Skills Climb +24, Perception +32; Racial Modifiers +8 Climb
+Languages Aklo, Sylvan
+SQ planar acclimation
+SPECIAL ABILITIES
+Death Throes (Su) When a sard dies, its remains explode with a blast of lightning into razor-sharp splinters of wood. All creatures within 30 feet of a sard when it explodes in this manner take 12d6 points of electricity damage and 12d6 points of piercing damage. A DC 31 Reflex save halves this damage. The save DC is Constitution-based.
+Electrical Jolt (Su) Every time a creature strikes a sard with a metal melee weapon, arcs of electricity deal 1d10 points of damage to the attacker.
+Planar Acclimation (Ex) A sard is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the extraplanar subtype.
+Poison (Ex) Thorn—injury; save Fort DC 31; frequency 1/round for 6 rounds; effect 1d2 Dex and 4d6 electricity; cure 2 consecutive saves.
+Thorns 8 (Ex) A sard’s thorns have a range of 180 feet with no range increment.
+

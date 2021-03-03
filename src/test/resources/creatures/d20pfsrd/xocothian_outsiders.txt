@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/xocothian
+Xocothian CR 4
+XP 1,200
+N Large outsider (air, extraplanar, water)
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 17, touch 10, flat-footed 16 (+1 Dex, +7 natural, –1 size)
+hp 33 (6d10)
+Fort +5, Ref +5, Will +5
+DR 5/cold iron; SR 15
+OFFENSE
+Speed 30 ft., fly 90 ft. (average), swim 90 ft., speed burst 200 ft.
+Melee bite +7 (1d8+2), 2 wings +2 (1d6+1)
+Space 10 ft.; Reach 5 ft.
+Spell-Like Abilities (CL 6th; concentration +6)
+At will—alter winds, know direction, shocking grasp
+3/day—chill metal (DC 13), cure light wounds, faerie fire, obscuring mist
+1/day—dimension door (self plus 50 lbs. of objects only), hydraulic torrent (DC 13)
+STATISTICS
+Str 15, Dex 12, Con 11, Int 10, Wis 11, Cha 10
+Base Atk +6; CMB +9; CMD 20 (can’t be tripped)
+Feats Combat Reflexes, Lightning Reflexes, Power Attack
+Skills Fly +8, Handle Animal +9, Knowledge (nature) +9, Knowledge (religion) +9, Perception +9, Stealth +6, Swim +10
+Languages Druidic, Sylvan; speak with animals
+SQ form of sea and sky
+SPECIAL ABILITIES
+Form of Sea and Sky (Su) Once per hour, a xocothian can transform itself into two Small elementals (one air and one water) for up to 7 minutes. These elementals appear in adjacent squares. Each have half of the xocothian’s current hit points and share the same mind. They can reform into the xocothian as a standard action if they are adjacent to each other—the reformed xocothian’s hit points are equal to the total of the two elementals‘ hit points. If either elemental is slain, the xocothian must use its standard action on its next turn to reform (treat a slain elemental‘s hit points as 0 when determining the reformed xocothian’s total hit points).
+Speed Burst (Ex) A xocothian can fly or swim up to 200 feet as a full-round action. When using this ability, it must move in a straight line. This does not provoke attacks of opportunity.
+
+Get this book AND support this site!

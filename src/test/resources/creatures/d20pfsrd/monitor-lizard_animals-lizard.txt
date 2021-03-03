@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/lizard/monitor-lizard
+Monitor Lizard CR 2
+XP 600
+N Medium animal
+Init +2; Senses low-light vision, scent; Perception +8
+DEFENSES AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 22 (3d8+9)
+Fort +8, Ref +5, Will +2
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee bite +5 (1d8+4 plus grab and poison)
+STATISTICS
+Str 17, Dex 15, Con 17, Int 2, Wis 12, Cha 6
+Base Atk +2; CMB +5 (+9 grapple); CMD 17 (21 vs. trip)
+Feats Great Fortitude, Skill Focus ( Perception)
+Skills Climb +7, Perception +8, Stealth +10 (+14 in undergrowth), Swim +11; Racial Modifiers +4 Stealth (+8 in undergrowth)
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 14; onset 1 minute; frequency 1/hour for 6 hours; effect 1d2 Dexterity damage; cure 1 save. The save DC is Constitution-based.
+Subpages
+Summoned Creature: Giant Lizard/Monitor Lizard Monitor Lizard Companions
+Starting Statistics: Size Small; Speed 30 ft., swim 30 ft.; AC +1 natural armor; Attack bite (1d6 plus grab); Ability Scores Str 13, Dex 17, Con 12, Int 2, Wis 12, Cha 6; Special Qualities low-light vision, scent 7th-Level Advancement: Size Medium, AC +2 natural armor; Attack bite (1d8 plus grab and poison); Ability Scores Str +4, Dex –2, Con +4

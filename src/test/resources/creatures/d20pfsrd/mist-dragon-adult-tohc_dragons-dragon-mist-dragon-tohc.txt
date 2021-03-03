@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/mist-dragon-tohc/mist-dragon-adult-tohc
+Adult Mist Dragon CR 11
+XP 12,800
+N Huge dragon (air, fire, water)
+Init +4; Senses dragon senses, mist vision; Perception +28; Aura frightful presence (180 ft., DC 23)
+DEFENSE
+AC 28, touch 8, flat-footed 28 (+20 natural, –2 size)
+hp 184 (16d12+80)
+Fort +17; Ref +10; Will +15
+Immune fire, paralysis, sleep; DR 5/magic; SR 22
+Weakness vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor), swim 20 ft.
+Melee bite +22 (2d8+12), 2 claws +22 (2d6+8), 2 wings +20 (1d8+4), tail slap +20 (2d6+12)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks boiling bite, breath weapon (cone, Fort DC 23, 6d6 fire plus blindness), crush
+Spell-like Abilities (CL 16th):
+At-will—create water, fog cloud, wind wall
+Sorcerer Spells (CL 5th)
+2nd (5/day)—daze monster (DC 17), see invisibility
+1st (8/day)—burning hands (DC 16), magic missile, obscuring mist, shield
+0th (at will)—acid splash, detect magic, flare (DC 15), ghost sound (DC 15), message, touch of fatigue (DC 15)
+STATISTICS
+Str 27, Dex 10, Con 21, Int 20, Wis 21, Cha 20
+Base Atk +16; CMB +26; CMD 36 (40 vs. trip)
+Feats Alertness, Combat Expertise, Flyby Attack, Great Fortitude, Hover, Improved Initiative, Multiattack, Wingover
+Skills Bluff +24, Diplomacy +24, Fly +11, Knowledge (arcana) +24, Knowledge (history) +24, Knowledge (nature) +24, Perception +28, Sense Motive +28, Spellcraft +24, Swim +35, Use Magic Device +24
+Languages Auran, Aquan, Celestial, Common, Draconic, Ignan, Sylvan
+SQ mist form, water breathing
+SPECIAL ABILITIES
+Breath Weapon (Su) A mist dragon’s breath weapon is a cone of cloudy scalding vapor. In still air, the vapor lingers for 1d4 rounds and forms a cloud that covers a radius equal to the cone’s length; on the second round, the vapor condenses into a heated smothering fog that deals 1d6 points of fire damage to creatures each round they remain in the area (Fortitude save halves this damage). The fog also blinds creatures (as the blindness spell) that fail the save as long as they remain within in the cloud and for 2 rounds after they leave the area.
+Mist Form (Su) As a standard action, a juvenile or older mist dragon can assume gaseous form, but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability. A great wyrm mist dragon’s abilities while in mist form improve drastically. As a standard action a great wyrm mist dragon in mist form can make a single melee attack of its choice at its highest attack bonus. This attack deals normal damage. As a full-round action, a great wyrm mist dragon in mist form can attack with its breath weapon.
+Mist Vision (Ex) A very young mist dragon can see perfectly in foggy conditions (such as those created by fog cloud or obscuring mist).
+Water Breathing (Ex) A very young or older mist dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.

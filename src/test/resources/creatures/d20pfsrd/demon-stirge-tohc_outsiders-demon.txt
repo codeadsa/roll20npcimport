@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-stirge-tohc
+Stirge Demon CR 10
+XP 9,600
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +3; Senses darkvision 60 ft.; Perception +21; Aura drone (60 ft., DC 20). fear (20 ft., DC 16)
+DEFENSE
+AC 23, touch 12, flat-footed 20 (+3 Dex, +11 natural, –1 size)
+hp 92 (8d10+48)
+Fort +12, Ref +9, Will +6
+DR 10/good; Immune electricity and poison; Resist acid 10, cold 10, fire 10; SR 21
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee 2 claws +13 (2d4+6 plus 1d4 bleed), bite +13 (2d6+6 plus blood drain)
+Space 10 ft.; Reach 5 ft.
+Special Attacks blood drain (1d4 Constitution), drone, wounding
+Spell-Like Abilities (CL 10th)
+At will—darkness, dispel magic, greater teleport (self plus 50 pounds of objects only), see invisibility, telekinesis (DC 17)
+1/day—summon (level 4, 2d8 dretches or 1 stirge demon 35%)
+STATISTICS
+Str 22, Dex 17, Con 23, Int 14, Wis 14, Cha 15
+Base Atk +8; CMB +15; CMD 28 (32 vs. trip)
+Feats Blind-Fight, Cleave, Power Attack, Iron Will
+Skills Bluff +10, Climb +18, Escape Artist +11, Fly +16, Intimidate +13, Knowledge (planes) +10, Perception +21, Sense Motive +13, Stealth +10, Survival +13; Racial Modifiers +8 Climb, +8 Perception
+Languages Abyssal, Common, Undercommon; telepathy 100 ft.
+SPECIAL ABILITIES
+Drone (Su) At all times, save when using any spell-like abilities, the stirge demon drones and buzzes like a fly. All creatures within a 60-foot spread that hear it must succeed on a DC 20 Will save or fall into a comatose sleep for 1d4 hours. There is no HD limit for this effect and it otherwise functions as the sleep spell (CL 10th). Note, the stirge demon can drain blood from a sleeping creature without automatically waking it up. In such an event, the sleeping creature receives a new Will save (same DC) each round the stirge demon drains blood. The save DCs are Constitution-based.

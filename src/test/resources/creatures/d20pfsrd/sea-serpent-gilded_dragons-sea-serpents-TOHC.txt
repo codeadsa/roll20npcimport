@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/sea-serpents-TOHC/sea-serpent-gilded
+Gilded Sea Serpent CR 5
+XP 1,600
+N Medium dragon (aquatic)
+Init +4; Senses darkvision 60 ft., low-light vision, scent; Perception +11
+DEFENSE
+AC 30, touch 14, flat-footed 26 (+4 Dex, +16 natural)
+hp 52 (5d12+15 plus 5)
+Fort +9, Ref +8, Will +7
+DR 5/gold; Immune paralysis and sleep, dragon traits
+OFFENSE
+Speed 10 ft.; swim 40 ft.
+Melee bite +9 (1d8+1 plus poison)
+Special Attacks constrict (1d8+1), poison
+STATISTICS
+Str 12, Dex 19, Con 16, Int 7, Wis 16, Cha 17
+Base Atk +5; CMB +6 (+10 grapple); CMD 20 (can’t be tripped)
+Feats Great Fortitude, Swim-By AttackB, Toughness, Weapon Finesse
+Skills Perception +11, Stealth +12, Survival +11, Swim +17
+Languages Draconic
+SPECIAL ABILITIES
+Poison (Ex) Bite–injury; save Fort DC 15; frequency 1/round for 4 rounds; effect 1d4 Wis; cure 2 consecutive saves. The save DC is Constitution-based.
+Golden Bliss (Narcotic)
+This drug is made from the venom of a gilded sea serpent. A serpent that is milked of its venom produces enough poison to make 2d4 doses of golden bliss per day. This requires a DC 15 Craft (alchemy or poison) check. When inhaled, the drug produces a euphoric catatonia and provides complete protection against mind-influencing magic and psionic incursion.
+Type: inhaled; Addiction severe, Fortitude DC 15
+Price 40 gp
+Effects 1d3x10 minutes; +4 Charisma, immunity to mind-affecting effects and psionic incursion.
+Damage 4 Wisdom damage

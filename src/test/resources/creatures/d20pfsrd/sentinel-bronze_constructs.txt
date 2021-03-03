@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/sentinel-bronze
+Bronze Sentinel CR 3
+XP 800
+N Small construct
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE AC 18, touch 14, flat-footed 15 (+3 Dex, +4 natural, +1 size)
+hp 32 (4d10+10)
+Fort +1, Ref +4, Will +1
+Immune construct traits, fire, magic
+OFFENSE Speed 40 ft., climb 20 ft.
+Melee 2 claws +9 (1d4+4)
+Ranged fiery bolt +8 (1d6 fire)
+Spell-Like Abilities (CL 2nd; concentration –1)
+Constant— detect magic STATISTICS Str 18, Dex 16, Con —, Int 1, Wis 11, Cha 5
+Base Atk +4; CMB +7; CMD 20 (28 vs. trip)
+Feats Improved Initiative, Skill Focus (Perception)
+Skills Climb +12, Perception +5, Stealth +9
+Languages Common (can’t speak)
+SQ alert, freeze
+SPECIAL ABILITIES Alert (Su) A bronze sentinel can take simple orders and identify intruders, and it possesses the ability to alert its creator or another creature to which it’s keyed. When a bronze sentinel detects a trespasser, it can choose to alert the creature to which it’s keyed in one of two ways. The sentinel can create a loud sound like that of a bell, chime, or gong that can be clearly heard at a range of 500 feet. Alternatively, a bronze sentinel can send a mental alert to the creature to which it is keyed as long as that creature is within 1 mile of the sentinel. The mental alert wakes the keyed creature from sleep, but doesn’t affect normal concentration. A bronze sentinel’s creator is the first creature to which it is keyed, and the creator can pass its link to another creature as part of a 4-hour ritual that uses materials costing 500 gp.
+Fiery Bolt (Su) As a standard action, a bronze sentinel can fire a bolt of flame as a ranged touch attack out to a maximum range of 30 feet. This bolt deals 1d6 points of fire damage.
+Immunity to Magic (Ex) A bronze sentinel is immune to spells or spell-like abilities that allow spell resistance, save for spells with the electricity descriptor.
+Bronze Sentinel Construction
+Though the exact process of creating the base form differs depending on the materials involved, the process of animating sentinels is roughly the same. Each sentinel must be carved or worked to a fine detail before being subjected to spells and magical unguents worth 1,000 gp.
+CL 10th; Price 21,000
+CONSTRUCTION REQUIREMENTS
+Craft Construct, alarm, detect magic, geas/quest, limited wish, scorching ray; Special creator must be caster level 10th; Skill Craft (sculpture) DC 18; Cost 11,000 gp

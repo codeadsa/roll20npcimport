@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-xenarth-ichor-shark
+Xenarth (Ichor Shark) CR 10
+XP 9,600
+CE Huge outsider (chaotic, demon, evil, native)
+Init +6; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +20
+DEFENSE
+AC 24, touch 10, flat-footed 22 (+2 Dex, +14 natural, –2 size)
+hp 148 (11d10+88)
+Fort +13, Ref +9, Will +9
+Defensive Abilities demon ichor; DR 10/cold iron and good; Immune electricity and poison; Resist acid 10, cold 10, fire 10; SR 21
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 20 ft.
+Melee bite +19 (2d6+13 plus poison), 2 claws +19 (1d8+9)
+Space 15 ft.; Reach 10 ft.
+OFFENSE Before Combat Unlike their stupid bulette cousins, xenarths possess some tactical skills. They prefer to sneak up on opponents and often trail potential victims unobserved from their underground tunnels, studying them and learning their weaknesses before ambushing them in advantageous terrain.
+During Combat Xenarths are afraid of nothing and attack with reckless abandon. They revel in the act of violence and eat everything they kill, if only to vomit it forth again later in a grisly and triumphant torrent.
+Morale Xenarths fight to the death.
+STATISTICS
+Str 29, Dex 15, Con 27, Int 6, Wis 10, Cha 6
+Base Atk +11; CMB +22; CMD 34 (38 vs. trip)
+Feats Great Fortitude, Improved Initiative, Iron Will, Skill Focus (Perception), Weapon Focus (bite, claw)
+Skills Acrobatics +2 (+6 when jumping), Climb +31, Perception +20, Stealth +8, Survival +14; Racial Modifiers +8 Climb
+Language Abyssal, telepathy 100 ft.
+SPECIAL ABILITIES
+Demon Ichor (Su) A slimy red ichor coats the xenarth’s armored plates. Any weapon that touches a xenarth takes 3d8 points of acid damage from the corrosive demon essence, and the weapon’s hardness does not reduce this damage. A magic weapon may attempt a DC 23 Reflex save to avoid taking this damage. A creature that strikes a xenarth with an unarmed attack, unarmed strike, melee touch spell, or natural weapon takes this damage unless the attacker makes a DC 23 Reflex save. The save DCs are Constitution-based.
+Poison (Ex) Bite—injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d3 Con damage; cure 2 save. The save DC is Constitution-based.

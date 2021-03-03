@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-judgement
+Judgement Devil (Ashmede) CR 13
+XP 25, 600
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +3; Senses darkvision 60 ft., detect good, detect magic, see in darkness; Perception +24; Aura fear (20 ft, DC 19)
+DEFENSE
+AC 28, touch 12, flat-footed 25 (+3 Dex, +16 natural, -1 size)
+hp 162 (12d10+96); regeneration 5 (good weapons, good spells)
+Fort +12, Ref +11, Will +11
+DR 10/good; Immune fire, poison; Resist acid 10, cold 10; SR 24
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee +1 vorpal scythe +20/+15/+10 (2d6+11/19-20/x4) and 2 wings +13 (1d6+3)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 13th)
+Constant—detect good, detect magic
+At Will—blasphemy (DC 20), charm person (DC 14), greater invisibility, greater teleport (self plus 50 pounds of objects only), polymorph (self only), plane shift, prying eyes
+3/day—chain lightning (DC 19), discern location, forcecage (DC 20), horrid wilting (DC 21)
+1/day—summon (9th , kyton, 100%).
+STATISTICS
+Str 24, Dex 16, Con 26, Int 14, Wis 16, Cha 17
+Base Atk +12; CMB +20; CMD 33
+Feats Critical Focus, Flyby Attack, Improved Critical (scythe), Lunge, Skill Focus (Perception), Weapon Focus (scythe)
+Skills Bluff +18, Fly +20, Intimidate +18, Knowledge (planes) +17, Linguistics +17, Perception +24, Sense Motive +18, Stealth +14
+Languages Celestial, Common, Draconic, Infernal (plus 12 others of GM’s choice); telepathy 100 ft.

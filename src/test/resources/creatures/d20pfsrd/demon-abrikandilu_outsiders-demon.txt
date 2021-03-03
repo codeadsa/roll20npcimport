@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-abrikandilu
+Abrikandilu CR 3
+XP 800
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +0; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 15, touch 10, flat-footed 15 (+5 natural)
+hp 32 (5d10+5)
+Fort +5, Ref +4, Will +3
+DR 5/cold iron; Immune electricity, poison; Resist acid 10, cold 10, fire 10
+Weaknesses hatred of mirrors
+OFFENSE
+Speed 30 ft.
+Melee bite +7 (1d6+2 plus mutilation), 2 claws +7 (1d4+2)
+Ranged improvised weapon +5 (1d6+2)
+Special Attacks destructive attacks, mutilation
+Spell-Like Abilities (CL 5th; concentration +6)
+3/day—cause fear (DC 12), shatter (DC 13)
+1/day—summon (level 1, 1 abrikandilu 50%)
+STATISTICS
+Str 15, Dex 11, Con 12, Int 6, Wis 10, Cha 13
+Base Atk +5; CMB +7 (+9 sunder); CMD 17 (19 vs. sunder)
+Feats Improved Sunder, Iron Will, Power Attack, Throw Anything B
+Skills Appraise +6, Climb +10, Disable Device +8, Perception +12; Racial Modifiers +4 Perception
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SPECIAL ABILITIES
+Destructive Attacks (Ex) An abrikandilu’s natural attacks can threaten and confirm critical hits against objects. In addition, an abrikandilu gains a +5 racial bonus on Strength checks to break or destroy objects.
+Hatred of Mirrors (Ex) An abrikandilu loathes the sight of its own reflection. Using a mirror grants a +5 bonus on Intimidate checks against an abrikandilu. An abrikandilu adjacent to a mirror or attacked by a mirror-carrying creature (at the GM’s discretion, some shields could be considered mirrors) must attempt a DC 15 Will save at the start of its turn. If it fails, it must focus all of its actions that round on attempts to destroy the mirror.
+Mutilation (Su) An abrikandilu’s bite causes horrific and hideous wounds that not only mar beauty but supernaturally diminish a creature’s sense of self-worth. A creature bitten by an abrikandilu must succeed at a DC 13 Fortitude save or gain a –1 penalty on all Charisma-based checks. This penalty stacks, up to a –5 penalty, and it lasts even after the wounds are healed. The penalty slowly fades with time, diminishing by 1 every 24 hours until it reaches 0.
+This is a curse effect. The save DC is Constitution-based.

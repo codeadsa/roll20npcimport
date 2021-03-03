@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/emkrah
+Emkrah CR 9
+XP 6,400
+CE Large aberration
+Init +7; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 23, touch 13, flat-footed 19 (+3 Dex, +10 natural, +1 dodge, -1 size)
+hp 126 (12d8+72)
+Fort +12, Ref +7, Will +11
+Defensive Abilities acidic; Immune acid, cold, critical hits, flanking
+OFFENSE
+Speed 30 ft.
+Melee bite +15 (1d8+7 plus 1d8 acid) and 4 tentacle slams +13 (1d6+3 plus grab)
+Ranged acid spittle +11 touch (1d8 acid)
+Space 10 ft.; Reach 10 ft.
+Special Attacks acid spittle, doom gaze, swallow whole (8 acid damage, AC 19, 12 hp)
+STATISTICS
+Str 25, Dex 17, Con 22, Int 8, Wis 17, Cha 18
+Base Atk +9; CMB +17 (+21 to grapple); CMD 30
+Feats Combat Reflexes, Dodge, Great Fortitude, Improved Initiative, Mobility, Multiattack
+Skills Climb +22, Perception +18, Swim +22
+Languages none
+SQ amorphous
+SPECIAL ABILITIES
+Acid Spittle (Ex) An emkrah can spit a glob of its highly corrosive goo up to 30 feet as a standard action. This is a ranged touch attack with no range increment. Creatures struck by this acid spittle take 1d8 points of acid damage.
+Acidic (Ex) An emkrah’s body is little more than a shell of gelatinous digestive acid that dissolves organic material quickly. Any fleshy, living creature that attacks an emkrah with a natural weapon or an unarmed strike, or attempts to grapple a emkrah, takes 1d8 points of acid damage.
+Amorphous (Ex) An emkrah is not subject to critical hits. It cannot be flanked.
+Doom Gaze (Su) Deals 1d6 points of damage, 30 feet, Will DC 20 negates. If an emkrah actively uses its gaze upon a creature, it deals 1d8 points of damage. Evil creatures gain a +2 bonus on their saves versus an emkrah’s doom gaze. The save DC is Charisma-based.
+Swallow Whole (Ex) An emkrah doesn’t actually “swallow” the opponent–it engulfs it within its gelatinous form–but the effect is essentially the same. An emkrah can continue to bite a creature that has been swallowed whole, and it retains its full natural armor bonus against the swallowed creature.
+

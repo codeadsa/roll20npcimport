@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/nothosaur
+Nothosaur CR 5
+XP 1,600
+N Large animal
+Init +1; Senses low-light vision; Perception +11
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 57 (6d8+30)
+Fort +9, Ref +6, Will +4
+OFFENSE
+Speed 20 ft., swim 40 ft.
+Melee bite +10 (1d8+6), tail slap +7 (1d8+3)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 23, Dex 12, Con 18, Int 2, Wis 15, Cha 7
+Base Atk +4; CMB +11; CMD 22 (26 vs. trip)
+Feats Multiattack, Toughness, Weapon Focus (bite)
+Skills Perception +11, Swim +14
+SQ sprint
+SPECIAL ABILITIES
+Sprint (Ex) Once per minute, a nothosaur may sprint, increasing its land speed to 40 feet for 1 round.
+Primeval Sea Creatures
+The ocean is full of myriad life forms, as varied and specialized as those in any other environment. But not all sea creatures are the result of millennia upon millennia of continual evolution. Some found themselves perfectly suited for their roles as apex predators millions of years ago and have simply remained as such to the present day, presenting terrible threats to those creatures that cross them, from their natural prey to unsuspecting sailors who find themselves in the wrong place at the wrong time. In most cases, these creatures are closely related to other waterborne animals, be they fish, reptiles, or mammals, and some even have distinctive similarities to primarily land-based creatures.

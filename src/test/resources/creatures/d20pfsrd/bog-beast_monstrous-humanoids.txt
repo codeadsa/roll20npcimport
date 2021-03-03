@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/bog-beast
+Bog Beast CR 5
+XP 1,600
+N Large monstrous humanoid
+Init +0; Senses darkvision 60 ft., scent; Perception +10
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+8 natural, -1 size)
+hp 52 (5d10+20 plus 5)
+Fort +5; Ref +4; Will +5
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +10 (1d6+5 plus disease)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d6+7)
+STATISTICS
+Str 20, Dex 11, Con 18, Int 5, Wis 12, Cha 9
+Base Atk +5; CMB +11; CMD 21
+Feats Intimidating Prowess, Skill Focus (Perception), Weapon Focus (claw)
+Skills Intimidate +9, Perception +10, Survival +5; Racial Modifiers +4 Survival
+SPECIAL ABILITIES
+Disease (Ex) Filth fever: Claw—injury; save Fortitude DC 16; onset 1d3 days; frequency 1/day; effect 1d3 Dex and 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.

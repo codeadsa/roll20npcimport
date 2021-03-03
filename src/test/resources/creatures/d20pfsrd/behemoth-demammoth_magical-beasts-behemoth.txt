@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/behemoth/behemoth-demammoth
+Demammoth CR 20
+XP 307,200
+N Colossal magical beast (behemoth)
+Init +5; Senses blindsight 60 ft., darkvision 60 ft.; Perception +41
+DEFENSE
+AC 36, touch 3, flat-footed 35 (+1 Dex, +33 natural, –8 size)
+hp 362 (29d10+203); regeneration 20
+Fort +23; Ref +17; Will +20
+Defensive Abilities unstoppable; DR 15/epic; Immune ability damage, aging, bleed, deafening, disease, electricity, energy drain, fire, mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, poison, polymorph; SR 31
+Weaknesses vulnerable to miracles and wishes
+OFFENSE
+Speed 80 ft.
+Melee gore +34 (4d6+13), 2 stomps +34 (2d6+13), trunk +29 (4d6+6)
+Space 30 ft.; Reach 30 ft.
+Special Attacks crush (DC 33, 2d6+19), ruinous, sound blast (400-ft. line, 29d6 sonic plus deafened, DC 33)
+STATISTICS
+Str 36, Dex 12, Con 24, Int 3, Wis 29, Cha 10
+Base Atk +29; CMB +50 (+54 bull rush, overrun); CMD 61 (63 vs. bull rush, 65 vs. trip, 67 vs. overrun)
+Feats Ability Focus (crush, sound blast), Awesome Blow, Greater Bull Rush, Greater Overrun, Greater Vital Strike, Improved Bull Rush, Improved Initiative, Improved Overrun, Improved Vital Strike, Iron Will, Lightning Reflexes, Multiattack, Power Attack (–8/+16),Vital Strike
+Skills Acrobatics +1 (+21 when jumping), Perception +41 Languages Aklo (cannot speak)
+SQ rumble run
+Combat Gear gear used in combat; Other Gear gear not used in combat (or just Gear if no division)
+SPECIAL ABILITIES
+Crush (Ex) A demammoth can use its gigantic feet to crush creatures of Large size or smaller that are in its space. All targets in the affected area must succeed on a DC 31 Reflex save or be pinned, automatically taking 2d6+19 points of bludgeoning damage during the next round unless the demammoth moves off them. If the demammoth chooses to maintain the pin, it must succeed on a combat maneuver check as normal. Pinned foes take damage from the crush each round if they do not escape. The save DC is Constitution-based.
+Rumble Run (Ex) Whenever a demammoth moves twice its speed or faster in a single round, all creatures within 40 feet at any time during its movement that are standing on the ground must make a DC 31 Reflex save or be knocked prone. The save DC is Constitution-based.
+Sound Blast (Su) Once every 1d4 rounds, a demammoth can make a loud blast of sound from its trunk, damaging those in the blast’s path. All creatures within a 400-foot line sustain 29d6 points of sonic damage and are deafened for 1d4 minutes. A successful Fortitude save (DC 33) reduces this damage by half and negates the deafening. All flying creatures held aloft with wings or other mundane means that fail the saving throw must succeed on a Fly check (DC 10 + damage sustained) or fall to the ground. If the creature maintains flight by a spell or spell-like ability, this ability also acts as greater dispel magic against such effects. The demmamoth’s effective caster level for this ability is 17. Additionally. all creatures within 100 feet of the demammoth when it uses its sound blast that are not in the sound burst’s line of effect must succeed on a Fortitude save (DC 31) or be deafened for 1d4 rounds. The save DC is Constitution-based.

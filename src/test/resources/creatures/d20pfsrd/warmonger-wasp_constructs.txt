@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/warmonger-wasp
+Warmonger Wasp CR 7
+XP 3,200
+CE Large construct (extraplanar)
+Init +10; Senses darkvision 60 ft., low-light vision; Perception +13
+DEFENSE
+AC 21, touch 15, flat-footed 15 (+6 Dex, +6 natural, –1 size)
+hp 85 (10d10+30); fast healing 5
+Fort +5, Ref +9, Will +4
+Immune electricity, construct traits
+OFFENSE
+Speed 30 ft., fly 30 ft. (good)
+Melee bite +15 (1d8+4), 2 claws +15 (1d6+4), sting +15 (1d6+4/19–20 plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks static discharge, poison
+STATISTICS
+Str 18, Dex 23, Con —, Int 3, Wis 13, Cha 1
+Base Atk +10; CMB +15; CMD 31 (35 vs. trip)
+Feats Ability Focus (poison), Great Fortitude, Improved Critical (sting), Improved Initiative, Weapon Finesse
+Skills Fly +14, Perception +13, Stealth +13; Racial Modifiers +8 Perception, +8 Stealth
+Languages Abyssal (can’t speak)
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 2 consecutive saves.
+Static Discharge (Su) Once every 1d4 rounds as part of a move action that’s taken to fly at least 10 feet, a warmonger wasp’s wings can discharge a bolt of electricity to a range of up to 60 feet. The bolt explodes upon reaching its target, creating a 20-foot-radius burst that deals 6d6 points of electricity damage (Reflex DC 15 half).
+The save DC is Constitution-based.

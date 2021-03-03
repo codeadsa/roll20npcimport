@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/dark-young-of-shub-niggurath
+Dark Young of Shub-Niggurath CR 12
+XP 19,200
+CE Huge aberration
+Init +7; Senses darkvision 60 ft., tremorsense 30 ft.; Perception +21
+Aura frightful presence (30 ft., DC 24)
+DEFENSE
+AC 27, touch 11, flat-footed 24 (+3 Dex, +16 natural, –2 size)
+hp 161 (14d8+98)
+Fort +11, Ref +9, Will +13
+DR 15/slashing; Immune acid, electricity, fire, poison
+OFFENSE
+Speed 30 ft.
+Melee 4 tentacles +19 (1d8+10/19–20 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks constrict (1d8+10), sucking maws, trample (1d8+15, DC 27)
+Spell-Like Abilities (CL 12th; concentration +17)
+Constant—freedom of movement
+At will—air walk, tree shape
+3/day—entangle (DC 16), command plants (DC 19)
+1/day—insanity (DC 22), tree stride
+STATISTICS
+Str 30, Dex 17, Con 24, Int 16, Wis 19, Cha 21
+Base Atk +10; CMB +22 (+26 grapple); CMD 35 (can’t be tripped)
+Feats Combat Reflexes, Improved Critical (tentacles), Improved Initiative, Lightning Reflexes, Power Attack, Vital Strike, Weapon Focus (tentacles)
+Skills Knowledge (arcana) +17, Knowledge (nature) +17, Knowledge (religion) +17, Perception +21, Sense Motive +18, Spellcraft +20, Stealth +12 (+20 in forests); Racial Modifiers +8 Stealth in forests
+Languages Aklo
+SPECIAL ABILITIES
+Sucking Maws (Su) A dark young of Shub-Niggurath that successfully pins a creature it is grappling automatically inflicts 1d4 points of Strength drain on that creature. A DC 24 Fortitude save reduces this effect to 1 point of Strength drain. A creature drained to 0 Strength does not die, but must make a DC 24 Will save at that point to resist being driven mad by the experience, as the foul green waste exuded from the same sucking mouths that drink life implant in the emptied shells strange visions and horrifying certainties. This madness manifests as schizophrenia, but with a save DC equal to the dark young’s Strength drain save DC listed above (DC 24 for most dark young). One common result of this unfortunate madness is a strange desire to return to the site of their original encounter in hopes of being consumed entirely by the creature that only drank a part of their body and mind—many of those who survive this horrific ordeal go on to found dark young cults of their own. The madness element of a dark young’s sucking maws is a mind-affecting effect. The save DC for all of the saving throws involved with this special ability is Constitution-based.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/wyvern
+Wyvern CR 6
+XP 2,400
+N Large dragon
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +18
+
+DEFENSE
+AC 19, touch 10, flat-footed 18 (+1 Dex, +9 natural, –1 size)
+hp 73 (7d12+28)
+Fort +9, Ref +6, Will +8
+Immune sleep, paralysis
+OFFENSE
+Speed 20 ft., fly 60 ft. (poor)
+Melee sting +10 melee (1d6+4 plus poison), bite +10 melee (2d6+4 plus grab), 2 wings +5 (1d6+2)
+Space 10 ft.; Reach 5 ft.
+Special Attack rake (2 talons +10, 1d6+4)
+STATISTICS
+Str 19, Dex 12, Con 18, Int 7, Wis 12, Cha 9
+Base Atk +7; CMB +12 (+16 grapple); CMD 23
+Feats Flyby Attack, Improved Initiative, Iron Will, Skill Focus (Perception)
+Skills Fly +5, Perception +18, Sense Motive +11, Stealth +7; Racial Modifier +4 Perception
+Languages Draconic
+
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save DC 17; frequency 1/round for 6 rounds; effect 1d4 Constitution damage; cure 2 consecutive saves. The save DC is Constitution-based.

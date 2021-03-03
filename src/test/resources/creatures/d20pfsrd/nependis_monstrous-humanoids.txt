@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/nependis
+Nependis CR 9
+XP 6,400
+CE Large monstrous humanoid
+Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception +15
+DEFENSE
+AC 21, touch 11, flat-footed 19 (+2 Dex, +10 natural, –1 size)
+hp 114 (12d10+48)
+Fort +10, Ref +10, Will +11
+Defensive Abilities ferocity
+OFFENSE
+Speed 40 ft., climb 30 ft.
+Melee 2 claws +21 (1d6+10 plus grab), gore +21 (2d6+10)
+Space 10 ft.; Reach 10 ft.
+Special Attacks abduct, roar
+STATISTICS
+Str 31, Dex 15, Con 18, Int 7, Wis 12, Cha 6
+Base Atk +12; CMB +23 (+27 grapple); CMD 35
+Feats Great Fortitude, Improved Initiative, Iron Will, Lunge, Mobility B, Power Attack, Skill Focus (Stealth)
+Skills Acrobatics +3 (+11 when jumping), Climb +18, Perception +15, Stealth +17, Survival +6; Racial Modifiers +8 Acrobatics (when jumping)
+Languages Giant
+SPECIAL ABILITIES
+Abduct (Ex) When a nependis successfully grabs a Medium or smaller opponent, on that turn it can spend a swift action to move up to its speed. This movement provokes attacks of opportunity as normal. A nependis that succeeds at a second grapple check against the opponent can move up to its full speed as a swift action instead of up to half its speed.
+Roar (Su) A nependis can let out a savage roar. Nependises within 60 feet gain a +2 morale bonus on attack rolls, saving throws, and weapon damage rolls for 1d4 rounds. All other creatures other within range of the roar become shaken for 1d4 rounds (Will DC 14 negates); this is a mind-affecting sonic fear effect. The save DC is Charisma-based.

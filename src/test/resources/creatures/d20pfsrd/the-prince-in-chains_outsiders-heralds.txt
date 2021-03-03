@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/the-prince-in-chains
+The Prince in Chains CR 15
+XP 51,200
+LE Large outsider (evil, extraplanar, kyton, lawful)
+Init +7; Senses blindsight 60 ft., darkvision 60 ft., low-light vision, scent; Perception +21; Aura chainstorm (15 ft., DC 25)
+DEFENSE
+AC 33, touch 13, flat-footed 29 (+3 Dex, +1 Dodge, +20 natural, –1 size)
+hp 202 (15d10+120); fast healing 10 (see exaction)
+Fort +17, Ref +12, Will +8
+Defensive Abilities exaction; DR 15/good; Immune cold, critical hits, sneak attacks
+OFFENSE
+Speed 40 ft., fly 50 ft. (good)
+Melee bite +24 (6d6+9 plus trip and vicious critical), 2 tentacles +18 (3d6+4 plus vicious critical)
+Space 10 ft.; Reach 10 ft. (15 ft. with tentacle)
+Special Attacks howl of despair, unnerving gaze (30 ft., DC 22), vicious critical
+Spell-Like Abilities (CL 18th)
+Constant—pass without trace
+At will—death knell (DC 17), deeper darkness, desecrate, shadow walk
+3/day—bestow curse (DC 18), blindness/deafness (DC 18), crushing despair (DC 19), eyebite (DC 21), greater invisibility, greater shadow conjuration (DC 22), find the path, plane shift (DC 20), symbol of pain (DC 20)
+1/day—blasphemy (DC 22), slay living (DC 20), unhallow
+Tactics During Combat The Prince in Chains luxuriates in the suffering of its foes. It prefers to use its bite attack over all others, and delights in tripping opponents and hearing their screams as it bears them to the ground. As often as possible it makes use of its howl of despair, relishing the chance to impart its own suffering upon its foes.
+Morale The Prince fights to the death. If killed, it reappears 1d6 days later.
+STATISTICS
+Str 28, Dex 16, Con 26, Int 13, Wis 16, Cha 20
+Base Atk +15; CMB +25 (+27 overrun, +27 sunder); CMD 39 (41 vs. overrun, 41 vs. sunder, 43 vs. trip)
+Feats Combat Reflexes, Dodge, Improved Initiative, Improved Overrun, Improved Sunder, Power Attack, Run, Weapon Focus (bite)
+Skills Acrobatics +21, Climb +17, Fly +5, Intimidate +23, Knowledge (planes) +19, Knowledge (religion) +11, Perception +21, Stealth +17, Survival +21 (+29 when following tracks); Racial Modifiers +8 Survival when following tracks
+Languages Auran, Common, Infernal, Sylvan
+SQ no breath
+SPECIAL ABILITIES
+Chainstorm (Ex) Chains and flesh tendrils constantly lash at anything that approaches the herald. A creature that enters the area or begins its turn within it takes 1d12 points of bludgeoning and slashing damage. The chains entangle any creature so long as it’s in the area (Reflex DC 25 negates). The save DC is Constitution-based.
+Exaction (Ex) The herald is healed of 10 points of damage in any round it deals damage, as if it had fast healing 10.
+Howl of Despair (Su) The Prince in Chains can loose a howl of immortal agony once every 1d4 rounds. All nonevil creatures within 60 feet must succeed at a DC 22 Will saving throw or take 6d6 points of sonic damage. Any within 10 feet who fail their saves are also affected as per the insanity spell. This is a sonic, mind-affecting effect. The save DC is Charisma-based.
+No Breath (Ex) The Prince in Chains does not breathe and is immune to inhaled toxins and diseases.
+Trip (Ex) If the Prince in Chains hits with its bite attack it can attempt to trip the opponent (+5 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the trip attempt fails, the opponent cannot react to trip the Prince in Chains.
+Unnerving Gaze (Ex) A creature that fails its save against the herald’s unnerving gaze is staggered for 1 round.
+Vicious Critical (Ex) If the herald confirms a critical hit, the attack also deals 2 points of Constitution damage.

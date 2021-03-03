@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/rat-king
+Rat King CR 5
+XP 1,600
+N Small magical beast
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +11
+DEFENSE
+AC 18, touch 16, flat-footed 13 (+4 Dex, +1 dodge, +2 natural, +1 size)
+hp 57 (6d10+24)
+Fort +9, Ref +9, Will +4
+Defensive Abilities critical hits, flanking, effects that target a specific number of creatures
+OFFENSE
+Speed 30 ft., climb 15 ft., swim 15 ft.
+Melee 5 bites +11 (1d4+1 plus disease)
+Special Attacks disease, plaguebringer
+STATISTICS
+Str 12, Dex 19, Con 18, Int 5, Wis 14, Cha 11
+Base Atk +6; CMB +6; CMD 21 (can’t be tripped)
+Feats Dodge, Skill Focus (Perception), Weapon Finesse
+Skills Climb +9, Diplomacy +0 (+4 when influencing rats), Knowledge (local) –2, Perception +11, Stealth +13, Swim +9; Racial Modifiers +4 Diplomacy when influencing rats
+SQ compression, speak with rats
+SPECIAL ABILITIES
+Disease (Ex) Bubonic plague: Inhaled or bite—injury; save Fort DC 19; onset 1d3 days; frequency 1/day; effect 1d4 Str damage, 1 Cha damage, and fatigue; cure 2 consecutive saves. The save DC is Constitution-based and includes the +2 from the rat king’s plaguebringer ability.
+Plaguebringer (Ex) A rat king increases the disease DC of rats (including rat kings, rat swarms, and dire rats) within 100 feet by +2.
+Speak with Rats (Ex) A rat king can communicate with normal rats (including rat swarms and dire rats) as if using speak with animals. It can use Diplomacy to alter a rat’s attitude, and when so doing gains a +4 racial bonus on the check. Any ability that allows a creature to communicate with rats (such as speak with animals or a wererat’s rat empathy) allows for communication with a rat king.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-white/white-dragon-juvenile
+Juvenile White Dragon CR 7
+XP 3,200
+CE Medium dragon (cold)
+Init +6; Senses dragon senses, snow vision; Perception +15
+DEFENSE
+AC 23, touch 12, flat-footed 21 (+2 Dex, +11 natural)
+hp 94 (9d12+36)
+Fort +10, Ref +8, Will +7
+Immune cold, paralysis, sleep
+Weaknesses Vulnerability to fire
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 150 ft. (average), swim 60 ft.
+Melee bite +15 (1d8+7), 2 claws +14 (1d6+5), 2 wings +9 (1d4+2)
+Special Attacks breath weapon (30-ft. cone, DC 18, 8d4 cold)
+Spell-Like Abilities (CL 9th; concentration +9)
+At will— fog cloud STATISTICS
+Str 21, Dex 14, Con 19, Int 10, Wis 13, Cha 10
+Base Atk +9; CMB +14; CMD 26 (30 vs. trip)
+Feats Alertness, Flyby Attack, Improved Initiative, Power Attack, Weapon Focus (bite)
+Skills Fly +14, Intimidate +12, Perception +15, Spellcraft +12, Stealth +14, Swim +25; Racial Modifiers +8 Swim
+Languages Draconic
+SQ icewalking, ice shape
+SPECIAL ABILITIES
+Ice Shape (Su) A young white dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A white dragon’s caster level for this effect is equal to its Hit Dice.
+Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+Snow Vision (Ex) A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.

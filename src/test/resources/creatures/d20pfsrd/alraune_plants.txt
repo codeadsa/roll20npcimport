@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/alraune
+Alraune CR 13
+XP 25,600
+NE Large plant
+Init +5; Senses low-light vision; Perception +17; Aura calming fragrance (60 ft., DC 24)
+DEFENSE
+AC 27, touch 10, flat-footed 26 (+1 Dex, +17 natural, -1 size)
+hp 199 (19d8+114)
+Fort +17, Ref +9, Will +11
+Immune plant traits; SR 24
+OFFENSE
+Speed 40 ft.
+Melee 4 vines +20 (1d10+7 plus grab and bleed)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bleed (2d6), constrict (1d10+10), feed
+Spell-Like Abilities (CL 13th; concentration +18)
+At will—charm monster (DC 18*), detect thoughts (DC 17), suggestion (DC 18)
+3/day—quickened glitterdust (DC 17), hold monster (DC 20)
+1/day—commune with nature, mind fog, wall of thorns
+STATISTICS
+Str 24, Dex 13, Con 22, Int 10, Wis 17, Cha 21
+Base Atk +14; CMB +22 (+26 grapple); CMD 33 (can’t be tripped)
+Feats Alertness, Cleave, Deceitful, Great Cleave, Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Quicken Spell-Like Ability (glitterdust), Vital Strike
+Skills Bluff +16, Disguise +9, Knowledge (nature) +9, Perception +17, Sense Motive +14
+Languages Aklo, Common, Elven, Sylvan
+SPECIAL ABILITIES
+Calming Fragrance (Su) A supernaturally sweet perfume that calms the nerves and blunts aggression constantly surrounds an alraune to a radius of 60 feet. Any creature in this area of effect must make a DC 24 Will save at the start of its turn to avoid falling under the effects of calm emotions for 1 round. Creatures that could be attracted to the alraune’s current apparent gender take a -2 penalty on this Will save, while all other creatures gain a +2 bonus on the save. This is a mind-affecting effect. The save DC is Charisma-based.
+Feed (Ex) An alraune’s roots can feed on a helpless or willing target. At the end of an hour of feeding, the victim takes 1d6 points of both Constitution and Intelligence drain, and the alraune heals 3d6 points of damage.
+Editor’s Note
+The correct DC for charm monster should be 10+4(spell level)+5(cha) = DC 19

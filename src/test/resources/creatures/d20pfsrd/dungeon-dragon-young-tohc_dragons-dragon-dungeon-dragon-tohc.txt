@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dungeon-dragon-tohc/dungeon-dragon-young-tohc
+Young Dungeon Dragon CR 5
+XP 1,600
+N Medium dragon (shapechanger)
+Init +1; Senses dragon senses; Perception +13
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+1 Dex, +6 natural)
+hp 37 (5d12+5)
+Fort +5; Ref +5; Will +5
+Immune enchantment spells and effects, paralysis, sleep
+OFFENSE
+Speed 30 ft., fly 150 ft. (average)
+Melee bite +9 (1d8+6), 2 claws +9 (1d6+4), 2 wings +4 (1d4+2)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (60 ft. line or 30 ft. cone, DC 13, confusion 1d6 rounds)
+Spell-like Abilities (CL 5th):
+At-will—charm person (DC 11)
+STATISTICS
+Str 19, Dex 13, Con 12, Int 12, Wis 12, Cha 10
+Base Atk +5; CMB +9; CMD 20 (24 vs. trip)
+Feats Flyby Attack, Master Craftsman B, Skill Focus (Craft [crystal carving]), Skill Focus (Knowledge [engineering])
+Skills Bluff +8, Craft (crystal carving) +10, Craft (traps) +6, Diplomacy +6, Disable Device +3, Fly +9, Knowledge (engineering) +12, Perception +13, Sense Motive +9; Racial Modifiers +4 Perception
+Languages Common, Draconic, Undercommon
+SQ change shape (alter self), craft crystal ball
+SPECIAL ABILITIES
+Breath Weapon (Su) A dungeon dragon’s breath weapon is a line or cone of warm mist. Creatures caught in the area must succeed on Fortitude save or be affected as if by a confusion spell for 1d6 rounds.
+Change Shape (Su) At will, a very young or older dungeon dragon can assume the form of any Small or Medium humanoid creature (as the alter self spell). It can remain in its humanoid form indefinitely. It cannot take the form of a specific individual.
+Craft Crystal Ball (Ex) Dungeon dragon parents begin teaching their wyrmlings the necessary skills and spells to craft a crystal ball soon after they leave the egg. A dungeon dragon gains the Master Craftsman feat for free as a bonus feat without having to meet the prerequisites.

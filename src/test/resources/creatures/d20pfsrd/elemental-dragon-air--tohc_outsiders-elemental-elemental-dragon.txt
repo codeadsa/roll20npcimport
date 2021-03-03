@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-dragon/elemental-dragon-air--tohc
+Elemental Air Dragon CR 18
+XP 153,600
+(N)E Huge outsider (air, elemental, extraplanar)
+Init +8; Senses darkvision 60 ft.; Perception +29
+DEFENSE
+AC 32, touch 16, flat-footed 24 (+8 Dex, +16 natural, –2 size)
+hp 252 (24d10+120)
+Fort +13; Ref +22; Will +16
+Defensive Abilities air mastery; DR 15/magic and silver; Immune elemental traits
+OFFENSE
+Speed 20 ft., fly 120 ft. (poor)
+Melee bite +31 (2d8+12), 2 claws +31 (2d6+8), 2 wings +28 (1d8+8), tail slap +28 (2d6+12)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50 ft. cone, DC 29, 10d8 fire), cyclone (30 ft. radius, DC 27, 3d6 bludgeoning)
+Spell-like Abilities (CL 12th):
+1/day—control weather, control winds (DC 16)
+STATISTICS
+Str 26, Dex 27, Con 21, Int 12, Wis 15, Cha 12
+Base Atk +24; CMB +34; CMD 52 (56 vs. trip)
+Feats Ability Focus (breath weapon), Blind-Fight, Cleave, Flyby Attack, Great Cleave, Hover, Multiattack, Power Attack, Snatch, Vital Strike, Weapon Focus (bite), Weapon Focus (claw)
+Skills Fly +27, Intimidate +28, Knowledge (arcana) +28, Knowledge (nature) +28, Knowledge (planes) +28, Perception +29, Survival +29
+Languages Auran, Common
+SPECIAL ABILITIES
+Air Mastery (Ex) Airborne creatures take a –1 penalty on attack and damage rolls against an elemental air dragon.
+Breath Weapon (Su) An elemental air dragon’s breath weapon is a 50 ft. cone of superheated air.
+Cyclone (Ex) By beating its wings rapidly back and forth, a hovering elemental air dragon can create a cyclonelike force of wind in a 30-foot radius around its body. This cyclone has the following effects: movement through the cyclone is one-quarter normal, ranged attacks suffer a –8 circumstance penalty in the area, and all non-magical unprotected flames are automatically extinguished. Large or smaller creatures in the area must succeed on a DC 27 Reflex save or take 3d6 points of bludgeoning damage each round they remain in the area. Medium or smaller creatures in the area must succeed on a second Reflex save (same DC) or be knocked prone and back 1d4 x 10 feet, taking 1d6 points of nonlethal damage per 10 feet. Flying creatures are automatically grounded in this area. The save DC is Constitution-based.

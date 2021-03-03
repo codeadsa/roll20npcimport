@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sand-stalker
+Sand Stalker CR 4
+XP 1,200
+N Large magical beast
+Init +7; Senses tremorsense 60 ft.; Perception +9; Aura info
+DEFENSE
+AC 16, touch 13, flat-footed 13 (+3 Dex, +4 natural, -1 size)
+hp 45 (6d10+12)
+Fort +7, Ref +8, Will +3
+OFFENSE
+Speed 50 ft., burrow 30 ft.
+Melee bite +9 (1d8+6 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks attraction
+STATISTICS
+Str 19, Dex 17, Con 15, Int 4, Wis 12, Cha 2
+Base Atk +6; CMB +11; CMD 24 (36 vs. trip)
+Feats Improved Initiative, Skill Focus (Perception, Stealth)
+Skills Acrobatics +8 (+12 jump), Perception +9, Stealth +14 (+18 in sandy environs); Racial Modifiers +4 Acrobatics to jump, +4 Stealth (+8 in sandy environs)
+SPECIAL ABILITIES
+Attraction (Ex) The front four legs of a sand stalker are hollow. When a gust of air or wind blows across them, they create a hypnotic sound that can be heard by all creatures within a 100-foot spread. Those hearing this sound must make a successful DC 15 Will save or become entranced. This is a sonic, mind-affecting effect. If the save is successful, that creature cannot be affected again by the same sand stalker’s attraction for one day. The save DC is Constitution-based.
+An entranced victim takes the most direct route possible, walking toward the sand stalker. If the path leads into a dangerous area, (fire, over a cliff, and so on), that creature gets a second saving throw. Entranced creatures can take no actions other than to defend themselves. A victim within 5 feet of the sand stalker stands there and offers no resistance to the monster’s attacks. The effect continues for as long as the sand stalker’s legs are subjected to wind. A bard’s countersong ability allows the entranced creature to attempt a new Will save.
+Poison (Ex) Bite–injury, save Fort DC 18; frequency 1/round for 4 rounds; effect paralysis and 1 Str; cure 1 save. The save DC is Strength-based.

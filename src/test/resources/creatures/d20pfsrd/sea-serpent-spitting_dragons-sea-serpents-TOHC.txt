@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/sea-serpents-TOHC/sea-serpent-spitting
+Spitting Sea Serpent CR 9
+XP 6,400
+CE Large dragon (aquatic)
+Init +10; Senses darkvision 60 ft., low-light vision, scent; Perception +17
+DEFENSE
+AC 27, touch 15, flat-footed 21 (+6 Dex, +12 natural, -1 size)
+hp 102 (12d12+24)
+Fort +10, Ref +14, Will +10
+Immune paralysis and sleep, dragon traits
+OFFENSE
+Speed 10 ft.; swim 40 ft.
+Melee bite +12 (1d8+1 plus poison)
+Ranged spit +18 (2d6 acid)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (1d8+1)
+STATISTICS
+Str 13, Dex 22, Con 14, Int 8, Wis 15, Cha 6
+Base Atk +12; CMB +14; CMD 30 (can’t be tripped)
+Feats Ability Focus (poison), Far Shot, Improved Initiative, Point-Blank Shot, Rapid Shot, Swim-By AttackB, Weapon Focus (spit)
+Skills Intimidate +13, Perception +17, Stealth +17, Survival +17, Swim +16
+Languages Aquan, Draconic
+SPECIAL ABILITIES
+Poison (Ex) Bite–injury; save Fort DC 20; frequency 2 rounds; effect 2d6 Dex plus 2d6 acid; cure 2 consecutive saves. The save DC is Constitution-based.
+Spit (Ex) The spitting sea serpent can eject a sticky glob of concentrated acidic mucous up to twice a round (using the Rapid Shot feat), with a range of 60 feet.

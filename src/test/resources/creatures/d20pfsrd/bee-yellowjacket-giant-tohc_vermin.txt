@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/bee-yellowjacket-giant-tohc
+Giant Yellowjacket CR 4
+XP 1,200
+N Large vermin
+Init +1; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 14, touch 10, flat-footed 13 (+1 Dex, +4 natural, -1 size)
+hp 39 (6d8+12)
+Fort +7, Ref +3, Will +3
+Immune mind-affecting effects, vermin traits
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee bite +7 (1d3+4) or sting +7 (1d4+4 plus poison)
+Space 10 ft.; Reach 5 ft.
+TACTICS
+Giant yellowjackets attack by biting their foes. Though it has a poisonous stinger, it usually conducts combat with its bite attack, unless threatened by or confronting a particularly powerful opponent. In such cases, the giant yellowjacket brings its stinger to bear and repeatedly stings its foes until they are dead. If attacked, a giant yellowjacket releases a pheromone that agitates all others of its kind, making them deadlier and more aggressive.
+STATISTICS
+Str 18, Dex 12, Con 14, Int –, Wis 13, Cha 11
+Base Atk +4; CMB +9; CMD 20 (28 vs. trip)
+Skills Fly +3, Perception +9, Survival +5; Racial Modifiers +8 Perception, +4 Survival
+SQ pheromone
+SPECIAL ABILITIES
+Pheromone (Ex) The first time a creature successfully hits a giant yellowjacket it releases a fear pheromone that heightens the aggressiveness of all other giant yellowjackets within 50 feet. All affected giant yellowjackets receive a +1 morale bonus to attack rolls for the remainder of the encounter and fight without penalty even while disabled or dying.
+Poison (Ex) Sting–injury; save Fort DC 15; frequency 1/round for 4 rounds; effect 1d4 Dex damage; cure 1 save. The save DC is Constitution-based.

@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/megafauna/chalicotherium
+Chalicotherium CR 6
+XP 2,400
+N Large animal
+Init +0; Senses low-light vision, scent; Perception +10
+DEFENSE
+AC 18, touch 9, flat-footed 18 (+9 natural, –1 size)
+hp 68 (8d8+32)
+Fort +10, Ref +6, Will +4
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +13 (1d8+8)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 26, Dex 11, Con 18, Int 2, Wis 11, Cha 5
+Base Atk +6; CMB +15 (+17 bull rush); CMD 25 (27 vs. bull rush, 29 vs. trip)
+Feats Endurance, Improved Bull Rush, Iron Will, Power Attack
+Skills Climb +11, Perception +10

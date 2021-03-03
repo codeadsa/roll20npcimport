@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/whirlmaw
+Whirlmaw CR 8
+
+XP 4,800
+N Medium aberration
+Init +10; Senses darkvision 60 ft., keen sight, tremorsense 30 ft.; Perception +8
+DEFENSE
+AC 20, touch 16, flat-footed 14 (+6 Dex, +4 natural)
+hp 102 (12d8+48)
+Fort +8, Ref +10, Will +8
+Immune fire
+OFFENSE
+Speed 10 ft., burrow 10 ft., fly 90 ft. (perfect)
+Melee bite +16 (2d6+9 plus burrowing bite)
+Special Attacks flying charge
+STATISTICS
+Str 23, Dex 22, Con 18, Int 3, Wis 10, Cha 3
+Base Atk +9; CMB +15; CMD 31 (can’t be tripped)
+Feats Flyby Attack, Hover, Improved Initiative, Power Attack, Weapon Focus (bite), Wingover
+Skills Fly +18, Perception +8, Stealth +15
+SQ dust cloud
+SPECIAL ABILITIES Burrowing Bite (Ex) If a whirlmaw successful hits a Small or larger creature with its bite attack, it immediately attempts to start a grapple as a free action with a +4 bonus on the grapple check. If the grapple check is successful, the whirlmaw’s spinning, saw-like mouth immediately begins to burrow into the flesh of the creature, dealing 4d6+12 points of damage per round until the grapple is broken.
+Dust Cloud (Ex) By rapidly beating the leathery flaps of skin attached along its body, a whirlmaw can raise a cloud of debris while using its Hover feat just as if it were a Large creature.
+Flying Charge (Ex) When a whirlmaw makes a charge attack while flying, it gains a +4 bonus on its attack roll (rather than the normal +2 bonus), and does not take the normal –2 penalty to Armor Class.
+Keen Sight (Ex) A whirlmaw is extremely sharp-sighted. It takes only half the penalty on Perception checks for distance, and can see creatures in open terrain clearly from up to a mile away.

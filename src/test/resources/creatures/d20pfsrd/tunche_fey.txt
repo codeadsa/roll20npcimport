@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/tunche
+Tunche CR 17
+XP 102,400
+CN Huge fey
+Init +9; Senses darkvision 60 ft., low-light vision, scent; Perception +33
+DEFENSE
+AC 31, touch 13, flat-footed 26 (+5 Dex, +18 natural, –2 size)
+hp 262 (25d6+175)
+Fort +15, Ref +19, Will +19
+DR 15/cold iron and slashing
+OFFENSE
+Speed 50 ft., climb 20 ft., swim 20 ft.; feather step
+Melee bite +22 (2d8+11/19–20 plus poison), 4 claws +22 (3d6+11)
+Space 15 ft.; Reach 15 ft.
+Special Attacks poison, rend (2 claws, 3d6+16)
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant—speak with plants, tongues
+
+At will—burst of nettles (DC 20), entangle (DC 18), tree shape, tree stride, ventriloquism, warp wood (DC 19)
+
+7/day—diminish plants, plant growth, wall of thorns
+
+3/day—control plants (DC 25), move earth, true seeing
+STATISTICS
+Str 33, Dex 21, Con 24, Int 12, Wis 20, Cha 25
+Base Atk +12; CMB +25 (+27 bull rush); CMD 40 (42 vs. bull rush, 42 vs. trip)
+Feats Awesome Blow, Blind-Fight, Cleave, Combat Reflexes, Great Cleave, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Power Attack, Vital Strike, Weapon Focus (bite), Weapon Focus (claw)
+Skills Acrobatics +21 (+29 when jumping), Bluff +22, Climb +19, Intimidate +32, Knowledge (geography) +29, Knowledge (nature) +29, Perception +33, Sense Motive +33, Stealth +25 (+33 in forests), Swim +19; Racial Modifiers +8 Acrobatics when jumping, +8 Stealth in forests
+Languages Aklo, Sylvan; speak with plants, tongues
+SQ change shape (Small or Medium humanoid; alter self), sound mimicry (sounds and voices)
+SPECIAL ABILITIES
+Feather Step (Su) A tunche in a forest ignores the adverse movement effects of difficult terrain, and can even take 5-foot steps in difficult terrain.
+Poison (Ex) Bite—injury; save Fort DC 29; frequency 1/round for 6 rounds; effect 1d4 Con and 1d4 Wis plus nauseated for 1 round; cure 2 consecutive saves.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/zhen-worm
+Zhen Worm CR 1/2
+XP 200
+N Medium vermin
+Init –1; Senses tremorsense 60 ft.; Perception +0
+DEFENSE
+AC 9, touch 9, flat-footed 9 (–1 Dex)
+hp 5 (1d8+1)
+Fort +3, Ref –1, Will +0
+Defensive Abilities protective mucus; Immune gaze attacks, mind-affecting effects, sight-based attacks, and visual effects
+Weaknesses blindness
+OFFENSE
+Speed 20 ft., burrow 10 ft., swim 20 ft.
+Melee slam +1 (1d4+1 plus grab)
+Special Attacks constrict (1d4+1), dissolve flesh
+STATISTICS
+Str 12, Dex 9, Con 13, Int —, Wis 10, Cha 1
+Base Atk +0; CMB +1; CMD 10
+Feats Blind-Fight B
+Skills Stealth –1 (+9 in swamps), Swim +9; Racial Modifiers +10 Stealth in swamps
+SPECIAL ABILITIES
+Blindness (Ex) A zhen worm perceives solely through its tremorsense ability. It is immune to all sight-based effects and attacks, including gaze attacks.
+Dissolve Flesh (Ex) Though too dilute to cause damage in combat, a zhen worm’s acidic mucus reduces a Medium-sized corpse to bones and a pool of foul-smelling slurry in 1d4 days. Each size category above Medium doubles the amount of time required, and each size category smaller than Medium halves it.
+Protective Mucus (Ex) Weapons slip off the slick slime that coats a zhen worm, and fire has difficulty burning it away.
+Zhen worms take half damage from weapons and fire. This ability does not reduce damage from confirmed critical hits.
+Zhen Distillate
+Through alchemical processes, zhen worm mucus can be distilled into a preservative ointment. When spread liberally over a dead game animal, zhen distillate preserves the meat for 1 month. If left on for at least 3 days, the distillate dissolves away hair, nails, and skin, while leaving muscles and organs untouched. If not thoroughly washed away with wine or a similar alcoholic liquid, zhen distillate leaves behind a foul aftertaste. A flask of zhen distillate weighs 1 pound, costs 50 gp, and preserves the corpse of a Large creature. Each step up or down from Large doubles or halves, respectively, the amount of distillate needed.
+The mucus harvested from a single zhen worm can be processed into one flask of distillate with a successful DC 25 Craft (alchemy) check.

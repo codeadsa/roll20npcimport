@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/danse-macabre
+Danse Macabre CR 14
+XP 38,400
+NE Large undead (incorporeal)
+Init +11; Senses darkvision 60 ft, lifesense 60 ft; Perception +24; Aura dance of death (40 ft, DC 25)
+DEFENSE
+AC 22, touch 22, flat-footed 14 (+5 deflection, +7 Dex, +1 dodge, -1 size)
+hp 168 (16d8+96)
+Fort +10, Ref +14, Will +13
+Defensive Abilities deathless, incorporeal; Immune cold, undead traits; Resist +4 channel resistance; SR 30
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee incorporeal scythe +18/+13 (2d6/x4 plus 1d4 Constitution drain)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constitution drain, dance of death
+TACTICS
+When a danse macabre senses living creatures, it begins its dance of death in hopes of entrapping them in its embrace. It attacks those who resist its dance of death with its incorporeal scythe and pursues escaping victims until it can no longer sense them. However, if some individuals succumb to its dance of death, it will not move so far away as to free other victims from its aura. The danse macabre does not use its incorporeal touch attacks against creatures that have succumbed to the memento mori effect of its dance of death. Creatures that pretend to join the dance of death can stave off its incorporeal touch attacks by making Bluff checks opposed by its Sense Motive every round, thus escaping the danse macabre’s notice. A danse macabre continues to fight until destroyed.
+STATISTICS
+Str —, Dex 24, Con —, Int 8, Wis 16, Cha 20
+Base Atk +12; CMB +20; CMD 30
+Feats Ability Focus (dance of death), Alertness, Combat Reflexes, Dodge, Improved Initiative, Lightning Reflexes, Mobility, Toughness
+Skills Fly +23, Perception +19, Sense Motive +19
+SPECIAL ABILITIES
+Constitution Drain (Su) Living creatures hit by a danse macabre’s incorporeal scythe attack must succeed on a DC 23 Fortitude save or take 1d4 points of Constitution drain. The save DC is Charisma-based. On each such successful attack, the danse macabre gains 5 temporary hit points.
+Dance of Death (Su) A danse macabre is constantly surrounded by a 40-foot aura known as the dance of death, an endless gala of dancing spectral figures. Any living creature that enters the area of the dance of death must make a DC 25 Will save. On a failed Will save, the victim joins the ghostly dancers, takes 1d4 points of Constitution drain, and is affected as if by the spell irresistible dance. These effects persist for as long as the victim remains within the aura. As victims cannot willingly move from the square they dance in, the dance’s effects end only when the danse macabre moves to a point where the victim is no longer within its aura, is destroyed, or if the victim is physically removed from the area. The save DC is Charisma-based. This is a mind-affecting compulsion effect, and neither blindness nor deafness provide resistance. A victim who makes a successful save is immune to the dance of death of the same dance macabre for 24 hours.
+The spectral images surrounding a dance macabre are entirely insubstantial and harmless. At the same time, a ghostly music can be faintly heard in the area, as if a violin-led orchestra kept time to this ghostly dancing. The dancers and music cannot be interacted with but visibly and audibly mark the boundaries of the danse macabre’s dance of death aura.
+Deathless (Su) As a manifestation of Death incarnate, a danse macabre is not itself subject to permanent destruction. If reduced to 0 hit points, it disappears but rejuvenates at full hit points in 1d4 days. Only by destroying the creature and then using the spell hallow to consecrate the site it manifested upon prevents the phantom’s reappearance.
+Lifesense (Su) A danse macabre notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability. It also senses the strength of life forces automatically, as per the spell deathwatch.

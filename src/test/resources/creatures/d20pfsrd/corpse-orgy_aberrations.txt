@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/corpse-orgy
+Corpse Orgy CR 13
+XP 25,600
+CE Large aberration
+Init +4; Senses all-around vision, darkvision 60 ft., tremorsense 60 ft.; Perception +28
+DEFENSE
+AC 24, touch 9, flat-footed 24 (+15 natural, –1 size)
+hp 199 (19d8+114)
+Fort +14; Ref +8; Will +14
+DR 10/piercing or slashing
+OFFENSE
+Speed 30 ft.
+Melee 4 slams +20 (2d6+6 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks absorb body, pain shriek
+STATISTICS
+Str 22, Dex 10, Con 23, Int 14, Wis 14, Cha 16
+Base Atk +14; CMB +21 (+23 bull rush, +25 grapple); CMD 31 (33 vs. bull rush) (can’t be tripped)
+Feats Blind-Fight, Great Fortitude, Improved Bull Rush, Improved Initiative, Iron Will, Lightning Reflexes, Lunge, Power Attack, Vital Strike, Weapon Focus (slam)
+Skills Climb +19, Escape Artist +15, Intimidate +25, Knowledge (dungeoneering) +20, Perception +28, Sense Motive +24, Stealth +11, Survival +13; Racial Modifiers +4 Perception
+Languages Aklo, Common, Undercommon
+SPECIAL ABILITIES
+Absorb Body (Su) A corpse orgy can absorb the physical body of any creature it has reduced to 0 or less hit points by moving over it and remaining in contact with it for at least one full round. An unconscious or dying opponent can make a DC 25 Fortitude save to prevent the absorption. A dead opponent gets no saving throw. The save DC is Constitution-based. When it absorbs a body, the corpse orgy gains 12 temporary hit points. A creature whose body is absorbed can only be raised or resurrected if the corpse orgy that absorbed its body is slain and the corpse in question is recovered.
+All-Around Vision (Ex) The corpse orgy sees in all directions at once. It can not be flanked.
+Pain Shriek (Su) Twice per day, as a standard action, a corpse orgy can unleash a piercing shriek from the various heads captured in its form. This shriek deals 10d6 points of sonic damage to all creatures within a 40-foot radius around the corpse orgy. Affected creatures can make a DC 22 Fortitude save for half damage. Creatures that cannot hear do not take this damage. The save DC is Charisma-based.

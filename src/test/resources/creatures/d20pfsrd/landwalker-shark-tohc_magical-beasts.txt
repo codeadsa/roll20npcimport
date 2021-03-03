@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/landwalker-shark-tohc
+Landwalker Shark CR 3
+N Large magical beast (augmented animal)
+Init +4; Senses blindsense 30 ft., darkvision 60 ft., low-light vision, keen scent; Perception +8
+DEFENSE
+AC 13, touch 9, flat-footed 13 (+4 natural, –1 size)
+hp 30 (4d10+8)
+Fort +8; Ref +4; Will +2
+OFFENSE
+Speed 30 ft., swim 50 ft.
+Melee bite +7 (1d8+7)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 21, Dex 10, Con 15, Int 1, Wis 12, Cha 2
+Base Atk +3; CMB +9; CMD 19
+Feats Great Fortitude, Improved Initiative
+Skills Perception +8, Swim +13
+SQ amphibious
+SPECIAL ABILITIES
+Keen Scent (Ex) A shark can notice creatures by scent in a 180–foot radius underwater and can detect blood in the water at ranges of up to a mile.
+Editor’s Note
+Base template: Landwalker

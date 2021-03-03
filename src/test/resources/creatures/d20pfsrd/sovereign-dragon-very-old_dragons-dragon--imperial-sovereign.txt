@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sovereign/sovereign-dragon-very-old
+Very Old Sovereign Dragon CR 19
+XP 204,800
+N Gargantuan dragon
+Init +3; Senses dragon senses; Perception +39; Aura frightful presence (270 ft., DC 28)
+DEFENSE
+AC 36, touch 5, flat-footed 36 (-1 Dex, +31 natural, -4 size)
+hp 324 (24d12+168)
+Fort +21, Ref +15, Will +22
+DR 15/magic; Immune paralysis, sleep; SR 30
+OFFENSE
+Speed 50 ft., fly 250 ft. (clumsy)
+Melee bite +34 (4d6+19/19-20), 2 claws +34 (2d8+13/19-20), gore +33 (2d8+19), tail slap +31 (2d8+19)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite and gore)
+Special Attacks breath weapon (60 ft. cone, 18d6 sonic, DC 29), crush (DC 29, 4d6+19), tail sweep (DC 29, 2d6+19), violent retort
+Spell-Like Abilities (CL 24th; concentration +30)
+At will—calm emotions (DC 18), detect evil/good, sympathetic vibration, tongues
+Spells Known (CL 13th; concentration +19)
+6th (5/day)—mass suggestion (DC 22), transformation
+5th (7/day)—break enchantment, dominate person (DC 21), feeblemind (DC 21)
+4th (7/day)—confusion (DC 20), lesser geas (DC 20), locate creature, rainbow pattern (DC 20)
+3rd (7/day)—gaseous form, hold person (DC 19), lightning bolt (DC 19), suggestion (DC 19)
+2nd (8/day)—detect thoughts (DC 18), fog cloud, hideous laughter (DC 18), scorching ray, touch of idiocy
+1st (8/day)—charm person (DC 17), chill touch (DC 17), color spray (DC 17), endure elements, true strike
+0 (at will)—daze (DC 16), detect magic, flare (DC 16), ghost sound, mage hand, mending, message, read magic, resistance
+STATISTICS
+Str 37, Dex 8, Con 25, Int 22, Wis 23, Cha 22
+Base Atk +24; CMB +41; CMD 50 (54 vs. trip)
+Feats Flyby Attack, Hover, Improved Critical (bite, claw), Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Persuasive, Skill Focus (Perception), Weapon Focus (bite, claw)
+Skills Appraise +33, Bluff +33, Diplomacy +37, Fly -15, Heal +33, Intimidate +37, Knowledge (arcana, history, nobility, planes) +33, Perception +39, Sense Motive +33, Spellcraft +33
+Languages Abyssal, Auran, Celestial, Common, Draconic, Infernal
+SQ change shape, dogmatic discordance
+SPECIAL ABILITIES
+Change Shape (Su) A young or older sovereign dragon can assume any humanoid form three times per day as polymorph.
+Dogmatic Discordance (Su) Good or evil creatures take a -2 penalty when making saving throws against a sovereign dragon’s spells, spell-like abilities, breath weapon, and aura.
+Golden Armor (Su) Once per day as a standard action, an old or older sovereign dragon can cover its form in golden armor, granting it a +4 armor bonus to AC and energy resistance 15 to one energy type, chosen at the time the armor is summoned. This armor lasts for a number of rounds equal to the dragon’s age category. The sovereign dragon can dismiss the armor as a free action.
+Violent Retort (Ex) When a young or older sovereign dragon takes damage from a melee attack critical hit, it can, as an immediate action, make a claw or tail slap attack against the creature that made the critical hit.

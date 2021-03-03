@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/manticore
+Manticore CR 5
+XP 1,600
+LE Large magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +9
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, –1 size)
+hp 57 (6d10+24)
+Fort +9, Ref +7, Will +3
+OFFENSE
+Speed 30 ft., fly 50 ft. (clumsy)
+Melee bite +10 (1d8+5), 2 claws +10 (2d4+5)
+Ranged 4 spikes +8 (1d6+5)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 20, Dex 15, Con 18, Int 7, Wis 12, Cha 9
+Base Atk +6; CMB +12; CMD 24 (28 vs. trip)
+Feats Flyby Attack,Hover, Weapon Focus (spikes)
+Skills Fly –3, Perception +9, Survival +4 (+8 tracking); Racial Modifiers +4 Perception, +4 Survival when tracking
+Languages Common
+SPECIAL ABILITIES
+Spikes (Ex) With a snap of its tail, a manticore can loose a volley of four spikes as a standard action (make an attack roll for each spike). This attack has a range of 180 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only 24 spikes in any 24-hour period.
+Image by Denny Edwards Subpages
+Manticore, Advanced Manticore, Boreal Manticore, Poisonous

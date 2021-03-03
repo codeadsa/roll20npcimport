@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/scarab-beetle
+Scarab Beetle CR 6
+XP 2,400
+N Large vermin
+Init +1; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 20, touch 10, flat-footed 19 (+1 Dex, +10 natural, –1 size)
+hp 67 (9d8+27)
+Fort +9, Ref +4, Will +3
+Immune death effects, disease, mind-affecting effects, paralysis
+OFFENSE
+Speed 40 ft., climb 20 ft., fly 20 ft. (average)
+Melee bite +11 (1d8+9 plus gnaw)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 23, Dex 12, Con 16, Int –, Wis 10, Cha 1
+Base Atk +6; CMB +13; CMD 24 (32 vs. trip)
+Skills Climb +14, Fly –1
+SPECIAL ABILITIES
+Gnaw (Ex) A scarab beetle deals 1 point of Strength damage on a successful bite. This damage is doubled against creatures with no armor or natural armor bonus to AC, but creatures in heavy armor or with a natural armor bonus of +10 or greater are immune, as are creatures immune to critical hits or without flesh.
+Subpages
+Scarab Beetle Swarm

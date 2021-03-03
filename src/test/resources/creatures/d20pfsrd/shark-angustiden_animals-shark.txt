@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/shark/shark-angustiden
+Angustiden Shark CR 7
+XP 3,200
+N Gargantuan animal (aquatic)
+Init +1; Senses blindsense 30 ft., keen scent; Perception +19
+DEFENSE
+AC 16, touch 7, flat-footed 15 (+1 Dex, +9 natural, –4 size)
+hp 105 (10d8+60)
+Fort +15, Ref +8, Will +3
+OFFENSE
+Speed swim 90 ft.
+Melee bite +13 (2d8+15/18–20 plus grab)
+Space 20 ft.; Reach 5 ft.
+Special Attacks grab, powerful jaws
+STATISTICS
+Str 31, Dex 12, Con 23, Int 3, Wis 10, Cha 4
+Base Atk +7; CMB +21 (+25 grapple, +23 sunder); CMD 32 (+34 grapple)
+Feats Endurance, Great Fortitude, Improved Sunder, Lunge, Skill Focus (Perception)
+Skills Perception +19, Swim +18
+SPECIAL ABILITIES
+Powerful Jaws (Ex) The teeth of the angustiden are so sharp and tough that they make light work of almost any material. When the angustiden makes a successful grapple attempt following the use of its grab ability, it automatically makes a sunder attempt against the armor worn by the creature grappled as a free action. Each round the grapple is maintained it makes another sunder attempt against its victim’s armor.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/true-gorgon-sthenno-tohc
+Sthenno CR 20
+XP 307,200
+LE Large outsider (evil, extraplanar, lawful)
+Init +7; Senses darkvision 120 ft.; Perception +27
+DEFENSE
+AC 38, touch 12, flat-footed 35 (+3 Dex, +26 natural, –1 size)
+hp 225 (18d10+126); fast healing 5
+Fort +13; Ref +16; Will +17
+DR 15/epic and good; Immune paralysis, polymorph, sleep, stunning; SR 31
+OFFENSE
+Speed 30 ft., fly 50 ft. (poor)
+Melee 2 claws +28 (2d6+10 plus grab), bite +28 (1d10+10), snake bite +26 (1d8+5 plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks petrifying gaze, poison, rend (2 claws, 2d6+15)
+STATISTICS
+Str 31, Dex 17, Con 24, Int 22, Wis 22, Cha 26
+Base Atk +18; CMB +29 (+33 grapple); CMD 42 (can’t be tripped)
+Feats Cleave, Great Cleave, Improved Initiative, Lightning Reflexes, Multiattack, Power Attack, Weapon Focus (bite) Weapon Focus (claw), Weapon Focus (snake bite)
+Skills Acrobatics +24, Bluff +29, Craft (alchemy) +27, Diplomacy +29, Fly +18, Intimidate +29, Knowledge (arcana) +27, Knowledge (planes) +27, Perception +27, Sense Motive +27, Stealth +20, Survival +24
+SQ immortal
+Languages Abyssal, Aklo, Common, Draconic, Infernal, Undercommon
+SPECIAL ABILITIES
+Immortal (Ex) Euryale is immortal and cannot die from natural causes. She is not subject to death from massive damage and is immune to death effects and disintegration. She does not age, and does not need to sleep, eat, or breathe.
+Petrifying Gaze (Su) Turn to stone permanently, 30 feet, Fortitude save (DC 27) negates. The save DC is Charisma-based.
+Poison (Ex) Bite—injury; save Fort DC 26; frequency 1/round for 6 rounds; effect 1d6 Strength; cure 1 save.
+Related Creature
+True Gorgon, Euryale

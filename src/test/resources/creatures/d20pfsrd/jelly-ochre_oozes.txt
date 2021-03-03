@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/jelly-ochre
+Ochre Jelly CR 5
+XP 1,600
+N Large ooze
+Init –5; Senses blindsight 60 ft.; Perception –5
+
+DEFENSE
+AC 4, touch 4, flat-footed 4 (–5 Dex, –1 size)
+hp 63 (6d8+36)
+Fort +8, Ref –3, Will –3
+Defensive Abilities split; Immune electricity, mind-affecting effects, ooze traits, slashing and piercing damage
+OFFENSE
+Speed 10 ft., climb 10 ft.
+Melee slam +5 (2d4+3 plus 1d4 acid and grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (2d4+3 plus 1d4 acid)
+STATISTICS
+Str 14, Dex 1, Con 22, Int —, Wis 1, Cha 1
+Base Atk +4; CMB +7 (+11 grapple); CMD 12 (can’t be tripped)
+Skills Climb +10
+SPECIAL ABILITIES
+Acid (Ex) An ochre jelly secretes a digestive acid that dissolves only flesh (not bone) when it strikes a foe—creatures not made of flesh (including most constructs and oozes, skeletal undead, plants, and incorporeal creatures) are immune to the ochre jelly’s acid damage.
+
+Split (Ex) Slashing weapons, piercing weapons, and electricity attacks deal no damage to an ochre jelly. Instead the creature splits into two identical jellies, each with half of the original creature’s current hit point total, rounded down. A jelly with 10 hit points or less cannot be further split and dies if reduced to 0 hit points.
+

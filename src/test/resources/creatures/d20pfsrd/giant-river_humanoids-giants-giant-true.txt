@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-river
+River Giant CR 6
+XP 2,400
+CG or CE Large humanoid (giant)
+Init +4; Senses low-light vision; Perception +6
+DEFENSE
+AC 19, touch 9, flat-footed 19 (+3 armor, +7 natural, –1 size)
+hp 68 (8d8+32)
+Fort +10, Ref +2, Will +2
+Defensive Abilities rock catching
+OFFENSE
+Speed 40 ft.
+Melee spear +11/+6 (2d6+7/×3) or 2 slams +10 (1d8+5)
+Ranged rock +6 (1d8+5)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rock throwing (100 ft.)
+STATISTICS
+Str 20, Dex 11, Con 19, Int 9, Wis 10, Cha 8
+Base Atk +6; CMB +12 (+14 bull rush); CMD 22 (24 vs. bull rush)
+Feats Improved Bull Rush, Improved Initiative, Martial Weapon Proficiency (spear), Weapon Focus (spear)
+Skills Acrobatics +0 (+4 when boating), Perception +6, Profession (sailor) +9, Survival +6 (+10 when boating), Swim +10; Racial Modifiers +4 Acrobatics when boating, +4 Profession (sailor), +4 Survival when boating, +4 Swim
+Languages Common, Giant
+SQ hold breath

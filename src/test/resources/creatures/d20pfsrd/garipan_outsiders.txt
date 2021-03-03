@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/garipan
+Garipan CR 10
+XP 9,600
+NE Medium outsider (native)
+Init +2; Senses darkvision 60 ft.; Perception +19
+DEFENSE
+AC 23, touch 13, flat-footed 20 (+2 Dex, +1 dodge, +10 natural)
+hp 133 (14d10+56)
+Fort +13, Ref +8, Will +11 DR 5/—; Immune poison; Resist acid 5, cold 5, fire 5 Weaknesses vulnerable to sonic
+OFFENSE
+Speed 20 ft., fly 50 ft. (good)
+Melee bite +17 (1d6+3 plus burn), 2 claws +17 (1d8+3)
+Special Attacks breath weapon (30 ft. cone, 8d6 fire damage, Reflex DC 21 half, usable every 1d4 rounds), burn (3d6, DC 21), rend (2 claws, 1d8+4)
+Spell-Like Abilities (CL 10th; concentration +11)
+At will—statue
+3/day—meld into stone, scorching ray
+1/day—fireball (DC 14), flesh to stone (DC 17), wall of fire
+TACTICS
+During Combat A garipan uses flight and the fire raging within it to its greatest advantage, swooping overhead with its breath weapon first, then closing in for a full attack with its bite and claws while its breath weapon recharges.
+STATISTICS
+Str 16, Dex 15, Con 18, Int 13, Wis 14, Cha 13
+Base Atk +14; CMB +17; CMD 30
+Feats Dodge, Flyby Attack, Great Fortitude, Hover, Mobility, Skill Focus (Stealth), Wingover
+Skills Acrobatics +16 (+12 jump), Fly +23, Intimidate +18, Perception +19, Stealth +25
+Languages Common, Infernal

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/otyugh/otyugh-corpsefeaster
+Corpsefeaster Otyugh CR 4
+XP 1,200
+N Large aberration
+Init +0; Senses darkvision 60 ft., scent; Perception +10
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+8 natural, –1 size)
+hp 39 (6d8+12)
+Fort +3, Ref +2, Will +6
+Immune disease
+OFFENSE
+Speed 20 ft.
+Melee bite +7 (1d8+4 plus disease), 2 tentacles +3 (1d6+2)
+Space 10 ft.; Reach 10 ft. (15 ft. with tentacle)
+Special Attacks rot vomit
+STATISTICS
+Str 18, Dex 10, Con 13, Int 5, Wis 13, Cha 6
+Base Atk +4; CMB +9 (+13 grapple); CMD 19 (21 vs. trip)
+Feats Skill Focus (Perception), Toughness, Weapon Focus (tentacle)
+Skills Perception +10, Stealth +2 (+10 in lair); Racial Modifiers +8 Stealth in lair
+Languages Common
+SPECIAL ABILITIES
+Disease (Ex) Filth fever: Bite—injury; save Fortitude DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
+Rot Vomit (Ex) Corpsefeaster otyughs possess a particularly heinous ability that allows them to vomit forth a shower of rotting meat and bones in a 20-foot cone. Anyone caught in this cone must make a DC 14 Fortitude save or be nauseated for 1d4 rounds. Creatures caught in this cone must also make a save against the corpsefeaster’s disease, as if it had bitten them.
+Base Creature
+Otyugh Other Forms
+Oozing Otyugh
+Otyugh Mutant
+Plaguebearer Otyugh

@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/spawn-of-destruction/the-firebleeder
+The Firebleeder CR 24
+XP 1,228,800
+CE Colossal magical beast (fire)
+Init +8; Senses blindsight 120 ft., darkvision 60 ft., low-light vision; Perception +24; Aura frightful presence (60 ft., DC 28)
+DEFENSE
+AC 40, touch 6, flat-footed 36 (+4 Dex, +34 natural, -8 size)
+hp 496 (32d10+320); regeneration 40
+Fort +30, Ref +24, Will +15
+DR 15/epic; Immune ability damage, bleed, disease, energy drain, fire, mind-effecting effects, paralysis, permanent wounds, petrification, poison, polymorph, sleep; Resist electricity 20, sonic 20; SR 34
+Weaknesses vulnerable to cold, light blindness (sunlight only)
+OFFENSE
+Speed 60 ft., burrow 60 ft., climb 60 ft.
+Melee 2 claws +38 (2d8+14/19-20 plus burn), bite +38 (4d8+14/19-20 plus burn plus grab)
+Ranged 3 lava bombs +28 (2d8+14 bludgeoning plus burn splash)
+Space 40 ft.; Reach 40 ft.
+Special Attacks breath weapon (70-ft. cone, 16d10 fire damage, Reflex DC 36 for half, usable every 1d4 rounds), burn (4d8, DC 36), lava bomb, swallow whole (2d8+7 bludgeoning plus 20d6 fire damage, AC 24, 72 hp), trample (2d8+21, DC 40)
+TACTICS
+Before Combat The Firebleeder prefers to move around below the surface, and attack its prey by surprise from below.
+During Combat The Firebleeder uses its breath weapon as often as it can, making Power Attack full attacks on the rounds while it is waiting for its breath weapon to recharge, or trampling when its enemies are either out of range or suitably clustered together. It will bull rush opponents into pools of magma or other environmental hazards if any are present. The Firebleeder uses its lava bomb attack against opponents which are able to stay at range by virtue of speed or flight.
+Morale The Firebleeder fights to the death.
+STATISTICS
+Str 38, Dex 19, Con 30, Int 3, Wis 17, Cha 14
+Base Atk +32; CMB +54 (+58 bull rush, grapple, or overrun); CMD 68 (can’t be tripped)
+Feats Awesome Blow, Blind-Fight, Cleave, Combat Reflexes, Diehard, Endurance, Great Cleave, Great Fortitude, Improved Bull Rush, Improved Critical (bite), Improved Critical (claw), Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Run
+Skills Climb +32, Perception +24, Survival +21; Racial Modifiers +8 Climb, +8 Perception
+Languages Terran (cannot speak)
+SQ firebleed
+SPECIAL ABILITIES
+Blindsight (Ex) The Firebleeder can “see” by emitting high-frequency sounds, inaudible to most other creatures, that allow it to ascertain objects and creatures within 120 feet. A silence spell negates this ability, but its other forms of vision prevent it from being utterly blinded.
+Burn (Ex) In addition to dealing 4d8 fire damage to creatures that hit it with natural attacks and catching them on fire, the Firebleeder’s heat can melt or char weapons; any weapon that strikes Xotani is allowed a DC 36 Fortitude save to avoid destruction. The save DC is Constitution-based.
+Firebleed (Ex) As a creature of living fire and wrath, the Firebleeder ferociously strikes back against any creature that wounds it. Any attack that does more than 10 points of damage to the Firebleeder causes the wound to erupt in a 30-foot cone of magma. This cone deals 1d6 points of fire damage plus an additional 1d6 points of fire damage for every 10 points of damage dealt by the attack. Thus, an attack dealing 22 points of damage results in a cone dealing 3d6 points of fire damage, while an attack dealing 49 points of damage results in a cone dealing 5d6 points of fire damage.
+Creatures affected by the cone may make a DC 36 Reflex save to take only half damage. The save DC is Constitution-based. Ranged attacks and any magical attacks that deal damage also cause this special ability to take effect. He can firebleed up to 10 times per round (an amount equal to its Constitution modifier).
+Lava Bomb (Ex) As a standard action, the Firebleeder can hurl three thick gobs of magma from its tail. The lava bombs may target the same creature, or different creatures within 40 feet of each other. Lava bombs have a range increment of 100 ft., and deal 2d8+14 bludgeoning plus 4d8 burn damage on a direct hit. Creatures within a 40 foot radius of the hit also take 4d8 burn damage (Reflex 36 for half). If a lava bomb misses its target, it explodes at the nearest corner of it’s target’s space.
+Regeneration (Ex) No form of attack deals lethal damage to him. The Firebleeder regenerates even if it fails a saving throw against a disintegrate spell or a death effect. If he fails its save against a spell or effect that would kill it instantly (such as those mentioned above), the spell or effect instead deals nonlethal damage equal to the creature’s full normal hit points plus its Constitution score (or 526 hp). The Firebleeder is immune to effects that produce incurable or bleeding wounds, such as mummy rot, a sword with the wounding special ability, or a clay golem’s cursed wound ability. He can be slain only by raising its nonlethal damage total to its full normal hit points plus its Constitution score (or 526 hit points), at least half of which must be inflicted by cold damage, and using a wish or miracle spell to keep it dead. If he loses a limb or body part, the lost portion regrows in 1d6 minutes (the detached piece dies and decays normally). The Firebleeder can reattach the severed member instantly by holding it to the stump.

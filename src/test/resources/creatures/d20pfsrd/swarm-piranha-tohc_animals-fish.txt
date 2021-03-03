@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/swarm-piranha-tohc
+Piranha Swarm CR 2
+XP 600
+N Diminutive animal (aquatic, swarm)
+Init +2; Senses low-light vision, keen scent; Perception +10
+DEFENSE
+AC 16, touch 16, flat-footed 14 (+2 Dex, +4 size)
+hp 16 (3d8+3)
+Fort +4, Ref +5, Will +2
+Immune weapon damage, swarm traits
+Weaknesses swarm traits
+OFFENSE
+Speed swim 40 ft.
+Melee swarm (1d6)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 12), killing frenzy
+TACTICS
+Piranha are highly aggressive and attack in swarms any living creature detected in the water.
+Piranha swarms hunt during the day and are usually dormant at night. Some species are ambush hunters and hide in a single clump of seaweed or coral, shooting out to attack prey when it moves nearby. They attack using their razor sharp teeth, biting and gnashing their prey. Once blood is spilt, the piranha swarm enters a killing frenzy.
+STATISTICS
+Str 4, Dex 15, Con 12, Int 2, Wis 13, Cha 2
+Base Atk +2; CMB –; CMD —
+Feats Endurance, Skill Focus (Perception)
+Skills Perception +10, Swim +10
+SPECIAL ABILITIES
+Keen Scent (Ex) A piranha swarm can notice creatures by scent in a 60-foot radius and detect blood in the water at ranges of up to 100 feet.
+Killing Frenzy (Ex) A piranha swarm that detects blood in the water enters a frenzied state the following round, along with all other piranha swarms within a 100-foot radius. Frenzied piranha swarms bite until they or their opponents are dead. A frenzied piranha swarm gains a +2 bonus to damage and -2 AC for 1 minute. The swarm cannot end the killing frenzy voluntarily.
+Source
+
+Tome of Horrors Complete
+Support Open Gaming
+www.opengamingstore.com

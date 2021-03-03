@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sky/sky-dragon-young-adult-tohc
+Young Adult Sky Dragon CR 12
+XP 19,200
+LG Huge dragon (air)
+Init +4; Senses cloud sight, dragon senses; Perception +27; Aura frightful presence (150 ft., DC 21)
+DEFENSE
+AC 26, touch 8, flat-footed 26 (natural +18, size -2)
+hp 147 (14d12+56)
+Fort +13, Ref +11, Will +13
+DR 5/magic; Immune electricity, paralysis, sleep; SR 23
+OFFENSE
+Speed 40 ft., fly 200 ft. (good)
+Melee bite +19 (2d8+10/19-20), 2 claws +19 (2d6+7), gore +19 (2d6+10), tail slap +17 (2d6+10)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite and gore)
+Special Attacks breath weapon (50 ft. cone, 10d8 electricity, DC 21), crush (DC 21, 2d8+10)
+Spell-Like Abilities (CL 14th; concentration +18)
+At will—detect evil, feather fall
+Spells Known (CL 5th; concentration +9)
+2nd (5/day)—glitterdust (DC 16), invisibility
+1st (7/day)—expeditious retreat, magic missile, obscuring mist, shocking grasp
+0 (at will)—detect magic, disrupt undead, mage hand, mending, message, read magic
+STATISTICS
+Str 25, Dex 10, Con 19, Int 18, Wis 19, Cha 18
+Base Atk +14; CMB +23; CMD 33 (37 vs. trip)
+Feats Flyby Attack, Hover, Improved Critical (bite), Improved Initiative, Lightning Reflexes, Multiattack, Skill Focus (Perception)
+Skills Acrobatics +14, Diplomacy +21, Fly +17, Heal +21, Knowledge (arcana, religion) +21, Perception +27, Perform (sing) +18, Sense Motive +21, Spellcraft +21
+Languages Auran, Celestial, Common, Draconic, Infernal
+SQ borne aloft, change shape
+SPECIAL ABILITIES
+Borne Aloft (Su) Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.
+Change Shape (Su) A young or older sky dragon can assume any humanoid form three times per day as if using polymorph.
+Cloud Sight (Su) A very young or older sky dragon’s sight is not impeded by clouds or fog, or by spells that create areas of fog.
+Built by:
+gordon the whale

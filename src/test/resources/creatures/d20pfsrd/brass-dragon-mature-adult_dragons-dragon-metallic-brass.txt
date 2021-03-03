@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-brass/brass-dragon-mature-adult
+Brass Dragon, Mature Adult CR 12
+XP 19,200
+CG Large dragon (fire)
+Init +5; Senses blindsense 60 ft., dragon senses; Perception +26; Aura frightful presence (210 ft., DC 20)
+DEFENSE
+AC 31, touch 10, flat-footed 30 (+1 Dex, +21 natural, –1 size)
+hp 184 (16d12+80)
+Fort +15, Ref +11, Will +13
+DR 10/magic; Immune fire, paralysis, sleep; SR 23
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 200 ft. (poor)
+Melee bite +23 (2d6+12), 2 claws +23 (1d8+8), 2 wings +21 (1d6+4), tail slap +21 (1d8+12)
+Space 10 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (80-ft. line, DC 23, 14d4 fire), desert wind, sleep breath
+Spell-Like Abilities (CL 16th; concentration +19)
+At will—endure elements, speak with animals, suggestion (DC 16)
+Sorcerer Spells Known (CL 9th; concentration +12)
+4th (4/day)—charm monster (DC 19), confusion (DC 19)
+3rd (7/day)—displacement, hold person (DC 18), tongues
+2nd (7/day)—alter self, detect thoughts (DC 15), resist energy, see invisibility
+1st (7/day)—alarm, charm person (DC 16), protection from evil, shield, ventriloquism
+0 (at will)—arcane mark, dancing lights, detect magic, ghost sound (DC 13), mage hand, message, prestidigitation
+STATISTICS
+Str 27, Dex 12, Con 21, Int 16, Wis 17, Cha 16
+Base Atk +16; CMB +25; CMD 36 (40 vs. trip)
+Feats Alertness, Flyby Attack, Hover, Greater Spell Focus (enchantment), Improved Initiative, Multiattack, Power Attack, Spell Focus (enchantment)
+Skills Bluff +22, Diplomacy +22, Fly +14, Heal +22, Linguistics +22, Perception +26, Sense Motive +26, Spellcraft +22, Survival +22
+Languages Common, Draconic, plus any 17 more
+SQ move sand
+SPECIAL ABILITIES
+Desert Wind (Su) A juvenile or older brass dragon can call up the desert wind to serve him. This functions as gust of wind, but any creature in its path must make a Fortitude save (DC 23) or be blinded for 1d4 rounds by the sand.
+Move Sand (Su) A young or older brass dragon can move sand to excavate ruins or hide treasures. This functions as move earth, but it only affects sand. The dragon uses his HD in place of his caster level for this effect. This is equivalent to a 5th-level spell.
+Sleep Breath (Su) Instead of a line of fire, a brass dragon can breathe a 40 ft. cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+7 rounds.
+

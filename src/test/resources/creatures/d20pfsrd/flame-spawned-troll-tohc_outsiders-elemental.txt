@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/flame-spawned-troll-tohc
+Flame-Spawned Troll CR 6
+XP 2,400
+CE Large outsider (elemental, fire)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +8; Aura fiery aura (5 ft., 1d8 fire damage, DC 19)
+DEFENSE
+AC 19, touch 12, flat-footed 16 (+3 Dex, +7 natural, –1 size)
+hp 63 (6d8+36); regeneration 5 (acid or cold)
+Fort +11; Ref +5; Will +3
+DR 5/magic; Immune fire, elemental traits
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft.
+Melee bite +8 (1d8+5 plus 1d8 fire), 2 claws +8 (1d6+5 plus 1d8 fire)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d6+7)
+STATISTICS
+Str 21, Dex 16, Con 23, Int 6, Wis 9, Cha 6
+Base Atk +4; CMB +10; CMD 23
+Feats Intimidating Prowess, Iron Will, Skill Focus (Perception)
+Skills Intimidate +9, Perception +8
+Languages Giant, Ignan
+SPECIAL ABILITIES
+Burn Burn: A flame-spawned troll deals 1d8 points of fire damage with its natural attacks. Those hit by a flame-spawned creature’s natural attack must succeed on a DC 19 Reflex save or catch on fire. The flame burns for 1d4 rounds. A burning creature can take a move action to put out the flame. The save DC is Constitution-based.
+Editor’s Note
+Base template: Flame Spawned Creature

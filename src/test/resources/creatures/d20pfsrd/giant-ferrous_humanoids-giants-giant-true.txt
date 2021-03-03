@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-ferrous
+Ferrous Giant
+CR 17
+XP 102,400
+N Huge humanoid (giant)
+Init +0; Senses low-light vision; Perception +30
+DEFENSE
+AC 32, touch 8, flat-footed 32 (+6 armor, +18 natural, –2 size)
+hp 287 (25d8+175)
+Fort +21; Ref +8; Will +12;
+DR 15/cold iron; Immune fire, mind-affecting effects
+OFFENSE
+Speed 50 ft.
+Melee +31/+26/+21/+16 greataxe (4d6+22, 19-20/x3) or +31/+26/+21/+16 greatsword (4d6+22, 17-20/x2); or 2 slams +31 (2d6+15 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks trample (2d6+22; DC 37)
+Spell-like Abilities (CL 15th):
+At-will—heat metal (DC 14), levitate (iron or steel objects or creatures only, including itself)
+1/day—wall of iron (DC 18)
+STATISTICS
+Str 40, Dex 11, Con 25, Int 14, Wis 15, Cha 14
+Base Atk +18; CMB +35 (+39 bull rush, grapple, sunder); CMD 45 (49 vs. bull rush, sunder)
+Feats Awesome Blow, Cleave, Critical Focus, Great Cleave, Greater Bull Rush, Greater Sunder, Improved Bull Rush, Improved Critical (greatsword or greataxe), Improved Sunder, Iron Will, Power Attack, Skill Focus (Craft [weaponsmithing]), Staggering Critical
+Skills Craft (any one) +30, Craft (weaponsmithing) +36, Perception +30, Spellcraft +27
+Languages Common, Giant
+SQ over-sized weapon use, weapon and armor proficiency
+Gear breastplate, Gargantuan greatsword or greataxe
+SPECIAL ABILITIES
+Ferrous Mind (Ex) Ferrous giants are immune to mind influencing effects (charms, compulsions, phantasms, patterns, and morale effects).
+Pound (Ex) A ferrous giant that successfully grabs a foe two or more sizes smaller than itself can smash the opponent into the ground, walls, nearby trees, or other solid objects as a standard action. This deals 2d6+22 points of bludgeoning damage to the victim. In addition, the opponent must make a successful DC 37 Fortitude save or be stunned for one round. A ferrous giant can perform this action once per round as long as it maintains the grapple. The save DC is Strength-based.
+Oversized Weapon Use (Ex) A ferrous giant wields a Gargantuan greatsword or greataxe without penalty.
+Weapon and Armor Proficiency (Ex) Ferrous giants are automatically proficient with simple weapons, martial weapons, light and medium armor, and shields.

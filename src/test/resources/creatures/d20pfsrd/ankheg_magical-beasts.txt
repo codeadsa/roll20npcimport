@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ankheg
+Ankheg CR 3
+XP 800
+N Large magical beast
+Init +0; Senses darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +8
+DEFENSE
+AC 16, touch 9, flat-footed 16 (+7 natural, –1 size)
+hp 28 (3d10+12)
+Fort +6, Ref +3, Will +2
+OFFENSE
+Speed 30 ft., burrow 20 ft.
+Melee bite +5 (2d6+4 plus 1d4 acid and grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks spit acid
+STATISTICS
+Str 16, Dex 10, Con 17, Int 1, Wis 13, Cha 6
+Base Atk +3; CMB +7 (+11 grapple); CMD 17 (25 vs. trip)
+Feats Skill Focus (Perception), Toughness
+Skills Climb +8, Perception +8
+SPECIAL ABILITIES
+Spit Acid (Ex) Once every 6 hours, an ankheg can spit a 30-foot line of acid. Creatures struck by this acid take 4d4 points of acid damage (Reflex DC 14 halves). Once an ankheg uses this attack, it must wait 6 hours before using it again. Additionally, during this time period, its bite attack does not inflict any additional acid damage. As a result, an ankheg does not use this ability unless it is desperate or frustrated, most often spitting acid when reduced to fewer than half its full normal hit points or when it cannot not successfully grab an opponent. The save DC is Constitution-based.

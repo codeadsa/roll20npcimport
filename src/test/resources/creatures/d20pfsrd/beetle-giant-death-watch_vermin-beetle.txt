@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-giant-death-watch
+Giant Deathwatch Beetle CR 6
+XP 2,400
+N Medium vermin
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 19, touch 10, flat-footed 19 (+9 natural)
+hp 67 (9d8+27)
+Fort +9; Ref +3; Will +3
+Immune death effects, mind-affecting effects
+OFFENSE
+Speed 30 ft.
+Melee bite +11 (2d6+7)
+Special Attacks death rattle
+STATISTICS
+Str 21, Dex 10, Con 16, Int —, Wis 10, Cha 9
+Base Atk +6; CMB +11; CMD 21 (29 vs. trip)
+Skills Stealth +0 (+8 in forests); Racial Modifier +8 Stealth in forests
+SPECIAL ABILITIES
+Death Rattle (Ex) Once every 1d4 rounds as a standard action, a death watch beetle can vibrate its carapace to produce a clicking noise that sets up vibrations in all creatures within 30 feet. Creatures that fail a DC 17 Fortitude save take 3d6 damage. Since the effect stems from the vibrations set up in a victim’s body and not from the clicking noise itself, silence offers no protection against this attack. Likewise, a creature that cannot hear can still be affected. A successful save renders the target immune to that death watch beetle’s death rattle for 24 hours. The save DC is Constitution-based.
+Immunity to Death Effects (Ex) Death watch beetles are immune to any effect that instantly slays it, such as finger of death, slay living, and so on.

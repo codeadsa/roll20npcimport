@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/sky-dreamer
+Sky Dreamer CR 8
+XP 4,800
+N Large aberration
+Init +0; Senses blindsense 120 ft., darkvision 60 ft.; Perception +18
+DEFENSE
+AC 19, touch 9, flat-footed 19 (+10 natural, –1 size)
+hp 104 (11d8+55); regeneration 2 (acid)
+Fort +8, Ref +5, Will +13
+Defensive Abilities amorphous, lulling thoughts
+Weaknesses ley line dependency
+OFFENSE
+Speed fly 40 ft. (good)
+Melee 2 slams +13 (1d6+5 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (1d6+5), engulf (DC 20, 1d6 acid and paralysis)
+Spell-Like Abilities (CL 11th; concentration +13)
+3/day—mental block (DC 14), synesthesia (DC 15)
+1/day—id insinuation IV (DC 17)
+STATISTICS
+Str 21, Dex 11, Con 20, Int 8, Wis 18, Cha 15
+Base Atk +8; CMB +14; CMD 24 (can’t be tripped)
+Feats Combat Reflexes, Iron Will, Lightning Reflexes, Lunge, Power Attack, Weapon Focus (slam)
+Skills Acrobatics +3, Fly +10, Perception +18, Perform (sing) +17, Stealth +5; Racial Modifiers +4 Perform (sing)
+Languages Any 1; telepathy (touch)
+SQ atavistic fury, sense ley line
+SPECIAL ABILITIES
+Atavistic Fury (Ex) When a sky dreamer is reduced to half of its total hit points or less, it angrily awakens from its normal somnambulant state. It gains a +2 bonus on attack rolls, melee damage rolls, and saving throws. In addition, its slam attack deals bludgeoning, piercing, and slashing damage, and its critical threat range becomes 18–20. While in this state of atavistic fury, a sky dreamer cannot use its spell-like abilities. This state lasts for 1 minute, after which the dreamer is fatigued for 1 hour.
+Ley Line Dependency (Ex) A sky dreamer takes 1 point of Wisdom damage for every day it spends more than a mile from a ley line. A dreamer whose Wisdom damage equals or exceeds its Wisdom score becomes permanently insane and enters a permanent state of atavistic fury.
+Lulling Thoughts (Su) The mind of a sky dreamer echoes with the songs of a planet’s ley lines, causing anyone who targets it with a thought-reading, mind control, or telepathic effect to become fascinated for 1d4+1 rounds (Will DC 17 negates). The save DC is Charisma-based.
+Sense Ley Line (Ex) A sky dreamer can always sense the direction of and distance to the nearest ley line.

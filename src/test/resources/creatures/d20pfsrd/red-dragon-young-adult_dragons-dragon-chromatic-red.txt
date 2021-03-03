@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-red/red-dragon-young-adult
+Young Adult Red Dragon CR 13
+XP 25,600
+CE Huge dragon (fire)
+Init +4; Senses dragon senses, smoke vision; Perception +20; Aura frightful presence (150 ft., DC 19)
+DEFENSE
+AC 26, touch 8, flat-footed 26 (+18 natural, -2 size)
+hp 172 (15d12+75)
+Fort +14, Ref +9, Will +13
+DR 5/magic; Immune fire, paralysis, sleep; SR 24
+Weaknesses Vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +22 (2d8+13), 2 claws +22 (2d6+9), 2 wings +20 (1d8+4), tail slap +20 (2d6+13)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, DC 22, 10d10 fire), crush (Small creatures, DC 22, 2d8+13)
+Spell-Like Abilities (CL 15th; concentration +17)
+At will— detect magic, pyrotechnics (DC 14) Spells Known (CL 5th; concentration +7)
+2nd (5/day)— resist energy, see invisibility
+1st (7/day)— alarm, magic missile, shield, true strike
+0 (at will)— arcane mark, bleed, light, magehand, message, read magic STATISTICS
+Str 29, Dex 10, Con 21, Int 14, Wis 15, Cha 14
+Base Atk +15; CMB +26; CMD 36 (40 vs. trip)
+Feats Cleave, Improved Initiative, Improved Iron Will, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Vital Strike
+Skills Appraise +20, Bluff +20, Fly +10, Intimidate +20, Knowledge (arcana) +20, Perception +20, Sense Motive +20, Stealth +10
+Languages Common, Draconic, Orc
+SPECIAL ABILITIES
+Smoke Vision (Ex) A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ugash-iram
+Ugash-Iram CR 15
+XP 51,200
+NE Colossal magical beast (aquatic)
+Unique gutaki (variant devilfish)
+Init +8; Senses darkvision 120 ft., low-light vision, see in darkness; Perception +20
+DEFENSE
+AC 28, touch 6, flat-footed 24 (+4 Dex, +22 natural, –8 size)
+hp 229 (17d10+136)
+Fort +18, Ref +14, Will +10
+DR 10/cold iron; Resist acid 10, cold 10
+OFFENSE
+Speed 5 ft., swim 60 ft.; jet (320 ft.)
+Melee tentacles +20 (6d6+11 plus grab)
+Space 30 ft.; Reach 30 ft.
+Special Attacks savage bite (+20 melee, 4d8+11/18–20 plus poison), unholy blood
+Spell-Like Abilities (CL 15th; concentration +20)
+At will—disfiguring touch (DC 17)
+3/day—bestow curse (DC 18), freedom of movement, protection from energy
+1/day—dominate monster (DC 24), rage
+STATISTICS
+Str 32, Dex 19, Con 26, Int 13, Wis 20, Cha 16
+Base Atk +17; CMB +36 (+40 grapple); CMD 50 (can’t be tripped)
+Feats Cleave, Combat Expertise, Combat Reflexes, Deadly Finish, Greater Disarm, Improved Disarm, Improved Initiative, Power Attack, Stand Still
+Skills Bluff +13, Knowledge (geography) +10, Knowledge (planes) +11, Perception +20, Sense Motive +13, Stealth –8, Swim +23
+Languages Abyssal, Aquan, Common; telepathy 100 ft.

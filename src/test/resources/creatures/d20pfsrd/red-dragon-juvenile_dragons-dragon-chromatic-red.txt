@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-red/red-dragon-juvenile
+Juvenile Red Dragon CR 11
+XP 12,800
+CE Large dragon (fire)
+Init +5; Senses dragon senses, smoke vision; Perception +18; Aura frightful presence (120 ft., DC 18)
+DEFENSE
+AC 25, touch 10, flat-footed 24 (+1 Dex, +15 natural, -1 size)
+hp 149 (13d12+65)
+Fort +13, Ref +9, Will +12
+Immune fire, paralysis, sleep
+Weaknesses Vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +20 (2d6+12), 2 claws +20 (1d8+8), 2 wings +18 (1d6+4), tail slap +18 (1d8+12)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, DC 21, 8d10 fire)
+Spell-Like Abilities (CL 13th; concentration +15)
+At will— detect magic, pyrotechnics (DC 14) Spells Known (CL 3rd; concentration +5)
+1st (6/day)— magic missile, shield, true strike
+0 (at will)— arcane mark, bleed, light, magehand, read magic STATISTICS
+Str 27, Dex 12, Con 21, Int 14, Wis 15, Cha 14
+Base Atk +13; CMB +22; CMD 33 (37 vs. trip)
+Feats Cleave, Improved Initiative, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Vital Strike
+Skills Appraise +18, Bluff +18, Fly +11, Intimidate +18, Knowledge (arcana) +18, Perception +18, Sense Motive +18, Stealth +13
+Languages Common, Draconic, Orc
+SPECIAL ABILITIES
+Smoke Vision (Ex) A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).

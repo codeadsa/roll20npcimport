@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/apparition-tohc
+Apparition CR 7
+XP 3,200
+CE Medium undead (incorporeal)
+Init +6; Senses darkvision 60 ft., lifesense; Perception +14; Aura unnatural aura (30 ft.)
+DEFENSE
+AC 15, touch 15, flat-footed 13 (+2 Dex, +3 deflection)
+hp 52 (7d8+21)
+Fort +5; Ref +4; Will +8
+Defensive Abilities incorporeal, channel resistance +2; Immune undead traits
+Weaknesses resurrection vulnerability, sunlight powerlessness
+OFFENSE
+Speed fly 60 ft. (perfect)
+Special Attacks create spawn, spectral strangulation
+TACTICS
+During Combat An apparition has no physical attacks and attacks by fear alone. By implanting a suggestion in a victim’s mind, it attempts to actually scare the life out of its opponent. Once the apparition selects a target, it uses its spectral strangulation ability. If overpowered or if it fails in its attempt to slay a living creature, the apparition flees back to the Ethereal Plane.
+STATISTICS
+Str —, Dex 14, Con —, Int 10, Wis 13, Cha 16
+Base Atk +5; CMB +7; CMD 20
+Feats Blind-Fight, Improved Initiative, Iron Will, Skill Focus (Perception)
+Skills Fly +10, Intimidate +13, Knowledge (religion) +10, Perception +14, Stealth +12
+SPECIAL ABILITIES
+Create Spawn (Su) A humanoid slain by an apparition becomes an apparition itself in 1d4 rounds. Spawn so created are less powerful than typical apparitions, and suffer a –2 penalty on all d20 rolls and checks. They also receive –2 hp per HD, and a -2 penalty to the Will save DC of their spectral strangulation ability. Spawn are under the command of the apparition that created them and remain enslaved until its death, at which point they lose their spawn penalties and become full-fledged and free-willed apparitions. They do not possess any of the abilities they had in life.
+Resurrection Vulnerability (Su) A raise dead or similar spell cast on an apparition destroys it (Will negates). Using the spell in this way does not require a material component.
+Spectral Strangulation (Su) An apparition attacks an opponent by implanting a suggestion in the victim’s mind, convincing it that it is being strangled by the apparition’s bony claws. The apparition must be on the same plane as the target creature to use this ability. The target of the spectral strangulation feels the bony, claw-like fingers of the apparition at its throat—even through armor. The target must succeed on a DC 16 Will save to disbelieve the suggestion. A creature that successfully saves cannot be affected again by the same apparition’s suggestion for one day.
+On a failed save, the victim must immediately succeed on a DC 16 Fortitude save or die from fright due to heart failure. If the Fortitude save succeeds, the victim acts as if affected by a fear spell for 1d4 rounds. A creature protected by magic circle against evil or protection from evil cannot be affected by an apparition’s spectral strangulation. This is a mind-affecting fear effect. The save DCs are Charisma-based.
+Sunlight Powerlessness (Ex) Apparitions on the Material Plane are utterly powerless in natural sunlight (not merely a daylight spell) and flee from it. An apparition caught in sunlight cannot attack and is staggered.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/goblin/monkey-goblin
+Monkey Goblin CR 1/2
+XP 200
+Monkey goblin barbarian 1
+NE Small humanoid (goblinoid)
+Init +4; Senses low-light vision; Perception +4
+DEFENSE
+AC 17, touch 15, flat-footed 13 (+2 armor, +4 Dex, +1 size)
+hp 13 (1d12+1)
+Fort +3, Ref +4, Will +0; +2 vs. fear
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee kukri +4 (1d3+2/18–20)
+Ranged shortbow +6 (1d4/x3) or net +6 (entangle)
+Special Attacks rage (5 rounds/day)
+STATISTICS
+Str 15, Dex 18, Con 13, Int 10, Wis 10, Cha 6
+Base Atk +1; CMB +2; CMD 16
+Feats Exotic Weapon Proficiency (net)
+Skills Acrobatics +10, Climb +14, Perception +4, Stealth +11, Survival +4; Racial Modifiers +2 Acrobatics, +2 Stealth
+Languages Goblin
+SQ fast movement, prehensile tail
+SPECIAL ABILITIES
+Prehensile Tail (Ex) All monkey goblins have long, flexible tails that they can use to carry objects. They cannot wield weapons with their tails, but the tails do allow them to retrieve small objects stowed on their persons as a swift action.

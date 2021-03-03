@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/spore-rat
+Spore Rat CR 2
+XP 400
+N Small plant (fungus)
+Init +3; Senses low-light vision; Perception +8
+DEFENSE
+AC 16, touch 14, flat-footed 13 (+3 Dex, +2 natural, +1 size)
+hp 13 (3d8)
+Fort +3, Ref +4, Will +2
+Immune plant traits
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee bite +6 (1d4-2 plus spores)
+Special Attacks spore cloud, spores
+STATISTICS
+Str 6, Dex 16, Con 11, Int 2, Wis 12, Cha 4
+Base Atk +2; CMB -2; CMD 11 (15 vs. trip)
+Feats Alertness, Weapon Finesse
+Skills Climb +12, Perception +8, Racial Modifiers uses Dex to modify Climb and Swim
+SPECIAL ABILITIES
+Spore Cloud (Ex) Twice per day, a spore rat can release a cloud of noxious spores in a 5-foot radius. Creatures adjacent to the spore rat must succeed on a DC 11 Fortitude save or take 1d4 points of Strength damage. The cloud lasts a single round. The save DC is Constitution-based.
+Spores (Ex) The bite of a spore rat injects a living creature with miniscule spores that cause nausea for 1 round. A successful DC 11 Fortitude save negates the nausea. The save DC is Constitution-based.

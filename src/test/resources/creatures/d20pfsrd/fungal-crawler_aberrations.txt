@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/fungal-crawler
+Fungal Crawler
+CR 3
+
+XP 800
+N Small aberration
+Init +9; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 16, touch 16, flat-footed 11 (+5 Dex, +1 size)
+hp 26 (4d8+8)
+Fort +3, Ref +6, Will +5
+Defensive Abilities plant defenses; Immune mind-affecting effects, paralysis, poison, polymorph effects, sleep, stunning
+OFFENSE
+Speed 20 ft., climb 40 ft.
+Melee bite +6 (1d6+2 plus poison), 2 claws +6 (1d4+2)
+Special Attacks leap
+STATISTICS
+Str 14, Dex 20, Con 15, Int 2, Wis 13, Cha 7
+Base Atk +3; CMB +4; CMD 19 (27 vs. trip)
+Feats Improved Initiative, Step Up
+Skills Acrobatics +10 (+14 jump), Climb +10, Perception +6; Racial Modifiers +8 Climb, +14* on Acrobatics checks made to jump
+SPECIAL ABILITIES
+Leap (Ex) A fungal crawler can perform a special kind of pounce attack by jumping into combat. When a fungal crawler charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it makes the Acrobatics check, it can follow up with four claw attacks against foes in reach, but it cannot make a bite attack.
+Plant Defenses (Ex) A fungal crawler is part plant and shares many of the immunities that plant creatures possess. A fungal crawler is immune to mind-affecting effects, paralysis, poison, polymorph, sleep, and stunning.
+Poison (Ex) Bite—injury; save Fort DC 14; frequency 1/round for 4 rounds; effect 1d2 Str and 1d2 Con; cure 1 save. The save DC is Constitution-based.
+
+

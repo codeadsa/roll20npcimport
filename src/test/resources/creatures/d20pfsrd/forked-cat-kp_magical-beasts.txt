@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/forked-cat-kp
+Forked Cat CR 9
+XP 6,400
+CE Small magical beast (shapechanger)
+Init +4; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 23 touch 15 flat-footed 19 (+4 Dex, +8 natural, +1 size)
+hp 102 (12d10+36)
+Fort +8 Ref +12 Will +8
+Immunities disease, poison; SR 24
+Weakness forked tail
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +17 (1d3–1), bite +17 (1d4–1 plus grab)
+Space 5 ft.; Reach 5 ft.
+Special Attacks swallow whole (3d6 acid damage, AC 14, hp 10)
+Spell-Like Abilities (CL 12th, concentration +18)
+Constant— see invisibility
+At will— alter winds, command undead (DC 19), cause fear (DC 17), dancing lights, ghost sound (DC 16), mage hand, minor image (DC 18), obscuring mist,
+3/day— charm person (DC 17), chill touch (DC 17), darkness (DC 21), dream (DC 21), fireball (DC 19), gaseous form, ghoul touch (DC 18), gust of wind (DC 18), nightmare (DC 21)
+1/day— bestow curse (DC 19), call lightning (DC 19), contagion (DC 20), create greater undead ( shadow, spectre or wraith only), raise dead TACTICS
+Forked cats are vicious, but physically weak. If they know their target, they’ll torment the target with illusions and weaken them with nightmares and diseases before attacking them with their undead minions and damaging spells.
+STATISTICS
+Str 8, Dex 18, Con 14, Int 14, Wis 14, Cha 22
+Base Atk +12; CMB +10 (+16 grapple); CMD 24 (26 vs. grapple)
+Feats Deceitful, Improved Grapple, Iron Will, Lightning Reflexes, Toughness, Weapon Finesse
+Skills Acrobatics +12, Bluff +20, Climb +10, Disguise +20, Knowledge (arcana) +5, Knowledge (religion) +5, Perception +10, Sense Motive +5, Stealth +16; Racial Modifiers +4 Climb, +4 Stealth
+Languages Common, Aklo
+SQ change shape (any humanoid as alter self, cat only as beast shape III), raise dead, speak with cats
+SPECIAL ABILITIES
+Change Shape (Su) A forked cat can turn into any humanoid creature as alter self or into a domestic cat (sizes Tiny to Huge) as per beast shape III. In its cat forms, it always has two tails.
+While in a humanoid shape, the forked cat can’t use any of its natural weapons or gain the benefit of its grab ability. It may still attempt to use swallow whole. Mirrors reveal its true self and its tails are invisible.
+Forked Tail (Su) A forked cat’s tails are the source of its powers. Severing one tail makes the forked cat lose its spell-like abilities (except at-will) and it may use its change shape only to appear as a humanoid or a Tiny cat. Severing them both makes it lose all its abilities, becoming a Small cat. Its type changes to animal (augmented) and its mental stats become Int 2, Wis 12, Cha 8.
+Each tail is considered to have 10 hp and a hardness of 5. To sever a tail, a sunder attempt must be made against it, and the tail must be reduced to 0 hp in one blow. It regrows after one month. If it loses both tails, it can’t regrow them.
+Raise Undead (Su) A forked cat create a zombie by jumping over a fresh corpse. Once per day it can use this ability to create a ghast or ghoul. It can control up to 44 HD of undead this way.
+Speak with Cats (Ex) A forked cat can speak with all feline creatures.
+Swallow Whole (Su) A forked cat can eat unusually large things. It can use this ability on a creature up to one size category larger than itself.

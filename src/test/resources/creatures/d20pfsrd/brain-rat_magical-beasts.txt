@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/brain-rat
+Brain Rat CR 1/2
+XP 200
+N Tiny magical beast (psionic)
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +9
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 5 (1d10)
+Fort +2, Ref +4, Will +2
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee bite +5 (1d3-4)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-like Abilities (CL 2nd):
+At will—detect thoughts (DC 13)
+3/day—burning hands (DC 12), daze (DC 11)
+TACTICS
+Brain rats seem to favor consuming the flesh of other intelligent creatures, and use their detect thoughts ability to pinpoint tasty meals. They then cluster in large groups and wait for their prey to pass by. They lead off with a series of burning hands blasts, focusing on clearing out other threats, while several attempt to disable their primary target with daze. Once their prey is isolated they swarm it in a seething, biting mass.
+STATISTICS
+Str 2, Dex 15, Con 10, Int 14, Wis 14, Cha 12
+Base Atk +1; CMB +1; CMD 7 (11 vs. trip)
+Feats Skill Focus (Perception), Weapon FinesseB
+Skills Climb +14, Perception +9, Stealth +14, Swim +6; Racial Modifiers Brain rats use their Dexterity modifier for Climb checks.
+Languages Common (cannot speak); species empathy

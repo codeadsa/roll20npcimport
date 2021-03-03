@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-carrion/golem-carrion-weaponized
+Golem, Carrion (weaponized)
+CR 4
+XP 1,200
+N Medium construct
+Init +1; Senses blindsense 10 ft., darkvision 60 ft., low-light vision; Perception +0; Aura foul stench (DC 12, 1 round)
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+1 Dex, +6 natural)
+hp 42 (4d10+20)
+Fort +1, Ref +2, Will +1
+DR 5/bludgeoning or slashing; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +7 (1d8+3 plus disease)
+Special Attacks plague carrier, walking bomb
+STATISTICS
+Str 17, Dex 12, Con —, Int —, Wis 11, Cha 1
+Base Atk +4; CMB +7; CMD 18
+SPECIAL ABILITIES
+Foul Stench (Ex) This functions as the stench ability, but causes affected creatures to be nauseated rather than sickened.
+Immune to Magic (Ex) A carrion golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+• Gentle repose causes a carrion golem to become stiff and helpless for 1d4 rounds if it fails a Will save against the spell.
+• Animate dead causes the various parts of the golem’s body to shudder and tear, dealing 1d6 points of damage per caster level to the golem (no save).
+• Any magical attack that deals cold or fire damage slows a carrion golem (as the slow spell) for 2d6 rounds (no save).
+• Any magical attack that deals electricity damage hastes a carrion golem (as the haste spell) for 2d6 rounds.
+Plague Carrier (Ex) When a carrion golem is created, its creator infects it with a specific disease. The carrion golem can then infect those it strikes with its slams with this disease—most carrion golems inflict filth fever. The save DC is Constitution-based and includes a +2 racial bonus.
+Filth Fever: slam—injury; save Fortitude DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves.
+Walking Bomb (Ex) When dealt a mortal blow, a special glyph placed on its chest causes it to explode, showering everyone within a 30-foot radius spread with gobbets of reeking flesh. The damage dealt by this explosion depends upon the nature of the alchemical ingredients used and stored inside the golem, but fire and acid are standard choices. In any event, the explosion deals 4d6 points of the appropriate energy damage (Reflex DC 12 half; the save DC is Constitution based), and infects everyone who takes damage with the same disease noted in its plague carrier special ability, as if each had been hit by the golem’s slam attack (normal saves apply).
+Construction
+
+A weaponized carrion golem’s body can be constructed using at least two Medium corpses and four smaller corpses. Special reagents worth 500 gp are also required. Additionally, another 500 gp worth of alchemical regents are required. These regents can typically produce a either a fire or acid burst, chosen at the time of the golem’s creation.
+Weaponized Carrion Golem
+
+CL 7th; Price 11,000 gp
+CONSTRUCTION
+Requirements Craft Construct, animate dead, contagion, false life, gentle repose, lesser geas; Special creator must be caster level 7th; Skill Craft (leather) or Heal DC 13; and Craft (alchemy) DC 13; Cost 6,000 gp
+
+
+

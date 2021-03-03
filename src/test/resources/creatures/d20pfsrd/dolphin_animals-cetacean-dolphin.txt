@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/cetacean/dolphin/dolphin
+Dolphin CR 1/2
+XP 200
+N Medium animal
+Init +2; Senses blindsight 120 ft., low-light vision; Perception +9
+DEFENSE
+AC 13, touch 12, flat-footed 11 (+2 Dex, +1 natural)
+hp 11 (2d8+2)
+Fort +4, Ref +5, Will +1
+OFFENSE
+Speed swim 80 ft.
+Melee slam +3 (1d4+1)
+STATISTICS
+Str 12, Dex 15, Con 13, Int 2, Wis 13, Cha 6
+Base Atk +1; CMB +2; CMD 14
+Feats Weapon Finesse
+Skills Perception +9, Swim +13; Racial Modifiers +4 Perception
+SQ hold breath
+SPECIAL ABILITIES
+Hold Breath (Ex) A dolphin can hold its breath for a number of minutes equal to 6 times its Constitution score before it risks drowning.

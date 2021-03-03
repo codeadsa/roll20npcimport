@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-red/adult-red-dragon
+Adult Red Dragon CR 14
+XP 38,400
+CE Huge dragon (fire)
+Init +4; Senses dragon senses, smoke vision; Perception +23
+Aura fire (5 ft., 1d6 fire), frightful presence (180 ft., DC 21)
+DEFENSE
+AC 29, touch 8, flat-footed 29 (+21 natural, –2 size)
+hp 212 (17d12+102)
+Fort +16, Ref +10, Will +15
+DR 5/magic; Immune fire, paralysis, sleep; SR 25
+Weaknesses Vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +25 (2d8+15), 2 claws +25 (2d6+10), 2 wings +23 (1d8+5), tail slap +23 (2d6+15)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, DC 24, 12d10 fire), crush (Small Creatures, DC 24, 2d8+15)
+Spell-Like Abilities (CL 17th, concentration +20)
+At will—detect magic, pyrotechnics (DC 15), suggestion (DC 16)
+Spells Known (CL 7th, concentration +10)
+3rd (5/day)—dispel magic, haste
+2nd (7/day)—invisibility, resist energy, see invisibility
+1st (7/day)—alarm, grease (DC 14), magic missile, shield, true strike
+0 (at will)—arcane mark, light, mage hand, mending, message, prestidigitation, read magic
+STATISTICS
+Str 31, Dex 10, Con 23, Int 16, Wis 17, Cha 16
+Base Atk +17; CMB +29; CMD 39 (43 vs. trip)
+Feats Cleave, Greater Vital Strike, Improved Initiative, Improved Iron Will, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Vital Strike
+Skills Appraise +23, Bluff +23, Fly +12, Intimidate +23, Knowledge (arcana) +23, Perception +23, Sense Motive +23, Spellcraft +23, Stealth +12
+Languages Common, Draconic, Dwarven, Orc
+SPECIAL ABILITIES
+Fire Aura (Su) An adult red dragon is surrounded by an aura of intense heat. All creatures within 5 feet take 1d6 points of fire damage at the beginning of the dragon’s turn. An old dragon’s aura extends to 10 feet. An ancient dragon’s damage increases to 2d6.
+Smoke Vision (Ex) A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).

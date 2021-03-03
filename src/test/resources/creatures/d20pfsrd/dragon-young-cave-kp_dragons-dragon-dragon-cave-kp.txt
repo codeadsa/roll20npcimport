@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-cave-kp/dragon-young-cave-kp
+Young Cave Dragon
+CR 7
+XP 3,200
+NE Medium dragon (earth)
+Init +1; Senses blindsense 180 ft.; Perception +10
+DEFENSE
+AC 22, touch 10, flat-footed 22 (+12 natural)
+hp 100 (8d12+48)
+Fort +12, Ref +6, Will +8
+Immune acid, paralysis, sleep, sonic; SR 15
+OFFENSE
+Speed 40 ft., burrow 20 ft.; earth glide
+Melee bite +15 (2d6+10), 2 claws +13 (1d6+3), and 2 wings +13 (1d4+3)
+Special Attacks breath weapon (30 ft. cone, poison DC 20, 1d6+3 Strength damage; sonic 6d6 sonic), ruff spikes, spells
+Spell-Like Abilities (CL 8th; +3 concentration)
+3/day—darkness
+Spells Prepared (CL 1st; +3 concentration)
+1st— cure light wounds, deathwatch, protection from good
+0th—bleed (DC 12), detect magic, mending, read magic
+Domains Evil, Knowledge
+STATISTICS
+Str 24 Dex 10 Con 22 Int 12 Wis 14 Cha 15
+Base Atk +8; CMB +15; CMD 25 (29 vs. trip)
+Feats Cleave, Improved Natural Attack (bite), Multiattack, Power Attack
+Skills Bluff +10, Climb +15, Diplomacy +10, Intimidate +10, Knowledge (dungeoneering) +11, Knowledge (local) +10, Linguistics +7, Perception +10, Sense Motive +10, Stealth +15, Survival + 9; Racial Modifiers +4 Climb, +4 Stealth
+Languages Draconic, Undercommon

@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-ghaddar-tohc
+Ghaddar Devil CR 16
+XP 76,800
+LE Huge outsider (devil, evil, extraplanar, lawful)
+Init +9; Senses darkvision 60 ft., detect good, see in darkness; Perception +25
+DEFENSE
+AC 33, touch 13, flat-footed 28 (+5 Dex, +20 natural, –2 size)
+hp 200 (16d10+112); regeneration 5 (good, silver)
+Fort +14, Ref +15, Will +12
+DR 10/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 27
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +26 (2d6+11 plus grab), bite +25 (2d8+11 plus vorpal bite)
+Space 15 ft.; Reach 15 ft.
+Special Attacks feed
+Spell-Like Abilities (CL 16th)
+Constant—detect good
+At will—greater teleport (self plus 50 pounds of objects only), persistent image (DC 19), unholy aura (DC 22), wall of fire
+3/day—fireball (DC 17), lightning bolt (DC 17)
+1/day—summon (level 8, 2d10 lemures or 1d6 bearded devils 50%; or 1d6 barbed devils 35%; or 1 horned devil or ghaddar devil 20%)
+TACTICS
+A ghaddar assails its foes with a barrage of claw attacks. A grabbed opponent is bitten and, if slain, devoured. Ghaddar are not strategists, and unless directed by a commander or captain, they attack with little organization and finesse. The ferocity of the ghaddar is unparalleled in combat.
+STATISTICS
+Str 33, Dex 21, Con 24, Int 12, Wis 14, Cha 18
+Base Atk +16; CMB +29; CMD 44
+Feats Alertness, Cleave, Great Cleave, Great Fortitude, Improved Initiative, Power Attack, Vital Strike, Weapon Focus (claw)
+Skills Climb +30, Intimidate +23, Knowledge (planes) +20, Perception +25, Sense Motive +25, Stealth +16, Survival +21
+Languages Common, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Feed (Su) When a ghaddar slays a humanoid opponent, it can feed on the corpse, devouring both flesh and life force, as a full-round action. Feeding destroys the victim’s body and prevents any form of raising and resurrection that requires part of the corpse. There is a 50% chance that a wish, miracle, or true resurrection spell can restore a devoured victim to life. Check once for each destroyed creature. If the check fails, the creature cannot be brought back to life by mortal magic.
+A ghaddar advances in Hit Dice by consuming corpses in this fashion. For every three suitable corpses a ghaddar devours, it gains 1 Hit Die, and its Strength, Constitution, and natural armor increase by +1. Its attack bonus and saves improve as normal for an outsider of its Hit Dice, and it gains skill points, feats, and ability score improvements normally. The ghaddar only advances by consuming the corpses of creatures whose Hit Dice or levels are equal to or greater than its own current total.
+Vorpal Bite (Ex) If a ghaddar scores a natural 20 on its attack roll with its bite attack and confirms the critical hit, it severs the foe’s head.

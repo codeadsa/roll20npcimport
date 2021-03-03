@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/duppy
+Duppy CR 7
+CE Medium undead (incorporeal)
+Init +10; Senses darkvision 60 ft.; Perception +14; Aura unnatural aura (30 ft.)
+DEFENSE
+AC 20, touch 20, flat-footed 14 (+4 deflection, +6 Dex)
+hp 76 (9d8+36)
+Fort +7, Ref +11, Will +8
+Defensive Abilities channel resistance +2, incorporeal;
+Immune undead traits
+Weaknesses resurrection vulnerability, sunlight powerlessness
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee incorporeal touch +12 (2d8 negative energy plus 1d6 Strength drain)
+Special Attacks ravenous hounds, strength drain
+STATISTICS
+Str —, Dex 22, Con —, Int 13, Wis 15, Cha 19
+Base Atk +6; CMB +12; CMD 26
+Feats Flyby Attack, Improved Initiative, Lightning Reflexes, Lunge, Step Up
+Skills Fly +26, Intimidate +16, Perception +14, Sense Motive +14, Stealth +18
+Languages Common
+SPECIAL ABILITIES
+Ravenous Hounds (Sp) Once per day as a standard action, a duppy can bring into being a pack of incorporeal hounds for 1d4+3 rounds. The ravenous hounds attack as a single unit, have a +11 attack bonus, deal 2d6+3 points of force damage on a successful hit, and threaten a critical hit on a natural 20.
+This ability is otherwise identical to mage’s sword (CL 7th).
+Resurrection Vulnerability (Su) Raise dead or a similar spell cast on a duppy destroys it (Will negates). Using the spell in this way does not require a material component.
+Strength Drain (Su) Creatures hit by a duppy’s touch attack must succeed at a DC 18 Fortitude save or take 1d6 points of Strength drain. If the target fails its save, the duppy also gains 5 temporary hit points. The save DC is Charisma-based.

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/belostomatid
+Belostomatid CR 3
+XP 800
+N Large vermin
+Init +1; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +0; Aura stench (DC 15, 3 rounds)
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 30 (4d8+12)
+Fort +7, Ref +2, Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., fly 20 ft. (poor), swim 40 ft.
+Melee* 2 claws +6 (1d4+3 plus grab), bite +6 (1d8+4 plus digestive enzymes)
+Space 10 ft.; Reach 10 ft.
+Special Attacks digestive enzymes
+STATISTICS
+Str 19, Dex 13, Con 16, Int —, Wis 11, Cha 2
+Base Atk +3; CMB +8 (+12 grapple); CMD 19 (27 vs. trip)
+Skills* Fly +1, Stealth +0 (+8 in water), Swim +14; Racial Modifiers +8 on Stealth in water
+SQ hold breath
+SPECIAL ABILITIES
+Digestive Enzymes (Ex) A belostomatid injects a corrosive enzyme into its prey that both paralyzes and liquefies flesh. A creature struck by the belostomatid’s piercing bite must succeed at a DC 15 Fortitude save or be paralyzed for 1d4 rounds. For every round the creature is paralyzed it takes 1d2 points of Constitution damage.
+Hold Breath (Ex) A belostomatid can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning.

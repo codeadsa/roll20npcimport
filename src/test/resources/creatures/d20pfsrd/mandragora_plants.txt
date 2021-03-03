@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/mandragora
+Mandragora CR 4
+XP 1,200
+CE Small plant
+Init +4; Senses low-light vision; Perception +9
+DEFENSE
+AC 17, touch 15, flat-footed 13 (+4 Dex, +2 natural, +1 size)
+hp 37 (5d8+15)
+Fort +7, Ref +7, Will +2
+Immune plant traits; Resist acid 5, cold 5, electricity 10
+Weaknesses vulnerable to supernatural darkness
+OFFENSE
+Speed 40 ft., burrow 10 ft., climb 40 ft.
+Melee bite +8 (1d6+2 plus grab), 2 slam +8 (1d4+2 plus poison)
+Space 5 ft.; Reach 5 ft. (10 ft. with slam)
+Special Attacks blood drain (1d2 Constitution), shriek
+STATISTICS
+Str 15, Dex 18, Con 17, Int 8, Wis 13, Cha 10
+Base Atk +3; CMB +4 (+8 grapple); CMD 18
+Feats Lightning Reflexes, Skill Focus (Perception), Weapon Finesse
+Skills Climb +10, Perception +9, Stealth +14 (+22 in vegetation); Racial Modifiers +8 Climb, +8 Stealth in vegetation
+Languages Abyssal, Common
+SPECIAL ABILITIES
+Poison (Ex) Slam—injury; save Fort DC 15; frequency 1/round for 4 rounds; effect confusion and fatigue; cure no saves but “act normally” result on the confusion behavior table ends the effect.
+Shriek (Su) Once per day as a standard action, a mandragora can give voice to an unsettling shriek. All creatures within a 30-foot spread of a shrieking mandragora must make a DC 15 Will save or become nauseated for 1d4 rounds. This is a sonic, mind-affecting ability. The save DC is Constitution-based.
+Vulnerable to Supernatural Darkness (Ex) In areas of supernatural darkness (such as those created by deeper darkness, but not by darkness), a mandragora is slowed, as the slow spell.

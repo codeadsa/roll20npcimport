@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-quantium
+Quantium Golem CR 20
+XP 307,200
+N Gargantuan construct
+Init –2; Senses darkvision 60 ft., link, low-light vision; Perception +0
+DEFENSE
+AC 37, touch 4, flat-footed 37 (–2 Dex, +33 natural, –4 size)
+hp 375 (30d10+210)
+Fort +10, Ref +8, Will +10
+DR 20/adamantine and bludgeoning; Immune construct traits, magic
+OFFENSE
+Speed 20 ft.
+Melee +5 bastard sword +46/+41/+36/+31 (4d8+20/19–20)
+Space 20 ft.; Reach 20 ft.
+Special Attacks eldritch surge
+STATISTICS
+Str 40, Dex 7, Con –, Int –, Wis 11, Cha 1
+Base Atk +30; CMB +49; CMD 57
+Feats Whirlwind AttackB
+SQ urban defender
+SPECIAL ABILITIES
+Eldritch Surge (Su) A Quantium golem can hurl a lance of eldritch energy that deals 30d6 points of damage to all creatures in a 240-foot line (Reflex DC 25 for half ).
+The crimson Quantium golem deals half electricity and half fire damage, and slows a creature (as the slow spell) that fails its save for 2d4 rounds.
+The green Quantium golem deals half acid and half fire damage, and nauseates any creature that fails its save for 1d4 rounds. The save DC is Constitution-based.
+Immunity to Magic (Ex) A Quantium golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted.
+A magical attack that deals cold damage against the crimson golem or electricity damage against the green golem slows it (as the slow spell) for 1 round, with no saving throw. A Quantium golem and its equipment are immune to rust attacks. Link (Su) Each Quantium golem always knows the exact location of the other.
+Urban Defender (Su) A Quantium golem gains 150 bonus hit points as long as it’s within 1 mile of the city. If it moves beyond this range, it loses these bonus hit points.
+Quantium Golem Construction
+The secret of quantium golems’ construction vanished with their creator.

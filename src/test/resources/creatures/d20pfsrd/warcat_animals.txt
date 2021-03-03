@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/warcat
+Warcat CR 13
+XP 25,600
+N Huge animal
+Init +4; Senses low-light vision, scent; Perception +7
+DEFENSE
+AC 28, touch 12, flat-footed 24 (+4 Dex, +16 natural, –2 size)
+hp 184 (16d8+112)
+Fort +17, Ref +14, Will +7
+OFFENSE
+Speed 50 ft., climb 20 ft.
+Melee bite +22 (2d6+12 plus grab), 2 claw +22 (1d8+12/19–20 plus rend)
+Space 15 ft.; Reach 15 ft.
+Special Attacks pounce, rend (2 claws, 1d8+18), trample (2d8, DC 30)
+STATISTICS
+Str 35, Dex 18, Con 24, Int 2, Wis 11, Cha 5
+Base Atk +12; CMB +26; CMD 40
+Feats Acrobatic, Cleave, Diehard, Endurance, Improved Critical (claw), Iron Will, Power Attack, Run
+Skills Acrobatics +11, Climb +25, Perception +7, Stealth +3, Swim +19

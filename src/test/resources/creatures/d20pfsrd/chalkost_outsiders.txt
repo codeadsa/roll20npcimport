@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/chalkost
+Chalkost CR 4
+XP 1,200
+LG Medium outsider (extraplanar, good, lawful, shapechanger)
+Init +0; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 16, touch 10, flat-footed 16 (+6 natural)
+hp 42 (5d10+15)
+Fort +7, Ref +1, Will +7; +2 vs. poison, spells, and spell–like abilities
+DR 5/chaotic; Resist electricity 10, fire 10; SR 15
+OFFENSE
+Speed 20 ft.
+Melee mwk cestus +9 (1d4+3/19–20 plus 1d6 electricity)
+Special Attacks breath weapon (5-ft. cone, 2d6 electricity, Reflex DC 15 for half, usable every 1d4 rounds)
+Spell-Like Abilities (CL 5th; concentration +4)
+At will—guidance, light, mending, resistance
+3/day—cure light wounds, magic weapon
+1/day—bear’s endurance, crafter’s fortune, status
+STATISTICS
+Str 17, Dex 10, Con 17, Int 10, Wis 13, Cha 8
+Base Atk +5; CMB +8; CMD 18
+Feats Cleave, Iron Will, Power Attack
+Skills Craft (any one) +8, Disable Device +8, Knowledge (dungeoneering) +8, Knowledge (engineering) +8, Knowledge (religion) +8, Perception +9
+Languages Celestial, Dwarven, Goblin, Orc
+SQ change shape (boar; beast shape I), copper boar form, dwarf blood, shock cestus
+SPECIAL ABILITIES
+Copper Boar Form (Su) When a chalkost uses its change shape ability, it can turn into a boar with metallic flesh, coppery bristles, and glistening steel tusks. In this form, a chalkost retains its damage reduction and energy resistances. The copper boar has the same statistics as a normal boar, but its natural armor bonus is +6 and its gore attack deals an extra 1d6 points of electricity damage on a successful hit.
+Dwarf Blood (Ex) A chalkost counts as a dwarf for any effect related to race, and has the hardy, slow and steady, and stability dwarven racial traits.
+Shock Cestus (Su) As a free action, a chalkost can summon or dismiss a masterwork cestus on one of its hands. While wielded by the chalkost, the cestus deals an extra 1d6 points of electricity damage on a successful hit. If the cestus is given away or taken, the chalkost loses this ability until it reclaims its weapon.

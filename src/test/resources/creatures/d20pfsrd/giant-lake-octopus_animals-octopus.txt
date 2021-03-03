@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/octopus/giant-lake-octopus
+Giant Lake Octopus CR 10
+XP 9,600
+Advanced giant octopus
+N Huge animal (aquatic)
+Init +6; Senses low-light vision; Perception +9
+DEFENSE
+AC 22, touch 10, flat-footed 20 (+2 Dex, +12 natural, –2 size)
+hp 142 (15d8+75)
+Fort +14, Ref +13, Will +8
+Defensive Abilities ink cloud (30-ft.-radius sphere)
+OFFENSE
+Speed 20 ft., swim 30 ft., jet 200 ft.
+Melee bite +18 (2d6+9/19–20 plus poison), 8 tentacles +16 (1d6+4 plus grab)
+Space 15 ft.; Reach 15 ft. (30 ft. with tentacle)
+TACTICS
+During Combat The octopus stays in the water, attacking enemies on shore with its tentacles. It tries to grab as many victims as it can and then pull them into the water to bite and poison before it feeds on them.
+Morale The octopus flees back into the waters of the lake when reduced to 50 hit points or fewer.
+STATISTICS
+Str 28, Dex 15, Con 21, Int 2, Wis 12, Cha 3
+Base Atk +11; CMB +22 (+26 grapple); CMD 34 (can’t be tripped)
+Feats Combat Reflexes, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, MultiattackB, Power Attack, Skill Focus (Stealth), Stealthy
+Skills Escape Artist +19, Perception +9, Stealth +15, Swim +17; Racial Modifiers +10 Escape Artist, +8 Stealth
+SPECIAL ABILITIES
+Ink Cloud (Ex) A giant lake octopus can emit a 10-foot-radius sphere of ink once per minute as a free action. The ink provides total concealment in water, and persists for 1 minute.
+Jet (Ex) A giant lake octopus can jet backward once per round as a full-round action, at a speed of 200 feet. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so.
+Poison (Ex) Bite—injury; save Fort DC 22; frequency 1/round for 6 rounds; effect 1d3 Str; cure 2 consecutive saves.

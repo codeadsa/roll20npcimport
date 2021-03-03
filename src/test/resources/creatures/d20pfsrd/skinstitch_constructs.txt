@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/skinstitch
+Skinstitch CR 5
+XP 1,600
+N Large construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 16, touch 9, flat-footed 16 (+7 natural, –1 size)
+hp 52 (4d10+30)
+Fort +1, Ref +1, Will +1
+DR 5/slashing; Immune construct traits; Resist cold 10, electricity 10
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft.
+Melee longsword +7 (2d6+4/19–20), slam +2 (2d6+4)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 19, Dex 10, Con —, Int —, Wis 11, Cha 1
+Base Atk +4; CMB +9; CMD 19
+SQ nest, repair
+SPECIAL ABILITIES
+Nest (Su) A skinstitch’s body is a haven for a swarm of snakes, spiders, and wasps. Any swarm that shares a space with a skinstitch gains fast healing equal to the swarm’s Hit Dice.
+Repair (Ex) A skinstitch can repair itself by sewing additional fabric, leather, or hide to its body. Doing so requires at least 1 square foot of material and a full-round action, which restores 1 hit point to the skinstitch. A skinstitch is a crude construct made of cloth, leather, hides, and skins sewn together into a roughly ogre-like shape and stuffed with hay. Skinstitches are usually created by a spellcaster lacking the power, talent, or gold to craft a flesh golem. A skinstitch’s stuffing juts out of gaps in the sewing and the mouths and eye-holes of its component faces, giving it a horrifying, ragged look. Swarms of vermin and other creatures often find refuge within the straw, and the magic of this construct grants swarms nesting within its body amazing regenerative powers. Despite its appearance, a skinstitch is strong, tough, and agile, though its components make it susceptible to fire.

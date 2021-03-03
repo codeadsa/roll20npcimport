@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-giant-water
+GIANT WATER BEETLE CR 3
+XP 800
+N Medium vermin (aquatic)
+Init +0; Senses darkvision 60 ft., watersense 60 ft.; Perception +0
+DEFENSE
+AC 16, touch 16, flat-footed 11 (+0 Dex, +5 natural, +1 size)
+hp 30 (4d8+12)
+Fort +4; Ref +0; Will +0
+Defensive Abilities ink cloud; Immune mind-affecting effects; Weaknesses water dependent
+OFFENSE
+Speed 10 ft., swim 60 ft.
+Melee bite +5 (1d8+3)
+STATISTICS
+Str 15, Dex 13, Con 16, Int —, Wis 10, Cha 9
+Base Atk +3; CMB +5; CMD 16 (24 vs. trip)
+Skills Perception +0 (+4 underwater); Stealth +1 (+5 underwater); Swim +10; Racial Modifiers +4 Perception and Stealth underwater
+SPECIAL ABILITIES
+Ink Cloud (Ex) Once per minute as a swift action, a giant water beetle can emit a cloud of jet-black ink that fills a 10-foot cube. The cloud provides total concealment, which the giant water beetle normally uses to escape. All vision within the cloud is obscured.
+Water Dependent (Ex) Giant water beetles can survive out of the water for 1 hour per 2 points of Constitution. After that, they begin to suffocate.
+Watersense (Ex) A giant water beetle’s watersense ability functions exactly like blindsense, except it only functions underwater.

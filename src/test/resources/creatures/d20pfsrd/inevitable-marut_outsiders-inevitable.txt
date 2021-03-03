@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/inevitable/inevitable-marut
+Marut CR 15
+XP 51,200
+LN Large outsider (extraplanar, inevitable, lawful)
+Init +3; Senses darkvision 60 ft., low-light vision, true seeing; Perception +26
+DEFENSE
+AC 30, touch 13, flat-footed 26 (+3 Dex, +1 dodge, +17 natural, –1 size)
+hp 214 (16d10+126); regeneration 10 (chaotic)
+Fort +16, Ref +8, Will +13
+Defensive Abilities constructed; DR 15/chaotic; SR 26
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +27 (2d6+12 plus 3d6 electricity or sonic and blindness or deafness)
+Space 10 ft.; Reach 10 ft.
+Special Attacks fists of lightning and thunder
+Spell-Like Abilities (CL 16th; concentration +23)
+Constant—air walk, true seeing
+At will—dimension door, fear (DC 21), greater command (DC 22), greater dispel magic, mass inflict light wounds (DC 22), locate creature
+1/day—chain lightning (DC 23), circle of death (DC 23), mark of justice, wall of force
+1/week—earthquake (DC 25), geas/quest, plane shift (DC 22)
+STATISTICS
+Str 35, Dex 16, Con 23, Int 12, Wis 17, Cha 24
+Base Atk +16; CMB +29; CMD 43
+Feats Ability Focus (fists of lightning and thunder), Awesome Blow, Combat Casting, Dodge, Improved Bull Rush, Improved Vital Strike, Power Attack, Vital Strike
+Skills Diplomacy +26, Intimidate +26, Knowledge (planes) +20, Knowledge (religion) +20, Perception +26, Sense Motive +22, Survival +22; Racial modifiers +4 Perception
+Languages truespeech
+SPECIAL ABILITIES
+Fists of Lightning and Thunder (Su)
+A marut’s fists strike with the power of a thunderstorm. For any given slam attack, a marut can choose whether that attack uses lightning or thunder. A lightning attack deals an additional 3d6 points of electricity damage, and the resulting flash blinds the target for 2d6 rounds (Fortitude DC 26 negates the blindness). A thunder attack deals an additional 3d6 points of sonic damage, and the resulting thunderclap deafens the target for 2d6 rounds (Fortitude DC 26 negates the deafness). The save DCs are Constitution-based.

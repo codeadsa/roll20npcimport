@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/fleshwarped/fleshwarp-irnakurse
+Irnakurse CR 9
+XP 6,400
+CE Large aberration
+Init +7; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 23, touch 12, flat-footed 20 (+3 Dex, +11 natural, –1 size)
+hp 105 (10d8+60)
+Fort +9, Ref +8, Will +9
+OFFENSE
+Speed 10 ft.
+Melee bite +8 14 (1d8+7), 4 tentacles +8 (1d6+3 plus mind lash)
+Space 10 ft.; Reach 10 ft. (15 ft. with tentacles)
+Special Attacks soul scream, rend (2 tentacles 2d6+10; 3 tentacles 3d6+10; 4 tentacles 4d6+10)
+STATISTICS
+Str 24, Dex 17, Con 23, Int 8, Wis 14, Cha 18
+Base Atk +7; CMB +15; CMD 28 (32 vs. trip)
+Feats Combat Reflexes, Deflect Arrows, Improved Initiative, Lightning Reflexes, Weapon Focus (tentacle)
+Skills Climb +20, Perception +15, Stealth +12
+Languages Elven (can’t speak)
+SPECIAL ABILITIES
+Mind Lash (Su) Those struck by an irnakurse are overwhelmed with dark emotions and corrupted images of a ruined life. Any non-evil creature hit by an irnakurse’s tentacle must succeed at a DC 19 Will save or be stunned for 1 round. A creature that successfully saves can’t be affected by the same irnakurse’s mind lash for 24 hours. The save DC is Charisma-based.
+Soul Scream (Su) Capable of channeling all of its rage and terror into a single, unnatural noise, an irnakurse can unleash a sound of alien horror as a standard action. Any non-evil creature within 30 feet of a screaming irnakurse must succeed at a DC 19 Will save or take 1d4 points of Wisdom drain. Once it begins screaming, an irnakurse can continue as a free action for 6 rounds, but can’t scream again for 5 minutes afterward. The save DC is Charisma-based.

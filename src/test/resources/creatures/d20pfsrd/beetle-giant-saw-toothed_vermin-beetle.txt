@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-giant-saw-toothed
+GIANT SAW-TOOTHED BEETLE CR 3
+XP 800
+N Medium vermin
+Init +0; Senses darkvision 60 ft., scent; Perception +0
+DEFENSE
+AC 18, touch 10, flat-footed 18 (+8 natural)
+hp 32 (5d8+10)
+Fort +6; Ref +1; Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft.
+Melee bite +5 (2d6+3 plus grab)
+STATISTICS
+Str 15, Dex 11, Con 14, Int —, Wis 10, Cha 6
+Base Atk +3; CMB +5 (+9 grapple); CMD 15 (23 vs. trip)
+
+
+

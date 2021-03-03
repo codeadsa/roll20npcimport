@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/tick-swarm
+Tick Swarm CR 9
+XP 6,400
+N Fine vermin (swarm)
+Init +2; Senses darkvision 60 ft., scent; Perception +0
+DEFENSE
+AC 23, touch 20, flat-footed 21 (+2 Dex, +3 natural, +8 size)
+hp 120 (16d8+48)
+Fort +13, Ref +7, Will +5
+Defensive Abilities swarm traits
+Immune mind-affecting effects, weapon damage
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee swarm (4d6 plus disease, distraction, and blood drain)
+Special Attacks blood drain (1d4 Con), cling, distraction (DC 21)
+STATISTICS
+Str 1, Dex 14, Con 16, Int —, Wis 11, Cha 1
+Base Atk +12; CMB —; CMD —
+Skills Climb +10; Racial Modifiers +8 Climb, uses Dex on Climb checks
+SPECIAL ABILITIES
+Cling (Ex) If a creature leaves a tick swarm’s square, the swarm takes 1d6 points of damage to reflect the loss of its numbers as several ticks cling to the victim. A creature with ticks clinging to it takes swarm damage at the end of its turn each round. As a full round action, the creature can remove the ticks with a DC 20 Reflex save. At least 10 points of damage from any area effect destroys all clinging ticks. The save DC is Dexterity-based.
+Disease (Ex) Bubonic Plague: Bite—injury; save Fort DC 21; onset 1 day; frequency 1/day; effect 1d4 Con damage, 1 Cha damage, fatigue; cure 2 consecutive saves.
+The DC is Con-based.

@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/boar/dire-boar
+Boar, Dire (Daeodon) CR 4
+XP 1,200
+N Large animal
+Init +4; Senses low-light vision, scent; Perception +12
+DEFENSE
+AC 15, touch 9, flat-footed 15 (+6 natural, –1 size)
+hp 42 (5d8+20)
+Fort +7, Ref +4, Will +2
+Defensive Abilities ferocity
+OFFENSE
+Speed 40 ft.
+Melee gore +8 melee (2d6+9)
+STATISTICS
+Str 23, Dex 10, Con 17, Int 2, Wis 13, Cha 8
+Base Atk +3; CMB +10; CMD 20
+Feats Improved Initiative, Skill Focus (Perception), Toughness
+Skills Perception +12

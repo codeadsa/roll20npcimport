@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-nuglub
+Gremlin, Nuglub CR 2
+XP 600
+CE Small fey
+Init +4; Senses darkvision 120 ft., low-light vision; Perception +9
+DEFENSE
+AC 18, touch 15, flat-footed 14 (+4 Dex, +3 natural, +1 size)
+hp 19 (3d6+9)
+Fort +3, Ref +7, Will +2
+DR 5/cold iron; SR 13
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee bite +3 (1d4+1 plus grab), 2 claws +4 (1d3+1 plus trip)
+Spell-Like Abilities (CL 3rd; concentration +4)
+At will—prestidigitation
+1/hour—heat metal (DC 13), shocking grasp, snare
+STATISTICS
+Str 13, Dex 18, Con 15, Int 8, Wis 9, Cha 12
+Base Atk +1; CMB +1 (+5 grapple and trip); CMD 15
+Feats Step Up, ToughnessB, Weapon Focus (claw)
+Skills Acrobatics +10, Climb +9, Craft (traps) +9, Intimidate +8, Perception +9, Stealth +14; Racial Modifiers +4 Craft (traps), +4 Intimidate, +4 Perception
+Languages Undercommon
+SQ kneecapper
+SPECIAL ABILITIES
+Kneecapper (Ex)
+A nuglub has a +4 racial bonus on combat maneuver checks to trip an opponent.
+
+
+3rd Party Publisher Options ( NwP)
+
+When captured by a monster trainer, nuglubs grant the trainer access to gremlin foulspawn spells.
+

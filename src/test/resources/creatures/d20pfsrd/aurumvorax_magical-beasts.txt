@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/aurumvorax
+Aurumvorax CR 9
+XP 6,400
+N Small magical beast
+Init +8; Senses darkvision 60 ft., low-light vision, scent; Perception +13
+DEFENSE
+AC 23, touch 15, flat-footed 19 (+4 Dex, +8 natural, +1 size)
+hp 114 (12d10+48)
+Fort +14, Ref +12, Will +7
+Defensive Abilities ferocity; DR 10/piercing or slashing; Immune poison; Resist fire 10
+OFFENSE
+Speed 30 ft., burrow 10 ft.
+Melee bite +18 (1d6+5 plus grab), 4 claws +18 (1d4+5 plus grab)
+Special Attacks rake (4 claws +18, 1d4+5)
+STATISTICS
+Str 21, Dex 18, Con 18, Int 2, Wis 13, Cha 11
+Base Atk +12; CMB +16 (+24 grapple); CMD 30 (42 vs. trip)
+Feats Bleeding Critical, Critical Focus, Great Fortitude, Improved Initiative, Iron Will, Skill Focus (Perception)
+Skills Perception +13, Stealth +17
+SPECIAL ABILITIES
+Grab (Ex) An aurumvorax can grab a foe of up to one size category larger than itself (Medium size for most aurumvoraxes). It gains a +8 racial bonus on grapple attempts rather than the normal +4 racial bonus afforded by the grab ability.

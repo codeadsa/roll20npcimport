@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/hydrus
+Hydrus CR 1/2
+XP 200
+N Tiny animal
+Init +5; Senses low-light vision; Perception +6
+DEFENSE
+AC 18, touch 17, flat-footed 13 (+5 Dex, +1 natural, +2 size)
+hp 4 (1d8)
+Fort +2, Ref +7, Will +2
+Defensive Abilities acid resistance 2
+OFFENSE
+Speed 20 ft., climb 10 ft., swim 40 ft.
+Melee bite +7 (1d4-2 plus invasion)
+Ranged spittle +7 (poison)
+Space 2 1/2 ft.; Reach 0 ft.
+Special Attacks burst, invasion, poison
+STATISTICS
+Str 6, Dex 21, Con 10, Int 2, Wis 14, Cha 5
+Base Atk +0; CMB +3 (+7 invasion); CMD 13
+Feats Improved InvasionB, Weapon Finesse
+Skills Perception +6; Racial Modifiers uses Dexterity for Climb and Swim
+SPECIAL ABILITIES
+Burst (Ex) A hydrus that has successfully invaded a creature will attempt to eat its way out, using its bite as a Tiny piercing weapon. It attacks from the inside each round (opponent’s Armor Class is equal to 10 + 1/2 the creature’s natural armor). It eats its way free after dealing 1/10 of the creature’s total hit points. Victims of a hydrus burst take an additional 1d6 bleed each round until they receive a DC 15 Heal check or any amount of magical healing.
+Invasive (Ex) A hydrus feeds by crawling inside a creature’s mouth and eating it from the inside. When a hydrus successfully hits an opponent, it may make an invasion combat maneuver as a free action that does not provoke an attack of opportunity. It adds its size modifier to combat maneuver checks as a bonus rather than a penalty. Once it crawls in the creature’s mouth and down its throat, the hydrus gains the grappled condition. Once inside, the hydrus will try to eat its way out (see Burst). A hydrus can only invade creatures that are at least one size category larger than itself.
+Poison (Ex) Spittle—contact; save Fort DC 11; frequency 1/round for 3 rounds; effect paralysis; cure 1 save. The poison spittle of a hydrus has a 10 ft. range increment and is otherwise considered a thrown weapon.

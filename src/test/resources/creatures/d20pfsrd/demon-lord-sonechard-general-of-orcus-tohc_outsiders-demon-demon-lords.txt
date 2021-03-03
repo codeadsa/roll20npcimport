@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-sonechard-general-of-orcus-tohc
+Sonechard (General of Orcus) CR 21
+XP 409,600
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +10; Senses darkvision 60 ft.; Perception +41; Aura unholy aura (DC 27), stench (20 ft., DC 32, nauseated, 10 rounds)
+DEFENSE
+AC 46, touch 24, flat-footed 40 (+6 Dex, +22 natural, –1 size, +9 profane)
+hp 385 (22d10+264)
+Fort +25, Ref +13, Will +21
+DR 20/cold iron and good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 32
+OFFENSE
+Speed 40 ft., fly 80 ft. (good)
+Melee +4 unholy wounding heavy pick +39/+34/+29/+24 (1d8+17/19–20/x4 plus 1 bleed) or 2 claws +34 (1d8+13)
+Space 10 ft.; Reach 10 ft.
+Special Attacks control undead, undead master
+Spell-Like Abilities (CL 20th)
+Constant—unholy aura (DC 27)
+At will—animate dead, blasphemy (DC 26), create undead, death knell (DC 21), detect magic, detect good, desecrate, greater dispel magic, greater teleport (self plus 50 pounds of objects only), power word stun, suggestion (DC 22), telekinesis (DC 24), tongues (self only), unhallow, unholy blight (DC 23), wall of fire
+3/day—create greater undead, fireball (DC 22)
+1/day—circle of death (DC 25), destruction (DC 26), summon (level 9, 4d10 dretches, 1d4 hezrous, or 1 nalfeshnee, 1 glabrezu, 1 marilith, or 1 balor 100%), summon (level 9, 4d10 zombies or skeletons, 2d8 shadows, wights, or wraiths, 2d4 greater shadows or spectres, or 1d4 dread wraiths 100%)
+STATISTICS
+Str 37, Dex 23, Con 34, Int 26, Wis 26, Cha 28
+Base Atk +22; CMB +36; CMD 61
+Feats Bleeding Critical, Cleave, Combat Expertise, Critical Focus, Deceitful, Great Cleave, Improved Critical (heavy pick), Improved Initiative, Improved Sunder, Power Attack, Weapon Focus (heavy pick)
+Skills Acrobatics +17, Bluff +38, Diplomacy +34, Disguise +35, Escape Artist +28, Fly +22, Intimidate +34, Knowledge (arcana) +30, Knowledge (history) +30, Knowledge (nobility) +33, Knowledge (planes) +33, Perception +41, Sense Motive +33, Stealth +27, Survival +33; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common, Draconic, Giant, Goblin, Ignan, Infernal, Terran; telepathy 100 ft.
+Gear Fool’s Errand
+SPECIAL ABILITIES
+Control Undead (Su) This ability functions as the spell of the same name (CL 20th), except that Sonechard maintains control for 200 minutes. Sonechard can take control of undead creatures controlled by another creature whose caster level is 19 or less by making a successful opposed Charisma check against the opponent’s Charisma check.
+Undead Master (Ex) This ability allows Sonechard to create a maximum of 50 HD of undead with a single use of animate dead. If used in conjunction with desecrate, he can create 100 HD of undead with a single use.
+Gear Unique Item: Fool’s Errand: Sonechard’s unique weapon is a +4 unholy wounding heavy pick.

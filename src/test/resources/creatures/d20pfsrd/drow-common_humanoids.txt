@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/drow-common
+Common Drow CR 1/3
+XP 135
+Drow warrior 1
+CE Medium humanoid (elf)
+Init +2; Senses darkvision 120 ft.; Perception +2
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 armor, +2 Dex, +1 shield)
+hp 5 (1d10)
+Fort +2, Ref +2, Will –1; +2 vs. enchantment
+Immune sleep; SR 7
+Weaknesses light blindness
+OFFENSE
+Speed 30 ft.
+Melee rapier +3 (1d6/18–20)
+Ranged hand crossbow +3 (1d4/19–20 plus poison)
+Spell-Like Abilities (CL 1st)
+1/day—dancing lights, darkness, faerie fire
+STATISTICS
+Str 11, Dex 15, Con 10, Int 10, Wis 9, Cha 10
+Base Atk +1; CMB +1; CMD 13
+Feats Weapon Finesse
+Skills Perception +2, Stealth +2; Racial Modifiers +2 Perception
+Languages Elven, Undercommon
+SQ poison use
+SPECIAL ABILITIES
+Poison Use (Ex) Drow are skilled in the use of poison and never risk accidentally poisoning themselves. Drow favor an insidious toxin that causes its victims to lapse into unconsciousness—this poison allows drow to capture slaves with great ease.
+Drow Poison—injury; save Fort DC 13; frequency 1/minute for 2 minutes; initial effect unconsciousness for 1 minute; secondary effect unconsciousness for 2d4 hours; cure 1 save.

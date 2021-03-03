@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/haunt
+Haunt CR 4
+XP 1,200
+N Medium undead (incorporeal)
+Init +6; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 15, touch 15, flat-footed 12 (+2 deflection, +2 Dex, +1 dodge)
+hp 32 (5d8+10)
+Fort +3; Ref +3; Will +6
+Defensive Abilities rejuvenation; Immune channel energy, undead traits
+Weakness vulnerability to dispel evil/good/law/chaos
+OFFENSE
+Speed 20 ft., fly 30 ft. (perfect)
+Melee incorporeal touch +5 (1d4 cold plus 1d3 Dex)
+Special Attacks Dexterity damage, malevolence (DC 14), strangle
+STATISTICS
+Str —, Dex 15, Con —, Int 10, Wis 14, Cha 14
+Base Atk +3; CMB +3; CMD 18
+Feats Blind-Fight, Dodge, Improved Initiative
+Skills Fly +9, Intimidate +10, Perception +10, Stealth +10
+Languages Common
+SQ alternate form
+SPECIAL ABILITIES
+Alternate Form (Su) A haunt’s natural form is that of a translucent image appearing much as the person did in life. As a standard action, it can alter its form so as to appear as a floating, luminescent ball of light (possibly being mistaken for a will-o’-wisp in this form). In this form, it cannot use its Dexterity damage attack or its malevolence attack. It retains its incorporeal form and can make an incorporeal touch attack that deals normal damage (but not Dexdamage).
+A haunt remains in one form or the other until it chooses to assume a new one (as a standard action). A change in form cannot be dispelled. A haunt cannot change forms while using its malevolence attack (that is, while possessing a host).
+Malevolence (Su) Once per round, a haunt can merge its body with a creature on the Material Plane whose Dexterity has been reduced to 0 (either through the haunt’s touch or by some other means). This ability is similar to a magic jar spell (caster level 10th or the haunt’s Hit Dice, whichever is higher), except that it does not require a receptacle. To use this ability, the haunt must be adjacent to the target. The target can resist the attack with a successful DC 14 Will save. A creature that successfully saves is immune to that same haunt’s malevolence for 24 hours.
+If the save fails, the haunt vanishes into the target’s body (whose Dexterity temporarily returns to normal) and attempts to complete its unfinished task.
+If the haunt completes its task, it leaves the host and fades away forever. When the haunt leaves the host, the host’s Dexterity drops back to 0. If the host body is slain while the haunt is in possession of it, the creature becomes tied to that area and can never leave. Its unfinished task remains the same.
+Rejuvenation (Su) In most cases, it’s difficult to destroy a haunt through simple combat: the “destroyed” spirit restores itself in 1d4 days. Even the most powerful spells are usually only temporary solutions. The only way to permanently destroy a haunt is to use dispel evil/good/law/chaos (depending on the haunt’s alignment) or determine the reason for its existence and set right whatever prevents it from resting in peace. The exact means varies with each spirit and may require a good deal of research, and should be created specifically for each different ghost by the GM.
+Strangle (Su) If a creature possessed by a haunt has an alignment opposite to that of the haunt on either the law/chaos or good/evil axis, it attempts to strangle the host using its own hands (i.e., the hands of the host body). Unless precautions are taken to restrain the possessed victim’s hands, they immediately reach for the throat and begin strangling the haunt-possessed body. An opponent takes 1d4 points of damage each round until its hands are forcibly restrained with a successful CMB check, the haunt is ejected from the body, or the victim dies.
+Vulnerability (Ex) A haunt can be forcibly ejected from a host if hold person is cast on the victim and the haunt fails its Will save. A dispel evil/good/law/chaos spell (depending on the haunt’s alignment) instantly ejects the creature from the host and deals 1d6 points of damage per caster level to the haunt. A haunt slain in such a manner cannot rejuvenate and is permanently destroyed.

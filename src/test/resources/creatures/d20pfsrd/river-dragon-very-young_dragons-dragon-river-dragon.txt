@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/river-dragon/river-dragon-very-young
+Very Young River Dragon CR 5
+XP 1,600
+CN Small dragon (aquatic, fire)
+Init +6; Senses dragon senses; watersight; Perception +11
+DEFENSE
+AC 20, touch 13, flat-footed 18 (+2 Dex, +7 natural, +1 size)
+hp 51 (6d12+12)
+Fort +7, Ref +7, Will +7
+Immune fire, dragon traits
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft., swim 60 ft.
+Melee bite +9 (1d6+3)
+Space 5 ft.; Reach 5 ft. (10 ft with bite)
+Special Attacks breath weapon (40-ft. line, DC 15, 4d6 fire)
+STATISTICS
+Str 15, Dex 15, Con 14, Int 11, Wis 14, Cha 12
+Base Atk +6; CMB +7; CMD 19 (can’t be tripped)
+Feats Athletic, Improved Initiative, Power Attack
+Skills Knowledge (Nature) +9, Perception +11, Spellcraft +9, Stealth +15, Survival +11, Swim +21; Racial Modifiers +8 Swim
+Languages Draconic
+SQ air breathing
+SPECIAL ABILITIES
+Air Breathing (Ex) The river dragon can breathe air just as naturally as water. This dragon can freely use its breath weapon, spells and other abilities in both air and water.
+Watersight (Ex) This river dragon can see underwater four times better than a human.
+

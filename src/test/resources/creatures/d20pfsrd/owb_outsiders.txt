@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/owb
+Owb CR 6
+XP 2,400
+NE Medium outsider (extraplanar)
+Init +10; Senses darkvision 60 ft., see in darkness; Perception +13
+DEFENSE
+AC 17, touch 17, flat-footed 10 (+6 Dex, +1 dodge)
+hp 76 (8d10+32); fast healing 2
+Fort +10, Ref +8, Will +8
+Immune cold
+Weaknesses light sensitivity
+OFFENSE
+Speed 5 ft., fly 60 ft. (perfect)
+Melee 2 claws +12 (1d8+4 plus 1d6 cold)
+Ranged burning cold +14 touch (3d6 cold)
+Special Attacks burning cold, curse of darkness
+Spell-Like Abilities (CL 8th; concentration +11)
+Constant—blur
+At will—deeper darkness, detect thoughts, dust of twilight (DC 15)
+5/day—shadow step
+1/day—plane shift (self only, to or from the Shadow Plane only)
+STATISTICS
+Str 18, Dex 22, Con 19, Int 11, Wis 15, Cha 16
+Base Atk +8; CMB +12; CMD 29
+Feats Dodge, Flyby Attack, Improved Initiative, Point-Blank Shot
+Skills Bluff +12, Diplomacy +11, Fly +18, Knowledge (planes) +11, Perception +13, Sense Motive +13, Spellcraft +7, Stealth +17
+Languages Dark Folk (can’t speak); telepathy 100 ft.
+SPECIAL ABILITIES
+Burning Cold (Su) As a standard action, an owb can conjure a ball of flickering flames and hurl it at an opponent. The flames can be thrown as a ranged touch attack at a range of 120 feet with no range increment, and deal 3d6 points of cold damage.
+Curse of Darkness (Su) With a touch, an owb can make bright light unbearable to the victim. Any creature touched must succeed at a DC 17 Fortitude save or gain the light blindness weakness. This ability also robs the victim of its coloration, leaving the creature and its equipment in washed-out shades of gray. This effect can be removed with break enchantment or remove curse, unless the target has the dark folk subtype, in which case the effect can only be removed by wish or similar magic. The save DC is Charisma-based.

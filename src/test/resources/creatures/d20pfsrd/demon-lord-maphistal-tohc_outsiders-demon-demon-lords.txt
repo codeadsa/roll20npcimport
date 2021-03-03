@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-maphistal-tohc
+Maphistal (Second of Orcus) CR 21
+XP 409,600
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +11; Senses darkvision 60 ft.; Perception +42; Aura unholy aura (DC 26)
+DEFENSE
+AC 39, touch 24, flat-footed 32 (+7 Dex, +15 natural, –1 size, +8 profane)
+hp 330 (20d10+220)
+Fort +25, Ref +13, Will +21
+DR 20/cold iron and good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 32
+OFFENSE
+Speed 40 ft., fly 80 ft. (good)
+Melee +3 unholy crushing heavy mace +35/+30/+25/+20 (2d6+16 plus bone knit) or 2 claws +32 (1d6+13), bite +32 (1d8+13 plus disease)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 20th)
+Constant— unholy aura (DC 26)
+At will—animate dead, blasphemy (DC 25), create undead, detect magic, detect good, desecrate, greater dispel magic, greater teleport (self plus 50 pounds of objects only), power word stun, suggestion (DC 21), telekinesis (DC 23), tongues (self only), unhallow, unholy blight (DC 22)
+3/day—create greater undead
+1/day—circle of death (DC 24), fire storm (DC 26), summon (level 9, 4d10 dretches, 1d4 hezrous, 1 nalfeshnee, 1 glabrezu, 1 marilith, or 1 balor 100%), summon undead (level 9, 3d10 zombies or skeletons, 2d6 ghouls, 2d4 ghasts, 1d6 wraiths, 1d6 wights, or 1d4 spectres 100%)
+TACTICS
+Maphistal is rarely, if ever, encountered alone, and usually has a retinue of undead with him. When he enters combat, he usually opens with his spell-like abilities, immediately using his circle of death ability to affect as many targets as possible. In melee, he batters an opponent with his mace. An opponent whose skull is destroyed (and therefore slain) or an opponent brought to Dexterity 0 (and not rescued by his comrades) is carried back to the Keep of Bones where it is transformed into an undead creature or becomes part of the Keep itself.
+STATISTICS
+Str 36, Dex 25, Con 33, Int 25, Wis 25, Cha 26
+Base Atk +20; CMB +34; CMD 59
+Feats Alertness, Cleave, Combat Reflexes, Deceitful, Great Cleave, Great Fortitude, Improved Initiative, Improved Sunder, Iron Will, Power Attack
+Skills Bluff +35, Diplomacy +31, Disguise +32, Fly +32, Intimidate +31, Knowledge (arcana) +27, Knowledge (nobility) +27, Knowledge (planes) +30, Perception +42, Sense Motive +34, Spellcraft +30, Stealth +26, Use Magic Device +31; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common, Draconic, Giant, Goblin, Ignan, Infernal; telepathy 100 ft.
+Gear Vox
+SPECIAL ABILITIES
+Bone Knit (Su) Each time a living creature is hit by a weapon wielded by Maphistal, it must succeed on a DC 25 Fortitude save or take 1d4 points of Dexterity damage as its bones fuse together. Creatures without bones or skeletal structures (such as oozes and plants) are immune to this effect.
+Disease (Ex) Demon Fever: Bite—injury; save Fort DC 31; onset 1day, frequency 1 day, effect 1d6 Con damage and target must make a second Fort save or 1 point of the damage is Con drain instead, cure 2 consecutive saves.
+GEAR Unique Item: Vox Maphistal’s unique weapon is a +3 unholy crushing heavy mace.
+The crushing special quality crushes the skulls of those it strikes. Upon a successful critical hit, the weapon crushes the opponent’s skull (if it has one) instantly killing the target. Some creatures, such as many aberrations and all oozes, have no skulls, others, such as golems and incorporeal undead, are not affected by the crushing special quality. Most other creatures, however, die when their skull is crushed.

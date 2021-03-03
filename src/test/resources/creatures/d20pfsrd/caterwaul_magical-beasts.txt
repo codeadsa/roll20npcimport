@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/caterwaul
+Caterwaul CR 4
+XP 1,200
+CE Medium magical beast
+Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception+13
+DEFENSE
+AC 18, touch 16, flat-footed 12 (+6 Dex, +2 natural)
+hp 37 (5d10+10)
+Fort +6; Ref +10; Will +3
+Defensive Abilities evasion
+OFFENSE
+Speed 50 ft., climb 20 ft.
+Melee bite +8 (1d6+2 plus grab), 2 claws +8 (1d4+2)
+Special Attacks pounce, rake (2 claws, 1d4+2), screech
+STATISTICS
+Str 14, Dex 22, Con 15, Int 7, Wis 14, Cha 6
+Base Atk +5; CMB +7 (+11 grapple); CMD 23 (27 vs. trip)
+Feats Skill Focus (Perception), Weapon Focus (bite, claws)
+Skills Acrobatics +10 (+14 balancing, +18 jumping), Climb +14, Escape Artist +7, Perception +13, Stealth +14 (+26 in tall grass); Racial Modifiers +4 Acrobatics when balancing, +4 Perception, +4 Stealth (+12 in tall grass)
+SQ sprint
+SPECIAL ABILITIES
+Evasion (Ex) This functions identically to the rogue ability.
+Screech (Su) Once every 10 minutes, a caterwaul can emit a piercing screech that deals 1d8 points of sonic damage to all creatures within 60 feet that hear it. A creature that makes a successful DC 16 Fortitude save takes no damage. The save DC is Constitution-based and includes a +2 racial bonus.
+Sprint (Ex) Once per minute, a caterwaul can move four times its normal speed (200 feet) when it makes a charge.

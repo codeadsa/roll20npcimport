@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/pudding-white
+White Pudding CR 6
+XP 2,400
+N Huge ooze
+Init -5; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 3, touch 3, flat-footed 3 (-5 Dex, -2 size)
+hp 94 (9d8+54)
+Fort +8, Ref -2, Will -2
+Defensive Abilities split (piercing and slashing, 10 hp);
+Immune ooze traits; Resist cold 5
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee slam +7 (2d6+4 plus 2d6 acid plus grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks constrict (2d6+4 plus 2d6 acid), corrosion
+STATISTICS
+Str 17, Dex 1, Con 21, Int –, Wis 1, Cha 1
+Base Atk +6; CMB +11 (+15 grapple); CMD 16 (26 vs. bull rush, can’t be tripped)
+Skills Climb +11
+SQ camouflage, suction
+SPECIAL ABILITIES
+Acid (Ex) A white pudding secretes a digestive acid that dissolves organic material quickly, but does not affect metal or stone. Any melee hit or constriction attack deals acid damage, and the opponent’s clothing and armor (non-metal only) take the same amount of damage unless they succeed on DC 19 Reflex saves. A wooden weapon that strikes a white pudding takes 2d6 acid damage unless it succeeds on a DC 19 Reflex save. If a white pudding remains in contact with a wooden object for 1 full round, it inflicts 19 points of damage (no save) to the object. The save DCs are Constitution-based.
+Camouflage (Ex) Since a white pudding looks like normal ice and snow when at rest, it takes a DC 20 Perception check to notice it before it attacks. Anyone with ranks in Survival or Knowledge (nature) can use one of those skills instead of Perception to notice the white pudding. Dwarves can use stonecunning to notice a subterranean-dwelling white pudding.
+Corrosion (Ex) An opponent that is being constricted by a white pudding suffers a -4 penalty on Reflex saves made to resist acid damage applying to clothing and armor.
+Suction (Ex) The white pudding can create powerful suction against any surfaces as it climbs, allowing it to cling to inverted surfaces with ease. A white pudding can establish or release suction as a swift action, and as long as it is using suction, it moves at half speed. Because of the suction, a white pudding’s CMD score gets a +10 circumstance bonus to resist bull rush, awesome blows, and other attacks and effects that attempt to physically move it from its location.

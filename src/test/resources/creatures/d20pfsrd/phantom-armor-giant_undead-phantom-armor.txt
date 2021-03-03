@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/phantom-armor/phantom-armor-giant
+Giant Phantom Armor CR 4
+XP 1,200
+NE Large undead
+Init +4; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 18, touch 9, flat-footed 18 (+9 armor, –1 size)
+hp 37 (5d8+15)
+Fort +3, Ref +1, Will +4
+Defensive Abilities channel resistance +4; Immune undead traits
+OFFENSE
+Speed 20 ft.
+Melee heavy flail +7 (2d8+7/19–20)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 20, Dex 11, Con —, Int 7, Wis 11, Cha 15
+Base Atk +3; CMB +9; CMD 19
+Feats Improved Initiative, Power Attack, Toughness
+Skills Perception +8, Stealth +4
+Languages Common (can’t speak)
+SQ freeze (suit of armor)

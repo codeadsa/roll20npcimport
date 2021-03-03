@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stymphalian-bird-tohc
+Stymphalian Bird CR 4
+XP 1,200
+N Medium magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +6
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 natural)
+hp 26 (4d10+4)
+Fort +5, Ref +6, Will +2
+OFFENSE
+Speed 40 ft., fly 70 ft. (average)
+Melee 2 claws +6 (1d6+2, 19-20), bite +6 (1d8+2, 19-20)
+Ranged 4 feathers +7 (1d4+2, 19-20)
+Special Attacks feathers
+TACTICS
+Stymphalian birds are particularly fond of the flesh of humans and elves, and always attack them on sight.
+A stymphalian bird attacks from the air by releasing a volley of bronze feathers at its opponents. It then swoops down and attacks with its beak and wings, flying out of range before its opponents can react. On the ground, a stymphalian bird slashes with its wings and stabs with its beak.
+STATISTICS
+Str 14, Dex 14, Con 12, Int 6, Wis 12, Cha 2
+Base Atk +4; CMB +6; CMD 18
+Feats Flyby Attack, Improved Critical (bite)B, Improved Critical (claw)B, Improved Critical (feather)B, Weapon Focus (feathers)
+Skills Fly +7, Perception +6
+SPECIAL ABILITIES
+Feathers (Ex) A stymphalian bird can loose a volley of four feathers as a standard action when flying (make an attack roll for each feather). This attack has a range of 60 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only twelve feathers (3 volleys) in a single day. The stymphalian bird may use this ability in conjunction with its Flyby Attack feat.

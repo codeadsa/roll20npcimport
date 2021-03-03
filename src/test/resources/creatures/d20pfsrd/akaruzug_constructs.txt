@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/akaruzug
+Akaruzug CR 14
+XP 38,400
+LE Large construct
+Init +2; Senses darkvision 60 ft., low-light vision ; Perception +1
+Aura unhallow (40 ft.)
+DEFENSE
+AC 29, touch 11, flat-footed 27 (+2 Dex, +18 natural, -1 size)
+hp 206 (32d10+30)
+Fort +10, Ref +12, Will +11
+DR 15/good; Immune construct traits
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee 2 claws +39 (1d8+10), body slam +34 (2d8+5), and 2 wing slams +34 (1d8+5)
+Space 10 ft.; Reach 10 ft.
+Special Attacks soul slave, soul steal
+STATISTICS
+Str 30, Dex 14, Con –, Int –, Wis 12, Cha 1
+Base Atk +32; CMB +43; CMD 55
+SQ soul engine
+SPECIAL ABILITIES
+Soul Engine (Su) An akaruzug draws the energy it requires to function from a living creature crucified upon its frame. An active akaruzug (or another creature working with an inactive akaruzug) can spend 1 minute to bind a helpless or willing creature to the construct. Once the victim is restrained, the akaruzug draws the creature’s soul into it, an effect similar to the spell magic jar. While the soul remains in the akaruzug, the construct remains active. If the body crucified upon it is removed, the soul within the construct is freed and the akaruzug deactivates after 1d4 rounds. An akaruzug’s victim cannot be resurrected while its soul is still trapped within the construct.
+
+The most likely ways to free a body from an active akaruzug are to pull it free or magically remove the body. A creature who makes a grapple attempt against an akaruzug can target the body hung on the construct. The akaruzug gains a +10 bonus on the opposed grapple check to keep its victim in place. If the akaruzug fails this check, its victim is freed. Casting a spell like teleport object on an akaruzug’s victim can remove it from its bindings. If a saving throw is allowed to resist the spell, the akaruzug makes it for its victim. As an akaruzug’s victim is dead, it no longer counts as a creature for the purposes of spells that target individuals. An akaruzug’s victim cannot be targeted in any ways besides these, and thus cannot be destroyed without first destroying the construct.
+
+Destroying an akaruzug or removing its victim’s body releases the soul restrained within. A released soul is not returned to its body, however, and instead departs just as any other slain soul.
+Soul Slave (Su) Using the soul trapped within its frame, an akaruzug can manifest ghostly representations of its victim to attack its enemies as a standard action. These soul slaves appear as the akaruzug’s victim did in life and wield a weapon favored by that individual. Aside from this, the soul slave functions similarly to the spell spiritual weapon cast by a 15th level cleric (though with an AC adjusted by the victim’s size). An akaruzug can use this ability up to three times a day.
+Soul Steal (Su) An akaruzug can attempt to draw additional soul energy into it. Once every 1d4 rounds, the construct can unleash a blast of soul essence that seeks to flense the life force of any living creature within 20 feet. All living creatures in the area must make a DC 26 Fortitude save or gain 1d4 negative levels. The save DC is Constitution-based. For each negative level bestowed, the akaruzug gains 5 temporary hit points.
+Unhallow (Sp) An akaruzug emanates a 40-foot aura of unholy energy, as per the spell unhallow. The construct’s creator determines what, if any, additional spell effects are tied to the akaruzug’s unhallow aura at the time of its creation. The construct benefits from any spell effects tied to its unhallow aura. Common choices are darkness, detect good, freedom of movement, and invisibility purge
+

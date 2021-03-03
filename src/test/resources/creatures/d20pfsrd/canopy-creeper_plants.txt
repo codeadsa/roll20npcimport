@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/canopy-creeper
+Canopy Creeper CR 8
+XP 4,800
+N Huge plant
+Init +7; Senses low-light vision, scent; Perception +13
+DEFENSE
+AC 23, touch 11, flat-footed 20 (+3 Dex, +12 natural, –2 size)
+hp 150 (12d8+96); fast healing 2
+Fort +12, Ref +9, Will +8
+Immune electricity, plant traits; Resist fire 10
+Weaknesses cold
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee bite +16 (2d6+12)
+Ranged 4 vine tendrils +10 (grab plus feed and pull)
+Space 15 ft.; Reach 10 ft. (100 ft. with vine tendrils)
+Special Attacks aerial attack, pull (vine tendril, 30 feet)
+STATISTICS
+Str 26, Dex 16, Con 26, Int 2, Wis 10, Cha 10
+Base Atk +9; CMB +19 (+23 grapple); CMD 32 (can’t be tripped)
+Feats Blind-Fight, Combat Reflexes, Improved Initiative, Lightning Reflexes, Multiattack, Skill Focus (Climb)
+Skills Climb +19, Perception +13, Stealth +4 (+20 in forests); Racial Modifiers +4 Perception, +16 Stealth in forests
+SQ camouflage, vine tendrils
+SPECIAL ABILITIES
+Aerial Attack (Ex) A canopy creeper gains a +2 bonus on attack rolls when battling a creature that is not touching the ground or otherwise braced on a solid surface (such as a ship’s deck). This bonus applies on combat maneuver checks and to CMD.
+Camouflage (Ex) Because a canopy creeper blends in with the foliage that is its natural habitat, a DC 20 Perception check (modified for distance) is required to notice it before it attacks for the first time. Any creature with ranks in Survival or Knowledge (nature) can use either of those skills (also modified for distance) instead of Perception to notice the plant.
+Feed (Ex) When a canopy creeper grapples a creature with its tendrils, it begins to drain the creature’s bodily fluids through the target’s pores or other body orifices with its tendrils. This feeding deals 1d8 points of damage and 1 point of Strength damage to the target. If the vine tendril is severed or the target breaks the grapple, this feeding ceases until a new grapple is established.
+Vine Tendrils (Ex) A canopy creeper can take control of any network of vines it has attached itself to and use up to four of those vines as weapons to strike out at targets up to 100 feet away. The vine tendrils have 10 hit points, DR 5/slashing, and a Break DC of 21. If one of these vines is destroyed, the canopy creeper can assume control of another vine as a move action to bring it to bear in combat.

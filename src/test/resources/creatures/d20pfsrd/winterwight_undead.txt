@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/winterwight
+Winterwight CR 17
+XP 102,400
+CE Medium undead (cold)
+Init +10; Senses darkvision 60 ft.; Perception +27; Aura cold (10 ft.)
+DEFENSE
+AC 32, touch 16, flat-footed 26 (+6 Dex, +16 natural)
+hp 270 (20d8+180); fast healing 10
+Fort +15, Ref +14, Will +16
+Defensive Abilities channel resistance +4; DR 15/bludgeoning and good; Immune cold, undead traits; SR 28
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 30 ft.
+Melee bite +30 (2d8+15 plus blightfire), 2 claws +30 (2d6+15 plus blightfire)
+Special Attacks rend (2 claws 2d8+22)
+Spell-Like Abilities (CL 17th; concentration +26)
+Constant—air walk
+At will—cone of cold (DC 24), dimension door, greater dispel magic, sleet storm, wall of ice
+3/day—polar ray
+1/day—control weather
+STATISTICS
+Str 40, Dex 23, Con —, Int 11, Wis 18, Cha 29
+Base Atk +15; CMB +30; CMD 46
+Feats Blind-Fight, Combat Reflexes, Critical Focus, Greater Vital Strike, Improved Initiative, Improved Vital Strike, Lightning Reflexes, Power Attack, Staggering Critical, Vital Strike
+Skills Acrobatics +26, Intimidate +32, Perception +27, Stealth +29
+Languages Common
+SPECIAL ABILITIES
+Aura of Cold (Su) Winterwights are surrounded by a 10-foot radius of deathly chill. Any creatures within this area during the winterwight’s turn takes 2d10 points of cold damage. All creatures of the cold subtype within this area (including the winterwight) are treated as having fast healing 10.
+Blightfire (Su) Whenever a winterwight damages a creature with a bite or claw, the wound erupts with tongues of black fire. For the next 5 rounds, the victim must make a DC 29 Fortitude saving throw at the start of its turn or take 1d6 points of Constitution drain. The winterwight gains 10 temporary hit points each time the creature fails a saving throw against blightfire. A creature cannot be affected by more than one instance of blightfire at a time. The save DC is Charisma-based.

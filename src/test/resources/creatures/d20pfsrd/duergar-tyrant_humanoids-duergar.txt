@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/duergar/duergar-tyrant
+Duergar Tyrant CR 3
+XP 800
+Duergar tyrant geokineticist 3
+LE Medium humanoid (dwarf)
+Init +1; Senses darkvision 120 ft.; Perception +8
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+5 armor, +1 Dex)
+hp 37 (3d8+12)
+Fort +7, Reflex +4, Will +3; +2 vs. spells or +4 vs. psychic spells
+Defensive Abilities psychic resilience; DR 1/adamantine; Immune paralysis, phantasms, poison; SR 14
+Weaknesses light sensitivity
+OFFENSE
+Speed 20 ft.
+Ranged earth blast +4 (2d6+6)
+Special Attacks kinetic blast
+Psychic Magic (CL 3rd; concentration +3)
+5 PE—ironskin (2 PE), mind thrust I (1 PE)
+Kineticist Wild Talents Known
+Defense—flesh of stone; Infusions—extended range, kinetic blade (2d6) Kinetic Blasts—earth blast (2d6+6) Utility—basic geokinesis, kinetic cover STATISTICS
+Str 16, Dex 13, Con 19, Int 10, Wis 14, Cha 6
+Base Atk +2; CMB +5; CMD 16 (20 vs. bull rush and trip while on solid ground)
+Feats Point-Blank Shot, Weapon Focus (earth blast)
+Skills Intimidate +4, Knowledge (dungeoneering) +6, Perception +8 (+10 related to stonework), Stealth +10; Racial Modifiers +2 Perception related to stonework, +4 Stealth
+Languages Common, Dwarven, Undercommon
+SQ burn (1/round, maximum 7), elemental overflow +1, slow and steady, stability, telekinetic adept
+SPECIAL ABILITIES
+Psychic Magic Duergar tyrants can cast ironskin (2 PE) and mind thrust I (1 PE) as per the psychic magic universal monster rule. The caster level is equal to the duergar tyrant’s total character level. Duergar tyrants have a reservoir of 5 PE per day.
+Psychic Resilience (Ex) Duergar tyrants’ racial bonus against spells and spell-like abilities increases from +2 to +4 on saving throws against psychic spells and spell-like abilities.
+Spell Resistance A duergar tyrant has spell resistance equal to 11 + her character level.
+Telekinetic Adept A duergar tyrant has access to the basic telekinesis, kinetic form, telekinetic finesse, telekinetic haul, and telekinetic invisibility kineticist wild talents with an effective kineticist level equal to her total character level.

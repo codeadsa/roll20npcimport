@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/spider-ogre
+Ogre Spider CR 5
+XP 1,600
+N Huge vermin
+Init +2; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +5
+DEFENSE
+AC 18, touch 10, flat-footed 16 (+2 Dex, +8 natural, -2 size)
+hp 52 (7d8+21)
+Fort +8, Ref +4, Will +3
+Immune mind-affecting effects
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee bite +8 (2d8+7 plus poison)
+Space 15 ft.; Reach 15 ft.
+Special Attacks web (+5 ranged, DC 16, hp 7)
+STATISTICS
+Str 21, Dex 15, Con 16, Int —, Wis 12, Cha 2
+Base Atk +5; CMB +12; CMD 24 (36 vs. trip)
+Skills Climb +29, Perception +5, Stealth -2; Racial Modifiers +16 Climb, +4 Perception, +4 Stealth
+SQ compression
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 18 (includes +2 racial bonus); frequency 1/round for 6 rounds; effect 1d4 Str and 1d4 Dex; cure 1 save.

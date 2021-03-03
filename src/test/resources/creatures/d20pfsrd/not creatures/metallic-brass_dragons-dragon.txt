@@ -1,0 +1,43 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-brass
+Brass Dragon
+CG dragon (fire)
+BASE STATISTICS
+CR 3; Size Tiny; Hit Dice 4d12
+Speed 60 ft., burrow 30 ft.
+Natural Armor +3; Breath Weapon line, 2d4 fire
+Str 11, Dex 16, Con 13, Int 10, Wis 11, Cha 10
+SPECIAL ABILITIES
+Desert Wind (Su)
+
+A juvenile or older brass dragon can call up the desert wind to serve him. This functions as gust of wind, but any creature in its path must make a Fortitude save or be blinded for 1d4 rounds by the sand. The save DC for this effect is equal to the dragon’s breath weapon DC.
+Fire Aura (Su)
+
+An old or older brass dragon is surrounded by an aura of intense heat. All creatures within 5 feet of the dragon take 1d6 points of fire damage at the beginning of the dragon’s turn. An ancient brass dragon’s aura extends to 10 feet. A great wyrm’s damage increases to 2d6. A brass dragon can suppress or activate this aura at will as a free action.
+Move Sand (Sp)
+
+A young or older brass dragon can move sand to excavate ruins or hide treasures. This functions as move earth, but it only affects sand. The dragon uses his HD in place of his caster level for this effect. This is equivalent to a 5th-level spell.
+Sandstorm (Su)
+
+An ancient or older brass dragon can create a powerful sandstorm once per day as a full-round action. This storm has a radius of 1 mile and lasts for 1 minute per age category of the dragon. This functions as a sandstorm (Pathfinder RPG Core Rulebook 431), except that it is also accompanied by windstorm-level winds.
+Sleep Breath (Su)
+
+Instead of a line of fire, a brass dragon can breathe a cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6 rounds plus 1 round per age category of the dragon.
+Spell-Like Abilities (Sp)
+
+A brass dragon gains the following spell-like abilities, usable at will upon reaching the listed age category.
+Very young—speak with animals; Juvenile—endure elements; Adult—suggestion; Old—control winds; Ancient—control weather; Great wyrm—whirlwind. Summon Djinni (Sp)
+
+This ability, usable by a great wyrm brass dragon once per day, works like a summon monster spell, except that it summons one noble djinni. This ability is the equivalent of a 9th-level spell.
+Age Category Special Abilities Caster Level
+Wyrmling Fire subtype, sleep breath —
+Very young speak with animals —
+Young Move sand 1st
+Juvenile Desert wind, endure elements 3rd
+Young adult DR 5/magic, spell resistance 5th
+Adult frightful presence, suggestion 7th
+Mature adult DR 10/magic 9th
+Old Fire aura, control winds 11th
+Very old DR 15/magic 13th
+Ancient Sandstorm, control weather 15th
+Wyrm DR 20/magic 17th
+Great wyrm Summon djinni, whirlwind 19th

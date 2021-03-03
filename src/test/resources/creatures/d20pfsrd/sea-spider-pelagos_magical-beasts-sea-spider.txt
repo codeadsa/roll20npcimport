@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sea-spider/sea-spider-pelagos
+Pelagos Sea Spider CR 15
+XP 51,200
+N Huge magical beast (aquatic)
+Init +8; Senses darkvision 60 ft., low-light vision, watersense 60 ft.; Perception +31
+DEFENSE
+AC 28, touch 12, flat-footed 25 (+4 Dex, +16 natural, -2 size)
+hp 230 (20d10+120)
+Fort +20, Ref +16, Will +12
+Resist acid 10, cold 10, fire 10
+OFFENSE
+Speed Swim 90 ft.
+Melee bite +26 (2d8+7 plus poison plus grab), 4 slams +25 (2d6+7)
+Space 15 ft.; Reach 10 ft.
+Special Attacks swallow whole (2d6+7 plus 1d8 acid damage, AC 18, 23 hp)
+Spell-like Abilities (CL 20th):
+3/day—cone of cold (DC 19), lightning bolt (DC 17) (affects a 30-ft. radius around the pelagos rather than a single target)
+1/day—stinking cloud (DC 17)
+STATISTICS
+Str 25, Dex 16, Con 22, Int 20, Wis 18, Cha 18
+Base Atk +20; CMB +29 (+33 grapple); CMD 43 (55 vs. trip)
+Feats Alertness, Fast Swim*, Cleave, Combat Reflexes, Great Fortitude, Improved Initiative, Iron Will, Power Attack, Swim-by Attack, Weapon Focus (bite)
+Skills Diplomacy +24, Escape Artist +24, Knowledge (nature) +25, Knowledge (religion) +25, Perception +31, Sense Motive +28, Stealth +17 (+25 when floating on the surface) , Swim +20; Racial Modifiers +8 Stealth when floating on the surface
+Languages Aquan, Common, Draconic, Elven, Sylvan
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 26; frequency 1/round for
+4 rounds; effect 1d3 Con damage; cure 2 consecutive saves.
+A creature that dies from this poison turns into water and flows away (and is irrevocably dead save for a miracle, wish, or the intervention of a deity). The save DC is Constitution-based.
+Watersense (Ex) A pelagos can pinpoint the location of anything within 60 feet that is touching the water.
+Editor’s Note
+There is no feat called Fast Swim; GM’s should feel free to ignore this feat since the creature already has more than its requisite number of feats. Base Creature
+Sea Spider

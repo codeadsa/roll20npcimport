@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-forest/forest-dragon-very-young
+Very Young Forest Dragon CR 8
+XP 4,800
+CE Medium dragon (earth)
+Init +5; Senses dragon senses, tremorsense 60 ft.; Perception +13
+DEFENSE
+AC 20, touch 11, flat-footed 19 (+1 Dex, +9 natural)
+hp 94 (9d12+36)
+Fort +9, Ref 7+, Will +7
+Immune paralysis, poison, sleep
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 30 ft., fly 150 ft. (average)
+Melee bite +14 (1d8+6), 2 claws +13 (1d6+4), gore +13 (1d6+6)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite and gore)
+Special Attacks breath weapon (30-ft. cone, 4d6 piercing damage, DC 17)
+
+STATISTICS
+Str 19, Dex 12, Con 16, Int 12, Wis 13, Cha 12
+Base Atk +9; CMB +13; CMD 24 (28 vs. trip)
+Feats Improved Initiative, Power Attack, Skill Focus (Stealth), Toughness, Weapon Focus (bite)
+Skills Acrobatics +10 (+14 when jumping), Climb +24, Fly +1, Intimidate +13, Knowledge (arcana) +10, Knowledge (nature) +10, Perception +13, Stealth +16, Survival +10
+Languages Common, Draconic
+SQ sound imitation, woodland stride
+SPECIAL ABILITIES
+Sound Imitation (Ex) A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener’s Sense Motive check.
+Woodland Stride (Ex) As the druid ability of the same name.
+“Chinese Earth Dragon”
+(c) 2012 Shoshanna Bauer http://shoshannabauer.com
+All Rights Reserved.

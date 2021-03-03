@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/black-magga
+Black Magga CR 15
+XP 51,200
+CE Gargantuan outsider (aquatic, native)
+Init +4; Senses all-around vision, darkvision 60 ft.; Perception +22
+DEFENSE
+AC 30, touch 6, flat-footed 30 (+24 natural, –4 size)
+hp 232 (15d10+150)
+Fort +19, Ref +11, Will +9
+DR 15/cold iron and magic; Immune death effects, mind-affecting effects, petrification, polymorph; Resist acid 20, cold 20; SR 26
+OFFENSE
+Speed 20 ft., swim 60 ft.
+Melee bite +24 (2d8+13/19–20 plus energy drain), 4 tentacles +19 (2d6+6 plus grab)
+Space 20 ft.; Reach 20 ft.
+Special Attacks breath of madness, constrict (2d6+11), energy drain (2 levels, DC 22)
+Spell-Like Abilities (CL 15th; concentration +20)
+Constant—invisibility purge
+At will—death knell (DC 17), prayer
+3/day—demand (DC 23), dimensional anchor, divination, dominate person (DC 20), greater command (DC 20)
+1/day—commune, dream, unhallow
+STATISTICS
+Str 37, Dex 10, Con 31, Int 25, Wis 18, Cha 20
+Base Atk +15; CMB +32 (+36 grapple); CMD 42 (can’t be tripped)
+Feats Awesome Blow, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Power Attack, Vital Strike
+Skills Acrobatics +18, Intimidate +23, Knowledge (arcana) +25, Knowledge (history) +22, Knowledge (nature) +22, Knowledge (planes) +25, Knowledge (religion) +22, Perception +22, Sense Motive +22, Spellcraft +25, Stealth +6, Survival +19, Swim +36
+Languages Abyssal, Celestial, Common, Draconic, Infernal, +1 additional
+SQ transdimensional tentacles, warp dimensions
+SPECIAL ABILITIES
+Breath of Madness (Su) Black Magga can exhale a cloud of foul-smelling, poisonous breath as a standard action once every minute. This cloud of black smoke fills a 60-foot cone. All creatures in the area take 1d6 points of Wisdom damage and become confused for 1d6 rounds (a DC 27 Will save halves the Wisdom damage and negates the confusion effect). This is a mind-affecting poison effect. The save DC is Constitution-based. This breath weapon cannot be used while underwater.
+Transdimensional Tentacles (Su) Black Magga’s tentacles allow her to see into and infiltrate the Ethereal Plane and the Plane of Shadow while she is on the Material Plane. This allows her not only to be aware of these planes and the creatures there, but also to shift her tentacles through these planes to attack their inhabitants. She can even phase her tentacles in and out of existence, effectively reaching through walls and other solid barriers to attack foes on the other side, provided that area is not warded by a dimensional lock or similar effect. She can grapple foes with her tentacles normally, but cannot pull grappled foes or objects through planes as her tentacles shift between them.
+Warp Dimensions (Su) Black Magga’s presence distorts the dimensions. Any creature that attempts to utilize a teleportation effect while within 300 feet of Black Magga must succeed at a DC 21 caster level check or the teleport effect fails. If the effect fails, the creature that attempted to create that effect must succeed at a DC 27 Fortitude save or be nauseated for 1d6 rounds. The save DC is Constitution-based.

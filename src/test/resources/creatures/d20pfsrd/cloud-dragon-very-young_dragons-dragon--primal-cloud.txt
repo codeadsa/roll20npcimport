@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-cloud/cloud-dragon-very-young
+Cloud Dragon, Very Young CR 7
+XP 3,200
+CN Medium dragon (air)
+Init +0; Senses dragon senses, mist vision; Perception +14
+
+DEFENSE
+AC 18, touch 10, flat-footed 18 (+8 natural)
+hp 68 (8d12+16)
+Fort +8, Ref +6, Will +9
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (average), swim 40 ft.
+Melee bite +10 (1d8+3), 2 claws +11 (1d6+2), 2 wings +5 (1d4+1)
+Special Attacks breath weapon (30-ft. cone, 4d8 electricity, DC 16)
+Spell-Like Abilities (CL 8th; concentration +10)
+At will—obscuring mist
+STATISTICS
+Str 14, Dex 11, Con 15, Int 12, Wis 16, Cha 15
+Base Atk +8; CMB +10; CMD 20 (24 vs. trip)
+Feats Dazzling Display, Power Attack, Skill Focus (Diplomacy), Weapon Focus (claws)
+Skills Appraise +12, Diplomacy +16, Fly +11, Intimidate +13, Knowledge (planes) +12, Perception +14, Stealth +11, Swim +10; Racial Modifiers +8 Swim
+Languages Auran, Draconic
+
+SPECIAL ABILITIES
+Mist Vision (Su) A cloud dragon can see through fog, clouds, and similar obscuring effects with perfect clarity.

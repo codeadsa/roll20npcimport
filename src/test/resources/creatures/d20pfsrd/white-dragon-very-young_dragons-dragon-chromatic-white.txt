@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-white/white-dragon-very-young
+Very Young White Dragon CR 4
+XP 1,200
+CE Small dragon (cold)
+Init +6; Senses dragon senses, snow vision; Perception +10
+DEFENSE
+AC 18, touch 13, flat-footed 16 (+2 Dex, +5 natural, +1 size)
+hp 42 (5d12+10)
+Fort +6, Ref +6, Will +4
+Immune cold, paralysis, sleep
+Weaknesses Vulnerability to fire
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 150 ft. (average), swim 60 ft.
+Melee bite +8 (1d6+3), 2 claws +8 (1d4+2)
+Special Attacks breath weapon (20-ft. cone, DC 14, 4d4 cold)
+STATISTICS
+Str 15, Dex 14, Con 15, Int 8, Wis 11, Cha 8
+Base Atk +5; CMB +6; CMD 18 (22 vs. trip)
+Feats Alertness, Improved Initiative, Power Attack
+Skills Fly +12, Intimidate +7, Perception +10, Stealth +14, Swim +18; Racial Modifiers +8 Swim
+Languages Draconic
+SQ icewalking
+SPECIAL ABILITIES
+Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+Snow Vision (Ex) A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/quipper
+Quipper CR 1/8
+XP 50
+N Fine animal (aquatic)
+Init +2; Senses low-light vision, keen scent; Perception +8
+DEFENSE
+AC 20, touch 20, flat-footed 18 (+2 Dex, +8 size)
+hp 4 (1d8)
+Fort +2, Ref +4, Will +1
+OFFENSE
+Speed swim 30 ft.
+Melee bite +10 (1d2–2)
+Space 1/2 ft; Reach 0 ft.
+Special Attacks frenzy
+STATISTICS
+Str 6, Dex 15, Con 10, Int 1, Wis 12, Cha 3
+Base Atk +0; CMB –6; CMD 2 (can’t be tripped)
+Feats Skill Focus (Perception), Weapon FinesseB
+Skills Perception +8, Swim +10
+SPECIAL ABILITIES
+Frenzy (Ex) Quippers can detect blood in the water goes into a killing frenzy, as do all other quippers within a 90-foot radius. Frenzied quippers attack until either they or their opponents are dead. A frenzied quipper can make one extra attack when making a full attack action. The attack is made using the creature’s full base attack. Additionally, it gains a +1 bonus on attack rolls and a +1 dodge bonus to AC and Reflex saves. A frenzied quipper’s swim speed increases by 10 feet. This frenzy lasts for 1 minute and can only be used once per encounter.
+Keen Scent (Ex) A quipper can notice creatures by scent in a 90-foot radius underwater and can detect blood in the water at ranges up to 500 feet.
+Source Wikipedia

@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/clubnek
+Clubnek CR2
+XP 600
+N Medium magical beast
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +7
+DEFENSE
+AC 14, touch 11, flat-footed 13 (+1 Dex, +3 natural)
+hp 19 (3d10+3)
+Fort +4; Ref +4; Will +1
+OFFENSE
+Speed 40 ft.
+Melee beak +5 (1d4+2), 2 claws +5 (1d4+2)
+STATISTICS
+Str 14, Dex 13, Con 12, Int 2, Wis 10, Cha 6
+Base Atk +3; CMB +5; CMD 16
+Feats Run, Skill Focus (Perception)
+Skills Acrobatics +5 (+9 jumping), Perception +7, Stealth +5
+SQ burst of speed
+SPECIAL ABILITIES
+Burst of Speed (Ex) Once every 5 rounds, a clubnek can move five times its normal speed (200 feet) when it makes a charge.

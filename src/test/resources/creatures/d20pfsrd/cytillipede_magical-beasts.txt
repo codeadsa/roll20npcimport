@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/cytillipede
+Cytillipede CR 6
+XP 2,400
+N Large magical beast
+Init +5; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 21, touch 10, flat-footed 20 (+1 Dex, +11 natural, –1 size)
+hp 76 (8d10+32)
+Fort +10, Ref +7, Will +2
+Immune mind-affecting effects; SR 17
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Space 10 ft.; Reach 5 ft.
+Melee bite +14 (2d6+9 plus poison)
+Special Attacks cytillesh flash, poison
+STATISTICS
+Str 23, Dex 13, Con 18, Int 6, Wis 10, Cha 2
+Base Atk +8; CMB +15; CMD 26 (can’t be tripped)
+Feats Ability Focus (cytillesh flash), Improved Initiative, Power Attack, Weapon Focus (bite)
+Skills Climb +21, Perception +11; Racial Modifiers +4 Perception
+SPECIAL ABILITIES
+Cytillesh Flash (Su) Once per day, a cytillipede can cause the cytillesh patches that grow along its body to release a bright flash of blue light that provides bright light in a 20-foot radius and raises the light level by one step for the next 20 feet (treat this ability as a 4th-level light spell).
+Creatures within the 40-foot area of effect must succeed at a DC 22 Will save. Those within the 20-foot area of bright light that fail are stunned for 1d4 rounds. Creatures within the next 20 feet that fail are instead confused for 1d2 rounds. The save DC is Constitution-based and includes a +2 racial bonus.
+Poison (Ex) Bite—injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d3 Dex, dazed, and the effects of memory lapse; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.

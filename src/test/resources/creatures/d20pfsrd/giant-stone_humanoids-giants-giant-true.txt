@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-stone
+Stone Giant CR 8
+XP 4,800
+N Large humanoid (giant)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +12
+DEFENSE
+AC 22, touch 11, flat-footed 20 (+2 Dex, +11 natural, –1 size)
+hp 102 (12d8+48)
+Fort +12, Ref +6, Will +7
+Defensive Abilities improved rock catching
+OFFENSE
+Speed 40 ft.
+Melee greatclub +16/+11 (2d8+12) or 2 slams +16 (1d8+8)
+Ranged rock +11/+6 (1d8+12)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rock throwing (180 ft.)
+STATISTICS
+Str 27, Dex 15, Con 19, Int 10, Wis 12, Cha 10
+Base Atk +9; CMB +18; CMD 30
+Feats Iron Will, Martial Weapon Proficiency (greatclub), Point Blank Shot, Power Attack, Precise Shot, Quick Draw
+Skills Climb +12, Intimidate +12, Perception +12, Stealth +4 (+12 in rocky terrain); Racial Modifiers +8 Stealth in rocky terrain
+Languages Common, Giant
+SPECIAL ABILITIES
+Improved Rock Catching (Ex) A stone giant gains a +4 racial bonus on its Reflex save when attempting to catch a thrown rock with rock catching. This ability otherwise works like the rock catching ability.

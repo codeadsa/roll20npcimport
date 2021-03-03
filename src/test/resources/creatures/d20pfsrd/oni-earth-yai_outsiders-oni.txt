@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oni/oni-earth-yai
+Earth Yai Oni CR 13
+XP 25,600
+NE Large outsider (giant, native, oni, shapechanger)
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +17
+DEFENSE
+AC 29, touch 15, flat-footed 23 (+6 Dex, +14 natural, –1 size)
+hp 184 (16d10+96); regeneration 5 (acid or fire)
+Fort +16, Ref +11, Will +14; SR 24
+OFFENSE
+Speed 50 ft., fly 50 ft. (good)
+Melee greatclub +23/+18/+13/+8 (2d8+12) or 2 slams +23 (1d10+8)
+Ranged stony missile +21 (3d6 plus awesome blow)
+Space 10 ft.; Reach 10 ft.
+Special Attacks spiky skin
+Spell-Like Abilities (CL 16th; concentration +18)
+Constant—fly
+At will—darkness, invisibility (self only), passwall (stone only)
+3/day—spike stones (DC 16), stone shape, stone tell
+1/day—earthquake, repel metal or stone, transmute mud to rock (DC 17), transmute rock to mud (DC 17)
+STATISTICS
+Str 27, Dex 22, Con 23, Int 12, Wis 14, Cha 15
+Base Atk +16; CMB +25; CMD 41
+Feats Combat Reflexes, Improved Precise Shot, Intimidating Prowess, Iron Will, Pinpoint Targeting, Point-Blank Shot, Power Attack, Precise Shot
+Skills Bluff +21, Fly +27, Intimidate +29, Knowledge (arcana) +20, Perception +21, Sense Motive +21, Stealth +21 (+29 in rocky terrain); Racial Modifiers +8 Stealth in rocky terrain
+Languages Common, Giant
+SQ change shape (Medium, or Large humanoid, alter self or giant form I)
+SPECIAL ABILITIES
+Spiky Skin (Ex) An earth yai may grow spikes from its stony skin at will as a free action. These spikes are treated as armor spikes that deal 1d10 points of damage.
+Stony Missile (Su) As a swift action, an earth yai can fire an incredibly dense stone from its third eye. This attack has a range of 200 feet, with no range increment, and deals 3d6 points of bludgeoning damage. Upon striking the target, the stone immediately makes an Awesome Blow attempt against the target using the earth yai’s CMB.

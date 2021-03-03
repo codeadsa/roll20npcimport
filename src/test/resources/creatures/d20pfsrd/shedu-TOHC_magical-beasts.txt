@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/shedu-TOHC
+Shedu CR 7
+XP 3,200
+LG Large magical beast
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +13
+DEFENSE
+AC 16, touch 10, flat-footed 15 (+1 Dex, +6 natural, -1 size)
+hp 76 (9d10+27)
+Fort +9, Ref +7, Will +8
+Defensive Abilities SR 16
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee 2 hooves +13 (1d6+5)
+Space 10 ft.; Reach 5 ft.
+Spell-like Abilities (CL 9th) (save DC 13 + spell level)
+At will—astral projection (self only), detect evil, detect thoughts
+3/day—charm monster (DC 17)
+STATISTICS
+Str 21, Dex 12, Con 17, Int 16, Wis 16, Cha 17
+Base Atk +9; CMB +15; CMD 26 (30 vs. trip)
+Feats Blind-Fight, Flyby Attack, Improved Initiative, Iron Will, Power Attack
+Skills Diplomacy +15, Knowledge (arcana) +15, Knowledge (planes) +15, Fly +9, Perception +13, Sense Motive +14; Racial Modifiers +4 Diplomacy, +4 Knowledge (any two), +4 Sense Motive
+Languages Celestial, Common, Draconic; telepathy 100 ft.
+SQ ethereal jaunt
+SPECIAL ABILITIES
+Ethereal Jaunt (Su) A shedu can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move-equivalent action. This ability is otherwise identical with the ethereal jaunt spell (caster level 18th).
+Variants Greater Shedu

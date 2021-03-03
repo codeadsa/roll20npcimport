@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/disenchanter
+Disenchanter CR 3
+XP 800
+N Large magical beast
+Init +3; Senses darkvision 60 ft., detect magic, low-light vision; Perception +9
+DEFENSE
+AC 15, touch 12, flat-footed 12 (+3 Dex, +3 natural, -1 size)
+hp 30 (4d10+8)
+Fort +6, Ref +7, Will +4
+DR 5/magic
+Weaknesses vulnerable to dispel magic
+OFFENSE
+Speed 50 ft.
+Melee trunk +7 touch (disenchant), 2 hooves +2 (1d6+2)
+Space 10 ft.; Reach 5 ft. (10 ft. with trunk)
+Special Attacks power spray
+Spell-Like Abilities (CL 4th; concentration +3)
+Constant—detect magic
+3/day—magic weapon
+1/day—dimension door
+STATISTICS
+Str 19, Dex 17, Con 14, Int 5, Wis 12, Cha 8
+Base Atk +4; CMB +9; CMD 22 (26 vs. trip)
+Feats Iron Will, Skill Focus (Perception)
+Skills Escape Artist +5, Perception +9
+Languages none
+SPECIAL ABILITIES
+Disenchant (Ex) A disenchanter can use its trunk to make a melee touch attack against a target’s worn, held, or carried magic item in an attempt to drink the item’s magic. The disenchanter makes a caster level check (+4) opposed by the target’s Fortitude save. If the check succeeds, the disenchanter drains the item’s magic, rendering it nonmagical. To determine which of a target’s magic items is affected, use Table 9-2 on page 216 of the Core Rulebook (though a disenchanter never uses this ability on a headband or similar head-slot item unless it has first tried to wear the item). Disenchanters may instead target specific visible items, in which case they generally target the most obvious items. Artifacts are immune to this ability. Disenchant only works against objects that a disenchanter can touch, and even a thin layer of cloth effectively protects items from it.
+Power Spray (Su) Once per day, a disenchanter can release a 20-foot cone-shaped burst of raw magical energy through its trunk. Creatures in the cone take 4d6 points of damage (DC 14 Reflex save for half). Creatures immune to magic effects that allow spell resistance (such as golems) are immune to this ability. The save DC is Constitution-based.
+Vulnerable to Dispel Magic (Ex) A disenchanter targeted by dispel magic takes 1d6 points of damage per caster level (maximum 10d6, Fortitude save for half). Greater dispel magic functions similarly (maximum 20d6 damage, Fortitude save for half).

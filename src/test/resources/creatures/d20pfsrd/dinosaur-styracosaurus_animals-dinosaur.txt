@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/dinosaur-styracosaurus
+Styracosaurus CR 5
+XP 1,600
+N Large animal
+Init +1; Senses low-light vision, scent; Perception +11
+DEFENSE
+AC 19, touch 10, flat-footed 18 (+1 Dex, +9 natural, –1 size)
+hp 52 (7d8+21)
+Fort +10, Ref +6, Will +5
+Defensive Abilities ferocity
+OFFENSE
+Speed 40 ft.
+Melee gore +11 (2d8+9)
+Space 10 ft.; Reach 5 ft.
+Special Attacks powerful charge (gore, 4d8+9), reflexive strike
+STATISTICS
+Str 22, Dex 13, Con 17, Int 2, Wis 12, Cha 7
+Base Atk +5; CMB +12; CMD 23 (27 vs. trip)
+Feats Combat ReflexesB, Great Fortitude, Iron Will, Power Attack, Weapon Focus (gore)
+Skills Perception +11
+SPECIAL ABILITIES
+Reflexive Strike (Ex) A styracosaurus can make three additional attacks of opportunity each round—combined with its bonus Combat Reflexes feat, this allows the dinosaur to make up to five of these attacks of opportunity per round. The dinosaur makes these attacks with its horned crest, but they are treated as normal gore attacks.

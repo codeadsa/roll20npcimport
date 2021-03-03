@@ -1,0 +1,43 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-underworld/underworld-dragon-great-wyrm
+Great wyrm Underworld Dragon CR 19
+XP 204,800
+LE Gargantuan dragon (fire)
+Init +2; Senses dragon senses, smoke vision; Perception +35; Aura frightful presence (360 ft., DC 29)
+DEFENSE
+AC 42, touch 4, flat-footed 42 (-2 Dex, +38 natural, -4 size)
+hp 377 (26d12+208)
+Fort +23, Ref +13, Will +21
+DR 20/magic; Immune fire, paralysis, sleep; SR 30
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft., burrow 60 ft., fly 250 ft. (clumsy)
+Melee bite +37 (4d6+21/19-20), 2 claws +38 (2d8+14/19-20), gore +36 (2d8+21), tail slap +31 (2d8+21)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite and gore)
+Special Attacks adamantine claws, breath weapon (120-ft. line, 24d6 fire damage, DC 31), crush (DC 31, 4d6+21), lava eruption, tail sweep (2d6+21, DC 31)
+Spell-Like Abilities (CL 26th; concentration +32)
+At will—clashing rocks, repel metal or stone, soften earth and stone, spike stones (DC 20), stone shape, wall of stone
+Spells Known (CL 17th; concentration +23)
+8th (4/day)—incendiary cloud (DC 24), wall of lava
+7th (6/day)—caustic eruption (DC 23), delayed blast fireball (DC 23), finger of death (DC 23)
+6th (7/day)—disintegrate (DC 22), flesh to stone (DC 22), wall of iron
+5th (7/day)—acidic spray (DC 21), passwall, transmute rock to mud, waves of fatigue
+4th (7/day)—enervation, shout (DC 20), solid fog, stone shape
+3rd (7/day)—displacement, fireball (DC 19), protection from good, slow
+2nd (8/day)—acid arrow, daze monster (DC 18), flaming sphere (DC 18), resist energy, scorching ray
+1st (8/day)—burning hands (DC 17), cause fear (DC 17) magic missile, ray of enfeeblement (DC 17), true strike
+0 (at will)—acid splash, bleed (DC 16), detect magic, flare (DC 16), ghost sound, mage hand, read magic, resistance, touch of fatigue (DC 16)
+STATISTICS
+Str 39, Dex 6, Con 27, Int 22, Wis 23, Cha 22
+Base Atk +26; CMB +44 (+46 bull rush); CMD 52 (54 vs bull rush, 56 vs. trip)
+Feats Critical Focus, Greater Weapon Focus (claw), Improved Bull Rush, Improved Critical (bite, claw), Improved Initiative, Improved Natural Armor, Lunge, Power Attack, Skill Focus (Stealth), Staggering Critical, Weapon Focus (bite, claw)
+Skills Acrobatics +24 (+28 when jumping), Appraise +35, Bluff +35, Climb +43, Fly +13, Intimidate +35, Knowledge (dungeoneering, geography, planes) +35, Perception +35, Spellcraft + 35, Stealth +21
+Languages Common, Draconic, Dwarven, Giant, Ignan, Terran
+SQ change shape, underworld burrower
+SPECIAL ABILITIES
+Adamantine Claws (Ex) The claws of an underworld dragon are made of adamantine, and have the qualities of a weapon made from that material.
+Change Shape (Su) A young or older underworld dragon can assume any humanoid form three times per day as if using polymorph.
+Lava Eruption (Su) As a full-round action, a great wyrm underworld dragon can burrow through the ground up to twice its burrow speed. At the end of that movement, if the underworld dragon has use of its breath weapon, it can emerge from the ground spouting lava in a 30-foot-radius burst, dealing damage as the breath weapon.
+Smoke Vision (Ex) A very young and older underworld dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
+Underworld Burrower (Ex) An adult underworld dragon gains a 10-foot bonus to its burrow speed. When the underworld dragon becomes old and every two age categories thereafter, its burrow speed increases by an additional 10 feet.
+Built by:
+Brett, d20pfsrd Beastmaster I

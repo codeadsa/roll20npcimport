@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-clockwork
+Clockwork Golem CR 12
+XP 19,200
+N Large construct
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 26, touch 10, flat-footed 25 (+1 Dex, +16 natural, –1 size)
+hp 118 (16d10+30)
+Fort +5, Ref +6, Will +5
+DR 10/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +23 (2d10+8 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks death burst, grind, wall of gears
+STATISTICS
+Str 27, Dex 12, Con —, Int —, Wis 11, Cha 1
+Base Atk +16; CMB +25 (+29 grapple); CMD 36
+SPECIAL ABILITIES
+Death Burst (Ex) When a clockwork golem is reduced to 0 or fewer hit points, it explodes in a shower of razor-sharp gears and debris. All creatures within a 10-foot burst take 12d6 points of slashing damage—a DC 18 Reflex save results in half damage. The save DC is Constitution-based.
+Grind (Ex) A clockwork golem deals an additional 2d10+12 points of slashing damage when it makes a successful grapple check as razor-sharp gears and blades emerge from its body to grind and slice its foe.
+Immunity to Magic (Ex) A clockwork golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against a clockwork golem, as noted below.
+A grease spell cast on the golem causes it to move quickly for 1d6 rounds, as if under the effects of haste.
+A rusting grasp spell deals damage to a clockwork golem normally, and makes the golem staggered for 1d6 rounds (no save).
+Wall of Gears (Su) As a standard action, a clockwork golem can fold into a whirling wall of grinding gears measuring 10 feet by 10 feet or 5 feet by 20 feet. Anyone passing through the wall takes 15d6 points of slashing damage. If the wall appears in a creature’s space, that creature can attempt a DC 18 Reflex save to leap to one side and avoid the damage entirely. The clockwork golem can take no actions while in this form except to resume its normal form as a move action. A clockwork golem’s AC and immunities remain the same while it is in this form.
+Construction
+
+A clockwork golem’s body is made up of hundreds of carefully crafted copper, iron, and silver gears, weighing almost 1,500 pounds, and worth a total of 10,000 gp.
+Clockwork Golem
+CL 15th; Price 120,000 gp
+CONSTRUCTION
+Requirements Craft Construct, animate objects, blade barrier, geas/quest, grease, telekinesis; Special creator must be caster level 15th; Skill Craft (clocks) or Craft (locks) DC 20; Cost 65,000 gp

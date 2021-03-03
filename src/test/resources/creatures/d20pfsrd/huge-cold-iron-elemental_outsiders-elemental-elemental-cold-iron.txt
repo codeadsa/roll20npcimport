@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-cold-iron/huge-cold-iron-elemental
+Huge Cold iron Elemental
+CR 7
+XP 3,200
+N Huge outsider (earth, elemental, extraplanar)
+Init –1; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +13
+DEFENSE
+AC 19, touch 7, flat-footed 19 (–1 Dex, +12 natural, –2 size)
+hp 95 (10d10+40)
+Fort +11, Ref +2, Will +7
+DR 5/—; Immune elemental traits; SR 15
+OFFENSE
+Speed 20 ft., burrow 20 ft.
+Melee 2 slams +17 (2d8+9)
+Space 15 ft.; Reach 15 ft.
+Special Attacks cold iron natural weapons
+STATISTICS
+Str 28, Dex 8, Con 19, Int 6, Wis 11, Cha 11
+Base Atk +10; CMB +21; CMD 30
+Feats Awesome Blow, Cleave, Greater Bull Rush, Improved Bull RushB, Improved Overrun, Power Attack
+Skills Appraise +6, Climb +18, Knowledge (dungeoneering) +4, Knowledge (planes) +7, Perception +13, Stealth +4
+Languages Terran
+SPECIAL ABILITIES
+
+Cold Iron Natural Weapons (Ex) A cold-iron elemental’s natural attacks function as cold iron for purposes of bypassing DR.

@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/atropocustra-addiction-devil
+Addiction Devil (Atropocustra) CR 5
+XP 1,600
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +4; Senses darkvision 60 ft., see in darkness; Perception +11
+DEFENSE
+AC 19, touch 14, flat-footed 15 (+4 Dex, +5 natural)
+hp 45 (6d10+12)
+Fort +4, Ref +9, Will +7
+DR 5/good or silver; Immune fire, poison; Resist acid 10,
+cold 10; SR 16
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee mwk rapier +9 (1d6+1/18–20) and dagger +8 (1d4+1/19-
+20), or mwk rapier +9 (1d6+1/18–20) and tail barb +8 (1d4+1/19-
+20 plus mycotoxins)
+Ranged tail barb +10 (1d4+1/19-20 plus mycotoxins) or bolas +10 (1d4)
+Spell-Like Abilities (CL 10th; concentration +14)
+Constant—misdirection (DC 16, self only)
+At will—dancing lights, daze (DC 14), ghost sound (DC 14)
+2/day—memory lapse (DC 15), touch of frailty (DC 16), unnatural lust (DC 15), vanish
+1/day—beguiling gift (DC 15), imbue with addiction (DC 16), suggestion (DC 17)
+TACTICS
+Before Combat Atropocustras avoid unnecessary confrontations, undermining characters with addictions and ability damage before engaging them on carefully chosen battlegrounds.
+During Combat Preferring hit-and-run attacks of attrition with their spell-like abilities, bolas, and ranged tail barbs, they dual-wield their rapier and last barb in melee. Once exposed, atropocustras fight to the death.
+STATISTICS
+Str 13, Dex 18, Con 14, Int 16, Wis 14, Cha 19
+Base Atk +6; CMB +7; CMD 21
+Feats Brew Potion, Two-Weapon Fighting, Weapon Finesse
+Skills Acrobatics +11, Bluff +12, Climb +12, Craft (Alchemy) +18, Diplomacy +13, Disguise +9 (+19 while using change shape), Heal +15, Knowledge (nature) +7, Knowledge (planes) +10, Perception +11, Sense Motive +11, Stealth +12, Use Magic Device +12; Racial Modifiers +8 Climb, +6 Craft (Alchemy), +5 Heal.
+Languages Celestial, Common, Draconic, Undercommon; telepathy 100 ft.
+SQ change shape (alter self, Small or Medium humanoid), hellish philosophorum, mycotoxic flesh, palliative caps, veiled predator
+SPECIAL ABILITIES
+Hellish Philosophorum (Ex) An atropocustra gains a competence bonus equal to its racial HD + alchemist class levels (if any) on Craft (alchemy) and Heal checks, and it takes an atropocustra half the normal amount of time to create alchemical items. An atropocustra can use Craft (alchemy) to identify potions as if using detect magic. It must hold the potion for 1 round to make such a check. When using its imbue with addiction spell-like ability, an atropocustra’s flesh acts as a focus in place of a dose of addictive substance or drug worth up to 5 times the devil’s total HD in gp.
+Mycotoxic Flesh (Ex) Atropocustras’ flesh and blood teem with hallucinogenic mycotoxins. Victims are exposed through consumption of atropocustras’ strobili or successful tail barb attacks.
+Mycotoxins—ingestion or injury (barb or barb dagger); addiction moderate; save Fort DC 16; primary effects (30 – target’s Constitution modifier) minutes: +2 bonus to Charisma skill checks and on saves against fear effects, -2 penalty on Will saves against illusions; secondary effects 1d2 Wis damage, 1d4 Con damage, and -2 penalty on saves against addictive substances and thrill-seeking behaviors (including combat, gambling, sex, racing, and similar endorphin-generating activities).
+Palliative Caps (Su) Clusters of agaric caps infused with profane alkaloids sprout from atropocustras’ bodies. These alkaloids retain potency as long as the caps remain unpicked, or for 10 minutes per the atropocustra’s Charisma bonus (typically 40 minutes) once detached. Each cluster consumed heals 1d4 points of damage, and grants a +2 profane bonus to both Heal (first aid) checks to halt bleeding being taken and on Constitution checks to begin recovering hit points naturally. For 24 hours after consuming the cluster, the eater receives a -2 profane penalty on checks to remove ability score damage and drain it has taken, and on checks to resist or remove addiction. Each atropocustra possesses 3 + its Constitution bonus in clusters (typically 5 clusters), which regrow after 24-hours.
+Tail Barb (Ex) With a snap of its tail, an atropocustra can fire a mycotoxic-poisoned tail barb as a standard action with a 20 ft. range increment. It treats its tail barbs as primary attacks even while wielding a light or one-handed manufactured weapon. It does not provoke attacks of opportunity when making ranged attacks with them while threatened. Each atropocustra possesses 3 + its Constitution bonus in barbs (typically 5 barbs), which regrow after 8 hours of rest.
+Veiled Predator An atropocustra loses access to its tail, barbs, and palliative caps while using its change shape ability.

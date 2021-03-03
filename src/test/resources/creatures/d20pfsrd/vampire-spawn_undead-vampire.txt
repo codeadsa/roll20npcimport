@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/vampire/vampire-spawn
+Vampire Spawn CR 4
+XP 1,200
+LE Medium undead
+Init +1; Senses darkvision 60 ft.; Perception +11
+
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+1 Dex, +4 natural)
+hp 26 (4d8+8); fast healing 2
+Fort +3, Ref +2, Will +5
+Defensive Abilities channel resistance +2; DR 5/silver; Immune undead traits; Resist cold 10, electricity 10
+Weaknesses resurrection vulnerability, vampire weaknesses
+
+OFFENSE
+Speed 30 ft.
+Melee slam +4 (1d4+1 plus energy drain)
+Space 5 ft.; Reach 5 ft.
+Special Attacks blood drain, dominate (DC 14), energy drain (1 level, DC 14)
+STATISTICS
+Str 12, Dex 12, Con -, Int 11, Wis 13, Cha 15
+Base Atk +3; CMB +4; CMD 15
+Feats Blind-Fight, Skill Focus (Perception)
+Skills Intimidate +2 , Knowledge (religion) +7 , Perception +11, Stealth +16 ; Racial Modifier +8 Stealth
+Languages Common
+SQ gaseous form, shadowless, spider climb
+SPECIAL ABILITIES
+Blood Drain (Su) A vampire spawn can suck blood from a grappled opponent; if the vampire spawn establishes or maintains a pin, it drains blood, dealing 1d4 points of Constitution damage. The vampire spawn heals 5 hit points or gains 5 temporary hit points for 1 hour (up to a maximum number of temporary hit points equal to its full normal hit points) each round it drains blood.
+Dominate (Su) A vampire spawn can crush a humanoid opponent’s will as a standard action. Anyone the vampire spawn targets must succeed on a Will save (DC 14) or fall instantly under the vampire spawn’s influence, as though by a dominate person spell (caster level 12th). The ability has a range of 30 feet. At the GM’s discretion, some vampire spawns might be able to affect different creature types with this power.
+Energy Drain (Su) A creature hit by a vampire spawn’s slam (or other natural weapon) gains one negative level. This ability only triggers once per round, regardless of the number of attacks a vampire spawn makes.
+Fast Healing (Su) A vampire spawn also gains fast healing 2. If reduced to 0 hit points in combat, a vampire spawn assumes gaseous form (see below) and attempts to escape. It must reach its coffin home within 2 hours or be utterly destroyed. (It can normally travel up to 9 miles in 2 hours.) Additional damage dealt to a vampire spawn forced into gaseous form has no effect. Once at rest, the vampire is helpless. It regains 1 hit point after 1 hour, then is no longer helpless and resumes healing at the rate of 2 hit points per round.
+Gaseous Form (Su) As a standard action, a vampire spawn can assume gaseous form at will (caster level 5th), but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
+Resurrection Vulnerability (Su) A raise dead or similar spell cast on a vampire spawn destroys it (Will negates). Using the spell in this way does not require a material component.
+Shadowless (Ex) A vampire spawn casts no shadows and shows no reflection in a mirror.
+Spider Climb (Ex) A vampire spawn can climb sheer surfaces as though under the effects of a spider climb spell.
+Weaknesses Vampire spawns cannot tolerate the strong odor of garlic and will not enter an area laced with it. Similarly, they recoil from mirrors or strongly presented holy symbols. These things don’t harm the vampire spawn—they merely keep it at bay. A recoiling vampire spawn must stay at least 5 feet away from the mirror or holy symbol and cannot touch or make melee attacks against that creature. Holding a vampire spawn at bay takes a standard action. After 1 round, a vampire spawn can overcome its revulsion of the object and function normally each round it makes a DC 25 Will save.
+Vampire spawns cannot enter a private home or dwelling unless invited in by someone with the authority to do so.
+Reducing a vampire spawn’s hit points to 0 or lower incapacitates it but doesn’t always destroy it (see fast healing). However, certain attacks can slay vampire spawns. Exposing any vampire spawn to direct sunlight staggers it on the first round of exposure and destroys it utterly on the second consecutive round of exposure if it does not escape. Each round of immersion in running water inflicts damage on a vampire spawn equal to one-third of its maximum hit points—a vampire spawn reduced to 0 hit points in this manner is destroyed. Driving a wooden stake through a helpless vampire spawn’s heart instantly slays it (this is a full-round action). However, it returns to life if the stake is removed, unless the head is also severed and anointed with holy water.

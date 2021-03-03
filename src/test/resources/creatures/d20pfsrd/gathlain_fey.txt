@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/gathlain
+Gathlain CR 1/2
+XP 200
+Gathlain sorcerer 1
+CN Small fey
+Init +3; Senses low-light vision; Perception –1
+DEFENSE
+AC 17, touch 15, flat-footed 13 (+3 Dex, +1 dodge, +2 natural, +1 size)
+hp 7 (1d6+1)
+Fort +0, Ref +3, Will +1
+OFFENSE
+Speed 30 ft., fly 40 ft. (poor)
+Melee spear +2 (1d6+1/×3)
+Gathlain Spell-Like Abilities (CL 1st; concentration +4)
+1/day—entangle, feather step
+Bloodline Spell-Like Abilities (CL 1st; concentration +4)
+6/day—laughing touch
+Sorcerer Spells Known (CL 1st; concentration +4)
+1st (4/day)—color spray (DC 14), magic missile
+0 (at will)—dancing lights, daze (DC 15), ghost sound (DC 13), ray of frost
+Bloodline fey
+STATISTICS
+Str 12, Dex 16, Con 11, Int 10, Wis 8, Cha 17
+Base Atk +0; CMB +0; CMD 14
+Feats Dodge, Eschew Materials
+Skills Fly +1, Knowledge (arcana) +4, Spellcraft +4
+Languages Common, Sylvan
+SQ bloodline arcana (+2 DC for compulsion spells)

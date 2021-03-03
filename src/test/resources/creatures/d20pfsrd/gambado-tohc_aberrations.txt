@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/gambado-tohc
+Gambado CR 3
+XP 800
+CN Medium aberration
+Init +1; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 14, touch 11, flat-footed 13 (+1 Dex, +3 natural)
+hp 26 (4d8+8)
+Fort +3; Ref +2; Will +5
+OFFENSE
+Speed 40 ft.
+Melee bite +5 (1d8+2), 2 claws +5 (1d4+2)
+STATISTICS
+Str 14, Dex 12, Con 14, Int 6, Wis 12, Cha 8
+Base Atk +3; CMB +5; CMD 16
+Feats Alertness, Skill Focus (Stealth)
+Skills Acrobatics +6 (+14 jump), Perception +8, Sense Motive +5, Stealth +9; Racial Modifiers +4 Acrobatics (jump)
+

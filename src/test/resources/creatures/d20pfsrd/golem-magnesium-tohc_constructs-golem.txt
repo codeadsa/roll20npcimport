@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-magnesium-tohc
+Magnesium Golem CR 6
+XP 2,400
+N Medium construct
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +0
+Aura aura of sickness (10 ft., DC 16, sickened 1d4 minutes)
+DEFENSE
+AC 18, touch 11, flat-footed 17 (+1 Dex, +7 natural)
+hp 64 (8d10+20)
+Fort +2; Ref +3; Will +2
+DR 10/adamantine; Immune construct traits, magic
+Weaknesses rust vulnerability
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +10 (2d6+2 plus 1d4 Dexterity damage)
+STATISTICS
+Str 15, Dex 13, Con —, Int —, Wis 11, Cha 1
+Base Atk +8; CMB +10; CMD 21
+SPECIAL ABILITIES
+Aura of Sickness (Su) As a free action, a magnesium golem can generate an aura in a 10-foot radius spread that sickens all living creatures entering the area for 1d4 minutes if that creature fails a DC 16 Fortitude save. A creature that successfully saves cannot be affected again by the same magnesium golem’s aura of sickness for 24 hours. A delay poison or neutralize poison spell removes the effect from a sickened creature. This is a poison effect. The save DC is Constitution-based and includes a +2 racial bonus.
+Dexterity Damage (Su) A magnesium golem’s slam attack deals 1d4 points of Dexterity damage to a living foe if it fails a DC 14 Fortitude save. The save DC is Constitution-based.
+Immunity to Magic (Ex) A magnesium golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature as noted below.
+A magic attack that deals water damage or creates water slows a magnesium golem (as the slow spell) for 3 rounds, with no saving throw.
+A magical effect that deals fire damage breaks any slow effect and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A magnesium golem gets no saving throw against fire effects.
+Rust Vulnerability (Ex) A magnesium golem is affected normally by rust attacks, such as that of a rust monster or a rusting grasp spell.

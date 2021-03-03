@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/inphidians/inphidian-dancer
+Dancer Inphidian CR 3
+XP 800
+NE Medium monstrous humanoid (reptilian)
+Init +3; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 17, touch 13, flat-footed 14 (+3 Dex, +4 natural)
+hp 30 (4d10+8)
+Fort +3; Ref +7; Will +5
+OFFENSE
+Speed 30 ft.
+Melee 2 snake-hand bites +5 (1d4+1 plus poison)
+Special Attacks entrancing dance, poison (DC 16)
+STATISTICS
+Str 12, Dex 17, Con 14, Int 13, Wis 12, Cha 15
+Base Atk +4; CMB +5; CMD 18
+Feats Alertness, Skill Focus (Perform [dance])
+Skills Bluff +6, Perception +10, Perform (dance) +9, Sense Motive +7, Stealth +10
+Languages Common, Inphidian
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 16; frequency 1/round for 4 rounds; effect 1d4 Strength damage; cure 1 save. The save is Constitution-based and includes a +2 racial bonus.
+Entrancing Dance (Su) A dancer inphidian can sway its body in a rhythmic motion that charms all those within 30 feet viewing the dance. The charmer makes a Perform (dance) check. Those viewing the dance must make a successful Will save (DC equal to the charmer’s Perform check) or be fascinated for 1d4+2 rounds. A creature that makes a successful save is immune to the entrancing dance of that charmer for one day.
+
+Dancer Inphidian Characters
+Special Attacks: entrancing dance, poison. See Inphidians for more details on playable inphidians.

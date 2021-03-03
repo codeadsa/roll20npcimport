@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gray-render
+Gray Render CR 8
+XP 4,800
+N Large magical beast
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +13
+DEFENSE
+AC 21, touch 10, flat-footed 20 (+1 Dex, +11 natural, –1 size)
+hp 100 (8d10+56)
+Fort +13, Ref +7, Will +4
+OFFENSE
+Speed 30 ft.
+Melee bite +14 (2d6+7), 2 claws +15 (1d8+7 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d8+10)
+STATISTICS
+Str 25, Dex 13, Con 24, Int 3, Wis 14, Cha 8
+Base Atk +8; CMB +16 (+20 grapple); CMD 27
+Feats Awesome Blow, Improved Bull Rush, Power Attack, Weapon Focus (claw)
+Skills Perception +13, Survival +6; Racial Modifiers +4 Perception
+SQ double damage against objects
+Languages Giant
+SPECIAL ABILITIES
+Double Damage Against Objects (Ex) A gray render that makes a full attack against an object or structure deals double damage.
+Gray render art by Raynaldo Perez. Used with permission.
+
+3rd Party Publisher Options ( Samurai Sheepdog) When captured by a monster trainer, gray renders grant the trainer access to new spells.

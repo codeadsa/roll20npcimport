@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/wolpertinger
+Wolpertinger CR 1
+XP 400
+N Tiny magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 15 (2d10+4)
+Fort +5, Ref +5, Will +1
+OFFENSE
+Speed 40 ft., fly 40 ft. (average)
+Melee bite +6 (1d3–1 plus bleed 1d4), gore +6 (1d3–1)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks bleed (1d4)
+STATISTICS
+Str 9, Dex 14, Con 15, Int 4, Wis 13, Cha 6
+Base Atk +2; CMB +2; CMD 11 (15 vs. trip)
+Feats Weapon Finesse
+Skills Fly +6, Perception +5, Stealth +14

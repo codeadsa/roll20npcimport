@@ -1,0 +1,7 @@
+spring:
+logging:
+  level:
+    org.springframework.web: WARN
+    guru.springframework.controllers: WARN
+    org.hibernate: WARN
+    org.pf1etools: INFO

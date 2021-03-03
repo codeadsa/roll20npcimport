@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/plagued-steed
+Plagued Horse CR 2
+XP 600
+NE Large undead (augmented animal)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +6
+DEFENSE
+AC 14, touch 12, flat-footed 11 (+3 Dex, +2 natural, –1 size)
+hp 16 (2d8+7)
+Fort +5, Ref +6, Will +1
+Defensive Abilities channel resistance +2; DR 5/slashing;
+Immune cold, undead traits
+OFFENSE
+Speed 50 ft.
+Melee bite +5 (1d8+5 plus disease), 2 hooves +0 (1d4+2)
+Space 10 ft.; Reach 10 ft.
+Special Attacks disease
+STATISTICS
+Str 20, Dex 16, Con —, Int 2, Wis 13, Cha 15
+Base Atk +1; CMB +7; CMD 20 (24 vs. trip)
+Feats Endurance, Run B, Toughness B
+Skills Perception +6
+SQ docile
+SPECIAL ABILITIES
+Disease (Ex) Demon Plague: Bite—injury; save Fortitude DC 13; onset 1 day; frequency 1/day; effect 1d3 Constitution damage and 1d6 Wisdom damage, victim is fatigued if it takes any ability damage from the disease, and certain creatures slain by demon plague rise as plagued beasts; cure 3 consecutive saves.

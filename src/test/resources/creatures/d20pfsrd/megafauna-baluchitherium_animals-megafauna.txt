@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/megafauna/megafauna-baluchitherium
+Baluchitherium CR 8
+XP 4,800
+N Huge animal
+Init +0; Senses low-light vision, scent; Perception +16
+DEFENSE
+AC 22, touch 8, flat-footed 22 (+14 natural, -2 size)
+hp 114 (12d8+60)
+Fort +15, Ref +8, Will +7
+OFFENSE
+Speed 40 ft.
+Melee 2 hooves +16 (2d8+9)
+Space 15 ft.; Reach 10 ft.
+Special Attacks trample (2d8+13, DC 25)
+STATISTICS
+Str 29, Dex 10, Con 21, Int 2, Wis 13, Cha 6
+Base Atk +9; CMB +20 (+22 bull rush); CMD 30 (32 vs. bull rush, 34 vs. trip)
+Feats Awesome Blow, Great Fortitude, Improved Bull Rush, Iron Will, Power Attack, Skill Focus (Perception)
+Skills Perception +16, Swim +15
+Source Wikipedia

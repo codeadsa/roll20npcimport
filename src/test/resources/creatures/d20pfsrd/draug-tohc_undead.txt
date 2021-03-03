@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/draug-tohc
+Draug CR 4
+XP 1,200
+CE Medium undead (water)
+Init +2; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 38 (5d8+10)
+Fort +5; Ref +3; Will +6
+Defensive Abilities channel resistance +2; Immune undead traits; Resist fire 10
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee cutlass +6 (1d6+2/19–20) or 2 claws +5 (1d4+2)
+Special Attacks call storm
+STATISTICS
+Str 14, Dex 15, Con —, Int 12, Wis 14, Cha 14
+Base Atk +3; CMB +5; CMD 17
+Feats Alertness, Great Fortitude, Weapon Focus (cutlass)
+Skills Acrobatics +5, Climb +8, Escape Artist +5, Perception +10, Profession (sailor) +6, Sense Motive +4, Stealth +8, Survival +5, Swim +17; Racial Modifiers +4 Swim
+SQ control ship
+Gear rusty cutlass
+SPECIAL ABILITIES
+Call Storm (Su) Once per day, a draug can summon inclement weather to harass its opponents. The effects are felt immediately (i.e., there is no gradual shift in the weather). Otherwise, this ability is identical to the control weather spell (caster level 6th).
+Control Ship (Su) A draug has full control over its vessel (wind notwithstanding) so long as it remains at the wheel or within 20 feet of the helmsman. Should it leave the area, its ship meanders in a random direction until the draug regains control. A draug also imbues its ship with special abilities (see Draug Ships).
+New Weapon: Cutlass (Martial One-Handed Melee Weapon)
+Cost 15 gp; Damage 1d4 (S), 1d6 (M); Crit 19–20/x2, Weight 3 lb., Type slashing.
+Draug Ships
+When a ship sinks beneath the waves, it and its entire crew may return as ghostly wanderers, especially if the captain and crew had a less than scrupulous profession (as pirates, for example). A sunken ship of this nature may undergo a transformation from the negative energy and evil surrounding it. When this happens, the ship rises from the deep, piloted by a draug and manned by skeletons, brine zombies, zombies, and lacedons.
+The ship appears as it did at the time of its demise. The sails are tattered and the decks covered with seaweed. When a draug is at the helm, the “ghost ship” gains the following powers:
+Buoyancy (Su) Regardless of the condition of the hull, a draug-piloted ship remains afloat in any weather conditions. It is not affected by wind of any type (though the draug can still use the wind to maneuver and sail the ship) and can even sail against gale-force winds. Strong waves may toss the ship about, but will not capsize it as a result.
+Flight (Su) A draug can maneuver his ship to leave the waves and take to the air as long as the draug remains on board. This functions as fly cast by a sorcerer with a caster level equal to the draug’s HD.
+Immunity to Fire (Ex) A draug ship is so waterlogged and infused with negative energy that it is completely immune to all fire effects.

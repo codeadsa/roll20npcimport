@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/animal-elemental-fgg/fire-fish-fgg
+Fire Fish CR 1
+XP 400
+N Small animal (aquatic*, fire)
+Init +6; Senses low-light vision, tremorsense 10 ft.; Perception +7; Aura heat (5 ft. radius)
+DEFENSE
+AC 14, touch 12, flat-footed 13 (+1 Dex, +2 natural, +1 size)
+hp 13 (3d8)
+Fort +3; Ref +5; Will +2
+Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed swim 40 ft.
+Melee slam –1 (1d4–4 plus heat)
+Special Attacks heat (1d4 fire damage)
+STATISTICS
+Str 3, Dex 14, Con 10, Int 1, Wis 12, Cha 5
+Base Atk +2; CMB +0; CMD 12
+Feats Alertness, Improved Initiative
+Skills Perception +7, Sense Motive +3, Swim +15; Racial Modifiers modifies Swim with Dex

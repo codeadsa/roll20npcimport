@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/dinosaur-spinosaurus
+Spinosaurus CR 11
+XP 12,800
+N Gargantuan animal
+Init +6; Senses low-light vision, scent; Perception +25
+DEFENSE
+AC 24, touch 8, flat-footed 22 (+2 Dex, +16 natural, -4 size)
+hp 170 (20d8+80)
+Fort +16, Ref +16, Will +9
+OFFENSE
+Speed 40 ft., swim 30 ft.
+Melee bite +23 (2d8+12/19-20 plus grab), 2 claws +23 (2d6+12)
+Space 20 ft.; Reach 20 ft.
+Special Attacks pounce, swallow whole (2d8+12, AC 18, 17 hp)
+STATISTICS
+Str 34, Dex 15, Con 18, Int 2, Wis 13, Cha 13
+Base Atk +15; CMB +31 (+35 grapple); CMD 43
+Feats Critical Focus, Diehard, Endurance, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Run, Skill Focus (Perception), Staggering Critical
+Skills Perception +25, Swim +28
+SQ hold breath
+Source Wikipedia Source Wikipedia

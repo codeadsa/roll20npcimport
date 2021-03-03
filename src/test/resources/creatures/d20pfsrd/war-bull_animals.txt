@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/war-bull
+War Bull CR 7
+XP 3,200
+N Huge animal
+Init +1; Senses low-light vision; Perception +8
+DEFENSE
+AC 20, touch 9, flat-footed 18 (+1 Dex, +11 natural, –2 size)
+hp 85 (9d8+45)
+Fort +10, Ref +7, Will +3
+OFFENSE
+Speed 40 ft.
+Melee gore +14 (2d6+15)
+Space 15 ft.; Reach 15 ft.
+Special Attacks trample (3d8+15, DC 24)
+STATISTICS
+Str 31, Dex 12, Con 19, Int 2, Wis 11, Cha 4
+Base Atk +6; CMB +18; CMD 29
+Feats Diehard, Endurance, Improved Natural Attack (gore), Power Attack, Toughness
+Skills Perception +8, Swim +17

@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/cat-great/lion/dire-lion
+Dire (Spotted) Lion CR 5
+XP 1,600
+N Large animal
+Init +6; Senses low-light vision, scent; Perception +11
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+2 Dex, +4 natural, –1 size)
+hp 60 (8d8+24)
+Fort +9, Ref +8, Will +3
+OFFENSE
+Speed 40 ft.
+Melee bite +12 (1d8+7 plus grab), 2 claws +13 (1d6+7)
+Space 10 ft.; Reach 5 ft.
+Special Attacks pounce, rake (2 claws +13, 1d6+7)
+STATISTICS
+Str 25, Dex 15, Con 17, Int 2, Wis 12, Cha 10
+Base Atk +6; CMB +14 (+18 grapple); CMD 26 (30 vs. trip)
+Feats Improved Initiative, Run, Skill Focus (Perception), Weapon Focus (claw)
+Skills Acrobatics +11, Perception +11, Stealth +7 (+11 in undergrowth); Racial Modifiers +4 Acrobatics, +4 Stealth (+8 in undergrowth)

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/inphidians/inphidian-common
+Common Inphidian CR 3
+XP 800
+NE Medium monstrous humanoid (reptilian)
+Init +7; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 17, touch 13, flat-footed 14 (+3 Dex, +4 natural)
+hp 30 (4d10+8)
+Fort +3; Ref +7; Will +5
+OFFENSE
+Speed 30 ft.
+Melee 2 snake-hand bites +6 (1d4+2 plus poison)
+Special Attacks blinding spray, poison (DC 16)
+STATISTICS
+Str 14, Dex 17, Con 15, Int 12, Wis 13, Cha 12
+Base Atk +4; CMB +6; CMD 19
+Feats Alertness, Improved Initiative
+Skills Climb +9, Craft (alchemy) +8, Perception +10, Stealth +8, Sense Motive +7
+Languages Aklo, Common, Inphidian
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 16; frequency 1/round for 4 rounds; effect 1d4 Strength damage; cure 1 save. The save is Constitution-based and includes a +2 racial bonus.
+Blinding Spray (Ex) Once every 1d4 rounds, a common inphidian can spew forth a 20-foot line of milky-white liquid that causes blindness (as the blindness spell) for 6 rounds to any creature struck. A DC 14 Reflex save negates the effect. The save DC is Constitution-based.
+
+Common Inphidian Characters
+Special Attacks: blinding spray, poison. See Inphidians for more details on playable inphidians.

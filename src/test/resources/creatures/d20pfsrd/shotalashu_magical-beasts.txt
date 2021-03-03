@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/shotalashu
+Shotalashu CR 2
+XP 600
+N Large magical beast
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 15, touch 12, flat-footed 12 (+3 Dex, +3 natural, –1 size)
+hp 25 (3d10+9)
+Fort +6, Ref +6, Will +3
+OFFENSE
+Speed 60 ft.
+Melee 2 claws +4 (1d6+2)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 15, Dex 17, Con 17, Int 4, Wis 14, Cha 12
+Base Atk +3; CMB +6; CMD 19
+Feats Improved Initiative, Skill Focus (Perception)
+Skills Acrobatics +7 (+19 when jumping), Perception +9, Stealth +3
+Languages Lashunta (can’t speak)
+SQ jungle strider, telepathic link
+SPECIAL ABILITIES
+Jungle Strider (Ex) Shotalashu are adept at traversing jungle terrain. While in a jungle, a shotalashu’s speed is not impeded by natural difficult terrain.
+Telepathic Link (Su) A lashunta can spend 1 hour and attempt a DC 20 concentration check (using her highest concentration bonus) to form a telepathic bond with an unbound shotalashu. If the lashunta is successful, the rider’s link allows her to concisely explain what she wants the shotalashu to do, allowing her to attempt Handle Animal checks to command the shotalashu as a free action, even if the lashunta pushes the shotalashu. The bonded lashunta gains both a +10 bonus on Handle Animal checks and a +5 bonus on Ride checks involving the shotalashu. A lashunta can break her link with one shotalashu in favor of another at any time, but a lashunta can’t be linked to more than one shotalashu at a time. If either linked being dies while bonded, the surviving creature suffers telepathic backlash, becoming dazed for 1 round and taking 1d6 points of damage per Hit Die of the slain bonded partner.

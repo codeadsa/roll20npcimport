@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/triceratops
+Triceratops CR 8
+XP 4,800
+N Huge animal
+Init –1; Senses low-light vision, scent; Perception +21
+DEFENSE
+AC 21, touch 7, flat-footed 21 (–1 Dex, +14 natural, –2 size)
+hp 119 (14d8+56)
+Fort +15, Ref +8, Will +5
+OFFENSE
+Speed 30 ft.
+Melee gore +17 (2d10+12)
+Space 15 ft.; Reach 15 ft.
+Special Attacks powerful charge (gore, 4d10+16), trample (1d8+12, DC 25)
+STATISTICS
+Str 26, Dex 9, Con 19, Int 2, Wis 12, Cha 7
+Base Atk +10; CMB +20; CMD 29 (33 vs. trip)
+Feats Great Fortitude, Improved Bull Rush, Improved Critical, Power Attack, Run, Skill Focus (Perception), Weapon Focus (gore)
+Skills Perception +24

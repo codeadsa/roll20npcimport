@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/allip
+Allip CR 3
+XP 800
+CE Medium undead (incorporeal)
+Init +5; Senses darkvision 60 ft.; Perception +7; Aura babble (60 ft., DC 15)
+DEFENSE
+AC 14, touch 14, flat-footed 13 (+3 deflection, +1 Dex)
+hp 30 (4d8+12)
+Fort +4, Ref +4, Will +4
+Defensive Abilities channel resistance +2, incorporeal; Immune undead traits
+OFFENSE
+Speed fly 30 ft. (perfect)
+Melee incorporeal touch +4 (1d4 Wisdom damage)
+Special Attacks babble, touch of insanity
+STATISTICS
+Str —, Dex 12, Con —, Int 11, Wis 11, Cha 16
+Base Atk +3; CMB +4; CMD 17
+Feats Improved Initiative, Lightning Reflexes
+Skills Fly +16, Intimidate +10, Perception +7, Stealth +8
+Languages Aklo, Common
+SQ madness
+SPECIAL ABILITIES
+Babble (Su) An allip constantly mutters to itself, creating a hypnotic effect. All sane creatures within 60 feet of the allip must succeed at a DC 15 Will save or be fascinated for 2d4 rounds. While a target is fascinated, the allip can approach it without breaking the effect, but an attack by the allip does end the effect. Creatures that successfully save cannot be affected by the same allip’s babble for 24 hours. This is a sonic, mind-affecting compulsion effect. The save DC is Charisma-based.
+Madness (Su) Anyone targeting an allip with a thought detection, mind control, or telepathic effect makes direct contact with its tortured mind and takes 1d4 points of Wisdom damage.
+Touch of Insanity (Su) The touch of an allip deals 1d4 points of Wisdom damage (DC 15 Will negates). A successful critical hit causes 1d4 points of Wisdom damage and 1 point of Wisdom drain (instead of double Wisdom damage). With each successful attack, an allip gains 5 temporary hit points. The save DC is Charisma-based.

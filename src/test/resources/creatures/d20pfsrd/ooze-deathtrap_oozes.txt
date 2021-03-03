@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-deathtrap
+Deathtrap Ooze CR 8
+XP 4,800
+N Large ooze (shapechanger)
+Init -4; Senses Perception -5
+DEFENSE
+AC 10, touch 5, flat-footed 10 (-4 Dex, +5 natural, -1 size)
+hp 126 (12d8+72)
+Fort +10, Ref +0, Will -1
+Immune acid, ooze traits
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee slam +13 (2d6+6 plus 2d6 acid and grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (2d6+6 plus 2d6 acid)
+STATISTICS
+Str 20, Dex 3, Con 22, Int —, Wis 1, Cha 1
+Base Atk +9; CMB +15 (+19 grapple); CMD 21 (can’t be tripped)
+Skills Climb +13
+SQ compression, trap form
+SPECIAL ABILITIES
+Acid (Ex) A deathtrap ooze secretes acid that dissolves only flesh. Creatures made of materials other than flesh are immune to this acid.
+Trap Form (Su) Taking 1 minute to do so, a deathtrap ooze can assume the form of any Medium or Large mechanical trap that has no more than one moving part (excluding pits). The ooze can maintain this form indefinitely. The trap it can assume the form of must be of a CR equal to or less than that of the deathtrap ooze itself—appropriate traps include the swinging axe trap (CR 1), the wall scythe trap (CR 4), and the falling block trap (CR 5). In trap form, the ooze uses its attack bonus, but otherwise functions as the emulated trap and uses that trap’s statistics and damage. If a creature searching for traps exceeds the DC to find the ooze’s trap form, a successful follow-up DC 19 Knowledge (dungeoneering) check allows the creature that discovered the trap to discern its true nature. If the ooze takes any damage, it reverts to its normal form as a free action. Otherwise, reverting to its normal form takes a swift action.

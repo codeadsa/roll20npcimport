@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/scorpion/scorpion-giant-emperor
+Giant Emperor Scorpion CR 11
+XP 12,800
+N Gargantuan vermin
+Init +1; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +5
+DEFENSE
+AC 24, touch 7, flat-footed 23 (+1 Dex, +17 natural, –4 size)
+hp 142 (15d8+75)
+Fort +14, Ref +6, Will +6
+Defensive Ability ferocity; Immune mind-affecting effects
+OFFENSE
+Speed 50 ft., burrow 10 ft.
+Melee 2 claws +18 (2d6+11 plus grab), sting +18 (2d6+11 plus poison)
+Space 20 ft.; Reach 20 ft.
+Special Attacks ambush pit, constrict (2d6+11), poison, pounce
+STATISTICS
+Str 33, Dex 13, Con 20, Int —, Wis 12, Cha 2
+Base Atk +11; CMB +26 (+30 grapple); CMD 37 (49 vs. trip)
+Skills Climb +15, Perception +5, Stealth –3 (+1 in deserts); Racial Modifiers +4 Climb, +4 Perception, +8 Stealth (+12 in deserts)
+SPECIAL ABILITIES
+Ambush Pit (Ex) A giant emperor scorpion can spend 1 minute digging itself into the soil or other ground debris. It then waits for its tremorsense to detect prey. When a creature comes within range, it can erupt from the ground as a free action as part of a charge, allowing it to use its pounce ability. When dug in, the scorpion has improved cover granting it a +10 bonus on Stealth checks.
+Poison (Ex) Sting—injury; save Fort DC 22; frequency 1/round for 6 rounds; effect 1d4 Str and 1d4 Dex; cure 1 save. The save DC is Constitution-based.
+Source: Metajock @ CSUAC

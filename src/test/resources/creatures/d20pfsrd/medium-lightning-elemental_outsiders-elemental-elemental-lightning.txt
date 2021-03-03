@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning/medium-lightning-elemental
+Medium Lightning Elemental
+CR 3
+XP 800
+N Medium outsider (air, elemental, extraplanar)
+Init +8; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 16, touch 15, flat-footed 11 (+4 Dex, +1 dodge, +1 natural)
+hp 26 (4d10+4)
+Fort +5, Ref +8, Will +1
+Immune electricity, elemental traits
+OFFENSE
+Speed fly 100 ft. (perfect)
+Melee slam +8 (1d6+3 plus 1d4 electricity)
+Special Attacks metal mastery, spark leap
+STATISTICS
+Str 14, Dex 19, Con 12, Int 4, Wis 11, Cha 11
+Base Atk +4; CMB +6; CMD 21
+Feats Dodge, Improved Initiative, Weapon FinesseB
+Skills Acrobatics +11, Escape Artist +9, Fly +12, Knowledge (planes) +2, Perception +7
+Language Auran
+SPECIAL ABILITIES
+Metal Mastery (Ex) A lightning elemental gains a +3 bonus on attack rolls if its opponent is wearing metal armor, is wielding a metal weapon, or is made of metal (such as an iron golem).
+Spark Leap (Ex) A lightning elemental gains a +10 bonus on bull rush, disarm, overrun, and trip attacks when it charges a creature against whom its metal mastery ability applies.

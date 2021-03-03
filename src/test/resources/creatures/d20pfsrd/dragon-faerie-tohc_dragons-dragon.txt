@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-faerie-tohc
+Faerie Dragon (Draco Fraudatio Minimus)
+CR 2
+XP 600
+CG Tiny dragon
+Init +3; Senses dragon senses; Perception +8
+DEFENSE
+AC 18, touch 16, flat-footed 14 (+3 Dex, +1 dodge, +2 natural, +2 size)
+hp 22 (3d12+3)
+Fort +4; Ref +6; Will +5
+Immune magical paralysis, sleep; SR 14
+OFFENSE
+Speed 10 ft., fly 60 ft. (perfect), swim 30 ft.
+Melee bite +8 (1d3–1)
+Space 2-1/2 ft.; Reach 0 ft. (2-1/2 ft. with bite)
+Special Attacks breath weapon (5 ft. cone, Fort DC 12, euphoria 1d6 rounds)
+Spell-like Abilities (CL 3rd)
+3/day—greater invisibility (self only)
+Sorcerer Spells Known (CL 3rd)
+1st (6/day)—grease (DC 14), silent image (DC 14), sleep (DC 14)
+0th (at will)—dancing lights, flare (DC 13), ghost sound, mage hand, open/close
+— OR —
+Druid Spells Prepared (CL 3rd)
+2nd—animal trance (DC 14), warp wood (DC 14)
+1st—charm animal (DC 13), entangle (DC 13), speak with animals
+0th—create water, detect magic, flare (DC 12), light
+STATISTICS
+Str 9, Dex 17, Con 13, Int 16, Wis 14, Cha 16
+Base Atk +3; CMB +4; CMD 14 (18 vs. trip)
+Feats Acrobatic, Dodge, Weapon Finesse B
+Skills Acrobatics +8, Bluff +9, Diplomacy +9, Fly +23, Knowledge (nature) +9, Perception +8, Sense Motive +8, Stealth +17, Swim +11, Use Magic Device +9
+Languages Common, Draconic, Elven, Sylvan; telepathy 100 ft.
+SPECIAL ABILITIES
+Breath Weapon (Su) A faerie dragon’s breath weapon is a 5-foot cone of pink gas. Creatures caught in the puff must succeed on a Fortitude save or experience extreme euphoria for 1d6 rounds. Affected creatures are staggered, sickened, and immune to fear effects for the duration of the euphoria.
+

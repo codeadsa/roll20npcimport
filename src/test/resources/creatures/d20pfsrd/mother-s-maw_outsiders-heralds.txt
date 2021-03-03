@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/mother-s-maw
+Mother’s Maw CR 15
+XP 51,200
+NE Large undead (evil, extraplanar, herald)
+Init +11; Senses darkvision 60 ft., scent, lifesense; Perception +26; Aura desecrate (20 ft.)
+DEFENSE
+AC 30, touch 16, flat-footed 23 (+7 Dex, +14 natural, –1 size)
+hp 189 (18d8+108); fast healing 5 or 20 (see devour soul)
+Fort +13, Ref +16, Will +19
+Defensive Abilities channel resistance +4; spell deflection; DR 15/bludgeoning and good; Immune cold, electricity, undead traits; Resist fire 30; SR 26
+OFFENSE
+Speed 10 ft., fly 40 ft. (average)
+Melee bite +24 (5d6+17/19–20 plus bleed, disease, drain, and grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (60-ft. cone, 15d6 negative energy, Reflex DC 25 for half, usable every 1d4 rounds), channel negative energy 9/day (DC 19, 6d6), devour soul, disease, swallow whole (special, AC 17, 20 hp)
+Spell-Like Abilities (CL 15th; concentration +21)
+Constant—desecrate
+At will—contagion (DC 20), dimension door, ghoul hunger* (DC 18), inflict critical wounds (DC 20), quickened vomit swarm (maggots, use army ant swarm)
+1/day—animate dead, create undead, eyebite (DC 22), plane shift (DC 22)
+STATISTICS
+Str 33, Dex 25, Con —, Int 21, Wis 20, Cha 22
+Base Atk +13; CMB +25; CMD 42 (can’t be tripped)
+Feats Cleave, Command UndeadB, Critical Focus, Improved Critical (bite), Improved Initiative, Improved Iron Will, Iron Will, Lightning Reflexes, Power Attack, Staggering Critical, Stunning CriticalB
+Skills Acrobatics +25, Fly +26, Intimidate +27, Knowledge (planes) +23, Knowledge (religion) +26, Perception +26, Profession (cook) +23, Sense Motive +26, Stealth +24
+Languages Abyssal, Common, Infernal, Necril
+SQ deathless
+SPECIAL ABILITIES
+Deathless (Su) If destroyed, the herald it returns to unlife 1 hour later at 1 hit point, allowing its fast healing to resume healing it. It can be permanently destroyed by positive energy, being reduced to 0 hit points in the area of a bless or hallow spell, or if 20 vials of holy water are sprinkled on its remains.
+Devour Soul (Su) A creature swallowed by the herald must save every round against slay living (DC 25, caster level 15th). The soul of a creature slain by this attack becomes trapped within the herald’s skull, and the mangled corpse is immediately regurgitated. The creature cannot be brought back to life until the herald’s destruction (or a spell deflection—see below) releases its soul. The Maw can hold only one soul at a time. The trapped essence provides the Maw with fast healing 20, lasting 1 round for every Hit Die of the devoured soul. The trapped soul gains 1 permanent negative level for every round it spends within the Maw—these negative levels remain if the creature is brought back to life (but don’t stack with any negative levels imparted by being brought back to life). A soul that is completely consumed may be restored to life only by a miracle or wish spell. The save DC is Charisma-based.
+Disease (Su) Mother’s Maw bite attack carries mummy rot (Fortitude DC 25).
+Spell Deflection (Su) If any of the following spells is cast at the Maw and overcomes its spell resistance, it instead affects the devoured soul: banishment, chaos hammer, confusion, crushing despair, detect thoughts, dispel evil, dominate person, fear, geas/quest, holy word, hypnotism, imprisonment, magic jar, maze, suggestion, trap the soul, or any form of charm or compulsion.

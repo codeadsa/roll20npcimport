@@ -1,0 +1,49 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-brass/brass-dragon-great-wyrm
+Brass Dragon, Great Wyrm CR 19
+XP 204,800
+CG Gargantuan dragon (fire)
+Init +3; Senses blindsense 60 ft., dragon senses; Perception +39; Aura fire (10 ft., 2d6 fire), frightful presence (360 ft., DC 29)
+DEFENSE
+AC 41, touch 5, flat-footed 41 (-1 Dex, +36 natural, –4 size)
+hp 377 (26d12+208)
+Fort +23, Ref +14, Will +21
+DR 20/magic; Immune fire, paralysis, sleep; SR 30
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 250 ft. (clumsy)
+Melee bite +35 (4d6+19), 2 claws +35 (2d8+13), 2 wings +33 (2d6+7), tail slap +33 (2d8+19)
+Space 20 ft.; Reach 20 ft. (25 ft. with bite)
+Special Attacks breath weapon (120-ft. line, DC 31, 24d4 fire), crush (medium creatures, DC 31, 4d6+19), desert wind, sandstorm, sleep breath, summon djinni, tail sweep (small creatures, DC 31, 2d6+19)
+Spell-Like Abilities (CL 26th; concentration +32)
+At will— control weather, control winds, endure elements, speak with animals, suggestion (DC 19), whirlwind
+Sorcerer Spells Known (CL 19th; concentration +25)
+9th (4/day)–dominate monster (DC 27), power word kill
+8th (6/day)—demand (DC 26), discern location, power word stun
+7th (6/day)—greater teleport, mass hold person (DC 25), power word blind
+6th (7/day)—forceful hand, geas, greater dispel magic
+5th (7/day)—contact other plane, dominate person (DC 23), mirage arcana, prying eyes
+4th (7/day)—charm monster (DC 22), confusion (DC 22), dimensional anchor, locate creature
+3rd (7/day)—displacement, heroism, hold person (DC 20), tongues
+2nd (8/day)—alter self, detect thoughts (DC 18), locate object, resist energy, see invisibility
+1st (8/day)—alarm, charm person (DC 19), protection from evil, shield, ventriloquism
+0 (at will)—arcane mark, dancing lights, detect magic, detect poison, ghost sound (DC 16), mage hand, message, prestidigitation, read magic
+STATISTICS
+Str 37, Dex 8, Con 27, Int 22, Wis 23, Cha 22
+Base Atk +26; CMB +43; CMD 52 (56 vs. trip)
+Feats Alertness, Flyby Attack, Hover, Greater Spell Focus (enchantment), Greater Spell Penetration, Improved Initiative, Improved Vital Strike, Multiattack, Power Attack, Quicken Spell, Spell Focus (enchantment), Spell Penetration, Vital Strike
+Skills Bluff +35, Diplomacy +35, Fly +14, Heal +35, Knowledge (geography) +35, Knowledge (history) +35, Knowledge (local) +35, Linguistics +35, Perception +39, Sense Motive +39, Spellcraft +35, Survival +35
+Languages Common, Draconic, plus any 31 more
+SQ move sand
+SPECIAL ABILITIES
+Desert Wind (Su) A juvenile or older brass dragon can call up the desert wind to serve him. This functions as gust of wind, but any creature in its path must make a Fortitude save (DC 31) or be blinded for 1d4 rounds by the sand.
+Fire Aura (Su)
+
+An old or older brass dragon is surrounded by an aura of intense heat. All creatures within 5 feet of the dragon take 1d6 points of fire damage at the beginning of the dragon’s turn. An ancient brass dragon’s aura extends to 10 feet. A great wyrm’s damage increases to 2d6. A brass dragon can suppress or activate this aura at will as a free action.
+Move Sand (Su) A young or older brass dragon can move sand to excavate ruins or hide treasures. This functions as move earth, but it only affects sand. The dragon uses his HD in place of his caster level for this effect. This is equivalent to a 5th-level spell.
+Sandstorm (Su)
+
+An ancient or older brass dragon can create a powerful sandstorm once per day as a full-round action. This storm has a radius of 1 mile and lasts for 1 minute per age category of the dragon. This functions as a sandstorm (Pathfinder RPG Core Rulebook 431), except that it is also accompanied by windstorm-level winds.
+Sleep Breath (Su) Instead of a line of fire, a brass dragon can breathe a 60 ft. cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+12 rounds.
+Summon Djinni (Sp) This ability, usable by a great wyrm brass dragon once per day, works like a summon monster spell, except that it summons one noble djinni. This ability is the equivalent of a 9th-level spell.
+
+

@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/daughter-of-the-dead
+Daughter of the Dead CR 8
+XP 4,800
+NE Large undead
+Init +7; Senses darkvision 60 ft.; Perception +17; Aura desecrate (20-ft. radius)
+DEFENSE
+AC 21, touch 12, flat-footed 18 (+3 Dex, +9 natural, –1 size)
+hp 115 (11d8+66)
+Fort +9, Ref +7, Will +11
+Defensive Abilities channel resistance +4; Immune undead traits
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee great claw +16 (2d6+9/×4 plus disease), claw +16 (1d8+9)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 11th; concentration +16)
+Constant—desecrate (centered on self)
+Cleric Spells Prepared (CL 6th; concentration +9)
+3rd—bestow curse (DC 16), contagion (DC 16), dispel magicD, inflict serious wounds (DC 16)
+2nd—death knellD (DC 15), hold person (DC 15), inflict moderate wounds (DC 15), resist energy, spiritual weapon
+1st—cause fearD (DC 14), command (DC 14), divine favor, obscuring mist, shield of faith
+0—bleed (DC 13), detect magic, guidance, resistance
+D domain spell; Domains Death, Magic
+STATISTICS
+Str 27, Dex 17, Con —, Int 18, Wis 16, Cha 21
+Base Atk +8; CMB +17; CMD 30
+Feats Ability Focus (disease), Combat Casting, Combat Reflexes, Improved Initiative, Power Attack, Vital Strike
+Skills Acrobatics +14, Bluff +16, Fly +23, Intimidate +19, Knowledge (religion) +18, Perception +17, Sense Motive +17, Spellcraft +18, Stealth +0
+Languages Abyssal, Common, Infernal, Necril
+SPECIAL ABILITIES
+Desecrate (Sp) The bonuses granted from the constant desecrate spell-like ability (which is always centered on herself) are already calculated into the stats above.
+Disease (Su) Bubonic Plague: Great claw—injury; save Fortitude DC 20; onset immediate; frequency 1/day; effect 1d4 Con damage and target is fatigued; cure 2 consecutive saves. The save DC is Charisma-based.
+Great Claw (Ex) One of the creatures hands is a tremendous scythe-shaped claw. This attack inflicts ×4 damage on a critical hit, and is treated as an evil weapon for the purposes of penetrating damage reduction.
+Spells This creature casts spells as a 6th-level cleric, but although she selects two domains to determine bonus spells, she does not gain any domain powers.

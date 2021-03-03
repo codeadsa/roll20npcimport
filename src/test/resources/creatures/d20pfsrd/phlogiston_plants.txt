@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/phlogiston
+Phlogiston CR 3
+XP 800
+N Medium plant
+Init +1; Senses blindsight 60 ft.; Perception +1
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 26 (4d8+8)
+Fort +6, Ref +2, Will +2
+Immune plant immunities; Resist fire 10
+OFFENSE
+Speed 0 ft. (immobile)
+Melee 4 tendrils +6 (1d6+3)
+Space 5 ft.; Reach 5 ft. (10 ft. with tendril)
+Special Attacks fire bolt
+STATISTICS
+Str 17, Dex 13, Con 14, Int –, Wis 12, Cha 2
+Base Atk +3; CMB +6; CMD 17
+Languages —
+SQ death throes
+SPECIAL ABILITIES
+Fire Bolt (Ex) Once every 1d4 rounds as a standard action, a phlogiston bush can release a tiny bolt of fire in a line to a maximum range of 40 feet that deals 2d6 points of fire damage to any creature struck. A successful DC 14 Reflex save reduces damage by 1/2. The save DC is Constitution-based.
+Death Throes (Ex) If a phlogiston bush is reduced to 0 or less hit points, it explodes in a concussive blast of fire that deals 4d6 points of fire damage to all creatures in a 10-foot radius. A successful DC 14 Reflex save reduces damage by 1/2. The save DC is Constitution-based.

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/centaur-raav
+Centaur Raav CR 7
+XP 3,200
+NE Large undead (extraplanar)
+Init +4; Senses darkvision 60 ft.; Perception +22
+DEFENSE
+AC 20, touch 13, flat-footed 16 (+4 Dex, +7 natural, –1 size)
+hp 85 (10d8+40)
+Fort +6; Ref +7; Will +10
+Defensive Abilities bone-spike defense; DR 10/bludgeoning and magic; Immune cold, undead traits
+OFFENSE
+Speed 50 ft.
+Melee 2 claws +13 (1d4+6), 2 arm razors +10 (1d3+3/18–20)
+Space 10 ft.; Reach 5 ft.
+Special Attacks rend (2 claws, 1d4+9), trample (1d6+9, DC 21)
+STATISTICS
+Str 23, Dex 19, Con –, Int 8, Wis 17, Cha 16
+Base Atk +7; CMB +14; CMD 28 (32 vs. overrun, trip)
+Feats Multiattack, Run, Skill Focus (Perception), Toughness, Weapon Focus (claw)
+Skills Intimidate +16, Knowledge (planes) +9, Perception +22
+Languages Shadowspeak, Sylvan
+SQ undersized weapons

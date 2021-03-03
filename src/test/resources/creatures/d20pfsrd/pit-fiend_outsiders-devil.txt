@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/pit-fiend
+Pit Fiend CR 20
+XP 307,200
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +13; Senses darkvision 60 ft., see in darkness; Perception +33; Aura fear (20 ft., DC 23)
+DEFENSE
+AC 38, touch 18, flat-footed 29 (+9 Dex, +20 natural, –1 size)
+hp 350 (20d10+240); regeneration 5 (good weapons, good spells)
+Fort +24, Ref +21, Will +18
+DR 15/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 31
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee 2 claws +32 (2d8+13), 2 wings +30 (2d6+6), bite +32 (4d6+13 plus poison and disease), tail slap +30 (2d8+6 plus grab)
+Space 10 ft., Reach 10 ft.
+Special Attacks constrict 2d8+19, devil shaping
+Spell-Like Abilities (CL 18th)
+At will—blasphemy (DC 25), create undead, fireball (DC 21), greater dispel magic, greater teleport (self plus 50 lbs. of objects only), greater scrying (DC 25), invisibility, magic circle against good, mass hold monster (DC 27), persistent image (DC 23), power word stun, scorching ray, trap the soul (DC 26), unholy aura (DC 26), wall of fire
+3/day—quickened fireball (DC 21)
+1/day—meteor swarm, summon (level 9, any 1 CR 19 or lower devil, 100%)
+1/year—wish
+STATISTICS
+Str 37, Dex 29, Con 35, Int 26, Wis 30, Cha 26
+Base Atk +20; CMB +34 (+38 grapple); CMD 53
+Feats Cleave, Great Cleave, Improved Initiative, Improved Iron Will, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Quicken Spell-Like Ability (fireball), Vital Strike
+Skills Appraise +17, Bluff +31, Diplomacy +31, Disguise +27, Fly +30, Intimidate +31, Knowledge (arcana) +28, Knowledge (planes) +31, Knowledge (religion) +31, Perception +33, Sense Motive +33, Spellcraft +31, Stealth +28, Survival +22, Use Magic Device +28
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Devil Shaping (Su) Three times per day, a pit fiend can spend a minute to transform nearby lemures into other lesser devils. A pit fiend can transform one lemure for every Hit Die the pit fiend possesses. It can then reshape these lemures into a number of Hit Dice‘s worth of lesser devils equal to the number of lemures affected. For example, a typical 20 Hit Dice pit fiend could transform 20 lemures into two bone devils (10 HD each), or three bearded devils (6 HD each, leaving two lemures unchanged), or any other combination of lesser devils. Lemures to be reshaped must be within 50 feet of the pit fiend, becoming stationary and unable to move once the shaping begins. After a minute passes, the lemures reform into the shape of a new lesser devil ready to follow the orders of the pit fiend. Although pit fiends can, technically, elevate a mass of 20 lemures into a new pit fiend, most are hesitant to do so since they have no special control over a devil created in this manner.
+Disease (Su) Devil Chills: Bite—injury; save Fort DC 32; onset immediate; frequency 1/day; effect 1d4 Str damage; cure 3 consecutive saves. The save DC is Constitution-based.
+Poison (Ex) Bite—injury; save Fort DC 32; frequency 1/round for 10 rounds; effect 1d6 Con damage; cure 3 consecutive saves. The save DC is Constitution-based.
+Infernal Dukes The most powerful of pit fiends are lords in their own right—members of the elite caste of infernal politics and leadership known as the Dukes of Hell. While not all of the Dukes of Hell are pit fiends, the majority of them are. As a general rule, a pit fiend Duke of Hell has several levels of a particular character class, the advanced simple template, or in some cases unusual spell-like abilities or unique powers over and above those of most pit fiends. Listed here are three sample unique pit fiend duke abilities, but these examples are by no means the entirety of what strange powers an infernal duke might wield.
+Deathmastery (Su) The pit fiend duke’s ability to manipulate the souls of the damned extends beyond the standard devil shaping power. Whenever a pit fiend slays a humanoid, it can attempt to transform the slain creature’s soul into a ghost under the pit fiend’s control. The pit fiend may control a number of ghosts in this manner equal to its Charisma modifier.
+Master of Magic (Su) The pit fiend duke has additional spell-like abilities (20 spell levels’ worth of 1st–4th level spells usable at will and 20 spell levels’ worth of 5th–8th level spells usable 3 times a day).
+Hellfire Breath (Su) The pit fiend gains a devastating breath weapon that it can use once every 1d4 rounds. This breath weapon is a 60-foot cone of fire (10d10 fire damage and 10d10 unholy damage as per flame strike, successful Reflex save [DC 10 + 1/2 the pit fiend’s racial HD + the pit fiend’s Constitution modifier] half).
+Pathfinder Chronicles: Princes of Darkness, Book of the Damned Vol. I. Copyright 2009, Paizo Publishing, LLC; Author: F. Wesley Schneider.
+Infernal Sacrifices Nothing but the most blasphemous of offerings can tempt a pit fiend to service. Only the sacrifice of a powerful good-aligned cleric or noteworthy angel, the destruction of a significant holy relic, or the offering of a powerful tool of evil might aid a summoner in coaxing a pit fiend from the infernal realm. Any such sacrifice grants the summoner a +2 Charisma bonus on checks made to summon such lords of devilkind.
+Pathfinder Chronicles: Princes of Darkness, Book of the Damned Vol. I. Copyright 2009, Paizo Publishing, LLC; Author: F. Wesley Schneider.
+3rd Party Publisher Options (NwP) When captured by a monster trainer, pit fiends grant the trainer access to new spells.

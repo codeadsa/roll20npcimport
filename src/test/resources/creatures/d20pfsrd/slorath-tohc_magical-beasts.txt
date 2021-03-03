@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/slorath-tohc
+Slorath CR 18
+XP 153,600
+CE Gargantuan magical beast (cold)
+Init +7; Senses darkvision 60 ft.; Perception +25
+DEFENSE
+AC 25, touch 9, flat-footed 22 (+3 Dex, +16 natural, -4 size)
+hp 250 (20d10+140)
+Fort +19, Ref +17, Will +10
+Immune cold; SR 32
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 30 ft., burrow 10 ft.
+Melee bite +26 (2d8+15)
+Ranged paralysis ray +20 (paralysis)
+Space 20 ft.; Reach 15 ft.
+Special Attacks paralyzing gaze
+Spell-like Abilities (CL 12th):
+1/day—glacial storm (as meteor swarm, but deals cold damage) (DC 21 half).
+3/day—cone of cold (DC 17), freezing sphere (DC 18 half), ice storm
+STATISTICS
+Str 31, Dex 17, Con 24, Int 14, Wis 14, Cha 15
+Base Atk +20; CMB +34; CMD 47 (can’t be tripped)
+Feats Awesome Blow, Gaze to Ray, Improved Initiative, Improved Bull Rush, Iron Will, Lightning Reflexes, Power Attack, Quicken Spell-Like Ability, Skill Focus (Perception), Weapon Focus (ray)
+Skills Acrobatics +14, Climb +20, Perception +26, Spellcraft +22, Stealth +14 (+24 in arctic environments), Swim +20; Racial Modifiers +10 Stealth in arctic environments
+Languages Common, Draconic, Giant
+SPECIAL ABILITIES
+Paralyzing Gaze (Su)
+Paralysis 1d6 +4 rounds, 30 feet, Fortitude DC 22 negates. The save is Charisma-based. This is a gaze attack.
+Paralysis (Su)
+Alternately, a slorath can use its Gaze to Ray feat to release a ray of paralysis (range of 30 ft.) as a ranged touch attack. After using its gaze attack in this manner, the slorath cannot use its paralyzing gaze for 1d4 rounds and it is disoriented during this time (-2 penalty on attack rolls, saves, skill checks, and ability checks). The save is Charisma-based.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/tylosaurus
+Tylosaurus CR 8
+XP 4,800
+N Gargantuan animal
+Init +1; Senses low-light vision, darkvision 60 ft.; Perception +14
+DEFENSE
+AC 20, touch 8, flat-footed 18 (+1 Dex, +1 dodge, +12 natural, –4 size)
+hp 105 (10d8+60)
+Fort +15, Ref +8, Will +4
+OFFENSE
+Speed 20 ft., swim 50 ft.
+Melee bite +15 (2d8+18 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks swallow whole (2d6+12 bludgeoning, AC 16, hp 10)
+STATISTICS
+Str 34, Dex 13, Con 22, Int 2, Wis 13, Cha 9
+Base Atk +7; CMB +23 (+27 grapple); CMD 35 (39 vs. trip)
+Feats Dodge, Cleave, Great Fortitude, Mobility, Power Attack
+Skills Perception +14, Swim +20; Racial Modifiers +8 Swim
+SPECIAL ABILITIES
+Swallow Whole (Ex) When a Tylosarus begins its turn with an opponent grappled in its mouth (see Grab), it can attempt a new combat maneuver check (as though attempting to pin the opponent). If it succeeds, it swallows its prey, and the opponent takes bludgeoning damage (2d6+12). A swallowed creature can escape by doing 9 points of damage to the inside of the Tylosarus with a light slashing or piercing weapon (AC 16). A creature that escapes the pin while swallowed whole emerges from the Tylosarus’s stomach, not its throat, where it may be grabbed and pinned again.
+
+Tylosaurus Companions
+
+Starting Statistics: Size Medium; Speed 20 ft., swim 50 ft.; AC +3 natural armor; Attack bite (1d6); Ability Scores Str 10, Dex 17, Con 10, Int 2, Wis 13, Cha 9; Special Qualities low-light vision, scent.
+7th-level Advancement: Size Large; AC +2 natural armor; Attack bite (1d8 plus grab); Ability Scores Str +8, Dex –2, Con +4.

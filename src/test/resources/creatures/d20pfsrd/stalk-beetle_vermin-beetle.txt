@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/stalk-beetle
+Stalk Beetle CR 2
+XP 600
+N Medium vermin
+Init +1; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 22 (4d8+4)
+Fort +5, Ref +2, Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., burrow 10 ft., climb 20 ft.
+Melee bite +6 (1d6+4)
+Special Attacks sawtooth
+STATISTICS
+Str 17, Dex 13, Con 12, Int –, Wis 10, Cha 1
+Base Atk +3; CMB +6; CMD 17 (25 vs. trip)
+Skills Climb +11
+SPECIAL ABILITIES
+Sawtooth (Ex) The serrated mandibles of a stalk beetle allow it to ignore hardness of 5 or less when attacking objects. In addition, a stalk beetle deals 1 point of bleed damage upon a successful critical hit with its bite attack.

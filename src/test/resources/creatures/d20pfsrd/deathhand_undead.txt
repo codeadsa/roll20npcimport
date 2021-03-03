@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/deathhand
+Deathhand CR 17
+XP 102,400
+NE Huge undead
+Init +10; Senses darkvision 120 ft., deathsense 120 ft., detect undead, true seeing; Perception +35; Aura fear aura (60 ft., paralyzed for 1d4 rounds, DC 28 negates)
+DEFENSE
+AC 30, touch 19, flat-footed 19 (+10 Dex, +1 dodge, +11 natural, –2 size)
+hp 273 (26d8+156)
+Fort +15; Ref +18; Will +21; +8 vs. mind-affecting
+Defensive Abilities unwavering loyalty; DR 15/good and silver; Immune acid; Resist cold 10; SR 34
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee claw +25 (2d6+8 plus life steal) or soul steal +25 touch (2d6 negative levels)
+Space 15 ft.; Reach 20 ft.
+Special Attacks spirit bind
+Spell-Like Abilities (CL 17th; concentration +22)
+At will—detect magic, greater teleport (self plus 50 lbs. objects only), plane shift (self plus 50 lbs. objects only, between Abaddon Plane of Negative Energy and the Plane of Shadows only)
+3/day—greater dispel magic, polar ray (DC 23)
+STATISTICS
+Str 26, Dex 31, Con —, Int 22, Wis 23, Cha 20
+Base Atk +19; CMB +29; CMD 50
+Feats Combat Expertise (–5/+5), Dodge, Great Fortitude, Greater Vital Strike, Hover, Improved Vital Strike, Lightning Stance, Mobility, Spring Attack, Toughness, Vital Strike, Whirlwind Attack, Wind Stance
+Skills Fly +43, Intimidate +34, Knowledge (arcana, history, planes, religion) +35, Linguistics +30, Perception +35, Spellcraft +35, Stealth +31
+Languages Abyssal, Aklo, Common, Draconic, Infernal, Shadowspeak, Undercommon, plus 23 others; telepathy 100 ft.
+SQ knowledge of eternity Special Abilities below.
+SPECIAL ABILITIES
+Deathsense (Su)
+A deathhand can sense the taint of death on a creature that had previously died. As long as it can perceive the creature through any means at its disposal and is within 120 ft., the deathhand instantly knows if the creature had previously died or not. Hiding from the deathhand by magical or mundane means prevents the deathhand from noticing the taint of death on the creature.
+Knowledge of Eternity (Ex)
+A deathhand exists for a long time. It considers all Knowledge skills to be class skills.
+Life Steal (Su)
+By dealing a wound, a deathhand can pull the life force out of the attacked creature and draw it into its own body. Upon a successful claw attack, a deathhand steals a piece of life from a living creature. The attacked creature must succeed a DC 28 Will save or sustains 10d10 points of negative energy damage. The deathhand receives half the amount of damage dealt as temporary hit points. These temporary hit points do not allow a deathhand to exceed its normal maximum hp and disappear after 1 hour. A successful save means the creature takes 5d6 points of negative energy damage and the deathhand does not receive temporary hit points. A creature that saves against this ability can still be killed by this damage. Any creature that dies from this ability can have their life restored only from a true resurrection spell, a carefully worded wish spell followed by a resurrection, or a miracle. The save DC of this ability is Charisma-based. A deathhand may try to spirit bind the soul of the dead creature the following round.
+Soul Steal (Su)
+As a standard action, a deathhand can touch a living creature to steal a piece of its soul. The touched creature must succeed a DC 28 Fortitude save or gains 2d6 negative levels. A successful saving throw reduces this to 2 negative levels and renders it immune to this ability for 24 hours. A creature that saves against this ability can still be killed by these negative levels. Any creature that dies from this ability can only be returned to life by a true resurrection spell, a carefully worded wish spell followed by a resurrection, or a miracle. The save DC of this ability is Charisma-based. A deathhand may try to spirit bind the soul of the dead creature the following round. A death hand may use this ability once every three rounds.
+Spirit Bind (Su)
+This ability works like the spell soul bind except that it works on any incorporeal undead creature of 20 HD or less in addition to souls of a recently dead creature. It does not matter how long an incorporeal undead creature has been dead, and all spirits captured are stored within the deathhand itself. The deathhand can store up to 26 HD of spirits within its ghostly body and can use this ability as a standard action. The deathhand can also choose to release these trapped spirits at any time as a free action. The stored souls and incorporeal creatures are also released if the deathhand should die. A successful DC 28 Will save prevents the deathhand from binding a creature to itself and keeps it from being targeted by this ability again for 24 hours. The save DC for this ability is Charisma-based.
+Unwavering Loyalty (Su)
+A death hand gains a +8 racial bonus against mind-affecting spells and spell-like effects.

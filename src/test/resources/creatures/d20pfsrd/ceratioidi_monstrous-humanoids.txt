@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/ceratioidi
+Ceratioidi CR 3
+XP 800
+N Medium monstrous humanoid (aquatic)
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 15, touch 10, flat-footed 15 (+5 natural)
+hp 30 (4d10+8)
+Fort +3, Ref +4, Will +6
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., swim 50 ft.
+Melee 2 shortspears +8 (1d6+3) or 2 slams +7 (1d4+3)
+Ranged 2 shortspears +5 (1d6+3)
+Special Attacks lure
+STATISTICS
+Str 17, Dex 10, Con 15, Int 15, Wis 14, Cha 12
+Base Atk +4; CMB +7; CMD 17
+Feats Ability Focus (lure), Weapon Focus (shortspear)
+Skills Bluff +5, Intimidate +8, Perception +9, Sense Motive +6, Stealth +7, Swim +18
+Languages Aquan, Common
+SQ dual mind, primitive amphibian
+SPECIAL ABILITIES
+Dual Mind (Ex) The fact that each ceratioidi is actually two creatures sharing the same body gives it a number of unique abilities. A ceratioidi can delegate various actions and physical processes to the individual minds, allowing it to fight with two weapons simultaneously without any penalties. It can also select two favored classes. The telepathic tangle between its twin consciousnesses makes a ceratioidi impervious to mind-affecting effects.
+Lure (Su) As a free action, a ceratioidi can light the dangling lure on its forehead, forcing all non-ceratioidi within a 20-foot radius to make a DC 15 Will save or become fascinated for 1 round. Regardless of the preceding interaction between the ceratioidi and its target, a creature affected by this ability does not view the ceratioidi who has fascinated it as a potential threat until that ceratioidi actually attacks—allowing it to approach without breaking the fascination. Once a creature successfully saves against this effect, it is immune to the same ceratioidi’s lure ability for 24 hours. The save DC is Charisma-based.
+Primitive Amphibian (Ex) Ceratioidi have rudimentary lungs capable of breathing air indefinitely, but their skin must be bathed in salt water regularly or it begins drying out painfully. They can go for a number of hours equal to twice their Constitution score (30 hours for most ceratioidi) before they need to be bathed in salt water—if they don’t, they take 1 point of Constitution damage per hour. Any Constitution damage accrued is reversed after they spend at least 10 minutes immersed in salt water.

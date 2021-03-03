@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-underworld/underworld-dragon-young
+Young Underworld Dragon CR 7
+XP 3,200
+LE Medium dragon (fire)
+Init +5; Senses dragon senses, smoke vision; Perception +12
+DEFENSE
+AC 21, touch 11, flat-footed 20 (+1 Dex, +10 natural)
+hp 76 (8d12+24)
+Fort +9, Ref +7, Will +7 Immune fire, paralysis, sleep
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft., burrow 30 ft., fly 150 ft. (average)
+Melee bite +14 (1d8+5), 2 claws +13 (1d6+5/19-20), gore +13 (1d6+5)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite and gore)
+Special Attacks adamantine claws, breath weapon (60-ft. line, 6d6 fire damage, DC 17)
+Spell-Like Abilities (CL 8th; concentration +9)
+At will—soften earth and stone
+Spells Known (CL 1st; concentration +2)
+1st (4/day)—burning hands (DC 12), cause fear (DC 12)
+0 (at will)—acid splash, bleed (DC 11), flare (DC 11), read magic
+STATISTICS
+Str 21, Dex 12, Con 17, Int 12, Wis 13, Cha 12
+Base Atk +8; CMB +13; CMD 24 (28 vs. trip)
+Feats Improved Critical (claw), Improved Initiative, Skill Focus (Stealth), Weapon Focus (bite)
+Skills Appraise +12, Climb +16, Intimidate +12, Knowledge (dungeoneering, geography) +12, Perception +12, Stealth +15
+Languages Common, Draconic
+SQ change shape
+SPECIAL ABILITIES
+Adamantine Claws (Ex) The claws of an underworld dragon are made of adamantine, and have the qualities of a weapon made from that material.
+Change Shape (Su) A young or older underworld dragon can assume any humanoid form three times per day as if using polymorph.
+Smoke Vision (Ex) A very young and older underworld dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).

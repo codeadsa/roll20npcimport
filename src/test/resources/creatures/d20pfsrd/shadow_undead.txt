@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow
+Shadow CR 3
+XP 800
+CE Medium undead (incorporeal)
+Init +2; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 15, touch 15, flat-footed 12 (+2 deflection, +2 Dex, +1 dodge)
+hp 19 (3d8+6)
+Fort +3, Ref +3, Will +4
+Defensive Abilities incorporeal, channel resistance +2; Immune undead traits
+OFFENSE
+Speed fly 40 ft. (good)
+Melee incorporeal touch +4 (1d6 Strength damage)
+Special Attacks create spawn
+STATISTICS
+Str —, Dex 14, Con —, Int 6, Wis 12, Cha 15
+Base Atk +2; CMB +4; CMD 17
+Feats Dodge, Skill Focus (Perception)
+Skills Fly +11, Perception +8, Stealth +8 (+12 in dim light, +4 in bright light); Racial Modifiers +4 Stealth in dim light (–4 in bright light)
+Languages Common (unofficial errata)
+SPECIAL ABILITIES
+Create Spawn (Su) A humanoid creature killed by a shadow’s Strength damage becomes a shadow under the control of its killer in 1d4 rounds.
+Strength Damage (Su) A shadow’s touch deals 1d6 points of Strength damage to a living creature. This is a negative energy effect. A creature dies if this Strength damage equals or exceeds its actual Strength score.

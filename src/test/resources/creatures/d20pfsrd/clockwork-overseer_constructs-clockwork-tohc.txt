@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-tohc/clockwork-overseer
+Clockwork Overseer CR 2
+XP 600
+N Small construct
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +1
+DEFENSE
+AC 15, touch 14, flat-footed 14 (+1 Dex, +3 natural, +1 size)
+hp 21 (2d10+10)
+Fort +0; Ref +1; Will +1
+Immune construct traits
+OFFENSE
+Speed 40 ft.
+Melee slam +5 (1d6+2)
+STATISTICS
+Str 14, Dex 12, Con —, Int —, Wis 12, Cha 10
+Base Atk +2; CMB +4; CMD 15
+SQ independent clockwork

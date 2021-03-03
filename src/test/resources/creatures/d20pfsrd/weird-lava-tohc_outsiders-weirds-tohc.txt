@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/weirds-tohc/weird-lava-tohc
+Lava Weird CR 8
+XP 4,800
+CE Large outsider (earth, elemental, extraplanar, fire)
+Init +7; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 19, touch 12, flat-footed 16 (+3 Dex, +7 natural, -1 size)
+hp 95 (10d10+40)
+Fort +10, Ref +6, Will +8
+DR 10/bludgeoning; Immune elemental traits
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft.
+Melee bite +15 (1d8+7 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks control elemental, drown, fire, lava pool
+TACTICS
+A lava weird prefers to hide in its lava pool until victims come within range. Once a target is close to its lava pool, the weird quickly lashes out and snatches the victim, biting it and coiling around it. It then attempts to pull the victim into its lava pool. Lava weirds are highly aggressive and prone to attack just about any creature that wanders too close to their pool.
+STATISTICS
+Str 21, Dex 17, Con 16, Int 11, Wis 12, Cha 16
+Base Atk +10; CMB +16 (+20 grapple); CMD 29 (can’t be tripped)
+Feats Alertness, Improved Initiative, Power Attack, Toughness, Weapon Focus (bite)
+Skills Bluff +16, Intimidate +16, Knowledge (planes) +13, Perception +18, Sense Motive +18, Stealth +12
+Languages Ignan, Terran, Weirdling
+SQ reform, transparency
+SPECIAL ABILITIES
+Control Elemental (Ex) Lava weirds can attempt to command any outsider with the “Earth,” “Elemental,” or “Fire” subtype that is within 50 feet. The Will save to avoid control has a DC of 21. The save DC is Charisma-based and includes a +4 racial bonus.
+This effect is similar to the dominate monster spell. The elemental receives a Will save to avoid being commanded. If the save succeeds, that elemental is immune to the control elemental ability of that lava weird for one day. If the save fails, the elemental falls under the control of the lava weird and obeys it to the best of its ability until either it or the weird dies. There is no limit to the number of HD of elementals a lava weird can control using this ability. The range is unlimited though both the lava weird and the elemental must be on the same plane of existence; otherwise, the weird loses control of the elemental. Lava weirds cannot control other lava weirds using this ability.
+Fire (Ex) Lava weirds are living creatures of elemental magma; any successful melee hit deals fire damage and the victim must make a successful Reflex save (DC 16) or catch on fire. The save DC is Constitution-based. Creatures attacking a lava weird unarmed or with natural weapons take fire damage and must make a successful Reflex save to avoid catching on fire just as if the lava weird had hit with its attack.
+Drown (Ex) If a lava weird pins a grabbed foe, it fully immerses its victim in its lava pool. A victim completely immersed takes fire damage (see Lava Pool below) and must hold its breath or drown. The victim can hold its breath for a number of rounds equal to twice its Constitution score. After that, the victim must make a successful Constitution check (DC 10, +1 per previous check) each round to continue holding its breath. If the victim fails a check, it drowns. In the first round, the victim falls unconscious (0 hp). In the next round, the creature is dying (-1 hp), and in the third round the victim drowns.
+Lava Pool: A lava weird’s pool is a bubbling, churning, morass of molten rock mixed with elemental fire. Flammable materials that contact the lava pool automatically catch fire on the round contact is made. Creatures touching the pool take 2d8 points of fire damage per round of contact. Damage from the lava pool continues for 1d3 rounds after contact ceases, but this extra damage is only half of that dealt during contact (1d8 points of damage). Creatures immune to fire are unaffected by the lava weird’s pool and take no damage, though they can still drown if completely immersed.
+Reform (Ex) When reduced to 0 hit points or less, a lava weird collapses back into its pool. Four rounds later, it reforms at full strength minus any damage taken from coldbased effects or attacks.
+Transparency (Ex) A lava weird is effectively invisible in its lava pool until it attacks.
+Other Forms
+Weird, Blood
+Weird, Fungus
+Weird, Lightning

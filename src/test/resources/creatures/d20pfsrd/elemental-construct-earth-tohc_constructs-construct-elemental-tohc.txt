@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/construct-elemental-tohc/elemental-construct-earth-tohc
+Earth Elemental Construct CR 13
+XP 25,600
+N Huge construct (earth, elemental, extraplanar)
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 25, touch 7, flat-footed 25 (–1 Dex, +18 natural, –2 size)
+hp 205 (30d10+40)
+Fort +10; Ref +9; Will +10
+Defensive Abilities earth mastery;
+DR 10/adamantine; Immune construct traits, elemental traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +42 (2d10+14)
+Space 15 ft.; Reach 15 ft.
+Special Attacks pound 2d10+14 (DC 39), trample (2d10+21, DC 39)
+STATISTICS
+Str 38, Dex 8, Con —, Int —, Wis 11, Cha 1
+Base Atk +30; CMB +46; CMD 55
+SPECIAL ABILITIES
+Earth Mastery (Ex) An earth elemental construct gains a +2 bonus on attack and damage rolls if both it and its foe are touching the ground. If an opponent is airborne or waterborne, the elemental construct takes a –4 penalty on attack and damage rolls. (These modifiers are not included in the statistics block.)
+Immunity to Magic (Ex) An earth elemental construct is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A transmute rock to mud spell slows an earth elemental construct (as the slow spell) for 2d6 rounds, with no saving throw. A transmute mud to rock spell heals all of its lost hit points.
+A stone to flesh spell does not change its structure, but deals 1d6 points of damage per caster level to the construct who can attempt a Fortitude save (DC 16 + caster’s relevant ability score modifier) for half damage.
+Pound (Ex) An earth elemental construct can slam an opponent that is at least two size categories smaller than itself into the ground, wall, or other nearby solid surfaces, dealing bludgeoning damage, when it makes a successful grapple check (in addition to any other effects caused by a successful check, including additional damage). In addition, the pounded creature is stunned for 1 round; a DC 39 Fortitude save negates this additional effect. The save DC is Strength-based.

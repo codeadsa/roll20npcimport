@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/phrenic-scourge
+Phrenic Scourge CR 8
+XP 4,800
+LE Medium aberration
+Init +3; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 17, touch 14, flat-footed 13 (+3 Dex, +1 dodge, +3 natural)
+hp 52 (8d8+16)
+Fort +4, Ref +5, Will +9
+DR 10/piercing; SR 19
+OFFENSE
+Speed 30 ft., burrow 15 ft., climb 30 ft.
+Melee 2 tendril clusters +9 (1d8 plus implant)
+Special Attacks sap will (20-ft. radius)
+Spell-Like Abilities (CL 8th, DC is Intelligence-based)
+
+At Will—charm monster (DC 18), deep slumber (DC 17), detect thoughts (DC 16), suggestion (DC 17), teleport
+STATISTICS
+Str 10, Dex 16, Con 14, Int 19, Wis 17, Cha 15
+Base Atk +6; CMB +6; CMD 20
+Feats Dodge, Mobility, Toughness, Weapon Finesse
+Skills Climb +19, Escape Artist +14, Diplomacy +10, Intimidate +13, Knowledge (arcana) +15, Perception +14, Sense Motive +11, Stealth +14
+Languages Alko, Undercommon; telepathy 100 ft.
+SPECIAL ABILITIES
+Compress (Ex) Although they normally stand as humanoids, phrenic scourges are not bound to that form. By shifting and relaxing their tendrils, they can flatten themselves into a mass of writhing limbs no thicker than a snake. As a full-round action, a phrenic scourge can pass through a space as narrow as two or three inches in one dimension, as long as it’s at least a foot or more in the other dimension.
+Implant (Ex) The tips of a phrenic scourge’s tendrils constantly die and regrow, much like a human’s fingernails. In any round in which the scourge successfully strikes the same victim with both tendril attacks, the tip of a tendril breaks off in the flesh and begins to burrow, unless the victim succeeds on a DC 16 Fortitude save. The larva burrows through the host, following its nervous system until it reaches the brain. This takes 1d4+1 rounds, causing 2d4 points of damage per round. When the larvae reaches the brain, the subject dies instantly. At any point in this process, the larvae can be destroyed with remove disease or heal. The save DC is Constitution-based.
+Sap Will (Sp) This psionic attack manifests as a 20-ft. radius sphere, which the scourge can center anywhere within 30 ft. Anyone caught in this sphere must succeed on a DC 18 Will save or lose the will to act for 3d4 rounds. They may defend themselves if attacked, but may not initiate any action. Phrenic scourge are immune to this ability. This ability is the equivalent of a 4th-level spell. The save DC is Intelligence-based.

@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/pengizu
+Pengizu CR 11
+XP 12,800
+CE Large outsider (aquatic, chaotic, demon, evil, extraplanar)
+Init -1; Senses scent; Perception +14
+DEFENSE
+AC 26, touch 8, flat-footed 26 (-1 Dex, +18 natural, -1 size)
+hp 155 (10d10+100)
+Fort +17, Ref +6, Will +10
+DR 10/cold iron; Immune electricity, poison; Resist acid 10, cold 20, fire 10; SR 24
+OFFENSE
+Speed 10 ft, swim 60 ft
+Melee bite +18 (4d4+8 plus regurgitate) or slam +18 (2d8+8)
+Space 10 ft; Reach 10 ft
+Special Attacks Regurgitate
+Spell-Like Abilities (CL 10th)
+At will—greater teleport (self plus 50 lbs. of objects only), murk & gloom, whirlwind of ice
+
+3/day—cone of cold, solid ice
+
+1/day—blasphemy, summon (level 4, 1 pengizu 35%)
+STATISTICS
+Str 27, Dex 9, Con 31, Int 12, Wis 12, Cha 22
+BAB +10; CMB +19; CMD 28 (38 grapple or pin)
+Feats Cleave, Greater Bull Rush, Improved Bull Rush, Iron Will, Power Attack
+Skills Bluff +14, Escape Artist +20, Intimidate +19, Knowledge (planes) +9, Perception +14, Stealth +12, Survival +14, Swim +29; Racial Modifiers +8 Escape Artist, +8 Swim
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SQ amphibious, feathers of slipperiness, underwater tracking, wave mastery
+SPECIAL ABILITIES
+Feathers of Slipperiness (Ex) The feathers of the pengizu are oily to keep out water and retain warmth. This gives the pengizu +8 racial bonuses to Escape Artist and Swim checks, and +10 racial bonuses to its cold resistance, and to its CMD against grapple and pin combat maneuvers.
+Regurgitate (Ex) The pengizu can regurgitate the contents of its stomach. Once it has regurgitated, it cannot do so again for 1d4 rounds. This foul smelling and acidic mess does 4d4 points of acid damage and causes the victim to be nauseated for 1d4+1 rounds (Fort DC 21 for 1 round). It can regurgitate on a successful bite or, as a standard action, into an adjacent square, making a touch attack to hit whatever occupies the square. Any creature sized Tiny or smaller is considered to have concealment against the clumsy pengizu’s touch attack.
+Underwater Tracking (Ex) As well as being able to use its scent ability to track creatures on land, the pengizu is able to track creatures underwater using scent. Underwater, the pengizu’s scent ability has twice the range as on land.
+Wave Mastery (Su) For up to 10 minutes per age category per day, a pengizu, along with creatures or vessels within 30 feet, can move at twice its normal speed in water.

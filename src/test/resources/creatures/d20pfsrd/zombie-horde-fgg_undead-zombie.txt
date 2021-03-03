@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/zombie/zombie-horde-fgg
+Zombie Horde CR 14
+XP 38,400
+NE Colossal undead (horde)
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 13, touch 2, flat-footed 13 (+11 natural, –16 size)
+hp 110 (20d8 plus 20)
+Fort +6; Ref +6; Will +12
+Defensive Abilities half damage from piercing weapons; DR 10/slashing; Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee horde attack (6d6)
+Space 30 ft.; Reach 5 ft.
+Special Attacks feral rage, rend (+3d6)
+STATISTICS
+Str 22, Dex 10, Con –, Int –, Wis 10, Cha 10
+Base Atk +15; CMB +29; CMD 39 (can’t be tripped)
+Feats Improved OverrunB, ToughnessB
+Skills Stealth –16
+SPECIAL ABILITIES
+Feral Rage (Ex) The horde attacks as a ruthless mob, intent only on tearing apart those that fall into their clutches. This frenzy prevents them from using any sort of tactics, and frees them from any form of control by other beings. However, the sheer force of the wave attack allows them to deal 6d6 points of damage to any creature whose space they occupy at the end of their move. This ability is lost if the horde is broken up.
+Horde Traits (Ex) Hordes are not so called because of the size of the group but rather the size of the creatures that compose the horde. Unlike normal swarms, hordes are composed of Medium creatures which are usually a normal version of a creature but otherwise behave in a swarm-like manner. There are usually around 50 creatures in a horde. The net effect is that they take only half damage from piercing weapons but take normal damage from other weapons. In addition when the swarm is reduced to 0 hit points or lower and breaks up, unless the damage was dealt by area-affecting attacks, then 2d6 surviving members of the horde continue their attack, though now only as individual creatures. Otherwise, a horde conforms to all of the other swarm traits.
+Rend (Ex) Due to the grasping and clawing nature of the zombie horde attack, any time the horde does more than 25 points of damage, add 3d6 slashing damage from the additional pulling and tearing. This ability is lost if the swarm is broken up.
+Base Creature
+Zombie

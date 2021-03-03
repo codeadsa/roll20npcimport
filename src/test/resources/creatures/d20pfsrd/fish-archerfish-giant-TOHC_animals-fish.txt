@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-archerfish-giant-TOHC
+Archerfish, Giant CR 1
+XP 400
+N Medium animal (aquatic)
+Init +3; Senses low-light vision, scent; Perception +6
+DEFENSE
+AC 14, touch 13, flat-footed 11 (+3 Dex, +1 natural)
+hp 11 (2d8+2)
+Fort +4, Ref +6, Will +1
+OFFENSE
+Speed swim 40 ft.
+Melee bite +4 (1d6)
+Ranged water spray +4 (1d3)
+Special Attacks water spray
+STATISTICS
+Str 11, Dex 17, Con 12, Int 1, Wis 12, Cha 2
+Base Atk +1; CMB +1; CMD 14 (can’t be tripped)
+Feats Weapon Finesse
+Skills Perception +6, Swim +11; Racial Modifiers Giant archerfish use their Dexterity modifier for Swim checks.
+SPECIAL ABILITIES
+Water Spray (Ex) By collecting water in its mouth, a giant archerfish can fire a powerful jet of water as a standard action. The attack has a range of 30 feet with no range increment. If the giant archerfish scores a hit, the target is knocked prone.

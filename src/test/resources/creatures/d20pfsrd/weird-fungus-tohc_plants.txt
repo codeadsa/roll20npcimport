@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/weird-fungus-tohc
+Fungus Weird CR 4
+XP 1,200
+N Large plant (fungus)
+Init +7; Senses low-light vision; Perception +12
+DEFENSE
+AC 16, touch 12, flat-footed 13 (+3 Dex, +4 natural, -1 size)
+hp 39 (6d8+12)
+Fort +7, Ref +5, Will +3
+DR 5/bludgeoning; Immune plant traits
+OFFENSE
+Speed 30 ft.
+Melee bite +7 (1d8+4 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks sleep spores
+TACTICS
+A fungus weird is an ambush and opportunity hunter, lying in wait in its pool until its prey comes within range. Once a potential target is close by, the fungus weird springs from its pool and attempts to bite and grab its target. A grabbed opponent is pulled into its pool where it is entangled. A creature that struggles, or any additional creatures assaulting the fungus weird are met with a spray of sleep spores.
+STATISTICS
+Str 17, Dex 17, Con 14, Int 10, Wis 12, Cha 13
+Base Atk +4; CMB +8 (+12 grapple) +4; CMD 21 (can’t be tripped)
+Feats Alertness, Improved Initiative, Weapon Focus (bite)
+Skills Perception +12, Sense Motive +3, Stealth +8
+Languages Common, Terran, Weirdling
+SQ camouflage, fungus pool, reform
+SPECIAL ABILITIES
+Camouflage (Ex) A fungus weird is effectively invisible in its pool until it attacks. It takes a successful DC 20 Spot check to notice a fungus weird in its pool before it attacks.
+Fungus Pool: A fungus weird’s “pool” is not a pool at all, but an entanglement of leaves, branches, mosses, funguses, and plants. A typical pool covers a 20-foot radius, and a fungus weird (being bound to its pool) can never leave this area.
+A creature that enters a fungus weird’s pool (on its own or with the aid of the fungus weird) is automatically entangled (as the entangle spell) until it escapes. An entangled creature can break free and move half its normal speed by using a full-round action to make a DC 15 Escape Artist check or a DC 19 Strength check. The check DCs are Constitution-based and the Strength check includes a +4 racial bonus.
+Sleep Spores (Ex) Once every 1d4 rounds, as a standard action, a fungus weird can release a puff of greenish-yellow spores in a 10-foot cone. These spores induce sleep (as the sleep spell) if the opponent fails a DC 15 Will save. Unlike the sleep spell, there is no HD limit or maximum HD affected. The save DC is Constitution-based.
+Reform (Ex) When reduced to 0 hit points or less, a fungus weird collapses back into its pool. Four rounds later, it reforms at full strength minus any damage taken from firebased spells and effects.

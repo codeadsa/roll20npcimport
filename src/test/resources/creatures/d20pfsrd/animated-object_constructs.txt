@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/animated-object
+Table: Sample Animated Objects Size Sample Object HD CP CR
+Tiny Candelabra 1d10 1 1/2
+Small Chair 2d10+10 1 2
+Medium Cage 3d10+20 2 3
+Large Statue 4d10+30 3 5
+Huge Wagon 7d10+40 4 7
+Gargantuan Catapult 10d10+60 5 9
+Colossal Ship 13d10+80 6 11
+Rules on animated object creation can be located at Building and Modifying Constructs.
+SPECIAL ABILITIES
+Construction Points Animated objects have a number of Construction Points (CP) used to purchase abilities and defenses in addition to those presented above. A medium animated object has 2 CP; differently sized objects have CP totals as detailed on the size chart on this page. If an animated object spends more CP than its size category would allow, its CR increases by 1 (minimum of +1) for every 2 additional CP spent. (Abilities marked with a * are from sources other than the core rulebook)
+Additional Attack (Ex, 1 CP): Gains an additional slam attack.
+*Additional Natural Attack (Ex, 1 CP): The object gains an additional natural attack. The object must have an appropriate appendage or part for the natural attack. Source: PAP43
+Additional Movement (Ex, 1 CP): Gains a new mode of movement (burrow, climb, fly [clumsy], or swim) at a speed equal to its base speed.
+*Augmented Critical (Ex, 1 CP): Increase the threat range for the Animated Object’s melee attacks by 1 or the threat multiplier by 1. This cannot combine with itself or with the piercing attack or slashing attack object abilities. Source: PRG:UM
+*Burn (Ex, 1 CP): : The object gains burn (1d6) with its slam attacks. This can be applied multiple times. Its effects stack. Source: PAP43
+Constrict (Ex, 1 CP): Gains constrict with its slam attacks (the object must have grab before it can take this ability).
+*Exceptional Reach (Ex, 1 CP): The object gains +5 feet of reach with one melee attack. Increase reach on all attacks for an additional +1 CP. Source: PRG:UM
+Faster (Ex, 1 CP): One of the object’s movement modes increases by +10 ft.
+Grab (Ex, 1 CP): Gains grab special attack with slam attacks.
+Improved Attack (Ex, 1 CP): All the Animated Object’s melee or ranged attacks do damage as though it were one size category larger. A crafter must purchase Improved Attack separately for melee and ranged attacks. Source: PRG:UM
+Metal (Ex, 2 CP): The object is made of common metal. Its hardness increases to 10, and it gains a +2 increase to its natural armor bonus. Mithral objects cost 4 CP, and gain hardness 15 plus a +4 increase to natural armor. Adamantine objects cost 6 CP, gain hardness 20, and receive a +6 increase to natural armor.
+*Piercing Attack (Ex, 1 CP): Replace one melee attack with an attack that does the same amount of piercing damage and has a ×3 multiplier. Replace all melee attacks for an additional +1 CP. Object abilities that specify slam attacks do not work on piercing attacks. Source: PRG:UM
+*Pull (Ex, 1 CP): The object gains a pull (5 feet) special attack with slam attacks (the object must have grab before it can take this ability). Source: PAP43
+*Ranged Attack (Ex, 2 CP): Replace one slam attack with a ranged attack. It does the same amount of damage, and has a range of 20 feet. Replace all attacks for an additional +2 CP. Object abilities that specify slam attacks do not work on ranged attacks. Source: PRG:UM
+*Resistance (Ex, 2 CP): The object gains resistance 5 to one type of damage (acid, cold, electricity, or fire) chosen at the time of the object’s creation. This effect can be applied multiple times. Its effects do not stack; each time it is applied, it applies to a different type of damage. Source: PAP43
+*Slashing Attack (Ex, 1 CP): Replace one slam attack with an attack that does slashing damage and has either a 19–20 threat range (for blade-like attacks) or a ×3 threat multiplier (for axe- or scythelike attacks). Replace all melee attacks for an additional +1 CP. Object abilities that specify slam attacks do not work on slashing attacks. Source: PRG:UM
+Stone (Ex, 1 CP): The object is made of stone or crystal. Its hardness increases to 8 and it gains a +1 increase to its natural armor bonus.
+Trample (Ex, 2 CP): The object gains the trample special attack.
+*Trip (Ex, 2 CP): The object gains the trip special ability with one of its slam attacks. Source: PRG:UM

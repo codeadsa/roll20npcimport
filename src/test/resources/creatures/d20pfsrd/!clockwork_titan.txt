@@ -1,0 +1,29 @@
+CLOCKWORK TITANCR 6
+
+XP 2,400
+N Large construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception –2
+
+DEFENSE
+
+AC 19, touch 9, flat-footed 19 (+10 natural, –1 size)
+hp 68 (7d10+30)
+Fort +2; Ref +2; Will +0
+Immune construct traits
+
+OFFENSE
+
+Speed 30 ft.
+Melee 2 slams +12 (2d8+6)
+Space 10 ft.; Reach 10 ft.
+
+STATISTICS
+
+Str 23, Dex 11, Con —, Int —, Wis 6, Cha 6
+Base Atk +7; CMB +14; CMD 24
+
+DESCRIPTION
+
+Environment any
+Organization solitary or squad (2–4)
+Treasure none

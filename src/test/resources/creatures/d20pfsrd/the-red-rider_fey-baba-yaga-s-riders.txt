@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/baba-yaga-s-riders/the-red-rider
+The Red Rider CR 12
+XP 19,200
+LN Medium fey
+Init +9; Senses darkvision 60 ft., low-light vision; Perception +23
+DEFENSE
+AC 29, touch 15, flat-footed 24 (+8 armor, +5 Dex, +4 natural, +2 shield)
+hp 152 (16d6+96)
+Fort +11, Ref +15, Will +14
+DR 10/cold iron; Immune cold, poison; SR 23
+OFFENSE
+Speed 30 ft.
+Melee +2 flaming scimitar +18/+13 (1d6+9/15–20) Special Attacks bright blast, Rider’s weapon, weal or woe (DC 23)
+Spell-Like Abilities (CL 12th; concentration +17)
+Constant—see invisibility
+At Will—chill touch (DC 16), detect thoughts (DC 17), zone of truth (DC 17)
+5/day—ice storm
+3/day—cone of cold (DC 20), flame strike (DC 20)
+1/day—fire storm (DC 23)
+STATISTICS
+Str 24, Dex 21, Con 22, Int 17, Wis 18, Cha 21
+Base Atk +8; CMB +15; CMD 25 (can’t be disarmed)
+Feats Critical Focus, Improved Critical (scimitar), Improved Initiative, Mounted Combat, Power Attack, Ride-by Attack, Trample, Weapon Focus (scimitar)
+Skills Acrobatics +12, Diplomacy +24, Intimidate +21, Knowledge (arcana) +15, Knowledge (history) +15, Knowledge (nature) +18, Knowledge (planes) +15, Perception +23, Ride +24, Sense Motive +23, Stealth +20
+Languages Common, Skald, Sylvan, one other; telepathy 60 ft.
+SQ conjure mount, Rider’s robes
+SPECIAL ABILITIES
+Bright Blast (Su) Three times per day, the Red Rider can erupt in flames, damaging all creatures within a 20-foot radius. Those caught in the blast must succeed at a DC 23 Reflex save or take 3d6 points of fire damage and be dazed for 1 round and dazzled for an additional 1d4 rounds. The save DC is Charisma-based.
+Rider’s Robes (Su) The Red Rider wears robes that provide the same protection as half-plate armor.
+Rider’s Weapon (Su) Whenever the Red Rider successfully confirms a critical hit with his +2 flaming scimitar, the target is dazed for 1 round unless it succeeds at a DC 23 Fortitude save. The save DC is Charisma-based.

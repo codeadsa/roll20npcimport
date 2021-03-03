@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-chiropteal
+Chiropteal CR 5
+XP 1,600
+NG Small outsider (agathion, extraplanar, good)
+Init +4; Senses blindsight 60 ft., darkvision 60 ft., low-light vision; Perception +12; Aura fear aura (20 ft., DC 16)
+DEFENSE
+AC 19, touch 14, flat-footed 14 (+4 Dex, +1 dodge, +3 natural, +1 size)
+hp 39 (6d10+6)
+Fort +3, Ref +9, Will +8; +4 vs. poison
+DR 5/evil or silver; Immune electricity, petrification; Resist cold 10, sonic 10; SR 17
+Weakness light sensitivity
+OFFENSE
+Speed 20 ft., fly 90 ft. (good)
+Melee 2 claws +12 (1d4, attach), bite +11 (1d6 plus
+1d6 bleed)
+Spell-Like Abilities (CL 6th; concentration +8)
+Constant—detect magic, see invisibility, speak with animals
+At will—aid, darkness, ear-piercing scream (DC 13), ghost sound (DC 12), stabilize
+3/day—blur (self only), distressing tone (DC 14)
+1/day—discordant blast (DC 16)
+STATISTICS
+Str 10, Dex 19, Con 12, Int 13, Wis 16, Cha 15
+Base Atk +6; CMB +5; CMD 20
+Feats Dodge, Flyby Attack, Weapon FinesseB, Weapon Focus (claw)
+Skills Bluff +11, Diplomacy +11, Fly +19, Knowledge (planes) +10, Perception +12, Sense Motive +12, Stealth +13
+Languages Celestial, Draconic, Infernal; speak with animals, truespeech
+SQ lay on hands (3d6, 5/day, as a 6th-level paladin)
+SPECIAL ABILITIES
+Echo Burst (Su) A chiropteal can overload her larynx to release a deafening blast of sound in all directions, dealing 5d6 sonic damage and deafening all enemies in a 50 ft.-radius burst. A successful DC 17 Fort save halves the damage and negates the deafness. The save DC is Charisma-based, and includes a +2 racial bonus.

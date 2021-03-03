@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/janni/amir-noble-jann
+Amir (Noble Jann)
+CR 7
+XP 3,200
+N Medium outsider (native)
+Init +6; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 20, touch 13, flat-footed 17 (+6 armor, +2 Dex, +1 dodge, +1 natural)
+hp 58 (9d10+9)
+Fort +7, Ref +8, Will +7
+Resist fire 10
+OFFENSE
+Speed 30 ft., fly 20 ft. (perfect); 20 ft., fly 15 ft. (perfect) in chainmail
+Melee scimitar +13/+8 (1d6+6/18–20)
+Ranged composite longbow +11/+6 (1d8+4/×3)
+Special Attacks change size
+Spell-Like Abilities (CL 12th)
+
+3/day— augury , detect magic , divination, invisibility (self only) , plane shift (willing targets to elemental planes, Astral Plane, or Material Plane only), speak with animals
+1/day— create food and water , ethereal jaunt (for 1 hour) STATISTICS
+Str 19, Dex 15, Con 12, Int 18, Wis 16, Cha 13
+Base Atk +9; CMB +13; CMD 25
+Feats Combat Reflexes, Dodge, Improved InitiativeB, Iron Will, Lightning Reflexes, Mobility
+Skills Appraise +16, Craft (any one—usually weaponsmith) +16, Diplomacy +6, Fly +23, Intimidate +8, Knowledge (planes) +16, Perception +15, Ride +11, Sense Motive +15, Spellcraft +16, Stealth +14
+Languages Common, three elemental languages (Aquan, Auran, Ignan, or Terran), one planar language (Abyssal, Celestial, or Infernal); telepathy 100 ft.
+SQ elemental endurance

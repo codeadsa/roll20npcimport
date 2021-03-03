@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/seahorse-giant
+Giant Seahorse CR 3
+XP 800
+N Large animal (aquatic)
+Init +2; Senses low-light vision; Perception +11
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+4 armor, +2 Dex, –1 size)
+hp 30 (4d8+12)
+Fort +7, Ref +6, Will +2
+Defensive Abilities anchor
+OFFENSE
+Speed swim 30 ft.
+Melee slam +7 (1d6+7)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 20, Dex 14, Con 17, Int 1, Wis 12, Cha 7
+Base Atk +3; CMB +9; CMD 21
+Feats Endurance, Skill Focus (Perception)
+Skills Perception +11, Swim +13
+SPECIAL ABILITIES
+Anchor (Ex) As a move action, a seahorse can wrap its tail around a stationary object. The seahorse remains anchored to the object until it releases its grip (a free action) or is forcibly moved. An anchored seahorse gains a +4 bonus to its combat maneuver defense and on checks and saving throws against effects that would move it against its will.

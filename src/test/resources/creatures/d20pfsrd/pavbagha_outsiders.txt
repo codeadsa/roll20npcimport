@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/pavbagha
+Pavbagha CR 4
+XP 1,200
+LN Large outsider (extraplanar, lawful)
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +11; Aura courage (10 ft.)
+DEFENSE
+AC 16, touch 10, flat-footed 15 (+1 Dex, +6 natural, –1 size)
+hp 37 (5d10+10)
+Fort +6, Ref +4, Will +7
+DR 5/chaotic; Immune fear; SR 15
+OFFENSE
+Speed 40 ft.
+Melee bite +6 (1d8+2 plus grab), 2 claws +7 (1d6+2 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks pounce, rake (2 claws +7, 1d6+2), stunning claw (4/day, DC 15)
+Spell-Like Abilities (CL 6th; concentration +6)
+At will—feather fall (self only), guidance, light
+3/day—channel vigor*, cure light wounds, true strike
+1/day—bull’s strength, dimension door (self plus 50 lbs. of objects only)
+STATISTICS
+Str 15, Dex 13, Con 14, Int 10, Wis 17, Cha 10
+Base Atk +5; CMB +8 (+12 grapple); CMD 19 (23 vs. trip)
+Feats Improved Initiative, Lightning Reflexes, Weapon Focus (claw)
+Skills Acrobatics +13 (+17 when jumping), Knowledge (history, religion) +8, Perception +11, Stealth +9 (+13 in tall grass), Swim +10; Racial Modifiers +4 Acrobatics (+8 when jumping), +4 Stealth (+8 in tall grass)
+Languages Celestial, Common, Draconic
+SQ fade
+SPECIAL ABILITIES
+Aura of Courage (Su) A pavbagha is immune to fear, magical or otherwise. Each ally within 10 feet of it gains a +4 morale bonus on saving throws against fear effects. This ability functions only while the pavbagha is conscious, not if it’s unconscious or dead.
+Fade (Su) As a standard action, a pavbagha can fade from sight, as invisibility, for up to 10 rounds per day. These rounds need not be consecutive.
+Stunning Claw (Ex) This ability functions like the Stunning Fist feat, except the pavbagha uses a claw attack instead of an unarmed strike. The servitor can use this ability five times per day. A successful DC 15 Fortitude saving throw negates this effect. The save DC is Wisdom-based.
+
+Get this book AND support this site!

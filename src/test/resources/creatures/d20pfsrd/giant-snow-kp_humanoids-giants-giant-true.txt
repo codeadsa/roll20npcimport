@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-snow-kp
+Snow Giant CR 6
+XP 2,400
+NE Large humanoid (giant)
+Init 0; Senses low-light vision; Perception +8
+DEFENSE
+AC 22, touch 9, flat-footed 22 (+3 armor, +9 natural, +1 shield, –1 size)
+hp 86 (9d8+45)
+Fort +12, Ref +3, Will +6
+Defensive Abilities rock catching; Immune cold;
+Vulnerability fire
+OFFENSE
+Speed 40 ft.
+Melee great axe +12/+7 (1d12+6/x3) or 2 slams +12 (1d6+6)
+Ranged javelin +6/+1 (1d6+6/×2)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 24, Dex 10, Con 20, Int 10, Wis 14, Cha 10
+Base Atk +6; CMB 14; CMD 24
+Feats Cleave, Great Cleave, Power Attack, Improved Shield Bash, Martial Weapon Proficiency (great axe)
+Skills Climb +8, Perception +8, Stealth +4 (+8 in snow), Survival +8; Racial Modifiers +4 Stealth in snow
+Languages Common, Giant
+Editor’s Note
+The ecology and description weren’t included with the published monster. One of its authors, Hal Greenberg, provided the missing information for this page. Additional information posted with author’s permission.

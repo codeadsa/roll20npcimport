@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/river-dragon
+River Dragon
+CN dragon (aquatic, fire)
+BASE STATISTICS
+CR 3; Size Tiny; Hit Dice 4d12
+Speed 30 ft., swim 60 ft.
+Natural Armor +4; Breath Weapon line, 2d6 fire
+Str 11, Dex 17, Con 12, Int 9, Wis 12, Cha 10
+SPECIAL ABILITIES
+Air Breathing (Ex) The river dragon can breathe air just as naturally as water. This dragon can freely use its breath weapon, spells and other abilities in both air and water.
+Boiling Aura (Su) The adult and older river dragon radiates heat causing any water around it to boil. All creatures within 5 ft. of the dragon take 1d6 points of fire damage at the beginning of the dragon’s turn. An old dragon’s aura extends to 10 ft. An ancient dragon’s damage increases to 2d6. The river dragon can suppress or activate this ability at will as a free action.
+Geyser (Su) The great wyrm river dragon can call forth a powerful geyser from the ground as a standard action. The geyser is 10 ft. wide burst within 400 ft. of the river dragon. All creatures standing in the geyser’s space takes 4d6 points of fire damage per round from the scalding hot water and are distracted. All other creatures within 200 ft. of the geyser take 2d6 points of fire damage per round in addition to the normal rain penalties.
+Speak with Aquatic (Ex) The young and older river dragon gains a constant spell-like ability to speak with animals of the aquatic subtype. This otherwise functions as speak with animals.
+Spit (Ex) The mature adult and older river dragon gains the ability to spit water at any target within 30 ft. as a ranged overrun attempt. This range increases to 60 ft. when it becomes ancient. The CMB check for the spit is the river dragon’s CMB but is one size category smaller than the river dragon and gains the benefits of the Improved Overrun feat. This does not grant the river dragon the benefits of the Improved Overrun feat when making a overrun attempt and not spitting.
+Spell-like Abilities (Sp) The river dragon gains the following spell-like abilities, usable at will upon reaching the listed age category.
+Young – obscuring mist Juvenile – soften earth and stone Adult – water breathing Old – control water Ancient – passwall Great wyrm – overland flight Watersight (Ex) The very young and older river dragon can see underwater four times better than a human.
+Age Category Special Abilities Caster Level
+Wyrmling Air breathing, immunity to fire —
+Very young Watersight —
+Young Obscuring mist, speak with aquatic —
+Juvenile Frightful presence, soften earth and stone 1st
+Young Adult DR 5/magic, spell resistance 3rd
+Adult Boiling aura, water breathing 5th
+Mature adult DR 10/magic, spit 7th
+Old Control water 9th
+Very old DR 15/magic 11th
+Ancient Passwall 13th
+Wyrm DR 20/magic 15th
+Great wyrm Geyser, overland flight 17th

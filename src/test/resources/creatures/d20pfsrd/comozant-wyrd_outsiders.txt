@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/comozant-wyrd
+Comozant Wyrd CR 4
+XP 1,200
+N Small outsider (air, elemental, extraplanar, incorporeal)
+Init +7; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 18, touch 18, flat-footed 15 (+4 deflection, +3 Dex, +1 size)
+hp 27 (5d10)
+Fort +1, Ref +9, Will +7
+Defensive Abilities incorporeal, plasma form; Immune cold, electricity, elemental traits
+OFFENSE
+Speed 20 ft., fly 30 ft. (good)
+Ranged lightning lash +8 (2d8 electricity damage)
+Special Attacks lightning lash
+Spell-Like Abilities (CL 7th; concentration +11)
+2/day—control weather (standard action; intensify or dispel storm only)
+STATISTICS
+Str —, Dex 17, Con 10, Int 8, Wis 17, Cha 18
+Base Atk +5; CMB +7; CMD 21 (can’t be tripped)
+Feats Alertness, Improved Initiative, Lightning Reflexes
+Skills Diplomacy +7, Fly +17, Knowledge (nature) +3, Knowledge (planes) +7, Perception +13, Sense Motive +11
+Languages Auran
+SQ illuminating flames
+SPECIAL ABILITIES
+Illuminating Flames (Su) As a standard action, a comozant wyrd can shroud the upper halves of any Small or larger creatures it can see within 30 feet of it in cold, buzzing flames similar to the wyrd’s own. Any electricity resistance blocks this effect unless the target willingly submits. Otherwise the flames persist until the wyrd is out of range. Targets of this effect take a –10 penalty on Stealth checks. A comozant wyrd can communicate empathically with creatures subject to this effect, and gains a +4 racial bonus on Sense Motive checks when doing so. Interacting with a wyrd in this way still uses standard social skills and rules. While communicating this way, a comozant can confer unexpected insight or information equivalent to a divination spell.
+Lightning Lash (Su) As a standard action that doesn’t provoke attacks of opportunity, a comozant wyrd can shock any creature or object within 30 feet to which it has line of effect, dealing 2d8 electricity damage. The wyrd can choose for this damage to be nonlethal. If the target is also affected by the wyrd’s illuminating flames, it is stunned for 1 round (Fortitude DC 16 negates) and the flames are dispelled. The save DC is Charisma-based.
+Plasma Form (Ex) Although incorporeal, a comozant wyrd can’t hide inside solid objects. It must start its turn attached to the outside of something that’s solid and of Small size or larger, or else it takes 5 points of damage. Anyone attacking the wyrd must either take a –4 penalty on the attack roll or resolve the attack against whatever the wyrd is attached to as well.

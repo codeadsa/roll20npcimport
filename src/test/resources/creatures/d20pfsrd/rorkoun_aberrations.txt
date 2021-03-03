@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/rorkoun
+Rorkoun CR 6
+XP 2,400
+NE Huge aberration (aquatic)
+Init +2; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 18, touch 10, flat-footed 16 (+2 Dex, +8 natural, –2 size)
+hp 76 (9d8+36)
+Fort +9, Ref +5, Will +7
+Weaknesses vulnerability to acid
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee bite +11 (2d6+7 plus grab), tail slap +6 (2d6+3 plus grab)
+Ranged gob +6 (1d6 plus stuck)
+Space 15 ft.; Reach 15 ft.
+Special Attacks constrict (2d8+7), gob
+STATISTICS
+Str 25, Dex 14, Con 18, Int 9, Wis 12, Cha 10
+Base Atk +6; CMB +15; CMD 27
+Feats Blind-Fight, Great Fortitude, Greater Grapple, Improved Grapple, Stealthy
+Skills Escape Artist +11, Perception +13, Stealth +8, Swim +23
+Languages Common, Goblin (does not speak)
+SQ deathwatch, squeeze
+SPECIAL ABILITIES
+Aquatic Dependency (Ex) A rorkoun violently dehydrates as soon as its body is wholly removed from water. Every round that part of a rorkoun’s space does not occupy the same square as a significant body of water (50 gallons or more), the creature takes damage equal to the number of rounds it has been outside water. The rorkoun stops taking damage as soon as it reenters the water.
+Deathwatch (Su) A rorkoun can sense life and death, as if under the effects of a deathwatch spell at all times.
+Gob (Ex) A rorkoun can spit a wad of viscous slaver at its prey. As a standard action, the rorkoun can make a ranged touch attack at a single creature up to 30 feet away. Creatures of Large size or smaller that are struck by the attack must succeed on a DC 18 Reflex save or become entangled. Flying creatures that fail their Reflex save fall to the ground. An entangled creature can escape by making a DC 18 Escape Artist or Strength check. Should an entangled target take any amount of acid damage, the sticky saliva is instantly dissolved. The save, skill, and ability check DCs are Constitution-based.
+Squeeze (Ex) Able to manipulate the shape of its highly malleable body, a rorkoun can easily slip through spaces not normally accessible to a creature of its size. For the purposes of determining how small a space a rorkoun can squeeze through, treat it as one size category smaller. A rorkoun can move into even smaller spaces by contracting, allowing it to treat its size as two size categories smaller.

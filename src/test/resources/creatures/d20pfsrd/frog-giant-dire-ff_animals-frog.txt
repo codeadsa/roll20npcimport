@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/frog/frog-giant-dire-ff
+Frog, Giant Dire CR 4
+XP 1,200
+N Large animal
+Init +1; Senses low-light vision, scent; Perception +3
+DEFENSE
+AC 16, touch 10, flat-footed 15 (+1 Dex, +6 natural, -1 size)
+hp 42 (5d8+20)
+Fort +8, Ref +5, Will +0
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee bite +7 (2d6+7 plus grab) or tongue +8 touch (grab plus pull)
+Space 10 ft.; Reach 10 ft. (30 ft. with tongue)
+Special Attacks pull (tongue, 10 ft), rake (2 claws +7, 1d6+5, on charge), swallow whole (1d8 bludgeoning damage, AC 13, hp 4), tongue)
+STATISTICS
+Str 20, Dex 13, Con 18, Int 2, Wis 9, Cha 6
+Base Atk +3; CMB +9 (+13 grapple), CMD 20 (24 vs. trip)
+Feats Improved Natural Attack (bite), Intimidating Prowess, Weapon Focus (tongue)
+Skills Acrobatics +9 (+13 jumping), Intimidate +4, Perception +3, Stealth +5, Swim +17; Racial Modifiers +4 to Acrobatics (+8 jumping) and +4 to Stealth
+SPECIAL ABILITIES
+Tongue (Ex) A giant dire frog’s tongue is a primary attack with reach equal to three times the frog’s normal reach (30 ft. for a Large giant dire frog). A giant dire frog’s tongue deals no damage on a hit but can be used to grab. A giant dire frog does not gain the grappled condition while using its tongue in this manner.

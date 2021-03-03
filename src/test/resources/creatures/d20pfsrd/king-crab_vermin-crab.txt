@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/king-crab
+King Crab CR 1/4
+XP 100
+N Tiny vermin (aquatic)
+Init +2; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 18, touch 14, flat-footed 16 (+2 Dex, +4 natural, +2 size)
+hp 5 (1d8+1)
+Fort +3, Ref +2, Will +0
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., swim 20 ft.
+Melee 2 claws +0 (1d2–2 plus grab)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks constrict (1d2–2)
+STATISTICS
+Str 7, Dex 15, Con 12, Int —, Wis 10, Cha 2
+Base Atk +0; CMB +0 (+4 grapple); CMD 8 (20 vs. trip)
+Skills Perception +4, Swim +10; Racial Modifiers +4 Perception
+SQ water dependency
+SPECIAL ABILITIES
+Familiar The master of a king crab familiar gains a +2 bonus on CMB checks to start and maintain a grapple.
+Water dependency (Ex) Crabs can survive out of the water for 1 hour per point of Constitution. Beyond this limit, a crab runs the risk of suffocation, as if it were drowning.

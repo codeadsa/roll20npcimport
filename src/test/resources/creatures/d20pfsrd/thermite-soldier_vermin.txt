@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/thermite-soldier
+Soldier Thermite CR 4
+XP 1,200
+N Medium vermin (extraplanar, fire)
+Init +2; Senses darkvision 60 ft., fire sense, tremorsense 60 ft.; Perception +0
+DEFENSE
+AC 19, touch 12, flat-footed 17 (+2 Dex, +7 natural)
+hp 37 (5d8+15)
+Fort +7, Ref +3, Will +1
+Immune fire, mind-affecting effects
+Weakness vulnerability to cold
+OFFENSE
+Speed 30 ft.
+Melee bite +6 (1d8+4 plus 2d6 fire plus burn)
+Special Attacks burn (1d6, DC 15), death throes
+TACTICS
+Thermites are generally passive creatures except when their nest is attacked. In such an event, the soldiers move to defend the young and the queen. Workers join in the melee fighting off any would-be interlopers. Thermites attack by biting with their mandibles. Slain creatures are often dragged into the lair and fed to the queen and the young.
+STATISTICS
+Str 16, Dex 14, Con 16, Int —, Wis 10, Cha 2
+Base Atk +3; CMB +6; CMD 18 (26 vs. trip)
+SPECIAL ABILITIES
+Death Throes (Ex) A soldier thermite reduced to 0 or less hit points explodes in a ball of elemental flame dealing 3d6 points of fire damage to all within a 10-ft. radius. A successful DC 15 Reflex save reduces the damage by half. The save DC is Constitution-based.
+Heat (Ex) Touching or being touched by a soldier thermite automatically deals 2d6 points of fire damage.
+Fire Sense (Ex) A soldier thermite notices and locates any fire source equal to a torch or greater within 200 feet. It also senses the intensity of the flame.
+Family Ties
+Thermites come in several varieties. These are the most common: Queen Thermite Soldier Thermite Worker Thermite

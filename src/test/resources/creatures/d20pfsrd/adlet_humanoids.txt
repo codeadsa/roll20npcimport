@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/adlet
+Adlet CR 10
+XP 9,600
+CN Medium humanoid (adlet, cold)
+Init +12; Senses low-light vision, scent; Perception +13
+DEFENSE
+AC 25, touch 20, flat-footed 15 (+8 Dex, +2 dodge, +5 natural)
+hp 127 each (15d8+60)
+Fort +9, Ref +17, Will +8
+Immune cold
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 40 ft.
+Melee +1 spear +17/+12/+7 (1d8+7/x3), bite +10 (1d6+2 plus 1d6 cold)
+Special Attacks frozen breath
+Spell-Like Abilities (CL 10th; concentration +11)
+At will—pass without trace, ray of frost*
+3/day—fog cloud, sleet storm
+1/day—ice storm, wind walk (self only)
+STATISTICS
+Str 18, Dex 26, Con 18, Int 13, Wis 17, Cha 13
+Base Atk +11; CMB +15; CMD 35
+Feats Diehard, Dodge, Improved Initiative, Multiattack, Power Attack, Run, Self-Sufficient, Weapon Focus (spear)
+Skills Acrobatics +13 (+17 when jumping), Climb +12, Handle Animal +9, Heal +5, Perception +13, Stealth +13 (+21 in snow), Survival +20, Swim +9; Racial Modifiers +8 Stealth in snow
+Languages Common, Adlet
+SQ arctic stride
+SPECIAL ABILITIES
+Arctic Stride (Ex) An adlet can move through any sort of difficult terrain at its normal speed while within arctic or snowy terrain. Magically altered terrain affects an adlet normally.
+Frozen Breath (Su) An adlet’s breath is supernaturally cold, and deals an additional 1d6 points of cold damage with its bite as a result. Once every 1d4 rounds as a swift action, it can exhale, filling a 10-foot-radius spread around it with frigid air that deals 2d6 points of cold damage and staggers those in the area with numbing cold. A DC 21 Fortitude save negates the staggered effect but not the cold damage. The save DC is Constitution-based.

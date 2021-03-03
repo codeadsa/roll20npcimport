@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/pike-giant-tohc
+Giant Pike CR 4
+XP 1,200
+N Large animal (aquatic)
+Init +8; Senses low-light vision, scent; Perception +14
+DEFENSE
+AC 16, touch 13, flat-footed 12 (+4 Dex, +3 natural, –1 size)
+hp 39 (6d8+12)
+Fort +7, Ref +9, Will +3
+Defensive Abilities all-around vision; Immune flanks
+OFFENSE
+Speed swim 60 ft.
+Melee bite +7 (1d8+3 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks ambush, swallow whole (1d4 acid damage, AC 11, 3 hp)
+TACTICS
+Giant pike, like their smaller counterparts, are voracious and often attack prey much larger than themselves. Their diet consists mainly of soft-finned fish, trout, perch, frogs, mice, ducks, birds, and small humanoids. Larger prey includes humanoids, other giant fish, deer, and sheep or goats. Giant pike have no qualms about eating those of their own kind, especially when food is scarce.
+The giant pike hides in weeds, behind rocks, or some other such cover, waiting for potential prey to wander nearby. It coils its body into an “S” position, and when prey passes by, strikes with blinding speed, biting with its sharp teeth. If the pike gets a hold on prey smaller than itself, it swallows it.
+STATISTICS
+Str 15, Dex 18, Con 15, Int 1, Wis 12, Cha 2
+Base Atk +4; CMB +7 (+11 grapple); CMD 21 (can’t be tripped)
+Feats Improved Initiative, Skill Focus (Perception), Weapon Finesse
+Skills Perception +14, Swim +18; Racial Modifiers +4 Perception. Giant pikes use their Dexterity modifier for Swim checks.
+SPECIAL ABILITIES
+Ambush (Ex) If a giant pike surprises an opponent, it gains a +4 circumstance bonus to its attack roll in that round of combat.

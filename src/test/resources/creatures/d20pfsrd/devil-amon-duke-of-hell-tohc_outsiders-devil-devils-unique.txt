@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-amon-duke-of-hell-tohc
+Amon CR 25
+XP 1,640,000
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +12; Senses darkvision 60 ft., detect good, detect magic, see invisibility, see in darkness; Perception +42
+DEFENSE
+AC 44, touch 24, flat-footed 36 (+8 Dex, +20 natural, +7 profane, –1 size)
+hp 434 (28d10+280); regeneration 10 (good, silver)
+Fort +21, Ref +24, Will +25
+DR 20/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 36
+OFFENSE
+Speed 60 ft.
+Melee Huge +4 axiomatic thundering heavy mace +45/+40/+35/+30 (3d6+30/19–20), bite +35 (2d6+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks fear gaze (30 ft., Will DC 31, affected by fear spell)
+Spell-Like Abilities (CL 20th)
+Constant—detect good, detect magic, read magic, see invisibility, unholy aura (DC 25)
+At will—animate dead, blasphemy (DC 24), charm monster (DC 21), desecrate, dimensional anchor, fireball (DC 20), fly, geas/quest (DC 23), greater dispel magic, greater invisibility (DC 21), greater teleport (self plus 50 pounds of objects only), magic circle against good, polymorph, produce flame, suggestion (DC 20), tongues, unhallow (DC 22), unholy aura (DC 25), wall of ice (DC 21)
+2/day—summon (level 9, 4d10 lemures or nupperibos, 2d4 bone devils, 1d4 barbed devils, or 1 ghaddar devil or pit fiend 100%)
+1/day—symbol of weakness (DC 24), summon (level 9, 40 HD of wolves, worgs, winter wolves, or dire wolves 100%)
+TACTICS
+Amon begins combat with his fear gaze. Unaffected creatures are subjected to a barrage of spell-like abilities and physical attacks with his mace. If combat is going against him, he summons his wolf companions or other devils to aid him or cover his escape.
+STATISTICS
+Str 36, Dex 27, Con 31, Int 26, Wis 25, Cha 25
+Base Atk +28; CMB +42; CMD 67
+Feats Alertness, Blind-Fight, Cleave, Critical Focus, Great Cleave, Great Fortitude, Improved Critical (heavy mace), Improved Initiative, Improved Vital Strike, Iron Will, Power Attack, Quicken Spell-Like Ability (fireball), Vital Strike, Weapon Focus (heavy mace)
+Skills Acrobatics +39, Bluff +38, Climb +41, Diplomacy +38, Escape Artist +36, Intimidate +38, Knowledge (arcana) +36, Knowledge (local) +39, Knowledge (planes) +39, Knowledge (religion) +36, Perception +42, Sense Motive +42, Stealth +35, Survival +35
+Languages Abyssal, Celestial, Common, Draconic, Goblin, Ignan, Infernal; telepathy 100 ft.
+SQ control wolves
+Gear Craver
+SPECIAL ABILITIES
+Control Wolves (Su) Amon can control up to 40 HD of wolves, worgs, winter wolves, or dire wolves to a range of 1 mile. This is otherwise similar to a control undead spell cast by a 20th-level sorcerer and does not count against his 40 HD summoning limit (unless Amon summoned the creatures).
+Fear Gaze (Su) A creature that successfully saves against Amon’s fear gaze cannot be affected again for one day. The save DC is Charisma-based.
+GEAR Unique Item: Craver
+Amon’s unique oversized weapon Craver is a Huge +4 axiomatic thundering heavy mace.
+In Duke Amon’s hands Craver deals double his Strength bonus to damage in addition to its +4 enhancement bonus when he uses it two-handed (+30 total). He is able to use Craver without penalty.

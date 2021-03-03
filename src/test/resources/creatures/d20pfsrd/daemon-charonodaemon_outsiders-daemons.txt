@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/daemon-charonodaemon
+Charonodaemon CR 9
+XP 6,400
+NE Medium outsider (daemon, evil, extraplanar)
+Init +7; Senses darkvision 60 ft., detect magic, see invisibility; Perception +15
+DEFENSE
+AC 24, touch 13, flat-footed 21 (+3 Dex, +11 natural)
+hp 105 (10d10+50)
+Fort +12, Ref +12, Will +5
+DR 10/good; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 19
+OFFENSE
+Speed 40 ft.
+Melee quarterstaff +15/+10 (1d6+5)
+Special Attacks fear gaze (30 ft, DC 19 Will save or affected as by fear spell)
+Spell-Like Abilities (CL 10th)
+Constant—detect magic, see invisibility
+At will—deeper darkness, desecrate, greater teleport (self plus skiff only), plane shift (self plus skiff only)
+1/day—summon (level 4, 1d4 hydrodaemons or 1 charonadaemon 35%)
+STATISTICS
+Str 21, Dex 16, Con 21, Int 15, Wis 15, Cha 18
+Base Atk +10; CMB +15; CMD 28
+Feats Improved Initiative, Improved Sunder, Lightning Reflexes, Persuasive, Power Attack
+Skills Bluff +17, Diplomacy +21, Intimidate +21, Knowledge (planes) +15, Perception +15, Sense Motive +15, Stealth +16, Survival +15
+Languages Abyssal, Common, Daemonic, Infernal; telepathy 100 ft.
+SQ alter self

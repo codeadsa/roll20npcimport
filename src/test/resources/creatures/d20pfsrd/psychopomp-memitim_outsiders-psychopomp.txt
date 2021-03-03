@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/psychopomp/psychopomp-memitim
+Memitim Psychopomp CR 15
+XP 51,200
+N Medium outsider (extraplanar, psychopomp)
+Init +13; Senses darkvision 60 ft., detect evil, detect good, low-light vision, spiritsense, true seeing; Perception +24
+Aura terminal aura (50 ft., DC 23)
+DEFENSE
+AC 32, touch 19, flat-footed 23 (+9 Dex, +13 natural)
+hp 216 (16d10+128)
+Fort +13, Ref +19, Will +15
+Defensive Abilities freedom of movement; DR 10/adamantine; Immune acid, death effects, disease; Resist cold 10, electricity 10; SR 26
+OFFENSE
+Speed 30 ft., fly 100 ft. (good)
+Melee +3 scythe +27/+22/+17/+12 (2d4+13/19–20/×4)
+Spell-Like Abilities (CL 14th; concentration +19)
+Constant—detect evil, detect good, freedom of movement, true seeing
+At will—dimensional anchor, dispel magic, gaseous form, greater teleport (self plus 50 lbs. of objects only), invisibility (self only), plane shift (self only), speak with dead, status, veil (DC 21)
+3/day—quickened dispel magic, finger of death (DC 22), forbiddance, undeath to death (DC 21)
+1/day—energy drain (DC 24)
+STATISTICS
+Str 24, Dex 29, Con 26, Int 17, Wis 20, Cha 21
+Base Atk +16; CMB +23; CMD 42
+Feats Blinding Critical, Combat Casting, Critical Focus, Improved Critical (scythe), Improved Initiative, Power Attack, Quicken Spell-Like Ability (dispel magic), Weapon Focus (scythe)
+Skills Bluff +24, Diplomacy +24, Fly +32, Intimidate +24, Knowledge (planes) +22, Knowledge (religion) +22, Perception +24, Sense Motive +24, Stealth +28
+Languages Abyssal, Celestial, Common, Infernal
+SQ change shape (owl, raven, or vulture; beast shape I), spirit touch
+SPECIAL ABILITIES
+Terminal Aura (Su) Every round, any creature within 50 feet of a memitim that has –1 or fewer hit points and is stable must succeed at a DC 23 Will saving throw or be affected by the spell bleed. Any dying creature within this range does not receive a Constitution check to stabilize, but can be healed as normal—though it can be affected by bleed in subsequent rounds if not restored to 0 or more hit points. Any creatures with fast healing or regeneration must succeed at a DC 23 Will save every round or that ability does not function for 1 round. The save DCs are Charisma-based.

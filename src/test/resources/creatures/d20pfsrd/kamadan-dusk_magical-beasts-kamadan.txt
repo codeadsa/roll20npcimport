@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/kamadan/kamadan-dusk
+Dusk Kamadan CR 5
+XP 1,600
+NE Large magical beast
+Init +4; Senses darkvision 60 ft., low-light vision, scent; Perception +10
+DEFENSE
+AC 21, touch 14, flat-footed 16 (+4 Dex, +1 dodge, +7 natural, -1 size)
+hp 52 (5d10+25)
+Fort +9, Ref +8, Will +4
+OFFENSE
+Speed 40 ft.
+Melee bite +9 (1d6+5), 2 claws +9 (1d3+5), snakes +2 (1d4+1)
+Space 10 ft.; Reach 5 ft. (10 ft. with snakes)
+Special Attacks breath weapon (30-ft. cone, sleep, Fortitude DC 17 negates, usable every 1d4 rounds), pounce
+STATISTICS
+Str 21, Dex 19, Con 20, Int 9, Wis 16, Cha 13
+Base Atk +5; CMB +11; CMD 26 (30 vs. trip)
+Feats Combat Reflexes, Dodge, Mobility
+Skills Acrobatics +8 (+12 when jumping), Perception +10, Stealth +8; Racial Modifiers +4 Stealth
+Languages Aklo
+SPECIAL ABILITIES
+Breath Weapon (Su) A dusk kamadan can exhale a cone of gas that makes living creatures fall asleep for 5 minutes (Fortitude DC 17 negates). Slapping or wounding awakens a creature put to sleep by this attack, but normal noise does not. This is a sleep effect. The save DC is Constitution-based.
+Snakes (Ex) A dusk kamadan’s snakes attack simultaneously; this is always a secondary attack.
+Snakes—injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d2 Con; cure 2 consecutive saves.
+Base Creature
+Kamadan Family Ties
+
+Polar Kamadan

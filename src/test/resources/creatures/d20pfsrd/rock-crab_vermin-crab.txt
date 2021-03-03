@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/rock-crab
+Rock Crab CR 4
+XP 1,200
+N Large vermin (aquatic)
+Init +0; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 16, touch 9, flat-footed 16 (+7 natural, -1 size)
+hp 42 (5d8+20)
+Fort +8, Ref +1, Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., swim 20 ft.
+Melee 2 claws +9 (1d6+7 plus grab)
+Special Attacks constrict (1d6+7)
+STATISTICS
+Str 24, Dex 11, Con 18, Int —, Wis 10, Cha 2
+Base Atk +3; CMB +11 (+13 grapple); CMD 21 (33 vs. trip)
+Skills Perception +4, Swim +15; Racial Modifiers +4 Perception
+SQ water dependency
+SPECIAL ABILITIES
+Water Dependency (Ex) Rock crabs can survive out of the water for 1 hour per point of Constitution. Beyond this limit, a rock crab runs the risk of suffocation, as if it were drowning.

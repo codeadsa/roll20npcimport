@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/contemplative
+Contemplative CR 2
+XP 600
+N Medium monstrous humanoid
+Init +1; Senses blindsight 60 ft., darkvision 60 ft.; Perception +10
+DEFENSE
+AC 12, touch 12, flat-footed 10 (+1 Dex, +1 dodge)
+hp 18 (4d10–4)
+Fort +0, Ref +5, Will +7
+Immune mind-affecting effects
+OFFENSE
+Speed 5 ft., fly 30 ft. (perfect)
+Melee 2 claws +2 (1d4–2)
+Spell-Like Abilities (CL 4th; concentration +9)
+Constant—detect magic, mage hand, read magic, tongues
+At will—daze (DC 15), detect thoughts (DC 17), ghost sound (DC 15), magic missile
+1/day—telekinesis (DC 20)
+STATISTICS
+Str 6, Dex 13, Con 8, Int 24, Wis 17, Cha 21
+Base Atk +4; CMB +2; CMD 14
+Feats Combat Casting, Dodge
+Skills Bluff +9, Diplomacy +9, Fly +9, Handle Animal +9, Knowledge (arcana, history, planes) +11, Linguistics +11, Perception +10, Sense Motive +7, Spellcraft +11, Use Magic Device +9
+Languages telepathy 100 ft.; tongues

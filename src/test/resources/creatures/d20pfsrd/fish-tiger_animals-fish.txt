@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-tiger
+Tiger Fish CR 1
+XP 400
+N Medium animal (aquatic)
+Init +2; Senses low-light vision; Perception +8
+DEFENSE AC 13, touch 12, flat-footed 11 (+2 Dex, +1 natural)
+hp 16 (3d8+3)
+Fort +4, Ref +5, Will +2
+OFFENSE Speed swim 50 ft.
+Melee bite +4 (1d6+3)
+Special Attacks interlocking bite
+STATISTICS Str 15, Dex 14, Con 13, Int 1, Wis 12, Cha 2
+Base Atk +2; CMB +4 (+8 grapple); CMD 16
+Feats Skill Focus (Perception), Skill Focus (Swim)
+Skills Perception +8, Stealth +6, Swim +17
+SPECIAL ABILITIES
+Interlocking Bite (Ex) A tiger fish gains a +2 bonus on all drag combat maneuvers and can initiate a drag combat maneuver whenever it scores a successful bite attack against a target. A tiger fish does not provoke attacks of opportunity when initiating a drag maneuver.

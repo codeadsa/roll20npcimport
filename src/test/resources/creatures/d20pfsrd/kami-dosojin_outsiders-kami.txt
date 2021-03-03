@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kami/kami-dosojin
+Dosojin Kami CR 7
+XP 3,200
+NG Medium outsider (kami, native)
+Init +7; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 20, touch 13, flat-footed 17 (+3 Dex, +7 natural)
+hp 85 (10d10+30); fast healing 4
+Fort +10, Ref +6, Will +11
+DR 5/cold iron; Immune bleed, mind-affecting effects, petrification, polymorph; Resist acid 10, electricity 10, fire 10
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +13 (1d6+2)
+Spell-Like Abilities (CL 10th; concentration +13)
+Constant—know direction, misdirection (DC 15), speak with plants
+3/day—dispel magic, fog cloud, quickened invisibility, longstrider, pass without trace, stone shape
+1/day—locate object, mirage arcana (DC 18), nondetection
+Special Attacks manipulate path, mimic statue
+STATISTICS
+Str 15, Dex 17, Con 16, Int 12, Wis 14, Cha 17
+Base Atk +10; CMB +12; CMD 25
+Feats Alertness, Improved Initiative, Iron Will, Quicken Spell-Like Ability (invisibility), Weapon Focus (slam)
+Skills Bluff +16, Diplomacy +16, Disguise +16 (+36 as statue), Handle Animal +16, Knowledge (nature) +14, Perception +4, Sense Motive +19, Survival +15
+Languages Common; speak with plants, telepathy 100 ft.
+SQ merge with ward, ward (roads or trails)
+SPECIAL ABILITIES
+Manipulate Path (Su) As a standard action, a dosojin can alter the structure and stability of its ward, making travel along its road or trail either easier or harder for specific groups of travelers. Helping travelers in this way makes a dosojin’s ward sturdier and more straightforward, allowing creatures to reach their destination in half the time they would normally take (though this does not grant a bonus to creatures’ movement speeds in combat). If a dosojin instead chooses to hinder travelers, it creates unexpected twists and turns within its ward, turning the path into difficult terrain and so causing travelers to take twice as long as they normally would to reach their destination. These effects last as long as the targets stay within the boundaries of the dosojin’s ward.
+Mimic Statue (Su) As a standard action, a dosojin can assume the appearance of any Medium-sized statue, such as a stone marker, a religious icon, or a sculpture carved into the side of a cliff. A dosojin’s body is hard and has the texture of rough stone no matter what appearance it takes. A dosojin gains a +20 racial bonus on Disguise checks when imitating a statue in this manner.

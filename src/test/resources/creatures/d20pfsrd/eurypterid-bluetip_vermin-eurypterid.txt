@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/eurypterid/eurypterid-bluetip
+Bluetip Eurypterid CR 5
+XP 1,600
+N Large vermin (aquatic)
+Init +7; Senses low-light vision, tremorsense 30 ft.; Perception +1
+DEFENSE
+AC 19, touch 12, flat-footed 16 (+3 Dex, +7 natural, –1 size)
+hp 52 (7d8+21)
+Fort +8, Ref +7, Will +3
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., swim 60 ft.
+Melee 2 claws +8 (1d6+4), sting +8 (1d4+4 plus poison)
+Space 10 ft.; Reach 10 ft. (15 ft. with sting)
+Special Attacks pounce
+STATISTICS
+Str 18, Dex 17, Con 16, Int —, Wis 13, Cha 2
+Base Atk +5; CMB +10; CMD 23
+Feats Improved InitiativeB, Lightning ReflexesB
+Skills Swim +12
+SQ amphibious
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d4 Con; cure 2 consecutive saves.
+Source Wikipedia

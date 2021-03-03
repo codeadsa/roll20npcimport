@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ettin
+Ettin (CR 6)
+XP 2,400
+CE Large humanoid (giant)
+Init +3; Senses low-light vision; Perception +12
+DEFENSE
+AC 18, touch 8, flat-footed 18; (+2 armor, –1 Dex, +8 natural, –1 size)
+hp 65 (10d8+20)
+Fort +9, Ref +2, Will +5
+OFFENSE
+Speed 40 ft.
+Melee 2 flails +12/+7 (2d6+6)
+Ranged 2 javelins +5 (1d8+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks superior two-weapon fighting
+STATISTICS
+Str 23, Dex 8, Con 15, Int 6, Wis 10, Cha 11
+Base Atk +7; CMB +14; CMD 23
+Feats Cleave, Improved Initiative, Improved Overrun, Iron Will, Power Attack
+Skills Handle Animal +8, Perception +12; Racial Modifiers +4 on Perception
+Languages pidgin of Giant, Goblin, and Orc
+SPECIAL ABILITIES
+Superior Two-Weapon Fighting (Ex) An ettin fights with a flail or javelin in each hand. Because each of its two heads controls an arm, the ettin does not take a penalty on attack or damage rolls for attacking with two weapons.

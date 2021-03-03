@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sovereign/sovereign-dragon-adult
+Adult Sovereign Dragon CR 15
+XP 51,200
+N Huge dragon
+Init +4; Senses dragon senses; Perception +26; Aura frightful presence (180 ft., DC 24)
+DEFENSE
+AC 30, touch 8, flat-footed 30 (+22 natural, -2 size)
+hp 225 (18d12+108)
+Fort +17, Ref +13, Will +18
+DR 5/magic; Immune paralysis, sleep; SR 26
+OFFENSE
+Speed 50 ft., fly 200 ft. (poor)
+Melee bite +27 (2d8+15/19-20), 2 claws +26 (2d6+10), gore +26 (2d6+15), tail slap +24 (2d6+15)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite and gore)
+Special Attacks breath weapon (40-ft. cone, 12d6 sonic damage, DC 25), crush (DC 25, 2d8+15), violent retort
+Spell-Like Abilities (CL 18th; concentration +22)
+At will—calm emotions, detect good/evil, tongues
+Spells Known (CL 7th; concentration +12)
+3rd (5/day)—lightning bolt (DC 18), suggestion (DC 18)
+2nd (7/day)—detect thoughts (DC 17), hideous laughter (DC 17), scorching ray
+1st (8/day)—charm person (DC 16), chill touch (DC 16), color spray (DC 16), endure elements, true strike
+0 (at will)—daze (DC 15), detect magic, flare (DC 15), ghost sound, message, read magic, resistance
+STATISTICS
+Str 31, Dex 10, Con 23, Int 20, Wis 21, Cha 20
+Base Atk +18; CMB +30; CMD 40 (44 vs. trip)
+Feats Flyby Attack, Hover, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Persuasive, Weapon Focus (bite)
+Skills Appraise +26, Bluff +26, Diplomacy +30, Fly -4, Heal +26, Intimidate +30, Knowledge (arcana, history, nobility) +26, Perception +26, Sense Motive +26, Spellcraft +26
+Languages Abyssal, Auran, Celestial, Common, Draconic, Infernal
+SQ change shape, dogmatic discordance
+SPECIAL ABILITIES
+Change Shape (Su) A young or older sovereign dragon can assume any humanoid form three times per day as polymorph.
+Dogmatic Discordance (Su) Good or evil creatures take a -2 penalty when making saving throws against a sovereign dragon’s spells, spell-like abilities, breath weapon, and aura.
+Violent Retort (Ex) When a young or older sovereign dragon takes damage from a melee attack critical hit, it can, as an immediate action, make a claw or tail slap attack against the creature that made the critical hit.

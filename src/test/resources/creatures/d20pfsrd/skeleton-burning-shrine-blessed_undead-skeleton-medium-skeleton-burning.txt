@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/skeleton-medium/skeleton-burning/skeleton-burning-shrine-blessed
+Shrine-Blessed Burning Skeletons CR 1
+XP 400
+NE Medium shrine-blessed undead
+Init +6; Senses darkvision 60 ft.; Perception +0; Aura fiery aura (1d6)
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 armor, +2 Dex, +2 natural)(+2 deflection vs good creatures)
+hp 5 (1d8+1)
+Fort +3, Ref +4, Will +4; +2 vs good creatures
+Defensive Abilities channel resistance +6; DR 5/bludgeoning; Immune fire, undead traits
+Vulnerability cold
+OFFENSE
+Speed 30 ft.
+Melee broken scimitar +2 (1d6+2 plus 1d6 fire), claw –1 (1d4+3 plus 1d6 fire) or 2 claws +4 (1d4+4 plus 1d6 fire)
+STATISTICS
+Str 15, Dex 14, Con —, Int —, Wis 10, Cha 12
+Base Atk +0; CMB +4; CMD 14
+Feats Improved InitiativeB
+Gear broken chain shirt, broken scimitar
+SQ fiery death (DC 11)

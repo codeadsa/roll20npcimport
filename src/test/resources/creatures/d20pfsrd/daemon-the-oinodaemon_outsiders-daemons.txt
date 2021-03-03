@@ -1,0 +1,50 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/daemon-the-oinodaemon
+The Oinodaemon CR 37
+XP 104,960,000
+NE Large outsider (daemon, evil, extraplanar)
+Init +16; Senses darkvision 60 ft., detect evil, detect good, detect magic, detect thoughts, see invisibility; Perception +61; Aura destructive aura (30 ft., +18 damage, 37 rounds)
+DEFENSE
+AC 60, touch 40, flat-footed 48 (+12 Dex, +9 insight, +20 natural, +10 profane, –1 size)
+hp 857 (49d10+588)
+Fort +39, Ref +40, Will +27
+Defensive Abilities death’s embrace; DR 25/good; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 48
+OFFENSE
+Speed 40 ft.
+Melee 2 slams +61 (2d6+12/19–20 plus disease)
+Space 10 ft.; Reach 10 ft.
+Special Attacks destructive smite 12/day (+18 damage), scythe of evil 8/day (18 rounds), transfixing gaze
+Spell-Like Abilities (CL 37th)
+Constant—detect evil, detect good, detect magic, detect thoughts (DC 22), see invisibility, water breathing
+At will—alter self, burning hands (DC 21), deeper darkness, desecrate, fear (DC 24), flaming sphere (DC 22), greater dispel magic, greater teleport (self plus 50 pounds of objects only), shapechange
+3/day—feeblemind (DC 25), mass suggestion (DC 26), wall of fire, wall of force, wall of ice (DC 24), summon (level 9, non-unique daemons in any combination whose combined HD total no more than the Oinodaemon’s HD, 100%)
+1/day—cancellation (touch attack, functions as a rod of cancellation), lesser globe of invulnerability
+Domain Spell-Like Abilities (CL 37th)
+12/day—bleeding touch (18 rounds), touch of evil (18 rounds)
+Unholy Spells Prepared (CL 37th)
+9th—astral projection, energy drain (DC 28, x3), storm of vengeance (DC 28), implosionD (DC 28)
+8th—antimagic field, mass inflict critical wounds (DC 27, x2),symbol of death (DC 27), unholy aura (DC 27), earthquakeD
+7th—blasphemy (DC 26, x2), mass inflict serious wounds (DC 26, x2), symbol of weakness (DC 26), disintegrateD (DC 26)
+6th—blade barrier (DC 25, x2), forbiddance (DC 25), harm (DC 25), word of recall, create undeadD
+5th—break enchantment, dispel good (DC 24, x2), insect plague, scrying, slay living (DC 24), symbol of pain (DC 24), slay livingD (DC 24)
+4th—death ward, dimensional anchor, discern lies (DC 23), divine power, giant vermin, inflict critical wounds (DC 23), poison (DC 23) unholy blightD (DC 23)
+3rd—bestow curse (DC 22, x2), blindness/deafness (DC 22), contagion (DC 22), inflict serious wounds (DC 22, x2), invisibility purge, animate deadD
+2nd—darkness, enthrall (DC 21), inflict moderate wounds (DC 21, x3), shatter (DC 21), sound burst (DC 21), death knellD (DC 21)
+1st—bane (DC 20), comprehend languages, curse water (DC 20), doom (DC 20), inflict light wounds (DC 20, x2), protection from good, sanctuary (DC 20), true strikeD
+0 (at will)—bleed (DC 19), create water, inflict minor wounds
+(DC 19), light, read magic, resistance
+D domain spell; Domains Death, Destruction, Evil
+STATISTICS
+Str 34, Dex 35, Con 33, Int 29, Wis 29, Cha 31
+Base Atk +49; CMB +62; CMD 84
+Feats Ability Focus (transfixing gaze), Ability Focus (disease), Blind-Fight, Cleave, Combat Reflexes, Craft Staff, Critical Focus, Empower Spell, Extend Spell, Great Cleave, Great Fortitude, Improved Critical (slam), Improved Initiative, Improved Vital Strike, Iron Will, Lightning Reflexes, Maximize Spell, Power Attack, Quicken Spell, Quicken Spell-Like Ability (wall of fire), Quicken Spell-Like Ability (wall of ice), Silent Spell, Toughness, Vital Strike, Weapon Focus (slam)
+Skills Appraise +58, Bluff +62, Diplomacy +59, Disguise +59, Fly +59, Intimidate +59, Knowledge (arcana) +58, Knowledge (local) +58, Knowledge (planes) +61, Knowledge (religion) +58, Perception +61, Sense Motive +61, Spellcraft +58, Stealth +60, Survival +58
+Languages Abyssal, Aquan, Celestial, Common, Daemonic, Draconic, Giant, Ignan, Infernal, Terran; telepathy 100 ft.
+SQ immortality, planar omniscience
+Gear Staff of the Lower Planes
+SPECIAL ABILITIES
+Disease (Ex) Daemonic Plague: Slam—injury; save Fort DC 47, onset 1 day; frequency 1/day; effect 2d6 Con damage; cure 3 consecutive saves.
+Each time the victim takes Con damage, it must succeed on a second Fort save or lose 2 points of the Con damage permanently. The save DC is Constitution-based.
+Transfixing Gaze (Su) A living creature within 30 feet that meets the Oinodaemon’s gaze must succeed on a DC 46 Will save, or be held (as the hold person spell, CL 37th). An affected creature can attempt a new save each round to break the effects if it has 24 HD or more; otherwise, only the Oinodaemon can release it, or a wish or miracle can break the effect. The save DC is Charisma-based.
+If the Oinodaemon is slain or moves more than 30 feet away from a held creature, it is automatically released. The Oinodaemon only has to remain within range to maintain this ability; he does not have to concentrate.
+Staff of the Lower Planes: This 12-foot long, black wooden staff can only be wielded by the current Oinodaemon or any daemon he allows to wield it. In anyone else’s hands, the staff functions as a normal quarterstaff. Upon the current Oinodaemon’s death, the staff can be wielded (and it functions as detailed below) by the new Oinodaemon. The staff has the powers listed below. All powers function as the spell of the same name (CL 25th or the wielder’s caster level, whichever is higher). Save DCs are 20 + spell level.
+Doom, fear (1 charge) Dominate monster, geas/quest, mass charm monster, unholy aura (2 charges) Once per day, wish (grant another’s wish) (2 charges) The staff has an unlimited number of charges, but no more than 50 charges may be expended in a single day. The staff’s powers automatically overcome any other daemon’s spell resistance. Any non-daemon that touches the staff takes 10d8 points of electricity damage per round of contact (no save) and gains two negative levels each round it touches the staff. The Fortitude save to remove a negative level has a DC of 35 and can result in actual level loss on a failed save.

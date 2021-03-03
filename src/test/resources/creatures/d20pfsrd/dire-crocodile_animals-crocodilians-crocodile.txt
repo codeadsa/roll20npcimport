@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/crocodilians/crocodile/dire-crocodile
+Crocodile, Dire CR 9
+XP 6,400
+N Gargantuan animal
+Init +4; Senses low-light vision; Perception +14
+DEFENSE
+AC 21, touch 6, flat-footed 21 (+15 natural, –4 size)
+hp 138 (12d8+84)
+Fort +15, Ref +8, Will +8
+OFFENSE
+Speed 20 ft., swim 30 ft.; sprint
+Melee bite +18 (3d6+13/19–20 plus grab) and tail slap +13 (4d8+6)
+Space 20 ft.; Reach 15 ft.
+Special Attacks death roll (3d6+19 plus trip), swallow whole (3d6+13, AC 16, 13 hp)
+STATISTICS
+Str 37, Dex 10, Con 25, Int 1, Wis 14, Cha 2
+Base Atk +9; CMB +26 (+30 grapple); CMD 36 (40 vs. trip)
+Feats Improved Critical (bite), Improved Initiative, Iron Will, Run, Skill Focus (Perception, Stealth)
+Skills Perception +14, Stealth +0 (+8 in water), Swim +21; Racial Modifiers +8 Stealth in water
+SQ hold breath

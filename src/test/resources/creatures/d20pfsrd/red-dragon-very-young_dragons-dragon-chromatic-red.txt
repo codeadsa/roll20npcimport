@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-red/red-dragon-very-young
+Very Young Red Dragon CR 8
+XP 4,800
+CE Medium dragon (fire)
+Init +5; Senses dragon senses, smoke vision; Perception +13
+DEFENSE
+AC 20, touch 11, flat-footed 19 (+1 Dex, +9 natural)
+hp 85 (9d12+27)
+Fort +9, Ref +7, Will +9
+Immune fire, paralysis, sleep
+Weaknesses Vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 150 ft. (average)
+Melee bite +14 (1d8+7), 2 claws +14 (1d6+5), 2 wings +9 (1d4+2)
+Special Attacks breath weapon (30-ft. cone, DC 17, 4d10 fire)
+STATISTICS
+Str 21, Dex 12, Con 17, Int 12, Wis 13, Cha 12
+Base Atk +9; CMB +14; CMD 25 (29 vs. trip)
+Feats Cleave, Improved Initiative, Iron Will, Power Attack, Vital Strike
+Skills Appraise +13, Bluff +13, Fly +13, Intimidate +13, Perception +13, Sense Motive +13, Stealth +13
+Languages Common, Draconic
+SPECIAL ABILITIES
+Smoke Vision (Ex) A very young red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).

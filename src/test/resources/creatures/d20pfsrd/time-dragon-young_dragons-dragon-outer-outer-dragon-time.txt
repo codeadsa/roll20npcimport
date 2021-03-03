@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-outer/outer-dragon-time/time-dragon-young
+Young Time Dragon CR 11
+XP 12,800
+N Large dragon
+Init +9; Senses detect magic, dragon senses, see in darkness; Perception +18
+DEFENSE
+AC 21, touch 11, flat-footed 19 (+2 Dex, +10 natural, –1 size)
+hp 149 (13d12+65)
+Fort +13, Ref +10, Will +10
+Immune cold, paralysis, sleep, staggered
+OFFENSE
+Speed 50 ft., fly 200 ft. (poor)
+Melee bite +20 (2d6+10), 2 claws +20 (1d8+7), 2 wings +17 (1d6+3), tail slap +17 (1d8+10)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, 6d10 electricity, DC 21)
+Spell-Like Abilities (CL 11th; concentration +13)
+Constant—detect magic
+At will—share memory
+Sorcerer Spells Known (CL 1st; concentration +3)
+1st (4/day)—erase, mage armor
+0 (at will)—mage hand, message, read magic, resistance
+STATISTICS
+Str 24, Dex 15, Con 20, Int 15, Wis 14, Cha 15
+Base Atk +13; CMB +21; CMD 33 (37 vs. trip)
+Feats Cleave, Improved Initiative, Multiattack, Power Attack, Skill Focus (Knowledge [history]), Weapon Focus (bite, claw)
+Skills Diplomacy +18, Fly +12, Knowledge (arcana, planes, religion) +18, Knowledge (history) +24, Perception +18, Spellcraft +18
+Languages Common, Draconic, Elven
+SQ immortal, no breath, read the threads, starflight
+SPECIAL ABILITIES
+Immortal (Ex) Time dragons age, but don’t die from old age.
+Read the Threads (Su) A time dragon gains a racial bonus on initiative checks equal to its age category. In addition, a time dragon is immune to the staggered condition.
+Alien Presence (Su) A creature that fails its saving throw against a time dragon’s alien presence is staggered for 5d6 rounds (or stunned if it has 4 Hit Dice or fewer).

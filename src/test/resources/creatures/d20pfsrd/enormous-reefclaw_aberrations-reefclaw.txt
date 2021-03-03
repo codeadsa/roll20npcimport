@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/reefclaw/enormous-reefclaw
+Enormous Reefclaw CR 10
+XP 9,600
+Male elite reefclaw
+CN Large aberration (aquatic)
+Init +6; Senses darkvision 60 ft.; Perception +22
+DEFENSE
+AC 20, touch 11, flat-footed 18 (+2 Dex, +9 natural, -1 size)
+hp 200 (16d8+119)
+Fort +12, Ref +7, Will +13
+Resist cold 5
+OFFENSE
+Speed 5 ft., swim 40 ft.
+Melee 2 claws +20 (2d6+8/19-20 plus grab and poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks death frenzy, constrict 2d6+8
+TACTICS
+During Combat The reefclaw knows that the barge and pier belong to its Arkona allies, and does its best not to damage them. The same gentle touch is not extended to the PCs—the monster attacks anyone it recognizes as intruders with a ferocious rage.
+Morale The enormous reefclaw gives up the fight if reduced to less than 20 hit points, swimming swiftly out to sea to seek new allies. It does not return.
+STATISTICS
+Str 26, Dex 14, Con 24, Int 10, Wis 16, Cha 18
+Base Atk +11; CMB +21 (+29 when using grapple); CMD 33 (immune to trip)
+Feats Improved Critical (claw), Improved Initiative, Improved Natural Armor (3), Improved Natural Attack (claw), Toughness, Weapon Focus (claw)
+Skills Escape Artist +21, Perception +22, Stealth +17, Swim +35
+Languages understands Common
+SQ amphibious, ferocity
+SPECIAL ABILITIES
+Death Frenzy (Su) When a reefclaw is killed, its body spasms horrifically. Immediately upon dying, the reefclaw makes a full attack action against all creatures it threatens. If more than one creature is within reach, it makes each attack against a random target (even against other reefclaws).
+Grab (Ex) A reefclaw can use its grab ability on a target of any size. Reefclaws have a +8 racial bonus on grapple checks; this bonus replaces the normal +4 bonus a creature with grab receives.
+Poison (Ex) Claw—injury; save Fort DC 25; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.
+The save DC is Constitution-based.
+

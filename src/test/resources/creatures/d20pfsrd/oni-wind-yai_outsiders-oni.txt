@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oni/oni-wind-yai
+Wind Yai CR 16
+XP 76,800
+LE Huge outsider (air, giant, native, oni, shapechanger)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +28
+DEFENSE
+AC 31, touch 11, flat-footed 28 (+4 armor, +3 Dex, +16 natural, –2 size)
+hp 230 (20d10+120); regeneration 5 (acid or fire)
+Fort +20, Ref +9, Will +17
+Resist sonic 5; SR 27
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee mwk morningstar +32/+27/+22/+17 (3d6+12) or 2 slams +30 (2d6+12)
+Ranged shocking missile +21 touch (4d6 electricity plus deafen)
+Space 15 ft.; Reach 15 ft.
+Special Attacks roaring gale
+Spell-Like Abilities (CL 16th; concentration +21)
+Constant—cloak of winds, fly
+At will—darkness, gaseous form, invisibility (self only), levitate
+3/day—control weather, quickened shout (DC 19), wind wall
+1/day—chain lightning (DC 21), whirlwind (DC 23)
+STATISTICS
+Str 35, Dex 16, Con 22, Int 15, Wis 20, Cha 21
+Base Atk +20; CMB +34; CMD 47
+Feats Awesome Blow, Cleave, Combat Casting, Combat Reflexes, Great Cleave, Great Fortitude, Improved Bull Rush, Power Attack, Quicken Spell-Like Ability (shout), Weapon Focus (morningstar)
+Skills Bluff +28, Disguise +28, Fly +25, Intimidate +28, Perception +28, Perform (string) +28, Sense Motive +28, Stealth +17
+Languages Common, Giant
+SQ change shape (Medium, Large, or Huge humanoid; alter self or giant form II)
+SPECIAL ABILITIES
+Roaring Gale (Su) As a standard action three times per day, a wind yai can select a point within sight on which to conjure a violent updraft, violently flinging its opponents into the air. When it uses this ability, the wind yai must make a single bull rush combat maneuver check (CMB equal to the wind yai’s caster level + its Cha bonus; +21 for most wind yai) against all creatures in a 10-foot-radius burst. Any creature with a CMD score lower than the result of this check is hurled 1d6 × 10 feet straight up, and lands prone in a spot 1d4 × 5 feet from its original position. The wind yai selects the direction it wishes to throw its victims, and may select a different direction for each victim, though each must be thrown in a straight line. Creatures take falling damage for any impacts while traveling up or down in this way; if a creature collides with an object during its sideways movement, both the creature and the object take 1d6 points of damage and the creature is knocked prone in the space adjacent to the obstacle.
+Shocking Missile (Su) As a swift action, a wind yai can fire a bolt of electricity from its third eye as a ranged touch attack. This attack has a range of 180 feet with no range increment, and deals 4d6 points of damage. If the creature struck is wearing metal armor or is made of metal, it instead takes 4d8 points of damage. Upon being struck by this attack, the victim must make a DC 25 Fortitude save or be deafened for 1d4 rounds. The save DC is Charisma-based.

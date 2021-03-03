@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/ray-stingray/stingray-small-tohc
+Small Stingray CR 1/2
+XP 200
+N Small animal (aquatic)
+Init +2; Senses low-light vision, scent, tremorsense 100 ft.; Perception +5
+DEFENSE
+AC 13, touch 13, flat-footed 11 (+2 Dex, +1 size)
+hp 4 (1d8)
+Fort +2, Ref +4, Will +1
+OFFENSE
+Speed swim 30 ft.
+Melee sting +3 (1d3 plus poison)
+Special Attacks poison
+STATISTICS
+Str 10, Dex 15, Con 11, Int 1, Wis 12, Cha 2
+Base Atk +0; CMB –1; CMD 11 (can’t be tripped)
+Feats Weapon Finesse
+Skills Perception +5, Swim +10; Racial Modifiers Small stingrays use their Dexterity modifier for Swim checks.
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 10; frequency 1/round for 4 rounds; effect 1 Str and paralysis 1d3 rds.; cure 1 save.

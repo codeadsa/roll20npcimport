@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/syrinx
+Syrinx CR 1/3
+XP 135
+Syrinx adept 1
+LE Medium humanoid (syrinx)
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +3 (+5 at night)
+DEFENSE
+AC 9, touch 9, flat-footed 9 (–1 Dex)
+hp 5 (1d6–1)
+Fort –1, Ref –1, Will +4; +2 vs. mind-affecting effects
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee quarterstaff –1 (1d6–1)
+Adept Spells Prepared (CL 1st; concentration +3)
+1st–command (DC 13)
+0th–detect magic, ghost sound (DC 12), read magic, stabilize
+STATISTICS
+Str 8, Dex 8, Con 9, Int 12, Wis 15, Cha 11
+Base Atk +0; CMB –1; CMD 8
+Feats Combat Casting
+Skills Fly +3, Perception +3 (+5 at night), Spellcraft +5; Racial Modifiers +2 Perception at night, +2 Stealth at night
+Languages Common, Syrinx; speak with avians
+SPECIAL ABILITIES
+Speak with Avians (Ex) Syrinx can speak with all birds of the animal creature type and birdlike magical beasts (like phoenixes and thunderbirds).

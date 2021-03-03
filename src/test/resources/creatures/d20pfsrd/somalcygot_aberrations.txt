@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/somalcygot
+Somalcygot CR 12
+XP 19,200
+NE Large aberration
+Init +7; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +26
+DEFENSE
+AC 27, touch 13, flat-footed 23 (+3 Dex, +1 dodge, +14 natural, –1 size)
+hp 189 (14d8+126)
+Fort +15, Ref +11, Will +14
+Defensive Abilities resistant evolution; DR 10/slashing;
+Immune acid, cold
+Weaknesses vulnerable to sonic
+OFFENSE
+Speed 40 ft., burrow 20 ft.
+Melee bite +21 (2d6+12 plus 4d6 acid), 4 tentacles +19 (1d8+6 plus grab)
+Space 10 ft.; Reach 10 ft. (15 ft. with tentacles)
+Special Attacks acid spray, constrict (1d8+6)
+STATISTICS
+Str 34, Dex 17, Con 28, Int 12, Wis 17, Cha 11
+Base Atk +10; CMB +23 (+27 grapple); CMD 37 (can’t be tripped)
+Feats Cleave, Dodge, Improved Initiative, Lightning Reflexes, Multiattack, Power Attack, Skill Focus (Perception)
+Skills Acrobatics +20 (+24 when jumping), Climb +29, Intimidate +17, Perception +26, Stealth +16
+Languages Aklo; telepathy 60 ft.
+SQ no breath
+SPECIAL ABILITIES
+Acid Spray (Ex) Every 1d4 rounds, a somalcygot can spit a 60-foot line of acid that deals 10d6 points of acid damage. The acid continues to burn, causing each affected creature to take an additional 5d6 points of acid damage on the following round. A successful DC 26 Reflex save halves the initial damage and negates the ongoing damage. The save DC is Constitution-based.
+Resistant Evolution (Su) Somalcygots have evolved in the harsh, unforgiving vacuum of space and developed fortified resistances to the myriad threats found in their environment, granting them a +2 resistance bonus on all saving throws.

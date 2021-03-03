@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-paracletus
+Paracletus CR 2
+XP 600
+N Small outsider (aeon, extraplanar)
+Init +2; Senses darkvision 60 ft.; Perception +7; Aura emotion aura (DC 12, 30 ft.)
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+2 Dex, +1 natural, +1 size)
+hp 13 (3d10–3)
+Fort +4, Ref +3, Will +6
+Immune cold, critical hits, poison; Resist electricity 10, fire 10; SR 7
+OFFENSE
+Speed fly 40 ft. (good)
+Melee slam +3 (1d3–1 plus 1d6 electricity)
+Spell-Like Abilities (CL 3rd; concentration +4)
+At will—sanctuary (DC 12)
+3/day—calm emotions (DC 13)
+1/week—commune (6 questions, CL 12th)
+STATISTICS
+Str 8, Dex 14, Con 9, Int 11, Wis 13, Cha 12
+Base Atk +3; CMB +1; CMD 13 (can’t be tripped)
+Feats Great Fortitude, Iron Will
+Skills Fly +8, Intimidate +7, Knowledge (arcana) +7, Knowledge (planes) +7, Perception +7, Sense Motive +7, Stealth +12
+Languages envisaging
+SQ extension of all, void form
+SPECIAL ABILITIES
+Emotion Aura (Sp) Each paracletus exists as the embodiment of a specific emotive duality. Three times per day, a paracletus can create an aura representing one of its two programmed emotions. Creatures in the area must make a DC 12 Will save to resist the aura. A creature that makes its save against the aura is unaffected by that aeon’s aura for the next 24 hours. The paracletus can choose one creature in the area to ignore its effects. The effect of the aura lasts for 10 minutes, and ends if a creature moves more than 30 feet from the aeon. The aura is a mind-affecting compulsion effect. The save DC is Charisma-based. Specific emotive dualities and their powers follow—any single paracletus can only use one of these three dualistic options and cannot change to a different one.
+Courage/Fear: The aura acts as bless or bane. Empathy/Apathy: The aura gives creatures a +2 bonus or a –2 penalty on Bluff, Diplomacy, and Intimidate checks. Hope/Despair: The aura gives creatures a +2 morale bonus on Will saving throws or a –2 penalty on Will saving throws.

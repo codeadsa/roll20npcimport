@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/gholdako
+Gholdako CR 10
+XP 9,600
+NE Large undead
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +19
+DEFENSE
+AC 25, touch 9, flat-footed 25 (+16 natural, –1 size)
+hp 127 (15d8+60)
+Fort +9, Ref +5, Will +10
+Defensive Abilities channel resistance +3; DR 5/good; Immune undead traits; Resist cold 10, fire 10
+OFFENSE
+Speed 30 ft.
+Melee bite +17 (1d8+7), 2 claws +18 (2d8+7/19–20 plus disease)
+Space 10 ft.; Reach 10 ft.
+Special Attacks blinding breath, disease
+STATISTICS
+Str 25, Dex 10, Con —, Int 10, Wis 13, Cha 19
+Base Atk +11; CMB +19 (+21 bull rush); CMD 29 (31 vs. bull rush)
+Feats Awesome Blow, Cleave, Critical Focus, Great Cleave, Improved Bull Rush, Improved Critical (claw), Power Attack, Weapon Focus (claw)
+Skills Intimidate +22, Knowledge (history) +8, Perception +19, Sense Motive +11, Stealth +14
+Languages Giant
+SPECIAL ABILITIES
+Blinding Breath (Su) Once every 1d4 rounds, a gholdako can exhale its noxious breath in a 20-foot cone, permanently blinding any creatures in the affected area unless they succeed at a DC 21 Fortitude save. The save DC is Charisma-based.
+Disease (Ex) Seaside rot: Injury; save Fort DC 21; onset 1 minute; frequency 1/day; effect 1d4 Str and 1d4 Dex; cure 2 consecutive saves. The save DC is Charisma-based.

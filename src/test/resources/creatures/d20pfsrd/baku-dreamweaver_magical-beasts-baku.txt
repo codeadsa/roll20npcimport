@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/baku/baku-dreamweaver
+Baku Dreamweaver CR 11
+XP 12,800
+N Medium magical beast
+Init +11; Senses darkvision 60 ft., low-light vision, thoughtsense 60 ft.; Perception +25
+DEFENSE
+AC 25, touch 25, flat-footed 18 (+7 Dex, +8 deflection)
+hp 174 (12d10+96)
+Fort +16, Ref +15, Will +12
+DR 15/cold iron and magic; Immune mind-affecting effects, sleep; SR 22
+OFFENSE
+Speed 30 ft., fly 60 ft. (perfect)
+Melee 2 claws +19 (2d8+4 plus mental siphon), gore +19 (1d8+4)
+Special Attacks mental siphon
+Psychic Magic (CL 18th; concentration +26)
+30 PE—deep slumber (3 PE, DC 21), dream scan (5 PE, DC 23), dream voyage (9 PE), incorporeal chains (6 PE), modify memory (5 PE, DC 23)
+Spell-Like Abilities (CL 11th; concentration +19)
+Constant—ethereal fists
+At will—dream council, invisibility, lullaby, sleep (DC 21)
+STATISTICS
+Str 18, Dex 25, Con 18, Int 18, Wis 23, Cha 27
+Base Atk +12; CMB +16; CMD 41
+Feats Alertness, Flyby Attack, Improved Initiative, Iron Will, Lucid Dreamer, Weapon Finesse
+Skills Diplomacy +20, Fly +15, Knowledge (planes) +16, Perception +25, Sense Motive +22, Spellcraft +16, Stealth +22
+Languages Aklo, Celestial, Common
+SQ consume dream, dream shepherd, dream whispers, dreaming grace, oneiromancy
+SPECIAL ABILITIES
+Consume Dream (Su) A baku dreamweaver can consume the dreams of any sleeping creature within 100 feet, either preventing nightmares or causing fatigue and preventing all effects of rest, as per a normal baku’s dream eating ability. When it is within the Dimension of Dreams, it can use this ability on a creature whose lucid body is within 100 feet to cause that creature to instantly leave the Dimension of Dreams (removing its lucid body), with no saving throw.
+Dream Shepherd (Su) A dreamweaver can enter the Dimension of Dreams at any time and herd a dreamer across the dreamscape, traveling great distances in a short period, as per the dream travel spell. When the dreamweaver uses either this ability or its dream voyage psychic magic ability, reaching a destination dream takes 30 minutes instead of 1 hour for a creature on the same plane, and the baku dreamweaver gains a +5 bonus on any required Will saves.
+Dream Whispers (Su) A dreamweaver can manipulate the dreams of nearby creatures to cultivate particular dreams. When it encounters a dreaming creature, a dreamweaver can change that creature’s dreamscape in any way that the greater create mindscape spell can shape a mindscape. The dreamscape acts as an immersive and harmless mindscape, taking any form the baku dreamweaver desires.
+Dreaming Grace (Su) A baku dreamweaver has devoured so many insubstantial dreams and dream creatures that it gains a deflection bonus to its AC equal to its Charisma modifier and adds half its Charisma modifier to its Constitution modifier to determine its hit points and its bonuses on Fortitude saves and Constitution checks.
+Mental Siphon (Su) When a dreamweaver hits with a claw attack, it also deals 1d4 points of ability damage to a mental ability score of the dreamweaver’s choice. A successful DC 24 Will save negates this ability damage.
+The save DC is Charisma-based.
+Oneiromancy (Su) While within the Dimension of Dreams, a dreamweaver can predict that plane’s strange dream logic, allowing it to reroll a single failed attack roll or saving throw once per round.

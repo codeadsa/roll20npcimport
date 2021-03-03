@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/eel-hound-od
+Eel Hound CR 2
+XP 600
+N Medium magical beast (aquatic)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 16, touch 13, flat-footed 13 (+3 Dex, +3 natural)
+hp 19 (3d10+3)
+Fort +4, Ref +6, Will +2
+DR 2/cold iron
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee bite +8 (1d6+6 plus grab)
+Special Attacks grab, slick spittle, slithering bite
+STATISTICS
+Str 19, Dex 16, Con 13, Int 6, Wis 13, Cha 16
+Base Atk +3; CMB +7; CMD 20
+Feats Power Attack, Weapon Focus (bite)
+Skills Acrobatics +7, Perception +5, Stealth +7, Swim +12
+Languages understands Sylvan
+SQ amphibious
+SPECIAL ABILITIES
+Slick Spittle (Ex) By spending 2 rounds dribbling spittle on an area, an eel hound can cover a 5-ft. square with its slippery saliva. This area is treated as if under the effects of grease, but it lasts for 1 hour.
+Slithering Bite (Ex) When an eel hound moves adjacent to an enemy and makes a bite attack, it may immediately make a 5-ft. step into an adjacent square next to its enemy. If another eel hound already occupies that square, it can continue on to the first empty square still adjacent to that same enemy.

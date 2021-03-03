@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/slime-crawler-mature-tohc
+Mature Slime Crawler CR 4
+XP 1,200
+N Large aberration
+Init +2; Senses darkvision 60 ft., scent; Perception +10
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, -1 size)
+hp 19 (3d8+6)
+Fort +3, Ref +3, Will +5
+OFFENSE
+Speed 30 ft., climb 15 ft.
+Melee 4 tentacles +3 (1d4+2 plus paralysis) and bite +3 (1d6+2)
+Space 10 ft.; Reach 5 ft. (10 ft. with tentacles)
+Special Attacks paralysis (2d4 rounds, DC 13)
+STATISTICS
+Str 14, Dex 15, Con 14, Int 1, Wis 15, Cha 6
+Base Atk +2; CMB +5; CMD 17 (can’t be tripped)
+Feats Combat Reflexes, Skill Focus (Perception)
+Skills Climb +14, Perception +10

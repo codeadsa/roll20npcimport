@@ -1,0 +1,61 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lycanthrope/wererat
+Wererat (Human Form) CR 2
+XP 600
+Human natural wererat rogue 2 (augmented humanoid)
+LE Medium humanoid (human, shapechanger)
+Init +2; Senses low-light vision, scent; Perception +8
+DEFENSE AC 16, touch 13, flat-footed 13 (+3 armor, +2 Dex, +1 dodge)
+hp 18 (2d8+6)
+Fort +2, Ref +5, Will +3
+Defensive Abilities evasion
+OFFENSE Speed 30 ft.
+Melee short sword +3 (1d6+1/19–20)
+Ranged light crossbow +3 (1d8/19–20)
+Special Attacks sneak attack +1d6
+STATISTICS Str 13, Dex 15, Con 14, Int 10, Wis 16, Cha 6
+Base Atk +1; CMB +2; CMD 15
+Feats Dodge, Weapon Finesse
+Skills Acrobatics +7, Bluff +3, Climb +6, Intimidate +3, Knowledge (local) +5, Perception +8, Sense Motive +8, Stealth +7, Swim +6
+Languages Common
+SQ change shape (human, hybrid, and dire rat; polymorph), rogue talents (fast stealth), lycanthropic empathy (rats and dire rats), trapfinding
+Wererat (Hybrid Form)
+CR 2
+XP 600
+Human natural wererat rogue 2 ( augmented humanoid)
+LE Medium humanoid (human, shapechanger)
+Init +3; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 19, touch 14, flat-footed 15 (+3 armor, +3 Dex, +1 dodge, +2 natural)
+hp 20 (2d8+8)
+Fort +3, Ref +6, Will +3
+Defensive Abilities evasion; DR 10/silver
+
+OFFENSE
+Speed 30 ft.
+Melee short sword +4 (1d6+2/19–20), bite –1 (1d4+1 plus disease and curse of lycanthropy; DC 15)
+Ranged light crossbow +4 (1d8/19–20)
+Special Attacks sneak attack +1d6
+
+STATISTICS Str 15, Dex 17, Con 16, Int 10, Wis 16, Cha 6
+Base Atk +1; CMB +3; CMD 17
+Feats Dodge, Weapon Finesse
+Skills Acrobatics +8, Bluff +3, Climb +7, Intimidate +3, Knowledge (local) +5, Perception +8, Sense Motive +8, Stealth +8, Swim +7
+Languages Common
+SQ change shape (human, hybrid, and dire rat; polymorph), rogue talents (fast stealth), lycanthropic empathy (rats and dire rats), trapfinding
+SPECIAL ABILITIES
+More About Wererats
+Wererats are a little more insular than wererat-kin, and more fond of disappearing among the rats of the sewers than among the commoners of the city. Entire thieves’ guilds and gangs of dozens or even hundreds of wererats can be found in the dark parts of urban hubs. Wererats and wererat-kin agree that secrecy is paramount to their survival, but a head wererat who expects to be in charge of all matters concerning lycanthrope secrecy in his area can become hostile toward nightskulks who do not heed him.
+Wererats’ cowardice and preference for strength in numbers often dissuades them from becoming adventurers, but their natural ambition and ingenuity can be great assets should they ever end up alone. This most often happens when one or a few wererats dare or are forced by circumstance to strike out on their own to seek wealth, powerful magic items, and other advantages over those who threaten them. Occasionally, powerful head wererats send parties of wererats out to secure their interests around the city and beyond, and such endeavors can easily lead to a life of adventure.
+Source Pathfinder Player Companion: Blood of the Moon
+Curse of Lycanthropy (Su)
+A natural lycanthrope’s bite attack in animal or hybrid form infects a humanoid target with lycanthropy (Fortitude DC 15 negates). If the victim’s size is not within one size category of the lycanthrope, this ability has no effect.
+Disease (Ex)
+Filth fever: Bite—injury; save Fort DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
+Evasion (Ex)
+As the sample wererat is a 2nd level rogue, it can avoid even magical and unusual attacks with great agility. If it makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, it instead takes no damage. Evasion can be used only if the wererat is wearing light armor or no armor (as the sample wererat is equipped). A helpless rogue does not gain the benefit of evasion.
+Fast Stealth (Ex)
+As the sample wererat is a 2nd level rogue, it has the Fast Stealth rogue talent. This ability allows the wererat to move at full speed using the Stealth skill without penalty.
+Lycanthropic Empathy (Ex)
+In any form, natural lycanthropes can communicate and empathize with animals related to their animal form. They can use Diplomacy to alter such an animal’s attitude, and when so doing gain a +4 racial bonus on the check. Afflicted lycanthropes only gain this ability in animal or hybrid form.
+Trapfinding
+As the sample wererat is a 2nd level rogue, it has the trapfinding class feature. The wererat adds 1/2 its level to Perception skill checks made to locate traps and to Disable Device skill checks (+1 in this case, modify as necessary if not using this sample wererat). A rogue can use Disable Device to disarm magic traps.

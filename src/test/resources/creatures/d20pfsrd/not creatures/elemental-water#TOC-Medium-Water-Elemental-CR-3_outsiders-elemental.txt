@@ -1,0 +1,10 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-water#TOC-Medium-Water-Elemental-CR-3
+Elemental Size Category Height Weight Vortex Save DC Vortex Height
+Small Small 4 ft. 34 lb. 13 10–20 ft.
+Medium Medium 8 ft. 280 lbs. 15 10–30 ft.
+Large Large 16 ft. 2,250 lbs. 19 10–40 ft.
+Huge Huge 32 ft. 18,000 lbs. 22 10–50 ft.
+Greater Huge 32 ft. 18,000 lbs. 25 10–60 ft.
+Elder Huge 32 ft. 18,000 lbs. 28 10–60 ft.
+Subpages
+Water Elemental, Elder Water Elemental, Greater Water Elemental, Huge Water Elemental, Large Water Elemental, Medium Water Elemental, Small

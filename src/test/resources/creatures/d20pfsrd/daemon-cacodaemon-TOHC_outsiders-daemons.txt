@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/daemon-cacodaemon-TOHC
+Cacodaemon CR 12
+XP 19,200
+NE Medium outsider (daemon, evil, extraplanar)
+Init +4; Senses darkvision 60 ft., detect magic, detect thoughts, see invisibility; Perception +21
+DEFENSE
+AC 28, touch 14, flat-footed 24 (+4 Dex, +14 natural)
+hp 138 (12d10+72)
+Fort +14, Ref +12, Will +6
+DR 10/good; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 22
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +20 (1d8+7)
+Special Attacks rend 1d8+10
+Spell-Like Abilities (CL 12th)
+Constant—detect magic, detect thoughts (DC 15), see invisibility
+At will—cause fear (DC 14), deeper darkness, desecrate
+3/day—greater teleport, hold person (DC 16), protection from good
+1/day—summon (level 6, 1d3 hydrodaemons or 1 cacodaemon 35%)
+STATISTICS
+Str 25, Dex 18, Con 23, Int 14, Wis 14, Cha 16
+Base Atk +12; CMB +19; CMD 33
+Feats Alertness, Blind-Fight, Cleave, Great Cleave, Power Attack, Weapon Focus (claw)
+Skills Bluff +18, Climb +19, Intimidate +15, Knowledge (planes) +17, Perception +21, Sense Motive +21, Stealth +19, Survival +19
+Languages Abyssal, Common, Daemonic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Alter Self (Su) A cacodaemon can assume the shape of any Small or Medium humanoid as a standard action. This supernatural ability works like alter self (CL 12th), but the cacodaemon can remain in the chosen form indefinitely. It can assume a new form as a standard action or return to its own as a free action.

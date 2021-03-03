@@ -1,0 +1,40 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/apostate-deimavigga
+Apostate Devil (Deimavigga) CR 17
+XP 102,400
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +14; Senses darkvision 60 ft., see in darkness; Perception +28
+DEFENSE
+AC 46, touch 20, flat-footed 36 (+14 armor, +10 Dex, +12 natural)
+HP 261 (18d10+162); regeneration 5
+Fort +20, Ref +16, Will +20
+DR 10/good and silver; Immune fire, poison; Resistance acid 10, cold 10; SR 27
+OFFENSE
+Speed 30 ft., fly 30 ft. (perfect)
+Melee 2 claws +28 (1d8+9/19–20 plus 1d6 Wisdom drain)
+Space 5 ft.; Reach 10 ft.
+Special Attacks boundless reach, ohrwurm
+Spell-Like Abilities (CL 18th, concentration +27, Touch +27)
+At will—alter self (DC 20), dream (DC 24), greater teleport (self plus 50 lbs. of objects only), major image (DC 22), mirage arcana (DC 24)
+3/day—blasphemy (DC 26), dominate person (DC 24), hold monster (DC 22), insanity (DC 26), touch of idiocy, veil (DC 25)
+1/day—mind fog (DC 24), screen (DC 27), summon (8th level, 1d6 osyluths or 2d4 barbazu 50%, 1 gelugon 20%)
+STATISTICS
+Str 28, Dex 31, Con 28, Int 21, Wis 24, Cha 28
+Base Atk +18; CMB +28; CMD +47
+Feats Agile Maneuvers, Combat Expertise, Combat Reflexes, Improved Critical (claw), Improved Disarm, Improved Initiative, Iron Will, Persuasive, Weapon Focus (claw)
+Skills Acrobatics +28, Bluff +30, Diplomacy +34, Disguise +27, Fly +18, Intimidate +34, Knowledge (history) +26, Knowledge (planes) +26, Knowledge (religion) +26, Perception +28, Sense Motive +28, Stealth +28
+Languages Abyssal, Celestial, Common, Draconic, Infernal; indomitable oration, telepathy 100 ft.
+SQ evangelization, indomitable oration, malleable form
+Gear +5 shadow full plate
+SPECIAL ABILITIES
+Boundless Reach (Su) A deimavigga’s claws slice through reality, allowing it to make melee attacks against any creature it is aware of—typically meaning creatures within 100 feet. The devil still only threatens the 10-foot area around it and it cannot make attacks of opportunity against creatures farther away. This ability can span vast distances, allowing a deimavigga making use of divination magic to detect distant creatures and attack foes separated by miles or even planes. Spells like forbiddance, which prevent planar travel, also protect against a deimavigga’s claws. The spell dimensional anchor also prevents a deimavigga from using this ability for the duration of that spell. An attacked creature can retaliate that round, striking at the devil’s claws with weapons or spells as if its entire body were present, but cannot grapple or otherwise prevent the claws from vanishing out of reach at the end of the round.
+Evangelization (Su) The words of deimaviggas are poison to the mind. Every round a deimavigga speaks (a free action), all non-devils with an Intelligence score of 3 or higher within 30 feet must make a DC 28 Will save or become vulnerable to its blasphemous discourse. The DC of this Will save increases by +1 for each consecutive round a creature has listened to the same deimavigga speak.
+Creatures must be listening to a deimavigga to be affected by its oration. Deafened creatures and those in combat—either with the deimavigga or other creatures—are not considered to be listening. Victims cannot simply declare they are not listening without taking steps to impede their hearing. Upon failing this save, a victim can be affected by the heretical power of a deimavigga’s words.
+The devil may use its speech to affect a listener in ways that mimic any of the following spells:
+calm emotions (DC 21), charm monster (DC 23), command (DC 20), confusion (DC 23), crushing despair (DC 23), deep slumber (DC 22), enthrall (DC 21), modify memory (DC 23), rage (DC 22), or suggestion (DC 22).
+Victims still receive saving throws against these spell effects, but if they fail their saves they are not aware the devil is working its power upon them. A deimavigga can affect multiple victims with different spell effects in the same round. A creature that makes its save against this ability is immune to that particular devil’s evangelization for the next 24 hours.
+This is a sonic mind-affecting effect. The base save DC is Charisma-based.
+Indomitable Oration (Su) A deimavigga’s speech is always perfectly clear and cannot be silenced or warped. In areas of incredible noise, through water or airless voids, even in areas of magical silence, these devil’s voices can still be heard normally. All beings understand deimaviggas, as if these devils constantly spoke in all tongues at once.
+Malleable Form (Su) A deimavigga has complete control over its physical form, and if transformed into another shape against its will, it can revert to its own form as a free action.
+Ohrwurm (Ex) As a standard action, three times per day, a deimavigga can whisper a fundamental and terrifying multiversal truth to one creature within 5 feet. The target must make a DC 28 Will save or have the devil’s words take root in its psyche. Outsiders and elementals have a +2 bonus on their saves to resist this ability. Initially, the deimavigga’s words seem to have no effect. Anytime the victim tries to rest, though, he must make an additional DC 28 Will save or be affected as per the spell nightmare (even if the victim doesn’t technically sleep).
+After a night of suffering vivid dreams and wrestling with the devil’s words, the victim must make yet another DC 28 Will save or have its alignment shift one step toward lawful evil. Only by unlearning what the deimavigga told it can a victim be free of this effect, requiring a spell such as miracle, modify memory, or wish.
+Wisdom Drain (Su) A deimavigga drains 1d6 points of Wisdom each time it hits with its claw attack. (A deimavigga does not heal any damage when it uses its Wisdom drain.)

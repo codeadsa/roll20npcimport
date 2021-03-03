@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/elk/herd-animal-elk-megaloceros
+Megaloceros CR 4
+XP 1,200
+N Large animal
+Init +2; Senses low-light vision, scent; Perception +9
+DEFENSE
+AC 16, touch 11, flat-footed 14 (+2 Dex, +5 natural, –1 size)
+hp 34 (4d8+16)
+Fort +8, Ref +8, Will +3
+OFFENSE
+Speed 50 ft.
+Melee gore +7 (2d6+5), 2 hooves +2 (1d4+2)
+Space 10 ft.; Reach 5 ft.
+Special Attacks powerful charge (4d6+7)
+STATISTICS
+Str 20, Dex 15, Con 18, Int 2, Wis 15, Cha 5
+Base Atk +3; CMB +9; CMD 21 (25 vs. trip)
+Feats Endurance, Lightning Reflexes, RunB
+Skills Perception +9

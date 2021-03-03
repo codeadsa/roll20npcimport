@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/quasi-elemental-obsidian/obsidian-quasi-elemental-elder
+Elder Obsidian Quasi-Elemental CR 9
+XP 6,400
+N Huge outsider (earth, elemental, extraplanar)
+Init -1; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 21, touch 7, flat-footed 21 (-1 Dex, +14 natural, -2 size)
+hp 114 (12d10+48)
+Fort +8, Ref +7, Will +8
+DR 10/–; Immune elemental traits; Resist cold 10, fire 10
+OFFENSE
+Speed 20 ft.
+Melee 2 claws +20 (2d6+10/19-20)
+Special Attacks death throes, molten glass (2d8 fire, DC 20)
+STATISTICS
+Str 30, Dex 8, Con 19, Int 6, Wis 11, Cha 11
+Base Atk +12; CMB +24; CMD 31
+Feats Awesome Blow, Cleave, Great Cleave, Improved Bull Rush, Improved Critical (claw), Improved Natural AttackB, Power Attack
+Skills Knowledge (planes) +13, Perception +15, Sense Motive +15, Stealth +6
+Languages Terran
+SPECIAL ABILITIES
+Death Throes (Ex) When reduced to 0 or less hit points, an obsidian quasi-elemental explodes in a cloud of razor-sharp bits of obsidian. All creatures within a 30-ft radius take 10d6 damage. A DC 20 Reflex save reduces it to half. The save DC is Constitution-based.
+Molten Glass (Ex) A successful hit against an obsidian quasi-elemental with a piercing or slashing weapon (or piercing or slashing natural attack) that deals damage equal to its current HD opens a wound that spurts molten glass. The wound bleeds for 1d4 rounds and any creature within 5 feet must make a DC 19 Reflex save or take 2d8 fire damage from the splash. A new save must be made each round the wound bleeds and a creature is within the area. The save DC is Constitution-based.

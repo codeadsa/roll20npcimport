@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kami/kami-fukujin
+Fukujin Kami CR 3
+XP 800
+LN Tiny outsider (kami, native)
+Init +7; Senses darkvision 60 ft.; Perception +12; Aura aura of luck (15 ft.)
+DEFENSE
+AC 15, touch 15, flat-footed 12 (+3 Dex, +2 size)
+hp 30 (4d10+8); fast healing 3
+Fort +6, Ref +4, Will +7
+DR 5/cold iron or evil; Immune bleed, mind-affecting effects, petrification, polymorph; Resist acid 10, electricity 10, fire 10
+OFFENSE
+Speed 30 ft.
+Melee short sword +7 (1d3+1/19–20)
+Special Attacks precise attacks
+Spell-Like Abilities (CL 4th; concentration +6)
+Constant—speak with plants
+At will—mending, purify food and drink
+3/day—detect snares and pits, remove sickness
+1/day—delay poison, goodberry, soften earth and stone
+STATISTICS
+Str 13, Dex 16, Con 14, Int 11, Wis 17, Cha 14
+Base Atk +4; CMB +5; CMD 16
+Feats Alertness, Improved Initiative
+Skills Appraise +7, Bluff +9, Diplomacy +9, Knowledge (nature) +7, Perception +12, Sense Motive +12
+Languages Common; speak with plants, telepathy 100 ft.
+SQ merge with ward, ward (bonsai trees and small plants)
+SPECIAL ABILITIES
+Aura of Luck (Su) A fukujin brings good fortune with it wherever it goes. Any allied creature that begins its turn within 15 feet of a fukujin gains a +2 bonus on skill checks.
+Precise Attacks (Su) A fukujin can detect weak points in a foe’s defenses as an immediate action by succeeding at a DC 15 Perception check. Once these weak points have been determined, a fukujin gains a +2 bonus on attack rolls to confirm critical hits against that creature for 24 hours. A fukujin can inform a single ally within 30 feet of its findings as a swift action, granting that ally the same bonus. This bonus cannot be granted to more than one creature, even if a fukujin attempts to point out a weakness to another.

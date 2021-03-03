@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stirge
+Stirge
+CR 1/2
+XP 200
+N Tiny magical beast
+Init +4; Senses darkvision 60 ft., low-light vision, scent; Perception +1
+DEFENSE
+AC 16, touch 16, flat-footed 12 (+4 Dex, +2 size)
+hp 5 (1d10)
+Fort +2, Ref +6, Will +1
+
+OFFENSE
+Speed 10 ft., fly 40 ft. (average)
+Melee touch +7 (attach)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks blood drain
+
+STATISTICS Str 3, Dex 19, Con 10, Int 1, Wis 12, Cha 6
+Base Atk +1; CMB +3 (+11 grapple when attached); CMD 9 (17 vs. trip)
+Feats Weapon Finesse
+Skills Fly +8, Stealth +16
+SQ diseased
+SPECIAL ABILITIES Attach (Ex) When a stirge hits with a touch attack, its barbed legs latch onto the target, anchoring it in place. An attached stirge is effectively grappling its prey. The stirge loses its Dexterity bonus to AC and has an AC of 12, but holds on with great tenacity and inserts its proboscis into the grappled target’s flesh. A stirge has a +8 racial bonus to maintain its grapple on a foe once it is attached. An attached stirge can be struck with a weapon or grappled itself—if its prey manages to win a grapple check or Escape Artist check against it, the stirge is removed.
+Blood Drain (Ex) A stirge drains blood at the end of its turn if it is attached to a foe, inflicting 1 point of Constitution damage. Once a stirge has dealt 4 points of Constitution damage, it detaches and flies off to digest the meal. If its victim dies before the stirge’s appetite has been sated, the stirge detaches and seeks a new target.
+Diseased (Ex) Due to the stagnant swamps in which they live and their contact with the blood of numerous creatures, stirges are harbingers of disease. Any creature subjected to a stirge’s blood drain attack has a 10% chance of being exposed to filth fever, blinding sickness, or a similar disease (See Afflictions). Once this check is made, the victim can no longer be infected by this particular stirge, though attacks by different stirges are resolved normally and may result in multiple illnesses. Subpages
+Stirge Swarm Stirge, Giant

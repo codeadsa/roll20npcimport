@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/samsaran
+Samsaran CR 1/2
+XP 200
+Male samsaran oracle 1
+N Medium humanoid (samsaran)
+Init +2; Senses low-light vision; Perception +8
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+3 armor, +2 Dex)
+hp 11 (1d8+3)
+Fort +0, Ref +2, Will +4; +2 vs. death effects, negative energy effects, negative levels
+OFFENSE
+Speed 30 ft.
+Melee spear –1 (1d6–1)
+Ranged sling +2 (1d4–1)
+Spell-Like Abilities (CL 1st; concentration +3)
+1/day—comprehend languages, deathwatch, stabilize
+Oracle Spells Known (CL 1st; concentration +3)
+1st (4/day)—command (DC 13), cure light wounds, sanctuary (DC 13)
+0 (at will)—ghost sound (DC 12), guidance, light, mage hand, read magic, resistance
+Mystery lore
+STATISTICS
+Str 8, Dex 14, Con 11, Int 12, Wis 14, Cha 15
+Base Atk +0; CMB –1; CMD 11
+Feats Toughness
+Skills Diplomacy +6, Disable Device +7, Heal +6, Knowledge (religion) +5, Perception +8, Spellcraft +5; Racial Modifiers +2 Disable Device, +2 Perception
+Languages Celestial, Common, Draconic, Samsaran
+SQ lifebound, oracle’s curse (haunted), revelations (think on it), shards of the past (Disable Device, Perception)

@@ -1,0 +1,48 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-moloch-arch-devil-tohc
+Moloch CR 26
+XP 2,460,000
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +11; Senses darkvision 60 ft., detect good, detect magic, see invisibility, see in darkness; Perception +49
+DEFENSE
+AC 46, touch 30, flat-footed 39 (+7 Dex, +7 insight, +16 natural, +7 profane, –1 size)
+hp 561 (34d10+374); regeneration 10 (good, silver)
+Fort +24, Ref +28, Will +29
+DR 20/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 37
+OFFENSE
+Speed 40 ft.
+Melee +4 unholy shocking six-tailed whip +50/+45/+40/+35 (2d8+22/19–20 plus 1d6 electricity), bite +40 (2d8+6) or 2 claws +45 (2d6+12 plus grab), bite +45 (2d8+12)
+Space 10 ft.; Reach 10 ft. (25 ft. with whip)
+Special Attacks breath weapon (30-ft. cone, fear as spell, CL 34th, Will DC 38), might of the gods (+20, 20 rounds/day), rend (2 claws, 2d6+18), scythe of evil 4/day (10 rounds), staff of order 4/day (10 rounds),
+Spell-Like Abilities (CL 26th)
+Constant—detect good, detect magic, see invisibility
+At will—animate dead, blasphemy (DC 24), burning hands (DC 18), charm monster (DC 21), desecrate, enthrall (DC 19), fly, geas/quest (DC 18), greater dispel magic, greater teleport (self plus 50 pounds of objects only), magic circle against good, major image (DC 20), polymorph, produce flame, raise dead, read magic, suggestion (DC 20), tongues, unholy aura (DC 25), unhallow, wall of fire
+2/day—summon (level 9, 4d10 lemures or nupperibos, 2d6 bearded devils, 2d4 bone devils, 1d4 horned devils or barbed devils, or 1d2 pit fiends 100%)
+1/day—flame strike (DC 22), symbol of stunning (DC 24), wish
+Domain Spell-Like Abilities (CL 20th)
+11/day—strength surge (+10), touch of evil (10 rounds), touch of law
+Spells Prepared (CL 20th)
+9th—crushing handD, energy drain (DC 27), miracle, soul bind (DC 27), true resurrection
+8th—create greater undead (x2), mass inflict critical wounds (DC 26), shield of law (DC 26), symbol of death (DC 26), unholy auraD (DC 26)
+7th—control weather, dictum (DC 25), grasping handD, mass inflict serious wounds (DC 25), refuge, resurrection
+6th—antilife shell, blade barrier (DC 24), create undeadD, forbiddance (DC 24), geas/quest (DC 24), harm (DC 24)
+5th—dispel goodD (DC 23), greater command (DC 23), insect plague, mass inflict light wounds (DC 23, x2), slay living (DC 23), symbol of pain (DC 23)
+4th—air walk, dimensional anchor, freedom of movement, giant vermin, inflict critical wounds (DC 22, x3), spell immunityD
+3rd—blindness/deafness (DC 21), glyph of warding, invisibility purge, magic circle against chaosD, magic circle against good, searing light, stone shape, wind wall
+2nd—augury, bull’s strengthD, calm emotions (DC 20), darkness, death knell (DC 20), inflict moderate wounds (DC 20), shatter (DC 20), spiritual weapon
+1st—bane (DC 19), cause fear (DC 19), command (DC 19), comprehend languages, doom (DC 19), inflict light wounds (DC 19, x2), protection from chaosD
+0 (at will)—bleed (DC 18), create water, detect magic, light, read magic, stabilize
+
+D domain spell; Domains Evil, Law, Strength
+TACTICS
+Moloch attacks with either a claw/claw/bite routine or his whip and spell-like abilities. His whip is a long metal rod-like weapon with six 15-foot long pliable metal tails.
+STATISTICS
+Str 34, Dex 24, Con 32, Int 25, Wis 26, Cha 25
+Base Atk +34; CMB +47 (+51 grapple); CMD 78
+Feats Alertness, Cleave, Combat Casting, Extend Spell, Great Cleave, Great Fortitude, Improved Initiative, Improved Vital Strike, Iron Will, Lightning Reflexes, Maximize Spell, Persuasive, Power Attack, Quicken Spell, Quicken Spell-Like Ability (fireball), Vital Strike, Weapon Focus (whip)
+Skills Appraise +41, Bluff +44, Climb +49, Diplomacy +45, Intimidate +48, Knowledge (arcana) +41, Knowledge (planes) +44, Knowledge (religion) +41, Perception +49, Sense Motive +49, Spellcraft +44, Stealth +40, Survival +45
+Languages Abyssal, Celestial, Common, Draconic, Giant, Goblin, Infernal, Undercommon; telepathy 100 ft.
+SQ planar omniscience
+Gear Kraken’s Bite
+GEAR Unique Item: Kraken’s Bite
+Moloch’s unique weapon Kraken’s Bite is a Large +4 unholy shocking six-tailed whip.
+It does lethal damage as a heavy flail and does threaten the squares in its range but has the reach of a whip. In addition if used to make trip or disarm attacks, then the wielder can make six trip or disarm attempts in a round as a full-round action and receive the benefits of having both the Improved Trip and Improved Disarm feats, even if he does not have the necessary prerequisites.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/basilisk-abyssal
+Abyssal Basilisk CR 12
+XP 19,200
+CE Large outsider (augmented magical beast, extraplanar)
+Init +3; Senses darkvision 60 ft., detect good, low-light vision; Perception +11
+DEFENSE
+AC 22, touch 8, flat-footed 22 (-1 Dex, +12 natural, -1 size)
+hp 189 (18d10+90)
+Fort +18, Ref +12, Will +8
+DR 10/magic; Resist cold 10, fire 10; SR 23
+OFFENSE
+Speed 20 ft.
+Melee bite +25 (2d8+7), 2 claws +24 (1d6+7)
+Space 10 ft.; Reach 5 ft.
+Special Attacks petrifying gaze, smite good
+Spell-Like Abilities (CL 18th; concentration +20)
+Constant—detect good
+STATISTICS
+Str 24, Dex 8, Con 21, Int 3, Wis 10, Cha 15
+Base Atk +18; CMB +26; CMD 35 (47 vs. trip)
+Feats Alertness, Blind-Fight, Great Fortitude, Improved Natural Attack (bite), Iron Will, Improved Initiative, Lightning Reflexes, Power Attack, Weapon Focus (bite)
+Skills Climb +16, Perception +11, Sense Motive +2, Stealth +4; Racial Modifiers +4 Stealth (when not moving in natural settings)
+Languages none
+SQ magic natural attack
+SPECIAL ABILITIES
+Petrifying Gaze (Ex) Permanently turn to stone, DC 21 Fortitude, range 30 feet. The save DC is Charisma-based.
+Smite Good (Su) Once per day, the abyssal greater basilisk can smite a good creature with a melee attack, dealing a +2 to hit and damage and an extra 18 points of damage.

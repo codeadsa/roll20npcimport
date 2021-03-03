@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/urchin/sea-urchin-ravenous-swarm
+Ravenous Urchin Swarm CR 2
+XP 600
+NE Tiny vermin (aquatic, swarm)
+Init +1; Senses darkvision 60 ft., scent; Perception +1
+DEFENSE AC 15, touch 13, flat-footed 14 (+1 Dex, +2 natural, +2 size)
+hp 18 (4d8)
+Fort +4, Ref +2, Will +2
+Immune mind-affecting effects, Resist cold 5
+OFFENSE Speed 10 ft., swim 20 ft.
+Melee swarm +6 (2d6 plus poison)
+Space 10 ft.; Reach 0 ft. Special Attacks distraction (DC 14), jet, underfoot
+STATISTICS Str 1, Dex 13, Con 10, Int —, Wis 13, Cha 9
+Base Atk +3; CMB +2; CMD 7 (can’t be tripped)
+Feats Weapon FinesseB
+Skills Acrobatics +9, Swim +3; Racial Modifiers Acrobatics +8,
+SQ amphibious
+SPECIAL ABILITIES Jet (Ex) While underwater, a ravenous urchin swarm can jet as a full-round action at a speed of 70 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
+Poison (Ex) The venom of ravenous urchin swarms stiffens muscles and locks joints into painful configurations. The save DC is Constitution-based.
+Swarm—injury; save Fort DC 12; frequency 1/round for 6 rounds; effect 1d2 Dex and reduce movement speed by 10 feet (to a minimum of 5 feet); cure 1 save.
+Underfoot (Ex) Each time a creature moves through a space occupied by a ravenous urchin swarm or starts its movement in such a space, it runs the risk of a ravenous urchin moving underfoot. The creature must succeed at a DC 13 Reflex save or take 1 point of damage plus poison. Additionally, the affected creature’s movement speed is reduced by half because its foot is wounded. This movement penalty lasts for 24 hours, until the creature is successfully treated with a DC 15 Heal check, or until it receives at least 1 point of magical healing. A charging or running creature must immediately stop if it steps on a ravenous urchin. Any creature moving at half its speed or slower can pick its way through a tidal pool of ravenous urchins (but not a ravenous urchin swarm) with no trouble. The save DC is Constitution-based.

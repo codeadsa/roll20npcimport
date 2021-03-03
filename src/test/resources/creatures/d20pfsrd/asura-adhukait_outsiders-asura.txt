@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/asura/asura-adhukait
+Adhukait CR 7
+XP 3,200
+LE Medium outsider (asura, evil, extraplanar, lawful)
+Init +3; Senses all-around vision, darkvision 60 ft.; Perception +19; Aura elusive (30 ft.)
+DEFENSE
+AC 20, touch 14, flat-footed 16 (+3 Dex, +1 dodge, +6 natural)
+hp 76 (9d10+27); regeneration 5 (good weapons, good spells)
+Fort +6, Ref +11, Will +9; dual mind, +2 vs. enchantments
+DR 5/good; Immune curse effects, disease, flanking, poison; Resist acid 10, electricity 10; SR 18
+OFFENSE
+Speed 40 ft.
+Melee 2 mwk kukris +15/+10 (1d4+5/18-20), 2 claws +9 (1d4+2)
+Special Attacks dance of disaster
+Spell-Like Abilities (CL 6th; concentration +9)
+At will—feather fall, greater teleport (self plus 50 lbs. of objects only), spider climb
+3/day—blink, blur, mirror image, spike growth
+1/day—summon (level 4, 1 adhukait 35%)
+STATISTICS
+Str 20, Dex 17, Con 17, Int 13, Wis 16, Cha 16
+Base Atk +9; CMB +14; CMD 28
+Feats Combat Reflexes, Dodge, Lightning Reflexes, Mobility, Nimble Moves
+Skills Acrobatics +15 (+19 when jumping), Bluff +15, Escape Artist +21, Intimidate +11, Knowledge (planes) +9, Perception +19, Perform (dance) +14, Stealth +15; Racial Modifiers Acrobatics (+4 when jumping), +6 Escape Artist, +4 Perception
+Languages Common, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Dance of Disaster (Su) Whenever an adhukait hits with a melee attack during a full-attack action, it can move 10 feet before making its next attack. The adhukait’s normal speed does not limit this movement—it can move 10 feet after any successful hit among its four attacks, as long as it has another attack to make.
+Dual Mind (Su) An adhukait is a single creature with two distinct minds, so it can attempt two saving throws against mind-affecting effects. If either saving throw succeeds, the mind-affecting effect fails to affect the adhukait.

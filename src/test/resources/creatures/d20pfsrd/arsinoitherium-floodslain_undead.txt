@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/arsinoitherium-floodslain
+Floodslain Arsinoitherium CR 8
+XP 4,800
+CE Large undead (augmented animal)
+Init –1; Senses low-light vision, scent; Perception +17
+DEFENSE
+AC 21, touch 8, flat-footed 21 (+13 natural, –1 Dex, –1 size)
+hp 67 (9d8+27)
+Fort +10, Ref +5, Will +5
+Defensive Abilities channel resistance +2; DR 5/magic; Immune undead traits; Resist cold 10
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee gore +15 (4d8+15)
+Space 10 ft.; Reach 5 ft.
+Special Attacks crashing waters, create spawn, drowning touch (DC 16), panic (DC 16), powerful charge (4d8+15), trample (2d8+13, DC 24)
+STATISTICS
+Str 30, Dex 8, Con —, Int 2, Wis 15, Cha 14
+Base Atk +6; CMB +17; CMD 26 (30 vs. trip)
+Feats Diehard, Endurance, Great Fortitude, Improved Overrun, Power Attack, ToughnessB
+Skills Perception +14, Swim +18
+SQ flash flood
+SPECIAL ABILITIES
+Crashing Waters (Su) Once per day, a floodslain creature can instinctively summon a spectral echo of the rushing waters that created it. This mass of phantom water slams the floodslain creature from behind, carrying it forward at up to three times its normal speed and enabling it to charge a single target. These waters also impact all creatures near the end of the floodslain creature’s movement, pushing them back. This acts as a bull rush; the floodslain creature attempts a single combat maneuver check against the CMD of each creature within 10 feet of the end of its charge. This bull rush attempt doesn’t provoke attacks of opportunity.
+Create Spawn (Su) Any creature killed by a floodslain creature rises as a floodslain creature if it’s left immersed in water for 24 hours. These spawn aren’t under the control of their creators.
+Drowning Touch (Su) The slam attack of a floodslain creature partially fills a living victim’s lungs with water. The victim must succeed at a Fortitude saving throw in order to cough up this water or become fatigued for 1d4 rounds. A fatigued creature that fails this save becomes exhausted instead. An exhausted creature that fails this save is staggered and falls to 0 hp. A creature at 0 hp that fails this save drops to –1 hp and begins dying. A creature killed in this fashion appears to have drowned.
+Flash Flood (Su) A floodslain creature is constantly surrounded by an echo of the disaster that originally took its life. Water streams from the floodslain creature’s body, forming a 30-foot-radius pool that renders the ground in that area slick and muddy and increases the DCs of Acrobatics checks made in the area by 5.
+Panic (Su) The dead eyes of a floodslain creature are frozen with shock and fear. The floodslain creature can induce fear in a living victim as a standard action. Targets must succeed at a Will saving throw or become shaken for 1d6 rounds. A creature can be affected by the same floodslain creature’s panic attack only once every 24 hours.

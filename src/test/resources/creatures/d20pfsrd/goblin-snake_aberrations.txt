@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/goblin-snake
+Goblin Snake CR 1
+XP 400
+CE Small aberration
+Init +2; Senses darkvision 60 ft., scent; Perception +5
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+2 Dex, +1 natural, +1 size)
+hp 13 (2d8+4)
+Fort +2, Ref +2, Will +4
+OFFENSE
+Speed 30 ft., burrow 5 ft., swim 20 ft.
+Melee bite +2 (1d4+3)
+Special Attacks goblin breath
+STATISTICS
+Str 14, Dex 15, Con 14, Int 9, Wis 12, Cha 13
+Base Atk +1; CMB +2; CMD 14 (can’t be tripped)
+Feats LungeB, Skill Focus (Bluff)
+Skills Bluff +6, Intimidate +5, Knowledge (local) +3, Perception +5, Stealth +10
+Languages Common, Goblin
+SQ snake empathy +7
+SPECIAL ABILITIES
+Goblin Breath (Ex) Once every 1d4 rounds, a goblin snake can release a disgusting belch as a standard action. Any creature within 5 feet of the goblin snake must succeed at a DC 13 Fortitude save or be sickened for 1d6 rounds by the stench. Creatures that successfully save cannot be affected by the same goblin snake’s goblin breath for 24 hours. Goblin snakes and goblins are immune to this effect. This is a poison effect. The save DC is Constitution-based.
+Snake Empathy (Ex) This ability functions similarly to a druid’s wild empathy ability, but allows a goblin snake to verbally communicate with and be understood by snakes and similar serpentine reptiles. The bonus equals the goblin snake’s racial Hit Dice plus its Charisma modifier and a +4 racial bonus.

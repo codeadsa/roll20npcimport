@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/satyr
+Satyr CR 4
+XP 1,200
+CN Medium fey
+Init +2; Senses low-light vision; Perception +18
+DEFENSE
+AC 18, touch 13, flat-footed 15 (+2 Dex, +1 dodge, +5 natural)
+hp 44 (8d6+16)
+Fort +4, Ref +8, Will +8
+DR 5/cold iron
+OFFENSE
+Speed 40 ft.
+Melee dagger +6 (1d4+2/19–20), horns +1 (1d6+1)
+Ranged short bow +6 (1d6/×3)
+Special Attacks pipes
+Spell-Like Abilities (CL 8th)
+At will—charm person (DC 15), dancing lights, ghost sound (DC 14), sleep (DC 15), suggestion (DC 17)
+1/day—fear (DC 18), summon nature’s ally III
+STATISTICS
+Str 14, Dex 15, Con 15, Int 12, Wis 14, Cha 19
+Base Atk +4; CMB +6; CMD* 18
+Feats Dodge, Mobility, Skill Focus (Perception), Weapon Finesse
+Skills Bluff +15, Diplomacy +15, Disguise +9, Intimidate +9, Knowledge (nature) +10, Perception +18, Perform (wind instruments) +19, Stealth +17, Survival +7; Racial Modifiers +4 Perception, +4 Perform, +4 Stealth
+Languages Common, Sylvan
+SPECIAL ABILITIES
+Pipes (Su) A satyr can focus and empower his magic by playing haunting melodies on his panpipes. When he plays, all creatures within a 60-foot radius must make a DC 18 Will save or be affected by charm person, fear, sleep, or suggestion, depending on what tune the satyr chooses. A creature that successfully saves against any of the pipes’ effects cannot be affected by the same set of pipes for 24 hours, but can still be affected by the satyr’s other spell-like abilities as normal. The satyr’s use of his pipes does not count toward his uses per day of his spell-like abilities, and if separated from them he may continue to use his standard abilities. The pipes themselves are masterwork, and a satyr can craft a replacement with 1 week of labor. The save DC is Charisma-based.

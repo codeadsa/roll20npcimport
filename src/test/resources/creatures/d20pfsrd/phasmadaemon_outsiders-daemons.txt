@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/phasmadaemon
+Phasmadaemon CR 17
+XP 102,400
+NE Large outsider (daemon, evil, extraplanar)
+Init +11; Senses darkvision 60 ft., true seeing; Perception +30; Aura frightful presence (60 ft., DC 27)
+DEFENSE
+AC 32, touch 17, flat-footed 24 (+7 Dex, +1 dodge, +15 natural, –1 size)
+hp 264 (23d10+138)
+Fort +19, Ref +14, Will +19
+DR 10/good and silver; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 28
+OFFENSE
+Speed 30 ft., fly 40 ft. (good)
+Melee bite +27 (2d6+5/19–20 plus grab), 2 claws +27 (1d8+5)
+Space 10 ft.; Reach 10 ft.
+Special Attacks consume fear, constrict (2d6+5), rend (2d6+7)
+Spell-Like Abilities (CL 20th; concentration +26)
+Constant—deathwatch, true seeing
+At will—greater teleport (self plus 50 lbs. of objects only), persistent image (DC 21)
+3/day—quickened greater shadow conjuration (DC 23), greater shadow evocation (DC 24), mirage arcana, nightmare (DC 21), permanent image (DC 22), phantasmal killer (DC 20)
+1/day—mislead, summon (level 8, 1 temerdaemon or 1d3 suspiridaemons, 50%), symbol of fear (DC 21), weird (DC 25)
+STATISTICS
+Str 20, Dex 25, Con 23, Int 19, Wis 18, Cha 22
+Base Atk +23; CMB +29 (+33 grapple); CMD 47
+Feats Combat Casting, Deceitful, Dodge, Greater Spell Penetration, Improved Critical (bite), Improved Initiative, Intimidating Prowess, Iron Will, Power Attack, Quicken Spell-Like Ability (greater shadow conjuration), Spell Penetration, Vital Strike
+Skills Bluff +36, Disguise +36, Escape Artist +30, Fly +35, Intimidate +37, Knowledge (planes) +30, Perception +30, Sense Motive +30, Spellcraft +30, Stealth +29
+Languages Abyssal, Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SQ compression, tangible horror
+SPECIAL ABILITIES
+Consume Fear (Su) As a standard action, a phasmadaemon that begins its turn with a grappled opponent can attempt to feed on the creature’s mortality and innate terror. Any creature that does not succeed at a DC 27 Will save takes 1d6 points of Charisma drain and becomes shaken for 2d4 rounds; in addition, the phasmadaemon gains 5 temporary hit points for every point of Charisma drain dealt this way. If the creature being grappled is already panicked at the beginning of the phasmadaemon’s turn, it must save instead on a DC 27 Fortitude save or be slain instantly by the phasmadaemon, which gains a +1 profane bonus on attack rolls, saving throws, and checks for every 2 points of Charisma its victim had before dying; the profane bonuses last for 24 hours. The save DCs are Charisma-based.
+Tangible Horror (Su) A phasmadaemon’s illusion abilities are partially real at a level above and beyond those normally conjured forth by similar illusion spells. If a creature succeeds at its Will save to disbelieve either a phasmadaemon’s greater shadow conjuration or greater shadow evocation spell-like ability, the conjured or evoked spell has 80% the normal effect or is 80% likely to occur, rather than 60%.

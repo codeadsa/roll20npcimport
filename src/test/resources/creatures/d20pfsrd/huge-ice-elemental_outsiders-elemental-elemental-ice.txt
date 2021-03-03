@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-ice/huge-ice-elemental
+Huge Ice Elemental CR 7
+XP 3,200
+N Huge outsider (air, cold, elemental, extraplanar, water)
+Init +7; Senses darkvision 60 ft., snow vision; Perception +13
+DEFENSE
+AC 20, touch 12, flat-footed 16 (+3 Dex, +1 dodge, +8 natural, –2 size)
+hp 95 (10d10+40)
+Fort +11, Ref +10, Will +3
+DR 5/—; Immune cold, elemental traits
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 20 ft., burrow (ice and snow only) 20 ft., swim 60 ft.
+Melee 2 slams +15 (2d6+7 plus 1d8 cold)
+Space 15 ft.; Reach 15 ft.
+Special Attacks numbing cold (DC 19)
+STATISTICS
+Str 24, Dex 16, Con 19, Int 6, Wis 11, Cha 11
+Base Atk +10; CMB +19; CMD 33 (can’t be tripped)
+Feats Cleave, Dodge, Great Cleave, Improved Initiative, Power Attack
+Skills Intimidate +13, Knowledge (planes) +11, Perception +13, Stealth +8, Swim +15
+Language Aquan
+SQ ice glide, icewalking
+SPECIAL ABILITIES
+Ice Glide (Su) A burrowing ice elemental can pass through nonmagical ice and snow as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A control water spell cast on an area containing a burrowing ice elemental flings the elemental back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the elemental climbs must be icy. The elemental can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+Numbing Cold (su) When an ice elemental deals cold damage to a creature, that creature must succeed on a Fortitude save or be staggered for 1 round. The save DC is listed in the elemental’s stat block and is Constitution-based.
+Snow Vision (Ex) An ice elemental can see perfectly well in snowy conditions and does not take any penalties on Perception checks while in snow.

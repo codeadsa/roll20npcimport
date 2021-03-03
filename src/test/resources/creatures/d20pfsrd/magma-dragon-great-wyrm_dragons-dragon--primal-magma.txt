@@ -1,0 +1,44 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-magma/magma-dragon-great-wyrm
+Magma Dragon, Great Wyrm CR 20
+XP 307,200
+CN Gargantuan dragon (fire)
+Init +3; Senses dragon senses; Perception +37; Aura frightful presence (360 ft., DC 29)
+DEFENSE
+AC 42, touch 5, flat-footed 42 (-1 Dex, +37 natural, -4 size)
+hp 391 (27d12+216)
+Fort +25, Ref +14, Will +24
+DR 20/magic; Immune fire, paralysis, sleep; SR 31
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy)
+Melee bite +37 (4d6+21/19-20 plus 12 fire), 2 claws +37 (2d8+14/19-20), tail slap +35 (2d8+21), 2 wings +35 (2d6+7)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (60-ft. cone, DC 31, 24d6 fire plus special), crush (DC 31, 4d6+21), magma breath, magma tomb, tail sweep (DC 31, 2d6+21)
+Spell-Like Abilities (CL 27th; concentration +33)
+Constant—fire shield (warm)
+At will—burning hands (DC 17), scorching ray, wall of fire, wall of lava*
+3/day—delayed blast fireball (DC 23)
+Sorcerer Spells Known (CL 19th; concentration +25)
+9th (4/day)—fiery body, meteor swarm
+8th (6/day)—horrid wilting (DC 24), incendiary cloud (DC 24), protection from spells
+7th (6/day)—grasping hand, greater polymorph, prismatic spray (DC 23)
+6th (7/day)—chain lightning (DC 22), contagious flame* (DC 22), eyebite (DC 22)
+5th (7/day)—hungry pit* (DC 21), polymorph, teleport, wall of force
+4th (7/day)—acid pit* (DC 20), dimensional anchor, fire shield, wall of fire (DC 20)
+3rd (7/day)—displacement, dispel magic, fireball (DC 19), wind wall
+2nd (8/day)—darkness, dust of twilight*, flaming sphere (DC 18), glitterdust (DC 18), scorching ray
+1st (8/day)—feather fall, flare burst* (DC 17), grease (DC 17), shield, true strike
+0 (at will)—bleed (DC 16), detect magic, detect poison, ghost sound, light, open/close, read magic, spark*, touch of fatigue
+* This spell is from the Pathfinder RPG Advanced Player’s Guide
+STATISTICS
+Str 39, Dex 8, Con 27, Int 24, Wis 24, Cha 23
+Base Atk +27; CMB +45 (+47 bull rush); CMD 54 (56 vs. bull rush, 58 vs. trip)
+Feats Flyby Attack, Great Fortitude, Greater Vital Strike, Hover, Improved Bull Rush, Improved Critical (bite, claws), Improved Initiative, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Snatch, Vital Strike
+Skills Acrobatics +26 (+30 jump), Bluff +36, Climb +44, Escape Artist +26, Fly +15, Intimidate +36, Knowledge (planes) +37, Perception +37, Sense Motive +37, Sleight of Hand +26, Stealth +17, Survival +37, Swim +44
+Languages Common, Draconic, Dwarven, Elven, Gnome, Halfling, Ignan, 1 more
+SQ superheated
+SPECIAL ABILITIES
+Superheated (Su) At young age and older, a magma dragon’s bite attack deals additional fire damage equal to its age category.
+Magma Breath (Su) Three times per day, an ancient or older magma dragon can breathe a cone of lava instead of fire. The damage is unchanged, but the magma clings to those it damages, dealing half damage each round thereafter for 1d3 rounds. After this magma cools, it crumbles to dust.
+Magma Tomb (Su) Once per day, a great wyrm magma dragon can spit lava onto a target within 120 feet, dealing damage normally for its breath weapon. This magma cools instantly—it does not continue doing damage at this point but does entrap the victim (DC equals the dragon’s breath weapon save DC, 3d6 minutes, hardness 8, hp 45).
+

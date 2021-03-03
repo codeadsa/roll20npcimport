@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/beheaded/medusa-head/medusa-head-screaming/medusa-head-shrieking
+Shrieking Medusa Head CR 4
+XP 1,200
+Advanced screaming medusa head
+NE Small undead
+Init +3; Senses darkvision 60 ft.; Perception +2
+DEFENSE
+AC 19, touch 14, flat-footed 16 (+3 Dex, +5 natural, +1 size)
+hp 34 (4d8+16)
+Fort +5, Ref +4, Will +6
+Immune undead traits
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee bite +8 (1d4+4 plus petrifying bite)
+Special Attacks scream
+TACTICS
+During Combat If there are multiple medusa heads present, on the first round of combat, one medusa heads screams while another bites the closest opponent. They alternate screaming to affect as many foes as possible while trying to turn foes to stone with their petrifying bites.
+Morale Medusa heads fight until destroyed.
+STATISTICS
+Str 18, Dex 16, Con —, Int —, Wis 15, Cha 19
+Base Atk +3; CMB +6; CMD 19 (can’t be tripped)
+Feats Flyby AttackB
+Skills Fly +11

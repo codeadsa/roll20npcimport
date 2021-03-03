@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/mist-dragon-tohc
+Mist Dragon (Draco Nebulus Terra)
+N dragon (air, fire, water)
+BASE STATISTICS CR 3; Size Small; Hit Dice 6d12
+Speed 40 ft., fly 150 ft. (average), swim 20 ft.
+Natural Armor +5; Breath Weapon cone, 1d6 fire plus blindness
+Str 13, Dex 14, Con 13, Int 14, Wis 15, Cha 14
+SPECIAL ABILITIES
+Boiling Bite (Su) At old age, a mist dragon’s bite deals an additional 2d6 points of fire damage. An ancient dragon’s damage increases to 4d6, and a great wrym’s to 6d6.
+Breath Weapon (Su) A mist dragon’s breath weapon is a cone of cloudy scalding vapor. In still air, the vapor lingers for 1d4 rounds and forms a cloud that covers a radius equal to the cone’s length; on the second round, the vapor condenses into a heated smothering fog that deals 1d6 points of fire damage to creatures each round they remain in the area (Fortitude save halves this damage). The fog also blinds creatures (as the blindness spell) that fail the save as long as they remain within in the cloud and for 2 rounds after they leave the area.
+Mist Form (Su) As a standard action, a juvenile or older mist dragon can assume gaseous form, but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability. A great wyrm mist dragon’s abilities while in mist form improve drastically. As a standard action a great wyrm mist dragon in mist form can make a single melee attack of its choice at its highest attack bonus. This attack deals normal damage. As a full-round action, a great wyrm mist dragon in mist form can attack with its breath weapon.
+Mist Vision (Ex) A very young mist dragon can see perfectly in foggy conditions (such as those created by fog cloud or obscuring mist).
+Spell-like Abilities A mist dragon gains the following spell-like abilities, usable at will upon reaching the listed age category.
+Young—create water
+Juvenile—fog cloud
+Adult—wind wall
+Old—solid fog
+Ancient—control winds
+Great Wyrm—control water
+Water Breathing (Ex) A very young or older mist dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+CR Age Category Special Abilities Caster Level
+3 Wyrmling fire subtype —
+5 Very Young Water breathing, mist vision —
+7 Young create water —
+8 Juvenile Mist form, fog cloud 1st
+10 Young Adult DR 5/magic, spell resistance 3rd
+11
+Adult Frightful presence, wind wall 5th
+12 Mature Adult DR 10/magic 7th
+14
+Old solid fog, boiling bite 9th
+15 Very Old DR 15/magic 11th
+16 Ancient control winds 14th
+17 Wyrm DR 20/magic 15th
+19 Great Wyrm control water, greater mist form 17th
+*A mist dragon can also cast cleric spells and those from the Air, Knowledge, and Water domains as arcane spells.
+Subpages
+Mist Dragon, Adult Mist Dragon, Ancient Mist Dragon, Young

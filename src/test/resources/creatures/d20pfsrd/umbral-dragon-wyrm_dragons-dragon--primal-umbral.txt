@@ -1,0 +1,43 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-umbral/umbral-dragon-wyrm
+Umbral Dragon, Wyrm
+CR 20
+XP 307,200
+CE Gargantuan dragon (extraplanar)
+Init +2; Senses dragon senses; Perception +37; Aura frightful presence (330 ft., DC 30)
+DEFENSE
+AC 40, touch 4, flat-footed 40 (-2 Dex, +36 natural, -4 size)
+hp 364 (27d12+189)
+Fort +22, Ref +13, Will +22
+DR 20/magic; Immune cold, death effects, negative energy, paralysis, sleep; SR 31
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy)
+Melee bite +36 (4d6+19/19–20), 2 claws +36 (2d8+13/19-20), tail slap +34 (2d8+19) and 2 wings +34 (2d6+6)
+Special Attacks breath weapon (60-ft. cone, 22d8 negative energy, DC 30), create shadows, crush (4d6+19, DC 30), shadow breath (11 Str), tail sweep (2d6+19, DC 30)
+Spell-like Abilities (CL 27th; concentration +34)
+At will—darkness, project image (DC 24), shadow walk, vampiric touch
+3/day—finger of death (DC 24)
+Spells Known (CL 17th; concentration +24)
+8th (4/day)— horrid wilting (DC 25), trap the soul (DC 25)
+7th (7/day)—destruction (DC 24), limited wish, waves of exhaustion
+6th (7/day)—harm (DC 23), mislead, veil (DC 23)
+5th (7/day)—greater command (DC 22), slay living (DC 22), teleport, unhallow
+4th (7/day)—enervation, inflict critical wounds (DC 21), phantasmal killer (DC 21), unholy blight (DC 21)
+3rd (8/day)—dispel magic, haste, inflict serious wounds (DC 20), lightning bolt (DC 20)
+2nd (8/day)—alter self, blur, command undead (DC 19), invisibility, web (DC 19)
+1st (8/day)—inflict light wounds (DC 18), grease (DC 18), magic missile, reduce person (DC 18), shield
+0 (at will)—acid splash, bleed (DC 17), detect magic, detect poison, disrupt undead (DC 17), ghost sound, mage hand, ray of frost, read magic
+STATISTICS
+Str 37, Dex 6, Con 25, Int 24, Wis 25, Cha 24
+Base Atk +27; CMB +44; CMD 52 (56 vs trip)
+Feats Bleeding Critical, Critical Focus, Flyby Attack, Greater Vital Strike, Hover, Improved Critical (bite, claws), Improved Initiative, Improved Vital Strike, Multiattack, Power Attack, Skill Focus (Stealth), Snatch, Vital Strike
+Skills Appraise +37, Bluff +37, Diplomacy +37, Fly +14, Knowledge (arcana, local, planes, religion) +37, Perception +37, Sense Motive +37, Spellcraft +37, Stealth +22, Survival +37
+Languages Abyssal, Common, Draconic, Undercommon, 4 more
+SQ ghost bane, umbral scion
+SPECIAL ABILITIES
+Breath Weapon (Su) Although it deals negative energy damage, an umbral dragon’s breath weapon does not heal undead creatures.
+Create Shadows (Su) Any creature slain by an ancient or older umbral dragon rises as a shadow (if 8 HD or less) or greater shadow (if above 8 HD) under the umbral dragon’s control 1d4 rounds later.
+Ghost Bane (Su) A young or older umbral dragon’s physical attacks deal damage to incorporeal creatures normally.
+Shadow Breath (Su) Three times per day, an adult or older umbral dragon can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the dragon. A successful save negates the blindness and reduces Str drain to 1d4 points.
+Umbral Scion (Ex) Umbral dragons have negative energy affinity and are immune to energy drain and death effects.
+
+

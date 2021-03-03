@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/kampfult
+Kampfult CR 2
+XP 600
+NE Medium plant
+Init +1; Senses blindsight 30 ft; Perception +8
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 19 (3d8+6)
+Fort +5, Ref +2, Will +2
+Immune plant traits
+OFFENSE
+Speed 10 ft.
+Melee 6 tendrils +5 (1d3+3 plus grab)
+Special Attacks constrict (2 tendrils, 1d6+4)
+STATISTICS
+Str 16, Dex 12, Con 14, Int 6, Wis 12, Cha 6
+Base Atk +2; CMB +5 (+9 to grapple); CMD 16
+Feats Skill Focus (Perception), Skill Focus (Stealth)
+Skills Perception +8, Stealth +9
+Languages Sylvan (cannot speak)

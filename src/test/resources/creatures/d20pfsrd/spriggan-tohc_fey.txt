@@ -1,0 +1,53 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/spriggan-tohc
+Spriggan CR 3
+XP 800
+CE Small fey
+Init +4; Senses low-light vision; Perception +10
+DEFENSE
+AC 19, touch 15, flat-footed 15 (+4 armor, +4 Dex, +1 size)
+hp 22 (5d6+5)
+Fort +2, Ref +8, Will +4
+OFFENSE
+Speed 20 ft.
+Melee halberd +3 (1d8–1/x3) or short sword +7 (1d4–1/19–20)
+Ranged heavy crossbow +7 (1d8/19–20)
+Special Attacks sneak attack +2d6
+Spell-Like Abilities (CL 4th):
+At will—flare (DC 10, scare (DC 12), shatter (DC 12)
+STATISTICS
+Str 8, Dex 18, Con 13, Int 11, Wis 11, Cha 10
+Base Atk +2; CMB +0; CMD 14
+Feats Combat Reflexes, Weapon Finesse, Weapon Focus (halberd)
+Skills Climb +7, Disable Device +9, Perception +10, Sleight of Hand +12, Stealth +16, Survival +5; Racial Modifiers +2 Climb,Disable Device, Perception, Sleight of Hand, and Stealth
+Gear chain shirt, halberd, short sword, heavy crossbow, quiver of 20 crossbow bolts
+Languages Gnome
+SQ size alteration
+SPECIAL ABILITIES
+Size Alteration (Su) At will, a spriggan can grow from Small to Large size or back again. Weapons, armor, and other inanimate objects on its person grow proportionately with it when it changes size. This is similar to the enlarge person spell. An enlarged spriggan gains +12 Strength, –2 Dexterity, +6 Constitution, and a –2 to AC. While enlarged, a spriggan cannot use its spell-like abilities or its innate sneak attack ability (though any other sneak attack it may have, such as from rogue class levels, is unaffected when it changes size).
+Spriggan (enlarged)
+This loutish creature appears brutish even for a giant, with bulbous nose, scraggly hair and patchy beard. The smell emanating from it is no surprise considering the filth of itself and its clothing.
+XP 800 (same as normal)
+CE Large fey
+Init +2; Senses low-light vision; Perception +10
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+4 armor, +2 Dex, –1 size)
+hp 37 (5d6+20)
+Fort +5, Ref +6, Will +4
+OFFENSE
+Speed 20 ft.
+Melee halberd +7 (2d8+7/x3) or short sword +6 (1d8+5/19–20)
+Ranged rock +4 (1d8+7)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rock throwing (60 ft.), sneak attack +2d6
+Spell-Like Abilities (CL 4th):
+At will—flare (DC 10, scare (DC 12), shatter (DC 12)
+STATISTICS
+Str 20, Dex 16, Con 19, Int 11, Wis 11, Cha 10
+Base Atk +2; CMB +8; CMD 20
+Feats Combat Reflexes, Weapon Finesse, Weapon Focus (halberd)
+Skills Climb +13, Disable Device +7, Perception +10, Sleight of Hand +10, Stealth +6, Survival +5; Racial Modifiers +2 Climb, Disable Device, Perception, Sleight of Hand, and Stealth
+Gear chain shirt, halberd, short sword, heavy crossbow, quiver of 20 crossbow bolts
+Languages Gnome
+SQ size alteration
+SPECIAL ABILITIES
+Size Alteration (Su) At will, a spriggan can grow from Small to Large size or back again. Weapons, armor, and other inanimate objects on its person grow proportionately with it when it changes size. This is similar to the enlarge person spell. An enlarged spriggan gains +12 Strength, –2 Dexterity, +6 Constitution, and a –2 to AC. While enlarged, a spriggan cannot use its spell-like abilities or its innate sneak attack ability (though any other sneak attack it may have, such as from rogue class levels, is unaffected when it changes size).

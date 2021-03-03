@@ -1,0 +1,68 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-lucifer-prince-of-darkness-tohc
+Lucifer CR 39
+XP 209,920,000
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +12; Senses darkvision 60 ft., detect good, detect thoughts, see invisibility, see in darkness; Perception +67; Aura fear (20 ft., DC 47)
+DEFENSE
+AC 74, touch 38, flat-footed 66 (+12 armor, +8 Dex, +9 insight, +24 natural, +12 profane, –1 size)
+hp 943 (51d10+663); regeneration 15 (good, silver)
+Fort +32, Ref +37, Will +38
+Defensive Abilities heavy fortification; DR 25/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 50
+OFFENSE
+Speed 50 ft., fly 80 ft. (good)
+Melee Huge +6 trident +71/+66/+61/+56 (3d6+28), bite +62 (2d8+7 plus 1d8 acid), sting +62 (2d8+7 plus poison) or 2 claws +64 (2d6+14 plus 1d8 acid), bite +64 (2d8+14 plus 1d8 acid), sting +62 (2d8+7 plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks gaze weapons, scythe of evil 3/day (9 rounds) , staff of order 3/day (9 rounds), weapon master (19 rounds/day)
+Spell-Like Abilities (CL 39th)
+Constant—detect good, detect thoughts (DC 24), see invisibility
+At will—alter self, animate dead, blasphemy (DC 29), daylight, deeper darkness, desecrate, detect magic, discern location, dominate monster (DC 31), fireball (DC 25), geas/quest (DC 28), greater dispel magic, greater invisibility (DC 26), greater teleport (self plus 50 pounds of objects), hold monster (DC 27), ice storm, magic circle against good, major image (DC 25), mass charm monster (DC 30), polymorph, produce flame, pyrotechnics (DC 24), read magic, suggestion (DC 25), tongues, unholy aura (DC 30), unhallow (DC 27), wall of fire, wall of ice (DC 26)
+3/day—greater restoration, meteor swarm (DC 31), resurrection, shapechange, symbol of fear (DC 28), symbol of pain (DC 27), symbol of persuasion (DC 28), symbol of death (DC 30), summon (level 9, 4d10 lemures or nupperibos, 2d8 bearded devils, 2d4 bone devils ice devils or erinyes, 1d6 barbed devils or ghaddar devils, or 1d3 pit fiends 100%)
+1/day—wish
+1/week—summon (level 9, each arch-devil to Lucifer’s palace in Hell 100%; functions only in Hell)
+Domain Spell-Like Abilities (CL 19th)
+12/day—battle rage (9 rounds), touch of evil (9 rounds), touch of law
+Spells Prepared (CL 19th)
+9th—gate, mass heal, power word killD, storm of vengeance (DC 28), true resurrection
+8th—earthquake, fire storm (DC 27), greater spell immunity, power word stunD, shield of law (DC 27)
+7th—destruction (DC 26), greater restoration, mass inflict serious wounds (DC 26), power word blindD, repulsion (DC 26), resurrection
+6th—banishment (DC 25), blade barrierD (DC 25), geas/quest (DC 25), harm (DC 25), mass inflict moderate wounds (DC 25), word of recall
+5th—break enchantment, dispel goodD (DC 24), flame strike (DC 24, x2), insect plague, raise dead, slay living (DC 24), true seeing
+4th—death ward, dimensional anchor, discern lies (DC 23), dismissal (DC 23), divine power, freedom of movement, inflict critical wounds (DC 23), order’s wrathD
+3rd—animate dead (x2), blindness/deafness (DC 22), contagion (DC 22) x2, inflict serious wounds (DC 22), magic circle against chaosD, obscure object
+2nd—align weapon (law only)D, darkness, death knell (DC 21), delay poison, hold person (DC 21, x3), sound burst (DC 21)
+1st—bane (DC 20), curse water (DC 20), detect chaos, doom (DC 20, x2), inflict light wounds (DC 20, x2), protection from chaosD, shield of faith
+0th (at will)—create water, detect poison, guidance, light, mending, resistance
+D domain spell;
+Domains Evil, Law, War
+Sorcerer Spells Known (CL 20th)
+9th (7/day)—dominate monster (DC 31), soul bind (DC 31), wish
+8th (8/day)—horrid wilting (DC 30), iron body, sunburst (DC 30)
+7th (8/day)—forcecage, finger of death (DC 29), waves of exhaustion
+6th (8/day)—acid fog, contingency, flesh to stone (DC 28)
+5th (8/day)—cloudkill (DC 27), magic jar (DC 27), mind fog (DC 27), seeming (DC 27)
+4th (9/day)—charm monster (DC 26), dimensional anchor, ice storm, shout (DC 26)
+3rd (9/day)—blink, deep slumber (DC 25), hold person (DC 25), ray of exhaustion (DC 25)
+2nd (9/day)—arcane lock, fog cloud, acid arrow, scorching ray, touch of idiocy
+1st (9/day)—color spray (DC 23), hold portal, jump, ray of enfeeblement, unseen servant
+0th (at will)—acid splash, arcane mark, daze (DC 22), dancing lights, ghost sound, ray of frost, read magic, resistance, touch of fatigue (DC 22)
+TACTICS
+Lucifer rarely engages in combat (and even less rarely does he engage in melee combat), preferring to summon pit fiends to fight his would-be challengers. If he does enter combat, he fights with his Rod, spells, spell-like abilities, gaze attacks, poison, and acid. Slain foes are either left in the “care” of his minions or taken to Xaphan and used to stoke the hellish furnaces that power Malefacta.
+STATISTICS
+Str 38, Dex 26, Con 36, Int 28, Wis 28, Cha 34
+Base Atk +51; CMB +66; CMD 105
+Feats Alertness, Bleeding Critical, Cleave, Combat Casting, Craft Rod, Craft Wondrous Item, Critical Focus, Deceitful, Empower Spell, Extend Spell, Great Fortitude, Improved Initiative, Improved Vital Strike, Iron Will, Lightning Reflexes, Maximize Spell, Multiattack, Persuasive, Power Attack, Quicken Spell, Quicken Spell-Like Ability (fireball), Scribe Scroll, Sickening Critical, Silent Spell, Vital Strike, Weapon Focus (trident)
+Skills Acrobatics +59, Appraise +60, Bluff +74, Diplomacy +74, Disguise +70, Fly +64, Intimidate +70, Knowledge (arcana) +60, Knowledge (planes) +63, Knowledge (religion) +63, Perception +67, Sense Motive +71, Stealth +58, Survival +60, Use Magical Device +63; Racial Modifiers +4 Bluff, +4 Diplomacy, +4 Sense Motive
+Languages Abyssal, Celestial, Common, Daemonic, Draconic, Giant, Goblin, Infernal, Sylvan, Terran; telepathy 100 ft.
+SQ planar omniscience
+Gear Rod of Infernus, Hell’s Redoubt
+SPECIAL ABILITIES
+Gaze Weapons (Su) Lucifer has two gaze weapons. He may use one each round as a standard action. Each gaze weapon has a range of 30 feet and has a save DC of 47 (CL 39th). The save DC is Charisma-based.
+Descent into Evil: Any creature meeting Lucifer’s gaze must make a successful Will save or have his alignment shift one step toward lawful evil on the law–chaos axis or the good–evil axis. A lawful evil creature is unaffected by this gaze attack. A successful save renders a creature immune to this gaze weapon for one day. Curse: Any creature meeting Lucifer’s gaze must succeed at a Will save or be affected as if by a double-strength bestow curse spell (–12 to one ability score or –6 to two ability scores; or –8 enhancement penalty on attack rolls, saving throws, ability checks, and skill checks; or each turn the target has a 25% chance to act normally, otherwise he takes no action; Lucifer chooses the curse when he uses this special attack). A successful save renders a creature immune to this gaze weapon for one day. This curse can be dispelled by making a caster level check against DC 50. Poison (Ex) Sting—injury; save Fort DC 48; frequency 1/round for 10 rounds; effect 2d6 Con damage; cure 3 consecutive saves. The save DC is Constitution-based.
+GEAR Unique Item: Rod of Infernus
+Lucifer’s black iron rod functions as a Huge +6 trident that he can wield without penalty.
+The Rod of Infernus has the following abilities:
+Annihilation Ray: Once per round, and no more than five times per day, the rod can fire a ray to a range of 60 feet. A creature struck by this ray must succeed on a DC 40 Fortitude save or be annihilated instantly—not even a trace of dust is left behind. No form of mortal magic can restore life to a creature annihilated by this ray. Lucifer or a deity can restore the annihilated creature to life using magic. Rod of Rulership: The rod has all of the abilities and powers of a rod of rulership. Trap the Soul: Once per round, and no more than three times per day, the rod can fire a ray of hellish-red energy to a range of 60 feet that functions as a trap the soul spell (CL 20th). A target can make a DC 40 Will save to resist the effects. If failed, the victim’s soul vanishes into Lucifer’s rod. Up to 10 such souls can be held in the rod at one time. A trapped soul may be freed by grasping the rod and speaking a command word. Any non-devil that touches the rod takes 10d8 points of electricity damage per round of contact (no save) and gains two negative levels each round it touches the rod. The Fortitude save to remove a negative level has a DC of 40 and can result in actual level loss on a failed save. The negative levels cannot be overcome in any way (including restoration spells) while the rod is wielded. Any good-aligned creature that touches the rod takes 3d6 points of Constitution drain each round it touches the rod (DC 40 Fortitude save for half).
+Unique Item: Hell’s Redoubt
+Hell’s Redoubt is Lucifer’s Large suit of +5 heavy fortification banded mail that has no armor check penalty, speed penalty, and no chance for arcane spell failure. It was personally crafted for him the hands of Cheshimiboth, Armorer of the Nine Hells, just prior to the Great Uprising. To reward this unique devil’s genius for crafting, Lucifer had him murdered in the first moments of the Uprising to prevent him from ever revealing any vulnerability in the armor he fashioned or ever again crafting its equal.
+In addition to its fortification qualities, three times per day, Lucifer can cause the fires of Hell to spring forth in a 30-foot radius spread around him (the spread remains stationary once called forth). These fires last for 3 rounds and deal 10d6 points of fire damage per round (DC 40 Reflex save for half) and ignore all fire resistance and fire immunity. Only the wearer of the armor is immune to their effects. Those slain by these fires are completely destroyed (including their equipment) and cannot be returned to life through anything short of divine intervention.
+Hell’s Redoubt functions as +1 banded mail but bestows five negative levels for as long as it is worn if worn by anyone other than Lucifer unless the wearer defeats Asmodeus and gains the Throne of Hell. At that point it resumes its ordinary function. Anyone wearing the armor is filled with the overwhelming urge to attempt to do that very thing no matter the cost. The negative levels disappear if the armor is removed.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-witch-doll-tohc
+Witch-Doll Golem CR 11
+XP 12,800
+N Large construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 25, touch 9, flat-footed 25 (+16 natural, –1 size)
+hp 107 (14d10+30)
+Fort +4; Ref +4; Will +4
+Defensive Abilities resist magic; DR 10/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +21 (2d10+8) or needle +21/+16/+11 (2d6+12/19-20)
+Space 10 ft.; Reach 10 ft.
+Special Attacks extra damage against foe, find target, linked attack, witch-doll link
+STATISTICS
+Str 26, Dex 10, Con —, Int —, Wis 11, Cha 1
+Base Atk +14; CMB +23; CMD 33
+SPECIAL ABILITIES
+Extra Damage against Foe (Su) When it successfully establishes a witch-doll link, a witch-doll golem deals an extra 1d8 points of damage against its programmed target each time one of its attacks hits.
+Find Target (Sp) When ordered to find its programmed target, a witch-doll golem does so unerringly, as though guided by discern location.
+Linked Attack (Su) When a witch-doll golem successfully establishes a witchdoll link, any damage taken by the witch-doll golem from any source other than the linked host deals half its damage to the golem and half its damage to the linked target so long as they are within 60 feet of each other. Only the linked target can successfully attack a witch-doll golem and not take “linked damage”. Attacks that don’t damage a witch-doll golem (because of its immunities or its damage reduction) likewise deal no damage to the linked target. Attacks that damage the linked target do not damage the witch-doll golem (the link it establishes is one way). Healing (or repair in the case of the witch-doll golem) is not passed through the link.
+A witch-doll golem cannot be programmed to attack itself in order to damage its programmed target.
+Witch-Doll Link (Su) A witch-doll golem can establish an invisible link between itself and its programmed target by making a successful melee attack against its programmed target. If successful, the opponent can attempt a DC 19 Fortitude save to resist the link. The save DC is Constitution-based and includes a +2 racial bonus. A witch-doll link is broken if the witch-doll golem is destroyed, the target dies, or the witch-doll golem is programmed with a new target. A witch-doll golem cannot establish this link with any other creature other than its programmed target.
+Immunity to Magic (Ex) A witch-doll golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells function differently against the creature, as noted below.
+A confusion spell slows it (as the slow spell) for 2d6 rounds, with no saving throw.
+A mending spell heals 2d6 hit points.
+Resist Magic (Ex) A witch-doll golem gains a +4 bonus on all saving throws against any spell or spell-like ability or effect cast by its programmed target (provided the effect gets past its immunity to magic). The witch-doll does not have to be linked to its target to gain this bonus.

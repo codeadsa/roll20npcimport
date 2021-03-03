@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/formians/formian-royal-guard
+Formian Royal Guard CR 9
+XP 6,400
+LN Large outsider (extraplanar, lawful)
+Init +8; Senses darkvision 60 ft., hive mind 50 mi.; Perception +18
+DEFENSE
+AC 24, touch 14, flat-footed – (+4 Dex, +1 dodge, +10 natural, -1 size)
+hp 114 (12d10+48); fast healing 2
+Fort +8, Ref +12, Will +11
+Immune cold, poison, petrification; Resist electricity 10, fire 10, sonic 10; SR 20
+OFFENSE
+Speed 50 ft.
+Melee sting +16 (2d6+4 plus poison), 2 claws +16 (1d8+4)
+Ranged +1 returning javelin +16 (1d8+6)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 12th)
+Constant—detect chaos, detect thoughts (DC 15)
+At will—charm monster (DC 17), clairaudience/clairvoyance, magic circle against chaos, greater teleport
+1/day—dictum (DC 20), order’s wrath (DC 17)
+STATISTICS
+Str 20, Dex 18, Con 18, Int 16, Wis 16, Cha 17
+Base Atk +12; CMB +18, CMD 33 (37 vs. trip)
+Feats Capture Alive, Dodge, Improved Initiative, Mobility, Spring Attack, Wind Stance
+Skills Acrobatics +19, Climb +20, Diplomacy +18, Intimidate +18, Knowledge (planes) +18, Perception +18, Sense Motive +18, Stealth +19, Survival +15
+Languages Common, Formian
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d3 Dex damage; cure 2 saves. The save DC is Constitution-based.

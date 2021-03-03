@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/bogwid
+Bogwid CR 5
+XP 1,600
+CN Medium aberration
+Init +8; Senses darkvision 60 ft.; Perception +2; Aura revolting aura (10 ft., DC 13 Fort)
+DEFENSE
+AC 19, touch 14, flat-footed 15 (+4 Dex, +5 natural)
+hp 47 (5d8+25)
+Fort +5, Ref +5, Will +1
+Resist acid 5, cold 5
+OFFENSE
+Speed 30 ft., climb 20 ft., swim 20 ft.
+Melee 2 slams +7 (1d6+4 plus nauseating touch)
+Ranged offspring +7 ranged touch (1d2 bleed plus disease)
+Special Attack ravenous young
+STATISTICS
+Str 19, Dex 18, Con 18, Int 3, Wis 4, Cha 13
+Base Atk +3; CMB +7; CMD 21 (33 vs. trip)
+Feats Improved Initiative, Stealthy, Toughness
+Skills Climb +16, Escape Artist +6, Perception +2, Stealth +11 (+19 in swamps), Swim +12; Racial Modifiers +8 Stealth in swamps
+SQ amphibious
+SPECIAL ABILITIES
+Disease (Ex) Bogwid Fever: Bite—injury; save Fort DC 16, onset 1 day, frequency 1/day, effect 1d2 Str damage and shaken, cure 2 consecutive saves. The DC save is Constitution-based.
+Nauseating Touch (Ex) The bogwid’s touch is disgusting. Creatures hit by its slam attack must succeed at a DC 16 Fortitude save or be nauseated for 1 round. The save DC is Constitution-based.
+Ravenous Young (Ex) Each round, a bogwid can launch one of the offspring clinging to its back at a target within 10 feet as a ranged touch attack. On a successful hit, the offspring attaches itself to the target and begins draining blood, automatically dealing 1d2 points of bleed damage each round (and possibly infecting the target with bogwid fever).
+As a full-round action, a creature can attempt to remove one of these offspring, either by bludgeoning it with a fist or pulling it off. Either way, removing an offspring kills the larval creature. Someone other than the target the offspring is attached to can also perform this action. Anyone using a weapon to kill or remove an attached offspring deals half of the damage to the creature to which the offspring is attached. A bogwid can launch up to 10 offspring per day before it must rest and gestate more larval young.
+Revolting Aura (Ex) The bogwid is both visually and odoriferously revolting. Any creature within 10 feet of a bogwid must succeed at a DC 16 Fortitude save or be sickened. This effect persists as long as the creature is within the aura and for 2 rounds thereafter. A creature that successfully saves is not subject to the same bogwid’s revolting aura for 24 hours. The save DC is Constitution-based.

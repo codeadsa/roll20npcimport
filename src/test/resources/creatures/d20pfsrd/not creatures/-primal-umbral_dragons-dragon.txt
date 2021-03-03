@@ -1,0 +1,15 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-umbral
+Age Category Special Abilities Caster Level*
+Wyrmling Immunity to cold, Umbral Scion —
+Very Young darkness —
+Young Ghost Bane 1st
+Juvenile Frightful Presence, vampiric touch 3rd
+Young Adult DR 5/magic, spell resistance 5th
+Adult Shadow Breath, shadow walk 7th
+Mature Adult DR 10/magic 9th
+Old project image 11th
+Very Old DR 15/magic 13th
+Ancient Create Shadows, finger of death (3/day) 15th
+Wyrm DR 20/magic 17th
+Great Wyrm Energy Drain, shades 19th
+* An Umbral Dragon can cast cleric spells as arcane spells.

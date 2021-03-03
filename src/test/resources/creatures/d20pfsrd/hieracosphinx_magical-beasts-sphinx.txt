@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sphinx/hieracosphinx
+Hieracosphinx CR 5
+XP 1,600
+CE Large magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +16
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, -1 size)
+hp 60 (8d10+16)
+Fort +8, Ref +8, Will +4
+OFFENSE
+Speed 30 ft., fly 60 ft. (poor)
+Melee bite +11 (1d10+4), 2 claws +11 (1d6+4)
+Space 10 ft.; Reach 5 ft.
+Special Attacks pounce, shriek
+STATISTICS
+Str 19, Dex 14, Con 15, Int 6, Wis 15, Cha 10
+Base Atk +8; CMB +13; CMD 25 (29 vs. trip)
+Feats Cleave, Flyby Attack, Power Attack, Skill Focus (Perception)
+Skills Fly +3, Perception +16; Racial Modifiers +4 Perception
+Languages Sphinx
+SPECIAL ABILITIES
+Shriek (Su) The shrill shriek of a hieracosphinx deafens non-sphinxes within a 60-foot-radius spread for 2d4 rounds (DC 16 Fort negates). Once a creature successfully saves against this effect, it is immune to the hieracosphinx’s shriek for 24 hours. Using this ability is a standard action. The save DC is Constitution-based.

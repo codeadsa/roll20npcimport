@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/pukwudgie
+Pukwudgie CR 7
+XP 3,200
+NE Small monstrous humanoid (shapechanger)
+Init +4; Senses darkvision 60 ft., deathwatch, detect good, detect magic; Perception +13
+DEFENSE
+AC 20, touch 16, flat-footed 15 (+4 Dex, +1 dodge, +4 natural, +1 size)
+hp 85 (9d10+36)
+Fort +7, Ref +10, Will +10
+Immune poison
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +14 (1d4+2 plus poison)
+Ranged 2 quills +14 (1d4+2 plus poison)
+Special Attacks sneak attack +3d6, spawn undead
+Spell-Like Abilities (CL 10th; concentration +14)
+Constant—deathwatch, detect good, detect magic
+At will—command undead (DC 16), produce flame
+3/day—animate dead, death knell (DC 16), invisibility, ray of enfeeblement (DC 15), scare (DC 16)
+1/day—nondetection (DC 17)
+STATISTICS
+Str 14, Dex 18, Con 19, Int 15, Wis 14, Cha 19
+Base Atk +9; CMB +10; CMD 25
+Feats Dodge, Iron Will, Mobility, Weapon Finesse, Weapon Focus (quill)
+Skills Bluff +10, Heal +10, Knowledge (arcana) +11, Knowledge (religion) +11, Perception +13, Spellcraft +11, Stealth +16
+Languages Common, Draconic, Infernal
+SQ change shape (porcupine, beast shape II)
+SPECIAL ABILITIES
+Spawn Undead (Su) Any creature slain by a pukwudgie’s poisonous quills rises in 24 hours as a zombie. Undead created by this ability are not immediately under the control of a pukwudgie, but they receive a -4 penalty on saves against a pukwudgie’s control undead spell-like ability.
+Poison (Su) Quill—injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
+Quills (Ex) A pukwudgie can fire two of its quills as a ranged attack as a standard action. These quills have a range increment of 40 feet. Any creature attacking a pukwudgie with light or one-handed melee weapons, natural weapons, or an unarmed strike takes 1d3 points of piercing damage. A creature that grapples a pukwudgie takes 2d4 points of piercing damage. Anyone who takes damage from these quills is also exposed to the pukwudgie’s poison.

@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/roc
+Roc CR 9
+XP 6,400
+N Gargantuan animal
+Init +6; Senses low-light vision; Perception +15
+DEFENSE
+AC 22, touch 8, flat-footed 20 (+2 Dex, +14 natural, –4 size)
+hp 120 (16d8+48)
+Fort +13, Ref +14, Will +8
+OFFENSE
+Speed 20 ft., fly 80 ft. (average)
+Melee 2 talons +18 (2d6+9/19–20 plus grab), bite +17 (2d8+9)
+Space 20 ft.; Reach 15 ft.
+STATISTICS
+Str 28, Dex 15, Con 17, Int 2, Wis 12, Cha 11
+Base Atk +12; CMB +25 (+29 grapple); CMD 37
+Feats Flyby Attack, Improved Critical (talons), Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Perception), Weapon Focus (talons)
+Skills Fly +7, Perception +15

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-kalavakus
+Horned Demon (Kalavakus) CR 10
+XP 9,600
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +1; Senses darkvision 60 ft.; Perception +24
+DEFENSE
+AC 25, touch 11, flat-footed 24 (+1 Dex, +14 natural)
+hp 125 (10d10+70)
+Fort +10, Ref +8, Will +10
+DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 21
+OFFENSE
+Speed 30 ft.
+Melee bite +16 (1d6+6), 2 claws +16 (1d8+6), gore +16 (2d6+6)
+Special Attacks enslave soul, horns, powerful charge (gore, 4d6+12)
+Spell-Like Abilities (CL 12th; concentration +15)
+At will—command (DC 14), greater teleport (self plus 50 lbs. of objects only), telekinesis (DC 18)
+3/day—air walk, dominate person (DC 18), haste
+1/day—greater command (DC 18), summon (level 4, 1 kalavakus 40%), symbol of persuasion (DC 19)
+STATISTICS
+Str 22, Dex 13, Con 24, Int 15, Wis 17, Cha 16
+Base Atk +10; CMB +16 (+22 disarm); CMD 27
+Feats Combat Expertise, Improved Bull Rush, Improved Disarm, Improved Trip, Power Attack
+Skills Acrobatics +14, Climb +19, Intimidate +16, Knowledge (planes) +15, Perception +24, Sense Motive +16, Stealth +14, Use Magic Device +16; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common, Draconic; telepathy 100 ft.
+SPECIAL ABILITIES
+Enslave Soul (Su) A kalavakus can attempt to enslave the soul of any mortal creature within 60 feet as a swift action. The kalavakus must have line of sight to the target. The target can resist this special attack with a DC 18 Will save, but is staggered for 1 round even if the save is successful. If the save is successful, the creature is immune to this ability for 24 hours. If the save is a failure, the target’s soul is enslaved—this creature takes a –6 penalty on all attack rolls and saving throws against that kalavakus. If a creature with an enslaved soul is slain by that kalavakus, the soul immediately infuses the demon’s body, affecting it with a heal spell (CL 12th). A kalavakus can have only one mortal soul enslaved at a time—if it enslaves a second soul, the first is released. This is a mind-affecting death effect. The save DC is Charisma-based.
+Horns (Ex) The kalavakus’s numerous horns can easily catch weapons and yank them away from opponents. The demon gains a +4 racial bonus on all disarm attempts as a result.

@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/animated-object/animated-object-tiny
+Tiny Animated Object CR 1/2
+XP 200
+N Tiny construct
+Init +2 Senses darkvision 60, low-light vision; Perception -5
+DEFENSE
+AC 18, touch 14, flat-footed 16 (+2 Dex, +4 natural, +2 size)
+hp 5 (1d10)
+Fort +0, Ref +2, Will -5
+Defensive Abilities hardness 5 Immune Construct Traits
+OFFENSE
+Speed 15 ft.
+Melee slam +1 (1d2-2)
+STATISTICS
+Str 6, Dex 14, Con -, Int -, Wis 1, Cha 1
+Base Atk +1 CMB +1 CMD 9
+SQ 1 construction point
+SPECIAL ABILITIES
+Construction Points Tiny animated objects have 1 construction point.

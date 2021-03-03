@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-ash
+Ash Giant CR 11
+XP 12,800
+CN Large humanoid (giant)
+Init +2; Senses low-light vision; Perception +8
+DEFENSE
+AC 25, touch 11, flat-footed 23 (+4 armor, +2 Dex, +10 natural, -1 size)
+hp 147 (14d8+84)
+Fort +15, Ref +6, Will +5
+Defensive Abilities rock catching; Immune disease, poison
+OFFENSE
+Speed 40 ft. (30 ft. in armor)
+Melee Huge club +20/+15 (2d6+11 plus disease), slam +15 (1d8+5 plus disease) or 2 slams +20 (1d8+11 plus disease)
+Ranged rock +13 (1d8+16 plus disease)
+Space 10 ft.; Reach 10 ft.
+Special Attacks disease, rock throwing (120 ft.)
+STATISTICS
+Str 33, Dex 14, Con 23, Int 9, Wis 12, Cha 10
+Base Atk +10; CMB +22; CMD 34
+Feats Catch Off-Guard, Cleave, Great Cleave, Point-Blank Shot, Power Attack, Precise Shot, Self-Sufficient
+Skills Climb +14, Heal +7, Intimidate +6, Perception +8, Survival +9
+Languages Common, Giant
+SQ oversized weapon, vermin empathy +14
+SPECIAL ABILITIES
+Disease (Su) While ash giants are immune to disease, they carry a contagious form of leprosy. Any creature struck by an ash giant’s attacks is exposed to this virulent sickness.
+Ash Leprosy: Injury; save Fort 23; onset 1 minute; frequency 1 day; effect 1d2 Con damage, 1d2 Cha drain; cure 2 consecutive saves. The save DC is Constitution-based.
+Oversized Weapon (Ex) An ash giant can wield Huge weapons without penalty.
+Vermin Empathy (Ex) This ability functions as a druid’s wild empathy ability, save that it works only on vermin. An ash giant gains a racial bonus on this check equal to its Hit Dice (+14 for most ash giants). Vermin are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing the ash giant to train vermin and use them as guardians (although it does not grant them skills or feats).

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/drelb-haunting-custodian-tohc
+Drelb CR 5
+XP 1,600
+N(E) Medium outsider (extraplanar, incorporeal, psionic)
+Init +7; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 15, touch 15, flat-footed 12 (+2 deflection, +3 Dex)
+hp 50 (6d10+12)
+Fort +6; Ref +8; Will +7
+Defensive Abilities incorporeal
+OFFENSE
+Speed 20 ft., fly 20 ft. (good)
+Melee incorporeal touch +9 (1d4 plus nether chill)
+Special Attacks illusory retreat
+STATISTICS
+Str —, Dex 16, Con 14, Int 12, Wis 14, Cha 15
+Base Atk +6; CMB +9; CMD 21 (can’t be tripped)
+Feats Ability Focus (nether chill), Great Fortitude, Improved Initiative
+Skills Bluff +11, Intimidate +11, Knowledge (the planes) +10, Perception +11, Sense Motive +11, Stealth +12, Survival +11
+Languages Common, Daemonic
+SQ psionic adaptation
+SPECIAL ABILITIES
+Illusory Retreat (Sp) A drelb can rapidly diminish its form while it advances forward. To the onlooker, it appears as if the drelb is retreating. Creatures succeeding on a DC 20 Will save see through this illusion; otherwise, the drelb advances into melee range and its opponent is considered flat-footed for the drelb’s next attack following the use of this ability. A creature that has seen a drelb use this ability before gains a +2 circumstance bonus on its Will save. The save DC is Charisma-based and includes a +5 racial bonus.
+Nether Chill (Su) A living creature touched by a drelb must make a DC 17 Fortitude save or immediately drops anything it is holding and fall prone, shivering for 1 round. It is not helpless but is unable to make any actions during this round. The save DC is Constitution-based and includes a +2 bonus for the drelb’s Ability Focus feat.
+Psionic Adaptation (Su) A drelb can imitate any psionic power or psi-like ability used within 30 feet of it as a standard action. A drelb has a manifester level of 5th. The save DC (if any) to resist an imitated psionic power or psi-like ability is 12 + the level of the power. The save DC is Charisma-based.
+Further, any psionic power or psi-like ability that directly targets a drelb is reflected back on the attacker with full effect (manifester level and save DC equal to that of the original manifester).

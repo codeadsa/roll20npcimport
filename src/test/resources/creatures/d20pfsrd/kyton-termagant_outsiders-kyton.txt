@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kyton/kyton-termagant
+Termagant Kyton CR 17
+XP 102,400
+LE Large outsider (evil, extraplanar, kyton, lawful)
+Init +8; Senses darkvision 60 ft.; Perception +27
+DEFENSE
+AC 31, touch 14, flat-footed 26 (+4 Dex, +1 dodge, +17 natural, –1 size)
+hp 263 (17d10+170); regeneration 10 (good weapons and spells, silver weapons)
+Fort +20, Ref +11, Will +19
+DR 10/good and silver; Immune cold; SR 28
+OFFENSE
+Speed 20 ft., fly 40 ft. (perfect)
+Melee 2 slams +25 (1d8+9/19–20 plus 2d6 bleed), 7 tentacles +20 (1d6+4 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks flux infusion, rupture, shared rupture, unnerving gaze (30 ft., DC 23)
+STATISTICS
+Str 28, Dex 19, Con 30, Int 16, Wis 25, Cha 21
+Base Atk +17; CMB +27 (+31 grapple); CMD 42 (can’t be tripped)
+Feats Combat Reflexes, Critical Focus, Dodge, Improved Critical (slams), Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Spring Attack
+Skills Bluff +25, Fly +30, Heal +27, Intimidate +25, Knowledge (planes, religion) +23, Perception +27, Sense Motive +27, Stealth +20
+Languages Common, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Poison (Su) Anytime a creature is grappled by a termagant’s tentacles or is affected by its rupture or shared rupture ability, it is exposed to the termagant’s flux infusion. Flux infusion functions as a poison, but with unpredictable effects. Those who fail their saving throws take 1d4 points of ability drain. The ability score drained is randomly determined every time the flux infusion affects the creature (roll 1d6: 1–2 Constitution, 3–4 Dexterity, 5–6 Strength). The save DC is Constitution-based.
+Flux Infusion: Injury; save Fort DC 28; frequency 1/round for 10 rounds; effect 1d4 Con, Dex, or Str; cure 2 consecutive saves.
+Rupture (Su) When killed, a termagant explodes in a blast of its flux infusion poison. All living creatures within 15 feet must succeed at a DC 28 Fortitude saving throw or be poisoned. The save DC is Constitution-based.
+Shared Rupture (Su) Any creature killed while poisoned by a termagant explodes. All living creatures within 10 feet of the creature must succeed at a DC 23 Fortitude save or be poisoned. The save DC is based on the termagant’s Constitution with a –5 penalty.
+Unnerving Gaze (Su) A creature that succumbs to a termagant’s unnerving gaze becomes nauseated for 1d4 rounds as its mind attempts to comprehend the horrors it has witnessed.

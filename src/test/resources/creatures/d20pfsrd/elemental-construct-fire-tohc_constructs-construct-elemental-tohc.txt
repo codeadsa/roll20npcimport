@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/construct-elemental-tohc/elemental-construct-fire-tohc
+Fire Elemental Construct CR 13
+XP 25,600
+N Huge construct (elemental, fire, extraplanar)
+Init +9; Senses darkvision 60 ft., low-light vision; Perception +0; Aura fiery aura (10 ft., DC 25, 2d8 fire)
+DEFENSE
+AC 28, touch 17, flat-footed 19 (+9 Dex, +11 natural, –2 size)
+hp 205 (30d10+40)
+Fort +10; Ref +19; Will +10
+DR 10/adamantine; Immune construct traits, elemental traits, fire, magic
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft.
+Melee 2 slams +36 (2d6+8 plus burn)
+Space 15 ft.; Reach 15 ft.
+Special Attacks burn (1d8, DC 25)
+STATISTICS
+Str 27, Dex 29, Con —, Int —, Wis 11, Cha 1
+Base Atk +30; CMB +40; CMD 59
+SPECIAL ABILITIES
+Fiery Aura (Ex) Anyone within 10 feet of a fire elemental construct must succeed on a DC 25 Fortitude save or take 2d8 points of fire damage each round. The save DC is Constitution-based.
+Immunity to Magic (Ex) A fire elemental construct is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A cold effect slows a fire elemental construct (as the slow spell) for 2d6 rounds with no saving throw. This is in addition to any damage it takes because of its vulnerability to cold.
+A quench spell negates the fire elemental construct’s damage reduction and immunity to magic for 1 round.
+Any water-based spell of 5th level or higher deals 1d6 points of damage per caster level to the fire elemental construct. The construct can attempt a Fortitude save (DC 10 + spell level + caster’s relevant ability score modifier) to half the damage.
+Any fire-based spell or effect heals 1 point of damage on the fire elemental construct for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the construct to exceed its full normal hit points, it gains any excess as temporary hit points.

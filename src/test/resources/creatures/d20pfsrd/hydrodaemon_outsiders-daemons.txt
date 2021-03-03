@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/hydrodaemon
+Hydrodaemon CR 8
+XP 4,800
+NE Large outsider (aquatic, evil, extraplanar)
+Init +2; Senses darkvision 60 ft., detect magic; Perception +15
+DEFENSE
+AC 20, touch 11, flat-footed 18 (+2 Dex, +9 natural, –1 size)
+hp 95 (10d10+40)
+Fort +11, Ref +9, Will +3
+DR 10/cold iron or silver; Immune acid, death effects, disease, poison, waters of the River Styx; Resist cold 10, electricity 10, fire 10; SR 19
+OFFENSE
+Speed 30 ft., fly 40 ft. (average; see glide, below), swim 60 ft.
+Melee bite +13 (1d8+4 plus grab), 2 claws +13 (1d6+4)
+Ranged sleep spittle +11 (sleep)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rake (2 claws +13, 1d6+4)
+Spell-Like Abilities (CL 9th; concentration +11)
+Constant—detect magic, water walk
+At will—acid arrow, deeper darkness
+3/day—control water, greater teleport (self plus 50 lbs. of objects only), summon monster V (Large water elemental only)
+1/day—desecrate, summon (level 3, 1 hydrodaemon 50%)
+STATISTICS
+Str 18, Dex 15, Con 18, Int 9, Wis 11, Cha 14
+Base Atk +10; CMB +15 (+9* grapple); CMD 27
+Feats Cleave, Point-Blank Shot, Power Attack, Precise Shot, Skill Focus (Perception)
+Skills Fly +0, Intimidate +14, Knowledge (planes) +10, Perception +15, Sense Motive +12, Stealth +10, Swim +21
+Languages Abyssal, Infernal; telepathy 100 ft.
+SQ amphibious, glide
+SPECIAL ABILITIES
+Glide (Ex) A hydrodaemon can launch itself into the air and glide along for 1 minute, gaining a fly speed of 40 feet with average maneuverability. While gliding, the hydrodaemon gains the pounce ability.
+Sleep Spittle (Su) A hydrodaemon can spit at a single target within 20 feet, making a ranged touch attack as a standard action. A target hit by this spittle must succeed on a DC 19 Will save or fall asleep for 6 rounds. The save DC is Constitution-based.
+About this Daemon Type… Giant humanoid-amphibians with oversized claws and dead, glassy eyes, hydrodaemons represent death by drowning. Aquatic in nature, they dwell in Abaddon’s poisonous swamps and acidic oceans, and even in the foul waters of the River Styx. Hydrodaemons number among the few creatures capable of surviving prolonged exposure to the Styx, and they exploit this to lair and set ambushes where few other creatures dare. In their native environment they alternately compete with or serve under piscodaemons, but greatly revere Charon’s thanadaemons, eagerly obeying their requests. Outside of Abaddon, hydrodaemons frequently serve mortal spellcasters to keep watch over aquatic domains, using the same tactics as on their native plane. Powerful creatures in their own right, they prefer to target enemies with their sleep-inducing spittle, then drown those who succumb to the poisoned slumber.
+Personification of Death: Drowning.
+Preferred Sacrifice: Treasure totaling at least 300 gp, or no fewer than two living victims purposefully bound and hurled into a body of water.

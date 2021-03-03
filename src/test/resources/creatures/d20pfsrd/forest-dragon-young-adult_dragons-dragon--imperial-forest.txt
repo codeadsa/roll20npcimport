@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-forest/forest-dragon-young-adult
+Young adult Forest Dragon CR 13
+XP 25,600
+CE Huge dragon (earth)
+Init +4; Senses dragon senses, tremorsense 60 ft.; Perception +22; Aura frightful presence (150 ft., DC 19)
+DEFENSE
+AC 27, touch 8, flat-footed 27 (+19 natural, -2 size)
+hp 187 (15d12+90)
+Fort +14, Ref +9, Will +13
+DR 2/adamantine; Immune paralysis, poison, sleep; SR 24
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 30 ft., fly 200 ft. (poor)
+Melee bite +22 (2d8+12), 2 claws +21 (2d6+8), gore +21 (2d6+12), tail slap +19 (2d6+12)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite and gore)
+Special Attacks breath weapon (60-ft. cone, 10d6 piercing damage, DC 22) crush (DC 22, 2d8+12)
+Spell-Like Abilities (CL 15th; concentration +17)
+At will—entangle (DC 13), pass without trace
+Spells Known (CL 5th; concentration +7)
+2nd (5/day)—fog cloud, hideous laughter
+1st (7/day)—obscuring mist, magic missile, ray of enfeeblement (DC 13), shield
+0 (at-will)—detect magic, ghost sound, mage hand, read magic, resistance, touch of fatigue
+STATISTICS
+Str 27, Dex 10, Con 20, Int 14, Wis 15, Cha 14
+Base Atk +15; CMB +25; CMD 35 (39 vs. trip)
+Feats Improved Initiative, Improved Natural Armor, Iron Will, Multiattack, Power Attack, Skill Focus (Stealth), Toughness, Weapon Focus (bite)
+Skills Acrobatics +15 (+19 when jumping), Bluff +20, Climb +34, Fly -8, Intimidate +20, Knowledge (arcana) +13, Knowledge (nature) +13, Perception +20, Spellcraft +11, Stealth +16, Survival +13
+Languages Common, Draconic, Elven, Sylvan
+SQ sound imitation, woodland stride
+SPECIAL ABILITIES
+Sound Imitation (Ex) A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener’s Sense Motive check.
+Woodland Stride (Ex) As the druid ability of the same name.
+Built by:
+Brett, d20pfsrd Beastmaster I “Chinese Earth Dragon”
+(c) 2012 Shoshanna Bauer http://shoshannabauer.com
+All Rights Reserved.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/ijiraq
+Ijiraq CR 9
+XP 6,400
+CN Medium fey (shapechanger)
+Init +2; Senses low-light vision; Perception +21
+DEFENSE
+AC 25, touch 13, flat-footed 22 (+2 Dex, +1 dodge, +12 natural)
+hp 105 (14d6+56)
+Fort +8, Ref +13, Will +13
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +10 (2d4+3), bite +10 (2d6+3), gore +10 (2d6+3)
+Ranged javelin +9 (1d6+3)
+Special Attacks disorienting gaze
+Spell-Like Abilities (CL 14th; concentration +20)
+At will—dimension door, fly, hallucinatory terrain (DC 20)
+3/day—baleful polymorph (DC 21), control winds, cure critical wounds (DC 20), ice storm (DC 20), sleet storm (DC 19), summon nature’s ally IV
+STATISTICS
+Str 16, Dex 15, Con 18, Int 15, Wis 19, Cha 22
+Base Atk +7; CMB +10; CMD 23
+Feats Acrobatic Steps, Blind-Fight, Combat Reflexes, Dodge, Lightning Reflexes, Mobility, Nimble Moves
+Skills Escape Artist +19, Handle Animal +20, Intimidate +20, Knowledge (arcana) +16, Knowledge (nature) +19, Perception +21, Stealth +19, Survival +18
+SQ change shape (elk, beast shape II), hide in plain sight
+SPECIAL ABILITIES
+Disorienting Gaze (Su) An ijiraq can level an icy stare at a creature within 30 feet. That creature takes a –20 penalty on Perception checks and Survival checks for 24 hours (Fortitude DC 23 negates). The save DC is Charisma-based. An ijiraq can use this ability while in the shape of an elk.
+Hide in Plain Sight (Su) An ijiraq can use the Stealth skill even while being observed. As long as it’s standing in terrain covered in ice or snow, an ijiraq can hide itself from view in the open without actually hiding behind anything. An ijiraq can’t use this ability while flying, and the ability has no effect when the ijiraq isn’t in icy terrain.

@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/tiefling
+Tiefling (CR 1/2)
+XP 200
+Tiefling rogue 1
+NE Medium outsider (native)
+Init +3; Senses darkvision 60 ft.; Perception +5
+
+DEFENSE
+AC 16, touch 13, flat-footed 13 (+3 armor, +3 Dex)
+hp 10 (1d8+2)
+Fort +2, Ref +5, Will +1
+Resist cold 5, electricity 5, fire 5
+
+OFFENSE
+Speed 30 ft.
+Melee short sword +3 (1d6+1/19–20)
+Ranged light crossbow +3 (1d8/19–20)
+Special Attacks sneak attack +1d6
+Spell-Like Abilities (CL 1st)
+
+1/day— darkness
+STATISTICS Str 13, Dex 17, Con 14, Int 12, Wis 12, Cha 6
+Base Atk +0; CMB +1; CMD 14
+Feats Weapon Finesse
+Skills Acrobatics +6, Bluff +4, Disable Device +6, Escape Artist +6, Intimidate +2, Perception +5, Sense Motive +5, Sleight of Hand +6, Stealth +8; Racial Modifiers +2 Bluff, +2 Stealth
+Languages Abyssal, Common, Infernal
+SQ fiendish sorcery, trapfinding
+SPECIAL ABILITIES
+Fiendish Sorcery (Ex) Tiefling sorcerers with the Abyssal or Infernal bloodline treat their Charisma score as 2 points higher for all sorcerer class abilities.
+
+Tiefling Characters
+Tieflings are defined by their class levels—they do not possess racial HD. They have the following racial traits.
++2 Dexterity, +2 Intelligence, –2 Charisma: Tieflings are quick in body and mind, but are inherently strange. Darkvision: Tieflings see in the dark up to 60 feet. Skilled: Tieflings have a +2 racial bonus on Bluff and Stealth checks. Spell-Like Ability: Tieflings can use darkness once per day as a spell-like ability. The caster level for this ability equals the tiefling’s class level. Fiendish Resistance: Tieflings have cold resistance 5, electricity resistance 5, and fire resistance 5. Fiendish Sorcery: Tiefling sorcerers with the Abyssal or Infernal bloodline treat their Charisma score as 2 points higher for all sorcerer class abilities. Languages: Tieflings begin play speaking Common and either Abyssal or Infernal. Tieflings with high Intelligence scores can choose any of the following: Abyssal, Draconic, Dwarven, Elven, Gnome, Goblin, Halfling, Infernal, and Orc.
+
+
+

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow/shadow-wolf-tohc
+Shadow Wolf CR 3
+XP 800
+CE Medium undead (incorporeal)
+Init +6; Senses darkvision 60 ft., scent; Perception +9
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 deflection, +2 Dex)
+hp 26 (4d8+8)
+Fort +3, Ref +3, Will +5
+Defensive Abilities incorporeal, shadow blend; Immune undead traits
+OFFENSE
+Speed 50 ft.
+Melee incorporeal bite +5 (1d4 Str)
+Special Attacks trip (bite)
+TACTICS
+Shadow wolves prefer to attack from ambush, using the shadows and darkness to their advantage. When prey wanders nearby, a shadow wolf leaps to the attack. A shadow wolf pack leads its prey into an ambush and then strikes when opponents are completely unaware.
+STATISTICS
+Str –, Dex 15, Con –, Int 4, Wis 12, Cha 15
+Base Atk +3; CMB +5; CMD 17 (21 vs. trip)
+Feats Alertness, Improved Initiative
+Skills Perception +9, Sense Motive +3, Survival +2 (+6 tracking by scent); Racial Modifiers +4 Survival when tracking by scent
+SPECIAL ABILITIES
+Trip (Ex) A shadow wolf can assume a corporeal form as a free action and bite (as a standard action) a foe in an attempt to trip the opponent. A shadow wolf that hits with its bite attack can attempt to trip the opponent as a free action without provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the shadow wolf. Shadow wolves use their Dexterity modifier on trip attacks.
+The shadow wolf remains corporeal (i.e., it loses its incorporeal traits) for the entire round in which it attempts to trip an opponent. It can assume its incorporeal form on its next turn as a free action.
+Shadow Blend (Ex) In any condition of illumination other than full daylight, a shadow wolf can disappear into the shadows, giving it total concealment. Artificial illumination, even a light or continual flame spell, does not negate this ability; a daylight spell, however, will.

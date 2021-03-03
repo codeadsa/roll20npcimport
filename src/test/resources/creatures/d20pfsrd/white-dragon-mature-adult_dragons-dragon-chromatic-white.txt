@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-white/white-dragon-mature-adult
+Mature Adult White Dragon CR 11
+XP 12,800
+CE Large dragon (cold)
+Init +5; Senses dragon senses, snow vision; Perception +24; Aura cold (5 ft., 1d6 cold damage), frightful presence (210 ft., DC 18)
+DEFENSE
+AC 30, touch 10, flat-footed 29 (+1 Dex, +20 natural, -1 size)
+hp 172 (15d12+75)
+Fort +14, Ref +12, Will +11
+DR 10/magic; Immune cold, paralysis, sleep; SR 22
+Weaknesses Vulnerability to fire
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +23 (2d6+12/19-20), 2 claws +22 (1d8+8), 2 wings +17 (1d6+4), tail slap +17 (1d8+12)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, DC 22, 14d4 cold)
+Spell-Like Abilities (CL 15th; concentration +16)
+At will— fog cloud, gust of wind Spells Known (CL 3rd; concentration +4)
+1st (6/day)— magic aura, shield, true strike
+0 (at will)— dancing lights, detect magic, ghost sound, mending, ray of frost STATISTICS
+Str 27, Dex 12, Con 21, Int 12, Wis 15, Cha 12
+Base Atk +15; CMB +24; CMD 35 (39 vs. trip)
+Feats Alertness, Flyby Attack, Improved Critical (bite), Improved Initiative, Lightning Reflexes, Power Attack, Vital Strike, Weapon Focus (bite)
+Skills Fly +13, Intimidate +19, Knowledge (arcana) +19, Perception +24, Spellcraft +19, Stealth +15, Swim +34; Racial Modifiers +8 Swim
+Languages Common, Draconic
+SQ icewalking, ice shape
+SPECIAL ABILITIES
+Ice Shape (Su) A young white dragon can shape ice and snow at will. This ability functions as stone shape, but only targeting ice and snow, not stone. A white dragon’s caster level for this effect is equal to its Hit Dice.
+Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the dragon climbs must be icy. The dragon can move across icy surfaces without penalty and does not need to make Acrobatics checks to run or charge on ice.
+Snow Vision (Ex) A very young white dragon learns to see perfectly well in snowy conditions. A white dragon does not suffer any penalties to Perception checks while in snow.

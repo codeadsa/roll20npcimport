@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/wraith/apostasy-wraith
+Apostasy Wraith CR 6
+XP 2,400
+CE Medium undead (incorporeal)
+Init +8; Senses darkvision 60 ft., sense apostate; Perception +11
+DEFENSE
+AC 16, touch 16, flat-footed 12 (+2 deflection, +4 Dex)
+hp 52 (8d8+16)
+Fort +4, Ref +6, Will +8
+Defensive Abilities channel resistance +4, incorporeal; Immune undead traits
+Weaknesses false priest aversion
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee incorporeal touch +10 (1d8 plus energy drain and rend faith)
+Special Attacks energy drain (1 level, DC 16)
+STATISTICS
+Str –, Dex 18, Con –, Int 10, Wis 11, Cha 14
+Base Atk +6; CMB +10; CMD 22
+Feats Blind-Fight, Combat Reflexes, Improved Initiative, Iron Will
+Skills Fly +23, Knowledge (religion) +11, Perception +11, Stealth +15
+Languages Common, +1 additional
+SPECIAL ABILITIES
+Razmiri Aversion (Ex) If confronted by a false priest or anyone successfully disguised in that garb, the apostasy wraith must make a Will save. The DC of this save is equal to 10 + 1/2 the Hit Dice + the Charisma modifier of the highest-level false priest present. The apostasy wraith needs to make this saving throw only once per encounter, regardless of the number of false priests present. If the saving throw fails, the apostasy wraith is forced to flee as if affected by the Turn Undead feat. If the save is successful, it overcomes its aversion and gains a +2 bonus on attack rolls and deals double damage against false priests (or those disguised as such) for the duration of the encounter.
+Rend Faith (Su) On a successful incorporeal touch attack against a foe with divine spellcasting abilities, the ability to channel energy, or other divinely granted special abilities, the apostasy wraith’s inherent spite and contempt toward all things religious disrupts the target’s connection with his deity. The victim must make a successful DC 16 Will save or be unable to use any such ability for 1 round. The save DC is Charisma-based.
+Sense Apostate (Su) An apostasy wraith can sense the presence and direction of false priests as if using the locate creature spell (CL 20th). This ability cannot be dispelled.

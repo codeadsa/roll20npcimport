@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/nuckalavee-TOHC
+Nuckalavee CR 9
+XP 6,400
+CE Large aberration
+Init +6; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 22, touch 11, flat-footed 20 (+2 Dex, +11 natural, -1 size)
+hp 104 (11d8+55)
+Fort +8, Ref +5, Will +9
+DR 10/cold-iron; SR 20
+OFFENSE
+Speed 50 ft.
+Melee 2 hooves +13 (1d6+5, 19-20/x3), bite +11 (1d6+2, 19- 20/x3), Huge greataxe +10 (3d6+2, crit x3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks breath weapon (20-ft cone of gas, 6d6 acid damage, Fort DC 20 for half; usable every 1d4 rounds), horrific appearance, trample (1d6+7; DC 20)
+TACTICS
+Nuckalavee relish the adrenaline of combat. They love the taste, sight, and smell of blood and seek to bleed their opponents as often and as much as they can. The “rider” always employs a bladed weapon (most often a longsword or greataxe) to deal damage, while the equine part of the nuckalavee slashes with its sharpened hoofs and bites with its razorsharp teeth.
+The nuckalavee opens combat with its poisonous breath, seeking to liquefy the organs of its foes before it moves to strike with hooves, bite, and weapon. They rarely attack from ambush, relishing in the fear their appearance strikes in the heart of opponents.
+STATISTICS
+Str 21, Dex 15, Con 20, Int 8, Wis 15, Cha 14
+Base Atk +8; CMB +14; CMD 26 (30 vs trip)
+Feats Improved Initiative, Multiattack, Power Attack, Skill Focus (Perception), Weapon Focus (bite), Weapon Focus (hoof)
+Skills Intimidate +14, Perception +13, Stealth +13, Survival +13
+Languages Common, Sylvan
+SQ augmented critical
+SPECIAL ABILITIES
+Augmented Critical (Ex) A nuckalavee threatens a critical on a natural 19-20 with a hoof or bite. A successful critical hit deals triple damage.
+Horrific Appearance (Su) A creature viewing the grotesque form of a nuckalavee must make a successful DC 17 Fortitude save or take 2d6 points of Strength damage. This damage cannot reduce a victim’s Strength score below 0, but a creature reduced to 0 is helpless. Whether or not the save is successful, that creature cannot be affected by the horrific appearance of that nuckalavee for one day. The save DC is Charisma-based. Nuckalavee are not affected by the horrific appearance of other nuckalavees.

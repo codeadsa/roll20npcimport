@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/nightshade/nightwalker
+Nightwalker CR 16
+XP 76,800
+CE Huge undead (extraplanar, nightshade)
+Init +2; Senses darksense, darkvision 60 ft., low-light vision, detect magic; Perception +29
+Aura desecrating aura (30 ft.)
+DEFENSE
+AC 31, touch 10, flat-footed 29 (+2 Dex, +21 natural, –2 size)
+hp 241 (21d8+147)
+Fort +14, Ref +11, Will +19
+DR 15/good and silver; Immune cold, undead traits; SR 27
+Weaknesses light aversion
+OFFENSE
+Speed 40 ft.
+Melee 2 claws* +28 (3d6+15/19–20 plus 4d6 cold)
+Space 15 ft.; Reach 15 ft.
+Special Attacks channel energy (8d6, DC 29, 8/day), fear gaze, swift sundering
+Spell-Like Abilities (CL 16th; concentration +21)
+Constant—air walk, detect magic, magic fang
+At will—contagion (DC 19), deeper darkness, greater dispel magic, unholy blight (DC 19)
+3/day—confusion (DC 19), haste, hold monster (DC 20), invisibility, quickened unholy blight (DC 19)
+1/day—cone of cold (DC 20), finger of death (DC 22), plane shift (DC 22), summon (level 7, 4 greater shadows)
+STATISTICS
+Str 35, Dex 14, Con —, Int 20, Wis 21, Cha 21
+Base Atk +15; CMB* +29; CMD 41
+Feats Combat Expertise, Command Undead, Greater Sunder, Greater Vital Strike, Improved Critical (claws), Improved Disarm, Improved Sunder, Improved Vital Strike, Power Attack, Quicken Spell-Like Ability (unholy blight), Vital Strike
+Skills Intimidate +29, Knowledge (arcana) +29, Knowledge (planes) +26, Knowledge (religion) +29, Perception +29, Sense Motive +29, Spellcraft +29, Stealth +18 (+26 in darkness), Swim +33; Racial Modifiers +8 Stealth in dim light and darkness
+Languages Abyssal, Common, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Fear Gaze (Su) Cower in fear for 1 round, 30 feet, Will DC 25 negates. This is a mind-affecting fear effect. The save DC is Charisma-based.
+Swift Sundering (Su) A nightwalker can make a sunder attempt as a swift action with one of its claws.

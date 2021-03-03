@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/amoeba-giant
+Giant Amoeba CR 1
+XP 400
+N Small ooze (aquatic)
+Init –5; Senses blindsight 30 ft.; Perception –5
+DEFENSE
+AC 6, touch 6, flat-footed 6 (–5 Dex, +1 size)
+hp 15 (2d8+6)
+Fort +3, Ref –5, Will –5
+Defensive Abilities ooze traits
+OFFENSE
+Speed 10 ft., climb 10 ft., swim 20 ft.
+Melee slam +3 (1d3+1 plus 1d3 acid and grab)
+Special Attacks constrict (1d3+1 plus 1d3 acid)
+STATISTICS
+Str 12, Dex 1, Con 16, Int —, Wis 1, Cha 1
+Base Atk +1; CMB +1 (+5 grapple); CMD 6 (can’t be tripped)
+Skills Climb +9, Swim +9; Racial Modifiers +8 Climb, +8 Swim
+SQ amphibious

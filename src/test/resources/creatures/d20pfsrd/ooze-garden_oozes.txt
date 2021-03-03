@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-garden
+Garden Ooze CR 2
+XP 600
+N Small ooze
+Init +3; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 14, touch 14, flat-footed 11 (+3 Dex, +1 size)
+hp 19 (3d8+6)
+Fort +3, Ref +4, Will -4
+Defensive Abilities ooze traits; Immune acid
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee slam +3 (1d4 plus 1d8 acid)
+Special Attacks acid, stink
+STATISTICS
+Str 11, Dex 16, Con 15, Int —, Wis 1, Cha 2
+Base Atk +2; CMB +1; CMD 14 (can’t be tripped)
+Skills Climb +8
+SQ camouflage
+SPECIAL ABILITIES
+Acid (Ex) A garden ooze excretes digestive acid that can dissolve flesh. Creatures made of harder materials or plant matter are immune to the ooze’s acid.
+Camouflage (Ex) A garden ooze is difficult to spot when it is at rest among plant growth of any type. A DC 15 Perception check is required to notice the ooze is a separate entity and not a diseased portion of the plant it rests upon. The ooze automatically hits with a slam against any creature that fails to notice the ooze and enters its square.
+Stink (Ex) Once every 24 hours, a garden ooze can release foul-smelling gases in a 5-foot-radius spread centered on the ooze. The ooze usually does so after it is first injured. The stench of these vapors is overpowering during the first round it exists, causing living creatures within it to become sickened for 1d3 rounds (Fort DC 13 negates). This is a poison effect. The save DC is Constitution-based.

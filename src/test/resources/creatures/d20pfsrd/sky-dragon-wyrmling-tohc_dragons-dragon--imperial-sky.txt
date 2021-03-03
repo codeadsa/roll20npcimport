@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sky/sky-dragon-wyrmling-tohc
+Wyrmling Sky Dragon CR 5
+XP 1,600
+LG Small dragon (air)
+Init +2; Senses dragon senses; Perception +14
+DEFENSE
+AC 19, touch 13, flat-footed 17 (Dex +2, natural +6, size +1)
+hp 45 (6d12+6)
+Fort +6, Ref +7, Will +7
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (good)
+Melee bite +8 (1d6+1), 2 claws +8 (1d4+1)
+Special Attacks breath weapon (20 ft. cone, 2d8 electricity, DC 14)
+STATISTICS
+Str 13, Dex 14, Con 13, Int 14, Wis 15, Cha 14
+Base Atk +6; CMB +6; CMD 18 (22 vs. trip)
+Feats Flyby Attack, Hover, Skill Focus (Perception)
+Skills Diplomacy +11, Fly +17, Heal +11, Knowledge (religion) +11, Perception +14, Perform (sing) +8, Sense Motive +11, Spellcraft +11
+Languages Auran, Common, Draconic
+SQ borne aloft
+SPECIAL ABILITIES
+Borne Aloft (Su) Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.
+Built by:
+gordon the whale

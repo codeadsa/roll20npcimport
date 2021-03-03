@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/titan/titan-hekatonkheires
+Hekatonkheires Titan CR 24
+XP 1,228,800
+CE Colossal outsider (chaotic, evil, extraplanar)
+Init +6; Senses all-around vision, darkvision 120 ft., true seeing; Perception +35
+DEFENSE
+AC 42, touch 4, flat-footed 40 (+8 armor, +2 Dex, +30 natural, -8 size)
+hp 516 (24d10+384); regeneration 10 (epic)
+Fort +30, Ref +12, Will +18
+DR 20/epic and lawful; Immune aging, death effects, disease, mind-affecting effects; SR 35
+OFFENSE
+Speed 60 ft.; air walk
+Melee +3 weapon +38/+33/+28/+23 (6d6+22 plus hundred-handed whirlwind) or slam +37 (4d8+21 plus stun)
+Ranged rock +19/+14/+9/+4 (4d8+31/18-20)
+Space 30 ft.; Reach 30 ft.
+Special Attacks rock throwing (200 ft.), stunning slam
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant—air walk, spell turning, true seeing
+At will—bestow curse (DC 21), break enchantment, chain lightning (DC 23), greater dispel magic, find the path, sending
+3/day—greater scrying (DC 24), heal, mass suggestion (DC 23)
+1/day—dominate monster (DC 26), greater spell immunity, imprisonment (DC 26), storm of vengeance (DC 26)
+STATISTICS
+Str 48, Dex 15, Con 43, Int 22, Wis 19, Cha 24
+Base Atk +24; CMB +51; CMD 71
+Feats Alertness, Cleave, Combat Expertise, Critical Focus, Great Cleave, Greater Vital Strike, Improved Bull Rush, Improved Initiative, Improved Vital Strike, Lightning Reflexes, Power Attack, Vital Strike
+Skills Acrobatics +29 (+41 when jumping), Bluff +34, Climb +46, Craft (any) +33, Diplomacy +31, Escape Artist +29, Intimidate +34, Knowledge (history) +30, Knowledge (planes) +33, Perception +35, Sense Motive +35, Survival +28
+Languages Abyssal, Celestial, Common; telepathy 300 ft.
+SQ hands of war, planar leap
+SPECIAL ABILITIES
+Hands of War (Su) Any weapon a hekatonkheires wields gains a +3 enhancement bonus while the titan holds it. A hekatonkheires’s attacks are treated as epic and evil for the purposes of overcoming damage reduction. In addition, a hekatonkheires’s multitude of arms allows it to effectively block attacks, granting it a +8 armor bonus to its AC.
+Hundred-Handed Whirlwind (Ex) A hekatonkheires carries several dozen weapons of various types in its hundred hands, but when it attacks in melee, you don’t have to resolve each of these as a separate attack. Instead, when the titan attacks with its weapons, it rolls its attacks normally (either one attack for a standard action, or four as a full-round action) and hits every creature in its reach each time an attack roll exceeds that creature’s AC. If any such attack roll results in a possible critical hit, the critical is applied to one creature of the hekatonkheires’s choosing. The hekatonkheires can choose to deal bludgeoning, piercing, or slashing damage as a free action on each separate hit.
+Planar Leap (Su) A hekatonkheires traverses the planes by physically smashing through planar boundaries and crashing devastatingly into the target plane itself. Once per year as a full-round action, a hekatonkheires can, as part of a jump, plane shift to any other plane (as per the spell of the same name). It can only bring itself and its gear when it travels in this manner. When the hekatonkheires reaches its destination plane, it falls from the sky and crashes to the ground, creating a devastating explosion of thunder and fire. Any creature within 300 feet of the point where the hekatonkheires lands (including the titan itself) takes 20d6 points of bludgeoning damage and 20d6 points of sonic damage (Reflex DC 38 for half). The save DC is Constitution-based.
+Stunning Slam (Ex) As a standard action, a hekatonkheires may forgo any weapon attacks to make a single slam attack against any creature in reach. If it hits, the target takes damage and must succeed at a DC 41 Fortitude save to avoid being stunned for 1d6 rounds. The save DC is Strength-based.

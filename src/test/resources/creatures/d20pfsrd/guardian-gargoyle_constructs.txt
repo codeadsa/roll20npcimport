@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/guardian-gargoyle
+Gargoyle Guardian CR 8
+XP 4,800
+N Large construct
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 22, touch 11, flat-footed 20 (+2 Dex, +11 natural, –1 size)
+hp 90 (11d10+30)
+Fort +3, Ref +5, Will +3
+DR 5/adamantine; Immune construct traits
+OFFENSE
+Speed 30 ft., fly 60 ft. (poor)
+Melee 1 bite +16 (1d8+6), 2 claw +16 (1d6+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks snatch
+STATISTICS
+Str 22, Dex 14, Con —, Int —, Wis 10, Cha 1
+Base Atk +11; CMB +18; CMD 30
+Skills Stealth +2; Racial Modifiers +6 Stealth in stony environs
+SQ freeze
+SPECIAL ABILITIES
+Freeze (Ex) A gargoyle guardian can hold itself so still that it appears to be a statue. A gargoyle guardian that uses freeze can take 20 on Stealth checks to hide in plain sight as a stone statue.
+Snatch (Ex) A gargoyle guardian can start a grapple when it hits with both claw attacks, as though it had the grab ability. If it grapples a creature of size Medium or smaller, it squeezes each round for automatic claw damage with a successful grapple check. A gargoyle guardian can fly while holding a creature that weighs 350 pounds or less. It cannot throw creatures it is carrying, but can drop them as a free action.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demodand/demodand-tarry
+Tarry DemodandCR 13
+XP 25,600
+CE Medium outsider (chaotic, demodand, evil, extraplanar)
+Init +9; Senses darkvision 120 ft., detect good, detect magic; Perception +22
+DEFENSE
+AC 26, touch 13, flat-footed 23 (+6 armor, +3 Dex, +7 natural)
+hp 171 (18d10+72)
+Fort +15, Ref +11, Will +12; +4 vs. divine spells
+DR 10/good and magic; Immune acid, poison; Resist cold 10, fire 10; SR 24
+OFFENSE
+Speed 40 ft., fly 40 ft. (average)
+Melee mwk short sword +26/+21/+16/+11 (1d6+9/19-20), mwk short sword +26/+21/+16 (1d6+4/19-20), bite +22 (1d8+4)
+Special Attacks adhesion, faith-stealing strike
+Spell-Like Abilities (CL 13th; concentration +24)
+Constant—detect good, detect magic
+3/day—dispel magic
+1/day—chaos hammer (DC 17), summon (level 4, 1d2 tarry demodands 40%)
+STATISTICS
+Str 28, Dex 21, Con 18, Int 12, Wis 13, Cha 17
+Base Atk +18; CMB +27; CMD 42 (46 vs. disarm)
+Feats Combat Reflexes, Greater Two-Weapon Fighting, Improved Bull Rush, Improved Initiative, Improved Two-Weapon Fighting, Lunge, Power Attack, Two-Weapon Fighting, Weapon Focus (short sword)
+Skills Bluff +16, Climb +19, Fly +23, Intimidate +24, Knowledge (arcana) +14, Knowledge (planes) +14, Perception +22, Sense Motive +14, Stealth +17, Survival +14
+Languages Abyssal, Celestial, Common
+SQ heretical soul
+SPECIAL ABILITIES
+Adhesion (Ex) A creature striking a tarry demodand with a manufactured weapon must make a DC 23 Reflex save; failure means the weapon sticks to the demodand and cannot be used to make attacks until freed. Freeing a stuck weapon requires a successful grapple check. This adhesion grants a +4 racial bonus to CMD against disarm attempts.

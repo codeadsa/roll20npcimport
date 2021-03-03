@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/phooka
+Phooka CR 3
+XP 800
+CN Small fey
+Init +3; Senses low-light vision; Perception +12
+DEFENSE
+AC 17, touch 15, flat-footed 13 (+3 Dex, +1 dodge, +2 natural, +1 size)
+hp 22 (5d6+5)
+Fort +2, Ref +7, Will +6
+DR 5/cold iron; SR 14
+OFFENSE
+Speed 30 ft.
+Melee dagger +6 (1d3)
+Spell-like Abilities (CL 5th)
+3/day—dancing lights, ghost sound (DC 14), prestidigitation
+STATISTICS
+Str 10, Dex 17, Con 12, Int 13, Wis 15, Cha 18
+Base Atk +2; CMB +1; CMD 15
+Feats Alertness, Dodge, Weapon Finesse
+Skills Acrobatics +11, Bluff +12, Craft (any) +9, Escape Artist +11, Heal +4, Knowledge (nature) +6, Perception +12, Sense Motive +8, Stealth +16; Racial Modifiers +4 Stealth
+Languages Common, Sylvan
+SQ one with nature, change shape (mountain lion or wolf, beast form I [Ed. – should be beast shape I]), tree stride
+SPECIAL ABILITIES
+One with Nature (Su) When a phooka is slain through violence, all plants within a 100-foot radius of where it fell die and no new ones grow naturally in that area for 1 year.
+Tree Stride (Su) As a free action, a phooka can enter a tree and move from it to another tree with 50 feet as if by a tree stride spell. A phooka can remain inside a tree as long as it wishes. This ability otherwise resembles the spell of the same name.

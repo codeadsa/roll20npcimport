@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/sargassum-fiend
+Sargassum Fiend CR 9
+XP 6,400
+N Large plant (aquatic)
+Init +6; Senses blindsense 60 ft., tremorsense 120 ft.; Perception +11; Aura mirage (300 ft., DC 18)
+DEFENSE
+AC 24, touch 12, flat-footed 21 (+2 Dex, +1 dodge, +12 natural, -1 size)
+hp 123 (13d8+65)
+Fort +15, Ref +8, Will +4
+DR 5/slashing; Immune plant traits; Resist cold 10
+OFFENSE
+Speed 20 ft., climb 20 ft., swim 40 ft.
+Melee 2 slams +16 (2d8+7 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (2d8+10), grab (Huge)
+STATISTICS
+Str 25, Dex 14, Con 20, Int 2, Wis 11, Cha 15
+Base Atk +9; CMB +17 (+25 grapple); CMD 30 (can’t be tripped)
+Feats Dodge, Great Fortitude, Improved Initiative, Lightning Reflexes, Skill Focus (Perception), Stealthy, Weapon Focus (slam)
+Skills Climb +19, Escape Artist +4, Perception +11, Stealth +7, Swim +15
+SPECIAL ABILITIES
+Grab (Ex) A sargassum fiend can grab Huge or smaller foes, and has a +8 racial bonus on grapple checks rather than the normal +4 bonus most creatures with grab possess.
+Mirage (Su) A sargassum fiend emits a powerful scent that causes specific, miragelike hallucinations. All creatures within 300 feet of a sargassum fiend must make a DC 18 Will save or become enraptured by the scent. An enraptured creature sees the monster as whatever would most compel it to approach. This might be a lost loved one, a child in need of help, an enchanting mermaid, the promise of dry land, and so on. The extent of this illusion functions as mirage arcana (CL equals the sargassum’s CR, but is a mind-affecting phantasm, not a glamer.) This effect ends immediately if the plant makes an attack against any target. The save DC is Charisma-based.

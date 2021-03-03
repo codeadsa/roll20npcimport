@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-gold/adult-gold-dragon
+Adult Gold Dragon CR 15
+XP 51,200
+LG Huge dragon (fire)
+Init +0; Senses dragon senses; Perception +30; Aura frightful presence (180 ft., DC 24)
+DEFENSE
+AC 30, touch 8, flat-footed 30 (+22 natural, –2 size)
+hp 225 (18d12+108)
+Fort +17, Ref +11, Will +18
+DR 5/magic; Immune fire, paralysis, sleep; SR 26
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft., fly 250 ft. (poor), swim 60 ft.
+Melee bite +26 (2d8+15/19–20), 2 claws +26 (2d6+10/19–20), 2 wings +24 (1d8+5), tail +24 (2d6+15)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, DC 25, 12d10 fire), crush (small, DC 25, 2d8+15), weakening breath
+Spell-Like Abilities (CL 18th; concentration +23)
+At will—bless, daylight, detect evil
+Spells Known (CL 7th; concentration +12)
+3rd (5/day)—dispel magic, prayer
+2nd (7/day)—aid, cure moderate wounds (DC 17) , resist energy
+1st (7/day)—alarm, divine favor, mage armor, shield, shield of faith
+0 (at will)—detect magic, light, mending, stabilize, 3 more
+STATISTICS
+Str 31, Dex 10, Con 23, Int 20, Wis 21, Cha 20
+Base Atk +18; CMB +30; CMD 40 (44 vs. trip)
+Feats Alertness, Critical Focus, Extend Spell, Improved Critical (bite, claw), Iron Will, Multiattack, Power Attack, Vital Strike
+Skills Diplomacy +26, Fly +13, Heal +26, Knowledge (arcana) +26, Knowledge (local) +26, Knowledge (nobility) +26, Knowledge (religion) +26,Perception +30, Sense Motive +30, Spellcraft +26, Swim +39
+Languages Celestial, Common, Draconic, 3 more
+SPECIAL ABILITIES
+Change Shape (Su) A very young or older gold dragon can assume any animal or humanoid form 3/day as if using polymorph.
+Detect Gems (Sp) A young or older gold dragon can detect gems three times per day. This functions as locate object, but can only be used to locate gemstones.
+Fast Flight (Ex) A young or older gold dragon is treated as one size category larger when determining his fly speed.
+Luck (Sp) Once per day an adult or older gold dragon can touch a gem, usually one embedded in the dragon’s hide, and enspell it to bring good luck. As long as the dragon carries the gem, it and every good creature within a given radius of it (10 ft. per age category) receives a +1 luck bonus on all saving throws. If the dragon gives an enspelled gem to another creature, only that bearer gets the bonus. The effect lasts 1d3 hours plus 3 hours per age category of the dragon. This ability is the equivalent of a 2nd-level spell.
+Weakening Breath (Su) Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sphinx/sphinx-gynosphinx
+Gynosphinx CR 8
+XP 4,800
+N Large magical beast
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +21
+DEFENSE
+AC 21, touch 10, flat-footed 20 (+1 Dex, +11 natural, –1 size)
+hp 102 (12d10+36)
+Fort +11, Ref +9, Will +10
+OFFENSE
+Speed 40 ft., fly 60 ft. (poor)
+Melee 2 claws +17 (2d6+6/19–20)
+Space 10 ft.; Reach 5 ft.
+Special Attacks pounce, rake (2 claws +17, 2d6+6)
+Spell-Like Abilities (CL 12th)
+Constant—comprehend languages, detect magic, read magic, see invisibility
+3/day—clairaudience/clairvoyance
+1/day—dispel magic, locate object, remove curse, legend lore
+1/week—any one of the following: symbol of fear (DC 20), symbol of pain (DC 19), symbol of persuasion (DC 20), symbol of sleep (DC 19), symbol of stunning (DC 21); all symbols last for 1 week maximum
+STATISTICS
+Str 22, Dex 13, Con 16, Int 18, Wis 19, Cha 19
+Base Atk +12; CMB +19; CMD 30 (34 vs. trip)
+Feats Alertness, Combat Casting, Hover, Improved Critical (claw), Improved Initiative, Iron Will
+Skills Bluff +14, Diplomacy +14, Fly +7, Intimidate +14, Knowledge (any two) +6, Perception +21, Sense Motive +19, Spellcraft +12
+Languages Common, Draconic, Sphinx

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/death-butterfly-swarm-kp
+Death Butterfly Swarm CR 4
+XP 800
+CE Diminutive vermin (swarm)
+Init +1; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 15, touch 15, flat-footed 14 (+1 Dex, +4 size)
+hp 40 (9d8)
+Fort +6, Ref +4, Will +4
+Defensive Abilities swarm traits; Immune weapon damage
+Weakness swarm traits
+OFFENSE
+Speed 5 ft., fly 40 ft. (good)
+Melee swarm (2d6 plus poison)
+Special Attacks distraction (DC 14), poison, weight of wings (DC 16)
+STATISTICS
+Str 1, Dex 13, Con 10, Int —, Wis 12, Cha 15
+Base Atk +6; CMB —; CMD —
+Skills Fly +13, Perception +9; Racial Modifiers +8 Perception
+SQ swarm traits, vermin traits
+SPECIAL ABILITIES
+Poison (Ex) Swarm—injury; save Fort DC 14; frequency 1/round for 4 rounds; effect 1 Con; cure 1 save. This poison also affects undead creatures, dealing 1 Cha damage/round.
+Weight of Wings (Su) Creatures affected by the swarm’s distraction effect must also make a DC 16 Will save (Cha– based) or suffer from the effects of hold person. This paralysis only lasts as long as the victim is within the swarm.

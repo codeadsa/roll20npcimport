@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/ogren
+Ogren CR 1
+XP 400
+NE Medium humanoid (ogren)
+Init +0; Senses darkvision 30 ft.; Perception +2
+DEFENSE
+AC 16, touch 10, flat-footed 16 (+4 armor, +2 natural)
+hp 13 (2d8+4)
+Fort +5, Ref +0, Will +0
+OFFENSE
+Speed 30 ft.
+Melee longspear +5 (1d8+3 x3 crit)
+STATISTICS
+Str 17, Dex 11, Con 14, Int 10, Wis 11, Cha 8
+Base Atk +1; CMB +4; CMD 14
+Feats Weapon Focus (longspear)
+Skills Perception +2, Stealth +4; Racial Modifiers +2 Stealth
+Languages Common, (Giant or Goblin – 50% of either)
+SQ ogre blood
+Gear hide armor, longspear
+TACTICS
+Ogrens pride themselves on combat and employ varying tactics and strategies when engaged in such affairs. Ogrens prefer straightforward tactics to ambush and chicanery, though if outmatched, they are not above employing such tactics. Ogrens usually use gang tactics in battle and prefer unmatched odds where they clearly have the upper hand (three- or four-on-one suits them just fine).
+Morale Ogrens rarely if ever back down from a fight as they are taught that cowardice is equal to weakness. However, they are also taught that it is foolish to fight while your enemy clearly has the advantage and backing away is ok, so long as the odds are made even (or at least turned in the ogren’s favor) the next time the two meet.
+SPECIAL ABILITIES
+Ogre Blood (Ex) Fifty percent of ogren have enough ogre blood in their veins to qualify as ogres. Those that qualify are considered ogres for all special abilities and effects.

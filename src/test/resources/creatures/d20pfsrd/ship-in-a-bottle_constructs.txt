@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/ship-in-a-bottle
+Ship in a Bottle CR 2
+XP 600
+N Tiny construct
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 15, touch 14, flat-footed 13 (+1 armor, +2 Dex, +2 size)
+hp 19 (3d10+3)
+Fort +1, Ref +3, Will +1
+Defensive Abilities DR 5/bludgeoning; Immune construct traits
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee ram +6 (1d3)
+Ranged ballista +7 (1d6)
+STATISTICS
+Str 12, Dex 15, Con —, Int 5, Wis 10, Cha 13
+Base Atk +3; CMB +3; CMD 14 (can’t be tripped)
+Feats Flyby Attack, Improved Initiative
+Skills Fly +20
+Languages understands Aquan and Common
+SQ shatter spray
+SPECIAL ABILITIES
+Shatter Spray (Ex) The first time a ship in a bottle fires its ballista, rams a creature, or is dealt weapon damage, the bottle containing it shatters, spraying glass in a circle around it. All creatures in a 5-foot radius take 1d6 points of piercing damage. A successful DC 12 Reflex save halves this additional damage.
+Ship in a Bottle Construction
+A ship in a bottle can be created through a binding ritual undertaken by a powerful spellcaster. The ritual requires a masterwork model ship in a bottle that must be built from materials worth 100 gp, and DC 30 Craft (woodworking) skill checks made over 2 consecutive weeks. Alternatively, a masterwork model ship in a bottle can instead be purchased for the ritual, but it must be worth at least 600 gp.
+CL 9th; Price 5,100 gp (5,600 gp)
+CONSTRUCTION REQUIREMENTS
+Craft Construct, animate objects, magic jar, suitable spirit of a living creature, 2 ranks in Craft (woodworking); Cost 2,600 gp (3,100 gp)

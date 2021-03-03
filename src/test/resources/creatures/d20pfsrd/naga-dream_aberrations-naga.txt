@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga/naga-dream
+Dream Naga CR 9 (XP 6,400)
+N Large aberration (extraplanar)
+Init +6; Senses darkvision 60 ft., dreamsight; Perception +24
+DEFENSE
+AC 23, touch 15, flat-footed 17 (+6 Dex, +8 natural, –1 size)
+hp 123 (13d8+65)
+Fort +9, Ref +12, Will +10
+OFFENSE
+Speed 30 ft., fly 40 ft. (average)
+Melee bite +15 (3d8+9 plus poison)
+Space 10 ft.; Reach 5 ft.
+Psychic Spells Known (CL 7th; concentration +11)
+3rd (5/day)—synaptic pulse (DC 16), synesthesia (DC 16)
+2nd (7/day)—misdirection, oneiric horror (DC 15), see invisibility
+1st (7/day)—deja vu, ill omen, mind thrust I (DC 14), shield, silent image (DC 14) 0 (6/day)—dancing lights, daze (DC 13), detect psychic significance, ghost sound (DC 13), mage hand, read magic, telekinetic maneuver
+STATISTICS
+Str 22, Dex 23, Con 20, Int 18, Wis 15, Cha 17
+Base Atk +9; CMB +16; CMD 32 (can’t be tripped)
+Feats Combat Casting, Flyby Attack, Lightning Reflexes, Lucid Dreamer, Skill Focus (Perception), Vital Strike, Weapon Focus (bite)
+Skills Acrobatics +22, Bluff +16, Fly +20, Knowledge (arcana) +17, Knowledge (planes) +20, Perception +24, Sense Motive +15, Survival +18
+Languages Aklo, Celestial, Common, Infernal
+SQ dream passage
+SPECIAL ABILITIES
+Dream Passage (Su) A dream naga can physically enter dreamscapes in the Dimension of Dreams and dwell within those dreams without disorientation or other debilitating effects. The naga can also attempt impossible feats while in a dreamscape in its physical body, and it gains the bonuses from the Lucid Dreamer feat when it does.
+Dreamsight (Ex) Just by looking at a dreaming creature or when in a dreamscape in the Dimension of Dreams, a dream naga gains a general sense of the nature of the dream. While the dream naga’s vision is not detailed, it gets a general impression of the dream’s themes and the dreamer’s current emotional state.
+Poison (Ex) Bite—injury; save Will DC 21; frequency 1/round for 4 rounds; effect daze 1 round; cure 1 save.
+Spells A dream naga casts spells as a 7th-level psychic.

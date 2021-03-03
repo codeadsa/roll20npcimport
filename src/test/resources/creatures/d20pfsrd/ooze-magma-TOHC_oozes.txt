@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-magma-TOHC
+Magma Ooze CR 7
+XP 3,200
+N Large ooze (fire)
+Init -5; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 4, touch 4, flat-footed 4 (-5 Dex, -1 size)
+hp 120 (10d8+60)
+Fort +9, Ref -2, Will -2
+Defensive Abilities split (piercing and slashing, 10 hp); Immune fire, ooze traits
+OFFENSE
+Speed 10 ft., climb 10 ft.
+Melee slam +9 (2d4+4 plus 2d6 fire and grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (2d4+4 plus 2d6 fire), lava
+STATISTICS
+Str 16, Dex 1, Con 23, Int –, Wis 1, Cha 1
+Base Atk +7; CMB +11 (+15 to grapple); CMD 16 (can’t be tripped)
+Skills Climb +11
+SPECIAL ABILITIES
+Lava (Ex) The magma ooze is formed of molten rock. Any melee hit deals on the ooze inflicts 2d6 points of fire damage to the attacker. The damage continues for 1d3 rounds, but deals only 1d6 damage during this time.

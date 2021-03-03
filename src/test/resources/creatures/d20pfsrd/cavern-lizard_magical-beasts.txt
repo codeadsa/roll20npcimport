@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/cavern-lizard
+Cavern Lizard CR 4
+XP 1,600
+N Large magical beast
+Init +2 Senses darkvision 60 ft., low-light vision, scent; Perception +9
+DEFENSE
+AC 16, touch 11, flat-footed 14 (+2 Dex, +5 natural, -1 size)
+hp 42 (5d10+15)
+Fort +7, Ref +6, Will +4
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee bite +10 (2d6+7 plus grab)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 20, Dex 15, Con 17, Int 3, Wis 12, Cha 2
+Base Atk +5; CMB +11; CMD 23 (27 vs. trip)
+Feats Iron Will, Skill Focus (Perception), Weapon Focus (bite)
+Skills Climb +22, Perception +9, Stealth +10 (+14 in areas of natural stone or rock); Racial Modifiers +4 Climb, +4 Stealth (+8 in areas of natural stone or rock)

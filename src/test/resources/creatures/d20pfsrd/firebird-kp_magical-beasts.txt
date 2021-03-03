@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/firebird-kp
+Firebird CR 8
+XP 4,800
+NG Small magical beast
+Init +4; Senses all-around vision, darkvision 60 ft., low-light vision; Perception +15
+DEFENSE
+AC 21, touch 16, flat-footed 16 (+4 Dex, +1 dodge, +5 natural, +1 size)
+hp 75 (10d10+20); fast healing 3
+Fort +9, Ref +11, Will +7
+Immune fire; Resist electricity 10; SR 19
+OFFENSE
+Speed 20 ft., fly 100 ft. (good)
+Melee bite +12 (1d4+1)
+Ranged blinding ray +16 (5d6 fire plus blindness)
+Special Attacks blinding ray
+Spell-Like Abilities (CL 12th; concentration +17)
+At will—detect magic, guidance, purify food and drink, pyrotechnics, see invisibility, speak with animals
+3/day—charm monster, cure serious wounds, daylight, glitterdust, heat metal
+1/day—geas/quest, heal, rainbow pattern, reincarnate, remove disease, restoration, tongues
+STATISTICS
+Str 12, Dex 19, Con 14, Int 16, Wis 15, Cha 21
+Base Atk +10; CMB +10; CMD 25
+Feats Dodge, Iron Will, Point-Blank Shot, Precise Shot, Weapon Focus (blinding rays)
+Skills Appraise +9, Fly +15, Heal +8, Knowledge (arcana) +7, Knowledge (nature) +7, Knowledge (planes) +7, Knowledge (religion) +7, Perception +15, Sense Motive +12
+Languages Celestial, Common, Sylvan
+SQ light of the world, warming presence
+SPECIAL ABILITIES
+Blinding Ray (Su) Erupting from its radiant tail feathers, a firebird can fire a burning ray of light up to 50 ft. 1/round as a standard action. This attack deals 5d6 fire damage, and the target struck must succeed on a DC 20 Fortitude save (Cha-based) or be blinded for 1d4 rounds.
+Light of the World (Su) A firebird’s feathers glow with a warm light. The creature can cause itself to shed light as dim as a candle up to as bright as a hooded lantern. A firebird always sheds light, and any feathers plucked from the creature continue to shed light as an everburning torch.
+Warming Presence (Su) A firebird and any creatures within a 5-ft. radius don’t feel the sting of cold and are affected as if by an endure elements spell. Invited into a home or building, a firebird can expand this warming presence to its inhabitants no matter how close they are to the creature.

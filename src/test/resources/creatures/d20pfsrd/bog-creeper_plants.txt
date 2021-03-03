@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/bog-creeper
+Bog Creeper CR 8
+XP 4,800
+N Medium plant (fungus)
+Init +4; Senses low-light vision, tremorsense 60 ft.; Perception +21
+DEFENSE
+AC 15, touch 10, flat-footed 15 (+5 natural)
+hp 95 (10d8+50)
+Fort +12; Ref +3; Will +5
+Defensive Abilities camouflage; Immune plant traits
+OFFENSE
+Speed 10 ft., swim 20 ft.
+Melee slam +11 (1d6+4), bite +11 (2d4+4), 4 tendrils +9 (1d4+2 plus grab)
+Space 5 ft.; Reach 5 ft. (10 ft. with tendrils)
+Special Attacks acid spray, constrict (1d4+4)
+STATISTICS
+Str 18, Dex 10, Con 20, Int 3, Wis 14, Cha 6
+Base Atk +7; CMB +11 (+15 grapple); CMD 21 (can’t be tripped)
+Feats Endurance, Diehard, Improved Initiative, Multiattack, Skill Focus (Perception)
+Skills Perception +21, Swim +12
+SQ marsh move
+SPECIAL ABILITIES
+Acid Spray (Ex) Three times per day, a bog creeper can spew digestive acid from its mouth in a 30–foot cone that deals 2d8 points of acid damage to all creatures in the area, with a DC 20 Reflex save allowed for half damage. The save DC is Constitution-based.
+Camouflage (Ex) Since a bog creeper looks like a plant when at rest, it takes a DC 20 Perception check to notice it before it attacks. Anyone with ranks in Survival or Knowledge (nature) can use one of those skills instead of Perception to notice the plant.
+Marsh Move (Ex) A bog creeper can move across marshy terrain without incurring any movement penalties.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/catoblepas-ff
+Catoblepas CR 6
+XP 2,400
+N Large magical beast
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +10; Aura foul stench (10 ft., DC 18, sickened 1d4 rounds)
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, -1 size)
+hp 76 (8d10+32)
+Fort +10, Ref +7, Will +3
+OFFENSE
+Speed 20 ft.
+Melee tail slap +12 (2d6+7 and push)
+Space 10 ft.; Reach 10 ft.
+Special Attacks disintegrating gaze, push (tail, 10 feet)
+STATISTICS
+Str 21, Dex 12, Con 18, Int 3, Wis 13, Cha 10
+Base Atk +8; CMB +14 (+16 bull rush); CMD 25 (27 vs. bull rush, 29 vs. trip)
+Feats Alertness, Improved Bull Rush, Improved Natural Attack (tail), Power Attack
+Skills Intimidate +8, Perception +10, Sense Motive +3; Racial Modifier +4 to Intimidate
+Languages None
+SPECIAL ABILITIES
+Disintegrating Gaze (Su) The catoblepas can focus disintegrating energy from its eyes against one creature within 30 feet. Unless the creature succeeds on a DC 14 Fortitude save, part of its body is disintegrated. Roll todetermine the effect:
+Arm: target takes 4d6+4 damage and a -4 penalty to Strength Leg: target takes 4d6+4 damage, a -2 penalty to Dexterity and can only move by crawling Body: target takes 4d6+4 damage and is fatigued for 2d4 rounds Body: target takes 4d6+4 damage and is staggered for 2d4 rounds The target only takes half damage with a successful save. Damage reduction does not reduce the damage. A creature can only suffer the first two results if it possesses a sufficient number of limbs. Otherwise roll between results 3 and 4. The save DC is Charisma-based.
+Foul Stench (Ex) The catoblepas emits a disgusting odor. Creatures within 10 feet must succeed on a DC 18 Fortitude save or become sickened for 1d4 rounds. Creatures that save are immune to that catoblepas’s foul stench for 24 hours. The save DC is Constitution-based.

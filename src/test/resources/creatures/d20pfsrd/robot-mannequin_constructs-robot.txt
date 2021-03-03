@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/robot/robot-mannequin
+Mannequin Robot CR 2
+XP 600
+N Medium construct (robot)
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +6
+DEFENSE
+AC 13, touch 11, flat-footed 12 (+1 Dex, +2 natural)
+hp 31 (2d10+20)
+Fort +0, Ref +1, Will +0
+Immune construct traits; Resist electricity 5, fire 5
+Weaknesses vulnerable to critical hits, vulnerability to electricity
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +4 (1d4+2)
+STATISTICS
+Str 15, Dex 12, Con —, Int 10, Wis 11, Cha 1
+Base Atk +2; CMB +4; CMD 15
+Feats Alertness
+Skills Disguise –4 (+4 to appear human), Knowledge (local) +4, Perception +6, Sense Motive +6; Racial Modifiers +8 Disguise to appear human
+Languages Common, +1 additional
+SQ false flesh
+SPECIAL ABILITIES
+False Flesh (Ex) The synthetic flesh and hair of a mannequin robot give it a +8 bonus on Disguise checks to appear human (but not to impersonate a specific human). Closely inspecting a mannequin or touching its cold, synthetic skin automatically reveals its non-human nature.
+Variants Other models of mannequin robot resemble the base model shown at left, but have different capabilities. If no CR change is noted, the model has the same CR as a standard mannequin.
+Specialized mannequins advance by taking class levels, generally in non-spellcasting classes such as fighter, gunslinger, monk, and rogue.
+Athlete (CR +1): Designed to compete in robotic sporting events, an athlete model has +2 Strength, +2 Dexterity, Fleet in place of Alertness, and a +5 racial bonus on Acrobatics checks.
+Pleasure (CR +1): Designed for entertainment and leisure purposes, a pleasure model has a +4 bonus to Charisma, has Skill Focus (Perform [any]) in place of Alertness, and can scan the minds of creatures within 30 feet (as detect thoughts).
+Rescue: Designed for rescue and retrieval operations in conditions too dangerous for unprotected humans, a rescue model’s resistance to electricity and fire improves to 10.
+Security (CR +1): Designed for assisting human security forces in dangerous situations, a security model has +2 Dexterity, Improved Initiative in place of Alertness, +1 natural armor, and hardness 5. Security models are proficient with firearms, simple weapons, and light armor.
+Target: Designed as an active target for weapons practice, a target model has +2 Dexterity, a 10-foot increase to speed, hardness 5, and Dodge in place of Alertness. Reducing a target model below half its maximum hit points causes it to shut down for 10 minutes.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga/naga-water
+Water Naga CR 7 (XP 3,200)
+N Large aberration (aquatic)
+Init +6; Senses darkvision 60 ft.; Perception +17
+DEFENSE
+AC 20, touch 15, flat-footed 14 (+6 Dex, +5 natural, -1 size)
+hp 76 (8d8+40)
+Fort +7, Ref +10, Will +9
+OFFENSE
+Speed 30 ft., swim 50 ft.
+Melee bite +10 (2d6+5 plus poison), tail slap +5 (1d8+2)
+Space 10 ft.; Reach 5 ft.
+Spells Known (CL 7th; concentration +11)
+3rd (5/day)—protection from energy, suggestion (DC 17)
+2nd (7/day)—acid arrow, invisibility, mirror image
+1st (7/day)—expeditious retreat, magic missile, obscuring mist, shield, true strike
+0 (at will)—acid splash, daze (DC 14), detect magic, light, mage hand, open/close, read magic
+STATISTICS
+Str 20, Dex 23, Con 20, Int 11, Wis 17, Cha 18
+Base Atk +6; CMB +12; CMD 28 (can’t be tripped)
+Feats Combat Casting, Eschew MaterialsB, Lightning Reflexes, Skill Focus (Perception), Skill Focus (Stealth)
+Skills Bluff +8, Knowledge (local) +4, Perception +17, Spellcraft +11, Stealth +16, Swim +13
+Languages Aquan, Common
+SQ amphibious
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 2 saves.
+Spells A water naga casts spells as a 7th-level sorcerer.

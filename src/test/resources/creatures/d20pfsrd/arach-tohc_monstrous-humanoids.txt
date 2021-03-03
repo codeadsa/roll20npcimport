@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/arach-tohc
+Arach CR 7
+XP 3,200
+NE Medium monstrous humanoid
+Init +7; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 19, touch 13, flat-footed 16 (+3 Dex, +6 natural)
+hp 76 (9d10+27)
+Fort +6; Ref +9; Will +9
+Defensive Abilities spider passivism
+OFFENSE
+Speed 30 ft., climb 10 ft.
+Melee bite +12 (1d6+2), 6 slams +12 (1d4+2), or short sword +12/+7 (1d6+2) and 5 short swords +12 (1d6+2), bite +7 (1d6+1 plus poison)
+Special Attacks multispell
+Spell-Like Abilities (CL 9th)
+2/day—summon (level 4, 9 HD of monstrous spiders, 100%)
+TACTICS
+During Combat All arachs summon spiders in the first round of combat if possible to absorb larger numbers of enemies or quickly overwhelm smaller numbers of foes.
+STATISTICS
+Str 15, Dex 17, Con 16, Int 10, Wis 12, Cha 12
+Base Atk +9; CMB +11; CMD 24
+Feats Blind-Fight, Improved Initiative, Iron Will, Multiweapon Fighting, Weapon Finesse
+Skills Climb +17, Craft (weaving) +7, Knowledge (dungeoneering) +9, Perception +18, Stealth +19; Racial Modifiers +4 Perception, +4 Stealth
+Languages Common, Undercommon
+SPECIAL ABILITIES
+Multispell (Ex) An arach spellcaster (one that has taken levels in a spellcasting class) can cast multiple spells in a given round. If each spell is 3rd-level or less, an arach can cast up to three spells per round; 4th- or 5th-level spells, two per round. An arach cannot multispell spells higher than 5th-level.
+Poison (Ex) Arach Venom: Bite—injury; save Fort DC 17; frequency 1/round for 4 rounds; effect 1d4 Str; cure 1 save. An arach can also coat a single weapon it wields with this poison as a move action. The save DC is Constitution-based.
+Spider Passivism (Ex) No spiders, monstrous spiders, phase spiders, temporal crawlers, sand stalkers, arachnid werecreatures (such as werespiders) or other spider-like creatures with an Intelligence of 8 or less willingly attack an arach. They can be forced to do so through magical means however. If the arach or one of its allies attacks the creature first, this passivism is negated for that creature for 24 hours.

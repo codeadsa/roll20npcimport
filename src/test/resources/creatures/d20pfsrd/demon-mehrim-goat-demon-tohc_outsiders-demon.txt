@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-mehrim-goat-demon-tohc
+Goat Demon (Mehrim) CR 4
+XP 1,200
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +2; Senses darkvision 60 ft., scent; Perception +12
+DEFENSE
+AC 19, touch 12, flat-footed 17 (+2 Dex, +7 natural)
+hp 33 (6d10)
+Fort +5, Ref +4, Will +8
+DR 10/cold iron; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 15
+OFFENSE
+Speed 40 ft.
+Melee bite +11 (2d6+5 plus disease), 2 hooves +11 (1d6+5)
+Spell-Like Abilities (CL 8th)
+At will—darkness, protection from good, see invisibility
+1/day—dispel good (DC 18), dispel magic, summon (level 3, 2d10 dretches or 1 mehrim 30%)
+STATISTICS
+Str 21, Dex 14, Con 10, Int 12, Wis 13, Cha 16
+Base Atk +6; CMB +11; CMD 23 (27 vs. trip)
+Feats Cleave, Iron Will, Power Attack
+Skills Acrobatics +6, Bluff +12, Escape Artist +11, Intimidate +12, Knowledge (local) +10, Knowledge (planes) +10, Perception +12, Sense Motive +10, Survival +10; Racial Modifiers +4 Acrobatics, +8 Perception
+Languages Abyssal, Celestial, Common
+SPECIAL ABILITIES
+Disease (Su) Demon Fever: Bite—injury; save Fort DC 18; onset 1 day; frequency 1/day; effect 1d6 Con damage, target must make second Fort save or 1 point of damage is drain instead; cure 2 consecutive saves. The save DC is Constitution-based and includes a +5 racial bonus.

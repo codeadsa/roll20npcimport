@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/sea-serpents-TOHC/sea-serpent-brine
+Brine Sea Serpent CR 14
+XP 38,400
+CE Huge dragon (aquatic)
+Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception +26
+DEFENSE
+AC 27, touch 11, flat-footed 24 (+2 Dex, +1 dodge, +16 natural, -2 size)
+hp 184 (16d12+64 plus 16)
+Fort +14, Ref +14, Will +11
+Immune paralysis and sleep, dragon traits
+OFFENSE
+Speed swim 40 ft.
+Melee bite +19 (2d6+7 plus poison and grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks breath weapon (50-ft. cone, DC 24, 10d8 acid), constrict (2d6+7), poison
+STATISTICS
+Str 21, Dex 15, Con 18, Int 7, Wis 13, Cha 14
+Base Atk +16; CMB +23 (+27 grapple); CMD 36 (can’t be tripped)
+Feats Ability Focus (breath weapon), Combat Reflexes, Dodge, Improved Initiative, Lightning Reflexes, Mobility, Skill Focus (Perception), Swim-By AttackB, Toughness
+Skills Bluff +21, Diplomacy +9, Intimidate +11, Perception +26, Stealth +13, Swim +22
+Languages Aquan, Draconic
+SPECIAL ABILITIES
+Breath Weapon (Ex) Once per hour, a brine sea serpent can release a blast of acid and salt water in a 50-foot cone. Creatures in the area take 10d8 points of acid damage. A successful DC 24 Reflex save reduces the damage by half. The save DC is Constitution-based, and includes a +2 bonus from the Ability Focus feat.
+Poison (Ex) Bite–injury; save Fort DC 22; frequency 1/round for 6 rounds; effect 1d6 Str; cure 2 consecutive saves. The save DC is Constitution-based.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/half-fiend-minotaur
+Half-Fiend Minotaur CR 6
+XP 2,400
+CE Large outsider (native)
+Init +2; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, –1 size)
+hp 57 (6d10+24)
+Fort +8, Ref +7, Will +6
+Defensive Abilities natural cunning*; DR 5/magic; Immune poison; Resist acid 10, cold 10, electricity 10, fire 10; SR 17
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee greataxe +11/+6 (3d6+9/×3), bite +6 (1d8+3), gore +6 (1d6+3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks smite good 1/day, powerful charge (gore +13, 2d6+9)
+Spell-Like Abilities (CL 6th)
+3/day—darkness;
+1/day—desecrate, unholy blight (DC 14)
+*Minotaur ability.
+STATISTICS
+Str 23, Dex 14, Con 19, Int 9, Wis 12, Cha 10
+Base Atk +6; CMB +13; CMD 25
+Feats Great Fortitude, Improved Bull Rush, Power Attack
+Skills Fly +0, Intimidate +9, Knowledge (religion) +5, Perception +14, Stealth +7, Survival +14; Racial Modifiers +4 Perception, +4 Survival
+Languages Giant

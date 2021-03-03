@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-cave-TOHC
+CAVE GIANT CR 9
+XP 6,400
+CE Huge humanoid (giant)
+Init +1; Senses low-light vision; Perception +7
+DEFENSE
+AC 19, touch 9, flat-footed 18 (+1 Dex, +10 natural, –2 size)
+hp 126 (12d8+72)
+Fort +14; Ref +5; Will +6
+Defensive Abilities rock catching
+OFFENSE
+Speed 30 ft.
+Melee Gargantuan greatclub +16/+11 (3d6+12) or 2 slams +15 (2d6+8 plus grab)
+Ranged rock +9 (2d6+12)
+Space 15 ft.; Reach 15 ft.
+Special Attacks rock throwing (100 ft.), pound, trample (2d6+12, DC 20)
+STATISTICS
+Str 26, Dex 12, Con 23, Int 5, Wis 11, Cha 10
+Base Atk +9; CMB +19 (+23 grapple); CMD 30
+Feats Diehard, Endurance, Iron Will, Martial Weapon Proficiency (greatclub), Power Attack, Weapon Focus (greatclub)
+Skills Climb +15, Perception +7, Survival +7
+Languages Giant
+SQ oversized weapon use
+Gear Gargantuan greatclub
+SPECIAL ABILITIES
+Pound (Ex) A cave giant that successfully grabs a foe two or more sizes smaller than itself can smash the opponent into the ground, walls, nearby trees, or other solid objects as a standard action. This deals 2d6+12 points of bludgeoning damage to the victim. In addition, the opponent must make a successful DC 24 Fortitude save or be stunned for one round. A cave giant can perform this action once per round as long as it maintains the grapple. The save DC is Strength-based.
+Oversized Weapon Use (Ex) A cave giant wields a Gargantuan greatclub without penalty.
+Cave Giant Characters Cave giants are dumb, indestructible brutes of primitive intelligence and reasoning and make excellent barbarians.
++16 Strength, +2 Dexterity, +12 Constitution, –6 Intelligence. Huge: Cave giants are Huge and take a –2 penalty to AC, –2 penalty to attack rolls, +2 bonus to Combat Maneuver Bonus and Combat Maneuver Defense, and a –8 penalty to Stealth checks. A cave giant’s lifting and carrying limits quadruple those of Medium characters. Space 15 ft., Reach 15 ft. Low-light vision: Cave giants can see twice as far as humans in conditions of dim light. Racial Hit Dice: A cave giant begins with twelve levels of giant, which provide 12d8 HD, a base attack bonus of +9, and base save bonuses of Fort +8, Ref +4, Will +4. Racial Skills: A cave giant’s humanoid levels give it skill ranks equal to 12 x (2 + Int modifier). Racial Feats: A cave giant’s humanoid levels give it 5 feats. AC: +10 natural armor bonus. Natural Weapons: Cave giants can fight with 2 unarmed strikes that deal lethal damage (2d6+8). Special Attacks: grab, pound, rock throwing (100 ft.), trample. Special Qualities: Cave giants can use weapons one size greater as described in the over-sized weapon use description at left, rock catching. Languages: Cave giants begin play speaking Giant, and can also speak Common if they have an Intelligence of at least 10. Cave giants with high Intelligence scores can choose from the following languages: Gnoll, Goblin, Orc.

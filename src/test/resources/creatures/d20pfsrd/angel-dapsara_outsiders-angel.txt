@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-dapsara
+Dapsara CR 4
+XP 1,200
+NG Medium outsider (angel, extraplanar, good)
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 natural)
+hp 32 (5d10+5)
+Fort +2, Ref +6, Will +8; +4 vs. poison
+DR 5/evil; Immune petrification; Resist acid 5, cold 5, electricity 5, fire 5; SR 15
+OFFENSE
+Speed 30 ft., fly 30 ft. (average)
+Melee 4 slam +7 (1d4)
+Special Attacks bardic performance 16 rounds/day (countersong, distraction, fascinate, inspire competence +2, inspire courage +2), ghostly arms
+Spell-Like Abilities (CL 5th; concentration +7)
+At will—summon instrument
+3/day—calm emotions, lesser confusion (DC 13), remove fear, saving finale
+1/day—eagle’s splendor, gallant inspiration, ghostbane dirge (DC 14), invisibility (self only)
+STATISTICS
+Str 11, Dex 14, Con 13, Int 10, Wis 15, Cha 14
+Base Atk +5; CMB +5; CMD 17
+Feats Improved Initiative, Iron Will, Weapon Finesse
+Skills Acrobatics +7, Knowledge (history) +8, Knowledge (religion) +8, Perception +10, Perform (any one) +10, Sense Motive +10
+Languages Celestial, Draconic, Infernal, speak with animals, truespeech
+SQ change shape (any humanoid or a cloud of perfume; alter self or gaseous form), versatile performance, weapon proficiencies
+SPECIAL ABILITIES
+Bardic Performance (Su) A dapsara has the bardic performance ability of a 5th-level bard.
+Ghostly Arms (Su) A dapsara’s two spectral arms may manipulate corporeal or incorporeal creatures and objects, as if they had the ghost touch weapon property. She may manifest or hide these arms at will in any shape, even in gaseous form.
+Versatile Performance (Su) A dapsara has the bard’s versatile performance ability, using one Perform bonus in place of the skill bonuses of that Perform skill’s associated skills.
+Weapon Proficiencies (Ex) A dapsara is proficient with all simple weapons, plus the glaive, longsword, rapier, sap, short sword, shortbow, and whip.

@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sky/sky-dragon-mature-adult-tohc
+Mature Adult Sky Dragon CR 14
+XP 38,400
+LG Huge dragon (air)
+Init +4; Senses cloud sight, dragon senses; Perception +32; Aura frightful presence (210 ft., DC 24)
+DEFENSE
+AC 32, touch 8, flat-footed 32 (natural +24, size -2)
+hp 207 (18d12+90)
+Fort +16, Ref +13, Will +18
+DR 10/magic; Immune electricity, paralysis, sleep; SR 25
+OFFENSE
+Speed 40 ft., fly 200 ft. (good)
+Melee bite +26 (2d8+13/19-20), 2 claws +25 (2d6+9), gore +25 (2d6+13), tail slap +23 (2d6+13)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite and gore)
+Special Attacks breath weapon (50 ft. cone, 14d8 electricity, DC 24), crush (DC 24, 2d8+13)
+Spell-Like Abilities (CL 18th; concentration +23)
+At will—detect evil, feather fall, gust of wind (DC 17)
+Spells Known (CL 9th; concentration +14)
+4th (5/day)—dimension door, rainbow pattern (DC 19)
+3rd (7/day)—blink, lightning bolt (DC 18), wind wall
+2nd (7/day)—fog cloud, glitterdust (DC 17), invisibility, resist energy
+1st (8/day)—endure elements, expeditious retreat, magic missile, obscuring mist, shocking grasp
+0 (at will)—daze (DC 15), detect magic, disrupt undead, mage hand, mending, message, ray of frost, read magic
+STATISTICS
+Str 29, Dex 10, Con 21, Int 20, Wis 21, Cha 20
+Base Atk +18; CMB +29; CMD 39 (43 vs. trip)
+Feats Flyby Attack, Hover, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Skill Focus (Perception), Weapon Focus (bite)
+Skills Acrobatics +18, Diplomacy +26, Fly +21, Heal +26, Knowledge (arcana, geography, religion) +26, Perception +32, Perform (sing) +23, Sense Motive +26, Spellcraft +26
+Languages Auran, Celestial, Common, Draconic, Infernal, Sylvan
+SQ borne aloft, change shape
+SPECIAL ABILITIES
+Borne Aloft (Su) Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.
+Change Shape (Su) A young or older sky dragon can assume any humanoid form three times per day as if using polymorph.
+Cloud Sight (Su) A very young or older sky dragon’s sight is not impeded by clouds or fog, or by spells that create areas of fog.

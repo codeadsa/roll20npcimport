@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/jaculi
+Jaculi CR 1/2
+XP 200
+N Medium magical beast
+Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +4
+DEFENSE
+AC 15, touch 13, flat-footed 12 (+3 Dex, +2 natural)
+hp 5 (1d10)
+Fort +2, Ref +5, Will +1
+OFFENSE
+Speed 30 ft.
+Melee bite +4 (1d6+1)
+Special Attacks ambush leap
+STATISTICS
+Str 12, Dex 17, Con 11, Int 2, Wis 12, Cha 2
+Base Atk +1; CMB +2; CMD 15 (can’t be tripped)
+Feats Skill Focus (Perception)B, Weapon Finesse
+Skills Perception +4, Stealth +7 (+19 in natural environment); Racial Modifiers +12 Stealth in natural environment
+SPECIAL ABILITIES
+Ambush Leap (Ex) A jaculi is not required to make an Acrobatics check when jumping down from heights of 30 feet or less and can do so without taking any damage.

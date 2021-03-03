@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/blood-lion/
+Blood Lion CR 16
+XP 76,800
+N Large magical beast (air)
+Init +10; Senses blood scent, darkvision 120 ft., low-light vision, scent; Perception +ZZ
+DEFENSE AC 29, touch 15, flat-footed 23 (+6 Dex, +14 natural, –1 size)
+hp 256 (19d10+152); blood healing
+Fort +19; Ref +17; Will +15
+Defensive Abilities bone spikes; DR 15/adamantine; SR 27
+OFFENSE Speed 60 ft., fly 60 ft. (good)
+Melee bite +26 (2d6+8 bleed plus grab/19–20), 2 claws +26 (1d8+8/19–20)
+Space 10 ft.; Reach 5 ft.
+Special Attacks deafening roar (DC 27), fearful sight (DC 19), pounce, rake (2 claws +26, 1d8+8/19–20)
+Spell-Like Abilities (CL 10th; concentration +10)
+Constant—speak with animals
+STATISTICS Str 26, Dex 23, Con 26, Int 9, Wis 28, Cha 11
+Base Atk +19; CMB +28 (+32 grapple); CMD 44 (48 vs. overrun, trip)
+Feats Flyby Attack, Improved Critical (bite, claws), Improved Initiative, Intimidating Prowess, Skill Focus (Fly, Perception, Stealth), Run, Wingover
+Skills Acrobatics +6 (+18 when jumping), Fly +14, Intimidate +16, Perception +28, Stealth +24 (+28 in undergrowth); Racial Modifiers +4 Stealth (+8 in undergrowth). +8 Intimidate
+Languages Auran; speak with animals

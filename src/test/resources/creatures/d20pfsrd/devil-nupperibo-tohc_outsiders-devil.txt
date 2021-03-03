@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-nupperibo-tohc
+Nupperibo CR 1
+XP 400
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +0; Senses darkvision 60 ft., blindsight 60 ft.; Perception +0
+DEFENSE
+AC 12, touch 10, flat-footed 12 (+2 natural)
+hp 5 (1d10)
+Fort +0, Ref +2, Will +2
+DR 5/good or silver; Immune fire, mind-affecting effects, poison; Resist acid 10, cold 10
+OFFENSE
+Speed 20 ft.
+Melee spear +1 (1d6) or 2 claws +1 (1d4)
+TACTICS
+Nupperibos unerringly follow the orders of their commander. They are relentless in their pursuit and attack, and continue to assault anything in their path until ordered to stop by their commander. A nupperibo killed in battle is 99% likely to be reformed (by a duke or arch-devil) into another nupperibo; the remaining 1% are “promoted” to lemure status, having proved their worth in combat.
+STATISTICS
+Str 10, Dex 10, Con 10, Int —, Wis 11, Cha 4
+Base Atk +1; CMB +1; CMD 11
+Languages Infernal (cannot speak)
+Gear spear

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ubashki-swarm
+Ubashki Swarm CR 2
+XP 600
+NE Tiny undead (swarm)
+Init +3; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 15, touch 15, flat-footed 12 (+3 Dex, +2 size)
+hp 19 (3d8+6)
+Fort +3, Ref +6, Will +3
+Defensive Abilities half damage from weapons, swarm traits;
+Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee swarm +7 (1d6 plus distraction and disease)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 13)
+STATISTICS
+Str 5, Dex 17, Con —, Int 2, Wis 10, Cha 15
+Base Atk +2; CMB —; CMD —
+Feats Lightning Reflexes, Weapon Finesse
+Skills Climb +5, Perception +5, Stealth +15; Racial Modifiers +4 Climb, +4 Stealth
+SPECIAL ABILITIES
+Disease (Ex) Ubashki Fever: Injury; save Fort DC 13; onset 1d3 days; frequency 1/day; effect 1d2 Str damage and 1d2 Wis damage; cure 2 consecutive saves.
+A creature afflicted by ubashki fever develops unsightly splotches and sores all over its body that persist until the disease is cured. The save DC is Charisma-based.

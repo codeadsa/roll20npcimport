@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/herald-of-armageddon
+Herald of Armageddon
+CR 15
+XP 51,200
+CN Large outsider (chaotic, extraplanar)
+Init +7; Senses darkvision 60 ft., true seeing; Perception +21
+DEFENSE
+AC 31, touch 15, flat-footed 27 (+3 Dex, +1 dodge, +2 insight, +16 natural, –1 size; never surprised or flat-footed)
+hp 225 (18d10+126); fast healing 5
+Fort +18, Ref +11, Will +19
+DR 10/law and magic; Immune confusion, insanity; Resist acid 30, cold 30, electricity 30, fire 30; SR 26
+OFFENSE
+Speed 40 ft., fly 40 ft. (average)
+Melee +1 shock heavy flail +23/+18/+13/+8 (2d8+7/17–20 plus 1d6 electricity and maddening strike)
+Space 10 ft.; Reach 10 ft.
+Special Attacks destructive aura
+Spell-Like Abilities (CL 18th; concentration +24)
+Constant—foresight (self only), true seeing (self only)
+At will—arcane eye, quickened bleed (DC 16), hideous laughter (DC 18), knock, magic missile, shatter (DC 18), telepathic bond, touch of idiocy, true strike
+5/day—confusion (DC 20), contact other plane (see below), feeblemind (DC 21), greater teleport (self plus 50 lbs. of objects only), mind fog (DC 21), nightmare (DC 21), phantasmal killer (DC 21)
+1/day—break enchantment, disintegrate (DC 22), harm (DC 22), insanity (DC 23), mage’s disjunction (DC 25), mass invisibility, moment of prescience, power word kill, weird (DC 25)
+STATISTICS
+Str 18, Dex 17, Con 24, Int 17, Wis 16, Cha 22
+Base Atk +18; CMB +23 (+25 sunder); CMD 39 (41 vs. sunder, can’t be tripped)
+Feats Combat Casting, Combat Expertise, Dodge, Improved Critical (heavy flail), Improved Initiative, Improved Iron Will, Improved Sunder, Iron Will, Weapon Focus (heavy flail)
+Skills Disable Device +18, Fly +16, Intimidate +24, Knowledge (geography) +18, Knowledge (history) +21, Knowledge (religion) +21, Perception +21, Sense Motive +21, Spellcraft +18, Stealth +17, Use Magic Device +24; Racial Modifiers +4 Acrobatics when jumping
+Languages Aklo, Common, Cyclops, Draconic, +3 additional; telepathy 100 ft.
+SQ madness, no breath
+SPECIAL ABILITIES
+Adaptable Life Force (Su) Any effect that heals living creatures and harms undead or heals undead and harms living creatures (such as cure spells, inflict spells, and channeled energy) always heals the herald, even if the source of the power intended to harm it.
+Contact Other Plane (Sp) This ability functions as the spell contact other plane, but the herald can only ask questions on the behalf of another creature, the questioner (not the herald) must make the Intelligence check (if any) to avoid losing Intelligence or Charisma, and the loss is permanent rather than temporary.
+Destructive Aura (Su) As a swift action, the herald can emit a 30-foot aura of destruction for 15 rounds per day. All attacks made against targets in this aura (including the herald) gain a +7 morale bonus on damage rolls, and all critical threats are automatically confirmed. These rounds do not need to be consecutive.
+Maddening Strike (Su) If the herald successfully hits a creature with its flail, as a swift action it may force the opponent to make a DC 25 Will save. If the creature fails its save, it is confused for 1 round. The save DC is Charisma-based.
+Madness (Ex) The herald uses its Charisma modifier on Will saves instead of its Wisdom modifier, and is immune to insanity and confusion effects. Only a miracle or wish can remove its madness. If this occurs, the herald gains 6 points of Wisdom and loses 6 points of Charisma; it automatically reverts to its insane state 1d10 minutes later.
+Telepathic Bond (Sp) This ability functions like telepathic bond, except any creature linked to the herald’s disturbing thoughts takes 1 point of Wisdom damage every 10 minutes.

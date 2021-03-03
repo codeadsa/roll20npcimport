@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-sand
+SAND GIANT CR 14
+XP 38,400
+NE Huge humanoid (earth, giant)
+Init +1; Senses low-light vision, scent; Perception +27
+DEFENSE
+AC 24, touch 9, flat-footed 23 (+3 armor, +1 Dex, +12 natural, –2 size)
+hp 218 (19d8+114 plus 19)
+Fort +17; Ref +7; Will +9
+Defensive Abilities rock catching
+OFFENSE
+Speed 40 ft.
+Melee greatsword +24/+19/+14 (4d6+16) or 2 slams +23 (2d6+11)
+Ranged rock +14 (2d6+16)
+Space 15 ft.; Reach 15 ft.
+Special Attacks fist of sand (slam +26, 1d8+10 damage; DC 29; CMB +26, CMD 36; AC 20, touch 8, flat-footed 20; hp 69; 19 rounds), rock throwing (120 ft.)
+Spell-like Abilities (CL 19th):
+2/day—soften earth and stone, move earth
+1/day— earthquake
+STATISTICS
+Str 33, Dex 13, Con 23, Int 12, Wis 12, Cha 14
+Base Atk +14; CMB +27 (+29 bull rush); CMD 38 (40 vs. bull rush)
+Feats Alertness, Awesome Blow, Cleave, Great Cleave, Improved Bull Rush, Iron Will, Power Attack, Toughness, Vital Strike, Weapon Focus (greatsword)
+Skills Acrobatics +19, Perception +27, Survival +23
+Languages Common, Giant
+SQ weapon and armor proficiency
+Gear greatsword, studded leather armor
+SPECIAL ABILITIES
+Fist of Sand (Su) Once per day as a move action, a sand giant can form a volume of sand within 40 feet into the shape of a 20-foot long arm that ends in a clenched fist. The arm is Huge and has a space of 15 ft. and a reach of 20 ft. The arm and fist cannot move from the location where it was created.
+The sand giant can order the arm to attack a target as a move action. Once given a target, the arm automatically attacks that target on the giant’s turn. The arm remains for a number of rounds equal to the sand giant’s Hit Dice (19 rounds for a typical sand giant). A sand giant does not need to concentrate to maintain the arm and can direct it to attack a new target or adapt a new tactic as a free action.
+The arm’s base attack bonus is equal to that of the giant that created it, and it deals slam damage equal to the slam attack for a creature of its size (Huge). Any creature struck must succeed on a DC 29 Fortitude save or be stunned for 1 round. The save DC is Strength-based, using the HD of the sand giant and the Strength of the fist of sand.
+The arm has an AC of 20 (+12 natural, –2 size) and has hit points equal to three times the Constitution score of the sand giant that created it. It has a Strength score of 30. The arm loses shape if it is reduced to 0 or less hit points, the duration expires, or the sand giant dies.
+Weapon and Armor Proficiency (Ex) Sand giants are automatically proficient with simple weapons, martial weapons, light and medium armor, and shields.
+
+Sand Giant Characters Sand giants are combative, and most are fighters. Many tribes or groups include druids or clerics with access to two of the following domains Earth, Evil, Strength, and War.
++22 Strength, +2 Dexterity, +12 Constitution, +2 Intelligence, +2 Wisdom, +4 Charisma Huge: Sand giants are Huge and take a –2 penalty to AC, –2 penalty to attack rolls, +2 bonus to Combat Maneuver Bonus and Combat Maneuver Defense, and a –8 penalty to Stealth checks. A sand giant’s lifting and carrying limits quadruple those of Medium characters. Space 15 ft., Reach 15 ft. Speed: A sand giant’s base speed is 50 feet. Low-light vision: Sand giants can see twice as far as humans in conditions of dim light. Racial Hit Dice: A sand giant starts with nineteen levels of humanoid, which provide it with 19d8 HD, a base attack bonus of +14, and base save bonuses of Fort +11, Ref +6, Will +6. Racial Skills: A sand giant’s giant levels give it skill points equal to 19 x (2 + Int modifier). Its class skill are Intimidate and Perception. Racial Feats: A sand giant’s giant levels give it 10 feats. AC: +12 natural AC bonus. Special Attacks (see left): Fist of sand, spell-like abilities. Special Qualities (see lefft): Rock catching, scent. Weapon and Armor Proficiency: Sand giants are automatically proficient with simple weapons, martial weapons, light and medium armor, and shields. Languages: Sand giants begin play speaking Giant and Common. Sand giants with high intelligence scores can choose from the following languages: Draconic, Elven, Goblin, and Orc.

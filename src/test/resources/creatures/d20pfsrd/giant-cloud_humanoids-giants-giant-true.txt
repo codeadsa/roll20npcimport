@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-cloud
+Cloud Giant (CR 11)
+XP 12,800
+NG or NE Huge humanoid (giant)
+Init +1; Senses low-light vision, scent; Perception +17
+DEFENSE
+AC 25, touch 9, flat-footed 24 (+4 armor, +1 Dex, +12 natural, –2 size)
+hp 168 (16d8+96)
+Fort +16, Ref +6, Will +10
+Defensive Abilities rock catching
+OFFENSE
+Speed 50 ft.
+Melee morningstar +22/+17/+12 (4d6+18) or 2 slams +22 (2d6+12)
+Ranged rock +12 (2d6+18)
+Space 15 ft.; Reach 15 ft.
+Special Attacks rock throwing (140 ft.)
+Spell-Like Abilities (CL 16th)
+At will—levitate (self plus 2,000 lbs.), obscuring mist
+1/day—fog cloud
+STATISTICS
+Str 35, Dex 13, Con 23, Int 12, Wis 16, Cha 12
+Base Atk +12; CMB +26; CMD 37
+Feats Awesome Blow, Cleave, Great Cleave, Improved Bull Rush, Improved Overrun, Intimidating Prowess, Iron Will, Power Attack
+Skills Climb +19, Craft (any one) +10, Diplomacy +9, Intimidate +26, Perception +17, Perform (string instruments) +8
+Languages Common, Giant
+SQ oversized weapon
+SPECIAL ABILITIES
+Oversized Weapon (Ex) A cloud giant can wield Gargantuan weapons without penalty. Most favor the use of immense morningstars.
+Variants
+Advanced Cloud Giant (CR 11)
+Cloud Giant Oligarch (Oracle 12; CR 18)

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/slime-crawler-larval-tohc
+Larval Slime Crawler CR 1
+XP 400
+N Medium aberration
+Init +2; Senses darkvision 60 ft., scent; Perception +8
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 5 (1d8+1)
+Fort +1, Ref +2, Will +3
+OFFENSE
+Speed 20 ft., climb 10 ft.
+Melee tentacles +1 (1d3+1 plus grab) and bite +1 (1d4+1)
+Special Attacks constrict (1d3+1)
+STATISTICS
+Str 12, Dex 14, Con 12, Int 1, Wis 12, Cha 6
+Base Atk +0; CMB +1 (+5 grapple); CMD 13 (can’t be tripped)
+Feats Skill Focus (Perception)
+Skills Climb +9, Escape Artist +8, Perception +8; Racial Modifiers +6 Escape Artist
+SQ slippery
+SPECIAL ABILITIES
+Slippery (Ex) A slime crawler exudes a thin, oily film from the glands beneath its mouth that leaves a slug-like trail behind it as its moves and provides the creature with a +6 racial bonus to Escape Artist checks. A creature stepping in a space covered with this slime must succeed on a DC 11 Reflex save or slip and fall prone. The slime remains in the area for 1d2 hours before losing its potency. The save DC is Constitution-based.

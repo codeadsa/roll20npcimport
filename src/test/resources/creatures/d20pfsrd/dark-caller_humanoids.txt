@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dark-caller
+Dark Caller CR 5
+XP 1,600
+CE Medium humanoid (dark folk)
+Init +3; Senses detect magic, see in darkness; Perception +8
+DEFENSE
+AC 17, touch 14, flat-footed 13 (+3 Dex, +1 dodge, +3 natural)
+hp 52 (8d8+16)
+Fort +4, Ref +9, Will +3
+Weaknesses light blindness
+OFFENSE
+Speed 30 ft.
+Melee mwk dagger +10/+5 (1d4+2/19–20 plus black smear poison)
+Special Attacks death throes, sneak attack +2d6
+Spell-Like Abilities (CL 8th; concentration +12)
+Constant—detect magic
+At will—bleed (DC 14)
+3/day—deeper darkness, shadow step
+1/day—shadow conjuration (DC 18)
+STATISTICS
+Str 14, Dex 17, Con 14, Int 13, Wis 13, Cha 18
+Base Atk +6; CMB +8; CMD 22
+Feats Augment Summoning, Dodge, Spell Focus (conjuration), Weapon Finesse
+Skills Climb +6, Intimidate +5, Knowledge (arcana) +9, Knowledge (planes) +9, Perception +8, Stealth +10, Use Magic Device +5; Racial Modifiers +4 Climb, +4 Perception, +4 Stealth
+Languages Dark Folk, Undercommon
+SQ poison use, shadow ritual
+SPECIAL ABILITIES
+Death Throes (Su) When a dark caller is slain, its body bursts into shreds of blisteringly cold shadows, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d4 points of Strength damage and are staggered for 1 round. A successful DC 16 Fortitude save halves the Strength damage and negates the staggered effect. This ability damage is temporary and an affected creature’s Strength returns to normal after 3d10 minutes. The save DC is Constitution-based.
+Shadow Ritual (Su) Three dark callers can collaborate on a ritual that calls an owb to their service. The ritual takes 1 hour to complete. If the dark callers involved are distracted in any way, the attempt is ruined and the ritual must begin anew. Once called to their service, the owb serves them for 24 hours. Though the owb is free-willed, it follows orders to the best of its ability.

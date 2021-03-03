@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/greater-tengu-yamabushi
+Greater Yamabushi Tengu CR 7
+XP 3,200
+LN Medium outsider (air, earth, extraplanar, lawful)
+Init +4; Senses darkvision 60 ft., Perception +13; Aura calm (as calm emotions, DC 15, 40-ft. range)
+DEFENSE
+AC 20, touch 15, flat-footed 15 (+2 armor, +4 Dex, +1 Dodge, +3 natural)
+hp 59 (7d10+21)
+Fort +5, Ref +9, Will +8
+DR 10/silver and chaotic; Resist acid 5, cold 10, electricity 5; Immune petrification, polymorph; SR 18
+Weaknesses mirror taboo
+OFFENSE
+Speed 40 ft., fly 60 ft. (perfect)
+Melee katana +11/+6 (1d8+2/19-20/x3; +1 attack and damage to sunder), wakizashi +11/+6 (1d6+2/18-20; +1 attack and damage to sunder)
+Ranged mwk shuriken +12 (1d2+1/x2; 10-ft. range increment)
+Space 5 ft.; Reach 10 ft.
+Special Attacks wing baffle
+Spell-Like Abilities (CL 7th)
+At will—alter self, ghost sound, major image, mirror image
+3/day—bless weapon, blur, greater invisibility (self only), plane shift
+1/day—consecrate, gaseous form, mass hold person
+Spells Prepared (CL 5th)
+3rd—create food and water
+2nd—delay poison, zone of truth
+1st—detect undead, obscuring mist, remove fear
+STATISTICS
+Str 13, Dex 18, Con 16, Int 16, Wis 17, Cha 16
+Base Atk +7; CMB +8; CMD 22
+Feats Dodge, Improved Two-Weapon FightingB, MobilityB, Two-Weapon FightingB, Vital Strike, Weapon Finesse, Weapon Focus (katana)
+Skills Acrobatics +14, Diplomacy +11, Escape Artist +12, Fly +16,Intimidate +11, Knowledge (planes) +12, Knowledge (religion) +13, Linguistics +15, Perception +13, Sense Motive +13, Spellcraft +11,Stealth +12; Racial Modifiers +2 Acrobatics, +4 Fly, +4 Linguistics, +2 Perception, +2 Sense Motive
+SPECIAL ABILITIES
+Cleric Spells (Sp) Yamabushi tengu cast divine spells as 5th-level clerics. They do not gain access to domains or other cleric abilities.
+Gifted Linguist (Ex) As the tengu racial trait.
+Mirror Taboo (Su) Yamabushi tengu may not look at themselves in any man-made mirror (Reflex DC 20 avoids), or they take 4 Charisma damage. An atonement spell restores the ability damage.
+Wing Baffle (Ex) A yamabushi tengu uses its wings even in combat although not to make slam attacks; it supplements its melee combat with the slaps and whips of its wings to buffet and disorient its opponents. Each round, in addition to its normal attacks, a yamabushi tengu may make a Bluff check against an opponent’s Sense Motive while in combat. If the check is successful, the tengu’s attacks that round gain a +2 circumstance bonus to attack rolls.

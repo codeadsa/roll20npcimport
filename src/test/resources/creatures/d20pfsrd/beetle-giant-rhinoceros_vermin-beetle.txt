@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-giant-rhinoceros
+Giant Rhinoceros Beetle CR 7
+XP 3,200
+N Large vermin
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 20, touch 9, flat-footed 20 (+11 natural, -1 size)
+hp 85 (10d8+40)
+Fort +11; Ref +3; Will +3
+OFFENSE
+Speed 20 ft.
+Melee gore +12 (2d6+6), bite +12 (2d6+6)
+Space 10 ft.; Reach 5 ft. (10 ft. with horn)
+Special Attacks trample (DC 21, 1d8+9)
+STATISTICS
+Str 23, Dex 10, Con 18, Int —, Wis 10, Cha 9
+Base Atk +7; CMB +14; CMD 24 (32 vs. trip)

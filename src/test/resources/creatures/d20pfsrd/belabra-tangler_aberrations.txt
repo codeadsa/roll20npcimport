@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/belabra-tangler
+Belabra CR 3
+XP 800
+N Medium aberration
+Init +2; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 30 (4d8+8 plus 4)
+Fort +3; Ref +3; Will +5
+OFFENSE
+Speed 5 ft., fly 20 ft. (poor)
+Melee slam +6 (2d4+2), tentacles +4 (grab) or bite +6 (2d4+3), tentacles +4 (grab)
+Special Attacks acidic blood, tentacle-barbs
+STATISTICS
+Str 14, Dex 15, Con 14, Int 7, Wis 12, Cha 11
+Base Atk +3; CMB +6 (+10 grapple); CMD 18 (can’t be tripped)
+Feats Multiattack, Toughness
+Skills Fly -2, Perception +10, Stealth +9; Racial Modifiers +2 Perception
+SPECIAL ABILITIES
+Acidic Blood (Ex) Each time a belabra is hit with a slashing or piercing weapon, all creatures within a 10-ft. radius must succeed on a DC 14 Reflex save or be sprayed by the creature’s acidic blood. The save DC is Constitution-based.
+A creature that fails its save is partially blinded and overcome with fits of sneezing. Both effects last 1d6+2 rounds. An affected creature takes a –1 penalty to AC, loses its Dexterity bonus to AC (if any), moves at half speed, and takes a –2 penalty on Perception checks and on Strength– and Dexterity-based skills and checks. All checks relying on vision (such as reading and Perception) have a 50% chance of failing. All opponents are considered to have concealment (20% miss chance) relative to the
+blinded character.
+Tentacle-Barbs (Ex) A belabra’s tentacles are lined with razor-sharp barbs. Anytime a grappled creature attempts to break free, it takes 1d4+1 points of piercing damage from the barbs.

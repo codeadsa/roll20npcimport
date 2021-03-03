@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/baregara
+Baregara CR 12
+XP 19,200
+CE Large outsider (chaotic, evil, extraplanar)
+Init +8; Senses darkvision 60 ft.; Perception +22
+DEFENSE
+AC 25, touch 13, flat-footed 21 (+4 Dex, +12 natural, -1 size)
+hp 168 (16d10+80)
+Fort +15, Ref +14, Will +10
+DR 10/good; Immune electricity, poison, Resist acid 10, cold 10, fire 10; SR 23
+OFFENSE
+Speed 30 ft., climb 40 ft.
+Melee* bite +23 (1d8+4), 2 claws +23 (1d10+8 plus grab), gore +18 (1d8+8)
+Space 10 ft.; Reach 10 ft. Special Attacks devouring grapple, monstrous challenge, one-armed hold
+Spell-Like Abilities (CL 16th; concentration +19)
+Constant—see invisibility
+At will—dispel magic, teleport (self plus 50 lbs. of objects only)
+3/day—quickened hold person (DC 15)
+1/day—summon (level 4, 1d4 dire apes 50% or 1d2 girallons 35%), unholy blight (DC 17)
+STATISTICS
+Str 26, Dex 19, Con 20, Int 15, Wis 16, Cha 17
+Base Atk +16; CMB +25 (+29 grapple); CMD 39
+Feats Critical Focus, Improved Initiative, Intimidating Prowess, Iron Will, Power Attack, Quicken Spell-Like Ability (hold person), Step Up, Throw Anything
+Skills Acrobatics +15, Bluff +14, Climb +27, Diplomacy +11, Intimidate +30, Knowledge (nature) +10, Knowledge (planes) +13, Perception +22, Sense Motive +14, Stealth +19, Survival +19, Swim +16
+Languages Abyssal, Celestial, Common, Draconic; telepathy 100 ft.
+SPECIAL ABILITIES
+Devouring grapple (Ex) The mouth at the center of a baregara’s chest automatically deals 2d8+4 points of damage per round to any creature the baregara successfully grapples.
+Monstrous Challenge (Su) As a standard action, a baregara can make an Intimidate check to demoralize an opponent. If this check is successful, the baregara surges with power and gains a +4 enhancement bonus to Strength and Constitution for 10 minutes. This ability is usable three times per day.
+One-Armed Hold (Ex) A baregara’s huge arms allow it to initiate and maintain a grapple without the standard -4 penalty for not having both hands free.
+Editor’s Note
+The Melee attack line appears to be incorrect (primary attack deals +1/2 Str damage, and secondary deals +full). The suggested corrected line appears below.
+Melee bite +23 (1d8+8), 2 claws +23 (1d10+8 plus grab), gore +18 (1d8+4)

@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/lillend
+Lillend CR 7
+XP 3,200
+CG Large outsider (azata, chaotic, extraplanar, good)
+Init +3; Senses low-light vision, darkvision 60 ft.; Perception +13
+DEFENSE
+AC 20, touch 12, flat-footed 17 (+3 Dex, +8 natural, –1 size)
+hp 73 (7d10+35)
+Fort +7, Ref +10, Will +10
+Immune electricity, petrification, poison; Resist cold 10, fire 10
+OFFENSE
+Speed 30 ft., fly 70 ft. (average)
+Melee +1 longsword +12/+7 (2d6+8/19–20), tail slap +6 (2d6+2 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bardic performance (20 rounds/day), constrict (2d6+5)
+Spell-Like Abilities (CL 7th)
+3/day—darkness, hallucinatory terrain (DC 18), knock, light
+1/day—charm person (DC 15), speak with animals, speak with plants
+Spells Known (CL 7th)
+3rd (2/day)—charm monster (DC 17), cure serious wounds
+2nd (4/day)—hold person (DC 16), invisibility, sound burst (DC 16), suggestion
+1st (5/day)—charm person (DC 15), cure light wounds, identify, sleep (DC 15)
+0 (at will)—dancing lights, daze (DC 14), detect magic, lullaby (DC 14), mage hand, read magic (DC 16)
+STATISTICS
+Str 20, Dex 17, Con 21, Int 14, Wis 16, Cha 19
+Base Atk +7; CMB +13; CMD 26 (can’t be tripped)
+Feats Combat Casting, Hover, Iron Will, Lightning Reflexes
+Skills Bluff +14, Diplomacy +14, Fly +11, Knowledge (nature) +9, Perception +13, Perform (stringed instruments) +16, Sense Motive +13, Survival +14; Racial Modifiers +4 Survival
+Languages Celestial, Draconic, Infernal; truespeech
+SPECIAL ABILITIES
+Bardic Performance A lillend has the bardic performance ability of a 7th-level bard, granting her access to that ability’s countersong, fascinate, inspire courage, inspire competence, and suggestion aspects.
+Spells A lillend casts spells as a 7th-level bard. They favor enchantment and healing spells.

@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-bronze/young-bronze-dragon
+Young Bronze Dragon CR 9
+XP 6,400
+LG Large dragon (water)
+Init +1; Senses dragon senses; Perception +20
+DEFENSE
+AC 21, touch 10, flat-footed 20 (+1 Dex, +11 natural, –1 size)
+hp 95 (10d12+30)
+Fort +10, Ref +8, Will +10
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +14 (2d6+7), 2 claws +14 (1d8+5), 2 wings +12 (1d6+2), tail +12 (1d8+7) Special Attacks breath weapon (80-ft. line, DC 18, 6d6 electricity), repulsion breath Spell-Like Abilities (CL 10th) At will—speak with animals Spells Known (CL 1st) 1st (4/day)—alarm, obscuring mist 0 (at will)—detect magic, light, message, resistance STATISTICS
+Str 21, Dex 12, Con 17, Int 16, Wis 17, Cha 16
+Base Atk +10; CMB +16; CMD 27 (31 vs. trip)
+Feats Alertness, Flyby Attack, Multiattack, Power Attack, Vital Strike
+Skills Diplomacy +16, Fly +8, Intimidate +16, Knowledge (arcana) +16, Perception +20, Sesnse Motive +20, Spellcraft +16, Stealth +10, Swim +26 Languages Aquan, Common, Draconic, Elven

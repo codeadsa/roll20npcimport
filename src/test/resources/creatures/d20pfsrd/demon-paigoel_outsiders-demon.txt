@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-paigoel
+Paigoel Demon CR 12
+XP 38,400
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +1; Senses all-around vision, darkvision 60 ft., true seeing; Perception +22
+DEFENSE
+AC 26, touch 10, flat-footed 25 (+1 Dex, +16 natural, -1 size)
+hp 161 (14d10+84)
+Fort +10, Ref +10, Will +12
+Defensive Abilities whirling blades; DR 10/good;
+Immune electricity, poison; Resist acid 10, cold 10, fire 10
+OFFENSE
+Speed 50 ft.
+Melee 10 cold iron longswords +19 (2d6+6/19-20) or 10 slams +19 (1d8+9)
+Space 10 ft.; Reach 10 ft.
+Special Attacks hail of darts, multiweapon mastery, potent charge
+Spell-Like Abilities (CL 14th; concentration +18)
+Constant-–true seeing
+1/day-–summon (level 4, 1 paigoel 40%)
+STATISTICS
+Str 22, Dex 13, Con 23, Int 10, Wis 12, Cha 19
+Base Atk +14; CMB +21 (+23 bull rush; +25 grapple); CMD 32 (34 vs. bull rush; 36 vs. grapple; can’t be tripped)
+Feats Cleave, Great Cleave, Improved Bull Rush, Improved Grapple, Improved Unarmed Strike, Iron Will, Power Attack
+Skills Bluff +21, Climb +27, Perception +22, Intimidate +21, Knowledge (arcana, dungeoneering, or religion) +17, Knowledge (planes) +17; Racial Modifiers +4 to Climb
+Languages Abyssal, Celestial, Common, Draconic; telepathy 100 ft.
+SPECIAL ABILITIES
+Hail of Darts (Su) The paigoel can project a fusillade of darts from its palm in a line 30 feet long and 5 feet wide. Those caught in the hail take 10d6 damage, or half damage on a DC 23 Reflex save. The save DC is Constitution-based.
+Multiweapon Mastery (Ex) A paigoel never takes penalties to its attack roll when fighting with multiple weapons.
+Potent Charge (Ex) The paigoel can use its multiple arms to make extra attacks when charging. At the end of a successful charge, it can make up to three attacks that round instead of the normal one.
+Whirling Blades (Ex) The paigoel can use its multiple arms to defend and attack. As a full-round action it can choose to grant itself a +5 deflection bonus to AC but then can only make 5 melee attacks in that round. This bonus to AC lasts until the paigoel’s next turn.

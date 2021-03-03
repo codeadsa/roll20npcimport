@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/tattoo-guardian
+Tattoo Guardian CR 3 (XP 800)
+N Medium construct
+Init +9; Senses darkvision 60 ft., low-light vision; Perception +1
+DEFENSE
+AC 15, touch 13, flat-footed 12 (+3 Dex, +2 natural)
+hp 42 (4d10+20)
+Fort +1, Ref +6, Will +2
+Defensive Abilities worn form, fluid form, hypervigilant; Immune construct traits
+OFFENSE
+Speed 30 ft., fly 10 ft.
+Melee 2 ink blades +6 (1d6+2)
+STATISTICS
+Str 14, Dex 17, Con —, Int —, Wis 12, Cha 13
+Base Atk +4; CMB +6; CMD 19
+Feats Improved InitiativeB
+SQ bodyguard
+SPECIAL ABILITIES
+Bodyguard (Su) Whenever the tattoo guardian’s wearer takes damage, half of the damage is transferred to the guardian (as shield other).
+Additionally, the tattoo guardian gains a +2 bonus on attack and damage rolls against any creatures that damaged its wearer in the previous round.
+Fluid Form (Su) A tattoo guardian does not provoke attacks of opportunity because of movement.
+It is immune to critical hits and sneak attacks, and it cannot be knocked prone or grappled.
+Hypervigilant (Su) A tattoo guardian gains a +2 bonus on initiative checks and Reflex saves, and it always acts on the surprise round.
+Worn Form (Su) While being worn, a tattoo guardian occupies the same space as its wearer and moves with its wearer.
+In this state, the wearer and the tattoo guardian use the higher of the wearer’s and the tattoo guardian’s AC and saving throws, but the tattoo guardian loses access to its fluid form ability.

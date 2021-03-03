@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-schir
+Schir CR 4
+XP 1,200
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +2; Senses darkvision 60 ft., see invisibility; Perception +13
+DEFENSE
+AC 19, touch 12, flat-footed 17 (+2 Dex, +7 natural)
+hp 37 (5d10+10)
+Fort +6, Ref +3, Will +3
+DR 5/cold iron or good; Immune disease, electricity, poison; Resist acid 10, cold 10, fire 10; SR 15
+OFFENSE
+Speed 30 ft.
+Melee mwk halberd +10 (1d10+4/x3 plus disease), gore +3 (1d6+2) or gore +8 (1d6+4)
+Special Attacks powerful charge (gore, 3d6+4)
+Spell-Like Abilities (CL 6th; concentration +4)
+Constant—see invisibility, tongues
+3/day—arcane lock, expeditious retreat, protection from good
+1/day—summon (level 2, 1d3 schirs 20%)
+STATISTICS
+Str 17, Dex 14, Con 15, Int 8, Wis 5, Cha 6
+Base Atk +5; CMB +8; CMD 20
+Feats Iron Will, Power Attack, Weapon Focus (halberd)
+Skills Acrobatics +10 (+18 jumping), Climb +11, Intimidate +6, Perception +13, Survival +2; Racial Modifiers +8 Acrobatics when jumping, +8 Perception
+Languages Abyssal; telepathy 100 ft., tongues
+SPECIAL ABILITIES
+Disease (Ex) A schir gnaws constantly at the ends of its halberd. This infuses the blades with disease from the demon’s filthy spittle. Any creature struck by a schir’s halberd must succeed at a DC 15 Fortitude save or contract gray pox—a frightening disease that causes weakness, gray splotches on the skin, and eventual catatonia. The save DC is Constitution-based.
+Gray Pox: Halberd—injury; save Fort DC 15; onset 1 day; frequency 1/day; effect 1d6 Str damage; cure 2 consecutive saves.

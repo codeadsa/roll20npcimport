@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/giant-tarantula-spider
+Giant Tarantula Spider
+CR 8
+XP 4,800
+N Gargantuan vermin
+Init +1; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +4
+DEFENSE
+AC 21, touch 7, flat-footed 20 (+1 Dex, +14 natural, –4 size)
+hp 115 (10d8+70)
+Fort +14, Ref +4, Will +3
+Defensive Abilities barbed hairs; Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee bite +15 (3d6+18 plus poison)
+Ranged barbed hairs +4 touch (nausea)
+Space 20 ft.; Reach 20 ft.
+STATISTICS
+Str 35, Dex 13, Con 24, Int —, Wis 10, Cha 2
+Base Atk +7; CMB +23; CMD 34 (46 vs. trip)
+Skills Climb +28*, Perception +4, Stealth –7 (–3 in webs); Racial Modifiers +8 Climb, +4 Perception, +4 Stealth (+8 in webs)
+SPECIAL ABILITIES
+Barbed Hairs (Ex) A tarantula can throw barbed hairs from its back at a creature as a ranged touch attack (range increment 20 feet). A creature struck by these hairs must make a DC 22 Fort save or be nauseated for 1d6 rounds. A creature that attacks a giant tarantula with a non-reach melee weapon must make a DC 22 Reflex save to avoid being struck by these hairs. The save DC is Con-based.
+Poison (Ex) Bite—injury; save Fort DC 24; frequency 1/round for 6 rounds; effect 1d6 Str; cure 2 consecutive saves.
+Save DC is Constitution-based with a +2 racial bonus.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/tooth-fairy
+Tooth Fairy CR 1/4
+XP 100
+CE Diminutive fey (extraplanar)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +7
+DEFENSE
+AC 16, touch 16, flat-footed 14 (+2 Dex, +4 size)
+hp 5 (2d6–2)
+Fort –1, Ref +5, Will +5
+DR 2/cold iron
+OFFENSE
+Speed 15 ft., fly 60 ft. (perfect)
+Melee +1 pliers +8 (1d4–2/ 19–20/×2), bite +7 (1d4–3 plus paralysis)
+Space 1 ft.; Reach 0 ft. (5 ft. with pliers)
+Special Attacks death throes, paralysis (1d3 rounds, DC 11), pliers, tricky thief
+Spell-Like Abilities (CL 5th; concentration +7)
+At will—mage hand, open/close
+1/day—invisibility (self only), sleep (DC 13)
+STATISTICS
+Str 5, Dex 14, Con 9, Int 8, Wis 15, Cha 14
+Base Atk +1; CMB –1 (+3 dirty trick, +7 steal); CMD 6 (8 vs. steal)
+Feats Weapon Finesse, Improved Steal B, Greater Steal B
+Skills Acrobatics +7 (+3 when jumping), Escape Artist +7, Fly +16, Perception +7, Sense Motive +7, Stealth +19; Racial Modifiers –4 Acrobatics when jumping
+Languages Sylvan
+SPECIAL ABILITIES
+Death Throes (Su) When killed, a tooth fairy explodes into a cloud of sparkling white fairy dust that clings to creatures within 5 feet. This glittery substance has a stench so foul that it sickens any creature coated by it for 1d4 rounds (Fortitude DC 10 negates). This is a poison effect. The save DC is Constitution-based.
+Pliers (Su) Each tooth fairy owns a pair of pliers it uses to torment its victims. In the hands of a tooth fairy, the pliers deal damage as a +1 dagger wielded by a Medium creature. The pliers have hardness 10 and 3 hit points. If its pliers are destroyed, a tooth fairy is stunned for 1 round. If the tooth fairy is killed, the pliers rust away into worthless splinters 1d4 rounds later. A tooth fairy can create a new pair of pliers by spending one hour crafting (no materials required), which destroys the previous pair. The pliers grant the tooth fairy the Greater Dirty Trick feat and a +4 bonus on dirty trick and steal combat maneuvers.
+Tricky Thief (Su) A tooth fairy can use a dirty trick combat maneuver with its pliers to pinch an opponent’s fingers, or a steal combat maneuver to steal an opponent’s tooth. A finger pinch deals 1 point of Dexterity damage. Stealing a tooth deals 1 point of Charisma damage and 1 point of bleed damage. If the stolen tooth is reattached within 10 minutes and the character receives any amount of magical healing, the tooth reattaches, the bleed damage ends, and the Charisma damage is cured.

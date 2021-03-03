@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-chaaor-beast-demon-tohc
+Beast Demon (Chaaor) CR 11
+XP 12,800
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +3; Senses darkvision 60 ft.; Perception +24
+DEFENSE
+AC 24, touch 14, flat-footed 21 (+3 Dex, +10 natural, –1 size, +2 profane)
+hp 126 (11d10+66)
+Fort +15, Ref +10, Will +5
+DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 22
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +18 (1d8+8 plus grab), bite +18 (2d6+8)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d8+8), roar (3/day, 60-ft. radius, Reflex DC 21 half, 3d6 sonic damage)
+Spell-Like Abilities (CL 11th)
+At will—darkness, greater teleport (self plus 50 pounds of objects only), see invisibility
+1/day—chaos hammer (DC 16), summon (level 9, 2d4 dretches or 1 chaaor 35%)
+STATISTICS
+Str 26, Dex 17, Con 22, Int 8, Wis 14,Cha 14
+Base Atk +11; CMB +20 (+24 grapple); CMD 35
+Feats Awesome Blow, Blind-Fight, Cleave, Great Cleave, Great Fortitude, Power Attack
+Skills Climb +22, Intimidate +16, Perception +24, Sense Motive +16, Stealth +13; Racial Modifiers +8 Perception
+Languages Abyssal, Common; telepathy 100 ft.

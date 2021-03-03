@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-gar/gar-giant
+Giant Gar
+CR 6
+XP 2,400
+N Huge animal (aquatic)
+Init +4; Senses low-light vision; Perception +11
+DEFENSE
+AC 19, touch 8, flat-footed 19 (+11 natural, –2 size)
+hp 73 (7d8+42)
+Fort +11, Ref +7, Will +5
+OFFENSE
+Speed swim 60 ft.
+Melee bite +13 (2d6+15 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks swallow whole (2d6+10 bludgeoning damage, AC 15, hp 7)
+STATISTICS
+Str 30, Dex 10, Con 23, Int 1, Wis 13, Cha 2
+Base Atk +5; CMB +17 (+21 grapple); CMD 27 (can’t be tripped)
+Feats Improved Initiative, Iron Will, Lightning Reflexes, Power Attack
+Skills Perception +11, Swim +18

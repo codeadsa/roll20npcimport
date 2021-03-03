@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/thoqqua
+Thoqqua CR 2
+XP 600
+N Medium outsider (earth, elemental, extraplanar, fire)
+Init +1; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +10; Aura molten body
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+1 Dex, +4 natural)
+hp 22 (3d10+6)
+Fort +5, Ref +4, Will +2
+Immune fire, elemental traits
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 30 ft., burrow 20 ft.
+Melee slam +4 (1d6+1 plus burn)
+Special Attacks burn (1d6, DC 13)
+STATISTICS
+Str 13, Dex 13, Con 15, Int 6, Wis 12, Cha 10
+Base Atk +3; CMB +4; CMD 15 (can’t be tripped)
+Feats Nimble Moves, Skill Focus (Perception)
+Skills Acrobatics +7, Perception +10, Stealth +7, Survival +7
+Languages Ignan (cannot speak)
+SPECIAL ABILITIES
+Molten Body (Su) A thoqqua’s body is hot enough to melt stone. Anyone striking a thoqqua with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a thoqqua or is grappled by one takes 3d6 points of fire damage each round the grapple persists. A creature that strikes a thoqqua with a manufactured weapon can attempt a DC 13 Reflex save to pull the weapon away from the creature’s molten body quickly enough to avoid having the weapon take 1d6 points of fire damage—damage caused to a weapon in this manner is not halved as is normal for damage caused to items, and ignores the first 5 points of hardness possessed by the item. As a result, most metal weapons can generally safely strike a thoqqua without taking much damage, but wooden weapons have a significant chance of burning away if used against one of these creatures. The save DC is Constitution-based.

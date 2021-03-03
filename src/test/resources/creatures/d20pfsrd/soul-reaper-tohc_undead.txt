@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/soul-reaper-tohc
+Soul Reaper CR 15
+XP 51,200
+NE Large undead
+Init +8; Senses darkvision 60 ft., see invisibility; Perception +30
+DEFENSE
+AC 29, touch 13, flat-footed 25 (+4 Dex, +16 natural, -1 size)
+hp 231 (22d8+110 plus 22)
+Fort +14, Ref +13, Will +18
+Defensive Abilities channel resistance +4, inseparable weapon; DR 15/silver and magic; Immune undead traits; SR 26
+OFFENSE
+Speed 40 ft.
+Melee +1 scythe +25/+20/+15/+10 (2d6+13/19-20)
+Space 10 ft.; Reach 10 ft.
+Special Attacks soul slash
+Spell-like Abilities (CL 22nd):
+Constant—see invisibility
+At will—desecrate, unholy blight (DC 19)
+1/day—blindness/deafness (DC 17), symbol of pain (DC 20), unholy aura (DC 23)
+STATISTICS
+Str 27, Dex 19, Con –, Int 18, Wis 21, Cha 20
+Base Atk +16; CMB +25; CMD 39
+Feats Cleave, Critical Focus, Great Cleave, Great Fortitude, Improved Critical (scythe), Improved Initiative, Lightning Reflexes, Power Attack, Toughness, Vital Strike, Weapon Focus (scythe)
+Skills Climb +33, Diplomacy +14, Intimidate +30, Knowledge (arcana) +29, Knowledge (religion) +29, Perception +30, Sense Motive +30, Stealth +25, Survival +18
+SQ inseparable weapon
+Gear +1 scythe
+SPECIAL ABILITIES
+Soul Slash (Su) If a soul reaper scores a critical hit with its scythe, the target must succeed on a DC 26 Fortitude save or have its soul torn from its body and pulled into the soul reaper’s scythe. If the save succeeds, the victim takes an extra 3d6 points of damage. A soul reaper’s scythe can hold a number of souls equal to its Charisma bonus (four souls for a typical soul reaper). This effect is similar to a trap the soul spell. The save DC is Charisma-based.
+A creature’s soulless body collapses into a desiccated husk, and in one day crumbles to dust.
+To reclaim a captured soul, the reaper must be destroyed and its scythe shattered on consecrated ground. When the scythe is shattered, all souls trapped are released and seek their original body (if it’s been less than one day since the body was killed). Creatures without a body are left to wander in spirit form but can be returned to life through the successful casting of a miracle, wish, or true resurrection spell.
+Inseparable Weapon (Su) A soul reaper has a mystic and magical connection to its scythe. If separated from its scythe (if the soul reaper is disarmed, for example) and within 100 feet of it, it may summon it to its hands as a move action. If an opponent is holding the weapon when the reaper summons it, that opponent must succeed on a DC 26 Strength check or the weapon flies from its hands to the soul reaper. The check DC is Charisma-based.

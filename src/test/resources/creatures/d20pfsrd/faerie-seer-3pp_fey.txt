@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/faerie-seer-3pp
+Faerie Seer CR 7
+XP 3,200
+N Medium fey
+Init +2; Senses blindsight; Perception +3; Aura aura of unraveled fate (20 ft.; DC 19)
+DEFENSE
+AC 20, touch 13, flat-footed 16 (+7 deflection, +2 Dex, +1 dodge)
+hp 65 (10d6+30)
+Fort +5; Ref +11; Will +12
+DR 5/cold iron
+OFFENSE
+Speed 30 ft.
+Melee mwk dagger +6 (1d4; 19-20/x2)
+Spell-Like Abilities (CL 10th; concentration +??)
+Constant—comprehend languages, detect magic, detect thoughts (DC 16)
+3/day—contact other plane, detect scrying, scrying (DC 19)
+1/day—divination, legend lore
+Spells Known (CL 6th; concentration +??)
+3rd (4/day)—clairaudience/clairvoyance
+2nd (6/day)—locate object, see invisibility
+1st (7/day)—detect undead, identify, sleep (DC 15), true strike
+0th (at will)—arcane mark, daze (DC 14), detect poison, ghost sound, light, read magic
+STATISTICS
+Str 10, Dex 14, Con 16, Int 18, Wis 16, Cha 19
+Base Atk +5; CMB +5; CMD 17
+Feats Ability Focus (aura of unraveled fate), Ability Focus (scrying), Dodge, Combat Casting, Skill Focus (knowledge (history))
+Skills Bluff +17, Diplomacy +17, Knowledge (arcana) +17, Knowledge (history) +20, Knowledge (nature) +17, Knowledge (the planes) +17, Knowledge (religion) +17, Linguistics +17, Perform (oratory) +17, Spellcraft +17
+Languages Aquan, Auran, Common, Draconic, Elven, Gnome, Halfling, Ignan, Sylvan, Terran
+SPECIAL ABILITIES
+Aura of Unraveled Fate (Su) A faerie seer stands outside the fabric of time. As such, the area around him is in constant flux as a myriad of possible futures exist within the same space and are constantly competing for dominance. Attack rolls made within the aura must be rolled twice and the attacker must take the lower of the two results. A Will save DC 19 can be made to avoid this effect.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dog/breeds/bull-mastiff
+Bull Mastiff
+CR 1/2
+XP 200
+N Medium Animal
+Init +2; Senses low-light vision, scent; Perception +8
+
+DEFENSE
+AC 13, touch 12, flat-footed 11 (+2 Dex, +1 natural)
+hp 13 (2d8+4)
+Fort +5, Ref +5, Will +1
+
+OFFENSE
+Speed 40 ft.
+Melee bite +3 (1d6+3 plus trip)
+STATISTICS
+Str 15, Dex 15, Con 15, Int 2, Wis 12, Cha 6
+Base Atk +1; CMB +3; CMD 15 (19 vs. trip)
+Feats Skill Focus (Perception)
+Skills Acrobatics +5 (+13 jumping), Perception +8, Survival +2 (+6 scent tracking); Racial Modifiers +4 Acrobatics when jumping, +4 Survival when tracking by scent
+SPECIAL ABILITIES
+Tenacious (Ex)
+When ordered to track prey (usually humanoid prey), a Bull Mastiff receives a +4 bonus to any Will saves against enchantments or illusions directed at it, and the DC of any Handle Animal skill check by anyone other than the dog’s master is 5 higher.
+
+Carrying Capacity: A light load for a Bull Mastiff is up to 99 pounds; a medium load, 100-200 pounds; a heavy load, 201-300 pounds. A Bull Mastiff can drag 1,500 pounds.
+
+Average Price: 45gp

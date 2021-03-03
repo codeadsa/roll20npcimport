@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/skeleton-medium/skeleton-multiplying-t-rex
+Multiplying T-Rex Skeleton CR 9
+XP 6,400
+NE Gargantuan undead
+Init +6; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 14, touch 8, flat-footed 12 (+2 Dex, +6 natural, –4 size)
+hp 81 (18d8)
+Fort +6, Ref +8, Will +11
+DR 5/bludgeoning; Immune cold, undead traits
+OFFENSE
+Speed 40 ft.
+Melee bite +20 (4d6+22)
+Space 20 ft.; Reach 20 ft.
+STATISTICS
+Str 32, Dex 15, Con —, Int —, Wis 10, Cha 10
+Base Atk +13; CMB +28; CMD 40
+Feats Improved InitiativeB
+SQ multiplication, powerful bite
+SPECIAL ABILITIES
+Multiplication (Su) When a multiplying skeleton is reduced to 0 hit points, its bones reform 1d4 rounds later into two smaller multiplying skeletons with 9 Hit Dice each. Each resulting multiplying skeleton continues to reform into smaller and smaller sizes (with half the HD of the previous each time it multiplies.) A multiplying tyrannosaurus skeleton reforms into two Large skeletons with 9 HD each, each of which then reforms into two Small skeletons with 4 HD each. When these four Small skeletons are killed, the skeleton no longer multiplies and is finally destroyed.
+Powerful Bite (Ex) A multiplying tyrannosaurus skeleton applies twice its Strength modifier to bite damage.
+Variants Large (9 HD)
+AC 14, touch 12, flat-footed 11 (+3 Dex, +2 natural, –1 size)
+hp 40 (9d8)
+Fort +3, Ref +3, Will +6
+Melee bite +12 (2d6+14)
+Space 10 ft.; Reach 10 ft.
+Str 24, Dex 17
+Base Atk +6; CMB +14; CMD 27
+Small 4 HD
+AC 17, touch 16, flat-footed 12 (+5 Dex, +1 natural, +1 size)
+hp 18 (4d8)
+Fort +1, Ref +6, Will +4
+Melee bite +5 (1d6+2)
+Str 12, Dex 21
+Base Atk +3; CMB +3; CMD 18

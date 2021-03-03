@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/drake-splinter-tohc
+Splinter Drake CR 10
+XP 9,600
+N(E) Large plant
+Init +2; Senses low-light vision; Perception +21
+DEFENSE
+AC 23, touch 11, flat-footed 21 (+2 Dex, +12 natural, –1 size)
+hp 178 (17d8+102)
+Fort +16; Ref +7; Will +8
+Immune plant traits; Resist fire 10
+OFFENSE
+Speed 40 ft.
+Melee bite +20 (2d6+8/19–20), 2 claws +19 (1d6+8)
+Ranged thorn volley +13 (3d6)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40 ft. cone, DC 24, 6d6 slashing and piercing), poison
+STATISTICS
+Str 27, Dex 15, Con 23, Int 10, Wis 12, Cha 10
+Base Atk +12; CMB +21; CMD 33 (37 vs. trip)
+Feats Cleave, Combat Reflexes, Critical Focus, Great Cleave, Improved Critical (bite), Improved Natural Attack (bite), Iron Will, Power Attack, Weapon Focus (bite)
+Skills Perception +21, Stealth +17 (+29 in forested areas); Racial Modifiers +12 Stealth in forested areas
+Languages Common, Sylvan
+SQ improved woodland stride
+SPECIAL ABILITIES
+Breath Weapon (Ex) A splinter drake has two breath weapons, both of which emit razor-sharp thorns. The main breath weapon, useable every 1d4 rounds, is a 40-ft. cone that deals 6d6 points of piercing and slashing damage. Its other breath weapon is a volley of thorns spit at a single target as a ranged attack for 3d6 points of piercing damage.
+Improved Woodland Stride (Su) A splinter drake can move through any sort of undergrowth (natural thorns, briars, overgrown areas, and similar terrain) at its normal speed without taking damage or suffering other impairment. This includes thorns, briars, and overgrown areas that are magically manipulated to impede motion.
+Poison (Ex) Three times per day as a free action, a splinter drake can regurgitate its poisonous stomach acids into its mouth and either use it in conjunction with a bite attack or release it along with either version of its breath weapon. The act of regurgitating the poison is a free action. Once it makes a successful bite attack or uses its breath weapon, the poison is used up (though the splinter drake can “reload” again on its next turn if it has any more uses of its poison attack left for the day).
+Splinter Drake Venom: Bite or breath weapon—injury or contact, save Fort DC 24, frequency 1/round for 5 rounds, effect 1d4 Con, cure 1 save.
+Unique Splinter Drake
+Rarely, though not completely unheard of, a splinter drake takes levels in a class, almost always the druid or ranger class. For example:
+Splinter Drake Tracker
+

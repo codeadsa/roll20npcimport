@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/crab-bone-kp
+Bone Crab
+CR 2
+XP 600
+N Small vermin (aquatic)
+Init +6; Senses darkvision 60 ft., hive mind; Perception +2
+DEFENSE
+AC 18, touch 13, flat-footed 16 (+2 Dex, +5 natural, +1 size)
+hp 19 (3d8+6)
+Fort +5, Ref +3, Will +2
+DR 5/bludgeoning
+OFFENSE
+Speed 20 ft., swim 10 ft.
+Melee 2 claws +4 (1d4 plus disease)
+Special Attacks disease, leap (2 claws +4, 1d4)
+STATISTICS
+Str 10, Dex 14, Con 14, Int 1, Wis 12, Cha 4
+Base Atk +2; CMB +1; CMD 13 (29 vs. trip)
+Feats Improved Initiative, Weapon Focus (claw)
+Skills Perception +2, Stealth +8 (+16 among bones), Swim +11; Racial Modifiers +8 Stealth (among bones), +8 Swim
+SPECIAL ABILITIES
+Disease (Ex) White ghost shivers—injury, ingested; save Fort DC 13; onset 1d3 days; frequency 1/day; effect 1d3 Con damage and 1d3 Wis damage; cure 2 consecutive saves.
+Leap (Ex) Bone crabs have incredibly powerful legs and can leap up to 10 ft. straight ahead or backward as a move action. This counts as a charge attack.
+Hive Mind (Ex) All bone crabs within 100 ft. of one another can communicate perfectly. If one is aware of danger, they all are. If one in a particular group is not flat-footed, none of them is flatfooted. No bone crab in such a group is considered flanked unless all are.

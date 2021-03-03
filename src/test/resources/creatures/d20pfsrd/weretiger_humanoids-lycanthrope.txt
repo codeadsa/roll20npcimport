@@ -1,0 +1,49 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lycanthrope/weretiger
+Weretiger (Human Form)
+CR 4
+XP 1,200
+Human natural weretiger rogue 4
+NE Medium humanoid (human, shapechanger)
+Init +7; Senses low-light vision, scent; Perception +10
+DEFENSE
+AC 16, touch 13, flat-footed 13 (+3 armor, +3 Dex)
+hp 29 (4d8+8)
+Fort +2, Ref +7, Will +4
+Defensive Abilities evasion, trap sense +1, uncanny dodge
+OFFENSE
+Speed 30 ft.
+Melee mwk short sword +5 (1d6+1/19–20)
+Ranged mwk dagger +6 (1d4+1/19–20)
+Special Attacks sneak attack +2d6
+STATISTICS
+Str 13, Dex 16, Con 12, Int 10, Wis 16, Cha 8
+Base Atk +3; CMB +4; CMD 17
+Feats Improved Initiative, Power Attack, Skill Focus (Stealth)
+Skills Acrobatics +9, Climb +7, Handle Animal +3, Intimidate +6, Perception +10, Sense Motive +10, Stealth +12, Survival +7, Swim +7
+Languages Common
+SQ change shape (human, hybrid, and tiger; polymorph), lycanthropic empathy (tigers and dire tigers), rogue talents (bleeding attack +2, fast stealth), trapfinding +2
+Weretiger (Hybrid Form)
+CR 4
+XP 1,200
+Human natural weretiger rogue 4
+NE Large humanoid (human, shapechanger)
+Init +7; Senses low-light vision, scent; Perception +10
+
+DEFENSE
+AC 20, touch 12, flat-footed 17 (+3 armor, +3 Dex, +5 natural, -1 size)
+hp 37 (4d8+16)
+Fort +4, Ref +7, Will +4
+Defensive Abilities evasion, trap sense +1, uncanny dodge
+DR 10/silver
+OFFENSE
+Speed 30 ft.
+Melee bite +8 (2d6+6 plus grab and curse of lycanthropy), 2 claws +8 (1d8+6 plus grab)
+Ranged mwk dagger +6 (1d6+6/19–20)
+Special Attacks pounce, rake (2 claws +8, 1d8+6), sneak attack +2d6
+STATISTICS
+Str 23, Dex 16, Con 17, Int 10, Wis 16, Cha 8
+Base Atk +3; CMB +10 (+14 grapple); CMD 23
+Feats Improved Initiative, Power Attack, Skill Focus (Stealth)
+Skills Acrobatics +9, Climb +12, Handle Animal +3, Intimidate +6, Perception +10, Sense Motive +10, Stealth +8, Survival +7, Swim +2
+Languages Common
+SQ change shape (human, hybrid, and tiger; polymorph), lycanthropic empathy (tigers and dire tigers), rogue talents (bleeding attack +2, fast stealth), trapfinding +2

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/blood-orchid-fgg
+Blood Orchid CR 5
+XP 1,600
+LE Large aberration
+Init +5; Senses all-around vision, darkvision 60 ft.; Perception +15
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 52 (7d8+21)
+Fort +5; Ref +5; Will +8
+Immune sonic; Resist acid 10, cold 10, electricity 10, fire 10
+OFFENSE
+Speed 5 ft., fly 30 ft. (good)
+Melee 6 tentacles +7 (1d3+2 plus grab plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks blood drain
+STATISTICS
+Str 15, Dex 12, Con 16, Int 11, Wis 12, Cha 13
+Base Atk +5; CMB +8 (+12 to grapple); CMD 19
+Feats Improved Initiative, Iron Will, Lightning Reflexes, Weapon Focus (tentacle)
+Skills Fly +7, Intimidate +10, Knowledge (dungeoneering) +10, Perception +15, Stealth +7; Racial Modifiers +4 Perception
+SQ telepathic link
+SPECIAL ABILITIES
+All-Around Vision (Ex) A blood orchid sees in all directions at once. It cannot be flanked.
+Blood Drain (Ex) On a successful grapple check with two or more tentacles against a single foe a blood orchid can pull the grappled creature to the mouth on its underside as a free action that does not provoke an attack of opportunity.
+The mouth latches on and drains blood from the victim.
+Each round it maintains its grapple, the blood orchid automatically deals 1d4 points of bite damage and 1 point of Constitution damage as it drains its victim’s blood.
+Poison (Ex) Tentacle—injury; save Fort DC 16; frequency 1/round for 4 rounds; effect unconsciousness; cure 1 save.
+Telepathic Bond (Ex) Blood orchids communicate through a non-magical telepathic bond. They can sense emotions in other blood orchids at a distance of 100 ft. or less, and emotions in other creatures at a range of five feet. They can communicate mentally with each other through full telepathy at a distance of 20 ft. or less, and can share knowledge very rapidly when touching each other.

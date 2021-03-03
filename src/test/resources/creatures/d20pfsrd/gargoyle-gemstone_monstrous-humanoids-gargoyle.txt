@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/gargoyle/gargoyle-gemstone
+Gemstone Gargoyle
+CR 6
+XP 1,200
+CE Medium monstrous humanoid (earth)
+Init +8; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 20, touch 14, flat-footed 16 (+4 Dex, +6 natural)
+hp 52 (5d10+25)
+Fort +6, Ref +8, Will +6
+DR 10/adamantine; Resist 10 acid, cold, electricity, OR fire (chose one at random); SR 14
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee 2 claws +9 (1d6+4), bite +9 (1d4+4), gore +9 (1d4+4)
+STATISTICS
+Str 19, Dex 18, Con 20, Int 10, Wis 15, Cha 11
+Base Atk +5; CMB +9; CMD 23
+Feats Hover, Improved Initiative, Skill Focus (Fly)
+Skills Fly +15, Intimidate +8, Perception +10, Stealth +14 (+18 in stony areas); Racial Modifiers +2 Stealth (+6 in stony environs)
+Languages Common, Terran
+SQ freeze
+SPECIAL ABILITIES
+Freeze (Ex) A gargoyle can hold itself so still it appears to be a statue. A gargoyle that uses freeze can take 20 on its Stealth check to hide in plain sight as a stone statue.

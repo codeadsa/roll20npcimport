@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-annis
+Annis Hag
+CR 6
+XP 2,400
+CE Large monstrous humanoid
+Init +1; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 20, touch 10, flat-footed 19 (+1 Dex, +10 natural, -1 size)
+hp 66 (7d10+28)
+Fort +8, Ref +6, Will +6
+DR 5/bludgeoning; SR 17
+OFFENSE
+Speed 40 ft.
+Melee bite +13 (1d6+7), 2 claws +13 (1d6+7 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 2d6+10)
+Spell-Like Abilities (CL 7th; concentration +7)
+3/day—alter self, fog cloud
+STATISTICS
+Str 25, Dex 12, Con 18, Int 13, Wis 13, Cha 10
+Base Atk +7; CMB +15 (+19 grapple); CMD 26
+Feats Alertness, Blind-Fight, Great Fortitude, Intimidating Prowess
+Skills Bluff +7, Diplomacy +7, Intimidate +17, Perception +13, Sense Motive +3, Stealth +7
+Languages Common, Giant

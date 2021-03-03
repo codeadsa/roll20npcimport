@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/botfly-swarm
+Botfly Swarm CR 4
+XP 1,200
+N Fine vermin (swarm)
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 18, touch 18, flat-footed 18 (+8 size)
+hp 40 (9d8)
+Fort +6, Ref +3, Will +3
+Defensive Abilities swarm traits; Immune mind-affecting effects, weapon damage Weaknesses swarm traits
+OFFENSE
+Speed 0 ft., fly 60 ft. (good)
+Melee swarm (2d6 plus infestation)
+Space 10 ft.; Reach 0 ft.
+Special Attacks disease, distraction (DC 14), suffocation
+STATISTICS
+Str 2, Dex 11, Con 10, Int —, Wis 11, Cha 2
+Base Atk +6; CMB —; CMD —
+Skills Fly +12
+SPECIAL ABILITIES
+Infestation (Ex) A living creature injured by a botfly swarm’s attack must make a DC 14 Fortitude save or be infested with the swarm’s larvae. The larvae may be cut out of the host with a DC 15 Heal check, though each attempt inflicts 1d8 points of damage whether or not it’s successful. A remove disease spell destroys all larvae without further harm to the host.
+Botfly larvae: infestation; save Fort DC 14; onset 1 day; frequency 1/day; effect 1d4 Con damage.

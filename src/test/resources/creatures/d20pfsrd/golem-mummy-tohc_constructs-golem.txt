@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-mummy-tohc
+Mummy Golem CR 6
+XP 2,400
+N Medium construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 20, touch 10, flat-footed 20 (+10 natural)
+hp 64 (8d10+20)
+Fort +2; Ref +2; Will +2
+DR 10/magic and slashing or piercing; Immune cold, construct traits
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +13 (1d8+5 plus grab)
+Special Attacks constrict (1d8+5), strangulation
+STATISTICS
+Str 20, Dex 10, Con —, Int —, Wis 11, Cha 1
+Base Atk +8; CMB +13 (+17 grapple); CMD 23
+SPECIAL ABILITIES
+Strangulation (Ex) As a standard action a mummy golem can attempt to wrap bandages from its body around a grappled foe’s throat. The mummy golem makes a grapple check. If the mummy golem wins the check, it slips several bandages around the foe’s throat and deals 1d4 points of strangulation damage in addition to constriction damage. The bandages can come from anywhere on its body, not just its arm or hand. Therefore, a mummy golem can continue to use its slam attacks, constriction, and strangulation attack against other foes. A Medium mummy golem can strangle a maximum of 4 opponents at one time using this ability. A Large mummy golem can strangle a maximum of 6 opponents at one time using this ability. A mummy golem is not considered grappled while it is strangling an opponent, and can move and attack normally, but it cannot move more than 10 feet away from an opponent while strangling it.
+Mummy Golem Construction
+A mummy golem’s body is crafted from bandages, mummy dust, and exotic oils and spices that cost at least 1,000 gp.
+CL 8th; Price 22,000 gp
+CONSTRUCTION REQUIREMENTS Craft Construct, animate dead, geas/quest, limited wish, polymorph any object; Special creator must be caster level 8th ; Skill Craft (weaving) DC 13; Cost 11,500 gp

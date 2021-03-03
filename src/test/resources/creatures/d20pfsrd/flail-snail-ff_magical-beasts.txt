@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/flail-snail-ff
+Snail, Flail CR 4
+XP 1,200
+N Large magical beast
+Init -1; Senses darkvision 60 ft, low-light vision; Perception +7
+DEFENSE
+AC 18, touch 8, flat-footed 18 (-1 Dex, +10 natural, -1 size)
+hp 38 (4d10+16)
+Fort +8, Ref +3, Will +1
+Defensive Abilities warp spell; Immune fire, poison
+Weaknesses light blindness
+OFFENSE
+Speed 10 ft.
+Melee 4 slams +7 (1d6+3)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 17, Dex 8, Con 18, Int 5, Wis 10, Cha 2
+Base Atk +4; CMB +8; CMD 17 (can’t be tripped)
+Feats Alertness, Weapon Focus (slam)
+Skills Perception +7, Sense Motive +2, Stealth +0
+Languages none
+SQ warp spell
+SPECIAL ABILITIES
+Warp Spell (Su) When a spell directly targets a snail flail, there is a chance the protective minerals in its shell cause the spell to malfunction in some way.
+Roll 1d10 to determine what occurs when a spell is cast at the flail snail. Area spells such as fireball are not affected by warp spell.
+1d10 Effect
+1-2 The spell’s energy backfires and disorients the caster for 1d4 rounds. The caster must make a DC 13 Concentration check to cast a spell while disoriented.
+3-4 The spell rebounds and strikes the creature nearest the flail snail.
+5-7 Spell functions normally.
+8-9 The spell fails.
+10 The spell strikes the caster instead.

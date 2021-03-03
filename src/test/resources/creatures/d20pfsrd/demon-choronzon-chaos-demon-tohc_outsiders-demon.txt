@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-choronzon-chaos-demon-tohc
+Chaos Demon (Choronzon) CR 18
+XP 153,600
+CE Huge outsider (chaotic, demon, evil, extraplanar)
+Init +6; Senses darkvision 60 ft.; Perception +39; Aura confusion (10 ft., DC 24)
+DEFENSE
+AC 32, touch 10, flat-footed 30 (+2 Dex, +22 natural, –2 size)
+hp 290 (20d10+180)
+Fort +23, Ref +14, Will +10
+DR 10/cold iron and good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 29
+OFFENSE
+Speed 40 ft.
+Melee bite +30 (2d8+11/19–20), 2 claws +29 (1d8+11 plus daze)
+Space 15 ft.; Reach 15 ft.
+Special Attacks breath weapon (40-ft. cone, 10d6 damage, Fort DC 29 half, usable every 1d4 rounds), daze (claw attack, Fort DC 31 negates, dazed 1d3 rounds)
+Spell-Like Abilities (CL 20th)
+At will—cause fear (DC 15), greater teleport (self plus 50 pounds of objects only), true seeing
+3/day—chaos hammer (DC 18), unholy aura (DC 22), unholy blight (DC 18)
+1/day—word of chaos (DC 21), summon (level 5, 1d4 hezrous, 1d4 nalfeshnees, or 2d4 vrocks 35%)
+STATISTICS
+Str 33, Dex 15, Con 29, Int 12, Wis 14, Cha 18
+Base Atk +20; CMB +33; CMD 45
+Feats Awesome Blow, Cleave, Great Fortitude, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception), Weapon Focus (bite)
+Skills Bluff +27, Climb +34, Escape Artist +25, Intimidate +27, Perception +39, Sense Motive +25, Survival +22; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common; telepathy 100 ft.
+SPECIAL ABILITIES
+Aura of Confusion (Su) A creature that successfully saves cannot be affected again by that choronzon’s aura of confusion for one day. Other demons are immune to the choronzon’s aura of confusion. The save DC is Charisma-based.
+Breath Weapon (Su) Once every 1d4 rounds, a choronzon can breathe forth a cone of bluish gas in a 40-foot cone. The gas lingers in the area for 1d2 rounds before dispersing. A creature killed by a choronzon’s breath weapon has its body break apart into its individual protons, neutrons, and electrons. Creatures killed in this manner can only be restored to life by a miracle, wish, or true resurrection spell. The save DC is Constitution-based.

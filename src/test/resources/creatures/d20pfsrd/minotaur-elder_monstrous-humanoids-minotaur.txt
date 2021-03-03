@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/minotaur/minotaur-elder
+Minotaur Elder CR 9
+CE Large monstrous humanoid
+Init +0(+4 in mazes); Senses darkvision 60 ft.; Perception +22
+DEFENSE
+AC 22, touch 9, flat-footed — (see natural cunning) (+5 armor, +8 natural, –1 size)
+hp 114 (12d10+48)
+Fort +10, Ref +8, Will +11
+Defensive Abilities natural cunning
+OFFENSE
+Speed 20 ft.
+Melee +1 greataxe +19/+14/+9 (3d6+12/x3) and gore +13 (1d8+3)
+Power Attack +1 greataxe +15/+10/+5 (3d6+24/x3) and gore +9 (1d8+11) Ranged minotaur double crossbow +10 (4d8; 19–20/x2 (see sidebar); 120 ft.; reload 2 standard actions)
+Space 10 ft.; Reach 10 ft.
+Special Attacks powerful charge (gore +15, 4d6+10)
+Spell-Like Abilities (CL 9th):
+3/day—fog cloud, glyph of warding (blast 15′ radius; 4d8 fire damage; Reflex DC 16 for half), stone shape
+1/day—maze, wall of stone
+TACTICS
+Before Combat Minotaur elders use their spell-like abilities extensively before combat to prepare the area for a coming battle, littering the battlefield with glyphs of warding and using stone shape to create pits and traps.
+During Combat Like ordinary minotaurs, minotaur elders begin combat with a terrifying charge attack, using its Power Attack and Impaling Charge feats to attempt to kill or grapple a foe. A minotaur elder uses its wall of stone and fog cloud spell-like abilities to divide or confuse his foes and uses Vital Strike when forced to move before attacking. It attacks any foes it is unable to reach with its double crossbow. Its maze ability is reserved for the most deadly opponent or the last foe, so the elder might toy with the trapped foe.
+Morale Minotaur elders attempt to flee if reduced to 5 hp or less.
+STATISTICS
+Str 24, Dex 10, Con 19, Int 9, Wis 16, Cha 10
+Base Atk +12; CMB +20 (+22 bull rush); CMD 30 (32 vs. bull rush)
+Feats Cleave, Great Fortitude, Impaling Charge, Improved Bull Rush, Power Attack, Vital Strike
+Skills Intimidate +8 (+12 vs. Medium or smaller), Perception +22, Stealth +3(+11 in mazes), Survival +22; Racial Modifiers +4 Perception, +4 Survival, +8 Stealth (in mazes/labyrinths)
+Languages Giant
+SQ maze mastery, natural cunning
+Gear greataxe, scale mail
+SPECIAL ABILITIES
+Maze Mastery (Su) Minotaur elders possess a supernatural cunning when in the confines of a maze or labyrinth. In such areas they receive a +4 bonus on initiative checks and a +8 racial bonus on Stealth checks. In addition, a minotaur elder may enter a maze spell as it is being cast along with the intended target so long as the target is within 30 feet. This includes maze spells cast by the minotaur elder. Once inside, the minotaur elder can leave the maze as a move action. The minotaur elder and the target appear at opposite ends of a 30-foot-square chamber where all exits lead to the maze itself (and the only way out for the target).
+Natural Cunning (Ex) Although minotaurs are not especially intelligent, they possess innate cunning and logical ability. This gives them immunity to maze spells and prevents them from ever becoming lost. A minotaur elder’s natural cunning ability protects it from ever being caught flat-footed.

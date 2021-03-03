@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/crypt-thing-TOHC
+Crypt Thing CR 5
+XP 1,600
+N Medium undead
+Init +6; Senses darkvision 60 ft.; Perception +17
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 56 (7d8+21)
+Fort +5, Ref +4, Will +7
+Defensive Abilities channel resistance +4; DR 10/magic; Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +7 (1d6+1)
+Special Attacks teleport other (DC 20)
+STATISTICS
+Str 12, Dex 14, Con —, Int 12, Wis 14, Cha 16
+Base Atk +5; CMB +6; CMD 18
+Feats Alertness, Improved InitiativeB, Skill Focus (Perception), Skill Focus (Sense Motive), Weapon Finesse
+Skills Bluff +10, Intimidate +13, Knowledge (history) +8, Perception +17, Sense Motive +17
+Languages Common
+SPECIAL ABILITIES
+Claws (Ex) A crypt thing’s claws are treated as magic for the purpose of overcoming damage reduction.
+Teleport Other (Su) Once per day as a standard action, a crypt thing can teleport all creatures within 50 feet of it to a randomly determined location. An affected creature can attempt a DC 20 Will save to negate the effects. The save DC is Charisma-based and includes a +2 racial bonus.
+An affected creature is teleported in a random direction (roll 1d4: 1, north; 2, south; 3, east; 4, west) and a random distance (1d10 x 100 feet) away from the crypt thing. Roll randomly for each creature that fails its saving throw. A teleported creature arrives in the closest open space at the determined destination.
+A teleported creature can arrive in mid-air rather than on a solid surface, if the crypt thing wishes. A creature that arrives in mid-air takes falling damage when it contacts a solid surface (unless it has some means to prevent falling, such as the ability to fly, or a feather fall spell).

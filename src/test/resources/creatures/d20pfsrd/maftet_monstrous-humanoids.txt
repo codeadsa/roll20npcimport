@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/maftet
+Maftet CR 6
+XP 2,400
+N Medium monstrous humanoid
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +13
+DEFENSE
+AC 20, touch 13, flat-footed 17 (+4 armor, +3 Dex, +3 natural)
+hp 68 (8d10+24)
+Fort +5, Ref +9, Will +8
+OFFENSE
+Speed 40 ft., fly 60 ft. (poor)
+Melee mwk scimitar +11/+11/+6/+6 (1d6+3/18-20)
+Special Attacks paired weapons, raptor dive
+Spell-Like Abilities (CL 8th; concentration +8)
+Constant—mage armor
+3/day—magic weapon
+1/day—cat’s grace, protection from evil
+STATISTICS
+Str 16, Dex 17, Con 16, Int 10, Wis 15, Cha 11
+Base Atk +8; CMB +11; CMD 24
+Feats Combat ReflexesB, Double Slice, Improved Two-Weapon Fighting, Two-Weapon Fighting, Weapon Focus (scimitar)
+Skills Fly +10, Knowledge (history) +8, Perception +13, Stealth +18; Racial Modifiers +4 Stealth
+Languages Common, Sphinx
+SQ runic tattoos
+SPECIAL ABILITIES
+Paired Weapons (Ex) Because of its intense training wielding a scimitar in each hand, a maftet’s off-hand scimitar is treated as a light weapon.
+Raptor Dive (Ex) When airborne, a maftet can swoop down and strike at lightning speed. This is equivalent to an aerial charge, but it must move downward at least 10 feet and may dive at twice its normal flying speed. Doing so grants the maftet a +2 bonus on its attack rolls and allows it to make a full attack at the end of the raptor dive.
+Runic Tattoos (Su) The tattoos scribed on a maftet’s body power its spell-like abilities and glow when those abilities are used. A maftet can activate up to two of its spell-like abilities as a standard action. It may make a Fortitude save to resist the effects of an erase spell cast on its tattoos, but if it fails, it loses access to its spell-like abilities for 24 hours.

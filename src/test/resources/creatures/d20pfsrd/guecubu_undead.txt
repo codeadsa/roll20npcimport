@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/guecubu
+Guecubu CR 8
+XP 4,800
+CE Medium undead (earth)
+Init +8; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +18; Aura broken ground (30 ft., DC 20)
+DEFENSE
+AC 21, touch 15, flat-footed 16 (+4 Dex, +1 dodge, +6 natural)
+hp 104 (11d8+55); fast healing 5
+Fort +8, Ref +7, Will +11
+Defensive Abilities channel resistance +2; DR 5/bludgeoning; Immune electricity, undead traits; Resist cold 10
+OFFENSE
+Speed 30 ft., burrow 15 ft.; earth glide
+Melee bite +14 (1d8+6 plus misfortune), 2 slams +14 (1d6+6 plus misfortune)
+Spell-Like Abilities (CL 8th; concentration +13)
+At will—stone shape
+3/day—soften earth and stone, spike growth (DC 18)
+1/day—spike stones (DC 19), transmute mud to rock (DC 20), transmute rock to mud (DC 20)
+STATISTICS
+Str 22, Dex 18, Con —, Int 13, Wis 18, Cha 21
+Base Atk +8; CMB +14; CMD 29
+Feats Combat Expertise, Dodge, Improved Initiative, Mobility, Spring Attack, Whirlwind Attack
+Skills Acrobatics +15, Knowledge (nature) +12, Perception +18, Sense Motive +18, Stealth +18
+Languages Abyssal, Common
+SPECIAL ABILITIES
+Broken Ground (Su) The ground in a 30-foot radius around a guecubu ripples and shudders unnaturally. This transforms the area surrounding a guecubu into difficult terrain. A guecubu can move through this area with no penalty. Consecrated ground cannot be affected by this ability, nor can any area warded by a magic circle against chaos or a magic circle against evil.
+Misfortune (Su) A creature struck by a guecubu must make a DC 20 Will save or become permanently cursed with misfortune. The victim of this curse takes a -4 penalty on all attack rolls, saving throws, and skill checks, and any critical threat against the victim automatically confirms. If a guecubu hits a creature already suffering from this curse, the victim must make a DC 20 Will save or be staggered for 1 round. This is a curse effect. The save DC is Charisma-based.

@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hippocampus-tohc
+Hippocampus CR 3
+CG Large magical beast (aquatic)
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +7
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+2 Dex, +4 natural, –1 size)
+hp 34 (4d10+12)
+Fort +7; Ref +6; Will +2
+Weakness water dependent
+OFFENSE
+Speed Swim 60 ft.
+Melee bite +7 (1d4+4) or tail slap +7 (1d6+4) or butt +7 (1d3+4)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 18, Dex 15, Con 16, Int 10, Wis 12, Cha 10
+Base Atk +4; CMB +9; CMD 21 (can’t be tripped)
+Feats Endurance, Skill Focus (Perception)
+Skills Perception +7, Stealth +7 (+11 underwater), Swim +18; Racial Modifiers +4 Stealth underwater
+SPECIAL ABILITIES
+Water Dependency (Ex) Though they are unable to move on land, a hippocampus can breathe air (such as if it surfaces from the water). It can survive out of the water for 1 minute per 1 point of Constitution (after that, refer to the drowning rules.

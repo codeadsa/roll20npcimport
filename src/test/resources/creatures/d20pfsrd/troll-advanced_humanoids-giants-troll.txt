@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/troll-advanced
+Advanced Troll CR 6
+XP 2,400
+CE Large humanoid (giant)
+Init +4; Senses darkvision 60 ft., low-light vision, scent; Perception +13
+DEFENSE
+AC 20, touch 13, flat-footed 16 (+4 Dex, +7 natural, –1 size)
+hp 75 (6d8+48); regeneration 5 (acid or fire)
+Fort +13, Ref +6, Will +5
+OFFENSE
+Speed 30 ft.
+Melee bite +10 (1d8+7), 2 claws +8 (1d6+7)
+Ranged large heavy crossbow +7 (2d8/19–20)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d6+10)
+STATISTICS
+Str 25, Dex 18, Con 27, Int 10, Wis 13, Cha 10
+Base Atk +4; CMB +12; CMD 26
+Feats Intimidating Prowess, Iron Will, Skill Focus (Perception)
+Skills Intimidate +16, Perception +13
+Languages Giant
+Gear large heavy crossbow with 20 bolts

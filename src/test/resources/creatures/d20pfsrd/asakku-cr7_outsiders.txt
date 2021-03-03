@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/asakku-cr7
+Asakku CR 7
+XP 3,200
+Always CE Medium outsider (native)
+Init +8; Senses darkvision 60 ft.; Perception +15
+Aura deflecting winds, maddening winds
+DEFENSES
+AC 19; touch 13, flat-footed 16 (+3 Dex, +6 natural)
+hp 60 (8d10+24)
+Fort +5, Ref +10, Will +8
+DR 5/good, Resist cold 10, fire 10, SR 17
+OFFENSE
+Speed 20 ft., fly 70 ft. (good)
+Melee 2 claws +11 (1d6+3) and tail +9 (1d4+1 plus poisonous lash)
+Space 5 ft.; Reach 5 ft.
+Special Attacks poisonous lash, summon elemental
+STATISTICS
+Str 16, Dex 19, Con 16, Int 12, Wis 14, Cha 21
+Base Atk +8; CMB +11 CMD 25
+Feats Alertness, Improved Initiative, Improved Natural Attack(claw)B, Multiattack
+Skills (56) Bluff +16, Intimidate +18, Knowledge (nature) +14, Knowledge (the planes) +12, Knowledge (religion) +12, Perception +15, Sense Motive +13, Survival +13 (+15 above ground or on other planes)
+Languages Abyssal and Common
+SPECIAL ABILITIES
+Deflecting winds (Su) An asakku is constantly surrounded by a maelstrom of buffeting winds. Anyone making a ranged attack against an asakku takes a –8 penalty to his or her attack rolls. An asakku can dismiss or resume its aura as a free action.
+Maddening winds (Su) Creatures within a 30-foot radius of an asakku are assaulted by a vortex of maddening wind. Any creature listening to the strains of this wind must make a DC 19 Will save or take 1d4 points of Wisdom damage. A new save must be made every round that a creature remains within the radius, but a successful save renders a creature immune to the wind’s effects for 24 hours. A creature reduced to 0 Wisdom slips into a comatose-like nightmare from which it cannot awaken. An asakku can dismiss or resume its aura as a fee action. Maddening winds is a sonic mind-affecting effect to which deaf creatures and other asakku are immune. The save DC is Charisma-based.
+Poisonous Lash (Su) The asp-like tail of an asakku is coated with powerful supernatural venom that it can deliver with a strike:
+Asakku Lash Poison (Su) Lash—injury; save Fort DC 18, frequency 1/round for 6 rounds, effect 1d2 Int, cure 2 consecutive saves;
+Creatures affected by this poison appear feverish and can’t focus their thoughts. The save DC is Constitution-based.
+Summon Elemental (Sp) Once per day, a group of three or more asakku can spend a full-round action to summon a NE large air elemental with maximum hit points and a +2 morale bonus to attack and damage rolls. This ability is equivalent to a 9th-level spell and the asakku must be within 30 feet of each other to use it

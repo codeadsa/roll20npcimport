@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-open-design/clockwork-beetle-swarm-mb
+Clockwork Beetle Swarm CR 4
+XP 1,200
+N Tiny construct (swarm)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +4
+DEFENSE
+AC 20, touch 16, flat-footed 16 (+3 Dex, +1 dodge, +4 natural, +2 size)
+hp 33 (6d10)
+Fort +2, Ref +5, Will +3
+DR 5/slashing; Immune construct traits, swarm traits
+OFFENSE
+Speed 30 ft., fly 50 ft. (good)
+Melee swarm (2d6 plus poison)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 13)
+STATISTICS
+Str 8, Dex 16, Con —, Int 1, Wis 12, Cha 7
+Base Atk +6; CMB +7; CMD 17 (cannot be tripped, grappled, or bull rushed)
+Feats Dodge, Improved Initiative, Mobility
+Skills Fly +16, Perception +4, Stealth +12
+Languages understands Common
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 14; frequency 1/round for 4 rounds; effect sleep 1 minute; cure 1 save.

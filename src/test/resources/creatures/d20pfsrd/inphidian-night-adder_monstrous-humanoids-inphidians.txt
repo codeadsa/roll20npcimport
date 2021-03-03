@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/inphidians/inphidian-night-adder
+Night Adder Inphidian CR 5
+XP 1,600
+NE Medium monstrous humanoid (reptilian)
+Init +6; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 natural)
+hp 45 (6d10+12)
+Fort +6; Ref +7; Will +7
+OFFENSE
+Speed 30 ft.
+Melee 2 snake-hand bites +8 (1d4+1 plus poison)
+Special Attacks poison (DC 17)
+Spell-Like Abilities (CL 7th)
+3/day—cause fear (DC 13), darkness, hypnotic pattern (DC 13)
+1/day—suggestion (DC 15)
+STATISTICS
+Str 12, Dex 15, Con 15, Int 13, Wis 14, Cha 14
+Base Atk +6; CMB +7; CMB 19
+Feats Great Fortitude, Improved Initiative, Weapon Finesse
+Skills Craft (alchemy) +10, Knowledge (nature) +7, Knowledge (any one) +7, Perception +15, Stealth +15 (+19 in shadow); Racial Modifiers +4 Perception, +4 Stealth (+8 in areas of shadow)
+Languages Aklo, Common, Inphidian
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 17; frequency 1/round for 4 rounds; effect 1d4 Strength damage; cure 1 save. The save is Constitution-based and includes a +2 racial bonus.
+Pre-built NPC
+Night Adder Priest Inphidian
+
+Night Adder Inphidian Characters
++2 Strength, +4 Dexterity, +4 Constitution, +2 Intelligence, +4 Wisdom, +4 Charisma. Racial Hit Dice: A night adder inphidian begins with six levels of monstrous humanoid, which provide 6d10 Hit Dice, a base attack bonus of +6, and base saving throw bonuses of Fort +2, Ref +5, and Will +5. Racial Skills: A night adder inphidian’s monstrous humanoid levels give it skill points equal to 6 x (4 + Int modifier). It has a +4 racial bonus on Perception and Stealth checks, and an additional +4 to Stealth checks when in areas of shadow. Racial Feats: A night adder inphidian’s monstrous humanoid levels give it three feats. Special Attacks: Poison and spell-like abilities. See Inphidians for more details on playable inphidians.

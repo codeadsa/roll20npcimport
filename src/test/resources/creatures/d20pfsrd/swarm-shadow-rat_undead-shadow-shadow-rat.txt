@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow/shadow-rat/swarm-shadow-rat
+Shadow Rat Swarm CR 4
+XP 1,200
+NE Tiny undead (swarm)
+Init +6; Senses darkvision 60 ft., scent; Perception +9
+DEFENSE
+AC 15, touch 14, flat-footed 13 (+2 Dex, +1 natural, +2 size)
+hp 39 (6d8+12)
+Fort +4, Ref +6, Will +6
+Defensive Abilities half damage from piercing and slashing, incorporeal form, shadow blend; Immune swarm traits, undead traits
+Weaknesses swarm traits
+OFFENSE
+Speed 40 ft., climb 60 ft.
+Melee swarm (2d6 plus 1d4 Strength damage plus disease)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 15)
+STATISTICS
+Str 6, Dex 15, Con –, Int 2, Wis 12, Cha 14
+Base Atk +4; CMB –; CMD —
+Feats Improved Initiative, Lightning Reflexes, Skill Focus (Perception)
+Skills Acrobatics +4, Climb +10, Perception +9, Stealth +19; Racial Modifiers +4 Stealth
+SPECIAL ABILITIES
+Disease (Ex) Filth fever: Bite–injury; save Fort DC 15; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. The save DC is Charisma-based.
+Incorporeal Form (Su) A shadow rat swarm can, as a standard action, assume an incorporeal form for up to 1 hour per day. In this form, the swarm loses its natural AC bonus but gains a +2 deflection bonus to AC. While in this form, the shadow rat swarm is AC 16 (+2 deflection, +2 Dex, +2 size), touch 15, flat-footed 13. The shadow rat swarm can still swarm attack corporeal opponents while in its incorporeal form, but its attack only inflicts Strength damage and cannot distract foes or cause physical damage. The shadow rat swarm gains the incorporeal subtype while using this ability.
+Shadow Blend (Ex) A shadow rat swarm can disappear into the shadows as a move action, gaining total concealment in all levels of illumination save bright light.
+Strength Damage (Su) A shadow rat swarm deals Strength damage to living foes over which it swarms. A creature reduced to 0 Strength cannot move but does not die–at least, not until the swarm’s physical damage takes its toll.

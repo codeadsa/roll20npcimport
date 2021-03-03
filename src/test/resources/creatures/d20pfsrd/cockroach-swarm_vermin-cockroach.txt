@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/cockroach/cockroach-swarm
+Cockroach Swarm CR 2
+XP 600
+N Diminutive vermin (swarm)
+Init +2; Senses darkvision 60 ft., tremorsense 30 ft.; Perception +4
+DEFENSE
+AC 16, touch 16, flat-footed 14 (+2 Dex, +4 size)
+hp 26 (4d8+8)
+Fort +6, Ref +3, Will +1
+Defensive Abilities swarm traits, Immune weapon damage
+Weaknesses light sensitivity, swarm traits
+OFFENSE
+Speed 20 ft., climb 20 ft., fly 30 ft. (poor)
+Melee swarm (1d6)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 14)
+STATISTICS
+Str 1, Dex 15, Con 14, Int —, Wis 10, Cha 2
+Base Atk +3; CMB —; CMD —
+Skills Climb +10, Fly +4, Perception +4, Stealth +14; Racial Modifiers +4 Perception
+SQ hold breath
+SPECIAL ABILITIES
+Hold Breath (Ex) A cockroach can hold its breath for a number of rounds equal to four times its Constitution score before it risks drowning.

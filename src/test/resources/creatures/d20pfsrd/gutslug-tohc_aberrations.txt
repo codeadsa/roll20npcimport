@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/gutslug-tohc
+Gutslug CR 3
+XP 800
+N Medium aberration
+Init +4 Senses blindsight 30 ft.; Perception +7
+DEFENSE
+AC 17, touch 14, flat-footed 13 (+4 Dex, +3 natural)
+hp 19 (3d8+6)
+Fort +3; Ref +5; Will +3
+Vulnerabilities gutslug vulnerabilities
+OFFENSE
+Speed 20 ft., fly 50 ft. (perfect)
+Melee type +6 (1d6+2 plus grab plus blood drain)
+Space 5 ft. (coiled); Reach 5 ft.
+Special Attacks blood drain (1d4 Con), sneak attack (2d6)
+STATISTICS
+Str 14, Dex 19, Con 14, Int 2, Wis 11, Cha 3
+Base Atk +2; CMB +4 (+8 grapple); CMD 18
+Feats Skill Focus (Perception), Weapon Finesse
+Skills Fly +12, Perception +7, Stealth +9; Racial Modifiers +8 Fly
+SPECIAL ABILITIES
+Blood Drain (Ex) A gutslug that grapples a foe drains blood. This deals 1d4 points of Constitution drain each round the grapple is maintained. Once a gutslug has drained 8 points, it detaches and flies or slithers away to digest its meal.
+Vulnerabilities (Ex) Gutslugs are vulnerable to salt. A pint of salt deals 1d4 points of damage to a gutslug for 1d2 rounds and causes it to lose its racial bonus to grapple checks. A pint of alcohol poured or thrown on a gutslug deals no damage but causes it to lose its racial bonus to grapple checks.

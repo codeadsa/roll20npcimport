@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/medusa/medusa-animus-shade
+Medusa Animus Shade CR 9
+XP 6,400
+CE Medium undead (incorporeal)
+Init +6; Senses darkvision 60 ft.; Perception +24; Aura mental static (30 ft., DC 16)
+DEFENSE
+AC 16, touch 16, flat-footed 14 (+4 deflection, +2 Dex)
+hp 76 (8d10+32)
+Fort +6, Ref +8, Will +7
+Defensive Abilities all-around vision, channel resistance +4, incorporeal, mental schism; Immune undead traits
+OFFENSE
+Speed fly 30 ft. (perfect)
+Melee incorporeal touch +10 (animus insinuation, DC 16)
+Ranged rend psyche +10 touch (9d6 plus 1d6 Charisma damage, DC 18)
+Special Attacks animus insinuation, corrupt intent, petrifying gaze, rend psyche
+STATISTICS
+Str —, Dex 15, Con —, Int 12, Wis 13, Cha 19
+Base Atk +8; CMB +8; CMD 20
+Feats Improved Initiative, Point-Blank Shot, Precise Shot, Weapon Finesse
+Skills Bluff +10, Disguise +15, Intimidate +23, Perception +24, Stealth +13; Racial Modifiers +8 Intimidate, +12 Perception
+Languages Common
+SPECIAL ABILITIES
+All-Around Vision (Ex) A medusa’s snake-hair allows her to see in all directions. The medusa animus shade gains a +4 racial bonus on Perception checks and cannot be flanked.
+Animus Insinuation (Sp) Whenever an animus shade touches a creature, it inspires that creature’s animus to rise up and overthrow the creature’s dominant personality. This effect functions as per id insinuation II if the animus shade’s CR is 7 or less or id insinuation IV if the animus shade’s CR is 8 or higher, except that either way, the effect only targets a single creature touched and the duration is 1 round per Hit Die of the animus shade, without the need for concentration.
+Corrupt Intent (Su) An animus shade subverts the intent and willpower of its enemies, filling them with doubt and conflicting desires that play into the animus shade’s hands. Whenever a creature strikes the animus shade with a melee or ranged attack, it must succeed at a Will save or take a –1 penalty on all further attacks against the animus shade for 1d4 rounds.
+Each subsequent failed save against this ability by a creature already under its effect increases the total penalty by 1 and extends the duration of the effect by 1 round.
+Rend Psyche (Su) As a standard action, an animus shade unleashes a jet of dark energy at a creature within 30 feet. On a successful ranged touch attack, the target is wracked with mental agony as its own animus attempts to wrench free from its physical form. This violent struggle deals a number of d6s of damage equal to the animus shade’s CR, as well as 1d6 points of Charisma damage.
+A successful Will save halves the damage and negates the Charisma damage. The save DC is Charisma-based.
+Mental Schism (Su) An animus shade’s mind is a chaotic tangle of the shredded remnants of the dominant personality that once subsumed it. This mercurial state of being is too piecemeal for alignment-based effects to take hold. The animus shade is immune to all effects that are dependent on alignment.
+Petrifying Gaze (Su) Turn to stone permanently, 30 feet, Fortitude DC 18 negates. The save DC is Charisma-based.

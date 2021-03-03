@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/thermite-worker
+Worker Thermite CR 2
+XP 600
+N Medium vermin (extraplanar, fire)
+Init +2; Senses darkvision 60 ft., fire sense, tremorsense 60ft.; Perception +0
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 16 (3d8+3)
+Fort +4, Ref +3, Will +1
+Immune fire, mind-affecting effects
+Weakness vulnerability to cold
+OFFENSE
+Speed 30 ft.
+Melee bite +3 (1d6+1 plus 1d6 fire plus burn)
+Special Attacks burn (1d6, DC 12)
+TACTICS
+Thermites are generally passive creatures except when their nest is attacked. In such an event, the soldiers move to defend the young and the queen. Workers join in the melee fighting off any would-be interlopers. Thermites attack by biting with their mandibles. Slain creatures are often dragged into the lair and fed to the queen and the young.
+STATISTICS
+Str 12, Dex 14, Con 12, Int —, Wis 10, Cha 2
+Base Atk +2; CMB +3; CMD 15 (23 vs. trip)
+SPECIAL ABILITIES
+Heat (Ex) Touching or being touched by a worker thermite automatically deals 1d6 points of fire damage.
+Fire Sense (Ex) A worker thermite notices and locates any fire source equal to a torch or greater within 200 feet. It also senses the intensity of the flame.

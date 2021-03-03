@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/sea-scourge
+Sea Scourge CR 6
+XP 2,400
+N Large ooze (aquatic)
+Init –2; Senses blindsight 60 ft.; Perception –5
+DEFENSE
+AC 7, touch 7, flat-footed 7 (–2 Dex, –1 size)
+hp 76 (9d8+36)
+Fort +7, Ref +1, Will –2
+Defensive Abilities amorphous; Immune acid, ooze traits
+OFFENSE
+Speed 10 ft., climb 10 ft., swim 20 ft.
+Melee 2 slams +12 (1d6+7 plus 1d4 acid and grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks acid jet, constrict (1d6+7 plus 1d4 acid), engulf (DC 21, 1d6 acid and paralysis)
+STATISTICS
+Str 24, Dex 7, Con 18, Int —, Wis 1, Cha 1
+Base Atk +6; CMB +14 (+18 grapple); CMD 22 (can’t be tripped)
+Skills Climb +15, Swim +15
+SQ amphibious
+SPECIAL ABILITIES
+Acid Jet (Ex) Once every 1d4 rounds as a standard action, a sea scourge can shoot a stream of acidic juices in a 30-foot line, dealing 2d8 points of acid damage to any creatures in the area (DC 18 Reflex save for half damage). The save DC is Constitution-based.
+Sea Scourge Variants
+Coldwater Scourge (+0 CR): The coldwater scourge is a menace to merchant ships and war galleons alike. A coldwater scourge is immune to cold damage, and creatures that fail their Reflex saves versus the scourge’s acid jet are also staggered for 1 round.
+Steaming Scourge (+1 CR): A steaming scourge possesses additional Hit Dice and the heat universal monster ability, and emits so much energy that any water in a 10-foot-radius spread around it begins to boil, dealing 1d6 points of damage to creatures that begin their turn submerged in it.

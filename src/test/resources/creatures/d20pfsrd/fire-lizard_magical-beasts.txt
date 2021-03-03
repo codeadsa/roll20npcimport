@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/fire-lizard
+Fire Lizard CR 8
+XP 4,800
+N Huge magical beast (fire)
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 17, touch 8, flat-footed 17 (+9 natural, -2 size)
+hp 105 (10d10+50)
+Fort +12, Ref +7, Will +3
+Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft.
+Melee bite +17 (2d6+8), 2 claws +16 (1d8+8)
+Space 15 ft.; Reach 10 ft.
+Special Attacks breath weapon (20 ft. cone, DC 22, 4d6 fire)
+STATISTICS
+Str 26, Dex 10, Con 21, Int 2, Wis 11, Cha 10
+Base Atk +10; CMB +20; CMD 30 (34 vs. trip)
+Feats Ability Focus (breath weapon), Cleave, Power Attack, Skill Focus (Stealth), Weapon Focus (bite)
+Skills Stealth +11

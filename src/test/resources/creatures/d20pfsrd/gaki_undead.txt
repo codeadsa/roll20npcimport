@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/gaki
+Gaki CR 7
+XP 3,200
+NE Medium undead
+Init +6; Senses darkvision 60 ft., detect evil; Perception +13
+DEFENSE
+AC 20, touch 13, flat-footed 17 (+2 Dex, +1 dodge, +7 natural)
+hp 74 (9d8+32)
+Fort +5, Ref +7, Will +9
+Immune undead traits
+Weaknesses aversion to sun and moon, compulsive hunger, vulnerable to cold and fire
+OFFENSE
+Speed 30 ft., fly 30 ft. (average)
+Melee 2 claws +9 (2d6+3), bite +9 (2d6+3 plus grab)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks blood drain (1d2 Constitution), fear cone (30 ft., DC 16)
+Spell-Like Abilities (CL 7th; concentration +9)
+Constant—detect evil
+At will—invisibility
+1/day—disguise self
+STATISTICS
+Str 16, Dex 15, Con —, Int 9, Wis 12, Cha 18
+Base Atk +6; CMB +9 (+13 grapple); CMD 22
+Feats Combat Reflexes, Dodge, Improved Initiative, Iron Will, Lightning Reflexes
+Skills Intimidate +14, Perception +13, Stealth +14
+Languages Common
+SPECIAL ABILITIES
+Aversion to Sun and Moon (Ex) A gaki takes 1d4 points of fire damage every round it’s exposed to the light of a full moon. It takes 1d4 points of cold damage every round it is exposed to direct sunlight.
+Compulsive Hunger (Ex) Despite being undead, a gaki is plagued by an insatiable hunger, and believes it can gain a normal body or rest in peace if it consumes the right mixture of flesh, food, and drink. A gaki that finds a corpse or is offered food, wine, holy water, or flowers must succeed at a DC 20 Will save or spend one turn trying to grab and consume it. Its narrow neck prevents it from swallowing more than a tiny amount, and it gives up after 1 round of attempting to do so. A gaki that consumes holy water in this way is not harmed by it.

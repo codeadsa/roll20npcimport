@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/nihil
+Judgement Devil (Ashmede) CR 13
+XP 25,600
+Female ashmede (judgement) devil
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +3; Senses darkvision 60 ft., see in darkness; Perception +18; Aura fear aura (20 ft., DC 19, fear)
+DEFENSE
+AC 30, touch 14, flat-footed 27 (+2 deflection, +3 Dex, +16 natural, -1 size)
+hp 126 (12d10+60); fast healing 3
+Fort +11, Ref +11, Will +11
+DR 10/good; Immune fire, poison; Resist acid 10, cold 10; SR 23
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee +1 unholy scythe +20/+15/+10 (2d6+11/19-20/x4), 2 wings +13 (1d6+3)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 16th; concentration +19)
+At will—charm person (DC 14), detect chaos, detect evil, detect good, detect law, detect magic, dispel magic, greater invisibility, greater teleport (self plus 50 pounds), polymorph, prying eyes
+1/day—blasphemy, chain lightning (DC 19), discern location, forcecage, horrid wilting (DC 21), summon (level 9, 1 kyton or 1 faceless or 2d6 whiptails 100%)
+STATISTICS
+Str 24, Dex 16, Con 20, Int 14, Wis 16, Cha 17
+Base Atk +12; CMB +20; CMD 33
+Feats Combat Expertise, Critical Focus, Flyby Attack, Great Fortitude, Improved Critical (scythe), Weapon Focus (scythe)
+Skills Acrobatics +18, Bluff +18, Fly +16, Intimidate +18, Knowledge (planes) +17, Perception +18, Stealth +18, Survival +18
+Languages Celestial, Draconic, Infernal
+Gear +1 unholy scythe (this weapon is fused to her right hand and cannot be disarmed or effectively wielded by other creatures unless fitted to a shaft), ring of protection +2

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/megafauna/megafauna-glyptodon
+Gylptodon CR 6
+XP 2,400
+N Large animal
+Init +0; Senses low-light vision, scent; Perception +16
+DEFENSE
+AC 21, touch 9, flat-footed 21 (+12 natural, –1 size)
+hp 67 (9d8+27)
+Fort +11, Ref +6, Will +4
+OFFENSE
+Speed 20 ft.
+Melee 2 claws +12 (1d10+7)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 25, Dex 10, Con 17, Int 2, Wis 13, Cha 6
+Base Atk +6; CMB +14; CMD 24 (28 vs. trip)
+Feats Endurance, Great Fortitude, Improved Bull Rush, Power Attack, Skill Focus (Perception)
+Skills Perception +16
+Glyptodon Companions
+
+Starting Statistics: Size Medium; Speed 20 ft.; AC +5 natural armor, Attack 2 claws (1d8); Ability Scores Str 13, Dex 12, Con 13, Int 2, Wis 13, Cha 6; Special Qualities low-light vision, scent.
+7th-Level Advancement: Size Large; AC +2 natural armor; Attack 2 claws (1d10); Ability Scores Str +8, Dex –2, Con +4.
+

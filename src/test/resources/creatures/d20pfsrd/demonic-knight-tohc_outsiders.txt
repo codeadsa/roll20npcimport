@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demonic-knight-tohc
+Demonic Knight CR 12
+XP 19,200
+CE Medium outsider (chaotic, evil, extraplanar)
+Init +1; Senses darkvision 60 ft.; Perception +26
+Aura fear (30 ft., DC 18)
+DEFENSE
+AC 31, touch 14, flat-footed 31 (+8 armor, +9 natural, +4 profane)
+hp 94 (9d10+45)
+Fort +11, Ref +4, Will +10
+DR 10 cold iron or magic; SR 23
+OFFENSE
+Speed 20 ft. (30 ft. base)
+Melee +1 anarchic longsword +17/+12 (1d8+7/19–20) or 2 slams +15 (1d6+6)
+Special Attacks breath of unlife, create spawn,
+Spell-Like Abilities (CL 20th)
+At will—detect magic, see invisibility, wall of ice (DC 18)
+2/day—dispel magic
+1/day—fireball (DC 17), symbol of pain (DC 19), symbol of fear (DC 20), summon (level 9, 1d4 shadow demons, 1 vrock or marilith, 2 glabrezus or hezrous 50%)
+STATISTICS
+Str 22, Dex 13, Con 20, Int 18, Wis 18, Cha 18
+Base Atk +9; CMB +15; CMD 30
+Feats Alertness, Blind-Fight, Cleave, Power Attack, Weapon Focus (longsword)
+Skills Bluff +16, Climb +12, Diplomacy +16, Intimidate +16, Knowledge (planes) +16, Perception +26, Sense Motive +18, Spellcraft +13, Stealth +7, Survival +16; Racial Modifiers +8 Perception
+Languages Abyssal, Common
+Gear masterwork half-plate, +1 anarchic longsword
+SPECIAL ABILITIES
+Breath of Unlife (Su) Once every 1d4 rounds, the demonic knight can exhale a blast of negative energy in a 10-foot cone. Creatures in the area must succeed on a DC 20 Reflex save or take 2d4 points of Strength damage. A creature reduced to Strength 0 by a demonic knight dies. The save DC is Constitution-based.
+Create Spawn (Su) Any humanoid slain by a demonic knight’s breath of unlife becomes a shadow demon in 2d4 rounds. Spawn are under the command of the demonic knight that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/tatzlwyrm
+Tatzlwyrm CR 2
+XP 600
+N Medium dragon
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +8
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 22 (3d12+3)
+Fort +4, Ref +5, Will +5
+Immune paralysis, sleep
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee bite +5 (1d8+3 plus grab)
+Special Attacks poison gasp, pounce, rake (2 claws +5, 1d4+2)
+STATISTICS
+Str 14, Dex 15, Con 12, Int 5, Wis 14, Cha 11
+Base Atk +3; CMB +5 (+9 grapple); CMD 17 (can’t be tripped)
+Feats Nimble Moves, Stealthy
+Skills Climb +14, Escape Artist +5, Intimidate +4, Perception +8, Stealth +10 (+16 in dense vegetation); Racial Modifiers +6 Stealth in dense vegetation
+Languages Draconic
+SPECIAL ABILITIES
+Poison Gasp (Ex) A tatzlwyrm’s breath contains a poisonous vapor. While grappling, instead of making a bite or rake attack, a tatzlwyrm can breathe poison into its victim’s face. A tatzlwyrm must begin its turn grappling to use this ability—it can’t begin a grapple and use its poison gasp in the same turn.
+Tatzlwyrm poison: Breath—inhaled; save Fort DC 12; frequency 1/round for 2 rounds; effect 1d2 Str damage; cure 1 save. The save DC is Constitution-based.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/buggane
+Buggane CR 5
+XP 1,600
+CE Large monstrous humanoid
+Init +3; Senses tremorsense 60 ft., scent; Perception +9
+DEFENSE
+AC 18, touch 8, flat-footed 18 (–1 Dex, +10 natural, –1 size)
+hp 51 (6d10+18)
+Fort +7, Ref +4, Will +6
+Weaknesses light blindness
+OFFENSE
+Speed 30 ft., burrow 30 ft.
+Melee 2 claws +11 (1d8+6), gore +11 (1d8+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d8+9), smash and bash
+STATISTICS
+Str 22, Dex 9, Con 17, Int 6, Wis 13, Cha 6
+Base Atk +6; CMB +13; CMD 22
+Feats Great Fortitude, Improved Initiative, Skill Focus (Stealth)
+Skills Climb +10, Perception +9, Stealth +7 (+15 when underground); Racial Modifiers +8 Stealth when underground
+Languages Giant
+SQ blind, earth distortion
+SPECIAL ABILITIES
+Blind (Ex) Bugganes are blind. They are immune to gaze attacks, visual effects, illusions, and other attack forms that rely on sight.
+Earth Distortion (Su) Once per minute as a swift action, a buggane can empower itself to completely ignore the physicality of stone and metal, enabling it to pass through stone and metal barriers as easily as air. Until the beginning of the buggane’s next turn, the buggane has earth glide and takes no damage from stone or metal weapons, or from the natural attacks of creatures of the earth subtype or stone or metal constructs. Additionally, a buggane’s melee attacks ignore any AC bonus (including enhancement bonuses) from metal or stone armor and shields. While using earth distortion, the buggane cannot damage stone or metal constructs or creatures of the earth subtype with its natural attacks.
+Smash and Bash (Ex) As a free action, a buggane can attempt to trip an opponent it damages with its rend attack without provoking an attack of opportunity. If the trip attempt fails, the buggane cannot be tripped in return. If the trip attempt is successful, the target must succeed at a DC 19 Fortitude save or be stunned for 1 round. The save DC is Strength-based.

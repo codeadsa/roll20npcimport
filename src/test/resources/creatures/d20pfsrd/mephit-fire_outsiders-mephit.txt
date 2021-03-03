@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mephit/mephit-fire
+Fire Mephit CR 3
+XP 800
+N Small outsider (fire)
+Init +6; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 17, touch 14, flat-footed 14 (+2 Dex, +1 dodge, +3 natural, +1 size)
+hp 19 (3d10+3); fast healing 2 (while touching fire)
+Fort +2, Ref +5, Will +3
+DR 5/magic; Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft., fly 40 ft. (average)
+Melee 2 claws +5 (1d3+1)
+Special Attacks breath weapon (15-foot cone, 1d8 fire, DC 13 half, every 4 rounds)
+Spell-Like Abilities (CL 6th; concentration +8)
+1/hour—scorching ray
+1/day—heat metal (DC 14), summon (level 2, 1 fire mephit 25%)
+STATISTICS
+Str 13, Dex 15, Con 12, Int 6, Wis 11, Cha 14
+Base Atk +3; CMB +3; CMD 15
+Feats Dodge, Improved Initiative
+Skills Bluff +8, Fly +10, Perception +6, Stealth +12
+Languages Common, Ignan
+SPECIAL ABILITIES
+Breath Weapon (Su) Each type of mephit can unleash a particular breath weapon every 4 rounds as a standard action. The DC is Constitution-based and includes a +1 racial bonus.
+The breath weapon of a fire mephit is a cone of flames that deals 1d8 fire damage.

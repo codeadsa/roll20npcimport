@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gorgon
+Gorgon CR 8
+XP 4,800
+N Large magical beast
+Init +4; Senses darkvision 60 ft., low-light vision, scent; Perception +17
+DEFENSE
+AC 20, touch 9, flat-footed 20 (+11 natural, –1 size)
+hp 100 (8d10+56)
+Fort +13, Ref +6, Will +7
+OFFENSE
+Speed 30 ft.
+Melee gore +14 (2d8+7), 2 hooves +9 (1d6+3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks breath weapon (60-foot cone, turn to stone, Fortitude DC 21 negates), trample (2d8+10, DC 21)
+STATISTICS
+Str 24, Dex 10, Con 24, Int 2, Wis 16, Cha 9
+Base Atk +8; CMB +16; CMD 26
+Feats Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception)
+Skills Perception +17
+SPECIAL ABILITIES
+Breath Weapon A gorgon can use its breath weapon once every 1d4+1 rounds to create a 60-foot cone of green gas. Those caught in the area of the gas can attempt a DC 21 Fortitude save to resist the effects, but those who fail the save are immediately petrified. This petrification is temporary—each round, a petrified creature can attempt a new DC 21 Fortitude save to recover from the petrification as long as it is not caught within the area of effect of the gorgon’s breath weapon a second time while petrified. A creature exposed to the gorgon’s breath a second time while already petrified becomes permanently petrified, and can no longer attempt to make additional Fortitude saves to recover naturally. The save DC is Constitution-based.
+Examples
+Elite Gold-Clad Gorgon (CR 10) Gorgon art by Raynaldo Perez. Used with permission. 3rd Party Publisher Options ( NwP)
+
+When captured by a monster trainer, gorgons grant the trainer access to taurinor spells.

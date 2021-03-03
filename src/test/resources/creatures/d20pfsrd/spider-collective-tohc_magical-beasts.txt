@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/spider-collective-tohc
+Spider Collective
+CR 2
+XP 600
+N Medium magical beast
+Init +6; Senses darkvision 60 ft., low-light vision, tremorsense 30 ft.; Perception +9
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 natural)
+hp 13 (2d10+2)
+Fort +4; Ref +5; Will +0
+Defensive Abilities one from many; DR 5/bludgeoning; Immune collective immunities
+Weaknesses collective vulnerabilities
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee bite +4 (1d6+3 plus poison)
+Special Attacks engulf, many from one, poison, swarming body
+STATISTICS
+Str 14, Dex 15, Con 12, Int 6, Wis 10, Cha 11
+Base Atk +2; CMB +4; CMD 16 (can’t be tripped)
+Feats Improved Initiative
+Skills Climb +10, Perception +9; Racial Modifiers +4 Perception
+SQ collective traits
+SPECIAL ABILITIES
+Engulf (Ex) Reflex DC 12. An engulfed creature is subject a spider collective’s poison (see below) while engulfed.
+Many from One (Ex) Attack bonus +4 ranged, damage 1d6. A creature struck is subjected to the spider collective’s poison.
+Poison (Ex) Bite—Injury; save Fort DC 12; frequency 1/round for 2 rounds; effect 1d2 Str; cure 1 save.
+Swarming Body (Ex) Any creature attacking a spider collective unarmed or with natural weapons automatically takes 1d4 points of damage plus poison damage.
+
+Editor’s Note
+Base template: Collective Creature (CR +1)

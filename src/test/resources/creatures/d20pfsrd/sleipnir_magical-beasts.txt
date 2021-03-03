@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sleipnir
+Sleipnir CR 11
+XP 12,800
+N Large magical beast
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +16
+DEFENSE
+AC 25, touch 13, flat-footed 21 (+4 Dex, +12 natural, -1 size)
+hp 147 (14d10+70)
+Fort +14, Ref +15, Will +9
+Immune electricity; Resist cold 10
+OFFENSE
+Speed 80 ft.; air walk
+Melee bite +19 (1d8+6), 4 hooves +17 (1d8+3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks breath weapon (DC 22), powerful charge (hooves, 2d8+12), trample (1d8+9, DC 23)
+Spell-Like Abilities (CL 11th; concentration +12)
+Constant—air walk
+STATISTICS
+Str 22, Dex 18, Con 21, Int 10, Wis 17, Cha 13
+Base Atk +14; CMB +21; CMD 35 (47 vs. trip)
+Feats Endurance, Flyby Attack, Iron Will, Lightning Reflexes, Multiattack, Power Attack, Run
+Skills Acrobatics +18 (+38 when jumping), Perception +16, Swim +16
+Languages Auran (cannot speak)
+SPECIAL ABILITIES
+Breath Weapon (Su) As a standard action, a sleipnir can exhale a 30-foot cone of shimmering, rainbow-colored light. Every creature in the area is randomly struck by one or more beams, as a prismatic spray spell (DC 22 half or negates). The sleipnir may use this ability once every 1d6 rounds, up to 3 times per day. The save DC is Constitution-based.

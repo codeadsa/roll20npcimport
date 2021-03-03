@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sea/sea-dragon-young
+Young Sea Dragon CR 8
+XP 4,800
+CG Large dragon (water)
+Init +5; Senses dragon senses; Perception +5
+DEFENSE
+AC 21, touch 10, flat-footed 20 (+1 Dex, +11 natural, -1 size)
+hp 85 (9d12+27)
+Fort +11, Ref +7, Will +9
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +13 (2d6+7), 2 claws +13 (1d8+5), gore +13 (1d8+7), tail slap +11 (1d8+7)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite and gore)
+Special Attacks breath weapon (40-ft. cone, 6d6 fire damage, DC 17), torrent breath
+Spell-Like Abilities (CL 9th; concentration +12)
+At will—create water
+Spells Known (CL 1st; concentration +4)
+1st (4/day)—color spray (DC 14), sleep (DC 14)
+0 (at will)—acid splash, mage hand, ray of frost, resistance
+STATISTICS
+Str 21, Dex 12, Con 17, Int 16, Wis 17, Cha 16
+Base Atk +9; CMB +15; CMD 26 (30 vs. trip)
+Feats Alertness, Great Fortitude, Improved Initiative, Lunge, Multiattack
+Skills Diplomacy +15, Fly +7, Intimidate +15, Knowledge (arcana, nature) +15, Perception +5, Sense Motive +17, Stealth +9, Survival +15, Swim +25
+Languages Aquan, Common, Draconic
+SQ change shape, water breathing
+SPECIAL ABILITIES
+Change Shape (Su) A young or older sea dragon can assume any humanoid form three times per day as if using polymorph.
+Torrent Breath (Su) Instead of a cone of super-heated steam, a very young or older sea dragon can breathe a line of pressurized water twice the length of the sea dragon’s cone breath weapon. This line deals bludgeoning damage.
+Unfettered Swimmer (Su) A juvenile sea dragon gains a 10-foot bonus to its swim speed. The sea dragon’s swim speed continues to increase by an additional 10 feet every two age categories. Furthermore, while swimming, the sea dragon is treated as if under the effects of the spell freedom of movement.

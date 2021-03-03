@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/divs/div-aghash
+Aghash CR 4
+XP 1,200
+NE Medium outsider (div, evil, extraplanar)
+Init +2; Senses darkvision 60 ft., see in darkness; Perception +11
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 42 (5d10+15)
+Fort +4, Ref +6, Will +7
+DR 5/cold iron or good; Immune fire, poison; Resist acid 10, electricity 10; SR 15
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +8 (1d6+2)
+Special Attacks cursed gaze, sandstorm
+Spell-Like Abilities (CL 6th; concentration +10)
+At will—bestow curse (DC 16), detect good, detect magic, dimension door, minor image (DC 15), spectral hand
+1/day—suggestion (DC 16), summon (level 3, 1d2 dorus 25%)
+TACTICS
+In Combat If given a choice between attacking two different opponents, an aghash always chooses the most physically becoming foe. Such is their loathing—or, perhaps, jealousy—that an aghash might stalk attractive foes, delighting in afflicting them with curses that sap their Charisma or otherwise undermines their charm. With its spectral hand ability an aghash can deliver curses from a distance, leading some victims to believe they’ve been afflicted by a disease or cursed by the gods themselves. All the while, the aghash lingers nearby, delighting in the suffering it has caused. STATISTICS
+Str 14, Dex 15, Con 16, Int 13, Wis 13, Cha 18
+Base Atk +5; CMB +7; CMD 19
+Feats Alertness, Iron Will, Weapon Focus (claw)
+Skills Bluff +10, Disguise +12, Intimidate +10, Knowledge (arcana) +7, Knowledge (planes) +7, Perception +11, Sense Motive +9, Spellcraft +9, Stealth +10
+Languages Abyssal, Celestial, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Cursed Gaze (Su) Aghash’s choice: confused for 1 round, shaken for 1 round, stunned for 1 round, or deals 1d4 points of damage, 30 feet, Fortitude DC 16 negates. Any creature under the effects of protection from evil is immune to an aghash’s gaze. The save DC is Charisma-based.
+Sandstorm (Su) Once per day, as a full-round action, an aghash can create a temporary sandstorm. This storm has a radius of 100 feet centered on the aghash and lasts for 1 minute per Hit Die the aghash possesses (typically 5). This functions as a sandstorm.

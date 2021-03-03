@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-derakni
+Derakni (Locust Demon)
+CR 10
+XP 9,600
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +10; Senses darkvision 60 ft., scent; Perception +25
+DEFENSE
+AC 25, touch 15, flat-footed 19 (+6 Dex, +10 natural, –1 size)
+hp 126 (11d10+66)
+Fort +13, Ref +13, Will +8
+DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 21
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee bite +18 (1d4+8 plus poison), 2 claws +18 (1d4+8), sting +18 (1d8+8/19–20 plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks dronee
+Spell-Like Abilities (CL 12th; concentration +15)
+At will—contagion (DC 17), greater teleport (self plus 50 lbs. of objects only), gust of wind
+3/day—enervation, quickened summon swarm
+1/day—insect plague, summon (level 4, 1 derakni or 1d4 vescavor swarms 40%)
+STATISTICS
+Str 26, Dex 23, Con 22, Int 9, Wis 17, Cha 16
+Base Atk +11; CMB +20; CMD 36 (44 vs. trip)
+Feats Flyby Attack, Improved Critical (sting), Improved Initiative, Iron Will, Power Attack, Quicken Spell-Like Ability (summon swarm)
+Skills Acrobatics +20, Fly +22, Perception +25, Stealth +16, Survival +17; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SPECIAL ABILITIES
+Drone (Su) The sound of a derakni in flight is a mesmerizing, unsettling drone that causes confusion in all non-demons who hear the sound. A derakni must fly at least 10 feet to activate this ability (which it can do as a free action as part of its move action). Any non-demon creature that begins its turn within 30 feet of a derakni that moved in this manner on its previous turn must succeed at a DC 18 Will save or become confused for 1d4 rounds. A creature that makes this save is immune to the drone of that derakni for 24 hours. Demons are immune to this sonic, mind-affecting effect. The save DC is Charisma-based.
+Poison (Ex) Bite or sting—injury; save Fort DC 21; frequency 1/ round for 6 rounds; effect 1d4 Con; cure 2 consecutive saves.
+The save DC is Constitution-based.

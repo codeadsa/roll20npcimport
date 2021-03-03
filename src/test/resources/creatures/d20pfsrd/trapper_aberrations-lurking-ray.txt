@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/lurking-ray/trapper
+Trapper CR 8
+XP 4,800
+N Huge aberration
+Init +5; Senses blindsense 10 ft., darkvision 60 ft., scent; Perception +25
+DEFENSE
+AC 21, touch 9, flat-footed 20 (+1 Dex, +12 natural, –2 size)
+hp 123 (13d8+65)
+Fort +10, Ref +5, Will +11
+Defensive Abilities amorphous; DR 10/piercing or slashing; Resist cold 10, fire 10
+Weaknesses light sensitivity
+OFFENSE
+Speed 10 ft., climb 5 ft.
+Melee slam +17 (3d6+15 plus grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks constrict (3d6+15), smother (see lurker above)
+STATISTICS
+Str 30, Dex 12, Con 19, Int 14, Wis 17, Cha 13
+Base Atk +9; CMB +21 (+25 grapple); CMD 32 (can’t be tripped)
+Feats Blind-Fight, Combat Reflexes, Great Fortitude, Improved Initiative, Skill Focus (Perception), Skill Focus (Stealth), Toughness
+Skills Climb +18, Knowledge (dungeoneering) +15, Perception +25, Sense Motive +16, Sleight of Hand +14, Stealth +19 (+27 in rocky areas), Survival +15; Racial Modifiers +4 Stealth (+12 in rocky areas)
+Languages Aklo, Common, Undercommon

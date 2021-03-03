@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sea/sea-dragon-adult
+Adult Sea Dragon CR 12
+XP 19,200
+CG Huge dragon (water)
+Init +4; Senses dragon senses; Perception +27; Aura frightful presence (180 ft., DC 22)
+DEFENSE
+AC 28, touch 8, flat-footed 28 (+20 natural, -2 size)
+hp 172 (15d12+75)
+Fort +16, Ref +11, Will +14
+DR 5/magic; Immune electricity, paralysis, sleep; SR 23
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor), swim 80 ft.
+Melee bite +22 (2d8+12), 2 claws +22 (2d6+8), gore +21 (2d6+12), tail slap +19 (2d6+12)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite and gore)
+Special Attacks breath weapon (50-ft. cone, 12d6 fire damage, DC 22), crush (DC 22, 2d8+12), torrent breath
+Spell-Like Abilities (CL 15th; concentration +20)
+At will—call lightning (DC 18), create water, hydraulic push*
+
+Spells Known (CL 7th; concentration +12)
+3rd (5/day)—hold person (DC 18), sleet storm
+2nd (7/day)—gust of wind (DC 17), mirror image, see invisibility
+1st (8/day)—charm person (DC 16), chill touch, color spray (DC 16), expeditious retreat, sleep (DC 16)
+0 (at will)—acid splash, daze (DC 15), detect magic, mage hand, ray of frost, read magic, resistance
+STATISTICS
+Str 27, Dex 10, Con 21, Int 20, Wis 21, Cha 20
+Base Atk +15; CMB +25; CMD 35 (39 vs. trip)
+Feats Alertness, Great Fortitude, Improved Initiative, Lightning Reflexes, Lunge, Multiattack, Weapon Focus (bite and claw)
+Skills Diplomacy +23, Fly +10, Intimidate +23, Knowledge (arcana, geography, nature) +23, Perception +27, Sense Motive +27, Stealth +10, Survival +23, Swim +34
+Languages Aquan, Auran, Celestial, Common, Draconic, Elven
+SQ change shape, unfettered swimmer, water breathing
+SPECIAL ABILITIES
+Change Shape (Su) A young or older sea dragon can assume any humanoid form three times per day as if using polymorph.
+Torrent Breath (Su) Instead of a cone of super-heated steam, a very young or older sea dragon can breathe a line of pressurized water twice the length of the sea dragon’s cone breath weapon. This line deals bludgeoning damage.
+Unfettered Swimmer (Su) A juvenile sea dragon gains a 10-foot bonus to its swim speed. The sea dragon’s swim speed continues to increase by an additional 10 feet every two age categories. Furthermore, while swimming, the sea dragon is treated as if under the effects of the spell freedom of movement.

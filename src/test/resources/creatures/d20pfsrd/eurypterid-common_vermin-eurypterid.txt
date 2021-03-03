@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/eurypterid/eurypterid-common
+Common Eurypterid CR 1
+XP 400
+N Medium vermin (aquatic)
+Init +4; Senses low-light vision, tremorsense 30 ft.; Perception +1
+DEFENSE
+AC 14, touch 10, flat-footed 14 (+4 natural)
+hp 11 (2d8+2)
+Fort +4, Ref +0, Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., swim 40 ft.
+Melee 2 claws +1 (1d3), sting +1 (1d3 plus poison)
+Space 5 ft.; Reach 5 ft. (10 ft. with sting)
+STATISTICS
+Str 10, Dex 11, Con 12, Int —, Wis 13, Cha 2
+Base Atk +1; CMB +1; CMD 11
+Feats Improved InitiativeB
+Skills Swim +8
+SQ amphibious
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 12; frequency 1/round for 4 rounds; effect 1d2 Con; cure 1 save.
+Source Wikipedia

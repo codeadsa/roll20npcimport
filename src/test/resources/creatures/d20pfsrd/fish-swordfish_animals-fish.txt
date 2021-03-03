@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-swordfish
+Swordfish CR 2
+XP 600
+N Large animal (aquatic)
+Init +2; Senses low-light vision; Perception +10
+DEFENSE
+AC 14, touch 11, flat-footed 12 (+3 armor, +2 Dex, –1 size)
+hp 22 (4d8+4)
+Fort +5, Ref +6, Will +2
+OFFENSE
+Speed swim 70 ft.
+Melee gore +5 (1d8+3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks piercing rush
+STATISTICS
+Str 15, Dex 14, Con 13, Int 1, Wis 12, Cha 2
+Base Atk +3; CMB +6; CMD 18
+Feats Skill Focus (Swim), Weapon Focus (gore)
+Skills Perception +10, Swim +18; Racial Modifiers +4 Perception
+SPECIAL ABILITIES Piercing Rush (Ex) When a swordfish uses its gore attack after swimming at least 10 feet, including on a charge, it adds two times its strength bonus on damage rolls.

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/stygira
+Stygira CR 7
+XP 3,200
+LE Medium monstrous humanoid
+Init +7; Senses blindsight 30 ft. (120 ft. with gem eye), scent, true seeing with gem eye; Perception +23
+DEFENSE
+AC 19, touch 13, flat-footed 16 (+3 Dex, +6 natural)
+hp 76 (8d10+32)
+Fort +6, Ref +9, Will +14
+DR 10/adamantine; Immune gaze attacks, paralysis, petrification; SR 18
+Weaknesses light blindness
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +11 (1d4+3 plus stone curse)
+Special Attacks gem gaze, stone curse
+STATISTICS
+Str 17, Dex 16, Con 18, Int 17, Wis 22, Cha 15
+Base Atk +8; CMB +11; CMD 24
+Feats Alertness, Blind-Fight, Improved Initiative, Iron Will
+Skills Bluff +10, Knowledge (arcana) +11, Knowledge (dungeoneering) +11, Knowledge (religion) +11, Perception +23, Sense Motive +16, Spellcraft +11; Racial Modifiers +4 Perception (with gemstone)
+Languages Cyclops, Giant, Terran
+SQ gem eye
+SPECIAL ABILITIES
+Gem Eye (Su) Stygiras possess a special connection with gemstones. While holding or otherwise in contact with a gemstone of at least the size of a human eye, a stygira can see through the gemstone like a magical eye, viewing her surroundings as if her blindsense extended to 120 feet and she were under the effects of true seeing, which grants her a +4 bonus on Perception checks.
+Gem Gaze (Su) Shaken for 1d4 rounds, 30 feet, Fortitude DC 16 negates. The save DC is Charisma-based. A stygira can only make use of this ability while holding a gemstone.
+Light Blindness (Ex) Despite their effective blindness, stygiras remain sensitive to light. Abrupt exposure to bright light blinds stygiras for 1 round; on subsequent rounds, they are dazzled as long as they remain in the affected area.
+Stone Curse (Su) Any creature struck by a stygira’s claws must make a DC 18 Will save or be affected by a curse that gradually drains it of color, stiffens its joints, and finally turns the victim to stone. This curse proves frighteningly unpredictable, forcing another save against its effects every 1d3 hours. Any creature that is drained to 0 Dexterity or fails three saves against the curse is permanently petrified.
+Even if a creature is petrified and then restored to flesh, it is still affected by the curse and is petrified again upon failing its next save against the curse. A stone curse can only be removed in one of two ways: by casting remove curse or by spending a full hour in unobstructed natural sunlight. Magical radiance like daylight does not affect a stone curse, and remove curse does not return a petrified creature to flesh. The save DC is Constitution-based.
+Stone curse: Claw—curse; save Will DC 18; frequency 1/1d3 hours; effect 1d6 Dex damage, failing 3 saves results in petrification; cure casting remove curse or spending 1 hour in natural sunlight
+
+

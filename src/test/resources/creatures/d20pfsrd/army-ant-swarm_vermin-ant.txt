@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/ant/army-ant-swarm
+Army Ant Swarm CR 5
+XP 1,600
+N Fine vermin (swarm)
+Init +2; Senses darkvision 60 ft., scent; Perception +4
+DEFENSE
+AC 20, touch 20, flat-footed 18; (+8 size, +2 Dex)
+hp 49 (11d8)
+Fort +7, Ref +5, Will +3
+Defensive Abilities swarm traits; Immune weapon damage
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee swarm (3d6)
+Space 10 ft.; Reach 0 ft.
+Special Attacks cling, consume, distraction (DC 15)
+STATISTICS
+Str 1, Dex 15, Con 10, Int —, Wis 10, Cha 2
+Base Atk +8; CMB —; CMD —
+Skills Climb +10, Perception +4; Racial Modifiers +4 Perception
+SPECIAL ABILITIES
+Cling (Ex) If a creature leaves an army ant swarm’s square, the swarm suffers 1d6 points of damage to reflect the loss of its numbers as several of the crawling pests continue to cling tenaciously to the victim. A creature with army ants clinging to him takes 3d6 points of damage at the end of his turn each round. As a full-round action, he can remove the ants with a DC 17 Reflex save. High wind or any amount of damage from an area effect destroys all clinging ants. The save DC is Dexterity-based.
+Consume (Ex) An army ant swarm can rapidly consume any creature it swarms over. Against helpless or nauseated targets, an army ant swarm attack deals 6d6 points of damage.

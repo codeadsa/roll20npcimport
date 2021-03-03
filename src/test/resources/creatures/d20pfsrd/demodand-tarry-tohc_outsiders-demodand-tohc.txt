@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demodand-tohc/demodand-tarry-tohc
+Tarry Demodand CR 10
+XP 9,600
+CE Medium outsider (chaotic, demodand, evil, extraplanar)
+Init +5; Senses darkvision 120 ft.; Perception +19
+DEFENSE
+AC 27, touch 15, flat-footed 22 (+5 Dex, +12 natural)
+hp 104 (11d10+44)
+Fort +11, Ref +8, Will +10
+DR 10/good and magic; Immune acid, poison, mind-affecting effects; Resist cold 10, fire 10; SR 21
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee 2 claws +19 (1d6+7 plus grab), bite +18 (1d8+7)
+Special Attacks adhesive, rage
+Spell-Like Abilities (CL 11th)
+At will—detect good, detect magic, detect thoughts (DC 15), fear (DC 17), gaseous form, invisibility (self only), magic circle against good, see invisibility, tongues
+3/day—dispel magic, fog cloud, ray of enfeeblement
+1/day—chaos hammer (DC 17), summon (level 4, 1d2 tarry demodands 40%)
+STATISTICS
+Str 24, Dex 20, Con 19, Int 12, Wis 12, Cha 16
+Base Atk +11; CMB +18 (+26 grapple); CMD 33
+Feats Alertness, Cleave, Great Cleave, Iron Will, Power Attack, Weapon Focus (claws)
+Skills Bluff +17, Fly +13, Knowledge (arcana) +15, Knowledge (planes) +15, Perception +19, Sense Motive +12, Stealth +19, Survival +15
+Languages Abyssal, Common
+SPECIAL ABILITIES
+Adhesive (Ex) A tarry demodand exudes a thick tar-like substance that acts as a powerful adhesive, holding fast any creatures or items touching it. A tarry demodand has a +4 racial bonus on grapple checks due to its tarry secretions in addition to that provided by its grab ability.
+A weapon that strikes a tarry demodand is stuck fast unless the wielder succeeds on a DC 19 Reflex save. A successful DC 19 Strength check is needed to pry it off. The save DC and check DC are Constitution-based.
+Strong alcohol dissolves the adhesive. A pint of wine or a similar liquid weakens it, but the tarry demodand can still grapple normally. A tarry demodand can dissolve its adhesive at will, and the substance breaks down 1 minute after the creature dies.
+Rage (Ex) A tarry demodand that takes damage in combat has a 50% chance of flying into a berserk rage the following round, clawing and biting madly until either it or its opponent is dead. It gains +4 Strength and –4 AC. The creature cannot end its rage voluntarily.
+While raging, make the following adjustments to the tarry demodand’s statistics:
+AC 23, touch 11, flat-footed 18; CMB +20 (+28 grapple); CMD 35; Melee 2 claws +21 melee (1d6+9), bite +20 melee (1d8+9); Str 28

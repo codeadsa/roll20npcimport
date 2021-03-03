@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/nycar
+Nycar CR 2
+XP 600
+CN Tiny dragon (aquatic)
+Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +5
+DEFENSE
+AC 16, touch 15, flat-footed 13 (+3 Dex, +1 natural, +2 size)
+hp 22 (3d12+3); regeneration 1 (cold iron)
+Fort +4, Ref +6, Will +3
+Defensive Abilities ferocity, DR 5/cold iron; Immune paralysis, sleep; Resist acid 5
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee bite +8 (1d4+1 plus poison)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks poison
+STATISTICS
+Str 13, Dex 16, Con 12, Int 5, Wis 10, Cha 9
+Base Atk +3; CMB +4; CMD 15 (can’t be tripped)
+Feats Skill Focus (Stealth), Weapon Finesse
+Skills Escape Artist +13, Fly +11, Perception +5, Stealth +20, Swim +13; Racial Modifiers +8 Escape Artist
+Languages Draconic (can’t speak)
+SQ amphibious, elusive
+SPECIAL ABILITIES
+Elusive (Ex) A nycar can make an Escape Artist check as a swift action.
+Poison (Ex) Bite—injury; save Fort DC 12; frequency 1/round for 6 rounds; effect 1d4 acid and 1 Con damage; cure 2 consecutive saves.

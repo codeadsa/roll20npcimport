@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/hamster-giant
+Giant Hamster CR 3
+XP 800
+N Large animal
+Init +1; Senses low-light vision; Perception +9
+DEFENSE
+AC 15, touch 10, flat-footed 14 (+1 Dex, +5 natural, –1 size)
+hp 30 (4d8+12)
+Fort +7, Ref +5, Will +2
+Immune disease
+OFFENSE
+Speed 20 ft., burrow 10 ft.
+Melee bite +6 (1d8+6 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks cheek pouch
+STATISTICS
+Str 19, Dex 13, Con 16, Int 1, Wis 12, Cha 6
+Base Atk +3; CMB +8 (+12 grapple); CMD 19 (23 vs. trip)
+Feats Endurance, Skill Focus (Perception)
+Skills Climb +9, Perception +9
+SPECIAL ABILITIES
+Cheek Pouch (Ex) A giant hamster can try to stuff a grabbed opponent of two sizes smaller than itself into its cheek pouch by making a successful grapple check. A creature stuffed into the giant hamster’s cheek pouch takes no damage, and can escape by making a successful DC 16 Strength check or can cut its way out by using a light slashing or piercing weapon to deal 10 points of damage to the cheek (AC 11). Once the creature exits, muscular action closes the hole; another trapped opponent must cut its own way out. A Large hamster’s cheek can hold 1 Small, 2 Tiny, or 8 Diminutive or smaller opponents. The check DC is Strength-based.
+Immune (Ex) Giant hamsters are immune to all diseases (magical and otherwise).

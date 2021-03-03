@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/psychopomp/psychopomp-yamaraj
+Yamaraj CR 20
+XP 307,200
+N Huge outsider (extraplanar, psychopomp)
+Init +16; Senses darkvision 60 ft., detect thoughts, low-light vision, spiritsense, true seeing; Perception +37; Aura fear (30 ft., DC 32)
+DEFENSE
+AC 40, touch 21, flat-footed 27 (+4 armor, +12 Dex, +1 dodge, +15 natural, –2 size)
+hp 337 (25d10+200); fast healing 10
+Fort +22, Ref +20, Will +25
+Defensive Abilities lightning drinker; DR 15/adamantine; Immune cold, electricity, death effects, disease, poison; SR 31
+OFFENSE
+Speed 40 ft., fly 60 ft. (good), swim 40 ft.
+Melee bite +32 (2d6+9/19–20 plus grab and poison), 2 claws +32 (2d6+9), tail slap +30 (2d6+4), 2 wings +30 (1d8+4)
+Space 15 ft.; Reach 15 ft.
+Special Attacks breath weapon (60-ft. cone, 20d6 cold, Reflex DC 30 half, usable every 1d4 rounds; or beetles), poison
+Spell-Like Abilities (CL 20th; concentration +30)
+Constant—detect thoughts (DC 22), mage armor, true seeing
+At will—greater dispel magic, greater teleport (self plus 50 lbs. of objects only), reincarnate, rest eternal, scrying, share language, telekinesis (DC 25), tongues
+3/day—circle of death (DC 26), forcecage (DC 27), miracle (DC 29) (see final judgment), quickened lightning bolt (DC 23), undeath to death (DC 26)
+1/day—soul bind, summon (level 9, any one CR 19 or lower psychopomp 100%), wail of the banshee (DC 29)
+STATISTICS
+Str 28, Dex 35, Con 27, Int 24, Wis 28, Cha 31
+Base Atk +25; CMB +36 (+38 bull rush, +40 grapple); CMD 59 (61 vs. bull rush, 63 vs. trip)
+Feats Combat Reflexes, Dodge, Hover, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Iron Will, Mobility, Multiattack, Power Attack, Quicken Spell-Like Ability (lightning bolt), Spell Penetration, Wind Stance
+Skills Acrobatics +37 (+41 when jumping), Bluff +38, Diplomacy +35, Fly +40, Intimidate +35, Knowledge (arcana) +32, Knowledge (planes) +35, Knowledge (religion) +32, Perception +37, Sense Motive +37, Spellcraft +32, Stealth +32, Swim +42; Racial Modifiers +4 Acrobatics when jumping
+Languages Abyssal, Aklo, Celestial, Common, Draconic, Infernal
+SQ final judgment, spirit touch
+SPECIAL ABILITIES
+Breath Weapon (Su) In addition to its cold breath weapon, a yamaraj can breath a 60-foot cone of beetles and other insectile scavengers. Creatures in the breath weapon’s area take 16d6 points of slashing damage and are nauseated for 1d4 rounds (Reflex 30 halves damage and negates nausea). The scavengers persist as a swarm around the affected creature that is closest to the breath weapon’s point of origin; this swarm has the same statistics as an army ant swarm, but its distraction DC is the same as the yamaraj’s breath weapon DC. The save DC is Constitution-based.
+Final Judgment (Su) A yamaraj can only use its miracle spell-like ability to restore a slain outsider to life or to reproduce the following spell effects: banishment, dimensional anchor, greater restoration, plane shift, true resurrection.
+Lightning Drinker (Su) A yamaraj absorbs electricity to strengthen itself. If struck by an electrical attack, it heals 1 hit point per 3 points of electricity damage the attack would otherwise deal. If the amount of healing would cause the yamaraj to exceed its full normal hit points, it gains any excess as temporary hit points (up to a maximum of 100), which last up to 1 hour.
+Poison (Ex) Bite—injury; save Fort DC 30; frequency 1/round for 6 rounds; effect 1d4 Dex drain; cure 3 consecutive saves.

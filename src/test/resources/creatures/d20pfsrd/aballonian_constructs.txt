@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/aballonian
+Aballonian CR 7
+XP 3,200
+N Medium construct
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 20, touch 12, flat-footed 18 (+2 Dex, +8 natural)
+hp 75 (10d10+20)
+Fort +3, Ref +7, Will +5
+DR 5/adamantine; Immune construct traits
+Weaknesses sunlight dependency
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee 2 claws +15 (1d8+4/19–20 plus grab)
+Ranged spark +12 touch (2d6 electricity)
+STATISTICS
+Str 19, Dex 14, Con —, Int 17, Wis 10, Cha 11
+Base Atk +10; CMB +14 (+18 grapple); CMD 26
+Feats Improved Critical (claw), Iron Will, Lightning Reflexes, Power Attack, Weapon Focus (claw)
+Skills Acrobatics +12 (+16 when jumping), Climb +22, Knowledge (engineering) +13, Perception +10, Stealth +12
+Languages Common; shortwave 100 ft.
+SQ rebuild
+SPECIAL ABILITIES
+Rebuild (Ex) Aballonian machines are capable of improving and adapting their designs. Each Aballonian starts out with one of the abilities listed below. For every two additional abilities it possesses, its CR increases by +1. Aballonians may also add the customizable abilities of animated objects, increasing their CRs by +1 for every 2 Construction Points spent in this way. (They are already considered metal.) Aballonians may adapt of their own volition, but it takes 1 day to add each additional ability beyond the first, and they must also possess the rare materials necessary to make such improvements. An ability can only be gained once unless stated otherwise.
+Gain a plasma cutter that deals 1d6 points of fire damage on a melee touch attack. Gain advanced treads that increase base speed to 60 feet. Modify chassis to gain a burrow, climb, or swim speed of 60 feet. This ability may be taken multiple times. Its effects do not stack. Each time it is taken, it applies to a new movement type. Add a radar dish that grants blindsight 120 feet. Gain an additional claw or slam melee attack (1d6 damage). Lengthen arms to extend reach by 5 feet. Gain the rend special attack (2 claws, 1d8+6). Add armor plating to gain a +4 natural armor bonus to AC. Harden systems to gain resistance 10 against a single energy type (acid, cold, electricity, or fire). This ability may be taken multiple times. Its effects do not stack. Each time it is taken, it applies to a new energy type. Shortwave (Ex) An Aballonian can communicate with nearby Aballonians via invisible waves. This functions as telepathy 100 ft., but only with other Aballonians. In combat, if any allied Aballonians within range can act in a surprise round, all of them can.
+Spark (Ex) As a standard action, an Aballonian can launch an arc of electricity at a nearby creature. This attack has a range of 20 feet with no range increment. In addition, whenever an Aballonian makes a check to maintain a grapple, it can use its spark attack against the creature it is grappling as a free action.
+Sunlight Dependency (Ex) Aballonians gain their energy from light. In areas of darkness, they gain the sickened condition.

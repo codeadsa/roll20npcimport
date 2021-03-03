@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-gallu--faceless-demon-tohc
+Faceless Demon (Gallu-) CR 6
+XP 2,400
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +4; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 20, touch 9, flat-footed 20 (+11 natural, –1 size)
+hp 66 (7d10+28)
+Fort +9, Ref +7, Will +4
+DR 10/cold iron; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 17
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +12 (1d6+6 plus grab), bite +12 (1d8+6)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 22, Dex 11, Con 18, Int 12, Wis 14, Cha 16
+Base Atk +7; CMB +14 (+18 grapple); CMD 24
+Feats Cleave, Improved Initiative, Lightning Reflexes, Power Attack
+Skills Bluff +13, Diplomacy +13, Disguise +13, Intimidate +13, Perception +12, Sense Motive +12, Stealth +6
+Languages Abyssal, Common
+SQ alter shape, dimension door, plane shift
+SPECIAL ABILITIES
+Alter Shape (Su) A gallu-demon can assume any humanoid form, or revert to its own form, as a standard action. This ability is similar to the alter self spell (CL18th), but the gallu-demon can remain in the new form indefinitely.
+Dimension Door (Su) At the gallu-demon’s option, it can use dimension door to transport a grappled victim (who gets no saving throw) within the same plane, instead of its plane shift ability. It is otherwise similar to the spell of the same name.
+Plane Shift (Su) A gallu-demon can enter any of the elemental planes, the Astral Plane, or the Abyss. This ability transports the gallu-demon and one grappled victim (who gets no save to avoid the shift). It is otherwise similar to the spell of the same name.

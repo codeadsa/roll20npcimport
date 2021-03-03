@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/neothelid/neothelid-overlord
+Neothelid Overlord CR 20
+XP 307,200
+CE Gargantuan aberration
+Init +4; Senses blindsight 100 ft., trace teleport 60 ft.; Perception +43; Aura madness (60 ft., DC 33)
+DEFENSE
+AC 34, touch 6, flat-footed 34 (+28 natural, –4 size)
+hp 400 (32d8+256)
+Fort +20, Ref +12, Will +24; +4 vs. psychic spells
+Defensive Abilities psychic resilience; DR 15/cold iron; SR 31
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee 6 tongues +32 (3d6+12/19–20 plus grab)
+Space 20 ft.; Reach 20 ft.
+Special Attacks breath weapon (50-ft. cone, 18d10 acid, Reflex DC 34 half, once every 1d4 rounds), coordinated attacks, swallow whole (2d6+12 plus 2d6 acid, AC 24,
+hp 40)
+Psychic Magic (CL 20th; concentration +27)
+27 PE—demand offering (2 PE, DC 19), ego whip V (6 PE, DC 23), id insinuation IV (5 PE, DC 22), mass inflict pain (6 PE, DC 23), mind thrust VI (6 PE, DC 23), psychic crush V (9 PE, DC 26), telekinetic storm (9 PE, DC 26)
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant—fly
+At will—clairaudience/clairvoyance, detect thoughts (DC 19), mass charm monster (DC 25), mass suggestion (DC 23), poison (DC 20), telekinesis, teleport
+3/day—quickened mass suggestion (DC 23)
+STATISTICS
+Str 34, Dex 11, Con 26, Int 24, Wis 19, Cha 25
+Base Atk +24; CMB +40 (+44 bull rush, +44 grapple, +44 overrun); CMD 50 (52 vs. bull rush, 52 vs. overrun; can’t be tripped)
+Feats Alertness, Cleave, Great Cleave, Great Fortitude, Greater Bull Rush, Greater Overrun, Improved Bull Rush, Improved Critical (tongue), Improved Initiative, Improved Lightning Reflexes, Improved Overrun, Iron Will, Lightning Reflexes, Persuasive, Power Attack, Quicken Spell-Like Ability (mass suggestion)
+Skills Bluff +39, Climb +47, Diplomacy +43, Fly +33, Intimidate +46, Knowledge (arcana) +42, Knowledge (dungeoneering, planes) +39, Perception +43, Sense Motive +40, Spellcraft +42
+Languages Aboleth, Abyssal, Aklo, Elder Thing, Infernal, Terran, Undercommon, +1 additional; telepathy 100 ft.
+SQ divided consciousness
+SPECIAL ABILITIES
+Aura of Madness (Su) Any sane being within 60 feet of a conscious neothelid overlord must succeed at a DC 33 Will saving throw each round or become confused for 1 round. A creature that fails 5 saves in a row becomes permanently insane, as per the insanity spell. A neothelid overlord can suppress or activate this aura as a free action. This is a mind-affecting insanity effect. The save DC is Charisma-based.
+Coordinated Attacks (Ex) A neothelid overlord can make attacks with the three tongues in each of its two heads.
+It can attempt to swallow two targets at the same time, but if the neothelid overlord instead attacks the same target with all six tongues, it gains a +4 bonus on all combat maneuver checks to grab and swallow that target, regardless of how many tongues successfully hit. On a round in which it uses its breath weapon, a neothelid overlord can still attack with the three tongues belonging to its other head.
+Divided Consciousness (Ex) The neothelid overlord’s two heads share a split consciousness that allows it to operate as though the overlord were constantly under the effect of a divide mind spell.
+Trace Teleport (Ex) A neothelid overlord telepathically and reflexively learns the mental coordinates of the destination of all creatures that use a teleport spell or effect within 60 feet of it, gaining an awareness of the location equivalent to “seen casually.” This knowledge fades and is lost after 1 minute. This ability does not grant any environmental information about the conditions of the destination.

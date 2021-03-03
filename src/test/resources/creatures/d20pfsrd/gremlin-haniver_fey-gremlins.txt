@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-haniver
+Haniver CR 1/2
+XP 200
+N Tiny fey (aquatic)
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +4
+DEFENSE
+AC 13, touch 13, flat-footed 12 (+1 Dex, +2 size)
+hp 4 (1d6+1)
+Fort +1, Ref +3, Will +2
+DR 2/cold iron; SR 11
+OFFENSE
+Speed 10 ft., fly 20 ft. (average), swim 20 ft.
+Melee bite +1 (1d3–1)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks misplacement
+Spell-Like Abilities (CL 1st; concentration +2)
+At will—prestidigitation, ventriloquism (DC 12)
+1/day—scare (DC 13)
+STATISTICS
+Str 9, Dex 13, Con 12, Int 8, Wis 11, Cha 12
+Base Atk +0; CMB –1; CMD 8
+Feats Improved Initiative
+Skills Disable Device +3, Disguise +5, Fly +5, Perception +4, Sleight of Hand +7, Stealth +13, Swim +11; Racial Modifiers +2 Disable Device, +2 Sleight of Hand
+Languages Common, Sylvan
+SQ amphibious
+SPECIAL ABILITIES
+Misplacement (Su) Hanivers are swift and curious, possessing an uncanny ability to meddle with the possessions of any character whose square they enter. Any time a haniver succeeds at a Sleight of Hand check against a creature, it also rearranges that creature’s possessions. The next time that creature attempts to produce a weapon or item, it finds its possessions misplaced or disarranged; retrieving a stored item or drawing a weapon then requires a standard action instead of a move action (unless the haniver has stolen the item in question). After spending this standard action, the character takes mental inventory and is no longer affected by this ability.

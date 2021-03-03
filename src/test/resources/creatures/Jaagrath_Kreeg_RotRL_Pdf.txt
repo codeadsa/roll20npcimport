@@ -1,0 +1,43 @@
+Jaagrath Kreeg CR 10
+Male ogre barbarian 7
+CE Large giant
+Init +1; Senses darkvision 60 ft., low-light vision; Listen +8, Spot +1
+DEFENSE
+AC 15, touch 8, flat-footed 14
+(+2 armor, +1 Dex, +5 natural, –2 rage, –1 size)
+hp 118 (4d8+7d12+55)
+Fort +14, Ref +4, Will +4
+Defensive Abilities trap sense +2, improved uncanny dodge; DR 1/—
+OFFENSE
+Spd 50 ft.
+Melee +1 human bane ogre hook +21/+16 (3d6+16/19–20/×3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rage 2/day
+TACTICS
+During Combat Jaagrath is perhaps a bit overconfident in his fighting
+prowess, but that certainly doesn’t mean he’s a pushover. He rages
+on the first round of combat, then focuses his attacks on humans,
+saving other races for “clean up.” On the first round of combat, he
+makes full Power Attacks (+11/+6; 3d6+36/19–20/×3), but
+if he misses he drops his Power Attack bonus by 5 points, and then
+entirely if he continues to miss.
+Morale If Jaagrath is brought below 25 hit points, he attempts to flee
+to area B30 to recruit aid, drinking both of his potions as soon as
+he gets a chance. Once at area B30, he fights to the death.
+Base Statistics When Jaagrath isn’t raging, his stats change as follows:
+AC 17, touch 10, flat-footed 16
+hp 96
+Fort +12, Will +2
+Melee +1 human bane ogre hook +19/+14 (3d6+13/19–20/×3)
+Str 26, Con 16
+Skills Climb +11
+STATISTICS
+Str 30, Dex 12, Con 20, Int 6, Wis 8, Cha 9
+Base Atk +10; Grp +22
+Feats Improved Bull Rush, Improved Critical (ogre hook), Power Attack,
+Weapon Focus (ogre hook)
+Skills Climb +13, Intimidate +6, Listen +8, Spot +1
+Languages Common, Giant
+Combat Gear potions of cure serious wounds (2); Other Gear
++1 human bane ogre hook, bracers of armor +2, belt of giant
+strength +4

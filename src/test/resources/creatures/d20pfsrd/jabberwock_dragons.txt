@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/jabberwock
+Jabberwock CR 23
+XP 819,200
+CE Huge dragon (air, fire)
+Init +5; Senses blindsight 120 ft., darkvision 120 ft., low-light vision, scent, true seeing; Perception +38; Aura frightful presence (120 ft., DC 31)
+DEFENSE
+AC 40, touch 14, flat-footed 34 (+5 Dex, +1 dodge, +26 natural, –2 size)
+hp 455 (26d12+286); fast healing 15
+Fort* +26, Ref +20, Will +24
+DR 15/vorpal; Immune fire, paralysis, sleep; Resist acid 30, electricity 30, sonic 30; SR 31
+Weaknesses fear of vorpal weapons, vulnerable to cold
+OFFENSE
+Speed 40 ft., fly 80 ft. (poor)
+Melee bite +37 (4d8+19/19–20/×3), 2 claws +37 (3d6+13/19–20 plus grab), tail slap +32 (2d8+19), 2 wings +32 (1d8+6)
+Ranged 2 eye rays +29 touch (15d6 fire/19–20 plus burn)
+Space 15 ft.; Reach 15 ft.
+Special Attacks burble, burn (6d6, DC 34), eye rays, whiffling
+STATISTICS
+Str 37, Dex 20, Con 33, Int 12, Wis 29, Cha 26
+Base Atk +26; CMB +41 (+45 grapple); CMD 57
+Feats Awesome Blow, Bleeding Critical, Critical Focus, Dodge, Flyby Attack, Improved Bull Rush, Improved Critical (bite, claws, eye rays), Mobility, Power Attack, Spring Attack, Vital Strike
+Skills Acrobatics +31 (+35 jump), Escape Artist +31, Fly +26, Intimidate +37, Knowledge (nature) +30, Perception +38, Sense Motive +38
+Languages Aklo, Common, Draconic, Gnome, Sylvan
+SQ planar acclimation
+SPECIAL ABILITIES
+Burble (Su) A jabberwock can burble once every 1d4 rounds as a standard action. This blast of strange noises and shouted nonsense in the various languages known to the jabberwock (and invariably some languages it doesn’t know) affects all creatures within a 60-foot-radius spread—these creatures must make a DC 31 Will save or become confused for 1d4 rounds. Alternatively, the jabberwock can focus its burble attack to create a 60-foot line of sonic energy that deals 20d6 points of sonic damage (DC 31 Reflex save for half). The confusion effect is mind-affecting; both are sonic effects. The save DC is Charisma-based.
+Damage Reduction (Ex) A jabberwock’s damage reduction can be bypassed only by weapons that possess the vorpal weapon enhancement.
+Eye Rays (Su) The jabberwock can project beams of fire from its eyes as a ranged touch attack as a standard action, with a range increment of 60 feet. It projects two beams, and can target different creatures with these beams if it wishes as long as both targets are within 30 feet of each other. A creature that takes damage from an eye beam suffers burn.
+Fear of Vorpal Weapons (Ex) A jabberwock knows that a vorpal weapon can kill it swiftly. As soon as it takes damage from a vorpal weapon, a jabberwock becomes shaken for 1 round. If it is hit by a critical threat from a vorpal weapon, whether or not the critical hit is confirmed, the jabberwock is staggered for 1 round.
+Planar Acclimation (Ex) A jabberwock is always considered to be on its home plane, regardless of what plane it finds itself upon. It never gains the extraplanar subtype.
+Whiffling (Ex) A jabberwock’s wings and violent motions create a significant amount of wind whenever it makes a full attack action. These winds surround the monster to a radius of 30 feet, and are treated as severe winds—ranged attacks take a –4 penalty when targeting a jabberwock while it is whiffling, and medium creatures must make a DC 10 Strength check to approach the creature. Small or smaller creatures in this area that fail a DC 15 Strength check are blown away. See weather for further details on the effects of severe winds.

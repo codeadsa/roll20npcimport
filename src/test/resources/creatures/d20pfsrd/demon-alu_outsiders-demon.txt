@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-alu
+Alu-Demon CR 5
+XP 1,600
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +2; Senses darkvision 120 ft.; Perception +15
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 45 (6d10+12)
+Fort +6, Ref +6, Will +4
+DR 5/cold iron or good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 16
+OFFENSE
+Speed 30 ft., fly 50 ft. (average)
+Melee longsword +9/+4 (1d8+3/19–20) or 2 claws +9 (1d6+3 plus vampiric touch)
+Spell-Like Abilities (CL 8th)
+3/day—charm person (DC 14), detect thoughts (DC 15), disguise self, suggestion (DC 16);
+1/day—dimension door
+TACTICS
+Alu-demons attack with weapons (preferring longswords or maces) or with claws. The alu-demon mixes in her spell-like abilities regardless of the method of attack utilized.
+STATISTICS
+Str 17, Dex 15, Con 15, Int 15, Wis 15, Cha 16
+Base Atk +6; CMB +9; CMD 21
+Feats Blind-Fight, Cleave, Power Attack
+Skills Bluff +11, Diplomacy +12, Escape Artist +11, Fly +6, Intimidate +12, Knowledge (planes) +11, Perception +15, Stealth +11, Survival +11; Racial Modifiers +4 Perception
+Languages Abyssal, Common; telepathy 100 ft.
+Gear longsword
+SPECIAL ABILITIES
+Vampiric Touch (Su) An alu-demon gains temporary hit points equal to the damage dealt each time she successfully hits with a claw attack. She cannot gain more than her target’s current hit points + the target’s Con score (which is enough to kill the target). The temporary hit points disappear in one hour.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/medusa
+Medusa CR 7
+XP 3,200
+LE Medium monstrous humanoid
+Init +6; Senses all-around vision, darkvision 60 ft.; Perception +16
+DEFENSE
+AC 15, touch 12, flat-footed 13 ( +2 Dex, +3 natural)
+hp 76 (8d10+32)
+Fort +6, Ref +8, Will +7
+OFFENSE
+Speed 30 ft.
+Melee dagger +10/+5 (1d4/19–20), snake bite +5 (1d4 plus poison)
+Ranged mwk longbow +11/+6 (1d8/×3)
+Special Attacks petrifying gaze
+STATISTICS
+Str 10, Dex 15, Con 18, Int 12, Wis 13, Cha 15
+Base Atk +8; CMB +8; CMD 20
+Feats Improved Initiative, Point-Blank Shot, Precise Shot, Weapon Finesse
+Skills Bluff +10, Disguise +10, Intimidate +13, Perception +16, Stealth +13; Racial Modifiers +4 Perception
+Languages Common
+SPECIAL ABILITIES
+All-Around Vision (Ex) A medusa’s snake-hair allows her to see in all directions. Medusas gain a +4 racial bonus to Perception checks and cannot be flanked.
+Petrifying Gaze (Su) Turn to stone permanently, 30 feet, Fortitude DC 16 negates. The save DC is Charisma-based.
+Poison (Ex) Bite—injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d3 Str; cure 2 consecutive saves. The save DC is Constitution-based.

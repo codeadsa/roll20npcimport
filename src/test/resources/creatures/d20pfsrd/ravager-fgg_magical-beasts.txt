@@ -1,0 +1,71 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ravager-fgg
+The Ravager (Crawler Form) CR 30
+XP 9,830,400
+N Gargantuan magical beast
+Init +7; Senses darkvision 120 ft., low-light vision, scent, tremorsense 60 ft.; Perception +45
+DEFENSE
+AC 45, touch 13, flat-footed 38 (+7 Dex, +32 natural, –4 size)
+hp 857 (35d10+630 plus 35); regeneration 20 (epic-level weapons and artifacts), vampiric healing
+Fort +39, Ref +26, Will +20
+Defensive Abilities magic disruption (1–4 on d20); DR 30/epic; Immune energy drain; Resist death, energy 20
+OFFENSE
+Speed 50 ft., burrow 20 ft.
+Melee bite +46 (6d6+15/19–20/x3), 4 claws +46 (4d6+15/15– 20)
+Space 20 ft.; Reach 15 ft.
+Special Attacks trample (4d6+22, DC 42)
+STATISTICS
+Str 40, Dex 24, Con 46, Int 6, Wis 25, Cha 24
+Base Atk +35; CMB +54; CMD 71 (75 vs. trip)
+Feats Cleave, Combat Reflexes, Critical Focus, Great Cleave, Great Fortitude, Improved Critical (bite), Improved Critical (claw), Improved Natural Armor (x4), Improved Natural Attack (bite), Improved Natural Attack (claw), Improved Vital Strike, Iron Will, Power Attack, Toughness, Vital Strike
+Skills Perception +45
+SQ form-shifting
+Towering 35 ft. high is a massive, apelike creature, resting on two sets of powerfully muscled legs. A third set of arms, thick and corded with muscle, bulges out from its massive shoulders, ending with massive black claws. The mouth is filled with jagged black teeth, and glistening black eyes are set over a wide muzzle. Its skin is deep red, somewhat lighter on the underbelly.
+The Ravager (Brawler Form) CR 30
+XP 9,830,400
+N Gargantuan magical beast
+Init +7; Senses darkvision 120 ft., low-light vision, scent, tremorsense 60 ft.; Perception +45
+DEFENSE
+AC 45, touch 13, flat-footed 38 (+7 Dex, +32 natural, –4 size)
+hp 612 (35d10+385 plus 35); regeneration 20 (epic-level weapons and artifacts), vampiric healing
+Fort +32; Ref +26; Will +20
+Defensive Abilities magic disruption (1–4 on d20); DR 30/epic; Immune energy drain; Resist death, energy 20
+OFFENSE
+Speed 70 ft.
+Melee bite +51 (3d8+20/x3), 2 claws +51 (3d8+20/15–20)
+Space 20 ft.; Reach 20 ft.
+Special Attacks trample (3d8+30, DC 45)
+STATISTICS
+Str 50, Dex 24, Con 32, Int 6, Wis 25, Cha 24
+Base Atk +35; CMB +59; CMD 76
+Feats Awesome Blow, Cleave, Combat Reflexes, Critical Focus, Great Cleave, Great Fortitude, Improved Critical (claw), Improved Natural Armor (x4), Improved Natural Attack (claw) (x2), Improved Sunder, Iron Will, Power Attack, Toughness, Vital Strike
+Skills Perception +45
+SQ form-shifting
+With a crack and boom, this creature spreads a pair of great leathery wings over 50 ft. in span. Its body is lean and covered with rippling muscle beneath a thick, leathery crimson hide. Its claws and teeth are black, as are its eyes.
+The Ravager (Flier Form) CR 30
+XP 9,830,400
+N Gargantuan magical beast
+Init +14; Senses darkvision 120 ft., low-light vision, scent, tremorsense 60 ft.; Perception +45
+DEFENSE
+AC 52, touch 20, flat-footed 38 (+14 Dex, +32 natural, –4 size)
+hp 612 (35d10+385 plus 35); regeneration 20 (epic-level weapons and artifacts), vampiric healing
+Fort +34; Ref +33; Will +20
+Defensive Abilities magic disruption (1–4 on d20); DR 30/epic; Immune energy drain; Resist death, energy 20
+OFFENSE
+Speed 20 ft., fly 140 ft. (good)
+Melee bite +46 (6d8+15/x3), 2 claws +46 (2d8+15/18–20)
+Space 20 ft.; Reach 15 ft.
+STATISTICS
+Str 40, Dex 38, Con 32, Int 6, Wis 25, Cha 24
+Base Atk +35; CMB +54; CMD 78
+Feats Cleave, Combat Reflexes, Critical Focus, Flyby Attack, Great Cleave, Great Fortitude, Hover, Improved Natural Attack (bite) (x2), Improved Natural Armor (x4), Improved Vital Strike, Iron Will, Power Attack, SnatchB, Toughness, Vital Strike
+Skills Perception +45
+SQ form-shifting
+Variants
+Ravager Spawn SPECIAL ABILITIES
+Death Resistance (Ex) The Ravager possesses an innate resistance to effects that would kill or permanently incapacitate it, including petrification and imprisonment. Against such effects it is considered to automatically make any required saving throws.
+Energy Resistance (Ex) The Ravager possesses energy resistance against all forms of energy attack (fire, cold, electricity, acid, and sonic).
+Form-Shifting (Ex) The Ravager can physically alter its physiology to take on one of the three listed forms: the Crawler, the Brawler, or the Flier. Doing so takes one minute, and during this period it cannot take any other actions, though it is not considered helpless.
+Magic Disruption (Su) Every time the Ravager comes into contact with a spell or spell-like or supernatural effect, there is a chance as indicated above that the magic does not affect it. In the case of ongoing effects, a new check is made each round.
+Regeneration (Ex) The Ravager and its brood treat all damage as subdual, except damage from epic-level weapons and artifacts.
+Trample (Ex) The Ravager gains its vampiric healing ability on this damage where appropriate. The Ravager does not have this ability in its Flier form. Instead, it gains Snatch as a bonus feat.
+Vampiric Healing (Su) Whenever the Ravager hits with a melee attack, it is healed hit points equal to half the damage it inflicts on its opponent. This ability cannot heal it above its natural maximum hit points. This ability extends to its trample special attack, where applicable.

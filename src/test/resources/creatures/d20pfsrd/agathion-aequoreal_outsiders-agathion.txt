@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-aequoreal
+Aequoreal CR 2
+XP 600
+NG Tiny outsider (agathion, aquatic, extraplanar, good)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +11
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 11 (2d10)
+Fort +0, Ref +5, Will +6; +4 vs. poison
+DR 5/evil or silver; Immune electricity, petrification; Resist cold 10, sonic 10; SR 13
+OFFENSE
+Speed fly 30 ft. (good), swim 30 ft.
+Melee 2 stings +4 (1d2-4)
+Special Attacks mnematocyst
+Spell-Like Abilities (CL 2nd; concentration +3)
+Constant—know direction, speak with animals
+At will—dancing lights, stabilize
+1/day—detect thoughts (DC 13), sleep (DC 12)
+1/week—touch of idiocy (DC 13)
+STATISTICS
+Str 2, Dex 14, Con 10, Int 10, Wis 13, Cha 12
+Base Atk +2; CMB -4; CMD -2 (can’t be tripped)
+Feats Iron Will, Weapon Finesse
+Skills Acrobatics +5, Diplomacy +4, Fly +6, Knowledge (planes) +6, Perception +11, Stealth +13, Swim +12; Racial Modifiers +4 Perception, +4 Stealth, +8 Swim
+Languages Celestial, Draconic, Infernal; speak with animals, truespeech
+SQ amphibious, compression, flight, lay on hands (1d6, 1/day, as a 2nd-level paladin)
+SPECIAL ABILITIES
+Dream Link (Su) As a standard action, an aequoreal can slide its body over a Medium or smaller creature’s head and link minds. This allows the linked creature to communicate telepathically and share dreams with the aequoreal as well as with any other beings whose forehead is currently touched by its tentacles. Dream link does not inhibit a creature’s breathing ability.
+Hollow Body (Ex) An aequoreal’s hollow body collapses easily to absorb blunt force. Bludgeoning damage in excess of an aequoreal’s damage reduction is converted to nonlethal damage.
+Mnemostat (Su) The stinging cells of an aequoreal can transfer a shocking jolt of electricity and memory into the minds of its target. Evil creatures take 1d4 electricity damage. Evil and neutral creatures are stunned for 1d3 rounds (DC 13) by the rush of confusing and guilt-inducing memories. Good creatures take no damage and are instead affected as by calm emotions (DC 13). This ability can be used once every 1d4 rounds.

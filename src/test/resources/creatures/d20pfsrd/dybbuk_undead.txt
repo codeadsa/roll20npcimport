@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/dybbuk
+Dybbuk CR 15
+XP 51,200
+NE Medium undead (incorporeal)
+Init +15; Senses darkvision 60 ft.; Perception +29
+DEFENSE
+AC 28, touch 28, flat-footed 17 (+7 deflection, +11 Dex)
+hp 207 (18d8+126)
+Fort +13, Ref +17, Will +17
+Defensive Abilities incorporeal, channel resistance +4; DR 10/good; Immune undead traits; SR 26
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee pain touch +25 touch (7d6)
+Special Attacks malevolence
+Spell-Like Abilities (CL 18th; concentration +25)
+At will—detect thoughts (DC 19), telekinesis (DC 22)
+3/day—dominate monster (DC 22), feeblemind (DC 22), inflict serious wounds (DC 20)
+1/day—greater heroism, modify memory (DC 21), tongues
+STATISTICS
+Str —, Dex 32, Con —, Int 15, Wis 18, Cha 25
+Base Atk +13; CMB +24; CMD 41
+Feats Alertness, Blind-Fight, Combat Reflexes, Flyby Attack, Improved Initiative, Iron Will, Lunge, Step Up, Weapon Focus (pain touch)
+Skills Bluff +25, Diplomacy +25, Fly +19, Intimidate +28, Perception +29, Sense Motive +29, Stealth +32
+Languages Abyssal, Celestial, Common
+SPECIAL ABILITIES
+Malevolence (Su) Once per round, a dybbuk can merge itself with a creature on the Material Plane. This ability is similar to a magic jar spell (caster level 18th), except that it does not require a receptacle. To use this ability, the dybbuk must be adjacent to the target. The target can resist the attack with a successful DC 26 Will save. A creature that successfully saves is immune to that same dybbuk’s malevolence for 24 hours. The save DC is Charisma-based.
+Pain Touch (Su) With a successful touch attack, a dybbuk causes painful spasms throughout the target’s body, dealing 7d6 points of damage. Creatures that are immune to pain take no damage from this touch.
+Possess Object (Su) A dybbuk can use its malevolence ability to possess a Large or smaller unattended object, animating it as if using animate objects, except the dybbuk merges with and controls the object as if it were a living creature. The dybbuk cannot speak or use its other special abilities while possessing the object.

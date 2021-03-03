@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/astral-leviathan
+Astral Leviathan CR 18
+XP 153,600
+N Colossal outsider (extraplanar)
+Init +6; Senses astral locating, blindsight 180 ft., darkvision 60 ft., low-light vision; Perception +31
+DEFENSE AC 34, touch 4, flat-footed 32 (+2 Dex, +30 natural, –8 size)
+hp 310 (20d10+200); regeneration 5 (acid and fire)
+Fort +24, Ref +8, Will +16
+DR 10/adamantine; Immune cold; Resist electricity 30, fire 30
+OFFENSE Speed fly 90 ft. (average)
+Melee bite +24 (4d6+12/19–20 plus grab), 2 slams +24 (2d8+12), tail slap +19 (4d6+6)
+Space 30 ft.; Reach 30 ft.
+Special Attacks fast swallow, gulping tide, swallow whole (4d6+18 damage, AC 25, 31 hp)
+Spell-Like Abilities (CL 20th; concentration +22)
+3/day—dimension door
+STATISTICS Str 35, Dex 14, Con 31, Int 6, Wis 15, Cha 14
+Base Atk +20; CMB +40 (+42 bull rush, +44 grapple); CMD 52 (54 vs. bull rush, can’t be tripped)
+Feats Blind-Fight, Cleave, Combat Reflexes, Great Fortitude, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception)
+Skills Fly –6, Intimidate +22, Knowledge (planes) +21, Perception +31, Survival +22
+Languages telepathy 30 ft.
+SPECIAL ABILITIES Astral Locating (Su) An astral leviathan automatically knows the distance and direction to any place on the Astral Plane it has ever visited. Once per day it can use this ability to determine the location of a creature on the Astral Plane (as if using locate creature with unlimited range).
+Gulping Tide (Ex) An astral leviathan can create a 60-foot cone of roiling astral material, pulling all Large or smaller creatures and objects into its mouth so it can swallow them. Any creature in the area that succeeds at a DC 30 Fortitude save moves up to 60 feet toward the cone’s origin; creatures that fail are swallowed. The leviathan can use this ability only once per minute. The save DC is Constitution-based.

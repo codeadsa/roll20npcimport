@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/hippopotamus/hippopotamus-behemoth
+Behemoth Hippopotamus CR 10
+XP 9,600
+N Huge animal
+Init +3; Senses low-light vision; Perception +12
+DEFENSE
+AC 23, touch 7, flat-footed 23 (–1 Dex, +16 natural, –2 size)
+hp 133 (14d8+70)
+Fort +14 (+16 vs. nonmagical disease), Ref +8, Will +7
+Defensive Abilities sweat
+OFFENSE
+Speed 50 ft.
+Melee bite +17 (4d8+13/19–20 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks capsize, trample (2d6+13, DC 26)
+STATISTICS
+Str 29, Dex 8, Con 20, Int 2, Wis 13, Cha 5
+Base Atk +10; CMB +21 (+25 grapple); CMD 30 (34 vs. trip)
+Feats Diehard, Endurance, Improved Critical (bite), Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception)
+Skills Perception +12, Stealth +2 (+12 underwater), Swim +13; Racial Modifiers +10 Stealth underwater
+SQ hold breath
+
+
+

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlin-tohc
+Gremlin CR 1/2
+XP 200
+CE Small fey
+Init +3; Senses low-light vision; Perception +8
+DEFENSE
+AC 16, touch 14, flat-footed 13 (+3 Dex, +2 natural, +1 size)
+hp 3 (1d6)
+Fort +0; Ref +5; Will +4
+DR 5/cold iron; SR 11
+Weaknesses light blindness
+OFFENSE
+Speed 20 ft.
+Melee shortsword +4 (1d4–2), bite –1 (1d4–2) or bite +4 (1d4–2), 2 claws +4 (1d4–2)
+Special Attacks sneak attack +1d6
+Spell-like Abilities (CL 5th):
+3/day—phase door
+STATISTICS
+Str 7, Dex 17, Con 11, Int 14, Wis 14, Cha 15
+Base Atk +0; CMB -3; CMD 10
+Feats Weapon Finesse
+Skills Acrobatics +7 (+3 jump), Bluff +6, Craft (traps) +6, Disable Device +7, Escape Artist +7, Perception +8, Sleight of Hand +7, Stealth +11; Racial Modifiers +2 Perception, Disable Device is a class skill
+Languages Common, Goblin, Sylvan
+SQ knot expert
+Gear short sword
+SPECIAL ABILITIES
+Knot Expert (Ex) A gremlin treats its total Hit Dice as its base attack bonus when calculating its CMB to determine the Escape Artist check DC of any restraints it ties using ropes.
+Phase Door (Sp) A gremlin can take only other gremlins through the passage and it cannot set triggering conditions to allow others to use the passage.

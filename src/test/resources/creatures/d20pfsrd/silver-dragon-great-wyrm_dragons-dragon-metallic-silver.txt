@@ -1,0 +1,48 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-silver/silver-dragon-great-wyrm
+Silver Dragon, Great Wyrm CR 22
+XP 615,000
+LG Colossal dragon (cold)
+Init +2; Senses dragon senses, fog vision; Perception +40; Aura cold(10 ft., 2d6 cold), frightful presence (360 ft., DC 32)
+DEFENSE
+AC 39, touch 0, flat-footed 39 (-2 Dex, +39 natural, -8 size)
+hp 420 (29d12+232)
+Fort +24, Ref +16, Will +26
+Defensive Abilities reflective scales, true courage; DR 20/magic; Immune acid, cold, paralysis, sleep; SR 33
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 40 ft., fly 250 ft. (poor); cloudwalking, graceful flight
+Melee bite +36 (4d8+21/19–20), 2 claws +35 (4d6+14), tail slap +33 (4d6+21), 2 wings +33 (2d8+7)
+Space 30 ft.; Reach 20 ft. (30 ft. with bite)
+Special Attacks breath weapon (70-ft. cone, DC 32, 24d8 cold), crush (4d8+21, DC 32), paralyzing breath, tail sweep (2d8+21, DC 32)
+Spell-Like Abilities (CL 29th; concentration +37)
+At will— control weather, control winds, detect evil, feather fall, fog cloud, reverse gravity Spells Known (CL 19th; concentration +27)
+9th (4/day)— gate, true resurrection
+8th (7/day)— greater spell immunity, holy aura (DC 26), mass cure critical wounds
+7th (7/day)— greater scrying , holy word (DC 25), repulsion (DC 25) 6th (7/day)— banishment (DC 24), greater dispel magic, heal
+5th (7/day)— break enchantment, flame strike (DC 23) , plane shift, wall of force
+4th (8/day)— dimension door, freedom of movement, restoration, solid fog
+3rd (8/day)— cure serious wounds, dispel magic, hold person (DC 21), wind wall
+2nd (8/day)— augury, calm emotions (DC 20), cure moderate wounds, invisibility, web (DC 20)
+1st (8/day)— bless, divine favor, protection from evil, shield, true strike
+0 (at will)— detect magic, flare (DC 18), light, message, prestidigitation, read magic, stabilize, resistance, virtue
+
+Note: A silver dragon can cast cleric spells as arcane spells
+STATISTICS
+Str 39, Dex 6, Con 27, Int 26, Wis 27, Cha 26
+Base Atk +39; CMB +51; CMD 59 (63 vs. trip)
+Feats Critical Focus, Flyby Attack, Hover, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Iron Will, Lighting Reflexes, Multiattack, Power Attack, Quicken Spell, Skill Focus (Fly), Snatch, Vital Strike, Weapon Focus (bite)
+Skills Acrobatics +27 (+31 jump), Diplomacy +40, Fly +24, Heal +40, Intimidate +40, Knowledge (arcana, history, local, nobility, planes) +40, Perception +40, Sense Motive +40, Spellcraft +40, Survival +40
+Languages Auran, Common, Draconic, Dwarven, Elven, Halfling, Giant, Terran, 1 more
+SQ change shape
+SPECIAL ABILITIES
+Change Shape (Su)
+A silver dragon can assume any animal or humanoid form 3/day as if using polymorph.
+Cloudwalking (Su) A very young or older silver dragon can tread on clouds or fog as though on solid ground.
+Cold Aura (Su) An old or older silver dragon is surrounded by an aura of cold. All creatures within 5 feet of the dragon take 1d6 points of cold damage at the beginning of the dragon’s turn. An ancient dragon’s aura extends to 10 feet. A great wyrm’s aura damage increases to 2d6. A silver dragon can suppress or activate this aura at will as a free action.
+Fog Vision (Ex) A juvenile or older silver dragon can see perfectly well in fog and clouds.
+Graceful Flight (Ex) A young or older silver dragon’s aerial maneuverability is one step better than normal.
+Paralyzing Breath (Su) Instead of a cone of cold, a silver dragon can breathe a cone of paralyzing gas. Creatures within the cone must succeed on a Fortitude save or be paralyzed for 1d6 rounds plus 1 round per age category of the dragon.
+Reflective Scales (Su) Any spell that targets an ancient or older silver dragon but fails to penetrate the silver dragon’s spell resistance might be reflected. If the caster level check to penetrate the dragon’s spell resistance is failed by 5 or more, the spell is reflected. If the check fails by 4 or less, the spell is merely wasted. This otherwise functions as spell turning.
+True Courage (Ex) A great wyrm silver dragon can fight on through pain and death. When reduced to below 0 hit points, it remains conscious, automatically stabilizes, and can continue to act (although it is staggered). If it takes damage or is the target of a spell that causes its death, it remains alive for 1 round and can act normally (it is not staggered for this final round).
+
+

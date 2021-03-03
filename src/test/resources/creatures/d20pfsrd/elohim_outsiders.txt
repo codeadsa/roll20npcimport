@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elohim
+Elohim CR 23/MR 6
+XP 819,200
+N Huge outsider (extraplanar, Mythic)
+Init +16M/–4, dual initiative; Senses blindsight 60 ft., darkvision 60 ft., deathwatch, low-light vision, scent; Perception +34
+DEFENSE
+AC 39, touch 20, flat-footed 32 (+6 Dex, +1 dodge, +5 insight, +19 natural, –2 size)
+hp 423 (22d10+302); regeneration 15 (epic weapons)
+Fort +26, Ref +13, Will +24
+Defensive Abilities fortification (50%); DR 15/epic; Immune electricity; Resist acid 30, cold 30, fire 30; SR 34
+OFFENSE
+Speed 60 ft., fly 60 ft. (good), swim 30 ft.
+Melee 2 claws +27 (2d8+7), 8 tentacles +22 (2d8+3 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks breath weapon (60-ft. cone, 20d8 electricity, Reflex DC 32 half, usable every 1d4 rounds), constrict (2d8+10), Mythic Magic, Mythic Power (6/day, Surge +1d8)
+Spell-Like Abilities (CL 23rd; concentration +30)
+Constant—deathwatch, mind blank, speak with animals
+At will— baleful polymorph (DC 22), charm monster (DC 21), etherealness, rest eternal, shapechange, stone shape, greater teleport (self plus 50 lbs. of objects only)
+5/day— control weather, greater dispel magic, greater polymorph, heal, plane shift (DC 24), terraformMA
+3/day— circle of death (DC 23), disintegrate (DC 23), power word stun
+1/day— create demiplane, mage’s disjunction STATISTICS
+Str 24, Dex 22, Con 32, Int 25, Wis 29, Cha 25
+Base Atk +22; CMB +31 (+35 grapple); CMD 53 (can’t be tripped)
+Feats Combat Casting, Combat Reflexes, Dodge, Great FortitudeM, Greater Vital Strike, Improved Great Fortitude, Improved InitiativeM, Improved Iron Will, Improved Vital Strike, Iron WillM, Vital Strike
+Skills Bluff +32, Heal +31, Intimidate +29, Knowledge (arcana, dungeoneering, geography, nature, planes) +32, Perception +34, Sense Motive +34, Spellcraft +29, Stealth +23, Swim +15, Use Magic Device +29
+Languages speak with animals, telepathy 100 ft.
+SQ compression, create life, natural spellcasting, no breath, plantbringer
+SPECIAL ABILITIES
+Create Life (Su) At will, an elohim can create any one plant or living creature. A creature created can have no more than 4 Hit Dice and be no larger than Large size, and is not under the elohim’s control.
+Natural Spellcasting (Su) An elohim can cast spells in any shape, similar to the Natural Spell feat.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/stroke-lad-tohc
+Stroke Lad CR 6
+XP 2,400
+NE Medium fey
+Init +8; Senses low-light vision; Perception +16
+DEFENSE
+AC 22, touch 14, flat-footed 18 (+4 Dex, +8 natural)
+hp 57 (8d6+24)
+Fort +5, Ref +10, Will +7
+DR 10/cold iron; SR 17
+OFFENSE
+Speed 30 ft.
+Melee slap +8 (1d6+3 plus 1d6 Dexterity drain)
+Spell-like Abilities (CL 8th):
+1/day—confusion (DC 16), dancing lights, detect evil, detect good, detect thoughts (DC 14), dispel magic
+TACTICS
+Stroke lads are vicious in their disdain for mortals, especially humans, and even more particularly, mortals more attractive than themselves. They attack with their long fingers, attempting to wither the arms or legs of foes in order to make them lame, or better yet, to permanently disfiguring the faces of those more handsome than themselves.
+Morale Cowards at heart, they surrender if threatened with death and attempt to negotiate their way out of danger to themselves. Of course they never keep to a bargain and should not be trusted.
+STATISTICS
+Str 14, Dex 18, Con 16, Int 15, Wis 12, Cha 15
+Base Atk +4; CMB +6; CMD 20
+Feats Alertness, Improved Feint, Improved Initiative, Weapon Finesse
+Skills Acrobatics +15, Bluff +17, Diplomacy +13, Escape Artist +15, Knowledge (local) +13, Perception +16, Sense Motive +14, Stealth +15; Racial Modifiers +4 Bluff, +2 Perception
+Languages Aklo, Common

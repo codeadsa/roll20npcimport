@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/dretch
+Dretch CR 2
+XP 600
+CE Small outsider (chaotic, demon, evil, extraplanar)
+Init +0; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 14, touch 11, flat-footed 14 (+3 natural, +1 size)
+hp 18 (2d10+7)
+Fort +5, Ref +0, Will +3
+DR 5/cold iron or good; Immune electricity, poison; Resist acid 10, cold 10, fire 10
+OFFENSE
+Speed 20 ft.
+Melee 2 claws +4 (1d4+1), bite +4 (1d4+1)
+Spell-Like Abilities (CL 2nd)
+1/day—cause fear (DC 11), stinking cloud (DC 13), summon (level 1, 1 dretch 35%)
+STATISTICS
+Str 12, Dex 10, Con 14, Int 5, Wis 11, Cha 11
+Base Atk +2; CMB +2; CMD 12
+Feats Toughness
+Skills Escape Artist +5, Perception +5, Stealth +9
+Languages Abyssal (cannot speak); telepathy 100 ft. (limited to Abyssal-speaking targets)

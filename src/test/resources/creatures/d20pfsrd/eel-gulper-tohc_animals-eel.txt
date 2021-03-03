@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/eel/eel-gulper-tohc
+Gulper Eel CR 5
+XP 1,600
+N Large animal (aquatic)
+Init +2; Senses low-light vision, scent; Perception +11
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+2 Dex, +4 natural, –1 size)
+hp 60 (8d8+16 plus 8)
+Fort +8, Ref +8, Will +3
+OFFENSE
+Speed swim 50 ft.
+Melee bite +9 (2d6+4 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks swallow whole (1d8+3 acid damage, AC 12, 6 hp)
+STATISTICS
+Str 17, Dex 15, Con 14, Int 1, Wis 12, Cha 2
+Base Atk +6; CMB +10 (+14 grapple); CMD 22 (can’t be tripped)
+Feats Blind-Fight, Swim-by Attack, Toughness, Weapon Focus (bite)
+Skills Perception +11, Swim +15

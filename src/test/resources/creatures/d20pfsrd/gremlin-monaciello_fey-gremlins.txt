@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-monaciello
+Monaciello CR 1
+XP 400
+CE Small fey
+Init +2; Senses low-light vision; Perception +6; Aura stymie channeling (20 ft.; DC 12)
+DEFENSE
+AC 13, touch 13, flat-footed 11 (+2 Dex, +1 size)
+hp 14 (2d6+7)
+Fort +2, Ref +5, Will +4; +4 vs. divine magic
+DR 5/cold iron; SR 12
+OFFENSE
+Speed 30 ft.
+Melee bite +4 (1d4–2), dagger +4 (1d3–2/19–20)
+Spell-Like Abilities (CL 3rd; concentration +4)
+At will—prestidigitation, putrefy food and drink (DC 11), ghost sound (DC 12), silent image (DC 12)
+1/day—glitterdust
+STATISTICS
+Str 6, Dex 15, Con 14, Int 11, Wis 12, Cha 13
+Base Atk +1; CMB –2; CMD 10
+Feats Skill Focus (Stealth), Toughness B, Weapon Finesse B
+Skills Bluff +6, Disable Device +8, Escape Artist +7, Perception +6, Sense Motive +6, Stealth +18 (+14 when moving); Racial Modifiers +4 Disable Device, +4 Stealth (+0 when moving)
+Languages Aklo
+SQ compression, magic bag
+SPECIAL ABILITIES
+Magic Bag (Su) A monaciello always carries its pouch with it. This pouch contains an extradimensional space and operates like a bag of holding (type I). If this pouch is separated from the monaciello, all of its former contents are lost, and it becomes a normal bag that contains a number of coins equal to double the treasure value of a creature of the gremlin’s CR. A monaciello that loses its pouch must create a new one, a process that takes 1d4 days. Until the new pouch is finished, it remains a non-magical bag, only becoming a fully functional extradimensional space once completed.
+Stymie Channeling (Su) A monaciello gremlin is surrounded by an aura of blasphemy. Any creatures channeling energy within 20 feet of a monaciello must succeed at a DC 12 Will save or be unable to channel for that round. The use is not lost, but the action is wasted.

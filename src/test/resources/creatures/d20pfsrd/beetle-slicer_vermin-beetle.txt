@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-slicer
+Slicer Beetle CR 4
+XP 1,200
+N Large vermin
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+8 natural, –1 size)
+hp 39 (6d8+12)
+Fort +7, Ref +2, Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 40 ft., fly 20 ft. (poor)
+Melee bite +8 (2d6+7/19–20)
+Space 10 ft.; Reach 5 ft.
+Special Attacks crippling bite
+STATISTICS
+Str 21, Dex 11, Con 15, Int —, Wis 10, Cha 6
+Base Atk +4; CMB +10; CMD 20 (28 vs. trip)
+Skills Fly –6
+SPECIAL ABILITIES
+Crippling Bite (Ex) A slicer beetle’s bite attack threatens a critical hit on a roll of 19–20. If a slicer beetle scores a critical hit on a target, its mandibles cut deep, resulting in a wound that causes 1d6 bleed and leaving its foe staggered for 1d3 rounds from the tremendous pain dealt.

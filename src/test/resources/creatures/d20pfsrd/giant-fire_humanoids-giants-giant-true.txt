@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-fire
+Fire Giant CR 10
+XP 9,600
+LE Large humanoid (fire, giant)
+Init –1; Senses low-light vision; Perception +14
+DEFENSE
+AC 24, touch 8, flat-footed 24 (+8 armor, –1 Dex, +8 natural, –1 size)
+hp 142 (15d8+75)
+Fort +14, Ref +4, Will +9
+Defensive Abilities rock catching; Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft. (30 ft. in armor)
+Melee greatsword +21/+16/+11 (3d6+15) or 2 slams +20 (1d8+10)
+Ranged rock +10 (1d8+15 plus 1d6 fire)
+Space 10 ft.; Reach 10 ft.
+Special Attacks heated rock, rock throwing (120 ft.)
+STATISTICS
+Str 31, Dex 9, Con 21, Int 10, Wis 14, Cha 10
+Base Atk +11; CMB +22; CMD 31
+Feats Cleave, Great Cleave, Improved Overrun, Improved Sunder, Iron Will, Martial Weapon Proficiency (greatsword), Power Attack, Weapon Focus (greatsword)
+Skills Climb +14, Craft (any one) +8, Intimidate +11, Perception +14
+Languages Common, Giant
+SPECIAL ABILITIES
+Heated Rock (Su) Fire giants transfer the heat of their bodies to rocks as part of an attack action when they throw rocks. A heated rock deals 1d6 points of additional fire damage on a hit.

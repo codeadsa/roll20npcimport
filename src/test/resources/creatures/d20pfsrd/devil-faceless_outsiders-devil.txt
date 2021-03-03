@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-faceless
+Faceless Devil CR 9
+XP 6,400
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +4; Senses darkvision 60 ft., see in darkness, telepathy 100 ft.; Perception +16
+DEFENSE
+AC 23, touch 13, flat-footed 19 (+4 Dex, +10 natural, –1 size)
+hp 85 (10d10+30)
+Fort +6; Ref +11; Will +10
+DR 10/good; Immune fire, poison; Resist acid 10, cold 10; SR 20
+OFFENSE
+Speed 40 ft.
+Melee +2 kukri +13/+8 (1d6+5/15–20) and +2 kukri +13/+8 (1d6+5/15–20)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bloodletting, dance of blades
+Spell-Like Abilities (CL 10th; concentration +15)
+At will—bull’s strength, charm person (DC 16), polymorph (self only)
+1/day—greater invisibility, nightmare (DC 20), teleport
+TACTICS
+Despite the strict rules of employment, any semblance of honor disintegrates once the faceless engage in combat. They polymorph themselves to avoid detection or lurk invisibly in the shadows, waiting to catch their prey with its back turned. Alternatively, they use other spell-like abilities, such as charm person or nightmare, to first soften up a target, then find a weak spot and exploit their cruel bloodletting talent.
+A faceless’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+STATISTICS
+Str 16, Dex 18, Con 17, Int 12, Wis 17, Cha 20
+Base Atk +10; CMB +14; CMD 28
+Feats Double Slice, Improved Critical (kukri), Improved Two-Weapon Fighting, Two-Weapon Fighting, Weapon Focus (kukri)
+Skills Acrobatics +17, Climb +16, Escape Artist +17, Knowledge (planes) +14, Perception +16, Sense Motive +16, Stealth +17
+Languages Infernal (understands, but does not speak)
+Gear +2 kukri (x2)
+SPECIAL ABILITIES
+Bloodletting (Ex) The faceless take pride in knowing the vital areas of their targets. If one successfully hits an opponent twice in the same round of combat, it has opened a gaping wound in a vital area, such as the neck or femoral artery. This deals an additional 2d6 points of bleed damage. Should the faceless land three blows in the same round, this increases to 3d6 points of bleed damage. Anyone with the bad luck to be on the receiving end of four hits in a single round takes 3d6 points of bleed damage as above and must succeed at a Fortitude save (DC 15) or die, as though they had sustained massive damage. Creatures immune to critical hits are immune to bloodletting
+Dance of Blades (Ex) The faceless learn to perform hypnotizing tricks with their weapons during combat. This entails walking the blades over their knuckles, waving them in front of a target until they blur, or even juggling them. A faceless can attempt the dance of blades as a standard action. Any target that watches this display must make a successful Will save (DC 20) or be dazed for 1 round. The save DC is Charisma-based.

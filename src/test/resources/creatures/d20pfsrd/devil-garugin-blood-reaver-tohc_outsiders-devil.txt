@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-garugin-blood-reaver-tohc
+Blood Reaver Devil (Garugin)
+CR 8
+XP 4,800
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +2; Senses darkvision 60 ft., see in darkness; Perception +14
+Aura siphoning aura (Fort DC 19)
+DEFENSE
+AC 24, touch 12, flat-footed 22 (+2 Dex, +12 natural)
+hp 94 (9d10+45); regeneration 5 (good, silver)
+Fort +8, Ref +8, Will +8
+DR 10/good; Immune fire, poison; Resist acid 10, cold 10; SR 19
+OFFENSE
+Speed 40 ft.
+Melee barbed dire flail +16/+11 (2d6+9/19–20 plus stun) or 2 claws +15 (2d6+6)
+Spell-Like Abilities (CL 12th)
+At will—greater teleport (self plus 50 pounds of objects only), invisibility (self only), wall of fire
+1/day—lightning bolt (DC 15), summon (level 6, 2d10 lemures 50% or 1 blood reaver 35%)
+TACTICS
+Blood reavers despise mortals and attack them on sight. They prefer to hide or stand nearby while invisible and let their siphoning aura drain a person of its blood, though the telltale sign that something is wrong is when the victim’s eyes, ears, nose, and mouth begin to bleed for no apparent reason.
+In combat, they attack with their barbed flails, relentlessly hammering away at their enemies and freely unloading with walls of fire to separate allies from one another. Being immune to fire, the blood reaver simply walks through the wall and attacks the creature standing on the other side.
+STATISTICS
+Str 23, Dex 15, Con 21, Int 14, Wis 14, Cha 14
+Base Atk +9; CMB +15; CMD 27
+Feats Cleave, Great Cleave, Improved Critical (dire flail), Power Attack, Weapon Focus (barbed dire flail)
+Skills Bluff +14, Diplomacy +14, Intimidate +14, Knowledge (planes) +14, Perception +14, Sense Motive +14, Stealth +14, Survival +14
+Languages Abyssal, Common, Infernal; telepathy 100 ft.
+Gear barbed dire flail
+SPECIAL ABILITIES
+Siphoning Aura (Su) Blood reavers can radiate an aura in a 20-foot radius as a free action that causes a creature to bleed from its mouth, nose, eyes, and ears. Affected creatures must succeed on a DC 19 Fortitude save each round or take 1 point of Constitution damage from blood loss. The save DC is Constitution-based.
+Stun (Su) Whenever a blood reaver hits with a dire flail attack, the opponent must succeed on a DC 20 Fortitude save or be stunned for 1 round. The save DC is Strength-based. This ability is a function of the blood reaver, not the dire flail.

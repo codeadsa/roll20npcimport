@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/troll-two-headed-TOHC
+Two-Headed Troll CR 7
+XP 3,200
+CE Large humanoid (giant)
+Init +0; Senses darkvision 90 ft., low-light vision, scent; Perception +18
+DEFENSE
+AC 16, touch 9, flat-footed 16 (+7 natural, -1 size)
+hp 95 (10d8+40 plus 10); fast healing 1
+Fort +11, Ref +3, Will +5
+OFFENSE
+Speed 30 ft.
+Melee longsword +12/+7 (2d6+6), longsword +12/+7 (2d6+6), 2 bites +7 (1d8+3) or 2 claws +12 (1d6+6 ), 2 bites +12 (1d8+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d6+9), superior two-weapon fighting
+TACTICS
+Two-headed trolls attack with two claws and two bites, though on occasion they have been known to wield longswords or clubs.
+STATISTICS
+Str 22, Dex 11, Con 19, Int 9, Wis 10, Cha 6
+Base Atk +7; CMB +14; CMD 24
+Feats Cleave, Iron Will, Power Attack, Skill Focus (Perception), Toughness
+Skills Perception +18; Racial Modifiers +2 Perception
+Languages Giant
+Gear 2 longswords
+SPECIAL ABILITIES
+Superior Two-Weapon Fighting (Ex) A two-headed troll fights with a weapon in each hand. Because each of its two heads controls an arm, the two-headed troll does not take a penalty on attack or damage rolls for attacking with two weapons.
+Two-Headed Troll Characters Two-headed troll characters possess the following racial traits.
++12 Strength, +8 Constitution, -2 Intelligence (minimum 3), -4 Charisma. Large size: -1 penalty to Armor Class, -1 penalty on attack rolls, -4 penalty on Stealth checks, +1 bonus on CMB and CMD checks, lifting and carrying limits double those of Medium characters. Space/Reach: 10 feet/10 feet. Darkvision: Two-headed trolls can see in the dark out to 90 feet. Low-light vision: Two-headed trolls can see twice as far as humans in conditions of dim light. Scent: Two-headed trolls can detect opponents within 30 feet by sense of smell. Racial Hit Dice: A two-headed troll begins with ten levels of humanoid, which provide 10d8 Hit Dice, a base attack bonus of +7, and base saving throw bonuses of Fort +7, Ref +3, and Will +3. Racial Skills: A two-headed troll’s humanoid levels give it skill points equal to 10 x (2 + Int modifier, minimum 1). A two-headed troll’s two heads give it a +2 racial bonus on Perception checks. Racial Feats: A two-headed troll’s humanoid levels give it five feats. AC: +7 natural armor bonus. Natural Weapons: Two-headed trolls fight with 2 claws (1d6) and 2 bites (1d8). Special Attacks: Rend, superior two-weapon fighting (see left). Special Qualities: fast healing 1. Languages: Two-headed trolls begin play speaking Giant. Two-headed trolls with high Intelligence scores can choose from the following languages: Common, Orc.

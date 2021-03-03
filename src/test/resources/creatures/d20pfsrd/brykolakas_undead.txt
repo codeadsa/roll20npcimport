@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/brykolakas
+Brykolakas CR 6
+XP 2,400
+CE Medium undead (aquatic)
+Init +2; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 67 (9d8+18 plus 9)
+Fort +7; Ref +5; Will +8
+DR 10/silver; Immune undead traits; SR 17
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee 2 claws +11 (1d8+4 plus disease)
+Special Attacks death throes
+STATISTICS
+Str 18, Dex 15, Con —, Int 10, Wis 14, Cha 14
+Base Atk +6; CMB +10; CMD 22
+Feats Blind-Fight, Great Fortitude, Power Attack, Toughness, Weapon Focus (claw)
+Skills Intimidate +14, Knowledge (nature) +9, Perception +18, Stealth +14, Swim +12; Racial Modifiers +4 Perception
+Languages Common
+SQ change shape (dolphin, manta ray, beast shape I), create spawn, water dependency
+SPECIAL ABILITIES
+Create Spawn (Su) A humanoid or monstrous humanoid killed by a brykolakas rises as a lacedon in 1d4 days under the control of the brykolakas that created it.
+Death Throes (Su) When reduced to 0 or less hit points, a brykolakas is destroyed and its body changes into a pool of deadly poison that quickly (1 round) fills a 10-foot cube (if its in the water when destroyed). The poison disperses in the next round. Creatures in the area are exposed to the poison.
+If a brykolakas is slain on land, its body collapses into a puddle of briny liquid that quickly covers a 10-foot square area. The puddle lasts for 1d2 rounds before dispersing. Creatures touching the puddle are exposed to the poison.
+Brykolakas poison—Contact; save Fort DC 16; onset 1 minute; frequency 1/round for 2 rounds; effect 1d6 Dex damage; cure 1 save. The save DC is Charisma-based.
+Disease (Su) A brykolakas’s claw attacks deliver a virulent disease that breaks down the victim’s internal organs (causing internal bleeding and a darkening of the skin). This supernatural disease is called brykolakas fever. The save DC is Charisma-based.
+Brykolakas fever—Claw; disease, save Fortitude DC 16 negates, onset 1 minute, frequency 1/day, effect 1d4 Con and 1d4 Dex damage, cure 1 save.
+Change Shape (Su) A brykolakas can remain in an alternate form until it assumes another or until the next sunrise.
+Water Dependency (Ex) A brykolakas can survive out of the water for 6 hours. After that, its body begins drying out and within 1 hour, the brykolakas crumbles into dust unless it can reach saltwater before the hour passes.

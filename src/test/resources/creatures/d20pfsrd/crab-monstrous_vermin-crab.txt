@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/crab-monstrous
+MONSTROUS CRAB CR 2
+XP 600
+N Medium vermin (aquatic)
+Init +1; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 19 (3d8+6)
+Fort +5, Ref +2, Will +1
+Immune vermin traits
+Weaknesses water dependency
+OFFENSE
+Speed 30 ft., swim 20 ft.
+Melee 2 claws +4 (1d4+2 plus grab)
+Special Attacks constrict (claw) 1d4+2
+STATISTICS
+Str 14, Dex 12, Con 14, Int –, Wis 10, Cha 2
+Base Atk +2; CMB +4 (+8 to grapple); CMD 15
+Skills Perception +4, Swim +10; Racial Modifiers +4 Perception

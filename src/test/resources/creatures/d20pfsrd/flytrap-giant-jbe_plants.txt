@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/flytrap-giant-jbe
+Giant Flytrap CR 2
+XP 600
+N Large plant
+Init +4; Senses blindsense 60 ft; Perception +7
+DEFENSE
+AC 14, touch 9, flat-footed 14 (+5 natural, -1 size)
+hp 19 (3d8+6)
+Fort +5, Ref +0, Will +2
+Immune plant traits
+OFFENSE
+Speed 5 ft.
+Melee 2 slam +5 (1d6+3 plus grab), bite -1 (1d8+1)
+Space 10 ft.; Reach 60 ft. (5 ft with bite)
+STATISTICS
+Str 17, Dex 10, Con 15, Int 1, Wis 13, Cha 6
+Base Atk +2; CMB +6; CMD 16 (cannot be tripped)
+Feats Improved Initiative, Weapon Focus (slam)
+Skills Perception +7
+SPECIAL ABILITIES
+Grab (Ex) If a giant fly trap successfully grabs its prey, it can pull the creature toward its mouths at a rate of 10 ft. per round.

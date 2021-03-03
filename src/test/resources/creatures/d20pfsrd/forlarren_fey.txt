@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/forlarren
+Forlarren CR 2
+Xp 600
+NE Medium fey
+Init +2; Senses low-light vision; Perception +11
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 18 (4d6+4)
+Fort +2, Ref +6, Will +5
+DR 5/cold iron
+Weaknesses remorse
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +4 (1d6+1)
+Spell-Like Abilities (CL 4th; concentration +3)
+3/day—heat metal (DC 11)
+STATISTICS
+Str 12, Dex 15, Con 12, Int 4, Wis 13, Cha 9
+Base Atk +2; CMB +3; CMD 15
+Feats Skill Focus (Perception), Weapon Finesse
+Skills Acrobatics +9, Perception +11, Stealth +9
+Languages Common, Sylvan
+SPECIAL ABILITIES
+Remorse (Ex)
+Whenever a forlarren kills a living creature, it must make a DC 15 Will save to avoid becoming overwhelmed with remorse. If it fails this save, the forlarren becomes nauseated for 1d6 rounds. This is a mind-affecting effect.

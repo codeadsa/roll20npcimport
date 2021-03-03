@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lava-child-TOHC
+Lava Child CR 3
+XP 800
+N Medium humanoid (earth, elemental, fire)
+Init +4; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 16, touch 10, flat-footed 16 (+6 natural)
+hp 22 (4d8+4)
+Fort +5, Ref +1, Will +1
+Immune earth magic, fire, metal, elemental traits
+Weaknesses elemental vulnerability, vulnerability to cold
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +4 (1d4+1) and bite +4 (1d6+1)
+Special Attacks rend (2 claws, 2d4+1)
+STATISTICS
+Str 13, Dex 11, Con 13, Int 10, Wis 11, Cha 11
+Base Atk +3; CMB +4; CMD 14
+Feats Improved Initiative, Skill Focus (Perception)
+Skills Knowledge (Dungeoneering) +4, Perception +7
+Languages Ignan, Lava Child
+SPECIAL ABILITIES
+Elemental Vulnerability (Ex) Lava children take 1 extra point of damage per caster level from spells and effects with the air or water subtype and from spells of the Air and Water domains.
+Immunity to Earth Magic (Ex) Lava children are immune to all spells and effects with the earth descriptor and all spells of the Earth domain.
+Immunity to Metal (Ex) Lava children are completely immune to any metal object or weapon and its effects (swords, armor, doors, walls, for example). Metal simply passes through the lava child as though it did not exist. Metal items are not destroyed, just ignored. Any metal weapon (including magic weapons) that strikes a lava child deals no damage and simply passes through its body. Likewise a lava child can simply walk through metal doors or walls as though they did not exist.
+All attacks against a metal-armored foe are considered melee touch attacks as the lava child’s attacks simply pass through the metal armor.

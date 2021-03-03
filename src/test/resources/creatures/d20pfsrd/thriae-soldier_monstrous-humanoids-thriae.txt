@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/thriae/thriae-soldier
+Thriae Soldier CR 4
+XP 1,200
+LN Medium monstrous humanoid
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 17, touch 13, flat-footed 14 (+4 armor, +3 Dex)
+hp 42 (5d10+15)
+Fort +4, Ref +7, Will +5
+Immune poison, sonic
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee sting +10 (1d8+7 plus poison)
+Ranged composite longbow +8 (1d8+5/x3 plus poison) or Rapid Shot +6/+6 (1d8+5/x3 plus poison)
+Special Attacks merope consumption
+STATISTICS
+Str 20, Dex 17, Con 16, Int 12, Wis 13, Cha 15
+Base Atk +5; CMB +10; CMD 23
+Feats Point-Blank Shot, Precise Shot, Rapid Shot
+Skills Fly +13, Intimidate +10, Perception +9, Stealth +9, Survival +9
+Languages Common, Sylvan
+SPECIAL ABILITIES
+Merope Consumption (Su) Once per day as a standard action, a thriae soldier can consume a dose of merope in order to enhance her combat abilities for 1d6+3 rounds. Starting on the round after the merope is consumed, the thriae soldier gains a +2 insight bonus on attack rolls and saving throws, and gains fast healing 3.
+Poison (Ex) Sting or arrow—injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Str*; cure 1 save.
+As a free action, a thriae soldier can apply her venom to an arrow as she fires the shot. The save DC is Constitution-based.

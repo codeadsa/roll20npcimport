@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/dinosaur-iguanodon
+Iguanodon CR 6
+XP 2,400
+N Huge animal
+Init +2; Senses low-light vision, scent; Perception +12
+DEFENSE
+AC 19, touch 10, flat-footed 17 (+2 Dex, +9 natural, -2 size)
+hp 76 (9d8+36)
+Fort +10, Ref +8, Will +4
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +13 (1d8+8/x3)
+Space 15 ft.; Reach 15 ft.
+Special Attacks thumb spikes
+STATISTICS
+Str 27, Dex 14, Con 19, Int 2, Wis 12, Cha 7
+Base Atk +6; CMB +16; CMD 28 (32 vs. trip)
+Feats Power Attack, Run, Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (claw)
+Skills Perception +12, Stealth +4
+SPECIAL ABILITIES
+Thumb Spikes (Ex) An iguanodon’s thumb spikes can inflict grievous wounds—they deal triple damage on a successful critical hit.

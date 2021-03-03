@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/killmoulis
+Killmoulis CR 1/6
+XP 65
+CN Diminutive fey
+Init +3; Senses low-light vision; Perception +8
+DEFENSE
+AC 18, touch 18, flat-footed 14 (+3 Dex, +1 dodge, +4 size)
+hp 4 (1d6+1)
+Fort +1, Ref +5, Will +4
+DR 5/cold iron; SR 11
+OFFENSE
+Speed 40 ft.
+Melee needle +7 (1d2-3)
+Space 1 ft.; Reach 0 ft.
+STATISTICS
+Str 5, Dex 16, Con 12, Int 10, Wis 14, Cha 6
+Base Atk +0; CMB -7; CMD 7
+Feats Dodge, Weapon FinesseB
+Skills Craft (any one) +4, Escape Artist +7, Perception +8, Profession (farmer or miller) +4, Stealth +23; Racial Modifiers +2 Perception, +4 Stealth
+Languages telepathy 100 ft.
+Gear sewing needle

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/half-celestial-unicorn
+Half-Celestial Unicorn
+CR 4
+
+Half-Celestial Unicorn CR 4
+XP 1,200
+CG Large outsider ( native)
+Init +4; Senses darkvison 60 ft., low-light vision, scent; Perception +14 ; Aura magic circle against evil*
+DEFENSE
+AC 17, touch 13, flat-footed 13 (+4 Dex, +4
+natural, –1 size; +2 deflection vs. evil)
+hp 42 (4d10+20)
+Fort +9, Ref +8, Will +8; +4 vs. poison
+DR 5/magic; Immune charm, compulsion, disease, poison; Resist acid 10, cold 10, electricity 10; SR 15
+OFFENSE
+Speed 60 ft., fly 120 ft. (good)
+Melee gore +10 (1d8+6), 2 hooves +7 (1d3+3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks smite evil 1/day (+7 attack, +4 damage), powerful charge (gore, 2d8+12)
+Spell-Like Abilities (CL 9th)
+At will— detect evil, light
+3/day— cure light wounds, protection from evil
+1/day— aid, bless, cure moderate wounds, greater teleport (within its territory*), neutralize poison
+STATISTICS
+Str 22, Dex 19, Con 20, Int 13, Wis 25, Cha 26
+Base Atk +4; CMB +11; CMD 25 (29 vs. trip)
+Feats Multiattack, Weapon Focus (horn)
+Skills Acrobatics +11, Fly +13, Knowledge (planes) +5, Perception +14, Sense Motive +14, Stealth +11, Survival +14 (+17 forests); Racial Modifiers +3 Survival in forests, +4 Stealth
+Languages Common, Sylvan
+SQ magical strike*, wild empathy +18*
+* Unicorn ability

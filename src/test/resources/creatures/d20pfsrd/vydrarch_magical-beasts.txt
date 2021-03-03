@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/vydrarch
+Vydrarch CR 14
+XP 38,400
+CE Gargantuan magical beast
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +23
+DEFENSE
+AC 29, touch 9, flat-footed 26 (+3 Dex, +20 natural, –4 size)
+hp 199 (19d10+95)
+Fort +16, Ref +14, Will +12
+DR 10/magic; Immune poison, sleep
+OFFENSE
+Speed 20 ft., swim 60 ft.
+Melee 2 bites +26 (2d8+10/19–20 plus grab), tail slap +23 (2d8+5 plus poison spines)
+Space 20 ft.; Reach 20 ft. (30 ft. with bite)
+Special Attacks capsize, swallow whole (4d6+15 bludgeoning damage, AC 20, 19 hp), veil of fog
+STATISTICS
+Str 30, Dex 17, Con 20, Int 7, Wis 22, Cha 15
+Base Atk +19; CMB +33 (+37 grapple); CMD 46 (can’t be tripped)
+Feats Awesome Blow, Cleave, Critical Focus, Improved Bull Rush, Improved Critical (bite), Multiattack, Power Attack, Staggering Critical, Vital Strike, Weapon Focus (bite)
+Skills Perception +23, Swim +26
+Languages Aquan
+SQ amphibious
+SPECIAL ABILITIES
+Poison Spines (Ex) A vydrarch is covered in jagged spines that secrete a fatal poison. A creature struck by a vydrarch’s tail slap attack or that strikes a vydrarch with a melee weapon without reach, an unarmed strike, or a natural weapon takes 1d6 points of piercing damage and risks being poisoned. Any creature that grapples a vydrarch takes 2d6 points of piercing damage and risks being poisoned each round.
+Vydrarch poison: Spine—injury; save Fort DC 24; frequency 1/round for 4 rounds; effect 1d2 Con, 1d2 Wis; cure 2 consecutive saves. The save DC is Constitution-based.
+Veil of Fog (Su) As a standard action, a vydrarch can produce a bank of fog in a 100-foot spread centered on itself. This effect is otherwise identical that created by a fog cloud spell.

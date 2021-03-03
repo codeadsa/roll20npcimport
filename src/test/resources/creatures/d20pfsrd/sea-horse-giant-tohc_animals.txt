@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/sea-horse-giant-tohc
+Giant Seahorse CR 2
+XP 600
+N Large animal (aquatic)
+Init +2; Senses low-light vision; Perception +13
+DEFENSE
+AC 16, touch 12, flat-footed 13 (+2 Dex, +1 dodge, +4 natural, –1 size)
+hp 26 (4d8+8)
+Fort +6, Ref +6, Will +2
+Defensive Abilities all-around vision; Immune flanks
+OFFENSE
+Speed swim 30 ft.
+Melee slam +6 (1d6+6)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 18, Dex 15, Con 15, Int 2, Wis 13, Cha 10
+Base Atk +3; CMB +8; CMD 21 (can’t be tripped)
+Feats Dodge, Skill Focus (Perception)
+Skills Perception +13, Stealth +7, Swim +12; Racial Modifiers, +4 Perception, +4 Stealth

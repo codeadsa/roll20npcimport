@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/sangudaemon
+Sangudaemon CR 9
+XP 6,400
+NE Medium outsider (daemon, evil, extraplanar)
+Init +9; Senses darkvision 60 ft., scent; Perception +18; Aura bleeding aura (30 ft.)
+DEFENSE
+AC 23, touch 16, flat-footed 17 (+5 Dex, +1 dodge, +7 natural)
+hp 114 (12d10+48)
+Fort +12, Ref +13, Will +7
+DR 10/good or silver; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee bite +19 (1d8+7/18–20/×3 plus bleed), 2 claws +19 (1d6+7 plus grab)
+Special Attacks bleed (2d4+1), blood drain (1d2 Constitution), drain soul
+Spell-Like Abilities (CL 12th; concentration +14)
+At will—greater teleport (self plus 50 lbs. of objects only)
+3/day—death knell (DC 14), invisibility, summon swarm
+1/day—hold monster (DC 17), summon (level 6, 1 sangudaemon 40%)
+STATISTICS
+Str 24, Dex 21, Con 19, Int 10, Wis 16, Cha 15
+Base Atk +12; CMB +19 (+23 grapple); CMD 35 (47 vs. trip)
+Feats Bleeding Critical, Combat Reflexes, Critical Focus, Dodge, Flyby Attack, Improved Initiative
+Skills Escape Artist +20, Fly +24, Intimidate +17, Perception +18, Sense Motive +18, Spellcraft +15
+Languages Abyssal, Draconic, Infernal; telepathy 100 ft.
+SQ augmented critical, contagious gore
+SPECIAL ABILITIES
+Augmented Critical (Ex) A sangudaemon’s bite threatens a critical hit on a roll of 18–20 and deals ×3 damage on a successful critical hit.
+Bleeding Aura (Su) Within the daemon’s aura, blood gushes from wounds at an increased rate. All bleed effects deal an additional +2 points of damage (included in the daemon’s bleed damage). Heal checks made to stop bleeding or stabilize a dying creature, Constitution checks made to become stable, and saving throws against effects that deal bleed damage take a –4 penalty.
+Contagious Gore (Su) A sangudaemon alters the very flow of blood when it attacks. Any creature that stops a bleed effect created by a sangudaemon must make a DC Fortitude save or gain the bleed effect the creature just stopped (this has no effect if the creature was stopping a bleed effect on itself). A creature that succeeds at this save is immune to this ability for 24 hours. The save DC is Constitution-based.
+Drain Soul (Su) A sangudaemon can revitalize itself by draining the soul of a dead creature. The target must be a creature the daemon dealt bleed damage to or used its blood drain ability on, and must have been dead for no longer than 1 minute. As a full-round action, it can drink the creature’s soul dry, condemning the soul (though the soul can be returned to life as normal). The daemon gains fast healing 2 for a number of rounds equal to its Hit Dice.
+About this Daemon Type… Like blood-sucking insects, sangudaemons roam searching for mortal travelers. Those they capture are dragged back to isolated nests, where the daemons cocoon and slowly feed, milking the doomed until they finally expire. On the Material Plane, sangudaemons gleefully feast, sating their hunger in nightly debauches. Yet knowing the rarity of their access to the mortal realm and wise enough not to risk shortening their stay, they prefer to feed in such ways as to frame some other predator—frequently vampires—for their killings. Where possible, these fiends actively encourage the spread of vampirism among mortals, resulting in further deaths by exsanguination.
+Personification of Death: Blood loss.
+Preferred Sacrifice: Three exsanguinated bodies, or a sentient creature fed to a vampire in the daemon’s presence.

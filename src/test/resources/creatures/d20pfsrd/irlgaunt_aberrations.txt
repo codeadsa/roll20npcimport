@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/irlgaunt
+Irlgaunt CR 13
+XP 25,600
+NE Large aberration
+Init +13; Senses darkvision 60 ft.; Perception +21
+DEFENSE
+AC 29, touch 18, flat-footed 20 (+9 Dex, +11 natural, –1 size)
+hp 133 (14d8+70)
+Fort +9, Ref +15, Will +13
+DR 10/bludgeoning; Immune acid, cold
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee 2 slams +17 (1d8+8 plus 1d6 acid), bite +17 (1d8+8)
+Ranged 1 gastrolith +18 (2d6+8 plus 2d6 acid)
+Space 10 ft.; Reach 5 ft.
+Special Attacks gastrolith
+Spell-Like Abilities (CL 14th)
+At will—stone shape
+STATISTICS
+Str 27, Dex 29, Con 20, Int 16, Wis 18, Cha 19
+Base Atk +10; CMB +19; CMD 38 (42 vs. trip)
+Feats Blind-Fight, Combat Reflexes, Deadly Aim, Improved Initiative, Improved Lightning Reflexes, Lightning Reflexes, Run
+Skills Acrobatics +26 (+30 jump), Climb +33, Disguise +18, Fly +0, Perception +21, Stealth +22 (+30 in rocky terrain), Survival +21, Swim +25; Racial Modifiers +8 Stealth in rocky terrain
+Languages Aklo, Common, Giant, Terran
+SQ stone step
+SPECIAL ABILITIES
+Gastrolith (Ex) Once every 1d4 rounds, an irlgaunt can violently regurgitate a clot of brittle stone and digestive acids. This gastrolith is treated as a thrown splash weapon with a range increment of 30 feet. In addition to damaging any creature struck (as noted above), any creature within 10 feet of the point where the gastrolith strikes (whether a creature or a grid intersection) takes 1d6 points of acid damage. A gastrolith that misses its target hits a nearby point, just like a normal miss with a splash weapon. An irlgaunt has a separate orifice for ejecting gastroliths. Thus, it can make a ranged attack in addition to all its normal melee attacks.
+Stone Step (Ex) An irlgaunt can move through any sort of natural difficult terrain at its normal speed while in rocky or subterranean terrain. Magically altered terrain affects an irlgaunt as normal.

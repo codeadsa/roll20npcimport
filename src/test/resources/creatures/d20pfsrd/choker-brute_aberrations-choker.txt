@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/choker/choker-brute
+Choker Brute CR 4
+XP 1,200
+Advanced choker
+CE Small aberration
+Init +8; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 21, touch 15, flat-footed 17 (+4 Dex, +6 natural, +1 size)
+hp 37 (5d8+15)
+Fort +4, Ref +5, Will +7
+OFFENSE
+Speed 20 ft., climb 10 ft.
+Melee 2 tentacles +9 (1d4+5 plus grab)
+Space 5 ft.; Reach 10 ft.
+Special Attacks constrict 1d4+5, grab, strangle
+TACTICS
+During Combat The chokers lurk in the shadows in the rafters up above, watching observantly if they notice anyone attempting to move through their room. They swiftly move to attack as soon as anyone entering from outside tries to open the door, or 3 rounds after intruders from the south have already opened the door and are moving about inside the room.
+Morale The chokers fight to the death.
+STATISTICS
+Str 20, Dex 18, Con 17, Int 8, Wis 17, Cha 11
+Base Atk +3; CMB +7 (+11 grapple); CMD 21
+Feats Improved Initiative, Skill Focus (stealth), Weapon Focus (tentacle)
+Skills Climb +21, Perception +11, Stealth +19
+Languages Common
+SQ quickness
+SPECIAL ABILITIES
+Grab (Ex) A choker can use its grab attack against a foe of up to Large size.
+Strangle (Ex) Chokers have an unerring talent for seizing their victims by the neck. A creature that is grappled by a choker cannot speak or cast spells with verbal components.
+Quickness (Su) A choker is supernaturally quick. It can take an extra move action during its turn each round.

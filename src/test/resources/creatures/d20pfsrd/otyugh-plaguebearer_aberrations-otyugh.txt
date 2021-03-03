@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/otyugh/otyugh-plaguebearer
+Plaguebearer Otyugh CR 7
+XP 3,200
+N Large aberration
+Init +0; Senses darkvision 60 ft., scent; Perception +10
+DEFENSE
+AC 19, touch 9, flat-footed 19 (+10 natural, –1 size)
+hp 102 (12d8+48)
+Fort +7, Ref +4, Will +8
+DR 5/slashing or piercing; Immune disease
+OFFENSE
+Speed 20 ft.
+Melee 2 tentacles +15 (1d8+6 plus grab), bite +15 (1d6+6 plus disease)
+Space 10 ft.; Reach 10 ft. (15 ft. with tentacle)
+Special Attacks constrict (tentacle, 1d8+6 plus disease)
+TACTICS
+Before Combat A plaguebearer otyugh rarely hides itself, instead preferring to charge at any creature it perceives as a threat.
+During Combat Plaguebearer otyughs attack as many different enemies as possible, hoping to spread their diseases.
+Morale A plaguebearer otyugh is in far too much pain to recognize danger to its life and fights to the death.
+STATISTICS
+Str 22, Dex 10, Con 17, Int 5, Wis 6, Cha 6
+Base Atk +9; CMB +16 (+20 grapple); CMD 26 (28 vs. trip)
+Feats Ability Focus (disease), Iron Will , Power Attack , Skill Focus (Perception ), Toughness, Weapon Focus (bite), Weapon Focus (tentacle)
+Skills Perception +10, Stealth +5 (+13 in lair); Racial Modifiers +8 Stealth in lair
+Languages Common
+SPECIAL ABILITIES
+Disease (Ex) Sewer madness: Bite or constrict—injury; save Fortitude DC 21; onset 1d3 days; frequency 1/day; effect 1d4 Dex damage , 1d4 Con damage , and 1d4 Wis damage; cure 2 consecutive saves. The save DC is Constitution -based and includes a +2 bonus from the Ability Focus feat.

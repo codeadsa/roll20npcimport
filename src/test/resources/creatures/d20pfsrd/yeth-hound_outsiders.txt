@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/yeth-hound
+Yeth Hound
+CR 3
+XP 800
+NE Medium outsider (evil, extraplanar)
+Init +6; Senses darkvision 60 ft., scent; Perception +9
+
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 30 (4d10+8)
+Fort +3, Ref +6, Will +6
+DR 5/silver
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee bite +7 (2d6+4 plus sinister bite and trip)
+Special Attacks bay STATISTICS
+Str 17, Dex 15, Con 15, Int 6, Wis 14, Cha 10
+Base Atk +4; CMB +7; CMD 19 (23 vs. trip)
+Feats Improved Initiative, Skill Focus ( Fly)
+Skills Fly +16, Perception +9, Stealth +9, Survival +9
+Languages Abyssal or Infernal (cannot speak)
+SPECIAL ABILITIES
+Bay (Su) When a yeth hound howls or barks, all creatures except other evil outsiders within a 300-foot spread must succeed on a DC 12 Will save or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same hound’s bay for 24 hours. The save DC is Charisma-based.
+Flight (Su) A yeth hound can cease or resume its flight as a free action.
+Sinister Bite (Su) A yeth hound’s bite is treated as evil-aligned for the purpose of overcoming damage reduction. In addition, a good-aligned creature bitten by a yeth hound must make a DC 14 Will save or be shaken for 1 round. If the victim is already suffering from a fear effect (such as the hound’s bay attack), the victim is instead completely overcome with fear and can do nothing but cower for 1 round. This is a mind-affecting fear effect. The save DC is Constitution-based.
+

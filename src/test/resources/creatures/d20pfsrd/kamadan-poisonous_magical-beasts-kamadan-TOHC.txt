@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/kamadan-TOHC/kamadan-poisonous
+Kamadan, Poisonous
+CR 6
+XP 2,400
+N Large magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent;
+DEFENSE
+AC 18, touch 13, flat-footed 15 (+2 Dex, +1 dodge, +5 natural)
+hp 30 (4d10+8)
+Fort +6, Ref +6, Will +2
+OFFENSE Speed 40 ft.
+Melee 2 claws +7 (1d6+4), bite +7 (1d8+4), and 6 snakes +2 (1d4 + poison )
+Space 10 ft.; Reach 5 ft. (10 ft. with snakes)
+Special Attacks sleep breath, snakes
+Tactics The kamadan opens combat using its breath weapon. It attacks those that resisted using its claws and bite. Each snake also bites an opponent. STATISTICS Str 18, Dex 15, Con 15, Int 5, Wis 12, Cha 9
+Base Atk +4; CMB +9; CMD 22 (26 vs trip)
+Feats Dodge, Skill Focus (Perception)
+Skills Acrobatics +6 (+14 balance), Perception +8, Stealth +7 (+15 undergrowth)
+SPECIAL ABILITIES Poison (Ex) Snakes, save Fort DC 14, frequency 1/round for 6 rounds, effect 1d3 Con, cure 2 consecutive saves. The save DC is Constitution-based.
+Sleep Breath (Su) Cone of sleep, 30 feet, every 1d4 rounds (but not more than 5/day); DC 14 Fortitude negates. Creatures with 4 HD or less do not receive a save to avoid the effects; they are automatically affected. Otherwise, as the sleep spell (caster level 8th). There is no HD limit to the number of creatures that can be affected. The save DC is Constitution-based.
+Snakes (Ex) Each snake attacks independently each round at the listed attack bonus. The snakes do not gain the kamadan’s Strength bonus to damage.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/zombie/zombie-apocalypse
+Apocalypse Zombie CR 2
+XP 600
+Relentless brain-eating plague human zombie
+NE Medium undead
+Init +2; Senses darkvision 60 ft., scent; Perception +0
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 22 (4d8+4)
+Fort +1, Ref +3, Will +4
+Immune undead traits
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +6 (1d6+3 plus disease and grab), slam +6 (1d6+3 plus disease and grab)
+Special Attacks brain-eating, create spawn, death burst, quick strikes
+STATISTICS
+Str 17, Dex 14, Con —, Int —, Wis 10, Cha 10
+Base Atk +3; CMB +6 (+10 grapple); CMD 18
+Feats ToughnessB
+Skills Climb +11, Survival +0 (+4 to track by smell)
+SPECIAL ABILITIES
+Brain-Eating (Ex) After killing an opponent, the zombie’s ravenous nature takes hold and it uses its next turn to break open its victim’s skull and eat the brain. This prevents others from raising the body from the dead by any method that requires an intact corpse.
+Create Spawn (Su) Anyone killed after being bitten by an apocalypse zombie rises as an apocalypse zombie 2d6 hours later unless the corpse is blessed or similar measures are taken.
+Death Burst (Ex) When an apocalypse zombie dies, it explodes in a burst of decay. All creatures adjacent to the apocalypse zombie are exposed to its plague as if struck by a slam attack and must make a Fortitude save or contract zombie rot.
+Disease (Su) The zombie’s natural attacks carry the zombie rot disease.
+Zombie rot: Bite or slam—injury; save Fort DC 12; onset 1d4 days; frequency 1/day; effect 1d2 Con, this damage cannot be healed while the creature is infected; cure 2 consecutive saves.
+Anyone who dies while infected rises as an apocalypse zombie in 2d6 hours.
+Quick Strikes (Ex) Whenever an apocalypse zombie takes a full-attack action, it can make one additional slam attack at its highest base attack bonus.

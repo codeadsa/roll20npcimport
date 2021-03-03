@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-vulpinal
+Vulpinal CR 6
+XP 2,400
+NG Small outsider (agathion, extraplanar, good)
+Init +7; Senses darkvision 60 ft., detect evil, low-light vision; Perception +12
+Aura calm emotions (30 ft.)
+DEFENSE
+AC 22, touch 14, flat-footed 19 (+4 armor, +3 Dex, +4 natural, +1 size)
+hp 59 (7d10+21)
+Fort +5, Ref +10, Will +7; +4 vs. poison
+DR 10/evil or silver; Immune electricity, petrification; Resist cold 10, sonic 10; SR 17
+OFFENSE
+Speed 30 ft.
+Melee bite +11 (1d4+1), 2 claws +11 (1d3+1)
+Special Attacks pounce
+Spell-Like Abilities (CL 7th; concentration +10)
+Constant—detect evil, mage armor, speak with animals
+At will—invisibility (self only)
+3/day—charm monster (DC 17), dispel evil (DC 18), flame arrow, holy smite (DC 17), dimension door (self plus 50 lbs. of objects only), remove disease
+1/day—major image (DC 16)
+STATISTICS
+Str 12, Dex 16, Con 17, Int 19, Wis 15, Cha 16
+Base Atk +7; CMB +7; CMD 20
+Feats Combat Reflexes, Improved Initiative, Lightning Reflexes, Weapon Finesse
+Skills Acrobatics +10 (+18 jump), Bluff +13, Knowledge (any one) +21, Knowledge (arcana) +21, Knowledge (planes) +21, Perception +12, Perform (any one) +13, Spellcraft +14, Stealth +17, Use Magic Device +10; Racial Modifiers +8 Acrobatics when jumping
+Languages Celestial, Common, Draconic, Infernal; speak with animals, truespeech
+SQ bardic knowledge +7, lay on hands (3d6, 6/day, as a 7th-level paladin)
+SPECIAL ABILITIES
+Calm Emotions Aura (Su) A vulpinal’s aura acts like a calm emotions spell with a radius of 30 feet. Any creature entering this area must make a Will save (DC 16) to resist the effect. A creature that makes its save is immune to that vulpinal’s aura for 24 hours. The save DC is Charisma-based.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/swarm-adamantine-wasp-tohc
+Adamantine Wasp Swarm CR 10
+XP 9,600
+N Fine construct (swarm)
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 24, touch 24, flat-footed 18 (+6 Dex, +8 size)
+hp 82 (15d10)
+Fort +5, Ref +11, Will +5
+Immune weapon damage, construct traits, swarm traits; SR 21
+Weaknesses swarm traits
+OFFENSE
+Speed 5 ft., fly 40 ft. (good)
+Melee swarm (3d6 plus poison)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 17)
+TACTICS
+Adamantine wasps, being constructs, are non-intelligent and are programmed to carry out simple tasks such as “guard this room” or “attack any who enter here.” When following their commands, adamantine wasps fight until destroyed. A swarm attacks by stinging its foes and injecting its blood-freezing poison.
+STATISTICS
+Str 1, Dex 22, Con —, Int —, Wis 11, Cha 2
+Base Atk +15; CMB —; CMD —
+Skills Fly +18
+SPECIAL ABILITIES
+Poison (Ex) Swarm—injury; save Fort DC 17; frequency 1/round for 4 rounds; effect 1d4 Dexterity damage; cure 2 consecutive saves.
+A creature reduced to Dexterity 0 freezes solid (similar to a flesh to stone spell) for 1d4 hours as his body hardens into ice. If reduced to 0 or less hit points while frozen, the creature shatters into pieces and dies. The save DC is Constitution-based.

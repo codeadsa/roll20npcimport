@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/girtablilu
+Girtablilu CR 8
+XP 4,800
+N Large monstrous humanoid
+Init +6; Senses darkvision 60 ft., tremorsense 30 ft.; Perception +14
+DEFENSE
+AC 22, touch 12, flat-footed 19 (+2 armor, +2 Dex, +1 dodge, +8 natural, -1 size)
+hp 105 (10d10+50)
+Fort +8, Ref +11, Will +9
+OFFENSE
+Speed 50 ft.
+Melee mwk spear +15/+10 (1d8+7/x3), 2 claws +9 (1d6+2 plus grab), sting +9 (1d6+2 plus poison)
+Ranged mwk spear +12 (1d8+5/x3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (1d6+5)
+Spell-Like Abilities (CL 10th; concentration +10)
+1/day—summon nature’s ally V (1d3 giant scorpions)
+STATISTICS
+Str 20, Dex 15, Con 21, Int 10, Wis 14, Cha 11
+Base Atk +10; CMB +16 (+20 grapple); CMD 29 (41 vs. trip)
+Feats Dodge, Improved Initiative, Lightning Reflexes, Mobility, Vital Strike
+Skills Climb +17, Craft (any one) +8, Knowledge (history) +5, Perception +14, Sense Motive +7, Stealth +10, Survival +15; Racial Modifiers +4 Climb, +4 Perception, +4 Stealth
+Languages Common, Girtablilu
+SQ scorpion empathy +10, undersized weapons
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 2 consecutive saves.
+Scorpion Empathy (Ex) This ability functions as a druid’s wild empathy ability, save that it works only on scorpions. A girtablilu gains a racial bonus on this check equal to its Hit Dice (normally +10). Scorpions are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing girtablilus to train scorpions and use them as guardians (though it does not grant them skills or feats).

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/tombstone-fairy
+Tombstone Fairy CR 9
+XP 6,400
+NE Small fey
+Init +8; Senses low-light vision; Perception +25
+DEFENSE
+AC 18, touch 16, flat-footed 13 (+4 Dex, +1 dodge, +2 natural, +1 size)
+hp 82 (15d6+30)
+Fort +9, Ref +13, Will +14
+DR 10/good and cold iron; SR 20
+OFFENSE
+Speed 20 ft.
+Melee dagger +12/+7 (1d3-1)
+Special Attacks danse macabre
+Spell-like Abilities (CL 15th):
+3/day—dancing lights, death ward, deathwatch, desecrate, detect chaos, detect evil, detect law, detect thoughts (DC 17), dispel magic, protection from good
+1/day—suggestion (DC 18), unholy blight (DC 19)
+STATISTICS
+Str 9, Dex 19, Con 14, Int 16, Wis 17, Cha 20
+Base Atk +7; CMB +5; CMD 20
+Feats Alertness, Blind-Fight, Combat Casting, Dodge, Great Fortitude, Improved Initiative, Iron Will, Weapon Finesse
+Skills Acrobatics +12, Bluff +23, Craft (any) +11, Diplomacy +23, Escape Artist +22, Heal +18, Intimidate +20, Knowledge (religion) +8, Perception +25, Sense Motive +25, Stealth +26
+Languages Common, Elven, Sylvan
+SPECIAL ABILITIES
+Danse Macabre (Su) Once per night, a tombstone fairy can invoke a ritual to raise any evil creature from the dead. The ritual takes 10 minutes to perform and the target cannot have been dead longer than one day per HD of the tombstone fairy. Additionally, the target’s body must be present during the ritual and its soul must be available for return (that is, if the target’s soul is trapped, such as by a trap the soul spell, this ritual automatically fails).
+A target unwilling to return to life can prevent its raising by making an opposed Charisma check against the tombstone fairy’s Charisma check. If the tombstone fairy wins the check, the target’s soul is forced into its body and it returns to life. If the target wins the opposed check, it prevents its raising, and the tombstone fairy cannot attempt to raise that same target for one month.
+During the ritual a portion of the target’s soul transfers to its funeral shroud or cloth. The tombstone fairy often retains this shroud so as to force compliance from the returned target. Once the target does what the fairy desires, the tombstone fairy finishes this ritual and transfers the last bit of the target’s soul from the shroud into its body. If the funeral shroud is destroyed while it contains a part of the target’s soul, the target instantly dies and can only be returned to life through the use of a resurrection, true resurrection, miracle or wish.
+This ability otherwise resembles a raise dead spell. A tombstone fairy can have only one funeral shroud (containing a target’s soul) in its possession at one time.

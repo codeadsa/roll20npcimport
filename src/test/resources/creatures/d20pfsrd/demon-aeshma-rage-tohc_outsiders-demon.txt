@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-aeshma-rage-tohc
+Rage Demon (Aeshma) CR 11
+XP 12,800
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +4; Senses darkvision 60 ft., see invisibility; Perception +28
+DEFENSE
+AC 25, touch 13, flat-footed 21 (+4 Dex, +12 natural, –1 size)
+hp 189 (14d10+112)
+Fort +12; Ref +13; Will +14
+DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 22
+OFFENSE
+Spd 40 ft., fly 60 ft. (good)
+Melee +1 wounding spear +21/+16/+11 (2d6+10/19–20/x3 plus 1 bleed) or 2 claws +19 (1d6+6)
+Ranged +1 wounding spear +19 (2d6+6/19–20/x3 plus 1 bleed)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rage
+Spell-like Abilities (CL 14th):
+Constant—see invisibility
+At will—dispel magic, greater teleport (self plus 50 lbs. of objects only), unholy blight (DC 17)
+2/day—blasphemy (DC 20), web (DC 15)
+1/day—summon (level 5, 1 aeshma 35% or 4d10 dretches 35%)
+TACTICS
+Aeshma are very potent fighters and prefer a straight fight to subterfuge. They fight aggressively against any foe, relying on their claws only if they are unarmed.
+STATISTICS
+Str 23, Dex 18, Con 27, Int 14, Wis 17, Cha 17
+Base Atk +14; CMB +21; CMD 35
+Feats Blind-Fight, Cleave, Great Cleave, Improved Critical (spear), Iron Will, Power Attack, Weapon Focus (spear)
+Skills Diplomacy +20, Escape Artist +18, Fly +23, Knowledge (arcana) +19, Perception +28, Spellcraft +16, Stealth +17, Survival +20; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+Gear +1 wounding spear
+SPECIAL ABILITIES
+Rage (Ex) An aeshma that takes 50% or more of its total hit points in damage in combat flies into a berserk rage on its next turn, swinging madly with its spear. A raging aeshma fights until either it or its opponent is dead. An enraged aeshma gains +4 Strength and –2 AC. The aeshma can end its rage voluntarily.

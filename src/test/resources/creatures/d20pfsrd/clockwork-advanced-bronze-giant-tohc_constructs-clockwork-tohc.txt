@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-tohc/clockwork-advanced-bronze-giant-tohc
+Clockwork Advanced Bronze Giant CR 17
+XP 102,400
+N Huge construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 24, touch 8, flat-footed 24 (+16 natural, –2 size)
+hp 216 (32d10 plus 40)
+Fort +10; Ref +10; Will +10
+DR 15/adamantine; Immune construct traits; SR 22
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +43 (2d6+13)
+Ranged rock+31 (2d6+13)
+Space 15 ft.; Reach 15 ft.
+Special Attacks rock throwing (140 ft.)
+STATISTICS
+Str 37, Dex 11, Con —, Int —, Wis 11, Cha 1
+Base Atk +32; CMB +47; CMD 57
+Editor’s Note
+Base template: Clockwork Creature (CR +1)
+

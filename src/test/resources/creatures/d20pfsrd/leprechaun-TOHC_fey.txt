@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/leprechaun-TOHC
+Leprechaun CR 4
+XP 1,200
+N Small fey
+Init +7; Senses low-light vision; Perception +15
+DEFENSE
+AC 14, touch 14, flat-footed 11 (+3 Dex, +1 size)
+hp 7 (2d6)
+Fort +0, Ref +5, Will +4
+DR 10/cold iron; SR 27
+OFFENSE
+Speed 40 ft.
+Melee dagger +5 (1d3-2)
+Spell-like Abilities (CL 7th):
+At will—dancing lights, invisibility (self only), permanent image (visual and auditory only, DC 19), polymorph any object (objects only, DC 21), ventriloquism (DC 14)
+STATISTICS
+Str 7, Dex 16, Con 11, Int 16, Wis 15, Cha 16
+Base Atk +1; CMB -1; CMD 12
+Feats Improved Initiative, Weapon FinesseB
+Skills Acrobatics +8, Bluff +8, Craft (any one) +8, Escape Artist +8, Knowledge (local) +8, Perception +15, Perform (comedy) +8, Stealth +12, Sleight of Hand +12; Racial Modifiers +4 Sleight of Hand, +8 Perception
+Languages Common, Sylvan

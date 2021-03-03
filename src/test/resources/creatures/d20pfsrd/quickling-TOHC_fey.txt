@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/quickling-TOHC
+Quickling CR 3
+XP 800
+CE Small fey
+Init +7; Senses low-light vision; Perception +11
+DEFENSE
+AC 19, touch 19, flat-footed 19 (+7 Dex, +1 dodge, +1 size)
+hp 14 (4d6)
+Fort +1, Ref +11, Will +6
+Defensive Abilities evasion, natural invisibility, supernatural speed, uncanny dodge; DR 5/cold iron
+Weaknesses slow susceptibility
+OFFENSE
+Speed 120 ft.
+Melee dagger +10 (1d3-1/19-20 plus poison)
+Spell-like Abilities (CL 6th):
+1/day—dancing lights, flare (DC 11), levitate, shatter (DC 13), ventriloquism (DC 12)
+TACTICS
+No creature can match the natural speed and agility of a quickling. It knows this, and uses its great speed to its advantage in combat. A quickling often rushes an opponent, stabs it with its dagger, and then retreats out of melee range before an opponent can react.
+STATISTICS
+Str 8, Dex 24, Con 11, Int 15, Wis 15, Cha 14
+Base Atk +2; CMB +0; CMD 18
+Feats Dodge, MobilityB, Spring AttackB, Weapon Finesse
+Skills Acrobatics +14 (+50 jump), Bluff +9, Craft (any one) +9, Escape Artist +14, Knowledge (nature) +9, Perception +11, Stealth +18 (+26 in natural surroundings), Survival +6; Racial Modifiers +2 Perception, +8 Stealth in natural surroundings
+Languages Aklo, Common
+SQ poison
+Combat Gear 5 doses of kava leaf poison; Other Gear dagger
+SPECIAL ABILITIES
+Natural Invisibility (Su) A quickling is invisible when motionless. It loses this invisibility and remains visible for 1 round in any round in which it takes any action other than a free action.
+Poison Use (Ex) A quickling is never at risk of poisoning itself when handling poison. They usually use kava leaf poison on their daggers.
+Kava Leaf Poison
+Type ingestion or injury; save DC 15; frequency 1/min. for 2 min.; effect sleep 1 hour; cure 1 save. Supernatural Speed (Su) A quickling moves with incredible speed. Save for when it remains motionless (at which point it is invisible), a quickling’s shape blurs and shimmers with this speed, granting it concealment (20% miss chance). In addition, this ability grants the quickling evasion and uncanny dodge (as the rogue abilities of the same name).
+Slow Susceptibility (Ex) A quickling that succumbs to a slow effect loses its supernatural speed ability and is sickened.

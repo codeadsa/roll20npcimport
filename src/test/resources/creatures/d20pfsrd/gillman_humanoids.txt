@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gillman
+Gillman CR 1/3
+XP 135
+Gillman warrior 1
+N Medium humanoid (aquatic)
+Init +1; Senses Perception +2
+DEFENSE
+AC 11, touch 11, flat-footed 10 (+1 Dex)
+hp 6 (1d10+1)
+Fort +3, Ref +1, Will –1; +2 vs. enchantment
+Weaknesses water dependent
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee spear +2 (1d8+1)
+Ranged light crossbow +2 (1d8+1/×3)
+STATISTICS
+Str 12, Dex 13, Con 13, Int 9, Wis 8, Cha 10
+Base Atk +1; CMB +2; CMD 13
+Feats Skill Focus (Perception)
+Skills Perception +2, Swim +13
+Languages Aboleth, Common
+SQ amphibious
+SPECIAL ABILITIES
+Enchantment Resistance (Ex) Gillmen gain a +2 racial saving throw bonus against non-aboleth enchantment spells and effects, but take a –2 penalty on such saving throws against aboleth sources.
+Water Dependent (Ex) A gillman’s body requires constant submersion in fresh or salt water. Gillmen who spend more than 1 day without fully submerging themselves in water risk internal organ failure, painful cracking of the skin, and death within 4d6 hours.

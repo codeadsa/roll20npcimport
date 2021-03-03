@@ -1,0 +1,47 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-mithral-kp/dragon-ancient-mithral-kp
+Ancient Mithral Dragon
+CR 19
+XP 204,800
+N Gargantuan dragon (earth)
+Init +4; Senses blindsense 60 ft., darkvision 120 ft., dragon senses, low-light vision; Perception +35; Aura blindness aura (10 ft., DC 23), frightful presence (180 ft., DC 23)
+DEFENSE
+AC 39, touch 6, flat-footed 39 (+33 natural, -4 size)
+hp 337 (25d12+175)
+Fort +21, Ref +16, Will +21
+Defensive Abilities fortification 50%, improved evasion;
+DR 15/magic; Immune acid, paralysis, sleep, sonic
+OFFENSE
+Speed 50 ft., fly 250 ft. (poor)
+Melee bite +34 (4d8+12), 2 claws +33 (4d6+12 plus 8 bleed), 2 wings +28 (2d8+6), tail slap +28 (4d6+6)
+Space 20 ft.; Reach 20 ft. (25 ft. with bite)
+Special Attacks breath weapon (120-ft. line, 20d8 damage, Reflex half DC 29, usable every 1d4 rounds), crush, razor claws, tail sweep
+Spell-Like Abilities (CL 25th; concentration +32)
+At will—break enchantment, bull’s strength, dimension door, dispel magic, mage armor
+Spells Known (CL 15th; concentration +22)
+7th (5/day)—forcecage, limited wish
+6th (7/day)—acid fog, antimagic field, guards and wards
+5th (7/day)—dismissal (DC 22), polymorph, telekinesis (DC 22), teleport
+4th (7/day)—charm monster, scrying, stoneskin, wall of fire
+3rd (8/day)—haste, keen edge, lightning bolt (DC 20), protection from energy
+2nd (8/day)—cat’s grace, fog cloud, glitterdust (DC 19), invisibility, mirror image
+1st (8/day)—charm person (DC 18), expeditious retreat, magic missile, true strike, unseen servant
+0th—acid splash, arcane mark, daze (DC 17), detect magic, ghost sound, light, mage hand, read magic, resistance
+STATISTICS
+Str 35, Dex 10, Con 25, Int 24, Wis 25, Cha 24
+Base Atk +25; CMB +41; CMD 51 (55 vs. trip)
+Feats Awesome Blow, Combat Expertise, Combat Reflexes, Flyby Attack, Hover, Improved Bull Rush, Improved Initiative, Improved Lightning Reflexes, Improved Vital Strike, Lightning Reflexes, Power Attack, Vital Strike, Weapon Focus (bite)
+Skills Acrobatics +20 (+28 when jumping), Appraise +32, Bluff +30, Diplomacy +32, Fly +18, Knowledge (arcana) +35, Knowledge (dungeoneering) +26, Knowledge (geography) +24, Knowledge (history) +30, Knowledge (nature) +30, Knowledge (nobility) +28, Knowledge (planes) +22, Perception +35, Sense Motive +35, Spellcraft +35, Use Magic Device +26
+Languages Auran, Celestial, Common, Draconic, Elven, Giant, Infernal, Terran
+SQ perfect flight
+Languages Draconic, Undercommon
+SPECIAL ABILITIES
+Blindness Aura (Su) An ancient mithral dragon can shift its gleaming scales to blind and disorient opponents. Any creature within 5 ft. of the dragon must make a DC 29 Fortitude save or be blinded and confused for 1 round. This aura extends out to 10 ft. A mithral dragon can suppress or activate this aura at will as a free action.
+Breath Weapon (Su) An ancient mithral dragon can fire a line of mithral shards that deal piercing and slashing damage. These shards count as adamantine, cold iron, good, and silver for purposes of overcoming DR. An ancient mithral dragon’s shards deal 12 bleed damage in addition to the normal damage. This bleed damage is not halved with a successful saving throw.
+These shards dissolve into wisps of smoke 1 round after the breath weapon‘s use.
+Fortification (Su) An ancient mithral dragon has a 50% chance of negating critical hits or sneak attacks.
+Perfect Flight (Ex) An ancient mithral dragon’s maneuverability is one step better than normal.
+Razor Claws (Ex) An ancient mithral dragon’s claws are exceptionally sharp. Whenever a mithral dragon makes a successful attack with its claws, it deals bleed damage. The amount of bleed damage a creature takes depends on age category.
+Spell-Like Abilities (Su) An ancient mithral dragon gains the following spell-like abilities, all usable at will:
+mage armor; bull’s strength; dispel magic; dimension door; break enchantment.
+Editor’s Note
+Based on the Razor Claws description, this dragon should have 10 bleed for its claw attacks.

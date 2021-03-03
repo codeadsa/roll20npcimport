@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/bogwiggle
+Bogwiggle CR 1
+XP 400
+CE Small aberration (aquatic)
+Init +5; Senses darkvision 60 ft.; Perception +1
+DEFENSE
+AC 12, touch 12, flat-footed 11 (+1 Dex, +1 size)
+hp 16 (3d8+3)
+Fort +2, Ref +2, Will +4
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee bite +4 (1d4+1), tongue –1 touch (sticky tongue)
+Space 5 ft.; Reach 5 ft. (10 ft. with tongue)
+STATISTICS
+Str 13, Dex 12, Con 13, Int 3, Wis 12, Cha 6
+Base Atk +2; CMB +2; CMD 13
+Feats Improved Initiative, Power Attack
+Skills Acrobatics +5, Stealth +9 (+17 in swamps), Swim +13; Racial Modifiers +4 Perception in swamps, +8 Stealth in swamps
+Languages Boggard (can’t speak)
+SQ amphibious, swamp stride
+SPECIAL ABILITIES
+Sticky Tongue (Ex) A creature hit by a bogwiggle’s tongue attack cannot move more than 10 feet away from the bogwiggle and takes a –2 penalty to AC as long as the tongue is attached (this penalty does not stack if multiple tongues are attached). The tongue can be removed by making an opposed Strength check as a standard action or by dealing 2 points of slashing damage to the tongue (AC 11, damage does not deplete the bogwiggle’s actual hit points). The bogwiggle cannot move more than 10 feet away from the target, but can release its tongue’s grip as a free action. Unlike a giant frog, a bogwiggle cannot pull targets toward it with its tongue.
+Swamp Stride (Ex) A bogwiggle can move through any sort of natural difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a bogwiggle normally.

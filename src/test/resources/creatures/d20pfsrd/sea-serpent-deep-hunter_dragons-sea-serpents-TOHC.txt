@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/sea-serpents-TOHC/sea-serpent-deep-hunter
+Deep Hunter Sea Serpent CR 22
+XP 614,400
+LN Gargantuan dragon (aquatic)
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +24
+DEFENSE
+AC 20, touch 8, flat-footed 18 (+1 Dex, +1 dodge, +12 natural, -4 size)
+hp 324 (24d12+168)
+Fort +23, Ref +15, Will +17
+Immune paralysis and sleep, dragon traits
+OFFENSE
+Speed swim 60 ft.
+Melee bite +31 (2d8+15/19-20 plus poison and grab)
+Space 20 ft.; Reach 15 ft.
+Special Attacks constrict (2d8+15), poison, swallow whole (2d8+15 bludgeoning plus 1d8 acid damage, AC 15, 25 hp)
+STATISTICS
+Str 31, Dex 13, Con 24, Int 11, Wis 13, Cha 12
+Base Atk +24; CMB +38 (+42 grapple); CMD 50 (can’t be tripped)
+Feats Bleeding Critical, Cleave, Dodge, Great Fortitude, Improved Critical (bite), Improved Initiative, Improved Natural Armor, Iron Will, Mobility, Power Attack, Spring Attack, Swim-By AttackB, Weapon Focus (bite)
+Skills Bluff +13, Diplomacy +14, Intimidate +28, Knowledge (nature) +9, Perception +24, Sense Motive +14, Stealth +16, Survival +28, Swim +38
+Languages Aquan, Draconic
+SPECIAL ABILITIES
+Poison (Ex) Bite–injury; save Fort DC 29; frequency 1/round for 6 rounds; effect 1d6 Str; cure 2 consecutive saves. The save DC is Constitution-based.

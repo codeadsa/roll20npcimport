@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/red-reaver
+Red Reaver CR 13
+XP 25,600
+N Large magical beast
+Init -2; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 29, touch 7, flat-footed 29 (-2 Dex, +22 natural, -1 size)
+hp 184 (16d10+96)
+Fort +16, Ref +8, Will +8
+OFFENSE
+Speed 30 ft., fly 20 ft. (clumsy)
+Melee bite +24 (2d4+9) and 2 claws +25 (1d8+9)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d8+13), roar
+TACTICS
+During Combat Red reavers are moody, volatile creatures that put no thought into tactics, relying on their brute strength to overcome any danger. Whenever possible, red reavers roar and then charge into battle, making use of their Improved Bull Rush and Awesome Blow feats.
+Morale A red reaver withdraws if it believes its bonded site is in danger and in need of protection. A reaver confronted at its bonded site sometimes abandons the site and flees if severely damaged.
+STATISTICS
+Str 28, Dex 6, Con 23, Int 3, Wis 12, Cha 12
+Base Atk +16; CMB +26 (+28 on bull rush); CMD 34 (36 vs. bull rush)
+Feats Ability Focus (roar), Awesome Blow, Cleave, Combat Reflexes, Improved Bull Rush, Iron Will, Power Attack, Weapon Focus (claws)
+Skills Fly -12, Perception +12, Survival +9
+Languages understands a few simple words of Giant
+SQ distracted, flight
+SPECIAL ABILITIES
+Distracted (Ex) Red reavers are easily distracted by beautiful sights and sounds. Any successful Perform check of DC 30 or higher has the additional effect of placating the creature, causing it to stop whatever it’s doing and stand still to enjoy the performance. The red render remains stationary and calm until the performance stops or it takes damage. A performer can only take advantage of a red render’s distraction once per hour. At the GM’s discretion, a red reaver might also be affected by scenes of particular beauty, although they are usually only distracted by a static view or work of art for 5 minutes. It generally isn’t distracted by beautiful creatures, but it could be distracted by particularly eye-catching apparel worn by a creature.
+Flight (Su) A red reaver’s ability to fly is partially supernatural. In areas where supernatural abilities do not function, a red reaver can only fly for short distances, and must land at the end of each turn or it falls.
+Roar (Su) A red reaver can loose a devastating roar every 1d4 rounds. All creatures except red reavers within 120 feet must succeed on a DC 21 Will save or become shaken. Those within 30 feet who fail their saves become panicked. Creatures who successfully save cannot be affected by the same red reaver’s roar for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based.

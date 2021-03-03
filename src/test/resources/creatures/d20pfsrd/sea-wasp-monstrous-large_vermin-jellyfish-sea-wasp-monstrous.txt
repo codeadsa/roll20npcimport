@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/jellyfish/sea-wasp-monstrous/sea-wasp-monstrous-large
+Large Monstrous Sea Wasp CR 3
+XP 800
+N Large vermin (aquatic)
+Init +1; Senses darkvision 60 ft., watersense 60 ft.; Perception +4
+DEFENSE
+AC 12, touch 11, flat-footed 11 (+1 Dex, +2 natural, -1 size)
+hp 22 (4d8+4)
+Fort +5 , Ref +2 , Will +1
+Defensive Abilities transparent; Immune vermin traits
+OFFENSE
+Speed swim 60 ft.
+Melee tentacle +3 (1d8+1 plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks entangle
+STATISTICS
+Str 13, Dex 13, Con 12, Int –, Wis 10, Cha 2
+Base Atk +3; CMB +5; CMD 16 (can’t be tripped)
+Skills Escape Artist +11, Perception +4, Stealth +7, Swim +9; Racial Modifiers +4 Perception, +10 Escape Artist, +10 Stealth
+SQ jet, transparent
+SPECIAL ABILITIES
+Entangle (Ex) A sea wasp can entangle a creature up to two sizes smaller than itself with its tentacles with a successful CMB check. An entangled opponent suffers tentacle damage and the effect of its poison each round the hold is maintained. An entangled creature still receives a save to avoid the effects of its poison. While a foe is entangled, the sea wasp cannot attack any other creature.
+Poison (Ex) Sting–injury; save Fort DC 13; frequency 1/round for 1d6 rounds; effect 1d4 Con damage; cure 2 consecutive saves. The DC of the save is Constitution-based.
+Jet (Ex) A monstrous sea wasp can jet backward once per round as a full-round action at a speed equal to four times its swim speed. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
+Transparent (Ex) A monstrous sea wasp is nearly invisible floating in the water. An observer must make a successful DC 20 Perception check to notice the sea wasp.
+Watersense (Ex) Monstrous sea wasps can automatically sense the location of anything within 60 feet that is in contact with water.

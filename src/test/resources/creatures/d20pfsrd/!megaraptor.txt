@@ -1,0 +1,24 @@
+MegaraptorCR 5
+
+XP 1,600
+N Large animal
+Init +7; Senses low-light vision, scent; Perception +16
+
+DEFENSE
+
+AC 20, touch 12, flat-footed 17 (+3 Dex, -1 size, +8 natural)
+hp 50 (4d8+32)
+Fort +12, Ref +7, Will +4
+
+OFFENSE
+
+Speed 60 ft.
+Melee 2 talons +9 (2d6+6), bite +9 (1d8+6), foreclaws +7 (1d6+3)
+Special Attacks pounce
+
+STATISTICS
+
+Str 23, Dex 17, Con 27, Int 6, Wis 16, Cha 18
+Base Atk +3; CMB +10; CMD 23
+Feats Improved Initiative, Run
+Skills Acrobatics +14 (+26 jump), Perception +16, Stealth +16; Racial Modifiers +8 Acrobatics, +8 Perception, +8 Stealth

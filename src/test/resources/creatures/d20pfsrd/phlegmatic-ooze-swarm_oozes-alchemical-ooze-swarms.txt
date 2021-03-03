@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/alchemical-ooze-swarms/phlegmatic-ooze-swarm
+Phlegmatic Ooze Swarm CR 1/2
+XP 200
+N Tiny ooze (swarm)
+Init -5; Senses blindsight 60 ft.; Perception –5
+DEFENSE
+AC 7, touch 7, flat-footed 7 (-5 Dex, +2 size)
+hp 8 (1d8+4)
+Fort +4, Ref -5, Will -5
+Immune ooze traits, swarm traits; Resist cold 5
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 10 ft.
+Melee swarm (1 plus viscous)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction(DC 14), maddening slime, viscous (DC 14)
+STATISTICS
+Str 10, Dex 1, Con 18, Int -, Wis 1, Cha 1
+Base Atk +0; CMB -7; CMD 7 (can’t be tripped)
+SPECIAL ABILITIES
+Maddening Slime (Ex) Phlegmatic oozes are composed of volatile, mind-altering secretions. Any living creature that begins its turn affected by the phlegmatic ooze’s viscous ability must make a DC 14 Fortitude save or be confused for 1 round. This is a mind-affecting effect. Creatures immune to poison are immune to this effect.
+Viscous (Ex) As described in the sanguine ooze swarm’s special abilities, except the Reflex save DC is 14 and the patches are destroyed if the victim takes any amount of fire damage.

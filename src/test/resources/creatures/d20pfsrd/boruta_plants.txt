@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/boruta
+Boruta CR 9
+XP 6,400
+N Medium plant
+Init +6; Senses low-light vision; Perception +20
+DEFENSE
+AC 23, touch 13, flat-footed 20 (+2 Dex, +1 dodge, +10 natural)
+hp 105 (14d8+42)
+Fort +12, Ref +6, Will +7
+Immune electricity, plant traits
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +13 (1d4+3 plus grounding curse)
+Spell-Like Abilities (CL 7th; concentration +10)
+Constant—pass without trace
+At will—entangle (DC 14)
+3/day—command plants (DC 17)
+1/day—summon nature’s ally V (1 shambling mound only)
+Spells Prepared (CL 7th; concentration +10)
+4th—spike stones (DC 17)
+3rd—call lightning (2, DC 16), plant growth
+2nd—fog cloud, soften earth and stone, tree shape, wood shape (DC 15)
+1st—calm animals, detect animals or plants, goodberry, magic fang, speak with animals
+0—create water, detect magic, detect poison, know direction, mending
+STATISTICS
+Str 17, Dex 15, Con 16, Int 13, Wis 17, Cha 16
+Base Atk +10; CMB +13; CMD 26
+Feats Combat Casting, Combat Reflexes, Dodge, Improved Initiative, Improved Iron Will, Mobility, Natural Spell
+Skills Perception +20, Stealth +19, Survival +17
+Languages Common, Sylvan
+SQ treespeech, wild shape
+SPECIAL ABILITIES
+Electric Fortitude (Ex) Borutas take no damage from electricity. Instead, any electricity attack used against a boruta temporarily increases its Constitution score by 1d4 points. The boruta loses these temporary points at the rate of 1 per hour.
+Grounding Curse (Su) Any living creature that takes damage from a boruta’s claws must make a DC 20 Fortitude save or have hundreds of tiny seed pods injected into its body. These seeds grow rapidly; they explode through the victim’s skin on its next turn, dealing 1d6 points of damage and entangling it as runners and vines grow from its flesh and root themselves in the ground. The victim cannot move unless it makes a DC 10 Strength check to tear the plants from the ground, but doing so also deals 1d4 points of damage to the victim. This effect lasts for 10 minutes. Remove curse, blight, diminish plants, and similar spells instantly end this effect. The save DC is Constitution-based.
+Treespeech (Ex) A boruta has the ability to converse with plants as if subject to a continual speak with plants spell, and most plants greet them with an attitude of friendly or helpful.
+Wild Shape (Su) A boruta can wild shape three times per day as a 7th-level druid. In any form a boruta takes, its appearance remains plantlike, with wooden features and leaves rather than fur or feathers.

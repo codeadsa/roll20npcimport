@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-fiend/elemental-fiend-firefiend-tohc
+Firefiend CR 5
+XP 1,600
+CE Medium outsider (chaotic, elemental, evil, extraplanar, fire)
+Init +1; Senses all-around vision, darkvision 60 ft.; Perception +15
+DEFENSE
+AC 18, touch 11, flat-footed 17 (+1 Dex, +7 natural)
+hp 68 (8d10+24)
+Fort +5; Ref +7; Will +6
+DR 5/—; Immune elemental traits, fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft.,fly 30 ft. (perfect)
+Melee 3 longswords (1d8+4/19–20 plus burn)
+Ranged spit cinder +9 (1 fire plus ignite)
+Special Attacks burn, spit cinder
+STATISTICS
+Str 18, Dex 13, Con 16, Int 8, Wis 10, Cha 8
+Base Atk +8; CMB +12; CMD 23 (25 vs. trip)
+Feats Cleave, Intimidating Prowess, Power Attack, Weapon Focus (long sword)
+Skills Bluff +10, Intimidate +14, Knowledge (planes) +10, Perception +15, Sense Motive +11; Racial Modifiers +4 Perception
+Languages Ignan
+SQ willful weapon
+Combat Gear 3 masterwork weapons
+SPECIAL ABILITIES
+All-Around Vision (Ex) An elemental fiend’s three faces allow it to see in all directions at once. It cannot be flanked.
+Burn (Ex) A firefiend deals fire damage in addition to damage dealt on a successful hit in melee. Those affected by the burn ability must also succeed on a DC 17 Reflex save or catch fire, taking 1d6 fire damage for an additional 1d4 rounds at the start of its turn. A burning creature can attempt a new save as a full-round action. Dropping and rolling on the ground grants a +4 bonus on this save. Creatures that hit a firefiend with natural weapons or unarmed attacks take fire damage as though hit by the firefiend and must make a Reflex save to avoid catching on fire. The save DC is Constitution-based.
+Spit Cinder (Su) Once per round as a swift action, a firefiend can spit a fiery cinder to a range of 10 feet at one opponent. If struck by the cinder, the target takes 1 point of fire damage and must succeed on a DC 15 Reflex save or catch on fire.
+Willful Weapon (Su) A disarmed elemental fiend can will its weapon to return to its hand on its turn as a free action, as long as the weapon is within 30 ft. of the elemental fiend and is in its line of sight and line of effect. The weapon automatically returns to the elemental fiend’s hand even if the weapon is being held by another creature.

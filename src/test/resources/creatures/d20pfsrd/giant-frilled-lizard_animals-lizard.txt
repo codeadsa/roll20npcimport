@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/lizard/giant-frilled-lizard
+Giant Frilled Lizard CR 5
+XP 1,600
+N Large animal
+Init +5; Senses low-light vision, scent; Perception +11
+
+DEFENSES AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 59 (7d8+28)
+Fort +11, Ref +8, Will +4
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee bite +9 (2d6+5), tail +4 (1d8+2) Space 10 ft.; Reach 5 ft. Special Attacks intimidating charge
+STATISTICS
+Str 21, Dex 13, Con 19, Int 2, Wis 14, Cha 10
+Base Atk +5; CMB +11; CMD 22 (26 vs. trip)
+Feats Great Fortitude, Improved Initiative, Lightning Reflexes, Skill Focus (Perception)
+Skills Climb +13, Perception +11, Stealth +8; Racial Modifiers +4 Stealth
+SPECIAL ABILITIES
+Intimidating Charge (Ex)
+When a giant frilled lizard charges, it hisses ferociously, extends its neck frills, and darts forward on its hind legs, increasing its base speed to 50 feet for that round. In addition to the normal effects of a charge, the creature charged must make a DC 13 Will save or be shaken for 1d6 rounds. This is a fear effect. The save DC is Charisma-based.

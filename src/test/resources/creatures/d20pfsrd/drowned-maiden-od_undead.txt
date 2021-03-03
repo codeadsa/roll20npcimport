@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/drowned-maiden-od
+Drowned Maiden CR 7
+XP 3,200
+NE Medium undead (aquatic)
+Init +7; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 18, touch 13, flat-footed 15 (+3 Dex, +5 natural)
+hp 95 (10d8+50)
+Fort +8, Ref +6, Will +10
+Defensive Abilities undead traits
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee 2 claws +10 (1d4+2), hair +11 (2d4+2 plus grab)
+Space 5 ft.; Reach 5 ft. (20 ft. with hair)
+Special Attacks constrict (2d4+2), kiss, pull (hair, 10 ft.), tresses
+Spell-Like Abilities (CL 10th)
+At will—disguise self (DC 16), silence (DC 17)
+STATISTICS
+Str 15, Dex 16, Con —, Int 10, Wis 12, Cha 20
+Base Atk +7; CMB +9; CMD 22
+Feats Improved Initiative, Iron Will, Skill Focus (Stealth), Weapon Finesse, Weapon Focus (hair)
+Skills Bluff +15, Disguise +14, Intimidate +9, Knowledge (History) +3, Perception +14, Sense Motive +5, Stealth +18, Swim +13; Racial Modifiers +8 Swim
+Languages Common
+SPECIAL ABILITIES
+Kiss (Ex) If a drowned maiden successfully pins an opponent up to Large size that her tresses have successfully grappled, she can embrace it to deadly effect. On each round that the drowned maiden embraces a creature in this manner, she kisses it. Victims kissed by a drowned maiden take 1d4 Strength drain (Fort DC 20; Cha-based).
+Tresses (Ex) At will, a drowned maiden can cause her hair to extend or retract with great speed. Her hair is prehensile and capable of making attacks as a primary attack (break DC 25; AC 17, touch 15; 10 hp; DR 15/slashing). On a successful attack, the tresses grab a target, which the maiden then pulls into her embrace. Her hair can only grapple one target at a time, and during that time, the hair cannot attack another target. A drowned maiden does not gain the grappled condition while using her hair in this manner.

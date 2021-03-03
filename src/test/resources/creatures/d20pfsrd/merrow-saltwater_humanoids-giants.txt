@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/merrow-saltwater
+Saltwater Merrow CR 6
+XP 2,400
+NE Huge humanoid (aquatic, giant)
+Init +3; Senses low-light vision; Perception +7
+DEFENSE
+AC 19, touch 11, flat-footed 16 (+3 Dex, +8 natural, –2 size)
+hp 80 (7d8+49)
+Fort +11, Ref +5, Will +4
+OFFENSE
+Speed 40 ft., swim 40 ft.
+Melee 2 claws +11 (1d8+7 plus grab)
+Ranged javelin +6 (2d6+7)
+Space 15 ft.; Reach 15 ft.
+STATISTICS
+Str 25, Dex 16, Con 23, Int 6, Wis 10, Cha 7
+Base Atk +5; CMB +14 (+18 grapple); CMD 27
+Feats Iron Will, Power Attack, Vital Strike, Weapon Focus (claw)
+Skills Perception +7, Stealth –2 (+2 in water), Swim +15; Racial Modifiers +4 Stealth in water, +8 Swim
+Languages Giant
+SQ amphibious

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-alchemical
+Alchemical Golem CR 9
+XP 6,400
+N Large construct
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 23, touch 13, flat-footed 19 (+4 Dex, +10 natural, –1 size)
+hp 96 (12d10+30)
+Fort +4, Ref +8, Will +4
+DR 10/adamantine or bludgeoning; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +19 (2d8+8 plus alchemy)
+Ranged bomb +15 (8d6 energy damage)
+Space 10 ft.; Reach 10 ft.
+Special Attacks alchemy, bombs, splash
+STATISTICS
+Str 27, Dex 18, Con —, Int —, Wis 11, Cha 1
+Base Atk +12; CMB +21; CMD 35
+SPECIAL ABILITIES
+Alchemy (Ex) When an alchemical golem strikes a foe, the attack has an additional random effect, chosen from the options below. The attack can
+deal 1d6 points of acid, cold, electricity, or fire damage cause the target to become sickened (Fortitude DC 16 negates) for 1d4 rounds cause the target to become entangled (Reflex DC 16 negates) for 1d4 rounds These save DCs are Constitution-based. Bombs (Ex) As a standard action, an alchemical golem can throw a bomb as a ranged touch attack to a distance of 60 feet (no range increment). If the attack misses, treat it as a thrown splash weapon to determine where it lands. Anyone struck by an alchemical golem’s bomb takes 8d6 points of acid, cold, electricity, or fire damage (determine type randomly). All creatures adjacent to the location where the bomb hits take 1d6 points of energy damage of the same type.
+Immunity to Magic (Ex) An alchemical golem is immune to spells or spell-like abilities that allow spell resistance, save for spells with the sonic descriptor. Shatter damages an alchemical golem as if it were a crystalline creature.
+Splash (Ex) Any strike on an alchemical golem with a non-reach melee weapon deals 1 point of acid, cold, electricity, or fire damage (determine type randomly) to the attacker. This amount increases to 1d6 points of damage if the attack is a critical hit.

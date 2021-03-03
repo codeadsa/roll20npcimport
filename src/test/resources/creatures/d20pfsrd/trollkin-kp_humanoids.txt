@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/trollkin-kp
+Trollkin CR 1
+XP 400
+N Medium humanoid
+Init +0; Senses darkvision 60 ft.; Perception +2
+DEFENSE
+AC 15, touch 10, flat-footed 15 (+2 armor, +3 natural)
+hp 11 (2d8+2); fast healing 1 (acid or fire)
+Fort +2; Ref +2; Will +1
+OFFENSE
+Speed 30 ft.
+Melee longspear +2 (1d6+1/x3), bite +0 (1d4) or 2 claws +2 (1d4+1), bite +2 (1d4+1)
+Ranged javelin +1 (1d4+1)
+Space 5 ft.; Reach 5 ft. (10 ft. with longspear)
+STATISTICS
+Str 12, Dex 10, Con 14, Int 9, Wis 12, Cha 10
+Base Atk +1; CMB +2; CMD 12
+Feats Multiattack
+Skills Handle Animal +5, Perception +2; Racial Modifiers +4 Handle Animal
+Languages Draconic, Giant, Northern Tongue
+SPECIAL ABILITIES
+Fast Healing (Ex) A trollkin regains 1 hp/round, though not fire or acid damage, nor damage due to starvation or exhaustion. A trollkin gains no hit points from fast healing in any round when it suffers fire or acid damage.

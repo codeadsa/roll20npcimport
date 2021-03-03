@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sky
+Sky Dragon
+
+LG dragon (air)
+BASE STATISTICS CR 5; Size Small; Hit Dice 6d12
+Speed 40 ft.
+Natural Armor +6; Breath Weapon cone, 2d8 electricity
+Str 13, Dex 14, Con 13, Int 14, Wis 15, Cha 14
+SPECIAL ABILITIES
+Borne Aloft (Su) Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.
+Celestial Emissary (Su) Three times per day, a great wyrm sky dragon can imbue others with the celestial aspect of the oracle spell divine vessel, but it can only be cast on another willing creature of good alignment.
+Change Shape (Su) A young or older sky dragon can assume any humanoid form three times per day as if using polymorph.
+Cloud Sight (Su) A very young or older sky dragon’s sight is not impeded by clouds or fog, or by spells that create areas of fog.
+Grounding Breath (Su) Any flying creature damaged by the breath weapon of an ancient or older sky dragon must make a Fortitude save with the same DC as the sky dragon’s breath weapon or lose the ability to fly for 1d4 rounds.
+Primal Lightning (Su) An old or older sky dragon’s breath weapon can affect creatures normally immune or resistant to electricity damage. A creature immune to electricity damage still takes half damage from the breath weapon (no damage with a successful saving throw). Resistant creatures’ electricity resistance is treated as 10 less than normal.
+CR Age Category Special Abilities Caster Level
+5 Wyrmling Borne aloft, immunity to electricity —
+7 Very Young Cloud sight —
+9 Young Change shape, detect evil 1st
+10 Juvenile Feather fall, frightful presence 3rd
+12 Young Adult DR 5/magic, spell resistance 5th
+13 Adult Gust of wind 7th
+14 Mature Adult DR 10/magic 9th
+16 Old Call lightning storm, primal lightning 11th
+17 Very Old DR 15/magic 13th
+18 Ancient Control winds, grounding breath 15th
+19 Wyrm DR 20/magic 17th
+21 Great Wyrm Celestial emissary, stormbolts 19th
+Subpages
+Sky Dragon, Adult Sky Dragon, Ancient Sky Dragon, Great Wyrm Sky Dragon, Juvenile Sky Dragon, Mature Adult Sky Dragon, Old Sky Dragon, Very Old Sky Dragon, Very Young Sky Dragon, Wyrm Sky Dragon, Wyrmling Sky Dragon, Young Sky Dragon, Young Adult

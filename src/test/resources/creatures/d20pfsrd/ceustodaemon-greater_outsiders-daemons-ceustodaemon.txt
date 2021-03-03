@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/ceustodaemon/ceustodaemon-greater
+Greater Ceustodaemon CR 7
+XP 2,400
+NE Large outsider (daemon, evil, extraplanar)
+Init +3; Senses darkvision 60 ft., detect good, detect magic, see invisibility; Perception +15
+DEFENSE
+AC 24, touch 12, flat-footed 21 (+1 Dex, +12 natural, –1 size)
+hp 84 (8d10+40)
+Fort +11, Ref +5, Will +10
+DR 10/good or silver; Immune acid, death effects, disease, mind-affecting effects, paralysis, poison, polymorph effects, sleep effects; Resist cold 10, electricity 10, fire 10
+OFFENSE
+Speed 30 ft.
+Melee bite +13 (2d6+6), 2 claws +13 (1d6+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (30-ft. cone; 6d6 electricity damage; Reflex DC 19 for half; usable once every 1d4 rounds)
+Spell-Like Abilities (CL 8th; concentration +10)
+Constant— detect good, detect magic, see invisibility
+At will— dimension door
+3/day— dispel magic, fly
+1/day— hold monster (DC 19), slow (DC 17) STATISTICS
+Str 22, Dex 17, Con 20, Int 15, Wis 18, Cha 19
+Base Atk +8; CMB +13; CMD 24
+Feats Alertness, Blind-Fight, Power Attack, Step Up
+Skills Bluff +15, Intimidate +15, Knowledge (planes) +13, Knowledge (any) +13, Perception +15, Sense Motive +15, Stealth +10, Survival +15
+Languages Abyssal, Infernal; telepathy 100 ft.
+SQ drawn to service

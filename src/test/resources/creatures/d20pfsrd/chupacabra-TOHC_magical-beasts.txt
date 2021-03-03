@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/chupacabra-TOHC
+Chupacabra CR 2
+XP 600
+N Small magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +8
+DEFENSE
+AC 15, touch 13, flat-footed 13 (+2 Dex, +2 natural, +1 size)
+hp 19 (3d10+3)
+Fort +4; Ref +5; Will +1
+OFFENSE
+Speed 20 ft.
+Melee bite +6 (1d4), 2 claws +6 (1d3 plus grab)
+Special Attacks blood drain
+TACTICS
+A chupacabra attacks with its razor-sharp claws and powerful bite, striking from ambush whenever possible. If a chupacabra grabs a foe, it slashes its throat open and sucks out its blood. If facing only one foe, a chupacabra maintains its grapple until it has drained all of its opponent’s blood. When it kills an opponent, the chupacabra tears it to shreds and gorges itself on as much of the foe’s blood as it can.
+STATISTICS
+Str 10, Dex 15, Con 12, Int 2, Wis 11, Cha 10
+Base Atk +3; CMB +2 (+6 grapple); CMD 14
+Feats Skill Focus (Perception), Weapon Finesse
+Skills Perception +8, Stealth +14; Racial Modifiers +4 Stealth
+SPECIAL ABILITIES
+Blood Drain (Ex) A chupacabra can suck blood from a living creature by making a successful grapple check. If it wins the grapple check, it establishes a hold and drains blood, dealing 1d3 points of Constitution damage each round the hold is maintained.

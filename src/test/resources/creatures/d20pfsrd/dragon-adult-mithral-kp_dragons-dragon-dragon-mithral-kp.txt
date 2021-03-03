@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-mithral-kp/dragon-adult-mithral-kp
+Adult Mithral Dragon CR 14
+XP 38,400
+N Large dragon (earth)
+Init +5; Senses blindsense 60 ft., darkvision 120 ft., dragon senses, low-light vision; Perception +25; Aura frightful presence (180 ft., DC 23)
+DEFENSE
+AC 31, touch 10, flat-footed 30 (+1 Dex, +21 natural, -1 size)
+hp 195 (17d12+85)
+Fort +15, Ref +13, Will +15
+Defensive Abilities evasion, fortification 25%;
+DR 5/magic; Immune acid, paralysis, sleep, sonic
+OFFENSE
+Speed 50 ft., fly 200 ft. (average)
+Melee bite +25 (2d8+8), 2 claws +24 (2d6+8 plus 6 bleed), 2 wings +19 (1d8+4), tail slap +19 (2d6+4)
+Space 15 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (100-ft. line, 12d8 damage, Reflex half DC 23, usable every 1d4 rounds), crush, razor claws
+Spell-Like Abilities (CL 17th; concentration +22)
+At will—bull’s strength, dispel magic, mage armor
+Spells Known (CL 7th; concentration +12)
+3rd (5/day)—haste, protection from energy
+2nd (7/day)— cat’s grace, fog cloud, glitterdust (DC 17)
+1st (8/day)—charm person (DC 16), expeditious retreat, magic missile, true strike, unseen servant
+0th (at will)—acid splash, arcane mark, daze (DC 15), detect magic, light, mage hand, read magic
+STATISTICS
+Str 27, Dex 12, Con 21, Int 20, Wis 21, Cha 20
+Base Atk +17; CMB +26; CMD 37 (41 vs. trip)
+Feats Combat Reflexes, Flyby Attack, Hover, Improved Initiative, Improved Vital Strike, Lightning Reflexes, Power Attack, Vital Strike, Weapon Focus (bite)
+Skills Acrobatics +11 (+19 when jumping), Appraise +18, Bluff +19, Diplomacy +20, Fly +17, Knowledge (arcana) +20, Knowledge (dungeoneering) +16, Knowledge (geography) +15,
+SPECIAL ABILITIES
+Blindness Aura (Su) Old and older mithral dragons can shift their gleaming scales to blind and disorient opponents. Any creature within 5 ft. of the dragon must make a Fortitude save or be blinded and confused for 1 round. An ancient dragon’s aura extends out to 10 ft. For great wyrm mithral dragons, those opponents that fail their saves are blinded and confused for 1d6 rounds. The DC of this save is equal to the dragon’s breath weapon. A mithral dragon can suppress or activate this aura at will as a free action.
+Breath Weapon (Su) A mithral dragon can fire a line of mithral shards that deal piercing and slashing damage. These shards count as cold iron, good, and silver for purposes of overcoming DR. At young age, a mithral dragon’s shards deal bleed damage equal to half its HD in addition to the normal damage. This bleed damage is not halved with a successful saving throw. At young adult age, these shards additionally count as adamantine for purposes of overcoming DR. These shards dissolve into wisps of smoke 1 round after the breath weapon‘s use.
+Fortification (Su) Young adult or older mithral dragons have a 25% chance of negating critical hits or sneak attacks; 50% for very old or older mithral dragons; great wyrm mithral dragons are immune to critical hits and sneak attacks.
+Perfect Flight (Ex) A young or older mithral dragon’s maneuverability is one step better than normal.
+Razor Claws (Ex) A mithral dragon‘s claws are exceptionally sharp. Whenever a mithral dragon makes a successful attack with its claws, it deals bleed damage. The amount of bleed damage a creature takes depends on age category.
+Spell-Like Abilities (Su) A mithral dragon gains the following spell-like abilities, usable at will upon the listed age category. Very young—mage armor; juvenile—bull’s strength; adult— dispel magic; old—dimension door; ancient—break enchantment; great wyrm—true seeing.

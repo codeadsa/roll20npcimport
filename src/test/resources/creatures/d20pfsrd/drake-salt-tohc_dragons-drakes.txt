@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/drakes/drake-salt-tohc
+Salt Drake CR 8
+XP 4,800
+N Large dragon (earth)
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +21
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 104 (11d12+33); fast healing 2
+Fort +10; Ref +8; Will +8
+Immune paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (poor)
+Melee bite +13 (2d6+4), 2 claws +13 (1d8+3), 2 wings +11 (1d6+1), tail slap +11 (1d8+4)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (30 ft. cone, DC 18, 3d6 slashing plus 1 Con damage)
+STATISTICS
+Str 17, Dex 13, Con 16, Int 4, Wis 13, Cha 11
+Base Atk +11; CMB +15; CMD 26 (30 vs. trip)
+Feats Cleave, Great Cleave, Hover, Multiattack, Power Attack, Skill Focus (Perception)
+Skills Fly +9, Perception +21, Stealth +11
+Languages Draconic
+SPECIAL ABILITIES
+Breath Weapon (Su) A salt drake’s breath weapon is a 30 ft. cone of razor-sharp salt crystals. In addition to dealing slashing damage the salt crystals absorb bodily fluids, dealing 1 point of Constitution damage to living targets.
+Training a Salt Drake
+A salt drake requires training before it can bear a rider in combat. To be trained, a salt drake must have a friendly attitude toward the trainer (this can be achieved through a successful Diplomacy check).
+Training a friendly salt drake requires ten weeks of work and a DC 30 Handle Animal check. Riding a salt drake requires an exotic saddle. A salt drake can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on a Ride check.
+Salt drake eggs are worth 6,000 gp apiece on the open market, while young are worth 12,000 gp each. Professional trainers charge 2,000 gp to rear or train a dragonnel.
+Carrying Capacity: A light load for a salt drake is up to 516 pounds; a medium load, 517–1,038 pounds, and a heavy load, 1,039–1,560 pounds.

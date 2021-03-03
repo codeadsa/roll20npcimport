@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-smoke
+Smoke Giant
+CR 6
+XP 2,400
+NE Large humanoid (air, extraplanar, fire, giant)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 19, touch 12, flat-footed 16 (+3 Dex, +7 natural, –1 size)
+hp 76 (9d8+36)
+Fort +10; Ref +6; Will +5
+Defensive Abilities rock catching; Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft.
+Melee heavy mace +12/+7 (2d6+6), 2 slams +11 (1d8+6)
+Ranged rock +9 (1d8+9 plus 1d6 fire)
+Space 10 ft.; Reach 10 ft.
+Special Attacks heated rock, rock throwing (120 ft.)
+Spell-like Abilities (CL 9th):
+3/day—smoke (as fog cloud)
+STATISTICS
+Str 22, Dex 16, Con 19, Int 8, Wis 11, Cha 12
+Base Atk +6; CMB +13; CMD 26
+Feats Combat Reflexes, Iron Will, Martial Weapon Proficiency (heavy mace), Power Attack, Weapon Focus (heavy mace)
+Skills Fly +9, Intimidate +6, Perception +9, Stealth +3 (+11 in areas of fog or smoke); Racial Modifiers +8 Stealth in areas of fog or smoke
+Languages Giant
+SQ smoke form
+Gear heavy mace
+SPECIAL ABILITIES
+Heated Rock (Su) Smoke giants transfer the heat of their bodies to rocks as part of an attack action when they throw rocks. A heated rock deals 1d6 points of additional fire damage on a hit.
+Smoke Form (Su) A smoke giant’s form is solid. As a free action it can change to a smoky form. It can switch forms once per round as a free action and can spend up to 20 rounds per day in smoke form. In smoke form, a smoke giant can fly at a speed of 50 feet (perfect). This ability is otherwise similar to a gaseous form spell (caster level 9th).
+Smoke Giant Characters Smoke giants must possess nine levels of giant Hit Dice before taking class levels. Smoke giants are usually barbarians. Their reputation as thieves and murderers comes from their savagery in combat and their preference to use brute force rather than stealth to accomplish their goals. Leaders are barbarians and shamans are adepts or clerics with access to two of the following domains: Air, Fire, Strength. Smoke giant characters possess the following racial traits.
++12 Strength, +6 Dexterity, +8 Constitution, –2 Intelligence, +2 Charisma: Smoke giants are strong and hardy and possess a forceful personality. Large size: Smoke giants are Large and have the following adjustments: –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on Stealth checks, +1 bonus on CMB/CMD, lifting and carrying limits double those of Medium characters. Space/Reach: 10 feet/10 feet. Fast: A smoke giant’s base speed is 40 feet. Darkvision: A smoke giant can see in the dark up to 60 feet. Low-light vision: Smoke giants can see twice as far as humans in conditions of dim light. Racial Hit Dice: A smoke giant begins with nine levels of humanoid (giant), which provides it with 9d8 Hit Dice, a base attack bonus of +6, and base saving throws of Fort +6, Ref +2, and Will +2. Racial Skills: A smoke giant’s giant levels give it skill points equal to 9 x (2 + Int modifier, minimum 1). Smoke giants add Intimidate and Perception to their list of class skills. In areas of fog or smoke, a smoke giant gets a +8 racial bonus on Stealth checks. Racial Feats: A smoke giant’s giant levels give it five feats. AC: Smoke giants have a +6 natural armor bonus Natural Weapons: Smoke giants can fight with two slams (1d8) Special Attacks: Heated rock (sea left), rock throwing Spell-Like Abilities: A smoke giant can cast smoke (as fog cloud) three times per day, using his levels in humanoid as his caster level. Special Qualities: Immunity to fire, rock catching, smoke form (see left). Languages: Smoke giants begin play speaking Giant. Smoke giants with high Intelligence can choose bonus languages from the following list: Common, Auran, Goblin, Ignan, Orc.

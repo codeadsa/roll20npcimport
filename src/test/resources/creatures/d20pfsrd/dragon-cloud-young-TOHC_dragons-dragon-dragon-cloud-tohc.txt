@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-cloud-tohc/dragon-cloud-young-TOHC
+Young Cloud Dragon CR 7
+XP 3,200
+N Large dragon (air)
+Init +6; Senses cloud vision, dragon senses; Perception +13
+DEFENSE
+AC 21, touch 11, flat-footed 19 (+2 Dex, +10 natural, –1 size)
+hp 76 (8d12+24)
+Fort +9; Ref +8; Will +8
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +12 (2d6+7), 2 claws +12 (1d8+5), 2 wings +7 (1d6+2), tail slap +7 (1d8+7)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40 ft. cone, DC 17, 6d6 cold plus bull rush [Tiny or smaller])
+Spell-like Abilities (CL 8th):
+At-will—create water
+STATISTICS
+Str 21, Dex 14, Con 17, Int 14, Wis 15, Cha 14
+Base Atk +8; CMB +14; CMD 26 (30 vs. trip)
+Feats Flyby Attack, Hover, Improved Initiative, Wingover
+Skills Bluff +13, Diplomacy +13, Fly +7, Intimidate +13, Knowledge (arcana) +13, Knowledge (nature) +13, Perception +13, Sense Motive +13
+Languages Auran, Aquan, Common, Draconic
+SPECIAL ABILITIES
+Breath Weapon (Su) A cloud dragon’s breath weapon is a powerful cone of icy cold air. When a cloud dragon uses its breath weapon, make a single bull rush attack using the dragon’s CMB against the CMD of any creature that failed its Reflex save and is three or more size categories smaller than the dragon. This bull rush does not provoke attacks of opportunity, and the dragon cannot choose to move with any opponent pushed back. In addition to being pushed back, affected creatures are knocked prone and take 1d4 points of nonlethal damage per 10 feet they are pushed back. Flying creatures are buffeted and pushed back twice the distance and sustain 1d6 points of nonlethal damage per 10 feet they are pushed back.
+Cloud Vision (Ex) A very young cloud dragon can see perfectly in foggy conditions (such as those created by fog cloud or obscuring mist).
+Immunity to Winds (Su) A cloud dragon is immune to the effects of wind. It ignores the penalties applied to the Fly skill incurred by wind speed, and is immune to the negative effects of any spell or effect that manipulates wind, such as gust of wind and whirlwind.
+
+
+

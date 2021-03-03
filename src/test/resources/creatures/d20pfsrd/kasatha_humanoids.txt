@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/kasatha
+Kasatha CR 1/2
+XP 200
+Male kasatha monk 1
+LN Medium humanoid (kasatha)
+Init +3; Senses Perception +3
+DEFENSE
+AC 18, touch 18, flat-footed 13 (+3 Dex, +2 dodge, +3 Wis)
+hp 10 (1d8+2)
+Fort +3, Ref +5, Will +5
+OFFENSE
+Speed 30 ft.
+Melee sai +3 (1d4+1) or unarmed strike +3 (1d6+1) or flurry of blows +2/+2 (1d6+1)
+Special Attacks flurry of blows, stunning fist (1/day, DC 13)
+STATISTICS
+Str 13, Dex 17, Con 12, Int 10, Wis 16, Cha 8
+Base Atk +0; CMB +1; CMD 19
+Feats Combat Reflexes, Improved Unarmed Strike, Stunning Fist, Weapon Finesse
+Skills Acrobatics +7, Climb +5, Escape Artist +7, Survival +4
+Languages Common, Kasatha
+SQ desert runner, desert stride, jumper, multi-armed, stalker
+SPECIAL ABILITIES
+Desert Runner (Ex) A kasatha has a +4 racial bonus on Constitution checks and Fortitude saves to avoid fatigue, exhaustion, and other ill effects from running, forced marches, starvation, thirst, and hot or cold environments.
+Desert Stride (Ex) A kasatha moves through non-magical difficult terrain in desert environments at normal speed.
+Jumper (Ex) A kasatha is always considered to have a running start when attempting Acrobatics checks to jump.
+Multi-Armed (Ex) A kasatha has four arms. One hand is considered its primary hand; all others are considered off hands. It can use any of its hands for other purposes that require free hands.
+Stalker (Ex) Perception and Stealth are class skills for a kasatha.

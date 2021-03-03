@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/yhohm
+Yhohm CR 4
+XP 1,200
+NG Tiny outsider (extraplanar, fire, good)
+Init +6; Senses darkvision 60 ft., low-light vision, detect poison; Perception +10; Aura shroud of flame (10 ft., DC 14, 10 rounds)
+DEFENSE
+AC 18, touch 15, flat-footed 15 (+2 Dex, +1 dodge, +3 natural, +2 size)
+hp 37 (5d10+10); regeneration 1 (cold or evil)
+Fort +6, Ref +3, Will +6; +4 vs. poison
+Defensive Abilities self-resurrection, DR 5/evil; Immune fire, petrification; Resist electricity 10; SR 15 Weaknesses vulnerable to cold
+OFFENSE
+Speed 10 ft., fly 60 ft. (average)
+Melee 2 talons +9 (1d2 plus 1d6 fire), bite +9 (1d3 plus 1d6 fire)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks holy fire
+Spell-Like Abilities (CL 5th; concentration +7)
+Constant—detect poison
+At will—light, purify food and drink, stabilize, virtue
+3/day—cure light wounds, daylight, flaming sphere (DC 14)
+1/day—dimension door (self only), lesser restoration, see invisibility
+STATISTICS
+Str 10, Dex 15, Con 14, Int 10, Wis 15, Cha 14
+Base Atk +5; CMB +5; CMD 18
+Feats Dodge, Improved Initiative, Weapon Finesse
+Skills Fly +14, Heal +10, Knowledge (religion) +8, Perception +10, Perform (sing) +10, Stealth +18
+Languages Celestial
+SPECIAL ABILITIES
+Holy Fire (Su) Like a flame strike, half the fire damage from a yhohm’s fire attacks is fire damage; the other half is divine power and is not subject to fire immunity or resistance.
+Self-Resurrection (Su) A slain yhohm remains dead for only 1d4 rounds unless its body is completely destroyed by an effect such as disintegrate. Otherwise, a fully healed yhohm emerges from the remains 1d4 rounds after death, as if brought back to life via resurrection. The yhohm gains 1 permanent negative level when this occurs. A yhohm can self-resurrect only once per year. If a yhohm dies a second time before that year passes, its death is permanent. A yhohm that dies within the area of a desecrate spell cannot self-resurrect until the desecrate effect ends, at which point the yhohm immediately resurrects. A yhohm brought back to life by other means never gains negative levels as a result.
+Shroud of Flame (Su) A yhohm can cause its feathers to burst into fire as a free action. As long as its feathers are burning, it deals an additional 1d6 points of fire damage with each natural attack, and any creature within 5 feet must attempt a DC 14 Reflex save each round or take 1d6 points of fire damage at the start of its turn. A creature that attacks the yhohm with a natural or non-reach melee weapon takes 1d6 points of fire damage (no save) with each successful hit. The save DC is Constitution-based.

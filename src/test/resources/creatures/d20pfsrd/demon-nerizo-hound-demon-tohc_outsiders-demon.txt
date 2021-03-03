@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-nerizo-hound-demon-tohc
+Nerizo Demon CR 9
+XP 6,400
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +2; Senses darkvision 60 ft.; Perception +19
+DEFENSE
+AC 22, touch 12, flat-footed 20 (+2 Dex, +10 natural)
+hp 125 (10d10+70)
+Fort +14, Ref +9, Will +7
+DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 20
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +16 (1d6+6), sting +16 (1d8+6 plus poison)
+Special Attacks spit acid (10-ft. line, 4d6 acid damage, Ref DC 22 half, usable every 1d4+1 rounds)
+Spell-Like Abilities (CL 12th)
+At will—darkness, detect good, greater teleport (self plus 50 pounds of objects only)
+1/day—confusion (DC 17), summon (level 4, 2d10 dretches or 1 nerizo 35%)
+STATISTICS
+Str 23, Dex 15, Con 25, Int 12, Wis 14, Cha 16
+Base Atk +10; CMB +16; CMD 28
+Feats Blind-Fight, Cleave, Power Attack, Skill Focus (Stealth), Iron Will
+Skills Acrobatics +2 (+10 jump),Climb +19, Diplomacy +8, Escape Artist +10, Intimidate +16, Perception +19, Sense Motive +15, Stealth +21, Survival +15; Racial Modifiers +4 Perception, +8 Acrobatics to jump
+Languages Abyssal
+SPECIAL ABILITIES
+Posion (Ex) Sting—injury; save Fort DC 22; frequency 1 round for 4 rounds; effect 1d2 Str; cure 1 save. The save DC is Constitution-based.

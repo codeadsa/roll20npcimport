@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/fey-wolverine
+Fey Wolverine CR 3
+XP 800
+CN Medium fey (augmented animal)
+Init +4; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 17, touch 14, flat-footed 13 (+4 Dex, +3 natural)
+hp 22 (3d8+9)
+Fort +5, Ref +7, Will +3
+DR 5/cold iron; SR 14
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 20 ft.
+Melee bite +4 (1d4+2), 2 claws +4 (1d6+2)
+Special Attacks death curse (DC 13), rage
+Spell-Like Abilities (CL 3rd; concentration +5)
+1/day—charm person (DC 13), faerie fire
+STATISTICS
+Str 15, Dex 19, Con 15, Int 12, Wis 14, Cha 14
+Base Atk +2; CMB +4; CMD 18 (22 vs. trip)
+Feats Skill Focus (Bluff), Toughness
+Skills Acrobatics +10, Bluff +12, Climb +16, Knowledge (nature) +7, Perception +8, Sense Motive +8, Stealth +14
+Languages Skald, Sylvan

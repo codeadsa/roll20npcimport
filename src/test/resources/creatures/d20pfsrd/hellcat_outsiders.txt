@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hellcat
+Hellcat
+CR 7
+XP 3,200
+LE Large outsider (evil, extraplanar, lawful)
+Init +9; Senses darkvision 60 ft., scent; Perception +18
+DEFENSE
+AC 21, touch 15, flat-footed 15 (+5 Dex, +1 dodge, +6 natural, –1 size)
+hp 85 (9d10+36)
+Fort +10, Ref +13, Will +5
+Defensive Abilities invisible in light; DR 5/good; Resist fire 10; SR 18
+OFFENSE
+Speed 40 ft.
+Melee bite +13 (1d8+5), 2 claws +13 (1d6+5/19–20 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks pounce, rake (2 claws +13, 1d6+5/19–20)
+STATISTICS
+Str 21, Dex 21, Con 19, Int 10, Wis 14, Cha 10
+Base Atk +9; CMB +15 (+19 grapple); CMD 31 (35 vs. trip)
+Feats Combat Reflexes, Dodge, Improved Initiative, Lightning Reflexes, Mobility
+Skills Acrobatics +17 (+21 jump), Climb +17, Perception +18, Stealth +17, Survival +14, Swim +17; Racial Modifiers +4 Perception, +4 Stealth
+Languages Infernal (can’t speak); telepathy 100 ft.
+SPECIAL ABILITIES
+Invisible in Light (Su) In bright light, a hellcat has natural invisibility. In normal light, a hellcat has partial concealment (20% miss chance). In dim light, it has no concealment. In darkness, a hellcat’s flickering glow limits it to partial concealment, unless the darkness is magical in nature.
+The hellcat is a devious predator native to the fiery pits of Hell. While the hellcat is not a devil itself, it often acts as a guardian or mount for devils. Some might assume that hellcats serve devils as pets, but since hellcats are as intelligent as humans, they take offense to the idea that they might be anyone’s pet.

@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/balor
+Balor CR 20
+XP 307,200
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +11; Senses darkvision 60 ft., low-light vision, true seeing; Perception +38
+Aura flaming body, unholy aura (DC 26)
+DEFENSE
+AC 36, touch 20, flat-footed 29 (+4 deflection, +7 Dex, +16 natural, –1 size)
+hp 370 (20d10+260)
+Fort +29, Ref +17, Will +25
+DR 15/cold iron and good; Immune electricity, fire, poison; Resist acid 10, cold 10; SR 31
+OFFENSE
+Speed 40 ft., fly 90 ft. (good)
+Melee +1 vorpal unholy longsword +31/+26/+21/+16 (2d6+13), +1 vorpal flaming whip +30/+25/+20 (1d4+7 plus 1d6 fire and entangle) or 2 slams +31 (1d10+12)
+Space 10 ft.; Reach 10 ft. (20 ft. with whip)
+Spell-Like Abilities (CL 20th)
+Constant—true seeing, unholy aura (DC 26)
+At will—dominate monster (DC 27), greater dispel magic, greater teleport (self plus 50 lbs. of objects only), power word stun, telekinesis (DC 23)
+3/day—quickened telekinesis (DC 23)
+1/day—blasphemy (DC 25), fire storm (DC 26), implosion (DC 27), summon (level 9, any 1 CR 19 or lower demon 100%)
+STATISTICS
+Str 35, Dex 25, Con 36, Int 24, Wis 24, Cha 27
+Base Atk +20; CMB +33; CMD 54
+Feats Cleave, Combat Reflexes, Greater Two-Weapon Fighting, Improved Initiative, Improved Two-Weapon Fighting, Iron Will, Power Attack, Quicken Spell-Like Ability (telekinesis), Two-Weapon Fighting, Weapon Focus (longsword)
+Skills Acrobatics +27, Bluff +31, Diplomacy +31, Fly +32, Intimidate +31, Knowledge (history) +27, Knowledge (nobility) +27, Knowledge (planes) +30, Knowledge (religion) +27, Perception +38, Sense Motive +30, Stealth +26, Use Magic Device +31; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SQ death throes, vorpal strike, whip mastery
+SPECIAL ABILITIES
+Death Throes (Su) When killed, a balor explodes in a blinding flash of fire that deals 100 points of damage (half fire, half unholy damage) to anything within 100 feet (Reflex DC 33 halves). The save DC is Constitution-based.
+Entangle (Ex) If a balor strikes a Medium or smaller foe with its whip, the balor can immediately attempt a grapple check without provoking an attack of opportunity. If the balor wins the check, it draws the foe into an adjacent square. The foe gains the grappled condition, but the balor does not.
+Flaming Body (Su) A balor’s body is covered in dancing flames. Anyone striking a balor with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a balor or is grappled by one takes 6d6 points of fire damage each round the grapple persists.
+Vorpal Strike (Su) Any slashing weapon a balor wields (including its standard longsword and whip) gains the vorpal weapon quality. Weapons retain this quality for one hour after the balor releases the weapon, but after this the weapon reverts to its standard magical qualities, if any.
+Whip Mastery (Ex) A balor treats a whip as a light weapon for the purposes of two-weapon fighting, and can inflict lethal damage on a foe regardless of the foe’s armor.

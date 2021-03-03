@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/marsupial-thylacine
+Thylacine CR 1/2
+XP 200
+N Small animal
+Init +2; Senses low-light vision; Perception +8
+DEFENSE
+AC 13, touch 13, flat-footed 11 (+2 Dex, +1 size)
+hp 7 (1d8+3)
+Fort +5, Ref +4, Will +1
+OFFENSE
+Speed 30 ft.
+Melee bite +2 (1d4+1/19-20)
+STATISTICS
+Str 12, Dex 15, Con 16, Int 2, Wis 13, Cha 7
+Base Atk +0; CMB +0; CMD 12 (16 vs. trip)
+Feats Skill Focus (Perception)
+Skills Perception +8
+SQ powerful jaws
+SPECIAL ABILITIES
+Powerful Jaws (Ex) A thylacine’s muscular jaws threaten a critical hit on a natural roll of 19 or 20.

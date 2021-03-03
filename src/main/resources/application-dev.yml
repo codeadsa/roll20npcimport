@@ -1,0 +1,4 @@
+spring:
+logging:
+  level:
+    org.pf1etools: DEBUG

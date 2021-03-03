@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/warmonger-levaloch
+Warmonger Devil (Levaloch) CR 7
+XP 3,200
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +7; Senses darkvision 60 ft., see in darkness; Perception +16
+DEFENSE
+AC 22, touch 12, flat-footed 19 (+3 Dex, +10 natural, –1 size)
+hp 84 (8d10+40)
+Fort +10, Ref +9, Will +5
+Defensive Abilities construct form; DR 5/good; Immune fire, poison; Resistances acid 10, cold 10; SR 12
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee mwk trident +13 (2d6+7), 2 legs +7 (1d8+2) or 2 claws +12 (1d6+5), 2 legs +7 (1d8+2)
+Ranged mwk trident+10 (2d6+7) or net +10 ranged touch (entangle)
+Space 10 ft.; Reach 10 ft.
+Special Attacks merciless blow, trample (1d8+7, DC 19)
+Spell-Like Abilities (CL 12th, concentration +14)
+At will—greater teleport (self plus 50 lbs. of objects only)
+1/day—summon ( 4th level, 1d4 lemures or 1 bearded devil 40%)
+STATISTICS
+Str 20, Dex 17, Con 19, Int 14, Wis 16, Cha 15
+Base Atk +8; CMB +14; CMD +27
+Feats Combat Reflexes, Improved Initiative, Power Attack, Toughness
+Skills Acrobatics +14 (+18 jumping), Bluff+13, Climb+17, Craft (weapons) +9, Intimidate +13, Knowledge (dungeoneering) +9, Knowledge (engineering) +9, Knowledge (planes) +13, Perception +16, Stealth +12
+Languages Celestial, Draconic, Infernal; telepathy 100 ft.
+SQ hellstrider, phalanx, stability
+SPECIAL ABILITIES
+Construct Form Despite being true devils, levalochs possess a number of immunities common to constructs, including immunity to ability damage, ability drain, death effects, death from massive damage, disease, energy drain, exhaustion, fatigue, necromancy effects, nonlethal damage, paralysis, sleep effects, and stunning. Upon being reduced to 0 hit points, they are immediately destroyed.
+Hellstrider (Su) A levaloch is not impeded by rough terrain, and can move or charge through such squares as normal. It can also cross areas covered with deadly impediments (such as caltrops or thorns) without being damaged or hindered. In addition to being entirely immune to fire, the creature’s legs are immune to acid and cold, allowing it to cross even rivers of acid or lava without being damaged or hindered as long as the material is less than 4 feet deep. This ability does not protect a levaloch against magical hindrances like black tentacles, web, or similar spells.
+Merciless Blow (Su) Levalochs show no mercy to the vulnerable. Any trident attacks they make against entangled creatures (including those entangled by its net) deal an extra 2d6 points damage.
+Phalanx (Ex) Devils gain a +1 morale bonus on attacks and to AC while adjacent to a levaloch.
+Stability (Ex) Levalochs receive a +4 racial bonus to their CMD when resisting a bull rush or trip attempt while standing on the ground.

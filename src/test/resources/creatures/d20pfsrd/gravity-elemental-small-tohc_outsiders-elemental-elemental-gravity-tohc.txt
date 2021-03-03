@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-gravity-tohc/gravity-elemental-small-tohc
+Small Gravity Elemental CR 1
+XP 400
+N Small outsider (elemental, extraplanar, gravity)
+Init +2; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 15, touch 15, flat-footed 13 (+2 deflection, +2 Dex, +1 size)
+hp 13 (2d10+2)
+Fort +1; Ref +5; Will +3
+Defensive Abilities distortion; Immune elemental traits, missile weapons, mass-dependent spells
+OFFENSE
+Speed fly 100 ft. (perfect)
+Melee slam+5 (1d3+1)
+Ranged missile +5 (damage by type)
+Special Attacks engulf, gravity field (crush 1/day, 5 ft. radius, DC 12, 2d4 bludgeoning)
+STATISTICS
+Str 12, Dex 15, Con 12, Int 4, Wis 11, Cha 11
+Base Atk +2; CMB +2; CMD 16
+Feats Throw AnythingB, Weapon Finesse
+Skills Fly +12, Perception +5, Sense Motive +5, Stealth +11
+SQ perfect flier
+SPECIAL ABILITIES
+Distortion (Su) The manipulation of light waves around a gravity elemental grants it a +2 deflection bonus to its Armor Class.
+Engulf (Ex) A gravity elemental that starts its turn grappling a creature or holding an object up to one size smaller than itself can absorb the creature or object into its swirling form as a full-round action. An engulfed creature or object takes damage equal to the elemental’s slam attack each round it remains engulfed and can take no action other than trying to break free by rolling its CMB vs. the gravity elementals CMD. The gravity elemental gains the grappled condition as long as it has a creature engulfed, and it can only engulf one creature at a time.
+A creature that dies while engulfed by a gravity elemental is smashed into atoms and can only be restored to life by a miracle, wish, or the intervention of a deity. An object that is destroyed while it is engulfed by a gravity elemental is destroyed forever and cannot be restored. There is a 1% non-cumulative chance each round that an engulfed creature or object is sent to a random plane.
+Gravity Field (Su) A gravity elemental’s manipulation of gravity function like the reverse gravity and telekinesis spells (CL equal to HD). The maximum weight an Elder gravity elemental can lift with its telekinesis is not restricted to 375 lbs. The effects of the gravity field are centered on the gravity elemental and move with it. Additionally, by increasing the pull of gravity around itself a gravity elemental can make creatures within a certain radius too heavy to move, or crush them to a pulp.
+Hold: As a full-round action a gravity elemental can cause all corporeal creatures in its area of effect to become too heavy to move. Creatures in the gravity elemental’s gravity field must succeed on a Fortitude save or gain the held condition until the gravity elemental releases them or they break free. A flying creature has a –4 penalty applied to the save; failure means it is unable to remain airborne and must land. The check DC is Strength-based. The gravity elemental can maintain this ability each round as a full-round action. The area of effect and save DC depend on the size of the elemental. If the gravity elemental maintains this ability, on successive rounds a held creature can break free by succeeding on a Strength check with a DC equal to the initial Fortitude save. Any land-bound creature two size categories smaller less than the elemental has its speed automatically reduced by half, even if the Strength check is successful. This ability only works on creatures with weight and mass; incorporeal and gaseous creatures are immune to this power.
+
+Crush: Once per day per 2 HD, as a standard action, a
+gravity elemental can increase the gravity around itself to crushing proportions. Anything within the gravity elemental’s gravity field takes bludgeoning damage. A successful Fortitude save reduces the damage by half. The area of effect and save DC depend on the elemental’s size. The save DC is Strength-based.
+Immunity to Missile Weapons (Ex) A gravity elemental is immune to any attack from thrown or hurled weapons, arrows, bolts, stones, and similar weapons with a size equal to or less than its own. Any such ranged attack against a gravity elemental automatically fails and the weapon is
+pulled into the elemental’s body. Captured missiles orbit the gravity elemental’s form as long as it desires, and it can release one such missile each
+round as an improvised thrown weapon. The weapon deals its normal damage plus the gravity elemental’s Strength modifier, and has a range increment of 20 ft. A gravity elemental has the Throw Anything feat as a bonus feat.
+Immunity to Spells (Ex) A gravity elemental is immune to all spells, spell-like abilities, and effects that depend on weight or mass.
+Perfect Flier (Ex) A gravity elemental has perfect control over the forces of gravity, and never needs to make a Fly check when attempting a complex maneuver. It must still make Fly checks to resist external influences on its flight, such as strong winds.

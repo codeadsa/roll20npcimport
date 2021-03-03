@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/basilisk
+Basilisk CR 5
+XP 1,600
+N Medium magical beast
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 17, touch 9, flat-footed 17 (–1 Dex, +8 natural)
+hp 52 (7d10+14)
+Fort +9, Ref +4, Will +5
+OFFENSE
+Speed 20 ft.
+Melee bite +10 (1d8+4)
+Special Attacks gaze
+STATISTICS
+Str 16, Dex 8, Con 15, Int 2, Wis 13, Cha 11
+Base Atk +7; CMB +10; CMD 19 (31 vs. trip)
+Feats Blind-Fight, Great Fortitude, Iron Will, Skill Focus (Perception)
+Skills Perception +10, Stealth +10; Racial Modifiers +4 Stealth
+SPECIAL ABILITIES
+Gaze (Ex) Turn to stone permanently (as flesh to stone), range 30 feet, Fortitude DC 15 negates. A creature petrified in this matter that is then coated (not just splashed) with fresh basilisk blood (taken from a basilisk no more than 1 hour dead) is instantly restored to flesh. A single basilisk contains enough blood to coat 1d3 Medium creatures in this manner. The save DC is Constitution-based.

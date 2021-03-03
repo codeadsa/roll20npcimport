@@ -1,0 +1,40 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/undine
+Undine CR 1/2
+XP 200
+Undine cleric 1
+N Medium outsider (native)
+Init +2; Senses darkvision 60 ft.; Perception +3
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+5 armor, +2 Dex)
+hp 8 (1d8)
+Fort +1, Ref +2, Will +5
+Resist cold 5
+OFFENSE
+Speed 30 ft.; 20 ft. in armor, swim 30 ft.
+Melee trident +0 (1d8)
+Ranged sling +2 (1d4)
+Special Attacks channel positive energy 7/day (DC 12, 1d6)
+Spell-Like Abilities (CL 1st; concentration +3)
+1/day—hydraulic push
+Domain Spell-Like Abilities (CL 1st; concentration +4)
+6/day— dazing touch
+6/day — icicle (1d6+1 cold damage) Cleric Spells Prepared (CL 1st; concentration +4)
+1st— bless, charm person D, divine favor
+0 (at will)— create water, guidance, stabilize
+D Domain spell; Domains Charm, Water STATISTICS
+Str 11, Dex 14, Con 8, Int 10, Wis 17, Cha 14
+Base Atk +0; CMB +0; CMD 12
+Feats
+Skills Diplomacy +6, Knowledge (religion) +4, Swim +4; Racial Modifiers +8 Swim
+Languages Aquan, Common
+SQ water affinity SPECIAL ABILITIES
+Water Affinity (Ex) Undine sorcerers with the Elemental (water) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Undine clerics with the Water domain cast their Water domain powers and spells at +1 caster level.
+
+Undine Characters
+Undines are defined by class levels—they do not possess racial Hit Dice. Undines have the following racial traits.
+
++2 Dexterity, +2 Wisdom, –2 Strength: Undines are both perceptive and agile, but tend to adapt rather than match force with force. Speed: Undines have a swim speed of 30 feet. Darkvision: Undines can see in the dark up to 60 feet. Spell-Like Abilities: Hydraulic push 1/day. (Caster level equals the undine’s total Hit Dice.) Energy Resistance: Undines have cold resistance 5. Water Affinity: Undine sorcerers with the Elemental (water) bloodline treat their Charisma score as 2 points higher for all sorcerer class abilities. Undine clerics with the Water domain cast their Water domain powers and spells at +1 caster level. Languages: Undines begin play speaking Common and Aquan. Undines with high Intelligence scores can choose any of the following bonus languages: Auran, Dwarven, Elven, Gnome, Halfling, Ignan, and Terran.
+
+
+
+

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/weedwhip
+Weedwhip CR 2
+XP 600
+N Medium plant
+Init +7; Senses blindsight 30 ft., low-light vision; Perception +1; Aura stench (DC 12, 1 minute)
+DEFENSE
+AC 14, touch 13, flat-footed 11 (+3 Dex, +1 natural)
+hp 16 (3d8+3)
+Fort +4, Ref +4, Will +2
+Defensive Abilities dig in, poisonous; Immune plant traits
+Weaknesses languid whips
+OFFENSE
+Speed 10 ft.
+Melee 3 tentacles +5 (1d4 plus poison)
+Space 5 ft.; Reach 15 ft.
+Special Attacks poison
+STATISTICS
+Str 10, Dex 17, Con 12, Int —, Wis 13, Cha 5
+Base Atk +2; CMB +2; CMD 15 (27 vs. trip)
+Feats Improved Initiative B, Weapon Finesse B
+SQ camouflage
+SPECIAL ABILITIES
+Camouflage (Ex) Since a weedwhip looks like a normal plant when at rest, a successful DC 15 Perception check is required to notice it before it attacks for the first time. Anyone with ranks in Survival or Knowledge (nature) can use either of those skills instead of Perception to notice the plant.
+Dig In (Ex) A weedwhip can bury its central bulb in earth or sand as a move action, granting it partial cover against all attacks, but preventing it from moving. It can extract itself from the ground as a move action.
+Languid Whips (Ex) A weedwhip’s tentacles don’t threaten any squares, and doesn’t make attacks of opportunity.
+Poison (Ex) Tentacle—contact; save Fort DC 12; frequency 1/round for 6 rounds; effect nauseated 1 round; cure 2 consecutive saves. The save DC is Constitution-based.
+Poisonous (Ex) Any creature that attacks a weedwhip with a natural piercing or slashing weapon is exposed to its poison.

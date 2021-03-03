@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-balban-brute-demon-tohc
+Brute Demon (Balban) CR 8
+XP 4,800
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +2; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 23, touch 11, flat-footed 21 (+2 Dex, +12 natural, –1 size)
+hp 103 (9d10+54)
+Fort +14, Ref +5, Will +8
+DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 19
+OFFENSE
+Speed 40 ft.
+Melee 2 slam +16 (2d6+8), bite +16 (1d8+8)
+Space 10 ft.; Reach 10 ft.
+Special Attacks double damage against objects, pound, trample (2d8+12, DC 22)
+Spell-Like Abilities (CL 10th)
+At will—cause fear (DC 12), darkness, greater dispel magic, greater teleport (self plus 50 pounds of objects only), see invisibility
+STATISTICS
+Str 26, Dex 14, Con 23, Int 6, Wis 14, Cha 12
+Base Atk +9; CMB +18; CMD 30
+Feats Awesome Blow, Improved Bull Rush, Power Attack, Weapon Focus, Great Fortitude
+Skills Intimidate +13, Knowledge (planes) +10, Perception +14, Survival +14
+Languages Abyssal
+SPECIAL ABILITIES
+Double Damage against Objects (Ex) A balban’s powerful fists are particularly effective against objects. A balban deals double damage against an object or structure.
+Pound (Ex) A balban that makes a successful grapple check against a foe smaller than itself can smash the opponent into nearby solid objects (walls, floor, ground, etc.) as a standard action. This deals 2d8+12 points of bludgeoning damage to the victim. Further, the victim must succeed on a DC 22 Fortitude save or be stunned for 1 round. A balban can perform this action once per round as long as it maintains the grapple. The save DC is Strength-based.

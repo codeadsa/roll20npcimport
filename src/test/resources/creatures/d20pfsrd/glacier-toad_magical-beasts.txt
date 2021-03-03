@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/glacier-toad
+Glacier Toad CR 6
+XP 2,400
+N Large magical beast (cold)
+Init +1; Senses low-light vision, scent; Perception +11
+Aura bitter cold (20 ft.)
+DEFENSE
+AC 19, touch 10, flat-footed 18 (+1 Dex, +9 natural, –1 size)
+hp 73 (7d10+35)
+Fort +10, Ref +8, Will +3
+Immune cold
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft., swim 15 ft.
+Melee bite +13 (2d6+9 plus 1d6 cold and grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks swallow whole (1d4 bludgeoning and 1d6 cold, AC 14, 7 hp)
+STATISTICS
+Str 23, Dex 13, Con 20, Int 5, Wis 12, Cha 6
+Base Atk +7; CMB +14 (+18 grapple); CMD 25 (29 vs. trip)
+Feats Lightning Reflexes, Power Attack, Skill Focus (Perception), Weapon Focus (bite)
+Skills Acrobatics +9 (+13 jump), Perception +11, Stealth +6 (+14 in snow), Swim +14*; Racial Modifiers +4 Acrobatics, (+8 jump), +4 Stealth (+12 in snow)
+Languages Aklo
+SPECIAL ABILITIES
+Bitter Cold (Su) All creatures within 20 feet of a glacier toad take 1d6 points of cold damage each round on the toad’s turn.

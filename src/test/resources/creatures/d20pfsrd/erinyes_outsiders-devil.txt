@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/erinyes
+The Furies (Erinyes) CR 8
+XP 4,800
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +6; Senses darkvision 60 ft., see in darkness, true seeing; Perception +16
+DEFENSE
+AC 23, touch 17, flat-footed 16 (+6 Dex, +1 dodge, +6 natural)
+hp 94 (9d10+45)
+Fort +11, Ref +12, Will +7
+DR 5/good; Immune fire, poison; Resist acid 10, cold 10; SR 19
+OFFENSE
+Speed 30 ft., fly 50 ft. (good)
+Melee +1 longsword +15/+10 (1d8+8/19–20)
+Ranged +1 flaming composite longbow +14/+14/+9 (1d8+6/×3 plus 1d6 fire) or rope +15 touch (entangle)
+Spell-Like Abilities (CL 12th)
+Constant—true seeing
+At will—fear(single target, DC 19), greater teleport(self plus 50 lbs. of objects only), minor image(DC 17), unholy blight(DC 19)
+1/day—summon (level 3, 2 bearded devils, 50%)
+STATISTICS
+Str 20, Dex 23, Con 21, Int 14, Wis 18, Cha 21
+Base Atk +9; CMB +14; CMD 31
+Feats Combat Reflexes, DodgeB, MobilityB, Point-Blank Shot, Precise Shot, Rapid Shot, Shot on the Run
+Skills Acrobatics +18, Bluff +17, Diplomacy +14, Escape Artist +12, Fly +19, Intimidate +17, Knowledge (planes) +8, Knowledge (religion) +8, Perception +16, Sense Motive +10, Stealth +15
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Entangle (Su) Each erinyes carries a 50-foot-long rope that entangles opponents of any size as an animate rope spell (CL 16th, DC 20). An erinyes can hurl its rope 30 feet with no range penalty. An erinyes’s rope functions only for the erinyes who made it and no other. The save DC is Dexterity-based.

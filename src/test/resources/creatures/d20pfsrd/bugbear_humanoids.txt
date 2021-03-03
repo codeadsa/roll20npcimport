@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/bugbear
+Bugbear CR 2
+XP 600
+CE Medium humanoid (goblinoid)
+Init +1; Senses darkvision 60 ft., scent; Perception +8
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+2 armor, +1 Dex, +3 natural, +1 shield)
+hp 16 (3d8+3)
+Fort +2, Ref +4, Will +1
+OFFENSE
+Speed 30 ft.
+Melee morningstar +5 (1d8+3)
+Ranged javelin +3 (1d6+3)
+TACTICS
+Before Combat Bugbears slink in shadow and behind closed doors. They revel in the look of terror on a foe’s face when they suddenly loom from the darkness, often with some horrible trophy in hand.
+During Combat Bugbears do not enjoy protracted fighting and seek to down a foe and slip away as quickly and quietly as possible. They favor hit-and-run tactics when the situation allows, striking at the most vulnerable point or member of a group.
+Morale A bugbear is not foolish enough to fight to the death, as that would preclude it from menacing others at a later date. It usually flees if reduced to 5 hit points.
+STATISTICS
+Str 16, Dex 13, Con 13, Int 10, Wis 10, Cha 9
+Base Atk +2; CMB +5; CMD 16
+Feats Intimidating Prowess, Skill Focus (Perception)
+Skills Intimidate +7, Perception +8, Stealth +10; Racial Modifiers +4 Intimidate, +4 Stealth
+SQ stalker
+Languages Common, Goblin
+SPECIAL ABILITIES
+Stalker (Ex) Perception and Stealth are always class skills for bugbears.

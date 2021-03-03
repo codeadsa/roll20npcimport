@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oread
+Oread CR 1/2
+
+XP 200
+Oread fighter 1
+N Medium outsider (native)
+Init +2; Senses darkvision 60 ft.; Perception +2
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 armor, +2 Dex)
+hp 12 (1d10+2)
+Fort +4, Ref +2, Will +4
+Resist acid 5
+OFFENSE
+Speed 20 ft.
+Melee longsword +3 (1d8+3/19–20)
+Ranged composite longbow +4 (1d8+2/×3)
+Spell-Like Abilities (CL 1st; concentration +0)
+1/day— magic stone STATISTICS
+Str 15, Dex 15, Con 14, Int 8, Wis 14, Cha 8
+Base Atk +1; CMB +3; CMD 15
+Feats Iron Will, Weapon Focus (longbow)
+Skills Intimidate +4
+Languages Common, Terran
+SQ earth affinity
+SPECIAL ABILITIES
+Earth Affinity (Ex)
+Oread sorcerers with the elemental (earth) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread clerics with the Earth domain cast their domain powers and spells at +1 caster level.
+
+Oread Characters
+Oreads are defined by class levels—they do not possess racial Hit Dice. Oreads have the following racial traits.
++2 Strength, +2 Wisdom, –2 Charisma: Oreads are strong, solid, stable, and stoic. Darkvision: Oreads can see in the dark up to 60 feet. Spell-Like Ability: Magic stone 1/day (caster level equals the oread’s total Hit Dice). Energy Resistance: Oreads have acid resistance 5. Earth Affinity: Oread sorcerers with the elemental (earth) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Oread clerics with the Earth domain cast their domain powers and spells at +1 caster level. Languages: Oreads begin play speaking Common and Terran. Oreads with high Intelligence scores can choose any of the following bonus languages: Aquan, Auran, Dwarven, Elven, Gnome, Halfling, Ignan, and Undercommon.

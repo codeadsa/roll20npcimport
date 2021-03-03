@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-underworld
+Underworld Dragon
+
+LE dragon (fire)
+BASE STATISTICS CR 3; Size Tiny; Hit Dice 4d12
+Speed 40 ft., burrow 30 ft.
+Natural Armor +4; Breath Weapon line, 2d6 fire
+Str 13, Dex 14, Con 13, Int 10, Wis 11, Cha 10
+SPECIAL ABILITIES
+Adamantine Claws (Ex) The claws of an underworld dragon are made of adamantine, and have the qualities of a weapon made from that material.
+Change Shape (Su) A young or older underworld dragon can assume any humanoid form three times per day as if using polymorph.
+Lava Eruption (Su) As a full-round action, a great wyrm underworld dragon can burrow through the ground up to twice its burrow speed. At the end of that movement, if the underworld dragon has use of its breath weapon, it can emerge from the ground spouting lava in a 30-foot-radius burst, dealing damage as the breath weapon.
+Smoke Vision (Ex) A very young and older underworld dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
+Underworld Burrower (Ex) An adult underworld dragon gains a 10-foot bonus to its burrow speed. When the underworld dragon becomes old and every two age categories thereafter, its burrow speed increases by an additional 10 feet.
+CR Age Category Special Abilities Caster Level
+3
+Wyrmling Adamantine claws, immunity to fire —
+5 Very young Smoke vision —
+7
+Young Change shape, soften earth and stone —
+8
+Juvenile Frightful presence, stone shape 1st
+10
+Young adult DR 5/magic, spell resistance 3rd
+11 Adult Spike stones, underworld burrower 5th
+12
+Mature adult DR 10/magic 7th
+14
+Old Wall of stone 9th
+15 Very old DR 15/magic 11th
+16 Ancient Repel metal or stone 13th
+17 Wyrm DR 20/magic 15th
+19 Great wyrm Clashing rocks*, lava eruption 17th

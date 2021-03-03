@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/dragonship-tohc
+Dragonship CR 10
+XP 9,600
+N Gargantuan construct
+Init –3; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 23, touch 3, flat-footed 23 (–3 Dex, +20 natural, –4 size)
+hp 170 (20d10+60)
+Fort +6; Ref +3; Will +6
+DR 15/adamantine; Immune construct traits
+Weaknesses vulnerability to fire
+OFFENSE
+Speed swim 40 ft.
+Melee bite +25 (1d8+9), 4 slams +25 (2d6+9)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (30–ft. cone, 10d6 fire damage, Reflex DC 20 for half, usable 3/day)
+STATISTICS
+Str 28, Dex 4, Con —, Int —, Wis 10, Cha 10
+Base Atk +20; CMB +33; CMD 42 (can’t be tripped)
+Skills Swim +17
+SQ navigate, winds
+SPECIAL ABILITIES
+Navigate (Ex) A captain merely has to whisper into the ear of the dragon-head and make a Profession (sailor) check (DC 15) to get the dragonship to understand its course. A dragonship never gets lost on an ocean voyage, and has a 50% chance of automatically being aware of any safe coastline, seaside towns and villages, and hidden ocean dangers such as reefs and sandbars (it only knows of such dangers if they are in the volume of sea charts used in its creation).
+Winds (Su) At will, a dragonship can cause winds to fill its sails. This operates as the control winds spell (caster level 10th) with the restriction that it can only increase the wind’s force for the purposes of propulsion. The winds are generated from a point beyond and slightly above the dragonship’s stern. A dragonship cannot use these winds to attack; their sole purpose is propulsion.

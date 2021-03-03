@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-forest/forest-dragon-young
+Young Forest Dragon CR 10
+XP 9,600
+CE Large dragon (earth)
+Init +5; Senses dragon senses, tremorsense 60 ft.; Perception +15
+DEFENSE
+AC 22, touch 10, flat-footed 21 (+1 Dex, +12 natural, -1 size)
+hp 126 (11d12+55)
+Fort +11, Ref +8, Will +8
+Immune paralysis, poison, sleep
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 30 ft., fly 200 ft. (poor)
+Melee bite +17 (2d6+9), 2 claws +16 (1d8+6), gore +16 (1d8+9), tail slap +14 (1d8+9)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite and gore)
+Special Attacks breath weapon (40-ft. cone, 6d6 piercing damage, DC 19)
+Spell-Like Abilities (CL 11th; concentration +12)
+At will—pass without trace
+Spells Known (CL 1st; concentration +12)
+1st (4/day)—obscuring mist, shield
+0 (at-will)—ghost sound, read magic, resistance, touch of fatigue
+STATISTICS
+Str 23, Dex 12, Con 18, Int 12, Wis 13, Cha 12
+Base Atk +11; CMB +18; CMD 29 (33 vs. trip)
+Feats Improved Initiative, Multiattack, Power Attack, Skill Focus (Stealth), Toughness, Weapon Focus (bite)
+Skills Acrobatics +10 (+14 when jumping), Bluff +15, Climb +28, Fly -3, Intimidate +15, Knowledge (arcana, nature) +9, Perception +15, Stealth +17, Survival +10
+Languages Common, Draconic
+SQ sound imitation, woodland stride
+SPECIAL ABILITIES
+Sound Imitation (Ex) A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener’s Sense Motive check.
+Woodland Stride (Ex) As the druid ability of the same name.
+Editor’s Notes
+A few too many skill points on this one. Recommend: Survival +7 “Chinese Earth Dragon”
+(c) 2012 Shoshanna Bauer http://shoshannabauer.com
+All Rights Reserved.

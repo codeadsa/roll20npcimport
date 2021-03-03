@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/amphisbaena-basilisk-tohc
+Amphisbaena Basilisk CR 7
+XP 3,200
+N Medium magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +12
+DEFENSE
+AC 16, touch 8, flat-footed 16 (–2 Dex, +8 natural)
+hp 85 (10d10+30)
+Fort +12; Ref +5; Will +6
+Defensive Abilities all-around vision, split (slashing 20 hp); Immune flanking; Resist cold 10
+OFFENSE
+Speed 20 ft.
+Melee 2 bites +14 (1d8+6)
+Special Attacks 2 petrifying gazes (30 ft., DC 18)
+STATISTICS
+Str 20, Dex 6, Con 17, Int 2, Wis 13, Cha 11
+Base Atk +10; CMB +14; CMD 22 (34 vs. trip)
+Feats Blind-Fight, Great Fortitude, Improved Initiative, Iron Will, Skill Focus (Perception )
+Skills Perception +12, Stealth +11; Racial Modifiers +4 Stealth
+SPECIAL ABILITIES
+All-Around Vision (Ex) An amphisbaena sees in all directions at once. It cannot be flanked.
+Split (Ex) Each of the amphisbaena’s heads functions independently of the other. An amphisbaena that is cut in half by 10 or more points of slashing damage from a single attack for a Tiny creature, 20 or more points of damage for a Small or Medium creature, 30 or more points of damage for a Large creature, 40 or more points of damage for a Huge creature, 50 or more points of damage for a Gargantuan creature, and 60 or more points of damage for a Colossal creature continues to function normally (each with half its current hit points) and reattaches its body together in 1d2 days. An amphisbaena that has been split cannot be split again until it reattaches.

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bat-mobat
+Mobat CR 3
+XP 800
+N Large magical beast
+Init +2; Senses blindsense 120 ft., low-light vision; Perception +6
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+2 Dex, +4 natural, –1 size)
+hp 34 (4d10+12)
+Fort +7, Ref +6, Will +2
+OFFENSE
+Speed 20 ft., fly 40 ft. (good)
+Melee bite +6 (2d6+4)
+Space 10 ft.; Reach 5 ft.
+Special Attacks screech
+STATISTICS
+Str 17, Dex 15, Con 16, Int 6, Wis 13, Cha 6
+Base Atk +4; CMB +8; CMD 20
+Feats Flyby Attack, Skill Focus (Stealth)
+Skills Fly +8, Perception +6 (+10 when using blindsense), Stealth +5; Racial Modifiers +4 Perception when using blindsense
+Languages Undercommon (cannot speak)
+SPECIAL ABILITIES
+Screech (Su) Once per day as a standard action, a mobat can produce an ear-splitting screech that stuns non-mobats in a 20-foot-radius burst. All creatures within the area must make a DC 15 Fortitude save or be staggered for 1d3 rounds. Other mobats and urdefhans are immune to this effect. This is a sonic mind-affecting effect. The save DC is Constitution-based.

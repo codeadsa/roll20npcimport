@@ -1,0 +1,50 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lycanthrope/wereboar
+Wereboar (Human Form)
+CR 2
+XP 600
+Human natural wereboar barbarian 2
+CN Medium humanoid (human, shapechanger)
+Init +1; Senses low-light vision, scent; Perception +7
+DEFENSE
+AC 12, touch 9, flat-footed 11 (+3 armor, +1 Dex, –2 rage)
+hp 31 (2d12+13)
+Fort +7, Ref +1, Will +4
+Defensive Abilities uncanny dodge
+OFFENSE
+Speed 40 ft.
+Melee dagger +6 (1d4+4/19–20), bite +1 (1d4+4)
+Ranged dagger +4 (1d4+4/19–20)
+Special Attacks rage (8 rounds/day), rage powers (animal fury)
+
+STATISTICS
+Str 19, Dex 13, Con 18, Int 10, Wis 14, Cha 8
+Base Atk +2; CMB +6; CMD 17
+Feats Power Attack, Toughness
+Skills Handle Animal +4, Intimidate +4, Knowledge (nature) +5, Perception +7, Profession (farmer) +4
+Languages Common
+SQ change shape (human, hybrid, and boar; polymorph), fast movement, lycanthropic empathy (boars and dire boars)
+
+Wereboar (Hybrid Form)
+CR 2
+XP 600
+Human natural wereboar barbarian 2
+CN Medium humanoid (human, shapechanger)
+Init +1; Senses low-light vision, scent; Perception +7
+DEFENSE
+AC 14, touch 9, flat-footed 13 (+3 armor, +1 Dex, +2 natural, –2 rage)
+hp 30 (2d12+17)
+Fort +8, Ref +1, Will +4
+Defensive Abilities ferocity, uncanny dodge; DR 10/silver
+OFFENSE
+Speed 40 ft.
+Melee dagger +8 (1d4+6/19–20), bite +3 (1d4+3 plus curse of lycanthropy), gore +3 (1d8+3)
+Ranged dagger +3 (1d4+3/19–20)
+Special Attacks rage (8 rounds/day), rage powers (animal fury)
+
+STATISTICS
+Str 23, Dex 13, Con 23, Int 10, Wis 14, Cha 8
+Base Atk +2; CMB +8; CMD 19
+Feats Power Attack, Toughness
+Skills Handle Animal +4, Intimidate +4, Knowledge (nature) +5, Perception +7, Profession (farmer) +4
+Languages Common
+SQ lycanthropic empathy (boars and dire boars), fast movement, change shape (human, hybrid, and boar; polymorph)

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/fire-whale
+Fire Whale CR 10
+XP 9600
+N Huge magical beast (extraplanar, fire)
+Init +1; Senses blindsight 120 ft.; Perception +14
+DEFENSE
+AC 19, touch 9, flat-footed 18 (+1 Dex, +10 natural, -2 size)
+hp 136 (12d10+72)
+Fort +14; Ref +9; Will +7
+Immune fire
+Weakness vulnerability to cold
+OFFENSE
+Speed Swim 40 ft.
+Melee bite +22 (3d6+12), tail slap +19 (1d6+6)
+Space 10 ft.; Reach 15 ft.
+Special Attacks scalding blast
+STATISTICS
+Str 35, Dex 13, Con 23, Int 2, Wis 12, Cha 6
+Base Atk +12; CMB +26; CMD 37
+Feats Awesome Blow, Diehard, Endurance, Improved Bull Rush, Iron Will, Power Attack
+Skills Perception +14, Swim +29; Racial Modifiers +4 Perception
+SQ hold breath
+SPECIAL ABILITIES
+Hold Breath (Ex) A fire whale can hold its breath for 8 x its Constitution score before it risks drowning.
+Scalding Blast (Su) As a full round action, a fire whale can release a blast of superheated air from its blowhole that scalds or burns those contacting it. The cone-shaped blast has a range of 60 ft and deals 12d6 points of damage. A successful DC 22 Reflex save halves the damage. The save DC is Constitution-based.
+Once a fire whale uses this ability, it must wait 1d4 rounds before using its scalding blast again. After using this ability four times, the fire whale must submerge for at least two full rounds before it can use it again.

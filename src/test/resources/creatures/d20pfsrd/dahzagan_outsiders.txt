@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/dahzagan
+Dahzagan CR 6
+XP 2,400
+CE Large outsider (chaotic, evil, extraplanar)
+Init +2; Senses darkvision 60 ft., deathwatch, scent; Perception +14
+DEFENSE
+AC 19, touch +11, flat-footed +17 (+2 Dex, +7 natural, +1 dodge, –1 size)
+hp 76 (8d10+32)
+Fort +8, Ref +4, Will +7
+DR 10/good or lawful; Immune fire, poison; Resist electricity 10; SR 16
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee mwk greatsword +13/+8 (2d6+7) and 2 claws +12 (1d4+5)
+Space 10 ft.; Reach 5 ft.
+Special Attacks terrifying howl
+Spell-Like Abilities (CL 6th; concentration +10)
+Constant—deathwatch
+STATISTICS
+Str 21, Dex 14, Con 18, Int 7, Wis 16, Cha 19
+Base Atk +8; CMB +14; CMD 27 (31 vs. trip)
+Feats Dodge, Flyby Attack, Great Fortitude, Iron Will, Power Attack, Weapon Focus (greatsword)
+Skills Fly +8, Intimidate +12, Knowledge (planes) +9, Perception +14
+Languages Abyssal, Orc
+SQ heart-feaster, undersized weapons
+SPECIAL ABILITIES
+Heart-Feaster (Su) As a full-round action, a dahzagan can rip out and devour the heart of an orc or half-orc who died in battle within the past 24 hours.
+The strength of the dead warrior empowers her, granting her the effects of rage (CL 9th).
+Terrifying Howl (Su) A dahzagan can use the terrifying howl barbarian rage power as a standard action (Will DC 19). A creature that succeeds at its save is immune to that dahzagan’s terrifying howl for 24 hours.
+Undersized Weapons (Ex) Although dahzagans are Large, their upper bodies are those of Medium orcs. As such, they wield weapons as Medium creatures.

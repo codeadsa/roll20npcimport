@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/oliphant-tohc
+Oliphant(3pp) CR 6
+XP 2,400
+N Huge animal
+Init +0; Senses low-light vision, scent; Perception +9
+DEFENSE
+AC 16, touch 8, flat-footed 16 (+8 natural, –2 size)
+hp 82 (9d8+45); Diehard
+Fort +11; Ref +6; Will +7
+OFFENSE
+Speed 40 ft.
+Melee gore +13 (2d8+13), 2 stamps +13 (2d6+9)
+Space 15 ft.; Reach 10 ft.
+Special Attacks trample (2d6+13, DC 23)
+TACTICS
+An oliphant attacks with its downward curving tusks and heavy forelegs; its trunk is too short to be used as an effective weapon.
+STATISTICS
+Str 28, Dex 11, Con 21, Int 6, Wis 15, Cha 11
+Base Atk +6; CMB +17; CMD 27 (31 vs. trip)
+Feats Diehard, Endurance, Improved Iron Will, Intimidating Prowess, Iron Will
+Skills Intimidate +11, Perception +9

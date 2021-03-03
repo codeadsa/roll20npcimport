@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-lilin-tohc
+Lilin CR 6
+XP 2,400
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +3; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 20, touch 13, flat-footed 17 (+3 Dex, +7 natural)
+hp 73 (7d10+35); regeneration 5 (good, silver)
+Fort +7, Ref +10, Will +10
+DR 10/silver; Immune fire, poison; Resist acid 10, cold 10; SR 17
+OFFENSE
+Speed 30 ft., fly 50 ft. (average)
+Melee +1 longsword +11/+6 (1d8+4/19–20) or 2 claws +10 (1d6+3)
+Spell-Like Abilities (CL 9th)
+At will—charm monster (DC 22), greater teleport (self plus 50 pounds of objects only), protection from good, suggestion (DC 21)
+3/day—animate dead
+1/day—unholy aura (DC 26), summon (level 3, 2d10 lemures, or 1d4 bearded devils or hellstokers, or 1 hellcat 50%)
+TACTICS
+A lilin always enters combat with her protection from good in effect and begins by attempting to charm the closest foe. A weak-minded foe that comes within range is subjected to a suggestion. Afterwards she usually attacks with her longsword. If combat goes poorly for a lilin she attempts to flee but not before summoning a host of devils to cover her escape.
+STATISTICS
+Str 16, Dex 16, Con 20, Int 15, Wis 16, Cha 26
+Base Atk +7; CMB +10; CMD 23
+Feats Alertness, Iron Will, Lightning Reflexes, Persuasive
+Skills Bluff +18, Diplomacy +19, Fly +7, Heal +13, Intimidate +20, Knowledge (planes) +12, Perception +15, Sense Motive +15, Survival +13
+Languages Abyssal, Common, Infernal; telepathy 100 ft.
+Gear +1 longsword

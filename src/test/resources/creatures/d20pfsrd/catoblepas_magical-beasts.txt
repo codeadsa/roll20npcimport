@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/catoblepas
+Catoblepas CR 12
+XP 19,200
+N Large magical beast
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +25; Aura stench (30 ft., DC 23, 10 rounds)
+DEFENSE
+AC 27, touch 8, flat-footed 27 (–1 Dex, +19 natural, –1 size)
+hp 161 (14d10+84)
+Fort +15, Ref +8, Will +8
+SR 23
+OFFENSE
+Speed 40 ft., swim 20 ft.
+Melee bite +18 (3d6+5), gore +18 (2d8+5/19–20), 2 hooves +16 (1d8+2)
+Space 15 ft.; Reach 15 ft.
+Special Attacks breath weapon (60-ft. cone, poison, Fortitude DC 23, usable every 1d4 rounds), trample (4d6+7, DC 22)
+STATISTICS
+Str 20, Dex 8, Con 22, Int 5, Wis 15, Cha 10
+Base Atk +14; CMB +20; CMD 29 (33 vs. trip)
+Feats Diehard, Endurance, Improved Critical (gore), Improved Iron Will, Iron Will, Multiattack, Skill Focus (Perception)
+Skills Perception +25, Swim +13; Racial Modifiers +8 Swim
+Languages Aklo
+SPECIAL ABILITIES
+Poison Breath (Ex) A catoblepas’s horrid, stinking breath is 60-foot cone of poison gas. The save DC is Constitution-based.
+Breath—contact; save Fort DC 23; frequency 1/ round for 6 rounds; effect 1d6 Con damage; cure 3 consecutive saves.

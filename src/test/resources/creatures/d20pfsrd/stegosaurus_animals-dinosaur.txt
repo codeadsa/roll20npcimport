@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/stegosaurus
+Stegosaurus CR 7
+XP 3,200
+N Huge
+animal
+Init +6; Senses low-light vision, scent; Perception +16
+DEFENSE
+AC 22, touch 10, flat-footed 20 (+2 Dex, +12 natural, –2 size)
+hp 90 (12d8+36)
+Fort +13, Ref +10, Will +5
+OFFENSE
+Speed 30 ft.
+Melee tail +16 (4d6+12 plus trip)
+Space 15 ft.; Reach 15 ft.
+STATISTICS
+Str 27, Dex 14, Con 17, Int 2, Wis 13, Cha 10
+Base Atk +9; CMB +19; CMD 31 (35 vs. trip)
+Feats Cleave, Great Fortitude, Improved Initiative, Improved Overrun, Power Attack, Weapon Focus (tail)
+Skills Perception +16

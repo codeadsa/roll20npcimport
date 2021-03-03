@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/ala-od
+Ala CR 8
+XP 4,800
+CE Medium monstrous humanoid
+Init +3; Senses darkvision 60 ft.; Perception +14; Aura frightful presence (30 ft., DC 14)
+DEFENSE
+AC 21, touch 16, flat-footed 18 (+3 deflection, +3 Dex, +5 natural)
+hp 95 (10d10+40)
+Fort +7, Ref +10, Will +10
+Immune electricity
+OFFENSE
+Speed 30 ft., fly 30 ft. (perfect)
+Melee bite +15 (1d6+5 plus poison), 2 claws +15 (1d4+5)
+Special Attacks whirlwind (3/day, 10–30 ft. high, 5 ft. wide at base, 1/2 wide as tall at peak, 2d8+5 damage plus lightning’s kiss, DC 17)
+Spell-Like Abilities (CL 10th)
+1/day—ice storm (DC 13), lightning bolt (DC 12), call lightning storm (DC 14)
+TACTICS
+In battle, ala twist into black whirlwinds that sweep foes from their feet, battering them with claw, tooth, and electricity. When not in whirlwind form, ala tear at their foes with claws and a poisonous bite, or they throw wicked lightning bolts and hailstorms upon their enemies from a distance. Woes betide the hapless hero who confronts an ala while a storm rages overhead, for such storms energize the ala and enable it to call more powerful bolts.
+STATISTICS
+Str 20, Dex 16, Con 18, Int 10, Wis 16, Cha 8
+Base Atk +10; CMB +15; CMD 26
+Feats Alertness, Diehard, Endurance, Flyby Attack, Great Fortitude
+Skills Climb +13, Fly +24, Intimidate +10, Perception +14, Sense Motive +5, Stealth +18, Survival +13; Racial Modifiers +4 Fly, +4 Stealth
+Languages Common, Draconic
+SPECIAL ABILITIES
+Lightning’s Kiss (Su) Jagged bolts of lightning flash inside the ala’s whirlwind, dealing 2d6 electricity damage plus an additional 1d6 electricity damage per ala in whirlwind form within 50 ft.
+Poison (Ex) Ala poison: injury—bite; save Fort DC 17; frequency 1/round for 6 rounds; effect sickened, sickened creatures are nauseated; cure 1 save.
+The poison infuses the ala’s flesh, so creatures making bite attacks against an ala must also save after each successful attack.

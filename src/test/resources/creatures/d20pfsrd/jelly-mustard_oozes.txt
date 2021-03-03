@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/jelly-mustard
+Mustard Jelly CR 7
+XP 3,200
+N Large ooze
+Init +0; Senses blindsight 60 ft.; Perception +19; Aura poison aura (10 ft., DC 21)
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+8 natural, -1 size)
+hp 105 (10d8+60)
+Fort +9, Ref +3, Will +3
+Defensive Abilities divide, energy absorption; DR 5/magic;
+Immune gaze attacks, paralysis, poison, polymorph, sleep, stunning, visual effects; Resist cold 10; SR 18
+OFFENSE
+Speed 30 ft.
+Melee slam +9 (2d4+3 plus 1d4 acid)
+Space 10 ft.; Reach 5 ft.
+Special Attacks acid, constrict (2d4+3 plus 1d4 acid)
+STATISTICS
+Str 15, Dex 10, Con 22, Int 10, Wis 10, Cha 10
+Base Atk +7; CMB +10; CMD 20 (can’t be tripped)
+Feats Cleave, Power Attack, Skill Focus (Perception), Vital Strike, Weapon Focus (slam)
+Skills Perception +19, Stealth +9
+SPECIAL ABILITIES
+Acid (Ex) A mustard jelly secretes a digestive acid that dissolves only flesh. Any melee hit deals acid damage.
+Divide (Ex) A mustard jelly can, as a standard action, split itself into two identical jellies, each with half of the original’s current hit points (round down). A jelly with 10 hit points or less cannot divide itself. When divided, each jelly moves faster than the original (base speed 40 feet per round).
+Energy Absorption (Ex) A mustard jelly is immune to electrical effects and magic missiles. If targeted by an electricity effect (including area effects) or a magic missile spell, the mustard jelly gains temporary hit points equal to the amount of damage it would have otherwise sustained. These temporary hit points last for 1 hour.
+Poison Aura (Ex) The mustard jelly exudes an aura of poison in a 10-foot radius centered on it that slows (as the slow spell) any creature in the area as long as it remains in the area and for 1d4 rounds afterward if it fails a DC 21 Fortitude save. A new save must be made each round a creature is within 10 feet of the mustard jelly. The save DC is Constitution-based.

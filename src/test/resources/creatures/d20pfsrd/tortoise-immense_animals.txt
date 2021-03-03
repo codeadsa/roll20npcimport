@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/tortoise-immense
+Immense Tortoise CR 8
+XP 4,800
+N Colossal animal
+Init –2; Senses low-light vision; Perception +14
+DEFENSE
+AC 25, touch 0, flat-footed 25 (–2 Dex, +25 natural, –8 size)
+hp 126 (11d8+77)
+Fort +16, Ref +5, Will +3
+OFFENSE
+Speed 20 ft.
+Melee bite +15 (4d6+22/19–20)
+Space 30 ft.; Reach 30 ft.
+Special Attacks trample (2d8 + 22, DC 30)
+STATISTICS
+Str 40, Dex 7, Con 24, Int 2, Wis 11, Cha 9
+Base Atk +8; CMB +31; CMD 39 (43 vs. trip)
+Feats Critical Focus, Endurance, Great Fortitude, Improved Critical (bite), Improved Great Fortitude, Power Attack
+Skills Perception +14 (+10 for sound–based checks); Racial Modifiers –4 Perception for sound–based checks
+SQ buoyant, shell, slow and steady (see giant tortoise)

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ogre
+Ogre CR 3
+XP 800
+CE Large humanoid (giant)
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 17, touch 8, flat-footed 17 (+4 armor, –1 Dex, +5 natural, –1 size)
+hp 30 (4d8+12)
+Fort +6, Ref +0, Will +3
+OFFENSE
+Speed 30 ft. (40 ft. base)
+Melee greatclub +7 (2d8+7)
+Ranged javelin +1 (1d8+5)
+Space 10 ft.; Reach 10 ft.
+TACTICS
+Before Combat Ogres rarely lay ambushes, and when they do, it’s not so much because they are crafty as because they are lazy. If they can kill a man with a well-thrown javelin, they don’t have to fight or chase him down.
+During Combat Once battle is joined, ogres wade into the thick of melee, swinging their clubs at any target that presents itself.
+Morale When their prey turns out to be more dangerous than they thought, the rare moment of good sense seizes ogres; they flee if reduced to less than 5 hp.
+STATISTICS
+Str 21, Dex 8, Con 15, Int 6, Wis 10, Cha 7
+Base Atk +3; CMB +9; CMD 18
+Feats Iron Will, Toughness
+Skills Climb +7, Perception +5
+Languages Giant

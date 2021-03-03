@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/ved
+Ved CR 5
+XP 1,600
+NE Large humanoid (giant)
+Init –1; Senses low-light vision; Perception +6
+DEFENSE
+AC 16, touch 8, flat-footed 16 (–1 Dex, +8 natural, –1 size)
+hp 57 (6d8+30)
+Fort +7, Ref +1, Will +6
+OFFENSE
+Speed 30 ft.
+Melee club +10 (1d8+7)
+Space 10 ft.; Reach 10 ft.
+Special Attacks gale breath
+STATISTICS
+Str 25, Dex 8, Con 20, Int 7, Wis 12, Cha 9
+Base Atk +4; CMB +12 (+14 bull rush); CMD 22 (24 vs. bull rush)
+Feats Awesome Blow, Improved Bull Rush, Power Attack
+Skills Intimidate +4, Perception +6, Survival +6 (+10 in snow); Racial Modifiers +4 Climb (when climbing rocks), +4 Survival (in snow)
+Languages Giant
+SPECIAL ABILITIES Gale Breath (Su) Every 1d4 rounds as a full-round action, a ved can draw in a mighty breath and expel it outward in a 30-foot cone. Targets within 10 feet of the origin of this cone must succeed at a DC 18 Strength check or be knocked prone. Those who succeed at the check or are standing farther away from the ved treat the effects of the gale breath as a gust of wind spell.

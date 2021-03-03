@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oni/oni-kuwa
+Kuwa CR 4
+XP 1,200
+LE Medium outsider (human, native, oni, shapechanger)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 19, touch 10, flat-footed 19 (+8 armor, +1 natural)
+hp 42 (5d10+15); regeneration 5 (acid or fire)
+Fort +7, Ref +4, Will +6
+SR 15
+OFFENSE
+Speed 30 ft. (40 ft. without armor)
+Melee mwk greatclub +10 (1d10+6) or 2 claws +9 (1d6+6)
+Ranged mwk composite longbow +9 (1d8+4/x3)
+Spell-Like Abilities (CL 5th; concentration +8)
+3/day—darkness, fly
+1/day—charm person (DC 14), deep slumber (DC 16), invisibility (self only)
+STATISTICS
+Str 18, Dex 17, Con 16, Int 12, Wis 15, Cha 17
+Base Atk +5; CMB +9; CMD 22
+Feats Cleave, Combat Reflexes, Power Attack
+Skills Bluff +11, Disguise +7, Intimidate +11, Knowledge (arcana) +9, Perception +10, Sense Motive +10, Spellcraft +3, Stealth +4, Use Magic Device +11
+Languages Common
+SQ change shape (any human; alter self )

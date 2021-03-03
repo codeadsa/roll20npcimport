@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/flying-polyp
+Flying Polyp CR 14
+XP 38,400
+CE Huge aberration (air)
+Init +6; Senses darkvision 60 ft.; Perception +26; Aura frightful presence (90 ft., DC 24)
+DEFENSE
+AC 29, touch 16, flat-footed 26 (+5 deflection, +2 Dex, +1 dodge, +13 natural, –2 size)
+hp 207 (18d8+126)
+Fort +13, Ref +12, Will +16
+Defensive Abilities amorphous, deflecting winds, partial invisibility; DR 10/magic and slashing; Immune acid, cold, sonic; SR 25
+Weaknesses vulnerable to electricity
+OFFENSE
+Speed 30 ft., fly 60 ft. (perfect)
+Melee 4 tentacles +21 (1d8+9/19–20 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks constrict (1d8+9), sucking wind, wind blast
+Spell-Like Abilities (CL 14th; concentration +19)
+At will—alter winds, gust of wind (DC 17), whispering wind, wind walk
+3/day—control winds (DC 20), river of wind (DC 19), wind wall
+1/day—control weather, whirlwind (DC 23)
+STATISTICS
+Str 28, Dex 15, Con 24, Int 19, Wis 20, Cha 21
+Base Atk +13; CMB +24 (+28 grapple); CMD 42 (can’t be tripped)
+Feats Combat Reflexes, Dodge, Flyby Attack, Improved Critical (tentacle), Improved Initiative, Mobility, Power Attack, Vital Strike, Weapon Focus (tentacle)
+Skills Fly +27, Knowledge (engineering) +22, Knowledge (history) +22, Knowledge (nature) +22, Perception +26, Spellcraft +25, Stealth +15, Use Magic Device +23
+Languages Aklo
+SPECIAL ABILITIES
+Deflecting Winds (Su) A flying polyp’s mastery over air and wind allows it to surround itself with blasts of precisely aimed gusts, granting the creature a +5 deflection bonus to its armor class and a +4 resistance bonus on Reflex saving throws.
+Partial Invisibility (Su) A flying polyp’s body constantly flickers and shifts, passing from visibility to invisibility in a seemingly random pattern and often not wholly at once, leaving the creature’s body in what appear to be multiple sections. This ability, combined with the flying polyp’s amorphous, elastic form, makes it difficult to target the creature, granting it a 20% miss chance against all attacks. By concentrating, a flying polyp can become fully invisible.
+Sucking Wind (Su) This attack allows the flying polyp to send an eerie wind out to slow and eventually stop a creature’s escape. The wind itself isn’t particularly strong, but it creates a peculiar sucking sensation as if it were attempting to pull creatures back toward the flying polyp. Activating this ability is a full-round action, and it must concentrate each round to maintain the effect. The sucking wind manifests as a 100-foot-radius spread, with the flying polyp at the center. Each round the polyp maintains concentration, the sucking wind’s radius increases by 100 feet, to a maximum radius of a mile. A flying polyp can detect creatures within this area via tremorsense. As a free action, it can increase the effects of the sucking wind on up to five different creatures within the area at one time.
+Each targeted creature must succeed at a DC 26 Fortitude save each round it remains in the area of the sucking wind or it is slowed until it leaves the area. A creature already under the effects of any slowing effect (such as from this sucking wind or a slow spell) that fails this save is held in place for 1 round—it is not helpless, but cannot move via any means. Freedom of movement protects against the effects of the sucking wind, and control winds negates its effects in the area of effect of the control winds spell. Natural windstorms or other powerful winds have no effect on a sucking wind. A flying polyp can activate a sucking wind once per day, and can maintain concentration on the effect for up to an hour. The save DC is Constitution-based.
+Wind Blast (Su) Once every 1d4 rounds as a standard action, a flying polyp can create a powerful blast of wind at a range of up to 120 feet. This blast of wind creates a sudden explosion of flesh-scouring wind in a 30-foot- radius burst. All creatures within this area take 14d6 points of bludgeoning damage, with a successful DC 26 Reflex save halving the damage. In addition, these winds can check or blow away creatures as if they were tornado-strength winds. The save DC is Constitution-based.

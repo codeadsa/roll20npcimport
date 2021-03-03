@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/skeletal-mage
+Skeletal Mage CR 5
+XP 1,600
+Human skeletal mage necromancer 3
+NE Medium undead
+Init +6; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+4 armor, +2 Dex, +2 natural)
+hp 38 (5 HD; 2d8+3d6+18)
+Fort +2, Ref +4, Will +8
+Defensive Abilities channel resistance +4; DR 5/bludgeoning; Immune cold, undead traits
+OFFENSE
+Speed 30 ft.
+Melee mwk dagger +5 (1d4+1/19–20), claw –1 (1d4) or 2 claws +4 (1d4+1) or spectral hand +6 touch (by touch spell)
+Ranged ray +4 ranged touch (by spell)
+Special Attacks channel negative energy (DC 13, 6/day, command undead only)
+Arcane School Spell-Like Abilities (CL 3rd; concentration +6)
+6/day—grave touch (1 round)
+Spells Prepared (CL 3rd; concentration +6)
+2nd—ghoul touch (DC 17), scorching ray, spectral hand
+1st—chill touch (DC 16), mage armor, magic missile, ray of enfeeblement (DC 16)
+0th (At Will)—detect magic, mage hand, ray of frost, read magic, touch of fatigue (DC 15)
+Opposition Schools Enchantment, Illusion
+STATISTICS
+Str 12, Dex 15, Con –, Int 16, Wis 12, Cha 15
+Base Atk +2; CMB +3; CMD 15
+Feats Combat Casting, Command Undead, Improved InitiativeB, Scribe Scroll, Silent SpellB, Spell Focus (necromancy), Toughness, Weapon Finesse
+Skills Intimidate +8, Knowledge (arcana) +11, Knowledge (religion) +11, Perception +8, Sense Motive +9, Spellcraft +11, Stealth +10
+Languages Abyssal, Common, Draconic, Undercommon
+SQ arcane bond (skull)

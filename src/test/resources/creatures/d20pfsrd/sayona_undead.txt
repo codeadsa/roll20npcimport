@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/sayona
+Sayona CR 12
+XP 19,200
+CE Medium undead
+Init +5; Senses darkvision 60 ft., lifesense; Perception +21
+DEFENSE
+AC 26, touch 16, flat-footed 20 (+5 Dex, +1 dodge, +10 natural)
+hp 161 (17d8+85); fast healing 5 (see living form)
+Fort +10, Ref +12, Will +13
+Defensive Abilities ; channel resistance +4; Immune undead traits; Resist cold 30
+OFFENSE
+Speed 30 ft.
+Melee bite +18 (2d6+1 plus bleed and paralysis), 2 claws +18 (2d6+1 plus bleed and paralysis)
+Special Attacks absorb blood, blood drain (1d4 Con), fear cone (60 ft., DC 23), paralysis (1d4 rounds, DC 23), staggering gaze
+Spell-Like Abilities (CL 12th; concentration +17)
+3/day—command undead (DC 17), dominate person (DC 20), fog cloud, gaseous form, invisibility
+STATISTICS
+Str 13, Dex 20, Con —, Int 11, Wis 12, Cha 21
+Base Atk +12; CMB +13; CMD 29
+Feats Dodge, Iron Will, Lightning Reflexes, Mobility, Spring Attack, Vital Strike, Weapon Finesse, Weapon Focus (bite), Weapon Focus (claw)
+Skills Bluff +14, Diplomacy +14, Disguise +17, Knowledge (nobility) +8, Perception +21, Sense Motive +12, Stealth +16
+Languages Abyssal, Common, Infernal
+SQ create spawn, living form
+SPECIAL ABILITIES
+Absorb Blood (Su) A sayona adjacent to a bleeding creature automatically accelerates the bleeding, dealing 1 point of Con damage to that creature once per round on its turn and absorbing the blood through its skin.
+Create Spawn (Su) When a sayona kills a humanoid or fey of Medium or Small size with its absorb blood or blood drain ability, the victim rises 24 hours later as a ghoul with the advanced creature simple template and the blood drain ability. The spawn is the sayona’s slave until its master is destroyed.
+Living Form (Su) As a standard action, a sayona can transform into a young, beautiful person for 24 hours. It can only use this ability if it has absorbed or drained blood in the past hour. In this form, the sayona has the aura of a living creature instead of an undead (for the purpose of detect undead and similar effects), its fast healing increases to 10, positive energy attacks (such as channel energy) deal half damage to it, and it cannot use its fear cone or gaze attack. Exposure to holy water or positive energy attacks in this form reduces the duration of this transformation by 1d4 hours.
+Staggering Gaze (Su) Staggered for 1d4 rounds, 30 feet, Fortitude DC 23 negates. This is a mind-affecting effect. The save DC is Charisma-based.

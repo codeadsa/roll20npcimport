@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/incutilis
+Incutilis CR 2
+XP 600
+LE Tiny aberration (aquatic)
+Init +6; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 17, touch 14, flat-footed 15 (+2 Dex, +3 natural, +2 size)
+hp 18 (4d8)
+Fort +1, Ref +3, Will +5
+OFFENSE
+Speed 5 ft., climb 5 ft., swim 60 ft.
+Melee 2 tentacles +2 (1d4+2 plus grab)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks puppetmaster
+STATISTICS
+Str 15, Dex 15, Con 11, Int 12, Wis 13, Cha 8
+Base Atk +3; CMB +3 (+7 grapple); CMD 15 (can’t be tripped)
+Feats Improved Initiative, Step Up
+Skills Bluff +3, Climb +10, Disguise +3, Perception +8, Stealth +17, Swim +17
+Languages Aklo, Aquan; telepathy 30 ft.
+SQ amphibious
+SPECIAL ABILITIES
+Puppetmaster (Su) As a full-round action, an incutilis can drive its lesser tendrils into any helpless Small or Medium creature occupying the same square and pump the victim full of poison and chemicals. The victim is killed instantly, and becomes a zombie-like creature under the incutilis’s control. This zombie isn’t treated as being undead, and is immune to spells and effects that affect only undead (including damage from positive energy). The incutilis is attached to this zombie—typically by the head—occupying the same square and moving along with it. The incutilis can make attacks with its tentacles independently of the zombie’s slam. It can also retract its tendrils as a move action, but doing so causes the zombie to collapse and revert to a normal corpse. The incutilis must retract its tendrils before it can move away from a zombie it’s attached to. Any attack that deals damage to the zombie also deals 1 point of damage to the incutilis, regardless of how much damage is dealt to the zombie. Area-affecting spells affect both the puppeteer and zombie. A character can attempt to attack just the incutilis, but takes a –4 penalty on the attack roll. Killing the incutilis destroys the zombie.

@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/goblin-naga
+Goblin Naga CR 6
+XP 2,400
+CE Medium aberration
+Init +6; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 21, touch 16, flat-footed 15 (+6 Dex, +1 dodge, +4 natural)
+hp 58 (9d8+18)
+Fort +5, Ref +11, Will +7 (+2 vs. charm effects)
+Defensive Abilities chaotic mind, poison spines; Immune poison
+OFFENSE
+Speed 30 ft.
+Melee bite +12 (2d6+1) or sting +12 (1d4+1 plus poison)
+Special Attacks spine shot
+Spells Known (CL 6th; concentration +9)
+3rd (3/day)—fireball (DC 16)
+2nd (4/day)—cat’s grace, scorching ray
+1st (5/day)—expeditious retreat, mage armor, magic missile, ray of enfeeblement (DC 14)
+0th (6/day)—bleed (DC 13), daze (DC 13), detect magic, light, mage hand, open/close, ray of frost
+TACTICS
+A goblin naga never likes to fight a fair battle. Unless directly threatened, the first action a goblin naga typical performs is to cast cat’s grace granting it an additional +2 bonus to it’s armor class, all attacks it makes (due to the Weapon Finesse feat), its Reflex saving throws, and Stealth skill checks. The creature then casts shield (improving it’s armor class by another 4 points) and expeditious retreat (granting the creature a movement speed of 60 ft.). The goblin naga will remain concealed with the use of its Stealth skill until it can either capture a large number of opponents within the radius of a fireball spell, or make optimal use of the spine shot ability.
+STATISTICS
+Str 13, Dex 23, Con 15, Int 12, Wis 13, Cha 17
+Base Atk +6; CMB +13; CMD 18 (can’t be tripped)
+Feats Dodge, Combat Casting, Eschew Materials, Lightning Reflexes, Weapon Finesse
+Skills Bluff +15, Knowledge (Arcana) +11, Perception +12, Sense Motive +11, Spellcraft +11, Stealth +19
+Languages Goblin, Common
+SQ oversized maw
+SPECIAL ABILITIES
+Chaotic Mind (Ex) The mind of a goblin naga is a tangled maze of madness and evil. While this does nothing to improve the creature’s disposition towards others, it does help it keep safe it’s vile plans from the mental intrusions by others. A goblin naga is immune to all forms of mind reading, such as that granted by the spell detect thoughts. This ability also grants a +2 racial bonus on all saves against charm effects.
+Oversized Maw (Ex) The collection of membranous skin surrounding the jaw of this creature has lead many to underestimate the powerful bite that the naga can deliver. If forced into a melee combat battle or cornered, the naga will make use of it bite attack. A goblin naga’s maw is immensely large, and this ability increases the damage dice of it’s bite attack as if it was two size categories larger.
+Spine Shot (Ex) Three times per day, a goblin naga can bristle its spine’s and violently shake, sending dozens of dart-like shards in all directions. Creatures with 10 feet of the goblin naga take 1d4 points of piercing damage and risk being poisoned (Reflex DC 16 halves the damage, though the victim still risks being poisoned).
+The save DC is Constitution-based.
+Poison Spines (Ex) A goblin naga’s back and tail are covered in sharp spines the length of daggers. A creature that strikes a goblin naga with an unarmed attack, or a natural weapon, takes 1d4 points of piercing damage from it’s spines and risks being poisoned. Any creature that grapples a goblin naga takes 3d4 points of piercing damage and risks being poisoned each round the grapple persists.
+Goblin Naga Poison (Ex) Sting—injury; save Fort DC 16; frequency 1/round for 3 rounds; effect 1d3 Con damage; cure 1 save.
+The save DC is Constitution-based.
+Spells (Su) A goblin naga casts spells as a 6th level sorcerer.

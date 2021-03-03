@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/kathlin
+Kathlin CR 3
+XP 800
+NG Large magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+2 Dex, +4 natural, -1 size)
+hp 34 (4d10+12)
+Fort +7, Ref +6, Will +2
+OFFENSE
+Speed 50 ft.
+Melee 4 hooves +7 (1d6+4), bite +7 (1d4+4)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 18, Dex 15, Con 17, Int 5, Wis 13, Cha 8
+Base Atk +4; CMB +9; CMD 21 (29 vs. trip)
+Feats Endurance, Run
+Skills Perception +8
+Languages Common, Sylvan (cannot speak)
+SQ great endurance
+SPECIAL ABILITIES
+Great Endurance (Ex) A kathlin gains a +4 bonus to Constitution checks made to continue running. This bonus stacks with the bonus to Constitution checks the kathlin gains from the Endurance feat.

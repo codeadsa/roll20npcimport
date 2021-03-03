@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gelid-beetle-lesser-tohc
+Lesser Gelid Beetle CR 3
+XP 800
+N Medium magical beast (cold)
+Init +0; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 17, touch 10, flat-footed 17 (+7 natural)
+hp 30 (4d10+8)
+Fort +6; Ref +4; Will +1
+Immune cold
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft.
+Melee bite +6 (1d4+2 plus 1d4 cold)
+Space 5 ft.; Reach 5 ft.
+Special Attacks cold, cold spray
+STATISTICS
+Str 15, Dex 10, Con 14, Int 1, Wis 10, Cha 9
+Base Atk +4; CMB +6; CMD 16
+Feats Power Attack, Skill Focus (Perception)
+Skills Perception +8, Stealth +5 (+9 natural surroundings; Racial Modifiers +4 Stealth in natural surroundings
+Languages —
+SPECIAL ABILITIES
+Cold (Ex) A gelid beetle’s body generates cold that deals an extra 1d4 points of cold damage every time it succeeds on a bite attack. Creatures attacking a gelid beetle unarmed or with natural weapons take this same cold damage each time one of their attacks hits.
+Cold Spray (Ex) Once per day a gelid beetle can release a spray in a 10-foot cone that deals 2d4 points of cold damage. Those within the cone who succeed a DC 13 Fortitude save take only half damage. The save DC is Constitution-based.

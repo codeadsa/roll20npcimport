@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/corpse-candle
+Corpse Candle CR 5
+XP 1,600
+NE Medium undead (incorporeal, water)
+Init +6; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 16, touch 16, flat-footed 13 (+3 deflection, +2 Dex, +1 dodge)
+hp 52 (7d8+21)
+Fort +5; Ref +4; Will +6
+Defensive Abilities channel resistance +2, incorporeal; Immune undead traits
+OFFENSE
+Speed fly 50 ft. (good), swim 50 ft.
+Melee incorporeal touch +7 (1d6 Strength damage)
+Special Attacks hypnotic lights
+STATISTICS
+Str —, Dex 15, Con —, Int 13, Wis 13, Cha 17
+Base Atk +5; CMB +5; CMD 21
+Feats Alertness, Blind-Fight, Dodge, Improved Initiative
+Skills Bluff +10, Fly +16, Intimidate +13, Perception +13, Sense Motive +3, Stealth +12, Swim +8
+Languages Common, Infernal
+SPECIAL ABILITIES
+Hypnotic Lights (Su) The corpse candle possesses the ability to create a dancing, twisting pattern of ever-shifting lights that slowly change colors. The corpse candle can create these lights within 20 feet of itself, covering an area in a 10-foot radius spread (usually underwater). Creatures viewing the pattern within 50 feet must make a successful Will save (DC 18) or become fascinated. If the save is successful, that creature cannot be affected again by that corpse candle’s hypnotic lights for one day. The lights remain for as long as the corpse candle concentrates plus 1 minute. The save DC is Charisma-based and includes a +2 racial bonus.
+A fascinated victim moves toward the lights, taking the most direct route available at its normal movement rate. The creature avoids certain dangers (walking off a cliff, walking through fire, etc.) and skirts around such obstructions if possible, but it will swim towards the light if necessary, paying no heed to the need for air. If no path to the light is available, the fascination is broken. Any living creature within the area of light at the end of its turn takes 1d2 points of Constitution damage. This is a death effect.

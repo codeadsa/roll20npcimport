@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/shark/tiger-shark
+Tiger Shark
+CR 3
+XP 800
+N Huge animal (aquatic)
+Init +4 Senses blindsense 30 ft., keen scent; Perception +7 DEFENSE
+AC 15 touch 8, flat-footed 15 (+7 natural, -2 size)
+hp 30 (4d8+12)
+Fort +9, Ref +4, Will +2
+
+OFFENSE
+Speed swim 60 ft.
+Melee bite +6 (2d6+7)
+Space 15 ft. Reach 10 ft.
+
+STATISTICS Str 21, Dex 10, Con 17, Int 1, Wis 12, Cha 2
+Base Atk +3 CMB +10 CMD 20
+Feats Great Fortitude , Improved Initiative
+Skills Perception +7, Swim +17
+SPECIAL ABILITIES Keen Scent (Ex) A shark can notice creatures by scent in a 180-foot radius underwater and can detect blood in the water at ranges of up to a mile.

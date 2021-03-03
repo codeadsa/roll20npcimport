@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hell-hound
+Hell Hound CR 3
+XP 800
+LE Medium outsider ( evil, extraplanar, fire, lawful)
+Init +5; Senses darkvision 60 ft., scent; Perception +7
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 30 (4d10+8)
+Fort +6, Ref +5, Will +1
+Immune fire
+Weaknesses vulnerability to cold OFFENSE
+Speed 40 ft.
+Melee bite +5 (1d8+1 plus 1d6 fire)
+Special Attacks breath weapon (10-ft. cone, once every 2d4 rounds, 2d6 fire damage, Reflex DC 14 for half) STATISTICS
+Str 13, Dex 13, Con 15, Int 6, Wis 10, Cha 6
+Base Atk +4; CMB +5; CMD 16 (20 vs. trip)
+Feats Improved Initiative, Run
+Skills Acrobatics +8, Perception +7, Stealth +13, Survival +7; Racial Modifiers +5 Stealth
+Languages Infernal (cannot speak)

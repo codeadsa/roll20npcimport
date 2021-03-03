@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-crystal/crystal-dragon-very-old
+Crystal Dragon, Very Old CR 14
+XP 38,400
+CG Huge dragon (earth)
+Init +4; Senses dragon senses, tremorsense 120 ft.; Perception +26; Aura frightful presence (270 ft., DC 26)
+DEFENSE
+AC 34, touch 8, flat-footed 34 (+26 natural, -2 size)
+hp 237 (19d12+114)
+Fort +19, Ref +13, Will +15
+DR 15/magic; Immune paralysis, sleep, sonic; SR 25
+OFFENSE
+Speed 60 ft., burrow 30 ft., climb 30 ft., fly 200 ft. (poor)
+Melee bite +27 (2d8+13/19-20), 2 claws +26 (2d6+9), tail slap +24 (2d6+13), 2 wings +24 (1d8+4)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, 18d4 sonic, DC 25), crush (2d8+13, DC 25)
+Spell-Like Abilities (CL 19th; concentration +26)
+At will—color spray (DC 18), glitterdust (DC 19), rainbow pattern (DC 21)
+3/day—stone to flesh (DC 23)
+Sorcerer Spells Known (CL 7th; concentration +14)
+3rd (6/day)—displacement, major image (DC 20)
+2nd (8/day)—invisibility, minor image (DC 19), mirror image
+1st (8/day)—alarm, feather fall, magic aura, silent image (DC 18), unseen servant
+0 (at will)—acid splash, detect magic, ghost sound, mage hand, message, read magic, touch of fatigue
+STATISTICS
+Str 29, Dex 10, Con 23, Int 18, Wis 19, Cha 24
+Base Atk +19; CMB +30; CMD 40 (44 vs. trip)
+Feats Deceitful, Great Fortitude, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Multiattack, Power Attack, Vital Strike, Weapon Focus (bite)
+Skills Bluff +33, Climb +39, Disguise +30, Fly +14, Intimidate +29, Knowledge (dungeoneering, geography) +26, Perception +26, Sense Motive +26, Stealth +14; Racial Modifiers +8 Climb
+Languages Common, Draconic, Dwarven, Terran, Undercommon
+SQ razor sharp
+SPECIAL ABILITIES
+Razor Sharp (Sp) All of a crystal dragon’s natural attacks deal slashing damage.
+

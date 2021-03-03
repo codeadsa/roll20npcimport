@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-flash
+Flash Beetle CR 1/2
+XP 200
+N Small vermin
+Init +2; Senses low-light vision; Perception +2
+DEFENSE
+AC 16, touch 13, flat-footed 14 (+3 natural, +2 Dex, +1 size)
+hp 6 (1d8+2)
+Fort +4, Ref +2, Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., fly 30 ft. (poor)
+Melee bite +3 (1d4+2)
+STATISTICS
+Str 14, Dex 15, Con 15, Int —, Wis 14, Cha 11
+Base Atk +0; CMB +1; CMD 13 (21 vs. trip)
+Skills Fly +0
+SQ flash
+SPECIAL ABILITIES
+Flash (Ex) A flash beetle can create a bright flash of light once an hour. When a flash beetle does so, all creatures in a 10-foot burst must make a DC 12 Fortitude save or be dazzled for 1d3 rounds. The save DC is Constitution-based.

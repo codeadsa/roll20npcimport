@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-blue/ancient-blue-dragon
+Ancient Blue Dragon CR 18
+XP 153,600
+LE Gargantuan dragon (earth)
+Init +3; Senses dragon senses; Perception +32
+Aura electricity (10 ft., 2d6 electricity), frightful presence (300 ft., DC 27)
+DEFENSES
+AC 37, touch 5, flat-footed 37 (–1 Dex, +32 natural, –4 size)
+hp 324 (24d12+168)
+Fort +21, Ref +13, Will +19
+DR 15/magic; Immune electricity, paralysis, sleep; SR 29
+OFFENSE
+Speed 40 ft., burrow 20 ft., fly 250 ft. (clumsy)
+Melee bite +33 (4d6+18/19–20), 2 claws +32 (2d8+12), 2 wings +30 (2d6+6), tail slap +30 (2d8+18)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (120-ft. line, DC 29, 20d8 electricity), crush, desert thirst (DC 27), mirage, storm breath (DC 29, 20d8 electricity), tail sweep
+Spell-Like Abilities (CL 24th)
+At will—ghost sound (DC 15), hallucinatory terrain (DC 19), minor image (DC 17), veil, ventriloquism (DC 16)
+Spells Known (CL 13th)
+6th (4/day)—forceful hand, mislead
+5th (7/day)—dream, persistent image, hold monster (DC 20)
+4th (7/day)—dimension door, enervation, fire shield, stoneskin
+3rd (7/day)—dispel magic, displacement, haste, vampiric touch
+2nd (7/day)—darkness, false life, invisibility, resist energy, shatter
+1st (7/day)—alarm, mage armor, shield, true strike, unseen servant
+0 (at will)—arcane mark, bleed (DC 15), detect magic, light, mage hand, mending, message, read magic, resistance
+STATISTICS
+Str 35, Dex 8, Con 25, Int 20, Wis 21, Cha 20
+Base Atk +24; CMB +40; CMD 49 (53 vs. trip)
+Feats Combat Casting, Dazzling Display, Deadly Stroke, Extend Spell, Hover, Improved Critical (bite), Improved Initiative, Multiattack, Quicken Spell, Silent Spell, Shatter Defenses, Weapon Focus (bite)
+Skills Bluff +32, Fly +10, Intimidate +32, Knowledge (arcana) +32, Knowledge (history) +32, Knowledge (local) +32, Knowledge (geography) +32, Perception +32, Spellcraft +32, Stealth +14, Survival +32 Languages Auran, Common, Draconic, Giant, Ignan, Infernal

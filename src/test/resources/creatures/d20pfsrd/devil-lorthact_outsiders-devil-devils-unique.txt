@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-lorthact
+The Infernal Duke CR 25
+XP 1,638,400
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +11; Senses darkvision 60 ft., true seeing; Perception +43; Aura unholy aura
+DEFENSE
+AC 45, touch 29, flat-footed 33 (+6 armor, +5 deflection, +11 Dex, +1 dodge, +2 luck, +10 natural)
+hp 560 (32d10+384); regeneration 5 (good weapons or spells)
+Fort +26, Ref +31, Will +30
+Defensive Abilities evasion; DR 20/good and silver; Immune fire, poison; Resist acid 30, cold 30; SR 36
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +44 (1d6+6 plus 1 Int drain) or+2 quarterstaff +40/+35/+30/+25 (1d6+11 plus 1 intelligence drain)
+Special Attacks intelligence drain, scholastic masquerade, spell reservoir
+Spell-Like Abilities (CL 25th; concentration +38)
+Constant–mind blank, tongues, true seeing
+At will–alter self, blasphemy (DC 30), dominate person (DC 28), freedom of movement, greater arcane sight, greater dispel magic, greater invisibility, greater scrying (DC 30), greater shadow conjuration (DC 30), greater shadow evocation (DC 31), greater teleport, mass suggestion (DC 29), programmed image (DC 29), unholy aura (DC 31)
+3/day–banishment (DC 29), quickened greater dispel magic, empowered horrid wilting (DC 31), polymorph any object (DC 31), spell turning
+1/day–dominate monster (DC 32), limited wish, mage’s disjunction (DC 32), prismatic sphere, time stop
+STATISTICS
+Str 22, Dex 33, Con 35, Int 30, Wis 26, Cha 37
+Base Atk +32; CMB +38; CMD 65
+Feats Deflect Arrows, Destructive Dispel, Dispel Synergy, Dodge, Empower Spell-Like Ability (horrid wilting), Flyby Attack, Great Fortitude, Greater Spell Penetration, Improved Great Fortitude, Improved Unarmed Strike, Iron Will, Power Attack, Quicken Spell-Like Ability (greater dispel magic), Spell Penetration, Weapon Finesse, Weapon Focus (claw)
+Skills Acrobatics +36, Bluff +48, Craft (alchemy) +30, Diplomacy +48, Disguise +48, Fly +23, Intimidate +45, Knowledge (arcana) +45, Knowledge (planes) +45, Knowledge (dungeoneering) +20, Knowledge (engineering) +20, Knowledge (geography) +20, Knowledge (nobility) +20, Knowledge (religion) +20, Knowledge (history) +30, Knowledge (local) +30, Perception +43, Perform (act) +23, Sense Motive +30, Sleight of Hand +30, Spellcraft +45, Stealth +46, Use Magic Device +45
+Languages Abyssal, Aklo, Celestial, Common, Draconic, Dwarven, Elven, Giant, Ignan, Infernal, Undercommon, +1 additional; telepathy 300 ft.
+SQ infernal duke traits, temporal anomaly
+Combat Gear boots of speed, rods of cancellation (2), staff of power; Other Gear bracers of armor +6, mirror of life trapping, ring of evasion, ring of protection +5
+SPECIAL ABILITIES
+Infernal Duke Traits An infernal duke is a powerful devil that has not yet made the full transition from unique devil to full archdevil. It possesses several traits, as summarized here.
+Immunity to charm and compulsion effects, death effects, fire, and poison. Resistance to acid 30 and cold 30. Telepathy 300 feet. The Infernal Duke’s natural weapons, as well as any weapon he wields, are treated as evil and lawful for the purpose of overcoming damage reduction. The Infernal Duke can grant spells to his worshipers. Granting spells does not require any specific action on his behalf. He grants access to the domains of Evil, Law, Magic, and Trickery. His favored weapon is the quarterstaff. Intelligence Drain (Su) The Infernal Duke drains 1 point of Intelligence each time he hits with a weapon or natural weapon (Will DC 39 negates). Alternatively, he can make a single melee touch attack per round, dealing no hit point damage but draining 2d4 points of Intelligence (Will DC 39 half). After draining Intelligence from a creature, he gains the benefit of foresight (as the spell) against that creature for 1 minute.
+Scholastic Masquerade (Su) When targeting a dominated wizard with his spell reservoir ability, he can also steal a school power from that wizard’s chosen school. He can steal one of the wizard’s 1st-level school powers by using three levels of his spell reservoir, both 1st-level school powers at a cost of six levels, and all school powers at a cost of nine levels. While he retains these powers, the target wizard cannot use them. The stolen powers function at the target wizard’s level. The Infernal Duke can steal school powers or a prepared spell from a dominated wizard, but not both. He may steal school powers from multiple schools if he has multiple wizards dominated.
+Spell Reservoir (Su) The Infernal Duke can drain prepared arcane spells from the mind of a creature he has dominated and store them for later use, similarly to a ring of spell storing. Draining a spell requires 1 full-round action if he is able to touch the target, or 1 minute to perform through the mental link provided by the dominate effect; in either case, no saving throw is allowed. He can hold no more than one stolen spell from each dominated caster in his spell reservoir, and the total level of stolen spells cannot exceed 25. These stolen spells take effect at the original caster’s level.
+Temporal Anomaly (Su) The Infernal Duke exists slightly outside of the normal timestream. Spells that predict the future–such as augury, divination, foresight, and moment of prescience–cannot perceive him and provide no benefit against him or information about him. In addition, whenever a creature within 60 feet of him uses time stop, he can act normally within the duration of the time stop, as if he had cast it himself. As neither he nor the caster are frozen in time with respect to each other, each can target and affect the other with attacks, spells, or other effects they create, though they cannot affect other creatures within the duration of the time stop. This ability functions even if he is flat-footed or unaware of his opponent.

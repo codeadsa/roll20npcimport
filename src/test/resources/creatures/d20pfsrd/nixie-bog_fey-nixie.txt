@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/nixie/nixie-bog
+Bog Nixie CR 3
+XP 1,200
+NE Small fey (aquatic)
+Init +5; Senses low-light vision; Perception +8
+DEFENSE
+AC 18, touch 16, flat-footed 13 (+5 Dex, +1 size, +2 natural)
+hp 13 (2d6+6)
+Fort +3, Ref +8, Will +6
+DR 5/cold iron; SR 12
+OFFENSE
+Speed 20 ft., swim 30 ft.
+Melee short sword +7 (1d4/19-20)
+Ranged light crossbow +7 (1d6/19-20)
+Spell-Like Abilities (CL 6th; concentration +12)
+3/day—charm person (DC 17)
+1/day—water breathing (CL 12th)
+STATISTICS
+Str 11, Dex 20, Con 17, Int 16, Wis 17, Cha 22
+Base Atk +1; CMB 0; CMD 15
+Feats Weapon Finesse
+Skills Bluff +11, Craft (any one) +7, Escape Artist +10, Handle Animal +8, Perception +8, Perform (sing) +10, Sense Motive +7, Stealth +14, Swim +12
+Languages Aquan, Sylvan
+SQ amphibious, wild empathy +14
+SPECIAL ABILITIES
+Wild Empathy (Ex) This ability works like the druid ability of the same name. The nixie’s total includes a +8 racial bonus on wild empathy checks.
+Captivating Song (Su) This works like the harpy ability of the same name. The save DC is Charisma-based.
+Change Shape (Su) This works as polymorph, and allows the bog nixie to assume the form of any Small or Medium aquatic animal or humanoid.
+Minor Wish (Sp) Once per day, a bog nixie can create a magical effect in exchange for a gift or service from a humanoid. The power of this “wish” is no greater than what can be done with a 3rd-level spell.

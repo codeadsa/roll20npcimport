@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/biloko
+Biloko CR 1/2
+XP 200
+NE Small fey
+Init +6; Senses low-light vision, scent; Perception +6
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+2 Dex, +1 natural, +1 size)
+hp 5 (2d6–2)
+Fort –1, Ref +5, Will +4
+OFFENSE
+Speed 20 ft.
+Melee 1 shortspear +0 (1d4–2), 1 bite +0 (1d4–2)
+Ranged 1 shortspear +4 (1d4–2)
+Spell-Like Abilities (CL 1st)
+3/day—charm person (DC 13)
+STATISTICS
+Str 6, Dex 15, Con 8, Int 11, Wis 12, Cha 13
+Base Atk +1; CMB –2; CMD 10
+Feats Improved Initiative
+Skills Climb +3, Craft (traps) +5, Knowledge (nature) +5, Perception +6, Stealth +11, Survival +3
+Languages Common, Sylvan
+SQ Persuasion
+SPECIAL ABILITIES
+Persuasion (Su) Biloko can gradually insinuate their desires into the minds of those in the power of their charm person spell-like ability. For every 10 minutes a humanoid is under the influence of a biloko’s charm person, the victim takes a –1 penalty on her opposed Charisma check (to a maximum of –5) when the biloko is trying to convince her to do something she would not normally do. This penalty applies to the charm of only a single biloko and is reduced back to 0 as soon as the victim breaks free or the spell ends.

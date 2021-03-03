@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/encephalon-gorger--tohc
+Encephalon Gorger CR 8
+XP 4,800
+CE Medium aberration (extraplanar)
+Init +7; Senses darkvision 60 ft., mindsense; Perception +21
+DEFENSE
+AC 20, touch 14, flat-footed 16 (+3 Dex, +1 dodge, +6 natural)
+hp 65 (10d8+20); fast healing 5
+Fort +5; Ref +6; Will +9
+Defensive Abilities mind screen; Resist cold 10
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +10 (1d6+1 plus grab)
+Special Attacks mindfeed
+TACTICS
+Encephalon gorgers enter battle using their claws to slash and grapple their foes, going first for targets with the most delicious, intelligent brains. Once it grabs its prey it sinks its teeth into the foe’s head, draining it of cerebral fluid. However, an encephalon gorger will not put itself in danger by ignoring other threats around it, so generally it only drinks when all of its other foes are either dead or engaged with others of its kind. Encephalon gorgers often make use of slave creatures and dumb beasts to engage an enemy’s warriors while it sidles behind its chosen victim.
+Often times, an encephalon gorger attempts to capture rather than kill its prey, especially in the case of intelligent humanoids. Captured prey is taken to one of their alien cities, where it is handed over to the Breeders who tend the slave pits.
+STATISTICS
+Str 12, Dex 16, Con 14, Int 21, Wis 15, Cha 15
+Base Atk +7; CMB +8 (+12 grapple); CMD 22
+Feats Dodge, Improved Initiative, Mobility, Skill Focus (Perception), Weapon Finesse
+Skills Bluff +15, Diplomacy +10, Escape Artist +11, Intimidate +15, Knowledge (local) +18, Knowledge (planes) +18, Knowledge (any one) +18, Perception +21, Sense Motive +15, Stealth +11, Survival +10; Racial Modifiers All Knowledge skills are class skills for encephalon gorgers
+Languages Common, Encephalon Gorger, plus four additional languages
+SQ adrenal surge
+SPECIAL ABILITIES
+Adrenal Surge (Ex) Twice per day, an encephalon gorger can create an effect on itself equivalent to a haste spell (caster level 10th).
+Mindfeed (Su) If an encephalon gorger begins its turn grappling an opponent, it can attempt to suck its brain fluid with a successful grapple check. If it pins the foe, it drains cerebral fluid, dealing 1d4 points of Intelligence drain each round the pin is maintained. On each successful mindfeed attack, the encephalon gorger gains 5 temporary hit points. This ability does not work against nonliving creatures or creatures without a central brain mass. The encephalon gorger must be able to reach the head or neck of the target creature to use this ability.
+Mindsense (Su) As a move action, an encephalon gorger can gauge the relative intelligence level of any creature within 60 feet as follows: unintelligent, animal (Int 1–2), low (3–8), average (8–12), high (13–16), genius (17–20), or supra-genius (21+).
+Mind Screen (Ex) The mind of an encephalon gorger is an alien and dangerous place. Should a creature attempt to scan the mind or read the thoughts of an encephalon gorger (with detect thoughts, telepathy, or the like), it must make a successful (DC 20) Will save or be driven permanently insane (as by an insanity spell, caster level 15th); if the save succeeds, the creature is instead confused (as the spell) for 1d4 rounds. The save DC is Intelligence-based.

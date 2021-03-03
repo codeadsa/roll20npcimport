@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/riptide-horror
+Riptide Horror CR 8
+XP 4,800
+LE Medium magical beast (aquatic)
+Init +6; Senses blindsight 30 ft.; Perception +4
+DEFENSE
+AC 20, touch 12, flat-footed 18 (+2 Dex, +8 natural)
+hp 63 (6d10+30)
+Fort +10, Ref +7, Will +4
+DR 10/piercing or slashing
+Weaknesses vulnerability to electricity
+OFFENSE
+Speed 20 ft., swim 40 ft.
+Melee 6 tentacles +5 (1d4+1 plus grab plus poison) and 6 bites +4 (1d6+1),
+Space 5 ft.; Reach 5 ft. (10 ft. with tentacle)
+Special Attacks paralytic poison
+Spell-like Abilities (CL 6th):
+At will—spider climb
+TACTICS
+Riptide horrors prefer to attack from ambush; sitting unmoving until potential prey moves within range. Often, they use their spider climb ability to cling to sea cave walls where their unsuspecting prey walks underneath them. Once prey wanders too close, the riptide horror lashes out with its tentacles and attempts to grab its meal. Grabbed foes are subjected to its paralytic poison and are bitten by its razor-sharp teeth.
+STATISTICS
+Str 17, Dex 15, Con 20, Int 8, Wis 9, Cha 8
+Base Atk +6; CMB +7; CMD 19
+Feats Improved Initiative, Iron Will, Weapon Focus (tentacle)
+Skills Perception +4, Stealth +7 (+17 in murky water), Swim +16; Racial Modifiers +8 Swim, +10 Stealth in murky water
+SQ amphibious
+SPECIAL ABILITIES
+Poison (Ex) Tentacle—contact; save Fort DC 18; frequency 1/round for 1d4 rounds; effect 1d4 Dex plus paralysis Fort DC 18 1d4 rounds, cure 2 consecutive saves. The save DC is Constitution-based.

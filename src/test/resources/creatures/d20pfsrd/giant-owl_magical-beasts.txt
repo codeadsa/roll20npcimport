@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/giant-owl
+Giant Owl
+CR 5
+XP 1,600
+LN Huge magical beast
+Init +5; Senses low-light vision; Perception +17
+DEFENSE
+AC 18, touch 10, flat-footed 16 (+2 Dex, +8 natural, -2 size)
+hp 57 (6d10+24)
+Fort +9, Ref +7, Will +5
+OFFENSE
+Speed 10 ft., fly 60 ft. (average)
+Melee 2 claws +9 (2d6+5)
+Space 15 ft.; Reach 10 ft.
+STATISTICS
+Str 20, Dex 15, Con 18, Int 14, Wis 17, Cha 9
+Base Atk +6; CMB +13; CMD 25
+Feats Alertness, Combat Expertise, Improved Disarm
+Skills Fly +11, Knowledge (geography) +10, Knowledge (history) +10, Knowledge (nature) +10, Perception +17, Sense Motive +14, Stealth +9; Racial Modifiers +4 Fly, +4 on all Knowledge skills, +4 Perception, +8 Stealth
+Languages Sylvan (cannot speak); animal telepathy (30 ft.)
+SQ insightful senses, piercing stare
+SPECIAL ABILITIES
+Animal Telepathy (Su) A giant owl can telepathically communicate with other animals as if under the effects of speak with animals.
+Insightful Senses (Su) A giant owl’s senses are particularly well honed to sensing danger or locating prey. It adds its Wisdom modifier as an insight bonus (+3 for most giant owls) on its initiative checks.
+Piercing Stare (Su) Up to three times per day as a swift action, a giant owl can gain the effects of true seeing (as the spell) for 1 round.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/quasit
+Quasit CR 2
+XP 600
+CE Tiny outsider (chaotic, demon, evil, extraplanar)
+Init +6; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 16, touch 14, flat-footed 14 (+2 Dex, +2 natural, +2 size)
+hp 16 (3d10); fast healing 2
+Fort +1, Ref +5, Will +4
+DR 5/cold iron or good; Immune electricity, poison; Resist acid 10, cold 10, fire 10
+OFFENSE
+Speed 20 ft., fly 50 ft. (perfect)
+Melee 2 claws +7 (1d3–1 plus poison), bite +7 (1d4–1)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-Like Abilities (CL 6th)
+At will—detect good, detect magic, invisibility (self only)
+1/day—cause fear (30-foot radius, DC 11)
+1/week—commune (six questions)
+STATISTICS
+Str 8, Dex 14, Con 11, Int 11, Wis 12, Cha 11
+Base Atk +3; CMB +0; CMD 12
+Feats Improved Initiative, Weapon Finesse
+Skills Bluff +6, Fly +20, Intimidate +6, Knowledge (planes) +6, Perception +7, Stealth +16
+Languages Abyssal, Common; telepathy (touch)
+SQ change shape (2 of the following forms: bat, Small centipede, toad, or wolf; polymorph)
+SPECIAL ABILITIES
+Poison (Ex) Claw—injury; save Fortitude DC 13; frequency 1/round for 6 rounds; effect 1d2 Dexterity; cure 2 consecutive saves. The DC includes a +2 racial bonus.

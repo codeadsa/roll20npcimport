@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-doll
+Doll Devil (Arusities) CR 1
+XP 400
+LE Small outsider (devil, evil, extraplanar, lawful)
+Init +2; Senses darkvision 60 ft., see in darkness; Perception +2
+DEFENSE
+AC 15, touch 13, flat-footed 13 (+2 Dex, +2 natural, +1 size)
+hp 13 (2d10+2)
+Fort +1, Ref +5, Will +5
+Immune fire, poison; Resist acid 10, cold 10
+OFFENSE
+Spd 30 ft.
+Melee 2 slams +2 (1d3)
+Special Attacks draw essence
+Spell-like Abilities (CL 2nd)
+At Will—giggle* (DC 13)
+1/day—friendly face* (DC 14), hot foot*
+STATISTICS Str 10, Dex 15, Con 12, Int 13, Wis 14, Cha 17
+Base Atk +2; CMB +1; CMD 13
+Feats Stealthy
+Skills Acrobatics +7, Appraise +6, Bluff +8, Disguise +8, Escape Artist +9, Perform (dance) +5, Stealth +13
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SQ inert
+SPECIAL ABILITIES Draw Essence (Su) Once per day, an arusities can draw the essence from one evil living creature. This deals 1d3 Charisma damage.
+Inert (Ex) An arusities can become inert and appear as a simple doll. When inert, she does not radiate an aura of evil and an observer must succeed on a DC 20 Perception check to notice that the doll-like demon is actually alive.
+Summoning Arusities It is neither magic ritual nor spell that summons the arusities from the pits of Hell, but desire. Specifically, an arusities is drawn to the Material Plane by the desires of a child who wants for nothing, yet still wants more. This young, primal greed pulls the arusities into the lives of selfish children.

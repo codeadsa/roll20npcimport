@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-brine/brine-dragon-mature-adult
+Brine Dragon, Mature Adult CR 12
+XP 19,200
+LN Large dragon (water)
+Init +4; Senses dragon senses; Perception +22; Aura frightful presence (210 ft., DC 21)
+DEFENSE
+AC 30, touch 9, flat-footed 30 (+21 natural, -1 size)
+hp 168 (16d12+64)
+Fort +14, Ref +12, Will +13
+DR 10/magic; Immune acid, paralysis, sleep; SR 23
+OFFENSE
+Speed 60 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +26 (2d6+16), 2 claws +26 (1d8+11), tail slap +21 (1d8+16), 2 wings +21 (1d6+5)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (80-ft. line, 14d6 acid, DC 22)
+Spell-Like Abilities (CL 16th; concentration +19)
+At will—control water, obscuring mist, speak with animals (fish only), water breathing
+
+Spells Known (CL 9th; concentration +12)
+4th (4/day)—ice storm, greater invisibility
+3rd (7/day)—aqueous orb* (DC 16), deep slumber (DC 16), sleet storm (DC 16)
+2nd (7/day)—alter self, detect thoughts, invisibility, slipstream*
+1st (7/day)—color spray (DC 14), feather fall, flare burst* (DC 14), ray of enfeeblement, touch of the sea*
+0 (at will)—detect magic, detect poison, mage hand, message, open/close, prestidigitation, read magic, resistance
+* – denotes spell from Advanced Player’s Guide. STATISTICS
+Str 32, Dex 11, Con 19, Int 19, Wis 16, Cha 17
+Base Atk +16; CMB +28 (+30 bull rush); CMD 38 (40 vs. bull rush, 42 vs. trip)
+Feats Hover, Improved Bull Rush, Improved Initiative, Improved Vital Strike, Lightning Reflexes, Power Attack, Skill Focus (Swim), Vital Strike
+Skills Bluff +22, Diplomacy +22, Fly +13, Heal +22, Knowledge (arcana, nature) +23, Perception +22, Sense Motive +22, Survival +22, Swim +44; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic, Elven, Halfling
+SQ water breathing
+
+
+

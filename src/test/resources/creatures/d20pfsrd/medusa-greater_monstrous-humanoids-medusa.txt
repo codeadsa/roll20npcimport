@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/medusa/medusa-greater
+Greater Medusa CR 8
+XP 4,800
+LE Large monstrous humanoid
+Init +1; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 16, touch 10, flat-footed 15 (+1 Dex, +6 natural, -1 size)
+hp 60 (8d10+16)
+Fort +4, Ref +7, Will +7
+OFFENSE
+Speed 30 ft.
+Melee dagger +9/+4 (1d4+2/19-20) or snakes +9 (1d4 plus poison)
+Ranged composite shortbow +9/+4 (1d6+2/x3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks petrifying gaze, poison, poisonous blood
+STATISTICS
+Str 14, Dex 12, Con 15, Int 12, Wis 13, Cha 15
+Base Atk +8; CMB +11; CMD 22 (can’t be tripped)
+Feats Point-Blank Shot, Precise Shot, Rapid Shot, Weapon Focus (composite shortbow)
+Skills Bluff +10, Disguise +10, Intimidate +13, Perception +12, Stealth +8
+Languages Common, Terran
+Gear composite shortbow, 20 arrows, dagger
+SPECIAL ABILITIES
+Petrifying Gaze (Su) Turn to stone permanently, 30 feet, Fortitude DC 16 negates. The save DC is Charisma-based. This is a gaze attack.
+Poison (Ex) Bite–injury; save DC 16; frequency 1/round for 6 rounds; effect 1d6 Strength damage; cure 1 save. The save DC is Constitution-based.
+Poisonous Blood (Ex) The blood of a greater medusa is highly poisonous even to the touch. A creature contacting the blood is exposed to the poison of the medusa as described above. The blood loses its potency one hour after being exposed to air.

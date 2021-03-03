@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-tohc/clockwork-brain-gear
+Clockwork Brain Gear CR 3
+XP 800
+N(E) Small construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 10, touch 6, flat-footed 10 (–5 Dex, +4 natural, +1 size)
+hp 42 (5d10+10 plus 5)
+Fort +3; Ref –4; Will +7
+Defensive Abilities hardness 10; Immune construct traits
+Weaknesses immobile
+OFFENSE
+Speed 0 ft.
+Space 5 ft.; Reach 0 ft.
+STATISTICS
+Str 10, Dex —, Con —, Int 20, Wis 18, Cha 14
+Base Atk +5; CMB +4; CMD 9 (can’t be tripped)
+Feats Great Fortitude, Iron Will, Toughness
+Skills Diplomacy +7, Craft (metalworking) +10, Knowledge (arcana) +10, Knowledge (engineering) +10, Perception +9, Sense Motive +9, Spellcraft +10
+SQ control clockworks, dream
+SPECIAL ABILITIES
+Control Clockwork (Su) Any clockwork that comes within two miles of a brain gear immediately falls under that brain gear’s control. If more than one brain gear attempts to control a clockwork (or if the clockwork is under the control of another brain gear or overseer), each gear must make an opposed Intelligence check; the winner gains control of that clockwork. When a clockwork moves more than 2 miles away from a brain gear, it continues to perform the last order given to it, but there is a 25% percent chance each hour that it ceases to function, collapsing into a pile of junk. If a brain gear later moves within two miles of the destroyed clockwork, the clockwork can reactivate if it has the self-repair ability. Otherwise, it remains destroyed.
+A brain gear in control of at least one clockwork can, as a free action once per round, use that clockwork to perceive the world through its senses (such as seeing the area surrounding the clockwork). This ability has a range of 2 miles. If a brain gear controls multiple clockworks, it can instantaneously jump from clockwork to clockwork, keeping tabs on all of its thralls and perceiving the world through their senses. A brain gear can switch control from one clockwork to another once per round as a free action. A brain gear uses this ability to give commands to its clockworks, allowing the usually mindless creatures to fight with highly coordinated tactics. Each clockwork is capable of receiving roughly 100 words worth of orders. Anything beyond that is too complicated for the clockwork to handle.
+Dream (Su) The brain gear has a limited ability to send psychic messages. Once per week, it can create an effect similar to a dream spell (caster level 10th). The brain gear can contact multiple creatures by designating a generic creature type, such as ogre or human. This designation affects every member of the target type within a 2-mile radius of the brain gear.

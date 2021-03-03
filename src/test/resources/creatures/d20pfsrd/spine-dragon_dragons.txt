@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/spine-dragon
+Spine Dragon CR 16
+XP 76,800
+CN Gargantuan dragon (earth)
+Init +2; Senses blindsight 30 ft., darkvision 120 ft., low-light vision; Perception +25
+DEFENSE
+AC 31, touch 9, flat-footed 28 (+2 Dex, +1 dodge, +22 natural, –4 size)
+hp 248 (16d12+144)
+Fort +19, Ref +12, Will +16
+Defensive Abilities ray deflection, spines; DR 10/adamantine;
+Immune paralysis, sleep effects, sonic; Resist cold 20, electricity 20, fire 20; SR 27
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)*
+Melee bite +23 (2d8+11), claws +23 (2d6+11), tail slap +18 (2d8+16)
+Ranged 4 spines +14 (2d8+11)
+Space 20 ft.; Reach 15 ft.
+Special Attacks breath weapon, spines
+Spell-Like Abilities (CL 16th; concentration +20)
+3/day—spike growth (DC 17), spike stones (DC 18), telekinesis (DC 19)
+1/day—telekinetic sphere (DC 22), wall of force
+STATISTICS
+Str 32, Dex 15, Con 29, Int 16, Wis 22, Cha 19
+Base Atk +16; CMB +31; CMD 44
+Feats Awesome Blow, Combat Reflexes, Dodge, Improved Bull Rush, Point-Blank Shot, Power Attack, Precise Shot, Vital Strike
+Skills Appraise +22, Bluff +23, Fly +15, Intimidate +23, Knowledge (engineering) +22, Knowledge (nature) +22, Perception +25, Sense Motive +25, Stealth +9
+Languages Common, Draconic
+SPECIAL ABILITIES
+Breath Weapon (Ex) Once every 1d4 rounds as a standard action, a spine dragon can emit a devastating shriek of powerful sonic energy in a 60-foot cone. Creatures caught in this cone take 20d6 sonic damage and are permanently deafened. A DC 27 Reflex save halves the damage and negates the deafness. This sonic damage is particularly devastating to constructs—they take a –4 penalty to save against its effects, and if they fail the save, they are staggered for 1d4 rounds as well. The save DC is Constitution-based.
+Ray Deflection (Su) A spine dragon’s scales deflect rays and magic missile spells, rendering the spine dragon immune to such effects. There’s a 30% chance a deflected effect reflects back in full force at the caster; otherwise, it is simply negated.
+Spines (Ex) A spine dragon’s body is covered with long, crystalline spines. It can fire up to four of these spines per round as a full-attack action (or one as a standard action). A creature that attacks a spine dragon with a melee weapon, unarmed strike, or natural weapon must make a DC 20 Reflex save or take 2d8+11 points of piercing damage from the spines. The save DC is Dexterity-based.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/wind-walker-tohc
+Wind Walker CR 5
+XP 1,600
+N Large outsider (air, elemental, extraplanar)
+Init +8; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 17, touch 13, flat-footed 13 (+4 Dex, +4 natural, -1 size)
+hp 59 (7d10+14 plus 7)
+Fort +4, Ref +9, Will +6
+DR 5/magic; Immune magic, elemental traits
+OFFENSE
+Speed 40 ft., fly 60 ft. (perfect)
+Melee wind blast +10 (2d6+6)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 10th)
+Constant—detect thoughts (100 ft.)
+TACTICS
+A wind walker attacks by using the surrounding air to pummel its foes.
+STATISTICS
+Str 18, Dex 19, Con 14, Int 12, Wis 13, Cha 11
+Base Atk +7; CMB +12; CMD 26
+Feats Combat Reflexes, Improved Initiative, Power Attack, Toughness
+Skills Bluff +6, Diplomacy +10, Fly +20, Intimidate +10, Knowledge (planes) +11, Perception +11, Sense Motive +8, Stealth +10
+Languages Auran, Common; telepathy 100 ft.
+SPECIAL ABILITIES
+Detect Thoughts (Sp) For every wind walker present within 100 feet, the range of this spell-like ability increases by 100 feet.
+Immunity to Magic (Ex) A wind walker is immune to any spell or spell-like ability that allows spell resistance (except those that summon or call it). In addition, certain spells and effects function differently against the creature as noted below.
+A control weather spell instantly slays a wind walker if it fails a Fortitude save against the spell. A haste spell deals 1d6 points of damage per two caster levels (maximum 5d6) to a wind walker. A Fortitude save halves the damage. In addition, a haste spell increases the damage the wind walker deals with its wind blast attack by +1d6 for one round. An ice storm spell deals no damage to a wind walker, but is affected as if by a fear spell if it fails a Will saving throw against ice storm. A slow spell deals 1d6 points of damage per caster level (maximum 10d6) to a wind walker. A Will save halves the damage. A summoned or called wind walker is affected normally by magical barriers that restrict or inhibit called or summoned creatures (such as antimagic field). Wind Blast (Ex) A wind walker attacks using the air surrounding it, transforming it into a forceful blast that deals 2d6+6 points of damage to all creatures within reach. The wind walker makes a single attack roll at its full attack bonus against each opponent within reach as a standard action.

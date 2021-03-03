@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/daemon-piscodaemon-TOHC
+PISCODAEMON CR 10
+XP 9,600
+NE Medium outsider (aquatic, daemon, evil, extraplanar)
+Init +8; Senses darkvision 60 ft., see invisibility; Perception +20
+DEFENSE
+AC 24, touch 14, flat-footed 20 (+4 Dex, +10 natural)
+hp 137 (11d10+77)
+Fort +14; Ref +7; Will +9
+Defensive Abilities all-around vision; DR 10/good; Immune acid, death effects, disease, flanking, poison; Resist cold 10, electricity 10, fire 10; SR 21
+OFFENSE
+Speed 30 ft., swim 50 ft.
+Melee 2 claws +18 (2d6+7/18–20/x3 plus grab and 1d6 bleed), tentacles +16 (1d10+3 plus poison)
+Special Attacks augmented critical, constrict (2d6+10)
+Spell-Like Abilities (CL 11th)
+Constant—see invisibility
+At will—dispel magic, greater teleport (self plus 50 lb. of objects only)
+3/day—fly, stinking cloud (DC 16)
+1/day—summon (level 4, 1d3 hydrodaemons 35%)
+STATISTICS
+Str 25, Dex 18, Con 24, Int 14, Wis 15, Cha 17
+Base Atk +11; CMB +18 (+22 grapple); CMD 32
+Feats Critical Focus, Improved Initiative, Multiattack, Power Attack, Sickening Critical, Vital Strike
+Skills Escape Artist +18, Intimidate +17, Knowledge (planes) +16, Perception +20, Sense Motive +16, Stealth +18, Survival +16, Swim +29; Racial Modifiers +4 Perception
+Languages Abyssal, Daemonic, Infernal; telepathy 100 ft.
+SQ amphibious
+SPECIAL ABILITIES
+Augmented Critical (Ex) A piscodaemon’s claws threaten a critical hit on an 18–20 and inflict x3 damage on a successful critical hit.
+Poison (Ex) Tentacles—injury; save Fort DC 22; frequency 1/round for 6 rounds; effect 1d2 Con plus staggered for 1 round; cure 2 consecutive saves. The save DC is Constitution-based.

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/bulette
+Bulette CR 7
+XP 3,200
+N Huge magical beast
+Init +6; Senses darkvision 60 ft., low-light vision, scent, tremorsense 60 ft.; Perception +11
+DEFENSE
+AC 22, touch 10, flat-footed 20 (+2 Dex, +12 natural, –2 size)
+hp 84 (8d10+40)
+Fort +11, Ref +8, Will +5
+OFFENSE
+Speed 40 ft., burrow 20 ft.
+Melee bite +13 (2d8+9/19–20) and 2 claws +12 (2d6+6)
+Space 15 ft.; Reach 10 ft.
+Special Attacks leap, savage bite
+STATISTICS
+Str 23, Dex 15, Con 20, Int 2, Wis 13, Cha 6
+Base Atk +8; CMB +16; CMD 28 (32 vs. trip)
+Feats Improved Initiative, Iron Will, Skill Focus (Perception), Weapon Focus (bite)
+Skills Acrobatics +9 (+17 jumping), Perception +11; Racial Modifiers +4 on Acrobatics checks made to jump
+SPECIAL ABILITIES
+Leap (Ex) A bulette can perform a special kind of pounce attack by jumping into combat. When a bulette charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it makes the Acrobatics check, it can follow up with four claw attacks against foes in reach, but cannot make a bite attack.
+Savage Bite (Ex) A bulette’s bite is particularly dangerous. It applies 1-1/2 times its Strength modifier to damage inflicted with its bite attack, and threatens a critical hit on a 19–20.

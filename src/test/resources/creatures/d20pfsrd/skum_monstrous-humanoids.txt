@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/skum
+Skum (Ulat-Kini) CR 2
+XP 600
+LE Medium monstrous humanoid (aquatic)
+Init +1; Senses darkvision 60 ft.; Perception +5
+
+DEFENSE
+AC 13, touch 11, flat-footed 12 (+1 Dex, +2 natural)
+hp 20 (2d10+9)
+Fort +3, Ref +4, Will +3
+Resist cold 10
+OFFENSE
+Speed 20 ft., swim 40 ft.
+Melee trident +4 (1d8+2), claw +2 (1d4+1), bite +2 (1d6+1)
+Ranged trident +3 (1d8+2)
+STATISTICS
+Str 15, Dex 13, Con 17, Int 10, Wis 10, Cha 6
+Base Atk +2; CMB +4; CMD 15
+Feats MultiattackB, Toughness
+Skills Intimidate +3, Perception +5 (+9 underwater), Stealth +6 (+10 underwater), Swim +15; Racial Modifiers +4 Perception and Stealth underwater
+Languages Aboleth, Undercommon
+SQ amphibious

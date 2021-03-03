@@ -1,0 +1,44 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-draconal
+Draconal CR 20
+XP 307,200
+NG Large outsider (agathion, extraplanar, good)
+Init +6; Senses blindsense 60 ft., darkvision 120 ft., low-light vision; Perception +48; Aura protective aura (20 ft.)
+DEFENSE
+AC 36, touch 18, flat-footed 33 (+2 Dex, +1 dodge, +6 insight, +18 natural, –1 size) (+4 deflection vs. evil)
+hp 324 (24d10+192); regeneration 10 (evil weapons and spells)
+Fort +22, Ref +16, Will +17; +4 vs. poison, +4 resistance vs. evil
+DR 15/evil and silver; Immune one energy type (see Celestial Focus), electricity, petrification; Resist cold 10, sonic 10; SR 31
+OFFENSE
+Speed 40 ft., fly 120 ft. (average)
+Melee bite +36 (2d6+13 plus 1d6 energy), 2 claws +31 (1d8+6 plus 1d6 energy)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (120-ft. line, 20d6 energy damage, Reflex DC 30 half, usable once every 1d4 rounds)
+Spell-Like Abilities (CL 24th; concentration +30)
+Constant—speak with animals
+At will—beast shape II, command (DC 17), detect thoughts, elemental body III (air or water elementals only), greater teleport (self plus 50 lbs. of objects only), gust of wind, hold monster (DC 20), identify, light, lightning bolt (DC 19), mage hand, message
+7/day—break enchantment, cure serious wounds, neutralize poison, remove disease
+3/day—control water, control weather, control winds, heal, plane shift (DC 23)
+Cleric Spells Prepared (CL 17th; concentration +23)
+9th—implosion (DC 26), storm of vengeanceD (DC 26)
+8th—demandD, earthquake, quickened holy smite (DC 21)
+7th—empowered breath of life, empowered flame strike (DC 22), holy word (DC 24), quickened invisibility purge, repulsionD (DC 24)
+6th—animate objects, blade barrierD (DC 23), find the path, heal, heroes’ feast, quickened remove paralysis
+5th—breath of life, dispel evilD, flame strike (DC 22), greater command (DC 22), spell resistance, true seeing
+4th—cure critical wounds (3), freedom of movement, holy smiteD (DC 21), repel vermin (DC 21)
+3rd—bestow curse (DC 20), daylight, dispel magic, helping hand, magic vestmentD, prayer, protection from energy
+2nd—align weaponD (good only), calm emotions (DC 19), enthrall, hold person (DC 19), lesser restoration (2), shield other
+1st—bless, detect undead, divine favorD, obscuring mist, remove fear, sanctuary (DC 18), shield of faith
+0 (at will)—detect poison, guidance, purify food and drink, stabilize
+D domain spell; Domains Good, Nobility
+STATISTICS
+Str 36, Dex 15, Con 27, Int 24, Wis 24, Cha 23
+Base Atk +24; CMB +38; CMD 57 (can’t be tripped)
+Feats Alertness, Combat Casting, Dodge, Empower Spell, Greater Spell Penetration, Improved Initiative, Iron Will, Mobility, Power Attack, Quicken Spell, Skill Focus (Perception), Spell Penetration
+Skills Acrobatics +25, Bluff +29, Diplomacy +26, Escape Artist +22, Heal +27, Intimidate +29, Knowledge (arcana) +30, Knowledge (nature) +27, Knowledge (planes) +34, Knowledge (religion) +31, Perception +48, Sense Motive +34, Spellcraft +27, Stealth +21, Use Magic Device +26; Racial Modifiers +4 Perception
+Languages Celestial, Draconic, Infernal; speak with animals, truespeech
+SQ celestial focus, divine insight, lay on hands (10d6, 16/day, as a 20th-level paladin)
+SPECIAL ABILITIES
+Celestial Focus (Ex) A draconal’s color indicates aspects of its power and attunement to the powers of the good planes (see Draconal Colors, below). These determine the draconal’s breath weapon, the additional energy damage of its claw and bite attacks, additional resistances and immunities, and its additional domain choices (see Spells, below).
+Divine Insight (Su) A draconal adds its Charisma bonus as an insight bonus to Armor Class.
+Protective Aura (Su) Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the draconal. Otherwise, it functions as a magic circle against evil effect and a lesser globe of invulnerability, both with a radius of 20 feet (caster level equals draconal’s HD). (The defensive benefits from the circle are not included in a draconal’s stat block.)
+Spells Draconals cast spells as 17th-level clerics. Like clerics, they have access to two domains, selecting from the following list: Air, Good, Nobility, Weather, and two additional domain options based on their color (see below). The majority of draconals choose Good and Nobility as their domains (as represented by this stat block). Draconals have a domain spell slot at each spell level but do not gain the granted powers of their chosen domains, nor do they gain access to other cleric abilities.

@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-silver/silver-dragon-very-young
+Silver Dragon, Very Young CR 8
+XP 4,800
+LG Medium dragon (cold)
+Init +5; Senses dragon senses; Perception +15
+DEFENSE
+AC 20, touch 11, flat-footed 19 (+1 Dex, +9 natural)
+hp 76 (9d12+18)
+Fort +8, Ref +7, Will +11
+Immune acid, cold, paralysis, sleep
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 40 ft., fly 150 ft. (average); cloudwalking
+Melee bite +13 (1d8+4), 2 claws +12 (1d6+3), 2 wings +7 (1d4+1)
+Special Attacks breath weapon (30-ft. cone, DC 16, 4d8 cold), paralyzing breath
+Spell-Like Abilities (CL 9th; concentration +12)
+At will— detect evil STATISTICS
+Str 17, Dex 12, Con 15, Int 16, Wis 17, Cha 16
+Base Atk +9; CMB +12; CMD 23 (27 vs. trip)
+Feats Hover, Improved Initiative, Iron Will, Power Attack, Weapon Focus (bite)
+Skills Acrobatics +10 (+14 jump), Diplomacy +15, Fly +13, Heal +15, Intimidate +15, Knowledge (local) +15, Perception +15, Sense Motive +15, Spellcraft +15
+Languages Auran, Common, Draconic, Giant
+SQ change shape
+SPECIAL ABILITIES
+Change Shape (Su)
+A silver dragon can assume any animal or humanoid form 3/day as if using polymorph.
+Cloudwalking (Su) A very young or older silver dragon can tread on clouds or fog as though on solid ground.
+Paralyzing Breath (Su) Instead of a cone of cold, a silver dragon can breathe a cone of paralyzing gas. Creatures within the cone must succeed on a Fortitude save or be paralyzed for 1d6 rounds plus 1 round per age category of the dragon.
+
+

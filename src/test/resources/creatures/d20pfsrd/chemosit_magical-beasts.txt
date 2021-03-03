@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/chemosit
+Chemosit CR 4
+XP 1,200
+N Large magical beast
+Init +7; Senses darkvision 60 ft., low-light vision, scent; Perception +2
+DEFENSE
+AC 18, touch 12, flat-footed 15 (+3 Dex, +6 natural, –1 size)
+hp 47 (5d10+20)
+Fort +8, Ref +7, Will +3
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee 2 claws +11 (1d6+7), 1 bite +11 (1d8+7)
+Space 10 ft.; Reach 10 ft.
+Special Attacks pounce, rake (1d6), terrifying roar
+STATISTICS
+Str 24, Dex 17, Con 19, Int 2, Wis 15, Cha 8
+Base Atk +5; CMB +13; CMD 26
+Feats Improved Bull Rush, Improved Initiative, Power Attack
+Skills Climb +15, Stealth +15; Racial Modifiers +8 Stealth
+SPECIAL ABILITIES
+Brain Eater (Su) Should a chemosit kill an opponent with a coup de grace attack, it breaks open the creature’s skull and devours what’s inside. If the creature killed is of one of the following classes or creature types, the chemosit gains the associated benefit. If the creature killed falls into multiple categories, the chemosit chooses a single benefit to gain. With the exception of healing, the effects provided by this ability affect a chemosit for a number of minutes equal to 5 times its Hit Dice.
+Animal: The chemosit regains a number of hit points equal to the victim’s Hit Dice, and the DC of its terrifying roar increases by +2.
+Arcane Spell-Caster: The chemosit regains a number of hit points equal to 1d4 times the victim’s Hit Dice and gains SR 15.
+Divine Spell-Caster: The chemosit regains a number of hit points equal to 1d8 times the victim’s Hit Dice.
+Humanoid: The chemosit regains a number of hit points equal to 1d4 times the victim’s Hit Dice.
+Outsider: The chemosit regains a number of hit points equal to 1d4 times the victim’s Hit Dice but is confused for 1d4 rounds.
+Monstrous Humanoid: The chemosit regains a number of hit points equal to 1d4 times the victim’s Hit Dice and is affected as per the spell rage.
+Undead: The chemosit takes 1d4 points of damage and is sickened for 1d4 rounds. In addition, the chemosit detects as undead for the purposes of spells like detect undead, though it is in no other way treated as an undead creature.
+Terrifying Roar (Su) The terrifying roar of the chemosit unnerves even the bravest souls. Any creatures within a 300-foot spread must make a DC 15 Will save or become shaken for 1d4 rounds. This is a sonic mind-affecting fear affect. Whether or not the save is successful, an affected creature is immune to the same chemosit’s roar for the next 24 hours. The save DC is Wisdom-based.

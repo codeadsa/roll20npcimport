@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ebon-spider
+Tribal Protector CR 12
+XP 19,200
+LE or CE Large magical beast
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +20
+DEFENSE
+AC 30, touch 20, flat-footed 23 (+6 Dex, +1 dodge, +10 natural, +4 profane, -1 size)
+hp 136 (16d10+48)
+Fort +17, Ref +20, Will +12
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +22 melee (1d8+10/19-20 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks nightmare, poison, web (+21 ranged, DC 21, 16 hp, DR 5/—)
+Spell-Like Abilities (CL 16th; concentration +18)
+Constant—freedom of movement
+TACTICS
+Ebon spiders are prone to charge into combat, trying to kill as many creatures as possible. Being intelligent, they prefer to attack spellcasters over armored opponents, using their Mobility and Spring Attack feats to keep their opponents off-balance.
+STATISTICS
+Str 24, Dex 22, Con 16, Int 14, Wis 12, Cha 15
+Base Atk +16; CMB +24 (+26 bull rush); CMD 44 (46 vs. bull rush; 56 vs. trip)
+Feats Dodge, Improved Bull Rush, Improved Critical (bite), Iron Will, Improved Iron Will, Mobility, Power Attack, Spring Attack
+Skills Acrobatics +25, Climb +34, Perception +20, Stealth +21; Racial Modifiers +8 Climb
+Languages Common, Sylvan, Undercommon, and either Abyssal or Infernal (depending on their alignment with law or chaos).
+SQ freedom of movement, profane infusion
+SPECIAL ABILITIES
+Nightmare (Su) A creature that fails the secondary saving throw against an ebon spider’s poison is subject to its nightmare effect. Once each year on the anniversary of the spider’s attack, the creature lapses into a comatose state for 24 hours that is marked by sweating, uncontrollable shaking, and vivid dreams that recreate the attack in the mind of the victim. In addition, each time the creature finds itself in the domain of an ebon spider (marked by the massive webs of its dream), the creature suffers a -4 morale penalty on all attack rolls and saving throws. This mind-affecting fear effect can be removed by the remove curse spell or DC 25 break enchantment spell cast within a number of days of the attack equal to the caster’s level. Afterwards, only a miracle or wish spell is sufficient to remove the effect.
+Poison (Ex) Nightmare Poison (Ex) Bite—injury; save Fort DC 21, frequency 1/round for 2 rounds, effect 1d3 Str damage plus nightmare (see above), cure 2 saves. The save DC is Constitution-based.
+Profane Infusion (Su) An ebon spider is infused with profane energy, granting it a +4 profane bonus on its AC and saving throws.

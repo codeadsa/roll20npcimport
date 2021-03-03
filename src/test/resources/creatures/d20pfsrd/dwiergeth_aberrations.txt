@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/dwiergeth
+Dwiergeth CR 13
+XP 25,600
+CE Large aberration (extraplanar)
+Init +11; Senses darkvision 60 ft.; Perception +16
+DEFENSE
+AC 28, touch 17, flat-footed 20 (+7 Dex, +1 dodge, +11 natural, –1 size)
+hp 175 (13d8+117)
+Fort +13, Ref +11, Will +15
+Defensive Abilities all-around vision; DR 10/lawful; Immune blindness, dazzling, poison, visual effects; Resist cold 20, fire 20; SR 24
+OFFENSE
+Speed 60 ft., climb 60 ft.
+Melee 2 bites +19 (4d6+11/19–20 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks fast swallow, forever gullet, swallow whole (8d6 slashing damage, AC 15, 17 hp)
+Spell-Like Abilities (CL 13th; concentration +16)
+Constant—feather fall
+At will—gust of wind (DC 15)
+1/day—control winds (DC 18), wind wall
+STATISTICS
+Str 32, Dex 25, Con 28, Int 5, Wis 24, Cha 17
+Base Atk +9; CMB +21 (+25 grapple); CMD 39 (43 vs. trip)
+Feats Combat Reflexes, Dodge, Improved Critical (bite), Improved Initiative, Mobility, Spring Attack, Wind Stance
+Skills Climb +29, Perception +16
+Languages Abyssal
+SPECIAL ABILITIES
+Forever Gullet (Su) When a dwiergeth swallows a creature whole, the act shunts the victim through extradimensional orifices within the creature’s body and into a seemingly endless maze of tooth-lined entrails that exist outside of reality, similar to the labyrinth created by a maze spell but horribly organic and hungry. If a swallowed creature successfully cuts its way out of a dwiergeth, it must attempt a DC 15 Intelligence check as it crawls out of the hole. If the victim is successful, it escapes the creature, but on a failure, the victim merely crawls from one extradimensional intestine to another and must endure another round of being swallowed whole.
+A dwiergeth can continue to use swallow whole even after a creature cuts its way out. A creature casting any teleportation spell or spell-like ability while within 5 feet of a dwiergeth must succeed at a DC 21 Will save or the effect instead sends the target into the dwiergeth’s forever gullet. When a dwiergeth is under the effects of dimensional anchor or in an area that prohibits extradimensional travel, it loses the abilities of its forever gullet, but its swallow whole ability functions normally.
+If a dwiergeth dies, the extradimensional space contracts, disgorging any swallowed creature into the corpse’s space. The save DC is Charisma-based, and includes a +2 racial bonus.

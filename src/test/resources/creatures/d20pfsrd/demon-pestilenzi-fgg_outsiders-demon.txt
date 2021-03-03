@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-pestilenzi-fgg
+Pestilenzi Demon CR 3
+XP 800
+CE Small outsider (chaotic, demon, evil, extraplanar)
+Init +8; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 17, touch 15, flat-footed 13 (+4 Dex, +2 natural, +1 size)
+hp 30 (4d10+8)
+Fort +6; Ref +10; Will +3
+DR 5/cold iron or good; Immune electricity, poison; Resist acid 10, cold 10, fire 10
+OFFENSE
+Speed 20 ft., fly 60 ft. (perfect)
+Melee bite +5 (1d6 plus 1d6 acid and pestilenzi rot)
+Spell-Like Abilities (CL 8th)
+At will—greater teleport (self plus 50 lbs. of objects only), invisibility (self only)
+3/day—grease, summon swarm, whispering wind
+1/day—summon (level 3, 1 pestilenzi or 1d4 dretches, 40%)
+STATISTICS
+Str 11, Dex 18, Con 14, Int 9, Wis 15, Cha 12
+Base Atk +4; CMB +3; CMD 17
+Feats Improved Initiative, Lightning Reflexes
+Skills Bluff +8, Fly +21, Knowledge (planes) +6, Perception +9, Stealth +15
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SPECIAL ABILITIES
+Pestilenzi Rot (Su) Disease—bite; save Fort DC 14; onset 1 minute; frequency 1/day; effect 1d6 Con and 1d6 Cha; cure —.
+A creature suffering from pestilenzi rot cannot recover naturally over time. Anyone casting a conjuration (healing) spell on the afflicted creature must succeed on a DC 10 caster level check, or the spell is wasted and the healing has no effect. Anyone who dies from pestilenzi rot turns to dust and cannot be raised without a resurrection or greater magic.
+The save DC is Constitution-based.
+Base Creature
+Demon

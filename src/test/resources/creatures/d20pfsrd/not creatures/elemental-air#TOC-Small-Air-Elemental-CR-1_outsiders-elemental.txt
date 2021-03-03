@@ -1,0 +1,12 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-air#TOC-Small-Air-Elemental-CR-1
+SPECIAL ABILITIES
+Air Mastery (Ex) Airborne creatures take a –1 penalty on attack and damage rolls against an air elemental.
+Elemental Size Category Height Weight Whirlwind/Vortex
+Save DC Whirlwind/Vortex
+Height
+Small Small 4 ft. 1 lb. 12 10–20 ft.
+Medium Medium 8 ft. 2 lbs. 14 10–30 ft.
+Large Large 16 ft. 4 lbs. 18 10–40 ft.
+Huge Huge 32 ft. 8 lbs. 22 10–50 ft.
+Greater Huge 32 ft. 8 lbs. 22 10–50 ft.
+Elder Huge 32 ft. 8 lbs. 22 10–50 ft.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/behemoth/behemoth-thalassic
+Thalassic Behemoth CR 20
+XP 307,200
+N Colossal magical beast (aquatic, behemoth, water)
+Init -1; Senses blindsense 60 ft., darkvision 60 ft..; Perception +34
+DEFENSE
+AC 37, touch 1, flat-footed 37 (-1 Dex, +36 natural, -8 size)
+hp 391 (29d10+232); regeneration 20 (fire)
+Fort +24, Ref +17, Will +14
+Defensive Abilities unstoppable; DR 15/epic; Immune ability damage, aging, bleed, cold, disease, energy drain, fire, mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, poison, polymorph; SR 31
+Weaknesses vulnerable to miracles and wishes
+OFFENSE
+Speed 20 ft., swim 200 ft.
+Melee bite +39 (6d6+18/19-20 plus grab), 2 claws +39 (3d6+18), tail slap +34 (4d6+9 plus trip)
+Ranged water jet +20 (4d8+18/19-20 plus stun and push)
+Space 30 ft.; Reach 20 ft.
+Spell-Like Abilities (CL 20th; concentration +22)
+3/day—tsunami (DC 21)
+Special Attacks capsize (DC 25), fast swallow, push (water jet, 20 ft.), rend (claws, 3d6+18), ruinous, swallow whole (4d6+27 bludgeoning, AC 28, 39 hp)
+STATISTICS
+Str 47, Dex 8, Con 27, Int 3, Wis 16, Cha 14
+Base Atk +29; CMB +55 (+59 grapple); CMD 64
+Feats Ability Focus (water jet), Cleave, Great Cleave, Greater Sunder, Greater Vital Strike, Improved Critical (bite, water jet), Improved Iron Will, Improved Sunder, Improved Vital Strike, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Perception), Vital Strike
+Skills Perception +34, Stealth -13, Survival +18, Swim +30; Racial Modifiers +10 Perception
+SQ amphibious
+Language Aklo (cannot speak)
+SPECIAL ABILITIES
+Water Jet (Su) A thalassic behemoth can blast water from its blowhole with surprising force and accuracy. This water jet has a range of 240 feet with no range penalties. A target hit by the water jet is subject to the behemoth’s push ability and must succeed at a DC 32 Fortitude save or be stunned for 1d4+1 rounds. The save DC is Constitution-based.

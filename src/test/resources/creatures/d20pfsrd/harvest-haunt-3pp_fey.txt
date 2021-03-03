@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/harvest-haunt-3pp
+Harvest Haunt CR 6
+XP 2,400
+CN Tiny fey
+Init +6; Senses low-light vision; Perception +13; Aura aura of complacency (100 ft., DC17)
+DEFENSE
+AC 19, touch 19, flat-footed 12 (+6 Dex, +1 dodge, +2 size)
+hp 24 (7d6)
+Fort +2; Ref +11; Will +6
+DR 5/cold iron
+OFFENSE
+Speed 20 ft.
+Melee blighting touch +9 (1d8+4 negative energy)
+Special Attacks blighting touch
+Spell-Like Abilities (CL 7th; concentration +11)
+At Will—invisibility
+1/week—heroes’ feast
+1/day—create food and water
+STATISTICS
+Str 5, Dex 23, Con 10, Int 12, Wis 13, Cha 18
+Base Atk +3; CMB -2; CMD 18
+Feats Alertness, Dodge, Stealthy, Weapon Finesse
+Skills Bluff +14, Escape Artist +18, Perception +13, Knowledge (nature) +11, Sense Motive +13, Stealth +26, Survival +8
+Languages Sylvan, Terran
+SPECIAL ABILITIES
+Aura of Complacency (Su) A harvest haunt projects a 100-ft aura that makes all living, non-fey creatures within the area feel complacent. Those affected by the aura must make a DC 17 will save or fall under the effects of a suggestion, that instructs the victim to “Remain inside to eat, drink, and be merry.” Since this is something most people want to do, they often take a -2 penalty on their Will save as per the spell (subject to GM discretion). A creature that saves against this aura is immune to its effects for 24 hours. The save DC is Charisma based.
+Blighting Touch (Su) The touch of a harvest haunt can convey negative energy into another being. This manifests as a cold-burning sensation that does 1d8 negative energy damage plus the harvest haunt’s Charisma modifier.

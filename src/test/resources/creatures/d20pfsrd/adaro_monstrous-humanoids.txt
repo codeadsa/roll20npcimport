@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/adaro
+Adaro CR 3
+XP 800
+NE Medium monstrous humanoid (aquatic)
+Init +3; Senses blindsense 30 ft., darkvision 6o ft., low-light vision, keen scent; Perception +8
+DEFENSE
+AC 15, touch 13, flat-footed 12 (+3 Dex, +2 natural)
+hp 30 (4d10+8)
+Fort +3, Ref +7, Will +5
+OFFENSE
+Speed 10 ft., swim 50 ft.
+Melee spear +8 (1d8+4/x3 plus poison), bite +2 (1d6+3)
+Ranged spear +8 (1d8+3/x3)
+Special Attacks rain frenzy
+STATISTICS
+Str 16, Dex 17, Con 14, Int 10, Wis 13, Cha 13
+Base Atk +4; CMB +7; CMD 20
+Feats Deadly Aim, Weapon Focus (spear)
+Skills Intimidate +8, Perception +8, Stealth +10, Swim +18
+Languages Aquan, Common; speak with sharks
+SQ amphibious, poison use
+SPECIAL ABILITIES
+Poison (Ex) Adaros favor a paralytic toxin secreted by the flying nettlefin pufferfish—a sticky venom that doesn’t wash away in water.
+Nettlefin Toxin: Spear—injury; save Fort DC 15; frequency 1/minute for 4 minutes; effect paralyzed for 1 minute; cure 2 consecutive saves.
+Poison Use (Ex) Adaros are skilled in the use of poison and never risk accidentally poisoning themselves.
+Rain Frenzy (Su) Adaros revere storms, and their lust for blood is amplified exponentially while it is raining. While fighting in the rain or during other stormy weather, adaros act as though affected by the rage spell. An adaro gains this benefit even if it is underwater, but only as long as it remains within a move action away from the water’s surface (50 feet for most adaros).
+Speak with Sharks (Su) An adaro can communicate telepathically with sharks to a distance of 100 feet. This communication is limited to simple concepts, such as “come,” “defend,” or “attack.”

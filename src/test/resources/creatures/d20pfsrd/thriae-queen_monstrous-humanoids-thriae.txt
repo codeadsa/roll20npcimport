@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/thriae/thriae-queen
+Thriae Queen CR 18
+XP 153,600
+LN Huge monstrous humanoid
+Init +4; Senses darkvision 60 ft., detect secret doors, low-light vision, true seeing; Perception +37
+DEFENSE
+AC 33, touch 8, flat-footed 33 (+25 natural, -2 size)
+hp 312 (25d10+175); fast healing 10
+Fort +15, Ref +14, Will +21
+Defensive Abilities merope coat; Immune poison, sonic; Resist acid 20; SR 29
+OFFENSE
+Speed 30 ft., fly 50 ft. (good)
+Melee +2 axiomatic light mace +35/+30/+25/+20 (2d6+11/19-20), sting +27 (2d8+4/19-20 plus poison)
+Space 15 ft.; Reach 15 ft.
+Special Attacks launch merope, spawn soldiers
+Spell-Like Abilities (CL 20th; concentration +29)
+Constant—detect secret doors, true seeing
+At will—daylight, detect thoughts (DC 21), greater scrying (DC 26), neutralize poison, remove disease, speak with dead (DC 22)
+3/day—charm monster (DC 23), find the path, giant vermin (8 bees or 6 wasps), mass cure critical wounds, poison (DC 23), restoration, slow (DC 22)
+1/day—foresight, mass heal, quickened regenerate
+STATISTICS
+Str 28, Dex 11, Con 25, Int 20, Wis 21, Cha 28
+Base Atk +25; CMB +36; CMD 46
+Feats Alertness, Combat Casting, Combat Expertise, Critical Focus, Greater Spell Penetration, Improved Critical (sting), Improved Critical (light mace), Improved Initiative, Improved Iron Will, Iron Will, Quicken Spell-Like Ability (regenerate), Spell Penetration, Weapon Focus (light mace)
+Skills Bluff +34, Diplomacy +34, Fly +24, Knowledge (arcana) +30, Knowledge (religion) +30, Perception +37, Sense Motive +34, Spellcraft +30, Use Magic Device +34
+Languages Common, Sylvan, Thriae; telepathy 300 ft.
+SPECIAL ABILITIES
+Launch Merope (Su) A thriae queen can launch a stream of merope from a gland in her lower body in a 60-foot line as a standard action. A thriae queen using this ability can control the purity of the merope she launches, which makes it either harm those it touches or heal them. If a thriae queen chooses to make her merope harmful, all creatures in the area of effect take 20d8 points of acid damage (Reflex DC 29 for half). In addition, any creature in the area of effect is also staggered for 1d4 rounds (or 1 round if it succeeds at its Reflex save). If she uses it to heal, the merope heals all living creatures in the area of effect for 10d8 points of damage. A thriae queen can use this ability once every 1d4 rounds. The save DC is Constitution-based.
+Merope Coat (Su) A thriae queen is covered in a thin layer of merope. This coating acts as a magical barrier between spells cast at the thriae queen, as though she were constantly under the effects of spell turning. The coat affects a maximum of eight spell levels—when a spell effect is turned, this coating is depleted by a number of spell levels equal to the level of the spell reflected. The queen regenerates this coating at a rate of one spell level per round. A spell in excess of what the merope coat can currently reflect is not reflected, and reduces the merope coat to a score of 0. Spells that fail to penetrate the queen’s spell resistance do not reduce the merope coat’s efficiency in this manner.
+Spawn Soldiers (Su) Three times per day as a standard action, a thriae queen can spawn a large swarm of wasps. This functions as four separate wasp swarms that occupy all of the squares adjacent to the thriae queen. These swarms do not harm any thriae, and while they move with the queen as she moves, the swarms cannot leave her side. The swarms last until they are destroyed or 1 hour passes, at which point the swarms die on their own.
+Poison (Ex) Sting—injury; save Fort DC 29; frequency 1/round for 6 rounds; effect 1d6 Con* plus staggered for 1 round; cure 2 consecutive saves.

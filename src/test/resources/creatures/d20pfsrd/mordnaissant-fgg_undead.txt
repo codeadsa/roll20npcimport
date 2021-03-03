@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/mordnaissant-fgg
+Mordnaissant CR 7
+XP 3,200
+NE Tiny undead
+Init +6; Senses darkvision 60 ft., lifesense; Perception +18
+DEFENSE
+AC 20, touch 20, flat-footed 18 (+6 deflection, +2 Dex, +2 size)
+hp 94 (9d8+54)
+Fort +9; Ref +5; Will +10
+Defensive Abilities channel resistance +2, shield of agony;
+Immune undead traits
+OFFENSE
+Speed 5 ft. (cannot run), fly 50 ft. (perfect)
+Melee 2 claws +10 (1d2–4)
+Ranged lash of fury +11/+6 Space 2–1/2 ft.; Reach 0 ft. (30 ft. with lash)
+Special Attacks death curse, lash of fury, pain wail
+STATISTICS
+Str 3, Dex 14, Con —, Int 7, Wis 18, Cha 23
+Base Atk +6; CMB +6; CMD 18
+Feats Ability Focus (lash of fury), Improved Initiative, Skill Focus (Perception), Weapon Finesse, Weapon Focus (ray)
+Skills Fly +19, Perception +18, Stealth +21
+SPECIAL ABILITIES
+Death Curse (Su) As a final cruel jest to the individual that puts a mordnaissant out of its misery, the slayer must make a DC 20 Will save or suffer from a terrible curse that reduces all subsequent experience points awarded by 50%. The save DC is Charisma-based.
+Lash of Fury (Su) The mordnaissant can lash out with its negative energy powers and directly attack the vitality of living creatures, in the form of a twisting stream of black energy. The mordnaissant must make a ranged touch attack against its target as an attack action. If the ray hits, the victim must make a DC 22 Fortitude save for half damage or duration, depending on the specific effect chosen by the mordnaissant. The save DC is Charismabased.
+The lash of fury has a range of 30 ft. with no range increment.
+The mordnaissant can pick from three possible lashes; it must make its choice prior to rolling the attack. The three options are:
+whip the flesh (as inflict moderate wounds, 2d8+9 damage), whip the mind (1d4 points of Intelligence damage), or whip the soul (stun 1d4+1 rounds). A critical hit doubles the damage rolled or the duration, in the case of whip the soul. Lifesense (Su) A mordnaissant notices and locates living creatures within 60 ft., just as if it possessed the blindsight ability.
+Pain Wail (Su) As a swift action, the mordnaissant can produce a terrible wailing sound that reflects the pain it experiences every moment of its existence. All living creatures within 20 ft. must make a DC 20 Will save or be dazed for one round. For every 20 points of damage the mordnaissant takes, the save DC increases by +1.
+Shield of Agony (Su) A mordnaissant harnesses the pain of its existence to shield it. It adds its Charisma modifier as a deflection bonus to its AC and CMD.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/bog-scum
+Bog Scum CR 13
+XP 25,600
+N Huge ooze (aquatic)
+Init -2; Senses blindsight 120 ft.; Perception -1
+DEFENSE
+AC 6, touch 6, flat-footed 6 (-2 Dex, -2 size)
+hp 232 (16d8+160)
+Fort +14, Ref +3, Will +4
+Defensive Abilities ooze traits; Immune acid, slashing and piercing damage; Resist cold 5
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 40 ft., climb 20 ft., swim 40 ft.
+Melee slam +18 (2d6+4 plus 2d8 acid and grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks constrict (2d6+4 plus 2d8 acid)
+STATISTICS
+Str 26, Dex 7, Con 29, Int 5, Wis 8, Cha 1
+Base Atk +12; CMB +22 (+26 grapple); CMD 30 (34 vs grapple, can’t be tripped)
+Skills Swim +24
+Feats Cleave, Great Cleave, Improved Natural Attack (slam), Power Attack, Toughness, Vital Strike
+SQ amphibious, sticky
+SPECIAL ABILITIES
+Acid (Ex) The bog scum secretes a digestive acid that dissolves organic material and metal quickly, but does not affect stone. Each time a creature suffers damage from a bog scum’s acid, the creature’s clothing and armor takes an equal amount of damage from the acid. A DC 25 Reflex save prevents damage to clothing and armor. A metal or wooden weapon that strikes the bog scum takes 2d8 acid damage unless the weapon’s wielder succeeds on a DC 25 Reflex save. If the bog scum remains in contact with a wooden or metal object for 1 full round, it inflicts 25 points of acid damage (no save) to the object.
+The acid DCs are Constitution-based. The acid damage is not doubled with a successful Vital Strike.
+Sticky (Ex) Bog scum is extremely sticky and difficult to get away from. The bog scum gains a +4 racial bonus on grapple checks.

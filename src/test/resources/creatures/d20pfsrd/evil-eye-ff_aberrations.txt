@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/evil-eye-ff
+Evil Eye CR 10
+XP 9,600
+LE Large aberration
+Init +7; Senses all-around vision, darkvision 60 ft., detect magic, see invisibility; Perception +26
+DEFENSE
+AC 23, touch 15, flat-footed 19 (+2 deflection, +3 Dex, +1 dodge, +8 natural, -1 size)
+hp 120 (16d8+48)
+Fort +8, Ref +8, Will +13
+Defensive Abilities deflection; Resist acid 5, cold 5, electricity 5, fire 5, sonic 5; DR 10/-; SR 21
+OFFENSE
+Speed 5 ft., fly 30 ft. (good)
+Melee 2 lashes +14 (1d8+1)
+Space 10 ft.; Reach 5 ft.
+Special Attacks gaze
+Spell-Like Abilities (CL 16th; concentration )
+Constant—detect magic, see invisibility
+STATISTICS
+Str 12, Dex 17, Con 16, Int 14, Wis 16, Cha 15
+Base Atk +12; CMB +14; CMD 30 (can’t be tripped)
+Feats Ability Focus (gaze), Dodge, Flyby Attack, Hover, Improved Initiative, Improved Natural Attack (lash), Weapon Finesse, Wingover
+Skills Acrobatics +22, Fly +24, Knowledge (arcana) +21, Perception +26, Spellcraft +25, Stealth +18; Racial Modifiers +4 Perception, +4 Spellcraft
+Languages telepathy 100 ft.
+
+SPECIAL ABILITIES
+Deflection (Su) Due to their quasi-divine nature, evil eyes possess a deflection bonus to their AC and CMB equal to their Charisma modifier.
+Gaze (Su) Evil eyes possess eight separate gaze attacks that have a range of 50 feet with a save DC of 22. The evil eye can only use one gaze attack each round and each gaze can only be used once every four rounds. The gaze attacks mimic the following spells with a caster level of 16: charm monster, confusion, deep slumber, enervation, flame strike, flesh to stone, hold monster, inflict critical wounds.

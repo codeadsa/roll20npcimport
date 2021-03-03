@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/cold-rider
+Cold Rider CR 8
+XP 4,800
+CE Medium fey (cold)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +18
+DEFENSE
+AC 21, touch 13, flat-footed 18 (+8 armor, +3 Dex)
+hp 97 (13d6+52); fast healing 5
+Fort +8, Ref +11, Will +10
+Defensive Abilities implements of ice; Immune cold; SR 19
+Weaknesses vulnerable to fire and sonic, susceptible to shatter
+OFFENSE
+Speed 30 ft.; icewalking
+Melee +2 icy burst glaive +12/+7 (1d10+6/x3 plus 1d6 cold) or gore +9 (2d6+3 plus 1d6 cold)
+Spell-Like Abilities (CL 10th; concentration +13)
+Constant—pass without trace
+At will—chill metal (DC 15), deep slumber (DC 16), ghost sound (DC 13), obscuring mist, phantom steed, ray of frost
+1/day—freedom of movement, ice storm
+STATISTICS
+Str 17, Dex 16, Con 18, Int 14, Wis 15, Cha 17
+Base Atk +6; CMB +9; CMD 22
+Feats Improved Initiative, Mounted Combat, Ride-By Attack, Skill Focus (Ride), Spirited Charge, Trample, Weapon Focus (glaive)
+Skills Acrobatics +19, Handle Animal +16, Intimidate +16, Knowledge (nature) +18, Perception +18, Ride +22, Sense Motive +18, Stealth +19
+Languages Common, Elven, Sylvan
+SPECIAL ABILITIES
+Icewalking (Ex) A cold rider and any creature it rides can move across icy surfaces without penalty and do not need to make Acrobatics checks to run or charge on ice. They may climb icy surfaces as if under the effects of the spider climb spell.
+Implements of Ice (Su) A cold rider wears full plate armor and wields a +2 icy burst glaive made of magical ice as hard as steel. Its armor has no armor check penalty. When a cold rider dies, its armor and glaive melt into water in 1d6 rounds.
+Susceptible to Shatter (Ex) A shatter spell deals 3d6 points of damage to a cold rider (no save) and reduces its armor bonus by 2 for 1 minute. Shatter spells automatically overcome a cold rider’s spell resistance.

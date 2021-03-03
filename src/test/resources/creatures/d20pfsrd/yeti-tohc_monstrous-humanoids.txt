@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/yeti-tohc
+Yeti CR 4
+XP 1,200
+N Large monstrous humanoid (cold)
+Init +1; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 14, touch 10, flat-footed 13 (+1 Dex, +4 natural, -1 size)
+hp 30 (4d10+8)
+Fort +5, Ref +5, Will +5
+Immune cold
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +7 (1d6+4 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks cold, frightful gaze, squeeze (2d6+6 plus 1d6 cold)
+TACTICS
+A yeti attacks with its claws, attempting to grab an opponent and squeeze it against its frigid body.
+STATISTICS
+Str 19, Dex 12, Con 14, Int 9, Wis 12, Cha 10
+Base Atk +4; CMB +9 (+13 grapple); CMD 20
+Feats Great Fortitude, Power Attack
+Skills Perception +12, Stealth +4 (+16 in snow), Survival +8; Racial Modifiers +4 Perception, +12 to Stealth in snow
+Languages Giant
+SPECIAL ABILITIES
+Cold (Ex) A yeti’s body generates intense cold, dealing 1d6 points of damage to those that contact it for at least 1 round.
+Frightful Gaze (Su) Creatures within 30 feet that meet the eyes of a yeti must succeed on a DC 12 Will save or stand paralyzed in fear (treat as a hold person spell) for 3 rounds. The save DC is Charisma-based. An affected creature does not receive a saving throw each round to break the effects. This is a mind-affecting compulsion effect. A creature that successfully saves cannot be affected again by the frightful gaze of that yeti for one day.
+Squeeze (Ex) A yeti that makes a successful grapple check against a Medium or smaller opponent pulls the opponent against its body and squeezes it with both arms, dealing 2d6+6 points of damage and d6 points of cold damage each round.

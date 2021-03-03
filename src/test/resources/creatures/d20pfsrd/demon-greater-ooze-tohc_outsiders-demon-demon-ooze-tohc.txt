@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-ooze-tohc/demon-greater-ooze-tohc
+Greater Ooze Demon CR 11
+XP 12,800
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +4; Senses darkvision 60 ft.; Perception +22
+DEFENSE
+AC 23, touch 11, flat-footed 23 (+12 natural, –1 size, +2 profane)
+hp 135 (10d10+80)
+Fort +17, Ref +3, Will +8
+DR 10/good; Immune acid, electricity, ooze traits; Resist cold 10, fire 10; SR 22
+OFFENSE
+Speed 30 ft.
+Melee slam +16 (1d6+10 plus 1d4 acid plus grab) or bite +17 (1d6+7 plus 1d4 acid), 2 claws +16 (1d4+7 plus 1d4 acid)
+Space 10 ft.; Reach 10 ft.
+Special Attacks acid, vomit acid (40-ft. line, 4d6 acid, Ref DC 23 half, usable every 1d4 rounds)
+Spell-Like Abilities (CL 12th)
+1/day—summon (level 7, 2d4 lesser ooze demons or 1 greater ooze demon 35%)
+STATISTICS
+Str 24, Dex 10, Con 26, Int 12, Wis 12, Cha 14
+Base Atk +10; CMB +18 (+22 grapple); CMD 28
+Feats Blind-Fight, Great Fortitude, Improved Initiative, Power Attack, Weapon Focus (bite)
+Skills Climb +20, Escape Artist +13, Intimidate +15, Knowledge (planes) +14, Perception +22, Stealth +9, Survival +14; Racial Modifiers +8 Perception
+Languages Abyssal, Common; telepathy 100 ft.
+SPECIAL ABILITIES
+Acid (Ex) The acidic body of a greater ooze demon quickly dissolves organic material and metal, but not stone. Any melee hit deals acid damage. Armor or clothing dissolves and becomes useless immediately unless it makes a successful DC 23 Reflex save. A metal or wooden weapon that strikes a greater ooze demon dissolves immediately unless it makes a successful DC 23 Reflex save. The save DCs are Constitution-based.
+The greater ooze demon’s acidic touch deals 23 points of acid damage per round to creatures or wooden or metal objects, but the greater ooze demon must remain in contact with the object for 1 full round to deal this damage.

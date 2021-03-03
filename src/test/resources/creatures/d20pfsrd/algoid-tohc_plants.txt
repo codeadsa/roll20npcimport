@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/algoid-tohc
+Algoid CR 4
+XP 1,200
+N Medium plant (fungus, psionic)
+Init +0; Senses low-light vision; Perception +12
+DEFENSE
+AC 16, touch 10, flat-footed 16 (+6 natural)
+hp 37 (5d8+15)
+Fort +7; Ref +1; Will +3
+DR 5/bludgeoning and magic; Immune electricity, fire, plant traits
+Weaknesses vulnerability to water
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +8 (1d6+4)
+Special Attacks animate trees, mind blast, stun
+Psi-like Abilities (ML 5th)
+At will—detect psionics, know direction and location
+1/day—energy push (3d6, DC 13)
+STATISTICS
+Str 19, Dex 10, Con 16, Int 4, Wis 10, Cha 10
+Base Atk +3; CMB +7; CMD 17
+Feats Iron Will, Skill Focus (Perception), Weapon Focus (slam)
+Skills Perception +12, Stealth +10 (+18 in swamps and forests); Racial Modifiers +4 Perception, +4 Stealth (+12 Stealth in swamps and forests)
+Languages Common (can’t speak)
+SPECIAL ABILITIES
+Animate Trees (Su) An algoid can animate trees within 90 feet at will, controlling up to two trees at a time. It takes 1 full round for a normal tree to uproot itself. Thereafter, it moves at a speed of 10 feet and fights using the stats below. Animated trees lose their ability to move if the algoid that animated them is incapacitated or moves out of range. This ability is otherwise similar to liveoak.
+Animated Tree:
+CR 4; N Huge plant; Init -1; Senses low-light vision;
+AC 16 (-1 Dex, +9 natural, -2 size), touch 7, flat-footed 16; hp 37 (5d8+15); Saves Fort +7, Ref +0, Will +2; DR 5/slashing; Immune plant traits; Weaknesses vulnerability to fire;
+Spd 30 ft.; Atk 2 slams +7 (2d6+5); Space/Reach 15 ft./15 ft.; SA double damage against objects (full attack deals double damage), trample (2d6+7, DC 17);
+Str 21, Dex 8, Con 17, Int 4, Wis 12, Cha 10; BAB +3; CMB +10; CMD 19; Feats Improved Sunder, Power Attack, Weapon Focus (slam); Skills Perception +5
+Mind Blast (Sp) Once per day, an algoid can use a mind blast in a 60-foot cone. Any creature caught in the cone must succeed on a DC 14 Will save or be stunned for 3d4 rounds. The save DC is Charisma-based and includes a +2 racial bonus.
+Stun (Ex) If an algoid scores a critical hit with a slam attack, the opponent struck must succeed on a DC 16 Fortitude save or be stunned for 1d2 rounds. The save DC is Strength-based.
+Vulnerability to Water (Ex) A control water spell deals 1d6 points of damage per caster level (maximum 10d6) to an algoid (no save).

@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-hill/hill-giant-soulless-fgg
+Soulless Hill Giant CR 8
+XP 4,800
+N Large humanoid (giant)
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 21, touch 8, flat-footed 21 (+4 armor, –1 Dex, +9 natural, –1 size)
+hp 95 (10d8+50)
+Fort +12, Ref +2, Will +2
+Defensive Abilities rock catching; Immune critical hits, fear, positive and negative energy, soul-affecting magic
+Weaknesses soulless
+OFFENSE
+Speed 40 ft. (30 ft. in armor)
+Melee greatclub +14/+9 (2d8+10) or 2 slams +13 (1d8+7)
+Ranged rock +6 (1d8+10)
+Space 10 ft.; Reach 10 ft.
+Special Attacks abyssal stare (DC 18), rock throwing (120 ft.)
+STATISTICS
+Str 25, Dex 8, Con 21, Int 6, Wis 8, Cha 11
+Base Atk +7; CMB +15; CMD 24
+Feats Ability Focus (abyssal stare)B, Cleave, Intimidating Prowess, Martial Weapon Proficiency (greatclub), Power Attack, Weapon Focus (greatclub)
+Skills Climb +10, Intimidate +18, Perception +5; Racial Modifiers +4 Intimidate
+Languages Giant
+SQ bound soul, divine exclusion, vessel of Orcus
+Fear A soulless creature has already confronted the black infinity that lies beyond the mortal coil. It does not fear anything.
+Positive and Negative Energy This includes effects linked to positive and negative energy such cure and inflict spells, ability and level damage and drain and abilities that modify or alter a cleric’s channel energy ability.
+Soul Magic The soulless creature is immune to all types of magic that manipulate or affect the soul such as magic jar or soul bind.
+Abyssal Stare (Su) As a standard action a soulless creature can stare into the eyes of another living being within 30 feet and force it to confront the infinite, empty void beyond death. Targets who fail a Will save (DC 10 +1/2 soulless HD + Charisma modifier) waver in their will to survive and take a –4 penalty to all saves and skill and ability checks for 1d4 rounds. Divine casters are particularly disturbed. They must succeed on a caster level check (20 + spell level) to cast a divine spell while under the effect of abyssal stare or the spell is lost. Creatures affected by the abyssal stare gaze are immune to other uses of the stare for 24 hours. This is a mindaffecting, fear effect.
+Bound Soul (Ex) The soul of a soulless creature resides in a special prison in the Abyss. This soul cannot return to the base creature without the permission of Orcus. A soulless creature cannot be raised or resurrected, nor do these spells have any effect on a soulless creature.
+Divine Exclusion (Ex) The soulless creature has no connection to the divine. A soulless creature cannot take levels in any divine class, cast divine spells, or use magic items constructed with spells found only on a divine caster’s spell list.
+Vessel of Orcus (Su) By manipulating an imprisoned soul Orcus can possess a soulless creature, enabling the demon lord to see and hear through the soulless creature’s body.
+Base Template
+Soulless (CR +1) Base Creature
+Hill Giant

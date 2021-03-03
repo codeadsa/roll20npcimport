@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-black/black-dragon-wyrmling
+Wyrmling Black Dragon CR 3
+XP 800
+CE tiny dragon (water)
+Init +3; Senses dragon senses; Perception +9
+DEFENSE
+AC 18, touch 15, flat-footed 15 (+3 Dex, +3 natural, +2 size)
+hp 30 (4d12+4)
+Fort +5, Ref +7, Will +4
+Immune acid, paralysis, sleep
+OFFENSE
+Speed 60 ft., fly 100 ft. (average), swim 60 ft.
+Melee bite +6 (1d4), 2 claws +6 (1d3)
+Space 2.5 ft.; Reach 0 ft. (5 ft. with bite)
+Special Attacks breath weapon (30 ft. line, DC 13, 2d6 acid)
+STATISTICS
+Str 11, Dex 16, Con 13, Int 8, Wis 11, Cha 8
+Base Atk +4; CMB +5; CMD 15 (19 vs. trip)
+Feats Alertness, Skill Focus (Stealth)
+Skills Fly +14, Intimidate +6, Perception +9, Stealth +21, Swim +15; Racial Modifiers +8 Swim
+Languages Draconic
+SQ water breathing
+SPECIAL ABILITIES
+Water Breathing (Ex) A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.

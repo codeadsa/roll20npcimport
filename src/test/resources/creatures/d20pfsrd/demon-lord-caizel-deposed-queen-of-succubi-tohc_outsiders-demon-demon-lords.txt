@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-caizel-deposed-queen-of-succubi-tohc
+Caizel (Deposed Queen of Succubi) CR 16
+XP 76,800
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +6; Senses darkvision 60 ft.; Perception +40
+DEFENSE
+AC 36, touch 24, flat-footed 30 (+6 Dex, +12 natural, +8 profane)
+hp 207 (18d10+108)
+Fort +17, Ref +14, Will +20
+DR 15/cold iron and good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 27
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee +2 dagger +27/+22/+17/+12 (2d4+8/19–20) or 2 claws +25 (1d6+6) or melee touch +24 (touch of ecstasy)
+Special Attacks poison
+Spell-Like Abilities (CL 20th)
+At will—charm monster (DC 26), darkness, desecrate, detect good, detect law, detect thoughts, doom (DC 19), ethereal jaunt (self plus 50 pounds of objects only), greater teleport (self plus 50 pounds of objects only), read magic, suggestion (DC 21), tongues (self only)
+3/day—greater dispel magic, protection from good, unholy blight (DC 22 partial), wall of fire
+1/day—magic circle against good, mirror image, summon (level 9, 1d6 succubi or 1d2 hezrous 100% or 1d4 chaaors 70%)
+TACTICS
+Caizel tries to avoid melee combat if possible, preferring to use her skills and abilities against a lone target that she can easily manipulate and control. If forced into combat, she immediately uses her summon demons ability to summon a pack of hezrous to her aid. After summoning her demonic allies, she throws up a protection from good or magic circle against good and uses her wall of fire ability against her aggressors. In battle, she uses her touch of ecstasy ability to disable opponents and then finishes them off with a kiss or allows her comrades to finish them off. If combat is going against her, she uses her ethereal jaunt or greater teleport to escape.
+STATISTICS
+Str 23, Dex 22, Con 23, Int 25, Wis 25, Cha 27
+Base Atk +18; CMB +24; CMD 48
+Feats Alertness, Blind-Fight, Combat Reflexes, Deceitful, Flyby Attack, Iron Will, Lightning Reflexes, Weapon Focus (claw), Weapon Focus (dagger)
+Skills Bluff +33, Diplomacy +29, Disguise +33, Escape Artist +27, Fly +31, Intimidate +26, Knowledge (planes) +28, Perception +40, Perform (acting) +26, Perform (dancing) +29, Sense Motive +32, Stealth +27, Survival +25; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common, Infernal, Sylvan, Undercommon; telepathy 100 ft.
+Gear Bonerazor
+SPECIAL ABILITIES
+Poison (Ex) Caizel’s body courses with a virulent poison that she can intensify or suppress at will. It is not secreted through her skin (therefore her touch is not poisonous); rather it is delivered through the exchange of body fluids with another creature (kissing, consummating an encounter, etc.). If a target is not willing to be kissed, she must start a grapple to do so.
+Caizel’s Poison: Kiss—contact; save Fort DC 25; frequency 1/round for 6 rounds; effect 1d8 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.
+Touch of Ecstasy (Su) Once per round, by making a melee touch attack against a foe, Caizel can flood the creature’s mind with the most pleasurable images it can conjure if it fails a DC 25 Will save. This effect stuns the creature for 1d4 rounds while its mind processes the information. A creature that successfully saves cannot be affected by Caizel’s touch of ecstasy for one day. The save DC is Constitution-based. Caizel can suppress this ability at will.
+GEAR Unique Item: Bonerazor
+Bonerazor is a finely crafted and perfectly balanced +2 dagger. Because of its expert craftsmanship it deals 2d4 points of damage on a successful hit. Additionally, a creature hit must make a DC 25 Fortitude save or be held (as by a hold person spell, CL 20th). The creature can make a new save each round to escape. A creature remains held as long as Bonerazor remains embedded in its body or until it makes a successful Fortitude save. So long as Caizel is within 50 feet of it, she can command the dagger to return to her hand as a free action.

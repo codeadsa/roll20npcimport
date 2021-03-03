@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-barracuda/dire-barracuda-CR-5
+Dire Barracuda CR 5
+XP 1,600
+N Huge animal ( aquatic)
+Init +5; Senses low-light vision; Perception +9 DEFENSES
+AC 15, touch 10, flat-footed 13 (+1 Dex, +1 dodge, +5 natural, -2 size)
+hp 60 (8d8+24)
+Fort +8, Ref +6, Will +3 OFFENSE
+Speed swim 90 ft.
+Melee bite +11 (2d8+10 plus grab)
+Special Attacks savage (2d8+10)
+STATISTICS
+Str 24, Dex 13, Con 16, Int 1, Wis 13, Cha 7
+Base Atk +6; CMB +15 (+19 with grapple); CMD 26
+Feats Dodge, Improved Initiative, Skill Focus (Perception)
+Skills Perception +9, Swim +10; Racial +8 on Swim checks to perform a special action or avoid a hazard
+SPECIAL ABILITIES
+Savage (Ex)
+A dire barracuda deals 2d8+10 points of damage with a successful grapple check.
+Skills
+A dire barracuda can always choose to take 10 on a Swim check, even if rushed or threatened.
+Source WP Clipart

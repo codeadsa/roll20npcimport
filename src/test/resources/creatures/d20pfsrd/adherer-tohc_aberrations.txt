@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/adherer-tohc
+Adherer CR 3
+XP 800
+LE Medium aberration
+Init +1; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 26 (4d8+8)
+Fort +3; Ref +2; Will +4
+DR 5/piercing
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +6 (1d6+2 plus adhesive)
+Special Attacks adhesive
+STATISTICS
+Str 14, Dex 12, Con 14, Int 4, Wis 11, Cha 11
+Base Atk +3; CMB +5; CMD 16
+Feats Skill Focus (Perception), Weapon Focus (slam)
+Skills Perception +8, Stealth +6 (+14 Stealth when using sticks and leaves to camouflage itself in its natural environment); Racial Modifiers +8 Stealth when using sticks and leaves to camouflage itself in its natural environment
+Languages Common (can’t speak)
+SPECIAL ABILITIES
+Adhesive (Ex) An adherer exudes a sour smelling glue-like substance that acts as a powerful adhesive, holding fast any creatures or items touching it, except for items made of stone. The adherer automatically grapples any creature it hits with its slam attack. Opponents so grappled cannot break free while the adherer is alive without removing the adhesive first.
+A weapon that strikes an adherer is stuck fast unless the wielder succeeds on a DC 14 Reflex save. A successful DC 14 Strength check is needed to pry it off. The save and check DC are both Constitution-based.
+An application of boiling water thrown on the adherer deals 1d4 points of damage to it (and to any creature stuck to it). It also reduces both the Reflex save DC and the Strength check DC to 10 for 1 round. An application of fire deals damage to both the adherer and any creature stuck to it and weakens the adhesive (as above) for 1d3 rounds. An application of the universal solvent automatically dissolves the adhesive. An adherer can dissolve its adhesive at will, and the substance breaks down 1 hour after the creature dies.

@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/primates/primate-marmoset-giant-tohc
+Giant Marmoset
+CR 1
+XP 400
+N Medium animal
+Init +2; Senses low-light vision, scent; Perception +11
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 16 (3d8+3)
+Fort +4, Ref +5, Will +1
+OFFENSE
+Speed 40 ft., climb 30 ft.
+Melee 2 claws +4 (1d4), bite +4 (1d6) or 2 claws +4 (1d4), tail slap –1 (1d6)
+STATISTICS
+Str 10, Dex 15, Con 13, Int 2, Wis 11, Cha 10
+Base Atk +2; CMB +2; CMD 14 (18 vs. trip)
+Feats Skill Focus (Perception), Weapon Finesse
+Skills Climb +12, Perception +11, Stealth +6; Racial Modifiers +4 Perception

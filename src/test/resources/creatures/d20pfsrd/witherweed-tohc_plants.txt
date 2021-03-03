@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/witherweed-tohc
+Witherweed CR 4
+XP 1,200
+N Large plant
+Init +0; Senses blindsight 30 ft; Perception +1
+DEFENSE
+AC 13, touch 9, flat-footed 13 (+4 natural,-1 size)
+hp 37 (5d8+15)
+Fort +7, Ref +1, Will +2
+Defensive Abilities camouflage; Immune plant traits
+OFFENSE
+Speed 0 ft.
+Melee 5 fronds +5 (1d4+3 plus 1d4 Dex)
+Space 10 ft.; Reach 10 ft.
+Special Attacks death smoke
+TACTICS
+A witherweed attacks any living creature that comes within 10 feet of it, slashing and striking with its fronds. Slain creatures are devoured as the witherweed releases enzymes to break down its food and absorbs the nutrients.
+STATISTICS
+Str 16, Dex 10, Con 16, Int –, Wis 13, Cha 9
+Base Atk +3; CMB +7; CMD 17 (can’t be tripped)
+SPECIAL ABILITIES
+Camouflage (Ex) A witherweed looks like normal grass and weeds when at rest; it takes a DC 20 Perception check to notice it before it attacks. Anyone with ranks in Survival or Knowledge (nature) can use one of those skills instead of Perception to notice the plant. Dwarves can use stonecunning to notice the subterranean version.
+Death Smoke (Ex) A witherweed that takes at least 1 point of damage from a fire effect releases a cloud of deadly smoke that billows forth and quickly fills a 20-foot radius surrounding it. Creatures within the area must succeed on a DC 15 Fortitude save or take 1d6 points of Constitution damage. One minute later, another Fortitude save (same DC) must be made to avoid another 2d6 points of Constitution damage. The save DCs are Constitution-based.
+The cloud remains for 1 round per HD of the witherweed but a strong wind (21+ mph) disperses the cloud in 1 round.

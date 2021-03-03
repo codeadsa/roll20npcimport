@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-gelatinous-tohc
+Gelatinous Golem CR 10
+XP 9,600
+N Large construct
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +19
+DEFENSE
+AC 24, touch 10, flat-footed 23 (+1 Dex, +14 natural, –1 size)
+hp 114 (13d10+30 plus 13)
+Fort +6; Ref +7; Will +6
+DR 10/bludgeoning and magic; Immune construct traits, electricity, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +19 (2d6+6 plus 2d6 acid and paralysis)
+Space 10 ft.; Reach 10 ft.
+Special Attacks acid, engulf, paralysis (3d6 rounds, DC 16)
+STATISTICS
+Str 22, Dex 12, Con —, Int 3, Wis 11, Cha 1
+Base Atk +8; CMB +15; CMD 26
+Feats Great Fortitude, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Perception), Toughness, Weapon Focus (slam)
+Skills Perception +19
+SQ transparent
+SPECIAL ABILITIES
+Acid (Ex) A gelatinous golem’s acid does not harm metal or stone.
+Engulf (Ex) A gelatinous golem can try to wrap an opponent up to one size smaller than itself in its body as a standard action. The gelatinous golem attempts a grapple that does not provoke an attack of opportunity. If it wins the grapple the gelatinous golem establishes a hold. Attacks that hit an engulfing gelatinous golem deal half their damage to the golem and half to the engulfed victim.
+An engulfed opponent is subjected to the gelatinous golem’s paralysis and acid each round it remains trapped. A trapped opponent can do nothing other than attempt to escape. Further, an engulfed foe must hold its breath or begin drowning (see the Core Rulebook for the drowning rules).
+While engulfing an opponent, a gelatinous golem is not considered grappled and can move and attack normally.
+Immunity to Magic (Ex) A gelatinous golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A cone of cold spell slows it (as the slow spell) for 2d6 rounds, with no saving throw.
+An acid fog spell heals all of its lost hit points.
+Transparent (Ex) A gelatinous golem is hard to see, even under ideal conditions, and it takes a DC 15 Perception check to notice one. Creatures who fail to notice a gelatinous golem and walk into it are automatically grappled (if the golem chooses to grapple the opponent).

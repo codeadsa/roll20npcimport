@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-greruor-frog-demon-tohc
+Frog Demon (Greruor) CR 10
+XP 9,600
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +7; Senses darkvision 60 ft., see invisibility; Perception +27
+DEFENSE
+AC 27, touch 15, flat-footed 24 (+3 Dex, +12 natural, –1 size, +3 profane)
+hp 115 (10d10+60)
+Fort +13, Ref +10, Will +5
+DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 21
+OFFENSE
+Speed 40 ft.
+Melee bite +16 (2d6+7) or tongue +16 (grab) or ranseur +16/+11 (2d6+10/x3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks acid and fire spittle
+Spell-Like Abilities (CL 10th)
+Constant—see invisibility
+At will—confusion (DC 18), deeper darkness, hold person (DC 16), detect good, shatter (DC 15)
+2/day—blasphemy (DC 21)
+1/day—summon (level 9, 1 greruor 35%)
+TACTICS
+During Combat Greruors enjoy combat and seek it wherever they can find it. Normally they rely on their natural attacks, spittle, and weapons to fell opponents. If outmatched, they use confusion to disorient opponents, followed closely by shatter. Grabbed opponents are often held in the mouth of one greruor while another stabs the victim with its ranseur.
+STATISTICS
+Str 24, Dex 17, Con 22, Int 14, Wis 14, Cha 16
+Base Atk +10; CMB +18 (+22 grapple); CMD 34
+Feats Alertness, Cleave, Improved Initiative, Improved Sunder, Power Attack
+Skills Acrobatics +3 (+23 jump), Climb +20, Escape Artist +24, Intimidate +16, Knowledge (planes) +15, Perception +27, Sense Motive +19, Stealth +12, Survival +15; Racial Modifiers +8 Escape Artist, +8 Perception, +20 Acrobatics to jump
+Languages Abyssal, Common; telepathy 100 ft.
+Gear ranseur
+SPECIAL ABILITIES
+Acid and Fire Spittle (Ex) Once every 1d4 rounds, a greruor can spit a 30-ft. long line of acid that deals 4d4 points of acid damage. On the greruor’s next turn, the acid ignites and the opponent bursts into flames taking 1d6 points of fire damage per round until extinguished. A successful DC 21 Reflex save halves the acid damage and prevents the creature from catching fire. The save DC is Constitution-based.

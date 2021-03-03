@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-mezzalorn-wasp-demon-tohc
+Wasp Demon (Mezzalorn) CR 11
+XP 12,800
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +5; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 27, touch 14, flat-footed 22 (+5 Dex, +13 natural, –1 size)
+hp 138 (12d10+72)
+Fort +14, Ref +15, Will +7
+DR 10/cold iron; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 22
+OFFENSE
+Speed 10 ft., fly 50 ft. (good)
+Melee sting +16 (2d6+4 plus poison), 2 claws +16 (1d6+4 plus grab)
+Space 10 ft.; Reach 5 ft.
+Spell-Like Abilities (CL 12th)
+At will—chaos hammer (DC 17), greater teleport (self plus 50 pounds of objects only)
+3/day—blasphemy (DC 20), unholy blight (DC 17)
+1/day—word of chaos (DC 20), summon (level 4, 4d10 dretches, 1d4 babaus, 1 mezzalorn 35%)
+TACTICS
+Mezzalorn tactics are simple and straightforward: fly into battle, sting a foe repeatedly until it dies. Often a mezzalorn grabs a foe, flies upward away from the opponent’s allies, and stings its grappled victim until it dies, dropping the carcass without thought or care before wading back into the battle. Mezzalorn’s hate stirge demons and fly demons and attack them on sight.
+STATISTICS
+Str 18, Dex 21, Con 23, Int 13, Wis 16, Cha 16
+Base Atk +12; CMB +17 (+21 grapple); CMD 32 (36 vs. trip)
+Feats Ability Focus (poison), Blind-Fight, Cleave, Lightning Reflexes, Power Attack, Weapon Finesse
+Skills Bluff +17, Escape Artist +20, Fly +11, Intimidate +18, Knowledge (planes) +16, Perception +18, Stealth +16, Survival +18
+Languages Abyssal, Common; telepathy 100 ft.
+SQ pheromones
+SPECIAL ABILITIES
+Pheromones (Ex) When reduced to half or less of its normal hit points, a mezzalorn releases a pheromone that heightens the aggression of all other mezzalorns within a 50-foot radius. Affected mezzalorns gain a +2 morale bonus on attack and damage rolls for the rest of the encounter.
+Poison (Ex) Sting—injury; save Fort DC 22; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 2 consecutive saves. The save DC is Constitution-based and includes a +2 bonus from the mezzalorn’s Ability Focus feat.

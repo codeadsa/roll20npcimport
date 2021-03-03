@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/ant-lion-giant
+Giant Ant Lion CR 5
+XP 1,600
+N Large vermin
+Init +0; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +0
+DEFENSE
+AC 19, touch 9, flat-footed 19 (+10 natural, -1 size)
+hp 60 (8d8+24)
+Fort +9, Ref +2, Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., burrow 10 ft.
+Melee bite +10 (2d8+7 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks sand trap
+STATISTICS
+Str 20, Dex 11, Con 17, Int —, Wis 11, Cha 10
+Base Atk +6; CMB +12 (+16 grapple); CMD 22 (30 vs. trip)
+SPECIAL ABILITIES
+Sand Trap (Ex) A giant ant lion can create a 60-foot-diameter, 20-foot-deep pit in any sand or soft earth surface. Creating a sand trap takes 1 hour. A DC 15 Perception check allows a creature to realize such a depression in the sand is in fact a trap. Any creature that steps into the trap slides to the center if it fails a DC 14 Reflex save—such victims take no damage, but they do fall prone. A giant ant lion can make an attack of opportunity against any creature that falls to the bottom of its sand trap. These creatures can move across sand traps at their normal speed and are immune to the trap’s effects. Other creatures can navigate the trap’s walls with a DC 20 Climb check.

@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-barracuda/barracuda-large-TOHC
+Giant Barracuda CR 5
+XP 1,600
+N Large animal (aquatic)
+Init +1; Senses low-light vision; Perception +13
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 59 (7d8+21) plus 7
+Fort +8, Ref +6, Will +3
+OFFENSE
+Speed swim 50 ft.
+Melee bite +10 (1d8+7/19–20)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 20, Dex 13, Con 17, Int 1, Wis 12, Cha 2
+Base Atk +5; CMB +11; CMD 22 (can’t be tripped)
+Feats Improved Critical (bite), Power Attack, Skill Focus (Perception), Toughness, Weapon Focus (bite)B
+Skills Perception +13, Swim +17

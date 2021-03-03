@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/death-dog-tohc
+Death Dog CR 2
+XP 600
+NE Medium magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +9
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 18 (2d10+4 plus 3)
+Fort +5, Ref +5, Will +1
+OFFENSE
+Speed 40 ft.
+Melee 2 bites +4 (1d6+1 plus rotting death and trip)
+STATISTICS
+Str 13, Dex 15, Con 15, Int 4, Wis 12, Cha 6
+Base Atk +2; CMB +3; CMD 15 (19 vs. trip)
+Feats ToughnessB, Weapon Finesse
+Skills Perception +9, Stealth +6, Survival +1 (+5 tracking by scent); Racial Modifiers +4 Perception, +4 Survival when tracking by scent.
+SPECIAL ABILITIES
+Rotting Death (Su) Curse and disease: Bite—bite; save Fort DC 13; onset 1 day; frequency 1/day; effect 1d6 Con; cure —.
+Rotting death is both a curses and disease and can only be cured if the curse is first removed, at which point the disease can be magically removed. The save DC is Dexterity-based.

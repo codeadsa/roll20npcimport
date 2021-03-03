@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/cat-great/tiger/dire-tiger
+Tiger, Dire (Smilodon) CR 8
+XP 4,800
+N Large animal
+Init +6; Senses low-light vision, scent; Perception +12
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, –1 size)
+hp 105 (14d8+42)
+Fort +12, Ref +11, Will +5
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +18 (2d4+8 plus grab), bite +18 (2d6+8/19–20 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks pounce, rake (2 claws +18, 2d4+8)
+STATISTICS
+Str 27, Dex 15, Con 17, Int 2, Wis 12, Cha 10
+Base Atk +10; CMB +19 (+23 grapple); CMD 31 (35 vs. trip)
+Feats Improved Critical (bite), Improved Initiative, Run, Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (bite, claw)
+Skills Acrobatics +6, Perception +12, Stealth +15 (+23 in tall grass), Swim +13; Racial Modifiers +4 Acrobatics, +4 Stealth (+8 in tall grass)

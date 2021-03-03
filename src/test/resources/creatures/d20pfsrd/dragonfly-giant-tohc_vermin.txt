@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/dragonfly-giant-tohc
+Giant Dragonfly CR 4
+XP 1,200
+N Medium vermin
+Init +5; Senses darkvision 60 ft.; Perception +1
+DEFENSE
+AC 18, touch 15, flat-footed 13 (+5 Dex, +3 natural)
+hp 45 (7d8+14)
+Fort +7; Ref +7; Will +3
+Immune vermin traits
+OFFENSE
+Speed 20 ft., fly 80 ft. (perfect)
+Melee bite +11 (1d10+9)
+TACTICS
+Giant dragonflies are very aggressive and hunt warm-blooded creatures fearlessly, attacking until either they or their prey are dead.
+STATISTICS
+Str 23, Dex 21, Con 14, Int —, Wis 12, Cha 6
+Base Atk +5; CMB +11; CMD 26 (34 vs. trip)
+Skills Fly +13

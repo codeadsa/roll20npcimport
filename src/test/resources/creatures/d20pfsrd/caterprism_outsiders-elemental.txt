@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/caterprism
+Caterprism CR 6
+XP 2,400
+N Large outsider (earth, elemental, extraplanar)
+Init +1; Senses darkvision 60 ft., tremorsense; Perception +8
+DEFENSE
+AC 20, touch 10, flat-footed 19 (+1 Dex, +10 natural, –1 size)
+hp 57 (6d10+24)
+Fort +9; Ref +6; Will +5
+SR 18
+OFFENSE
+Speed 30 ft., burrow 20 ft.
+Melee bite +11 touch (1d6+5) or 4 claws +10 (1d6+5)
+Space 10 ft.; Reach 5 ft.
+Special Attacks crystal breath, crystalline mandibles
+STATISTICS
+Str 20, Dex 12, Con 18, Int 4, Wis 13, Cha 11
+Base Atk +6; CMB +12; CMD 23 (can’t be tripped)
+Feats Iron Will, Power Attack, Weapon Focus (bite)
+Skills Climb +12, Perception +8, Stealth +6, Survival +8
+SPECIAL ABILITIES
+Crystal Breath (Ex) Three times per day, as a standard action, a caterprism can spew forth a crystalline silk-like substance in a cone to a range of 20 feet. The substance instantly solidifies to a rock-like hardness, forming needlesharp spears of crystal that impale those in the area and deal 3d6 points of piercing damage. A DC 17 Reflex save halves the damage. The save DC is Constitution-based.
+Crystalline Mandibles (Ex) The mandibles of a caterprism are so sharp that they can bite through nearly anything. The bite attack of a caterprism is treated like a touch attack; i.e., it ignores any armor bonus. Further, the bite of a caterprism is considered to have the vorpal special quality, and on a successful critical hit with its bite attack, the caterprism severs the head of its opponent.

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/neothelid
+Neothelid CR 15
+XP 51,200
+CE Gargantuan aberration
+Init +2; Senses blindsight 100 ft., trace teleport 60 ft.; Perception +25
+DEFENSE
+AC 30, touch 4, flat-footed 30 (–2 Dex, +26 natural, –4 size)
+hp 230 (20d8+140)
+Fort +15, Ref +4, Will +16
+DR 10/cold iron; SR 26
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee 4 tongues +21 (3d6+10/19–20 plus grab)
+Space 20 ft.; Reach 20 ft.
+Special Attacks breath weapon (50-ft. cone, 14d10 acid, Reflex DC 27 half, once every 1d4 rounds), mind thrust, psychic crush, swallow whole (2d6+10 plus 2d6 acid, AC 23, hp 23)
+Spell-Like Abilities (CL 20th)
+Constant—fly
+At will—detect thoughts (DC 17), charm monster (DC 19), clairvoyance/clairaudience, suggestion (DC 18), telekinesis (DC 20), teleport, poison (DC 19)
+3/day—quickened suggestion (DC 18)
+STATISTICS
+Str 30, Dex 7, Con 24, Int 16, Wis 15, Cha 21
+Base Atk +15; CMB +29 (+33 grapple); CMD 37 (can’t be tripped)
+Feats Cleave, Great Cleave, Great Fortitude, Improved Bull Rush, Improved Critical (tongue), Improved Initiative, Improved Overrun, Iron Will, Power Attack, Quicken Spell-Like Ability (suggestion)
+Skills Bluff +25, Climb +33, Diplomacy +25, Fly –4, Intimidate +28, Knowledge (arcana) +26, Perception +25, Spellcraft +26
+Languages Aklo, Terran, Undercommon; telepathy 100 ft.
+SPECIAL ABILITIES
+Mind Thrust (Su) As a standard action up to three times a day, a neothelid can deliver a massive blast of mental energy at any one target within 60 feet, inflicting 15d10 points of damage. A successful DC 25 Will save negates the effect. This effect can only harm creatures with Intelligence scores. This is a mind-affecting effect. The save DC is Charisma-based.
+Psychic Crush (Su) As a standard action up to three times a day, a neothelid can attempt to crush the mind of a single creature within 60 feet. The target must make a DC 25 Will save or collapse, becoming unconscious and dying at –1 hit points. If the target succeeds on the save, it takes 6d6 points of damage and is sickened for 1 round. This is a mind-affecting effect. The save DC is Charisma-based.
+Trace Teleport (Ex) A neothelid telepathically and reflexively learns the mental coordinates of the destination, of all creatures that teleport within 60 feet of it, gaining an awareness of the location equivalent to “seen casually.” This knowledge fades and is lost after 1 minute. This power does not grant any environmental information about the conditions of the destination.

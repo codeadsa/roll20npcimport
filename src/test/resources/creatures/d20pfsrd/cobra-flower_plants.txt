@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/cobra-flower
+Cobra Flower CR 4
+XP 1,200
+N Large plant
+Init +1; Senses blindsight 30 ft., low-light vision; Perception +1
+DEFENSE
+AC 14, touch 10, flat-footed 13 (+1 Dex, +4 natural, –1 size)
+hp 45 (6d8+18)
+Fort +8; Ref +3; Will +3
+Immune plant traits
+OFFENSE
+Speed 5 ft.
+Melee bite +6 (1d8+4 plus 1d6 acid and grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (1d8+4 plus 1d6 acid)
+STATISTICS
+Str 17, Dex 13, Con 16, Int —, Wis 13, Cha 9
+Base Atk +4; CMB +8 (+12 grapple); CMD 19 (can’t be tripped)

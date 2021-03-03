@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kyton/kyton-sacristan
+Sacristan CR 10
+XP 9,600
+LE Medium outsider (evil, extraplanar, kyton, lawful)
+Init +3; Senses darkvision 60 ft.; Perception +17
+DEFENSE
+AC 22, touch 13, flat-footed 19 (+3 Dex, +9 natural)
+hp 126 (12d10+60); regeneration 5 (good spells and weapons, silver)
+Fort +13, Ref +7, Will +10
+DR 10/silver or good; Immune cold; SR 21
+OFFENSE
+Speed 30 ft.
+Melee mwk spiked chain +18/+13/+8 (2d4+7) or 2 claws +17 (1d4+5)
+Space 5 ft.; Reach 5 ft. (10 ft. with spiked chain)
+Special Attacks shadow scream, unnerving gaze (30 ft., DC 18)
+STATISTICS
+Str 20, Dex 16, Con 21, Int 13, Wis 14, Cha 15
+Base Atk +12; CMB +17 (+19 bull rush); CMD 30 (32 vs. bull rush)
+Feats Bleeding Critical, Cleave, Critical Focus, Great Cleave, Improved Bull Rush, Power Attack
+Skills Acrobatics +15, Bluff +17, Climb +17, Intimidate +17, Perception +17, Sense Motive +17, Stealth +18
+Languages Common, Infernal
+SPECIAL ABILITIES
+Shadow Scream (Su) Once per hour as a standard action, a sacristan can burst the bonds sealing its mouth and unleash a cacophony of darkness and soul-shaking howls from the pits of the Shadow Plane. The area within 25 feet of the sacristan is affected by deeper darkness. All creatures within the area are deafened for as long as they remain in the area and must succeed at a DC 18 Will save or be confused. The confusion effect lasts for as long as the creature is in the shadow scream’s area of effect and for 1d4 rounds after leaving. Any creature that falls unconscious while under the effects of this confusion effect must succeed at an additional DC 18 Will save or be afflicted by a random insanity—roll on the insanity table to determine which. A sacristan’s shadow scream lasts for 3 rounds and remains centered on the kyton even if it moves. The sacristan can end the shadow scream at will. The scream also ends if the sacristan is killed or is affected by the spell dimensional lock, which prevents this ability’s use for as long as the spell in effect. The save DCs are Charisma-based.
+Unnerving Gaze (Ex) A creature that succumbs to an augur’s unnerving gaze becomes staggered for 1 round.

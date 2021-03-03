@@ -1,0 +1,64 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/proscriber
+Proscriber CR 15
+XP 51,200
+N Medium outsider (extraplanar)
+Init +7; Senses darkvision 60 ft.; Perception +21
+DEFENSE
+AC 25, touch 11, flat-footed 24 (+10 armor, +1 Dex, +4 shield)
+hp 157 (15d10+75)
+Fort +14, Ref +11, Will +14
+DR 10/magic and silver; Immune outsider immunities, poison;
+Resist cold 10, fire 10, electricity; SR 26
+OFFENSE
+Speed 40 ft.
+Melee +2 longsword +24 (1d8+9)
+Space 5 ft.; Reach 5 ft.
+Special Attacks condemn
+Spell-like Abilities (CL 15th):
+At will—continual flame, discern lies (DC 19)
+3/day—discern location, power word stun
+1/day—blade barrier (DC 21), geas/quest, plane shift (DC 22), polymorph (self only), power word blind, waves of exhaustion, word of recall.
+Cleric Spells Prepared (good-aligned only) (CL 15th):
+8th—fire storm (DC 23), plus 1 domain spell
+7th—holy word (DC 22), repulsion, plus 1 domain spell
+6th—blade barrier, geas/quest (DC 21), word of recall, plus 1 domain spell
+5th—flame strike (DC 20), hallow, insect plague, mark of justice, righteous might, plus 1 domain spell
+4th—control water, death ward, divine power, freedom of movement, spell immunity, plus 1 domain spell
+3rd—daylight, dispel magic (DC 18), invisibility purge, prayer, searing light, plus 1 domain spell
+2nd—align weapon, consecrate, cure moderate wounds, enthrall (DC 17), zone of truth (DC 17), plus 1 domain spell
+1st—bless (DC 16), command (DC 16), cure light wounds, divine favor, protection from evil, sanctuary, plus 1 domain spell
+0 (at will)— detect magic, light, read magic, resistance
+D domain spell; Domains as per deity
+Cleric Spells Prepared (neutral-aligned only) (CL 15th):
+8th—fire storm (DC 23), plus 1 domain spell
+7th—control weather, repulsion, plus 1 domain spell
+6th—blade barrier, greater dispel magic, harm (DC 22), plus 1 domain spell
+5th—flame strike (DC 20), mass inflict light wounds, slay living (DC 20), unhallow, plus 1 domain spell
+4th—death ward, dismissal (DC 19), divine power, greater magic weapon, spell immunity, plus 1 domain spell
+3rd—bestow curse (DC 18), blindness/deafness (DC 18), daylight, searing light, wind wall, plus 1 domain spell
+2nd—darkness, enthrall (DC 17), hold person (DC 17), silence, spiritual weapon, plus 1 domain spell
+1st—bane (DC 16), command (DC 16), divine favor, doom (DC 16), obscuring mist, sanctuary, plus 1 domain spell
+0 (at will)—detect magic, light, read magic, resistance
+D Domain spell; Domains as per deity
+Cleric Spells Prepared (evil-aligned only) (CL 15th):
+8th—unholy aura, plus 1 domain spell
+7th—blasphemy (DC 22), destruction (DC 20), plus 1 domain spell
+6th—greater dispel magic, harm (DC 21), word of recall, plus 1 domain spell
+5th—flame strike (DC 20), mass inflict light wounds, slay living, unhallow, plus 1 domain spell
+4th—death ward, divine power, freedom of movement, poison (DC 18), spell immunity, plus 1 domain spell
+3rd—bestow curse (DC 18), blindness/deafness (DC 18), invisibility purge, inflict serious wounds, magic circle against good, plus 1 domain spell
+2nd—align weapon, bull’s strength, death knell (DC 17), desecrate, silence, plus 1 domain spell
+1st—bane (DC 16), cause fear (DC 16), curse water, detect good, doom, inflict light wounds, sanctuary, plus 1 domain spell
+0 (at will)—detect magic, light, read magic, resistance
+D Domain spell; Domains as per deity
+STATISTICS
+Str 25, Dex 17, Con 20, Int 21, Wis 20, Cha 18
+Base Atk +15; CMB +22; CMD 35
+Feats Blinding Critical, Cleave, Critical Focus, Great Cleave, Greater Sunder, Improved Initiative, Improved Sunder, Power Attack
+Skills Craft (any one) +21, Diplomacy +22, Escape Artist +13, Intimidate +23, Knowledge (any one) +21, Knowledge (the planes) +21, Knowledge (religion) +21, Perception +21, Sense Motive +21, Spellcraft +23, Stealth +13, Survival +21
+Languages Common plus five additional languages, including the language native to its plane of origin (for example: Abyssal for those that serve Abyssal deities or Celestial for those that serve deities of the upper planes).
+Gear +2 longsword, +2 full platemail, +2 heavy steel shield
+SPECIAL ABILITIES
+Condemn (Su) Once per day, as a melee touch attack, a proscriber can sever the connection between a divine caster and his or her deity. The target can attempt a DC 22 Will save (to negate the effects. If the save fails, the divine caster loses the ability to cast divine spells, turn or rebuke undead, smite good or evil, and loses the use of other divine-based spells, spell-like abilities, or supernatural abilities. Even if the save succeeds, the divine caster touched takes 10d6 points of damage. The save DC is Constitution-based.
+Additionally, one that fails its save resists all beneficial divine spells (such as heal, or any cure spell) and effects cast on him or her. A creature attempting to cast a beneficial divine spell on a condemned creature must make a successful DC 20 caster level check or the spell has no effect on the condemned creature.
+The effects of this ability are permanent but can be removed by the casting of a remove curse spell followed by an atonement spell. The one casting the remove curse and atonement spells must be a divine caster who worships the same god as the condemned and who is of a class level equal to or higher than the condemned.

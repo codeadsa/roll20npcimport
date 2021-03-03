@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aasimar
+Aasimar CR 1/2
+XP 200
+Aasimar cleric 1
+NG Medium outsider (native)
+Init +0; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 15, touch 10, flat-footed 15 (+5 armor)
+hp 11 (1d8+3)
+Fort +4, Ref +0, Will +5
+Resist acid 5, cold 5, electricity 5
+OFFENSE
+Speed 30 ft. (20 ft. in armor)
+Melee heavy mace –1 (1d8–1)
+Ranged light crossbow +0 (1d8/19–20)
+Special Attacks channel positive energy (5/day, 1d6, DC 12); rebuke death (1d4+1, 6/day); touch of good (6/day)
+Spell-Like Abilities (CL 1st)
+1/day–daylight
+Spells Prepared (CL 1st)
+1st–bless, command (DC 14), protection from evilD
+0th (at will)–detect magic, guidance, stabilize
+D domain spell; Domains Good, Healing
+STATISTICS
+Str 8, Dex 10, Con 14, Int 13, Wis 17, Cha 14
+Base Atk +0; CMB –1; CMD 9
+Feats Turn Undead
+Skills Diplomacy +8, Heal +7, Knowledge (religion) +5; Racial Modifiers +2 Diplomacy, +2 Perception
+Languages Celestial, Common, Draconic

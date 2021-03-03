@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-magma/magma-dragon-young
+Young Magma Dragon CR 8
+XP 4,800
+CN Medium dragon (extraplanar, fire)
+Init +6; Senses dragon senses; Perception +14
+DEFENSE
+AC 22, touch 12, flat-footed 20 (+2 Dex, +10 natural)
+hp 85 (9d12+27)
+Fort +11, Ref +8, Will +10
+Immune fire, paralysis, sleep
+Weakness vulnerable to cold
+OFFENSE
+Speed 40 ft., fly 150 ft. (average)
+Melee bite +17 (1d8+12 plus 3 fire), 2 claws +17 (1d6+8), 2 wings +12 (1d4+4)
+Special Attacks breath weapon (30-ft. cone, 6d6 fire, DC 17)
+Spell-Like Abilities (CL 9th; concentration +10)
+At will—burning hands (DC 12)
+Sorcerer Spells Known (CL 1st; concentration +2)
+1st (4/day)—flare burst (DC 12), grease (DC 12)
+0 (at will)—bleed (DC 11), detect magic, open/close, spark
+STATISTICS
+Str 21, Dex 14, Con 17, Int 14, Wis 14, Cha 13
+Base Atk +9; CMB +14; CMD 26 (30 vs. trip)
+Feats Great Fortitude, Improved Initiative, Iron Will, Power Attack, Vital Strike
+Skills Acrobatics +11 (+15 jump), Climb* +17, Fly +14, Intimidate +13, Perception +14, Sense Motive +14, Stealth +14, Swim* +17
+Languages Common, Draconic, Ignan
+SQ superheated
+SPECIAL ABILITIES
+Superheated (Su) At young age and older, a magma dragon’s bite attack deals additional fire damage equal to its age category.
+
+

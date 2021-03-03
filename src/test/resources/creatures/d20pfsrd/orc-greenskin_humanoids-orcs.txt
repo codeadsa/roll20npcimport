@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orcs/orc-greenskin
+Greenskin Orc (CR 1/3)
+XP 135
+Greenskin orc warrior 1
+CE Medium humanoid (orc)
+Init +2; Senses darkvision 60 ft., scent; Perception +2
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 armor, +2 Dex)
+hp 7 (1d10+1 plus 1)
+Fort +3, Ref +2, Will -1
+Defensive Abilities ferocity
+OFFENSE
+Speed 30 ft.
+Melee longsword +3 (1d8+2/19-20)
+Ranged composite longbow (+2 Str) +3 (1d8+2/x3)
+STATISTICS
+Str 15, Dex 15, Con 12, Int 7, Wis 8, Cha 6
+Base Atk +1; CMB +3; CMD 15
+Feats Point-Blank Shot
+Skills Perception +2, Stealth +2 (+6 in temperate and warm forests); Racial Modifiers +2 Perception, +4 Stealth in temperate and warm forests
+Languages Common, Orc
+Gear leather armor, longsword, composite longbow (+2 Str), 20 arrows, other treasure

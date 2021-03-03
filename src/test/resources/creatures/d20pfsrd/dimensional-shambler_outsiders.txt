@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/dimensional-shambler
+Dimensional Shambler
+CR 8
+XP 4,800
+CE Medium outsider (chaotic, evil)
+Init +7; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 21, touch 13, flat-footed 18 (+3 Dex, +8 natural)
+hp 94 (9d10+45)
+Fort +11, Ref +8, Will +10
+Defensive Abilities resist conjuration; DR 5/lawful; Immune summoning
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +14 (2d6+5 plus grab)
+Special Attacks dimension mastery, shift planes
+Spell-Like Abilities (CL 8th; concentration +9)
+At will—dimension door
+3/day—blink, dimensional anchor
+STATISTICS
+Str 21, Dex 16, Con 20, Int 7, Wis 14, Cha 13
+Base Atk +9; CMB +14 (+18 grapple); CMD 27
+Feats Improved Initiative, Iron Will, Lightning Reflexes, Lunge, Vital Strike
+Skills Knowledge (planes) +18, Perception +14, Sense Motive +14, Stealth +15; Racial Modifiers +8 Knowledge (planes)
+Languages Aklo
+SPECIAL ABILITIES
+Dimension Mastery (Ex) A dimensional shambler can take actions normally after using dimension door effects. A dimensional shambler under the effects of a dimensional anchor or dimensional lock spell can ignore the effects of the spell for 1 round by making a DC 25 Knowledge (planes) check as a move action.
+Resist Conjuration (Ex) Dimensional shamblers detest being conjured by other creatures. They are immune to all spell effects of the summoning school, and are treated as if they had double their actual Hit Dice (18 HD for most dimensional shamblers) for the purposes of determining if they can be conjured by spells like planar ally or planar binding.
+Shift Planes (Su) A dimensional shambler can shift between planes once per hour, using an effect that is similar to that created by the plane shift spell, save that a dimensional shambler is a master of such travel and can manifest at an exact location on its destination plane if it makes a DC 20 Knowledge (planes) check. If it exceeds this DC by 10 or more, it can place itself in such a position upon arrival that if combat immediately results from its appearance, it gains a +10 bonus on its resulting initiative check. Using shift planes is a full-round action that provokes attacks of opportunity, during which the dimensional shambler shimmers and grows increasingly transparent.
+A dimensional shambler can use this ability while grappling a creature—doing so does not provoke attacks of opportunity from the creature it is grappling. If the creature is of the dimensional shambler’s size or smaller (Medium for most dimensional shamblers), that creature shifts planes with the dimensional shambler unless it makes a DC 15 Will save. The save DC is Charisma-based.

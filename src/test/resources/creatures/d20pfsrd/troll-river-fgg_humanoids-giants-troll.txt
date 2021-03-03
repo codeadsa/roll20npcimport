@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/troll-river-fgg
+River Troll CR 5
+XP 1,600
+CE Large humanoid (amphibious, giant)
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 16, touch 11, flat-footed 14 (+2 Dex, +5 natural, –1 size)
+hp 63 (6d8+36); regeneration 5 (acid or fire)
+Fort +11; Ref +4; Will +3
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee bite +8 (1d8+5), 2 claws +8 (1d6+5)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d6+7)
+STATISTICS
+Str 21, Dex 14, Con 23, Int 6, Wis 9, Cha 6
+Base Atk +4; CMB +10; CMD 22
+Feats Intimidating Prowess, Iron Will, Skill Focus (Perception)
+Skills Intimidate +9, Perception +8, Swim +13
+Languages Giant
+SQ amphibious
+Base Creature
+Troll

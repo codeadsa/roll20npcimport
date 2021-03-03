@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-blue/young-blue-dragon
+Young Blue Dragon CR 9
+XP 6,400
+LE Large dragon (earth)
+Init +5; Senses dragon senses; Perception +14
+DEFENSE
+AC 21, touch 10, flat-footed 20 (+1 Dex, +11 natural, –1 size)
+hp 95 (10d12+30)
+Fort +10, Ref +8, Will +8
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., burrow 20 ft., fly 200 ft. (poor)
+Melee bite +15 (2d6+7), 2 claws +14 (1d8+5), 2 wings +12 (1d6+2), tail slap +12 (1d8+7)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (80-ft. line, DC 18, 6d8 electricity), desert thirst (DC 16)
+Spell-Like Abilities (CL 10th)
+At will—ghost sound (DC 11)
+STATISTICS
+Str 21, Dex 12, Con 17, Int 12, Wis 13, Cha 12
+Base Atk +10; CMB +16; CMD 27 (31 vs. trip)
+Feats Dazzling Display, Improved Initiative, Multiattack, Shatter Defenses, Weapon Focus (bite)
+Skills Bluff +14, Fly +8, Intimidate +14, Knowledge (local) +14, Perception +14, Stealth +10, Survival +14
+Languages Common, Draconic

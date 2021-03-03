@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/trox
+Trox CR 2
+XP 600
+Trox barbarian 1
+CN Large monstrous humanoid
+Init +1; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 10, touch 8, flat-footed 9 (+2 armor, +1 Dex, –2 rage, –1 size)
+hp 17 (1d12+5)
+Fort +6, Ref +1, Will +2
+OFFENSE
+Speed 40 ft., burrow 20 ft.
+Melee warhammer +7 (2d6+7/×3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks frenzy, rage (6 rounds/day)
+STATISTICS
+Str 25, Dex 13, Con 18, Int 8, Wis 10, Cha 6
+Base Atk +1; CMB +9 (+11 grapple); CMD 18 (20 vs. grapple)
+Feats Improved Grapple B, Power Attack
+Skills Climb +11, Intimidate +2, Survival +4
+Languages Terran SQ fast movement, grabbing appendages
+When not raging, the trox’s statistics are AC 12, touch 10, flat-footed 11; hp 15; Fort +4, Will +0; warhammer +5 (2d6+5/×3); Str 21, Con 14; CMB +7, CMD 18; Skills Climb +9.
+SPECIAL ABILITIES
+Frenzy (Ex) Once per day when a trox takes damage, it flies into a frenzy for 1 minute, gaining a +2 racial bonus to Constitution and Strength, but a –2 penalty to AC.
+Grabbing Appendages (Ex) A trox’s smaller arms are useful for little more than aiding grappling. Trox gain Improved Grapple as a bonus feat, and can maintain a grapple and still make attacks with their main arms.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-pugwampi
+Gremlin, Pugwampi CR 1/2
+XP 200
+NE Tiny fey
+Init +5; Senses darkvision 120 ft., low-light vision; Perception +6; Aura unluck (20 ft.)
+DEFENSE
+AC 13, touch 13, flat-footed 12 (+1 Dex, +2 size)
+hp 6 (1d6+3)
+Fort +0, Ref +3, Will +4
+DR 2/cold iron; SR 7
+OFFENSE
+Speed 30 ft.
+Melee dagger +3 (1d2–4/19–20)
+Ranged shortbow +3 (1d3–4/×3)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-Like Abilities (CL 1st; concentration –1)
+At will—prestidigitation, speak with animals
+1/day—shatter (DC 10)
+STATISTICS
+Str 3, Dex 13, Con 11, Int 10, Wis 14, Cha 6
+Base Atk +0; CMB –1; CMD 5
+Feats Improved Initiative, ToughnessB, Weapon FinesseB
+Skills Bluff +2, Craft (traps) +4, Disable Device +2, Perception +6 (+2 listening), Ride +2, Stealth +17; Racial Modifiers +4 Stealth, –4 Perception when listening
+Languages Gnoll, Undercommon
+SPECIAL ABILITIES
+Unluck Aura (Su) A pugwampi radiates an aura of unluck to a radius of 20 feet. Any creature in this area must roll two d20s whenever a situation calls for a d20 roll (such as an attack roll, a skill check, or a saving throw) and must use the lower of the two results generated. This is a mind-affecting effect that does not work on animals, other gremlins, or gnolls. Any character who gains any sort of luck bonus (such as that granted by a luckstone or divine favor) is immune to the pugwampi unluck aura.
+3rd Party Publisher Options ( Samurai Sheepdog) When captured by a monster trainer, gremlins grant the trainer access to new spells.
+

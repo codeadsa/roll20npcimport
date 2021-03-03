@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/vegepygmys-TOHC/vegepygmy-subchief
+Vegepygmy Subchief CR 5
+XP 1,600
+N Medium plant (fungus)
+Init +1; Senses low-light vision; Perception +13
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 51 (6d8+18 plus 6)
+Fort +8, Ref +3, Will +3
+DR 5/bludgeoning or slashing; Immune electricity, plant traits
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +8 (1d4+4) or spear +9 (1d8+6 /x3)
+Ranged spear +6 (1d8+4/x3)
+TACTICS
+Vegepygmies attack with claws or weapons, usually either a longspear or club. They prefer to ambush opponents, using their coloration to blend with their natural surroundings.
+STATISTICS
+Str 19, Dex 12, Con 17, Int 10, Wis 13, Cha 12
+Base Atk +4; CMB +8; CMD 19
+Feats Skill Focus (Perception), Toughness, Weapon Focus (spear)
+Skills Perception +13, Stealth +14 (+22 in forested or swampy areas); Racial Modifiers +4 Stealth (+12 in forested or swampy areas)
+Gear spear

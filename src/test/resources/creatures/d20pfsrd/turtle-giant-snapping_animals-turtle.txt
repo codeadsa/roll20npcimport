@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/turtle/turtle-giant-snapping
+Giant Snapping Turtle CR 9
+XP 6,400
+N Gargantuan animal
+Init +2; Senses low-light vision, scent; Perception +21
+DEFENSE
+AC 23, touch 4, flat-footed 23 (–2 Dex, +19 natural, –4 size)
+hp 115 (11d8+66)
+Fort +12, Ref +5, Will +6
+OFFENSE
+Speed 20 ft., swim 20 ft.
+Melee bite +16 (4d6+16 plus grab)
+Space 20 ft.; Reach 15 ft.
+Special Attacks swallow whole (2d8+16 bludgeoning, AC 23, 22 hp)
+STATISTICS
+Str 32, Dex 6, Con 21, Int 1, Wis 13, Cha 6
+Base Atk +8; CMB +23 (+27 grapple); CMD 31 (35 vs. trip)
+Feats Improved Initiative, Iron Will, Lunge, Skill Focus (Perception), Toughness, Weapon Focus (bite)
+Skills Perception +21, Swim +19; Racial Modifiers +8 Swim
+SQ armored stomach, hold breath, shell
+SPECIAL ABILITIES
+Armored Stomach (Ex) A giant snapping turtle’s body is difficult to cut through—its stomach gains a +4 bonus to its AC and has double the normal hit points when determining the success of a creature attempting to cut its way free.
+Shell (Ex) As a move action, a snapping turtle can pull its extremities and head into its shell. It cannot move or attack as long as it remains in this state, but its armor bonus from natural armor increases by +4 as long as it does.

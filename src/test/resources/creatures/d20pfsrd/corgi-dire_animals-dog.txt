@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dog/corgi-dire
+Dire Corgi CR 1
+XP 400
+N Medium animal
+Init +2; Senses low-light vision , scent; Perception +4
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 15 (2d8+6)
+Fort +6, Ref +5, Will +1
+OFFENSE
+Speed 40 ft.
+Melee bite +4 (1d6+4 plus trip)
+STATISTICS
+Str 16, Dex 14, Con 17, Int 3, Wis 11, Cha 6
+Base Atk +1; CMB +4; CMD 16 (20 vs. trip)
+Feats Skill Focus (Acrobatics)
+Skills Acrobatics +9 (+17 when jumping), Perception +4, Survival +0 (+4 scent tracking); Racial Modifiers +8 Acrobatics when jumping, +4 Survival when tracking by scent
+SPECIAL ABILITIES
+A dire corgi can fight while carrying a rider, but the rider must succeed on a DC 10 Ride check in order to attack.

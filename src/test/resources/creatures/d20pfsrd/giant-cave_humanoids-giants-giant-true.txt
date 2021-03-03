@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-cave
+Cave Giant CR 6
+XP 2,400
+CE Large humanoid (giant)
+Init +0; Senses darkvision 120 ft., low-light vision; Perception +5
+DEFENSE
+AC 19, touch 9, flat-footed 19 (+4 armor, +6 natural, -1 size)
+hp 67 (9d8+27)
+Fort +9, Ref +3, Will +3
+Defensive Abilities ferocity, rock catching
+Weaknesses light sensitivity
+OFFENSE
+Speed 40 ft. (30 ft. in armor)
+Melee battleaxe +12/+7 (2d6+9/x3) or 2 slams +11 (1d8+6)
+Ranged rock +5 (1d8+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rock throwing (100 ft.)
+STATISTICS
+Str 23, Dex 10, Con 17, Int 6, Wis 10, Cha 7
+Base Atk +6; CMB +13; CMD 23
+Feats Cleave, Improved Sunder, Power Attack, Vital Strike, Weapon Focus (battleaxe)
+Skills Climb +6, Intimidate +7, Perception +5
+SQ axe wielder
+SPECIAL ABILITIES
+Axe Wielder (Ex) All cave giants are proficient with handaxes, battleaxes, and greataxes.

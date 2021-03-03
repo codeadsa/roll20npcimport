@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/charda
+Charda CR 7
+XP 3,200
+CN Small monstrous humanoid (aquatic)
+Init +2; Senses darkvision 120 ft.; Perception +13
+DEFENSE
+AC 20, touch 13, flat-footed 18 (+2 Dex, +7 natural, +1 size)
+hp 85 (9d10+36)
+Fort +7, Ref +10, Will +7
+Defensive Abilities ferocity; Immune cold, poison
+OFFENSE
+Speed 20 ft., swim 60 ft.
+Melee bite +13 (1d6+3 plus 1d6 cold), 4 claws +14 (1d4+3)
+Special Attacks black bile
+STATISTICS
+Str 16, Dex 15, Con 19, Int 11, Wis 12, Cha 8
+Base Atk +9; CMB +11 (+19 bull rush and trip); CMD 23
+Feats Combat ExpertiseB, Improved Bull Rush, Improved Trip, Lightning Reflexes, Power Attack, Weapon Focus (claw)
+Skills Intimidate +6, Knowledge (religion) +4, Perception +13, Stealth +18, Survival +10, Swim +18
+Languages Aklo, Undercommon
+SQ amphibious, cold vigor, overwhelming
+SPECIAL ABILITIES
+Black Bile (Su) A charda’s body seethes with freezing black bile. Its supernaturally cold, black bile is the source of the additional cold damage when a charda bites a creature. As a standard action, a charda can expel its full store of bile as a breath weapon that can take the form of a 60-foot line or a 30-foot cone. All creatures in this area take 8d6 points of cold damage (DC 18 Reflex half ). A charda can use this breath weapon once every 1d4 rounds—while its black bile is recharging, it does not deal additional cold damage with its bite. The save DC is Constitution-based.
+Cold Vigor (Ex) When a charda is in a cold environment, it becomes more animated and gains a +1 racial bonus on attack rolls and weapon damage rolls.
+Overwhelming (Ex) A charda gains a +8 racial bonus on bull rush and trip attacks.

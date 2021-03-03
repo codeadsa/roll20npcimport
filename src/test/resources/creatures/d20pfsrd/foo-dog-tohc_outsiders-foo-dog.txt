@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/foo-dog/foo-dog-tohc
+Foo Dog CR 5
+XP 1,600
+CG Medium magical beast (extraplanar)
+Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception +11; Aura aura of goodness
+DEFENSE
+AC 18, touch 13, flat-footed 15 (+2 Dex, +1 dodge, +5 natural)
+hp 59 (7d10+21)
+Fort +8; Ref +7; Will +6
+SR 16
+OFFENSE
+Speed 40 ft.
+Melee bite +11 (1d6+4)
+Special Attacks strike evil
+Spell-like Abilities (CL 11th)
+3/day—plane shift
+1/day—summon foo creature (level 6, 1d4 foo creatures of same type, 25%)
+STATISTICS
+Str 17, Dex 15, Con 17, Int 10, Wis 14, Cha 10
+Base Atk +7; CMB +10; CMD 23 (27 vs. trip)
+Feats Improved Initiative, Iron Will, Skill Focus (Perception), Weapon Focus (bite)
+Skills Acrobatics +8 (+16 jump), Perception +11, Stealth +8, Survival +7 (+11 tracking by scent); Racial Modifiers +8 Acrobatics to jump, +4 Survival (track by scent)
+SQ invisibility, ethereal jaunt
+SPECIAL ABILITIES
+Invisibility (Su) A foo creature can become invisible at will. This ability functions as the spell of the same name with a caster level equal to the foo creature’s HD + 3.
+Ethereal Jaunt (Su) A foo creature can shift from the Ethereal to the Material Plane as a free action and shift back again as a move action. The ability is otherwise similar to the spell of the same name.
+Plane Shift (Sp) A foo creature can enter the Astral Plane or the Material Plane. This ability transports the foo creature and up to eight other creatures, provided they are all within 5 feet of the foo creature. It is otherwise similar to the spell of the same name.
+
+Strike Evil (Su) Foo creatures have a +2 morale bonus on attack and damage rolls when fighting evil-aligned creatures. This ability is always active and cannot be negated or dispelled.
+Summon Foo Creatures (Sp) Once per day, by barking, roaring, or making any other sound common to its type, a foo creature can summon 1d4 additional foo creatures of its same type with a 25% chance of success. This ability is the equivalent of a 6th-level spell.
+
+Editor’s Note
+Base template: Foo Creature (CR +5)
+

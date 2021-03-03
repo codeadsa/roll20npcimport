@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/sheep-tohc
+Sheep CR 1/4
+XP 100
+N Medium animal
+Init +1; Senses low-light vision; Perception +8
+DEFENSE
+AC 13, touch 11, flat-footed 12 (+1 Dex, +2 natural)
+hp 11 (2d8+2)
+Fort +4, Ref +4, Will +0
+OFFENSE
+Speed 30 ft.
+Melee bite +1 (1d6)
+STATISTICS
+Str 10, Dex 13, Con 12, Int 1, Wis 11, Cha 4
+Base Atk +1; CMB +1; CMD 12 (16 vs. trip)
+Feats Skill Focus (Perception)
+Skills Perception +8

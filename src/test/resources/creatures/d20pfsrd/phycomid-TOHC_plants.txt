@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/phycomid-TOHC
+Phycomid CR 4
+XP 1,200
+N(E) Small plant (fungus)
+Init +0; Senses tremorsense 30 ft.; Perception +0
+DEFENSE
+AC 15, touch 11, flat-footed 15 (+4 natural, +1 size)
+hp 25 (5d8+5)
+Fort +5, Ref +1, Will +1
+Immune plant traits
+OFFENSE
+Speed 10 ft.
+Ranged fluid globule ranged touch +4 (1d6 acid plus spore infection); range increment 5 ft./maximum range 20 ft.
+Space 5 ft.; Reach 0 ft.
+Special Attacks acid, spore infection
+TACTICS
+The phycomid attacks by extruding a small tube from its body and firing a glob of acid at a foe. The phycomid has a range increment of 5 feet and can fire a globule to a maximum range of 20 feet.
+STATISTICS
+Str 8, Dex 10, Con 13, Int —, Wis 11, Cha 1
+Base Atk +3; CMB +1; CMD 11 (can’t be tripped)
+SPECIAL ABILITIES
+Acid (Ex) A phycomid’s fluid globules are formed of acid. Any ranged touch attack deals 1d6 points of acid damage.
+Spore Infection (Ex) A creature hit by a phycomid’s fluid globule attack must succeed on a DC 13 Fortitude save or take 1d2 points of Constitution damage as tiny mushroom-like growths sprout from its body. Each minute (10 rounds) thereafter, until the victim receives a remove disease, heal, miracle, or wish, he takes 1 point of Constitution damage. At Constitution 0, the victim dies and his body collapses to the ground, sprouting a new phycomid. The save DC is Constitution-based.

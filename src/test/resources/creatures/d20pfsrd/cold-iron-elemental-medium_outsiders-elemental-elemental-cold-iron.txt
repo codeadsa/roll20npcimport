@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-cold-iron/cold-iron-elemental-medium
+Medium cold iron elemental CR 3
+XP 800
+N Medium outsider (earth, elemental, extraplanar)
+Init –1; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +7
+DEFENSE
+AC 18, touch 9, flat-footed 18 (–1 Dex, +9 natural)
+hp 34 (4d10+12)
+Fort +7, Ref +0, Will +4
+Immune elemental traits; SR 9
+OFFENSE
+Speed 20 ft., burrow 20 ft.
+Melee slam +9 (1d8+7)
+Special Attacks cold iron natural weapons
+STATISTICS
+Str 20, Dex 8, Con 17, Int 4, Wis 11, Cha 11
+Base Atk +4; CMB +9; CMD 18
+Feats Cleave, Improved Bull RushB, Power Attack
+Skills Appraise +1, Climb +10, Knowledge (dungeoneering) +2, Knowledge (planes) +2, Perception +7, Stealth +3
+Languages Terran
+SPECIAL ABILITIES
+Cold Iron Natural Weapons (Ex) A cold-iron elemental’s natural attacks function as cold iron for purposes of bypassing DR.

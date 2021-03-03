@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/skin-stitcher
+Skin Stitcher CR 5
+XP 1,600
+CE Medium aberration
+Init +2; Senses darkvision 60 ft., skin scent; Perception +11
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 45 (7d8+14)
+Fort +4, Ref +4, Will +6
+OFFENSE
+Speed 30 ft.
+Melee spiked chain +9 (2d4+4/x3) or 2 claws +8 (1d4+3)
+Special Attacks augmented critical, rage
+STATISTICS
+Str 16, Dex 14, Con 14, Int 11, Wis 12, Cha 6
+Base Atk +5; CMB +8; CMD 20
+Feats Blind-Fight, Combat Reflexes, Power Attack, Weapon Focus (spiked chain)
+Skills Climb +13, Intimidate +8, Perception +11, Stealth +12
+Gear spiked chain
+SPECIAL ABILITIES
+Augmented Critical (Ex) If the skin stitcher scores a critical hit with a chain rake, it deals triple normal damage to an opponent.
+Rage (Ex) A skin stitcher that takes damage in combat has a 50% chance of flying into a berserk rage the following round, attacking its foe until either it or its opponent is dead. It gains +4 Strength and -4 AC while raging. The skin stitcher cannot end its rage voluntarily. Note that the skin stitcher does not drop its chains while raging.
+Skin Scent (Ex) The skin stitcher can detect any living creature that possesses natural skin to a distance of one-half mile. This includes all creature types, in most cases, except plants, elementals, oozes, constructs, vermin, and many undead (undead with flesh, such as zombies, can be detected by a skin stitcher, but skeletons cannot).

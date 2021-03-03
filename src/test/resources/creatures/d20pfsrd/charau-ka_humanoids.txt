@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/charau-ka
+Charau-Ka CR 2
+XP 600
+CE Small humanoid (charau-ka)
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +2
+DEFENSE
+AC 14, touch 12, flat-footed 13 (+1 Dex, +2 natural, +1 size)
+hp 19 (3d8+6)
+Fort +3, Ref +4, Will +2
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee club +5 (1d4+3), bite +0 (1d3+1)
+Ranged rock +5 (1d4+2/19–20)
+Special Attacks shrieking frenzy, thrown-weapon mastery
+STATISTICS
+Str 15, Dex 13, Con 14, Int 8, Wis 12, Cha 11
+Base Atk +2; CMB +3; CMD 14
+Feats Point-Blank Shot, Precise Shot, Throw AnythingB
+Skills Climb +14, Fly +0, Perception +2, Stealth +10; Racial Modifiers +4 Stealth
+Languages Abyssal, Polyglot
+SPECIAL ABILITIES
+Shrieking Frenzy (Su) Once per day, a charau-ka can enter a state of shrieking frenzy as a free action. While in this state, the charau-ka automatically fails Stealth checks and cannot speak or cast spells that use verbal components (or use items that require command words to activate), but functions as if under the effects of a haste spell. The charauka can continue shrieking for up to 3 rounds, after which it is staggered for 1 round.
+Thrown-Weapon Mastery (Ex) Charau-ka are masters of thrown weapons. All charau-ka gain Throw Anything as a bonus feat. In addition, a charau-ka gains a +1 racial bonus on all thrown weapons, and their threat range for thrown weapons is doubled, as if the charau-ka possessed the Improved Critical feat for all thrown weapons. This effect doesn’t stack with any other effect that expands the threat range of a weapon.

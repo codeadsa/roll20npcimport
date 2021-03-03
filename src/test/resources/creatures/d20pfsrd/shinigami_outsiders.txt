@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/shinigami
+Shinigami CR 17
+XP 102,400
+LN Large outsider (extraplanar, lawful)
+Init +9; Senses darkvision 60 ft., detect chaos, detect law, true seeing; Perception +31; Aura fear aura (60 ft., DC 30)
+DEFENSE
+AC 31, touch 15, flat-footed 25 (+5 Dex, +1 dodge, +16 natural, -1 size)
+hp 275 (22d10+154); fast healing 10
+Fort +20, Ref +12, Will +19
+DR 10/chaotic and silver; Immune ability damage, ability drain, cold, death effects, disease, energy drain, negative energy, poison; Resist acid 10, fire 10; SR 28
+OFFENSE
+Speed 30 ft., fly 40 ft. (perfect)
+Melee +3 axiomatic scythe +30/+25/+20/+15 (2d6+10/x4), 2 wings +21 (1d8+2)
+Space 10 ft.; Reach 10 ft.
+Special Attacks destroy soul
+Spell-Like Abilities (CL 20th; concentration +29)
+Constant—detect chaos, detect law, tongues, true seeing
+3/day—destruction (DC 26), energy drain, greater scrying (DC 26), soul bind (DC 28)
+STATISTICS
+Str 21, Dex 20, Con 24, Int 17, Wis 22, Cha 29
+Base Atk +22; CMB +28; CMD 44
+Feats Cleave, Combat Expertise, Combat Reflexes, Dodge, Improved Initiative, Mobility, Power Attack, Spring Attack, Stand Still, Weapon Focus (scythe), Whirlwind Attack
+Skills Acrobatics +30, Diplomacy +34, Fly +36, Intimidate +34, Knowledge (planes) +28, Perception +31, Sense Motive +31, Spellcraft +28, Stealth +26
+Languages Celestial, Common, Draconic, Infernal; tongues
+SPECIAL ABILITIES
+Destroy Soul (Su) A shinigami possesses six gems in which it encapsulates souls with its soul bind spell-like ability. These gems are only useful to the shinigami that owns them, and if the shinigami dies, the gems are destroyed as well. As a standard action once per day, a shinigami can hold up a gem that currently contains a soul and crush it, permanently destroying the soul within and releasing a 30-foot-radius burst of negative energy that inflicts 1d6 negative levels on all creatures in the area of effect. A successful DC 30 Fortitude save reduces this to 1 negative level. The soul destroyed in the process of using this ability can only be brought back to life by means of a miracle or wish spell. This is a death effect. The save DC is Charisma-based.

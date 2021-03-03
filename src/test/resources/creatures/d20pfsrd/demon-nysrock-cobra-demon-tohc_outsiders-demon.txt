@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-nysrock-cobra-demon-tohc
+Nysrock Demon CR 13
+XP 25,600
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +2; Senses darkvision 60 ft.; Perception +34
+DEFENSE
+AC 25, touch 11, flat-footed 23 (+2 Dex, +14 natural, –1 size)
+hp 202 (15d10+120)
+Fort +19, Ref +11, Will +9
+DR 10/cold iron and good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 24
+OFFENSE
+Speed 40 ft.
+Melee bite +22 (2d6+7 plus grab), sting +22 (2d4+7 plus poison)
+Ranged spit +16 (poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (2d6+10)
+Spell-Like Abilities (CL 18th)
+At will—greater dispel magic, greater teleport (self plus 50 pounds of objects only), unholy blight (DC 18)
+3/day—blasphemy (DC 21), chaos hammer (DC 18)
+1/day—summon (level 4, 2d4 babaus or 1 nysrock 35%)
+STATISTICS
+Str 24, Dex 14, Con 26, Int 16, Wis 19, Cha 18
+Base Atk +15; CMB +23 (+27 grapple); CMD 35 (can’t be tripped)
+Feats Ability Focus (poison), Alertness, Cleave, Combat Casting, Great Fortitude, Power Attack, Weapon Focus (bite), Weapon Focus (sting)
+Skills Bluff +22, Escape Artist +20, Intimidate +22, Knowledge (planes) +21, Perception +34, Sense Motive +26, Spellcraft +21, Stealth +16, Survival +22; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Poison (Ex) Sting or spit—injury or contact; save Fort DC 27; frequency 1/round for 6 rounds; effect 1d4 Con damage; cure 2 consecutive saves. The save DC is Constitution-based with a +2 bonus for the nysrock’s Ability Focus feat.

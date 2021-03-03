@@ -1,0 +1,47 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-silver/silver-dragon-wyrm
+Silver Dragon, Wyrm CR 20
+XP 307,200
+LG Gargantuan dragon (cold)
+Init +2; Senses dragon senses, fog vision; Perception +37; Aura cold (10 ft., 1d6 cold), frightful presence (330 ft., DC 30)
+DEFENSE
+AC 40, touch 4, flat-footed 40 (-2 Dex, +36 natural, -4 size)
+hp 364 (27d12+189)
+Fort +22, Ref +15, Will +24
+Defensive Abilities reflective scales; DR 20/magic; Immune acid, cold, paralysis, sleep; SR 31
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 40 ft., fly 250 ft. (poor); cloudwalking, graceful flight
+Melee bite +37 (4d6+19/19–20), 2 claws +36 (2d8+13), tail slap +34 (2d8+19), 2 wings +34 (2d6+6)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (60-ft. cone, DC 30, 22d8 cold), crush (4d6+19, DC 30), paralyzing breath, tail sweep (2d6+19, DC 30)
+Spell-Like Abilities (CL 27th; concentration +34)
+At will— control weather, control winds, detect evil, feather fall, fog cloud Spells Known (CL 17th; concentration +24)
+8th (4/day)— greater spell immunity, holy aura (DC 25)
+7th (7/day)— greater scrying, holy word (DC 24), repulsion (DC 24)
+6th (7/day)— banishment (DC 23), greater dispel magic, heal
+5th (7/day)— break enchantment, flame strike (DC 22) , plane shift, wall of force
+4th (7/day)— dimension door, freedom of movement, restoration, solid fog
+3rd (8/day)— cure serious wounds, dispel magic, hold person (DC 20), wind wall
+2nd (8/day)— augury, calm emotions (DC 19), cure moderate wounds, invisibility, web (DC 19)
+1st (8/day)— bless, divine favor, protection from evil, shield, true strike
+0 (at will)— detect magic, flare (DC 17), light, message, prestidigitation, read magic, stabilize, resistance, virtue
+
+Note: A silver dragon can cast cleric spells as arcane spells
+STATISTICS
+Str 37, Dex 6, Con 25, Int 24, Wis 25, Cha 24
+Base Atk +27; CMB +44; CMD 52 (56 vs. trip)
+Feats Critical Focus, Flyby Attack, Hover, Improved Critical (bite), Improved Initiative, Iron Will, Lighting Reflexes, Multiattack, Power Attack, Quicken Spell, Skill Focus (Fly), Snatch, Vital Strike, Weapon Focus (bite)
+Skills Acrobatics +25 (+29 jump), Diplomacy +37, Fly +24, Heal +37, Intimidate +37, Knowledge (arcana, history, local, nobility, planes) +37, Perception +37, Sense Motive +37, Spellcraft +37
+Languages Auran, Common, Draconic, Dwarven, Elven, Halfling, Giant, Terran
+SQ change shape
+SPECIAL ABILITIES
+Change Shape (Su)
+A silver dragon can assume any animal or humanoid form 3/day as if using polymorph.
+Cloudwalking (Su) A very young or older silver dragon can tread on clouds or fog as though on solid ground.
+Cold Aura (Su) An old or older silver dragon is surrounded by an aura of cold. All creatures within 5 feet of the dragon take 1d6 points of cold damage at the beginning of the dragon’s turn. An ancient dragon’s aura extends to 10 feet. A great wyrm’s aura damage increases to 2d6. A silver dragon can suppress or activate this aura at will as a free action.
+Fog Vision (Ex) A juvenile or older silver dragon can see perfectly well in fog and clouds.
+Graceful Flight (Ex) A young or older silver dragon’s aerial maneuverability is one step better than normal.
+Paralyzing Breath (Su) Instead of a cone of cold, a silver dragon can breathe a cone of paralyzing gas. Creatures within the cone must succeed on a Fortitude save or be paralyzed for 1d6 rounds plus 1 round per age category of the dragon.
+Reflective Scales (Su) Any spell that targets an ancient or older silver dragon but fails to penetrate the silver dragon’s spell resistance might be reflected. If the caster level check to penetrate the dragon’s spell resistance is failed by 5 or more, the spell is reflected. If the check fails by 4 or less, the spell is merely wasted. This otherwise functions as spell turning.
+
+

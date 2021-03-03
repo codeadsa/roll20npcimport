@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/lich/lich-psychic
+Lich, Psychic CR 12
+XP 19,200
+Human psychic lich psychic 11
+LE Medium undead (augmented humanoid)
+Init +5; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 20, touch 15, flat-footed 19 (+1 deflection, +1 Dex, +5 natural, +3 Wis)
+hp 96 (11d6+55)
+Fort +8, Ref +8, Will +12
+Defensive Abilities channel resistance +4, psychic feast, rejuvenation; DR 15/bludgeoning and magic; Immune cold, electricity, undead traits
+Weaknesses mind-affecting effects
+OFFENSE
+Speed 30 ft.
+Melee touch +4 (1d8+5 plus bewildering touch) or sickle +4 (1d6–1), touch –1 (1d8+5 plus bewildering touch)
+Special Attacks bewildering touch (DC 18), phrenic amplifications (defensive prognostication, ongoing defense, overpowering mind, space-rending spell), phrenic pool (8 points), physical push (+3, 3/day)
+Spell-Like Abilities (CL 11th; concentration +17)
+1/day—detect thoughts (DC 17), telepathic bond
+Psychic Spells Known (CL 11th; concentration +17)
+5th (4/day)—echolocation, mind fog (DC 21), synapse overload (DC 21)
+4th (6/day)—aura of doom (DC 20), freedom of movement, id insinuation III (DC 20), mental barrier III
+3rd (7/day)—dispel magic, fly, haste, mind thrust III (DC 19), synaptic pulse (DC 19)
+2nd (7/day)—bear’s endurance, blur, calm emotions (DC 18), false life, mental block, resist energy
+1st (7/day)—ear-piercing scream (DC 17), expeditious retreat, mage armor, magic missile, mindlink, shield
+0 (at will)—arcane mark, dancing lights, detect magic, detect psychic significance, ghost sound (DC 16), mage hand, message, prestidigitation (DC 16), read magic
+Psychic Discipline self-perfection
+STATISTICS
+Str 8, Dex 12, Con —, Int 22, Wis 16, Cha 16
+Base Atk +5; CMB +4; CMD 22
+Feats Craft Wondrous Item, Defensive Combat Training, Improved Initiative, Intuitive Spell, Lightning Reflexes, Psychic CombatantB, Psychic DefenderB, Quicken Spell, Toughness
+Skills Bluff +17, Disguise +12, Intimidate +15, Knowledge (arcana) +20, Knowledge (history) +20, Linguistics +20, Perception +11, Perform (oratory) +10, Sense Motive +25, Spellcraft +20, Stealth +23; Racial Modifiers +8 Perception, +8 Sense Motive, +8 Stealth
+Languages Aklo, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Halfling, Infernal, Sylvan, Undercommon, +6 additional
+SQ bodily purge (6d8), detect thoughts, telepathic bond
+SPECIAL ABILITIES
+Bewildering Touch (Su) Any living creature a psychic lich hits with its touch attack must succeed at a Fortitude saving throw or be permanently confused as its nervous system continuously sends false signals. The creature doesn’t automatically attack the psychic lich if it is targeted by further attacks. Calm emotions or any spell that can remove a curse can free the victim (see the bestow curse spell description) with a DC equal to the bewildering touch’s save DC. As a full-round action, a creature that rolls a result of “act normally” can attempt a new saving throw to end this effect.
+Psychic Feast (Ex) If a psychic lich succeeds at a Will saving throw against an attack that has a reduced effect on a successful save, it instead avoids the effect entirely. If the effect was a spell with the mind-affecting descriptor, the psychic lich also heals an amount of damage equal to 1d8 plus the spell’s caster level if it succeeds at its save. A psychic lich may automatically succeed on any Will save against a spell it casts that targets only itself.
+Rejuvenation (Su) When a psychic lich is destroyed, its body reforms near its astral memoir 10d10 days later. If a creature reads the psychic lich’s memoir, the total time is reduced to one tenth the original result, which could result in the psychic lich’s immediate restoration in a new body. Once the time elapses, the lich wakens fully healed (albeit without any gear it left behind on its old body).
+The only way to ensure that a psychic lich does not rejuvenate is to target its memoir with the spell instigate psychic duel or mindscape door or use it as a special focus when casting plane shift or similar magic.
+This allows one creature to instigate a psychic duel on a veiled, harmful mindscape with a self-contained shape inhabited by the lich’s astral legend. The legend has the statistics of the lich, can’t leave the mindscape by any means, and is permanently destroyed if reduced to 0 or fewer hit points. An astral legend can’t be destroyed unless the psychic lich’s physical body has also been destroyed and has not yet rejuvenated.

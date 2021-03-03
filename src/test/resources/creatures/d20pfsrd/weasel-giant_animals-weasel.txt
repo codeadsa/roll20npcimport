@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/weasel/weasel-giant
+Giant Weasel CR 1
+XP 400
+N Medium animal
+Init +4; Senses low-light vision, scent; Perception +7
+DEFENSE
+AC 15, touch 14, flat-footed 11 (+4 Dex, +1 natural)
+hp 9 (2d8)
+Fort +3, Ref +7, Will +1
+OFFENSE
+Speed 40 ft.
+Melee bite +5 (1d6+3 plus grab)
+Special Attacks blood drain (1d2 Con), grab
+STATISTICS
+Str 14, Dex 19, Con 10, Int 2, Wis 13, Cha 11
+Base Atk +1; CMB +3 (+7 grapple); CMD 17 (21 vs. trip)
+Feats Weapon Finesse
+Skills Climb +6, Perception +7, Stealth +10, Swim +8; Racial Modifiers +4 Climb, +2 Perception, +6 Stealth, +2 Swim
+SQ compression

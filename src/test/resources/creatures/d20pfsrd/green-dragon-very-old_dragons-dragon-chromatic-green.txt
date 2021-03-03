@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-green/green-dragon-very-old
+Very Old Green Dragon CR 16
+XP 76,800
+LE Gargantuan dragon (air)
+Init -1; Senses dragon senses; Perception +32
+Aura frightful presence (270 ft., DC 24)
+DEFENSE
+AC 33, touch 5, flat-footed 33 (-1 Dex, +28 natural, -4 size)
+hp 262 (21d12+126)
+Fort +18, Ref +11, Will +18
+DR 15/magic; Immune acid, paralysis, sleep, SR 27
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy), swim 40 ft.
+Melee bite +28 (4d6+16/19-20), 2 claws +28 (2d8+11/19-20), 2 wings +26 (2d6+5), tail slap +26 (2d8+16)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (60-ft. cone, DC 26, 18d6 acid), crush (Medium creatures, DC 26, 4d6+16), tail sweep (Small creatures, DC 26, 2d8+16)
+Spell-Like Abilities (CL 21st; concentration +25)
+At will— charm person (DC 15), entangle (DC 15), plant growth, suggestion (DC 17) Spells Known (CL 11th; concentration +15)
+5th (4/day)— summon monster V, teleport
+4th (7/day)— dimension door, ice storm, stoneskin
+3rd (7/day)— dispel magic, displacement, fireball (DC 17), haste
+2nd (7/day)— alter self, detect thoughts (DC 16), locate object, mirror image, see invisibility
+1st (7/day)— magic missile, shield, silent image (DC 15), summon monster I, ventriloquism (DC 15)
+0 (at will)— acid splash, bleed, dancing lights, detect magic, ghost sound, mage hand, message, resistance, prestidigitation STATISTICS
+Str 33, Dex 8, Con 23, Int 18, Wis 19, Cha 18
+Base Atk +21; CMB +36 (+38 on sunder); CMD 45 (47 vs. sunder, 49 vs. trip)
+Feats Alertness, Cleave, Critical Focus, Flyby Attack, Great Cleave, Improved Critical (bite), Improved Critical (claws), Improved Sunder, Iron Will, Multiattack, Power Attack
+Skills Fly +9, Knowledge (arcane) +28, Knowledge (local) +28, Knowledge (nature) +28, Perception +32, Spellcraft +28, Stealth +11, Survival +28, Swim +43, Use Magic Device +28; Racial Modifiers +8 Swim
+Languages Common, Draconic, Elven, Giant, Sylvan
+SQ camouflage, trackless step, water breathing, woodland stride
+SPECIAL ABILITIES
+Camouflage (Ex) An old or older green dragon can use Stealth to hide in any sort of natural terrain, even if the terrain does not grant cover or concealment.
+Trackless Step (Ex) An adult or older green dragon does not leave a trail in natural surroundings and cannot be tracked. A green dragon can choose to leave a trail, if it so desires.
+Water Breathing (Ex) A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+Woodland Stride (Ex) A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.

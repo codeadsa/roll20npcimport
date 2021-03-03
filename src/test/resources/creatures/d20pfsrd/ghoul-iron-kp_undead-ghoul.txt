@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghoul/ghoul-iron-kp
+Iron Ghoul CR 8
+XP 4,800
+LE Medium undead
+Init +3; Senses darkvision 60 ft.; Perception +17
+DEFENSE
+AC 21, touch 13, flat-footed 18 (+6 armor, +3 Dex, +2 natural)
+hp 90 (12d8+24+12)
+Fort +6, Ref +7, Will +10
+Defensive Abilities channel resistance +2; Immune undead traits
+OFFENSE
+Speed 30 ft., burrow 20 ft.
+Melee bite +12 (1d8+2 plus ghoul fever and paralysis), 2 claws +10 (1d4+1 plus paralysis) or bastard sword +11 (1d10+2/19-20), bite +10 (1d8+1 plus ghoul fever and paralysis), 1 claw +10 (1d4+1 plus paralysis)
+Special Attacks paralysis (1d4 rounds, DC 18, elves are immune to this effect)
+STATISTICS
+Str 14, Dex 16, Con —, Int 14, Wis 14, Cha 14
+Base Atk +9; CMB +11 (+13 vs. bull rush); CMD +24
+Feats Improved Bull Rush, Improved Natural Attack (bite), Multiattack, Power Attack, Toughness, Weapon Finesse
+Skills Acrobatics +3, Climb +13, Disguise +11, Intimidate +9, Knowledge (dungeoneering) +7, Perception +17, Sense Motive +14, Stealth +14
+Languages Common
+SPECIAL ABILITIES
+Disease (Su) Ghoul Fever: Bite—injury; save Fort DC 18 (Cha-based); onset 1 day; frequency 1 day; effect 1d3 Con and 1d3 Dex damage; cure 2 consecutive saves.
+A humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects.
+Iron Ghast CR 9
+Iron ghasts are iron ghouls with the advanced monster template. An iron ghast’s paralysis affects elves. The overwhelming stink of rot and gore surrounding these creatures grants them the stench extraordinary ability (10-ft. radius, Fort DC 20 negates, sickened for 1d6+4 minutes).

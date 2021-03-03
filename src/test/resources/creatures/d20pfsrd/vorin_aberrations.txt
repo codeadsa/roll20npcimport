@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/vorin
+Vorin CR 14
+XP 38,400
+CE Huge aberration
+Init +8; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 18, touch 12, flat-footed 14 (+4 Dex, +6 natural, -2 size)
+hp 178 (17d8+102)
+Fort +11, Ref +9, Will +10
+DR 15/slashing or piercing; Immune acid; Resist fire 10
+OFFENSE
+Speed 40 ft.
+Melee sting +20 (2d6+9 plus poison), bite +19 (2d6+9)
+Ranged spit +15 (poison)
+Space 15 ft.; Reach 10 ft.
+Special Attacks spit
+TACTICS
+A vorin relies on its poison in combat, hoping to incapacitate an opponent so it can consume the victim at its leisure. It enters combat by spitting poison at any larger opponents first. The vorin tries to remain at a distance, spitting its poison and darting back below the water to slither to another location before rising again. A vorin only enters melee if pressed or if it is unable to escape.
+STATISTICS
+Str 28, Dex 18, Con 23, Int 2, Wis 11, Cha 12
+Base Atk +12; CMB +23; CMD 37
+Feats Alertness, Cleave, Improved Initiative, Improved Natural Attack (sting), Power Attack, Skill Focus (Stealth), Stealthy, Weapon Focus (spit), Weapon Focus (sting)
+Skills Escape Artist +6, Perception +13, Sense Motive +2, Stealth +13 (+21 in water); Racial Modifiers +8 Stealth in water
+SQ water breathing
+SPECIAL ABILITIES
+Poison (Ex) Bite or spit—injury or contact; save Fort DC 24; frequency 1/round for 2 rounds; effect 1d6 Dex and paralyzed 1d4 hours; cure 1 save. The save DC is Constitution-based.
+An opponent struck by a blob of vorin poison spit at them is protected from its effects for a short time by any amount of worn armor—the blob strikes the armor but not the opponent’s flesh. The blob of poison seeps through armor in a number of rounds equal to the armor’s armor bonus (do not apply any magical bonuses). The blob can be scraped off as a move action. Natural armor does not provide any defense as the poison seeps through the opponent’s pores, nor does poison delivered by a vorin’s sting have the same delayed effect.
+Spit (Ex) Once per round a vorin can spit a blob of sticky poison with a sickening odor at a single opponent within 50 feet (no range increment). This requires the vorin to make a successful ranged touch attack. If struck, a target is subjected to the vorin’s poison.
+Water Breathing (Ex) Vorins can breathe underwater indefinitely.

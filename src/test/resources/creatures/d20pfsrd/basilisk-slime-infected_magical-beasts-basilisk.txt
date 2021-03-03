@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/basilisk/basilisk-slime-infected
+Slime-Infected Basilisk CR 6
+XP 2,400
+Variant advanced basilisk
+N Medium magical beast (aquatic)
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +12
+DEFENSE
+AC 21, touch 11, flat-footed 20 (+1 Dex, +10 natural)
+hp 52 (7d10+14)
+Fort +9, Ref +6, Will +7
+OFFENSE
+Speed 20 ft., swim 30 ft.
+Melee bite +12 (1d8+7)
+Special Attacks gaze (30 ft., DC 15)
+TACTICS
+Before Combat The slime-infected basilisk depends on its transparent skin to help it surprise unsuspecting creatures.
+During Combat The basilisk ignores opponents petrified by its gaze instead biting those still resisting.
+Morale The basilisk retreats when reduced to fewer than 13 hit points.
+STATISTICS
+Str 20, Dex 12, Con 15, Int 2, Wis 17, Cha 15
+Base Atk +7; CMB +12; CMD 23 (35 vs. trip)
+Feats Blind-Fight, Great Fortitude, Iron Will, Skill Focus (Perception)
+Skills Perception +12, Stealth +12 (+16 underwater), Swim +13; Racial Modifiers +4 Stealth (+8 underwater)

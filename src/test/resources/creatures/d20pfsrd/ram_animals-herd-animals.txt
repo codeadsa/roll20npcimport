@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/ram
+Ram CR 1
+XP 400
+N Medium animal
+Init +2; Senses low-light vision, scent; Perception +6
+DEFENSE
+AC 13, touch 12, flat-footed 11 (+2 Dex, +1 natural)
+hp 11 (2d8+2)
+Fort +4, Ref +5, Will +2
+OFFENSE
+Speed 40 ft.
+Melee gore +3 (1d4+3)
+Special Attacks powerful charge (gore, 1d8+3)
+STATISTICS
+Str 14, Dex 15, Con 13, Int 2, Wis 14, Cha 7
+Base Atk +1; CMB +3; CMD 15 (19 vs. trip)
+Feats Improved Bull RushB, Skill Focus (Acrobatics)
+Skills Acrobatics +13 (+17 jump), Perception +6; Racial Modifiers +4 Acrobatics

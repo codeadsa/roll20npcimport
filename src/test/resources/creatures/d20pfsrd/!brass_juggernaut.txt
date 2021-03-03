@@ -1,0 +1,24 @@
+Brass JuggernautCR 7
+
+XP 3,200
+N Huge construct
+Init -2; Senses darkvision 60 ft., low-light vision; Perception -5
+
+DEFENSE
+
+AC 16, touch 6, flat-footed 16 (-2 Dex, +10 natural, -2 size)
+hp 78 (7d10+40)
+Fort +2, Ref +0, Will -3
+Defensive Abilities hardness 10; Immune construct traits
+
+OFFENSE
+
+Speed 30 ft.
+Melee slam +15 (2d6+15)
+Special Attacks trample (2d6+15, DC 23)
+
+STATISTICS
+
+Str 31, Dex 6, Con —, Int —, Wis 1, Cha 1
+Base Atk +7; CMB +19; CMD 27
+SQ construction points (4; metal, trample)

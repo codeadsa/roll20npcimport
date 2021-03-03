@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/inphidians/inphidian-rattler
+Rattler Inphidian CR 4
+XP 1,200
+NE Medium monstrous humanoid (reptilian)
+Init +2; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 51 (6d10+18)
+Fort +5; Ref +7; Will +7;
+OFFENSE
+Speed 30 ft., climb 20 ft., swim 20 ft.
+Melee 2 snake-hand bites +11 (1d6+4 plus poison)
+Special Attacks death rattle, poison (DC 18)
+STATISTICS
+Str 18, Dex 15, Con 17, Int 12, Wis 14, Cha 13
+Base Atk +6; CMB +10; CMD 22
+Feats Blind-Fight, Power Attack, Weapon Focus (snake-hand bites)
+Skills Climb +21, Diplomacy +7, Intimidate +10, Perception +15, Stealth +11, Swim +12; Racial Modifiers +4 Perception
+Languages Common, Inphidian
+SPECIAL ABILITIES
+Death Rattle (Su) Once every 1d4 rounds, a rattler inphidian can unleash a death rattle in a 40-foot radius around itself. Creatures caught in the area take 3d6 points of damage. A DC 16 Fortitude save reduces the damage by half. The save DC is Constitution-based. This is a sonic effect.
+Poison (Ex) Bite—injury; save Fort DC 18; frequency 1/round for 4 rounds; effect 1d4 Strength damage; cure 1 save. The save is Constitution-based and includes a +2 racial bonus.
+Rattler Inphidian Characters
++8 Strength, +4 Dexterity, +6 Constitution, +2 Intelligence, +4 Wisdom, +4 Charisma Base Speed: A rattler inphidian’s base land speed is 30 feet. They have a climb speed of 20 feet and a swim speed of 20 feet. Darkvision: Rattler inphidians can see in the dark to a range of 60 feet. Racial Hit Dice: A rattler inphidian begins with six levels of monstrous humanoid, which provide 6d10 Hit Dice, a base attack bonus of +6, and base saving throw bonuses of Fort +2, Ref +5, and Will +5. Racial Skills: A rattler inphidian’s monstrous humanoid levels give it skill points equal to 6 x (4 + Int modifier). It has a +4 racial bonus on Perception checks. A rattler inphidian has a +8 racial bonus on Climb checks and can always choose to take 10 on a Climb check, even if rushed or threatened. It has a +8 racial bonus on any Swim check to perform some special action or avoid a hazard. It can always take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line. Racial Feats: A rattler inphidian’s monstrous humanoid levels give it three feats. AC: Rattler inphidians have a +6 natural armor bonus. Natural Weapons: Snake-hands (1d6 plus poison). Special Attacks: Death rattle and poison. See Inphidians for more details on playable inphidians.

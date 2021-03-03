@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/minor-reaper
+Minor Reaper CR 10
+XP 9,600
+NE Medium undead (evil, extraplanar)
+Init +8; Senses darkvision 60 ft., low-light vision; Perception +18
+DEFENSE
+AC 22, touch 14, flat-footed 18 (+4 Dex, +8 natural)
+hp 127 (15d8+60)
+Fort +8, Ref +11, Will +9
+DR 5/cold iron or good; Immune cold, undead traits; SR 21
+OFFENSE
+Speed 30 ft.
+Melee scythe +14/+9/+4 (2d4+3/×4 plus death touch)
+Special Attacks fear cone (30 ft., DC 20)
+STATISTICS
+Str 14, Dex 19, Con —, Int 8, Wis 11, Cha 17
+Base Atk +11; CMB +15; CMD 27
+Feats Agile Maneuvers, Cleave, Combat Reflexes, Improved Initiative, Lightning Reflexes, Power Attack, Toughness, Weapon Focus (scythe)
+Skills Climb +10, Intimidate +16, Perception +18, Stealth +22
+SQ sole target
+SPECIAL ABILITIES
+Death Touch (Su) Creatures hit by either a lesser reaper’s touch attack or by a weapon wielded by a lesser reaper must succeed at a DC 20 Fortitude save or gain 1d4 negative levels. The save DC is Charisma-based. A humanoid slain by a reaper’s death touch is consumed in unholy fire and has its remains destroyed as the destruction spell. This is a death effect.
+Sole Target (Su) Each minor reaper is assigned a specific target by the reaper that summoned it. If a creature attacks a minor reaper targeting another creature, that minor reaper may immediately summon another minor reaper as a free action to battle the interceding creature unless the interloper is already in battle with a minor reaper of its own, in which case the ability is wasted. If a minor reaper does not or cannot use this ability immediately after being attacked, it must wait until it is attacked once again in order to do so.

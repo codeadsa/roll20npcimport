@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/beheaded/beheaded-giant
+Giant Beheaded CR 2
+XP 600
+NE Large undead
+Init +1; Senses darkvision 60 ft.; Perception –1
+DEFENSE
+AC 13, touch 10, flat-footed 12 (+1 Dex, +3 natural, -1 size)
+hp 19 (3d8+6)
+Fort +3, Ref +2, Will +2
+Immune undead traits
+OFFENSE
+Speed fly 30 ft. (perfect)
+Melee slams +4 (1d8+3)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 16, Dex 13, Con –, Int –, Wis 9, Cha 15
+Base Atk +2; CMB +6; CMD 17 (can’t be tripped)
+Skills Fly –3

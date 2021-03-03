@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-brine/brine-dragon-very-young
+Brine Dragon, Very Young CR 5
+XP 1,600
+LN Small dragon (water)
+Init +5; Senses dragon senses; Perception +10
+
+DEFENSE
+AC 18, touch 12, flat-footed 17 (+1 Dex, +6 natural, +1 size)
+hp 45 (6d12+6)
+Fort +6, Ref +6, Will +6
+Immune acid, paralysis, sleep
+OFFENSE
+Speed 60 ft., fly 150 ft. (average), swim 60 ft.
+Melee bite +12 (1d6+7), 2 claws +12 (1d4+5)
+Special Attacks breath weapon (40-ft. line, 4d6 acid, DC 14)
+Spell-Like Abilities (CL 6th; concentration +7)
+At will—speak with animals (fish only)
+
+STATISTICS
+Str 20, Dex 13, Con 13, Int 15, Wis 12, Cha 13
+Base Atk +6; CMB +10; CMD 21 (25 vs. trip)
+Feats Improved Initiative, Power Attack, Skill Focus (Swim)
+Skills Diplomacy +10, Fly +12, Heal +10, Knowledge (nature) +11, Perception +10, Sense Motive +10, Survival +10, Swim +25; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic
+
+
+
+

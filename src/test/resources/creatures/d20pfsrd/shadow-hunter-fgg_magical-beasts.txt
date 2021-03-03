@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/shadow-hunter-fgg
+Shadow Hunter CR 8
+XP 4,800
+N Huge magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent, tremorsense 60 ft.; Perception +12
+DEFENSE
+AC 18, touch 10, flat-footed 16 (+2 Dex, +8 natural, –2 size)
+hp 76 (8d10+32)
+Fort +10; Ref +8; Will +4
+Defensive Abilities shadowblend
+OFFENSE
+Speed 30 ft., climb 20 ft., swim 30 ft.
+Melee bite +14 (1d8+10 plus poison plus grab)
+Space 15 ft.; Reach 10 ft.
+STATISTICS
+Str 24, Dex 15, Con 19, Int 5, Wis 14, Cha 3
+Base Atk +8; CMB +17 (+21 to grapple); CMD 29 (can’t be tripped)
+Feats Ability Focus (poison), Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (bite)
+Skills Climb +15, Perception +12, Stealth +4 (+14 in dimly lit & unlit areas), Swim +15; Racial Modifiers +10 racial bonus on Stealth checks in areas of dim or no light.
+SQ hunt by scent
+SPECIAL ABILITIES
+Shadowblend (Su) In areas of dim and no light, shadow hunters gain improved concealment; there is a 40% miss chance when attacking one in such conditions.
+Poison (Ex) Bite—injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Constitution damage; cure 2 consecutive saves. The save DC is Constitution-based.
+Hunt by Scent (Ex) Shadow hunters are expert at tracking prey through the dim warrens where they dwell. They can track using their Perception skill in place of Survival.
+Variants Shadow Hunter Hatchling

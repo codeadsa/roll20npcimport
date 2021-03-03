@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-cloud-tohc/cloud-dragon-wyrmling-TOHC
+wyrmling Cloud Dragon CR 3
+XP 800
+N Small dragon (air)
+Init +7; Senses dragon senses; Perception +8
+DEFENSE
+AC 18, touch 14, flat-footed 15 (+3 Dex, +4 natural, +1 size)
+hp 30 (4d12+4)
+Fort +5; Ref +7; Will +5
+Immune paralysis, sleep, winds
+OFFENSE
+Speed 40 ft., fly 150 ft. (average)
+Melee bite +6 (1d6+1), 2 claws +6 (1d4+1)
+Space 5 ft.; Reach 5 ft.
+Special Attacks breath weapon (20 ft. cone, DC 13, 2d6 cold plus bull rush [Fine or smaller])
+STATISTICS
+Str 13, Dex 16, Con 13, Int 12, Wis 13, Cha 12
+Base Atk +4; CMB +4; CMD 17 (21 vs. trip)
+Feats Flyby Attack, Improved Initiative
+Skills Bluff +8, Diplomacy +8, Fly +12, Knowledge (arcana) +8, Knowledge (nature) +8, Perception +8, Sense Motive +8
+Languages Common, Draconic
+SPECIAL ABILITIES
+Breath Weapon (Su) A cloud dragon’s breath weapon is a powerful cone of icy cold air. When a cloud dragon uses its breath weapon, make a single bull rush attack using the dragon’s CMB against the CMD of any creature that failed its Reflex save and is three or more size categories smaller than the dragon. This bull rush does not provoke attacks of opportunity, and the dragon cannot choose to move with any opponent pushed back. In addition to being pushed back, affected creatures are knocked prone and take 1d4 points of nonlethal damage per 10 feet they are pushed back. Flying creatures are buffeted and pushed back twice the distance and sustain 1d6 points of nonlethal damage per 10 feet they are pushed back.
+Immunity to Winds (Su) A cloud dragon is immune to the effects of wind. It ignores the penalties applied to the Fly skill incurred by wind speed, and is immune to the negative effects of any spell or effect that manipulates wind, such as gust of wind and whirlwind.

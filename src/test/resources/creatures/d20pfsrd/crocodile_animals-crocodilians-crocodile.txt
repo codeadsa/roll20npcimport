@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/crocodilians/crocodile/crocodile
+Crocodile CR 2
+XP 600
+N Large animal
+Init +1; Senses low-light vision; Perception +8
+DEFENSE
+AC 14, touch 10, flat-footed 13 (+1 Dex, +4 natural, –1 size)
+hp 22 (3d8+9)
+Fort +6, Ref +4, Will +2
+OFFENSE
+Speed 20 ft., swim 30 ft.; sprint
+Melee bite +5 (1d8+4 plus grab) and tail slap +0 (1d12+2)
+Space 10 ft.; Reach 5 ft.
+Special Attacks death roll (1d8+6 plus trip)
+STATISTICS
+Str 19, Dex 12, Con 17, Int 1, Wis 12, Cha 2
+Base Atk +2; CMB +7 (+11 grapple); CMD 18 (22 vs. trip)
+Feats Skill Focus (Perception, Stealth)
+Skills Perception +8, Stealth +5 (+13 in water), Swim +12; Racial Modifiers +8 on Stealth in water
+SQ hold breath
+SPECIAL ABILITIES Death Roll (Ex) When grappling a foe of its size or smaller, a crocodile can perform a death roll upon making a successful grapple check. As it clings to its foe, it tucks in its legs and rolls rapidly, twisting and wrenching its victim. The crocodile inflicts its bite damage and knocks the creature prone. If successful, the crocodile maintains its grapple.
+Hold Breath (Ex) A crocodile can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning.
+Sprint (Ex) Once per minute a crocodile may sprint, increasing its land speed to 40 feet for 1 round.

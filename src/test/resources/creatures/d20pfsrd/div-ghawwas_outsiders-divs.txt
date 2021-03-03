@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/divs/div-ghawwas
+Ghawwas CR 10
+XP 9,600
+NE Large outsider (aquatic, div, evil, extraplanar)
+Init +6; Senses darkvision 60 ft., detect good, detect magic, see in darkness; Perception +19
+DEFENSE
+AC 26, touch 11, flat-footed 24 (+2 Dex, +15 natural, -1 size)
+hp 161 (14d10+84)
+Fort +10, Ref +13, Will +11
+Defensive Abilities rough hide; DR 10/cold iron and good; Immune fire, poison; Resist acid 10, electricity 10; SR 21
+OFFENSE
+Speed 30 ft., swim 80 ft.
+Melee bite +22 (1d8+7/19-20), 2 claws +20 (1d6+7), sting +20 (1d6+7 plus poison) or spear +20/+15/+10 (2d6+7/x3 plus poison)
+Ranged spear +15 (2d6+7/x3 plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks boiling sea
+Spell-Like Abilities (CL 12th; concentration +14)
+Constant—detect good, detect magic
+At will—control water, curse water, deeper darkness, dimension door
+3/day—hallucinatory terrain (DC 16), stinking cloud (DC 15), summon (level 6, 1 pairaka 60%), quench (DC 15)
+STATISTICS
+Str 24, Dex 15, Con 23, Int 12, Wis 15, Cha 14
+Base Atk +14; CMB +22; CMD 34
+Feats Combat Reflexes, Greater Weapon Focus (bite), Improved Critical (bite), Improved Initiative, Lightning Reflexes, Power Attack, Weapon Focus (bite)
+Skills Bluff +19, Knowledge (geography and planes) +18, Perception +19, Stealth +15, Survival +19, Swim +32
+Languages Abyssal, Aquan, Celestial, Infernal; telepathy 100 ft.
+SQ amphibious
+SPECIAL ABILITIES
+Boiling Sea (Su) As a standard action, a ghawwas can cause the waters around it to boil. Any creature within 50 feet of the ghawwas, within the same body of water, and at least half submerged takes 6d6 points of heat damage (DC 22 Fortitude save for half). The save DC is Constitution-based.
+Poison (Ex) Sting—injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d6 Str; cure 2 consecutive saves.
+Rough Hide (Ex) Ghawwas have rough hides studded with jagged barbs and spiny protrusions. Any creature striking a ghawwas with a natural weapon or an unarmed strike takes 1d6 points of slashing and piercing damage.

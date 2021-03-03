@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-tallow-tohc
+Tallow Golem CR 7
+XP 3,200
+N Medium construct
+Init -1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 18, touch 9, flat-footed 18 (–1 Dex, +9 natural)
+hp 75 (10d10+20)
+Fort +3; Ref +2; Will +3
+DR 10/adamantine and bludgeoning; Immune cold, construct traits
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +13 (2d8+3 plus grab)
+Special Attacks chemisorb
+STATISTICS
+Str 16, Dex 9, Con —, Int —, Wis 11, Cha 1
+Base Atk +10; CMB +13 (+17 grapple); CMD 22
+SPECIAL ABILITIES
+Chemisorb (Ex) A tallow golem can break down and absorb chemicals from a living victim by making a successful grapple check. If it pins the foe, it deals 1d4 points of Constitution damage each round the pin is maintained. Additionally, this causes skin discoloration. The victim must make a successful DC 17 Fortitude save or take 1 point of Charisma drain. Whether the save succeeds or fails, that victim cannot be affected again by the skin discoloration of that tallow golem’s chemisorb attack for 24 hours. The save DC is Constitution-based and includes a +2 racial bonus.

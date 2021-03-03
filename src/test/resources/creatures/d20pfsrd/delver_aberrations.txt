@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/delver
+Delver CR 9
+XP 6,400
+N Huge aberration (earth)
+Init +7; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +21
+DEFENSE
+AC 23, touch 12, flat-footed 19 (+4 Dex, +11 natural, –2 size)
+hp 138 (12d8+84)
+Fort +12, Ref +8, Will +10
+DR 5/piercing or slashing; Immune acid
+OFFENSE
+Speed 30 ft., burrow 10 ft.
+Melee 2 slam +16 (2d6+9 plus corrosive slime)
+Space 15 ft.; Reach 10 ft.
+Special Attacks corrosive slime
+STATISTICS
+Str 28, Dex 19, Con 22, Int 15, Wis 15, Cha 10
+Base Atk +9; CMB +20; CMD 34 (can’t be tripped)
+Feats Alertness, Blind-Fight, Great Fortitude, Improved Initiative, Power Attack, Toughness
+Skills Intimidate +10, Knowledge (dungeoneering) +17, Knowledge (local) +10, Knowledge (nature) +10, Perception +21, Sense Motive +16, Stealth –8 (+0 in rocky areas), Survival +17; Racial Modifiers +8 Stealth (in rocky areas)
+Languages Aklo, Terran, Undercommon
+SQ compression, sculpt stone
+SPECIAL ABILITIES
+Compression (Ex) A delver’s boneless body can squeeze through spaces that would normally exclude anything larger than a Medium creature; it does not need to make Escape Artist checks to pass through such spaces. When it squeezes through a 5-foot opening, its speed is reduced to 5 feet until it passes completely through.
+Corrosive Slime (Ex) The delver’s skin is covered in an acidic slime that it uses to dissolve stone and defend against enemies. The slime deals 2d6 acid damage to flesh, 4d8 damage to metal, or 8d10 to stone or crystal. If the delver hits with a natural attack or grapple, it automatically adds its slime damage, and the slime continues to deal 2d6 damage per round for the next 2 rounds. Armor or clothing worn by a creature grappled by a delver takes the same amount of acid damage unless the wearer succeeds on a DC 22 Reflex saving throw. A quart or more of water can wash away the slime. Any weapon that strikes the delver takes slime damage, as does a creature grappling or attacking the delver with natural weapons (both Reflex half DC 22). The saves are Constitution-based.
+Sculpt Stone (Ex) A delver can secrete a weaker form of its slime from its tentacles that momentarily softens stone rather than destroying it, allowing the creature to reshape up to 25 cubic feet of stone as if using stone shape as a 15th-level caster. This ability has no effect on stone that is protected against acid. It can use this ability at will.

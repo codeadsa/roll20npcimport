@@ -1,0 +1,40 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/woodwose-tohc
+Woodwose CR 10
+XP 9,600
+NE Medium fey
+Init +7; Senses low-light vision, plant sense 60 ft.; Perception +28
+DEFENSE
+AC 24, touch 14, flat-footed 20 (+3 Dex, +1 dodge, +10 natural)
+hp 127 (17d6+68)
+Fort +9, Ref +13, Will +13
+Defensive Abilities plant passivism; DR 10/cold iron;
+Immune wood
+OFFENSE
+Speed 30 ft.
+Melee club +11 (1d6+3) or 2 slams +11 (1d6+3)
+Special Attacks spines
+Spell-Like Abilities (CL 17th)
+At will—entangle (DC 15), pass without trace, shillelagh, speak with plants, wood shape
+3/day—blight (DC 19), transport via plants, wall of thorns
+1/day—ironwood, tree shape
+Spells Prepared (CL 9th):
+5th—insect plague
+4th—giant vermin, rusting grasp (DC 17)
+3rd—contagion (DC 16), dominate animal (DC 16), snare
+2nd—barkskin, chill metal (DC 15), fire trap (DC 15), flaming sphere (DC 15), heat metal (DC 15)
+1st—detect animals or plants, endure elements, faerie fire, magic stone, summon nature’s ally I
+0th—detect magic, flare (DC 13), guidance, know direction, read magic, resistance
+TACTICS
+Woodwoses primarily fight using spells and spell-like abilities. In melee combat they lash out with powerful slam attacks or use thick wooden clubs and cause great spines to sprout from their body after the manner of a porcupine.
+STATISTICS
+Str 17, Dex 16, Con 18, Int 13, Wis 16, Cha 18
+Base Atk +8; CMB +11; CMD 25
+Feats Alertness, Blind-Fight, Combat Casting, Dodge, Empower Spell, Improved Initiative, Quicken Spell, Stealthy
+Skills Bluff +22, Craft (alchemy) +21, Craft (any) +21, Diplomacy +17, Knowledge (nature) +21, Perception +27, Sense Motive +27, Stealth +17 (+21 in forests); Racial Modifiers +4 Stealth in forests
+Languages Common, Sylvan
+SPECIAL ABILITIES
+Immunity to Wood (Ex) A woodwose is unaffected by wooden weapons (such as clubs or quarterstaffs) and spells or effects that generate or use wood-type effects (such as a wall of thorns for example). Weapons with damaging parts that are primarily metal (or some other material) such as arrows, spears, and so on, damage a woodwose normally.
+Plant Passivism (Ex) No plant creatures willingly attack a woodwose. They can be forced to do so through magical means however. If attacked by a woodwose or one of its allies, the effect is broken and the plant creature can attack the woodwose normally.
+Plantsense (Ex) A woodwose can automatically sense the location of anything within 60 feet that is in contact with vegetation.
+Spells A woodwose casts spells as a 9th-level druid.
+Spines (Ex) As a free action, a woodwose can cause sharpened wooden spines to protrude from its body. Any creature in contact with the woodwose or grappling with it takes 1d6 points of piercing damage each round it remains in contact with the woodwose. In addition, any creature attacking a woodwose with natural weapons or unarmed attacks takes the same 1d6 points of damage.

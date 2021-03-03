@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/herd-animal-moose-fgg
+Moose CR 3
+XP 800
+N Large animal
+Init +1; Senses low-light vision, scent; Perception +10
+DEFENSE
+AC 15, touch 10, flat-footed 14 (+1 Dex, +5 natural, –1 size)
+hp 30 (4d8+12)
+Fort +7, Ref +5, Will +1
+OFFENSE
+Speed 30 ft.
+Melee head butt +6 (1d8+4), 2 hooves +1 (1d6+2)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 18, Dex 13, Con 17, Int 3, Wis 10, Cha 6
+Base Atk +3; CMB +8; CMD 19 (23 vs. trip)
+Feats Endurance, Skill Focus (Perception)
+Skills Perception +10, Stealth +2 (+6 in forests), Swim +8; Racial Modifiers +2 Perception, +4 Stealth in forests, +4 Swim
+Source: Wikipedia

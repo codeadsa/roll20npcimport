@@ -1,0 +1,53 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protean/protean-keketar
+Protean, Keketar CR 17
+XP 102,400
+CN Large outsider (chaotic, extraplanar, protean, shapechanger)
+Init +5; Senses blindsense 60 ft., darkvision 60 ft.; Perception +33
+Aura spatial riptide (30 ft.)
+DEFENSE
+AC 32, touch 14, flat-footed 27 (+5 Dex, +18 natural, –1 size)
+hp 287 (23d10+161); fast healing 10
+Fort +22, Ref +14, Will +22
+Defensive Abilities amorphous anatomy, DR 15/lawful, freedom of movement; Immune acid, polymorph; Resist electricity 10, sonic 10; SR 28
+OFFENSE
+Speed 40 ft., fly 40 ft. (perfect), swim 40 ft.
+Melee bite +31 (4d8+9 plus warpwave), 2 claws +31 (2d6+9 plus warpwave), tail slap +29 (2d8+4 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict 1d8+9
+Spell-Like Abilities (CL 17th; concentration +24)
+Constant—detect law, tongues
+At will—chaos hammer (DC 21), greater dispel magic, greater teleport (self plus 50 lbs. of objects only), major creation, move earth, shatter (DC 19)
+3/day—quickened confusion (DC 21), dispel law (DC 22), empowered chaos hammer (DC 21), polymorph any object (DC 25)
+1/day—disintegrate (DC 23), prismatic spray (DC 24), prismatic sphere (DC 26), reshape reality
+STATISTICS
+Str 29, Dex 21, Con 24, Int 20, Wis 25, Cha 24
+Base Atk +23; CMB +33 (+35 bull rush, +37 grapple); CMD 48 (can’t be tripped)
+Feats Combat Expertise, Combat Reflexes, Empower Spell-Like Ability (chaos hammer), Great Fortitude, Improved Bull Rush, Improved Vital Strike, Iron Will, Lightning Reflexes, Multiattack, Power Attack, Quicken Spell-Like Ability (confusion), Vital Strike
+Skills Acrobatics +31, Bluff +33, Diplomacy +33, Fly +11, Intimidate +33, Knowledge (arcana, planes) +31, Knowledge (any two) +28, Perception +33, Stealth +27, Swim +40; Racial Modifiers +8 Swim
+Languages Abyssal, Protean; telepathy 100 ft.
+SQ change shape (greater polymorph)
+SPECIAL ABILITIES
+Reshape Reality (Sp) This ability functions as the spell mirage arcana heightened to a 9th-level spell, except the changes created are quasi-real, like those created by shadow conjuration. A creature that interacts with reshaped reality may make a DC 26 Will save to see through the semi-real illusion. Terrain can provide concealment, and against foes who do not make the Will save to see through the facade, reshaped reality can provide cover. For disbelievers, quasi-real objects and terrain have only 20% normal hardness and hit points, and break DCs are 10 lower than normal. Dangerous terrain cannot exceed 5d6 points of damage per round (1d6 per round against disbelievers). This ability cannot damage existing structures, nor does it function in areas where planar travel is prohibited.
+Spatial Riptide (Su) Any non-protean teleporting into or out of the protean’s aura must make a DC 28 Fortitude save or enter a state of suspended animation (identical to temporal stasis) for 1d3 rounds; success means the Creature is merely nauseated for 1 round. The save DC is Constitution-based.
+Warpwave (Su) A creature struck by a keketar’s claw or bite must make a DC 28 Fortitude save or be affected by a warpwave. The save DC is Constitution-based.
+Table: Warpwave Effects d20 Warpwave effect
+1 Target takes 2 Strength damage.
+2 Target takes 2 Dexterity damage.
+3 Target takes 2 Constitution damage.
+4 Target takes 2 Intelligence damage.
+5 Target takes 2 Wisdom damage.
+6 Target takes 2 Charisma damage.
+7 Target gains 1 negative level.
+8 Target is blinded or deafened for 1d4 rounds.
+9 Target is confused for 1d4 rounds.
+10 Target is entangled by filaments of energy for 1d4 rounds.
+11 Target becomes fatigued (or exhausted if already fatigued).
+12 Target becomes nauseated for 1d4 rounds.
+13 Target is stunned for 1d4 rounds.
+14 Target is sickened for 1d4 rounds.
+15 Target is staggered for 1d4 rounds.
+16 Target gains 4d6 temporary hit points.
+17 Target is affected by a heal spell (CL = protean’s CR).
+18 Target is turned to stone.
+19 Target is affected by baleful polymorph (CL = protean’s CR).
+20 Portions of target’s body burst with energy of a random type (choose between acid, cold, electricity, or fire), dealing 4d6 points of damage of the appropriate type to the target.

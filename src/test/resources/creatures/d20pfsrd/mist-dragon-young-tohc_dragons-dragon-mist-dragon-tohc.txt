@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/mist-dragon-tohc/mist-dragon-young-tohc
+Young Mist Dragon CR 7
+XP 3,200
+N Large dragon (air, fire, water)
+Init +1; Senses dragon senses, mist vision; Perception +20
+DEFENSE
+AC 21, touch 10, flat-footed 20 (+1 Dex, +11 natural, –1 size)
+hp 95 (10d12+30)
+Fort +10; Ref +8; Will +10
+Immune fire, paralysis, sleep
+Weakness vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor), swim 20 ft.
+Melee bite +14 (2d6+7), 2 claws +14 (1d8+5), 2 wings +12 (1d6+2), tail slap +12 (1d8+7)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (cone, Fort DC 18, 3d6 fire plus blindness)
+Spell-like Abilities (CL 10th):
+At-will—create water
+STATISTICS
+Str 21, Dex 12, Con 17, Int 16, Wis 17, Cha 16
+Base Atk +10; CMB +16; CMD 27 (31 vs. trip)
+Feats Alertness, Flyby Attack, Hover, Multiattack, Wingover
+Skills Bluff +16, Diplomacy +16, Fly +8, Knowledge (arcana) +16, Knowledge (nature) +16, Perception +20, Sense Motive +20, Spellcraft +16, Swim +26
+Languages Auran, Aquan, Common, Draconic, Ignan
+SQ mist form, water breathing
+SPECIAL ABILITIES
+Breath Weapon (Su) A mist dragon’s breath weapon is a cone of cloudy scalding vapor. In still air, the vapor lingers for 1d4 rounds and forms a cloud that covers a radius equal to the cone’s length; on the second round, the vapor condenses into a heated smothering fog that deals 1d6 points of fire damage to creatures each round they remain in the area (Fortitude save halves this damage). The fog also blinds creatures (as the blindness spell) that fail the save as long as they remain within in the cloud and for 2 rounds after they leave the area.
+Mist Vision (Ex) A very young mist dragon can see perfectly in foggy conditions (such as those created by fog cloud or obscuring mist).
+Water Breathing (Ex) A very young or older mist dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.

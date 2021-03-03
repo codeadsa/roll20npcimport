@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/scorpion-demonic-deadfall
+Demonic Deadfall Scorpion CR 9
+XP 6,400
+CE Huge magical beast (augmented vermin)
+Init +2; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +19
+DEFENSE
+AC 24, touch 11, flat-footed 21 (+2 Dex, +1 dodge, +13 natural, –2 size)
+hp 115 (10d8+70)
+Fort +13, Ref +7, Will +7
+DR 5/cold iron; Immune electricity, poison; Resist acid 10, cold 10, fire 10
+OFFENSE
+Speed 50 ft.
+Melee 2 claws +15 (1d8+10 plus grab), sting +15 (1d8+10 plus poison)
+Space 15 ft.; Reach 15 ft.
+Special Attacks death throes (DC 21, 9d6 cold damage), constrict (1d8+10), sudden strike
+Spell-Like Abilities (CL 9th; concentration +11)
+1/day—darkness, insect plague, vomit swarm
+STATISTICS
+Str 31, Dex 15, Con 22, Int 10, Wis 14, Cha 15
+Base Atk +7; CMB +19 (+23 grapple); CMD 32 (44 vs. trip)
+Feats Dodge, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Stealth)B, Toughness B, Vital Strike
+Skills Acrobatics +15, Climb +23, Perception +19, Stealth +21 (+29 in forests); Racial Modifiers +4 Perception, +8 Stealth (+16 in forests)
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d4 Str damage; cure 2 consecutive saves.
+Sudden Strike (Ex) During a surprise round, a demonic deadfall scorpion may act as if it had a full round to act, rather than just one standard action.
+
+Base Template
+Demonic Vermin (CR +1)

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/wang-liang-tohc
+Wang Liang CR 3
+XP 800
+LE Medium outsider (evil, extraplanar, lawful)
+Init +6; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 26 (4d10+4); fast healing 2
+Fort +2, Ref +6, Will +6
+DR 5/silver; Immune poison; Resist fire 5
+OFFENSE
+Speed 30 ft.
+Melee bite +6 (1d6+1 plus poison), 2 claws +6 (1d4+1 plus poison)
+Spell-like Abilities (CL 4th):
+At will—detect good
+3/day—curse water (DC 12), darkness
+TACTICS
+Wang liang prefer to use misdirection and intimidation to alter the outcome of fights and bide their time if possible to assault foes when they are at their most vulnerable. It is not uncommon for a wang liang to use allies to their advantage. When pressed into actual combat they use full attacks in an attempt to infuse their opponent with as much venom as possible.
+STATISTICS
+Str 12, Dex 15, Con 13, Int 10, Wis 14, Cha 12
+Base Atk +4; CMB +5; CMD 17
+Feats Improved Initiative, Weapon Finesse
+Skills Bluff +8, Climb +8, Intimidate +6, Knowledge (planes) +5, Perception +9, Sense Motive +9, Survival +9
+Languages Common, Infernal
+SPECIAL ABILITIES
+Poison (Ex) Bite, Claw–injury; save Fort DC 12; frequency 1/round for 2 rounds; effect 1d4 Str; cure 1 save. The save DC is Constitution-based.
+Example Creature
+Wang Liang Master (Monk 6) Wang Liang Characters Wang liang leaders are usually monks or monk/sorcerers. Having been bred in the lusts of Lucifer and with the industry of the coal chambers of hell the wang liang player characters are often raised within the monasteries of lawful evil sects of monks upon the material planes. Due to their natural attacks and nerve numbing venom they quickly rise in the ranks of such sanctuaries of hellish intent, often serving as grand champions and grand masters. In Infernus, entire legions of wang liang monks are at Lucifer’s immediate command, with several masters serving as elite bodyguards. Wang liang characters possess the following racial traits.
+Ability Scores: +2 Strength, +4 Dexterity, +2 Constitution, +4 Wisdom, +2 Charisma: Wang liang are superior in mind and body. Senses: Wang liang have darkvision 60 ft. (they can see perfectly in darkness to a range of 60 feet.) Racial Hit Dice: A wang liang begins with four levels of outsider, which provide 4d10 Hit Dice, a base attack bonus of +4, and base saving throw bonuses of Fort +1, Ref +3, and Will +3. Racial Skills: A wang liang’s outsider levels give it skill points equal to 4 x (6 + Int modifier, minimum 1). Climb, Intimidate, Knowledge (religion) and Survival are class skill for wang liang. Racial Feats: A wang liang’s outsider levels give it two feats. AC: +3 natural armor bonus. Fast Healing: Wang liang possess fast healing 2. Defensive Abilities: Wang liang gain DR 5/silver and resist fire 5. Immunities: Wang liang are immune to poison. Natural Weapons: Wang liang can fight with a bite (1d6) and two claws (1d4). Special Attacks: Poison (see left). Spell-like Abilities: A wang liang can cast detect good at will, and curse water and darkness each 3 times per day, using its levels in outsider as its caster level. Languages: Wang liang begin play speaking Infernal. Those with an Intelligence score of at least 10 also speak Common. Wang liangs with high Intelligence scores can choose from the following bonus languages: Abyssal, Celestial, Draconic, and Sylvan.

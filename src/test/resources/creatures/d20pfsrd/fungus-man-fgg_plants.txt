@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/fungus-man-fgg
+Fungus Man CR 2
+XP 600
+N Small plant
+Init +2; Senses low-light vision; Perception +9
+DEFENSE
+AC 15, touch 13, flat-footed 13 (+2 Dex, +2 natural, +1 size)
+hp 16 each (3d8+3)
+Fort +4; Ref +3; Will +2
+DR 5/slashing or piercing; Immune poison, plant traits, Resist cold 5
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 20 ft.
+Melee slam +5 (1d3–2)
+Special Attacks spore cloud
+STATISTICS
+Str 6, Dex 15, Con 13, Int 9, Wis 12, Cha 10
+Base Atk +2; CMB +3; CMD 11
+Feats Agile Maneuvers, Skill Focus (Perception), Weapon FinesseB
+Skills Perception +9, Stealth +10
+SPECIAL ABILITIES
+Spore Cloud (Ex) Once per round as a standard action, a fungus man can release a cloud of noxious spores. All living creatures within 5 ft. must make a DC 12 Fortitude save or become nauseated for 1d4+1 rounds. The save DC is Constitution-based. This is a poison effect, and once a creature successfully saves it is immune to the spore cloud of that particular fungus man for 24 hours.

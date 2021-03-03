@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sea
+Sea Dragon
+
+CG dragon (water)
+BASE STATISTICS CR 4; Size Small; Hit Dice 5d12
+Speed 40 ft., swim 60 ft.
+Natural Armor +5; Breath Weapon cone, 2d6 fire
+Str 13, Dex 14, Con 13, Int 14, Wis 15, Cha 14
+SPECIAL ABILITIES
+Change Shape (Su) A young or older sea dragon can assume any humanoid form three times per day as if using polymorph.
+Sea Strider (Su) Three times per day as a standard action, an old or older sea dragon can move from one body of water to another as if using the teleport spell (self only).
+Tidal Wave (Su) Once per day, a great wyrm sea dragon can create a tidal wave. This ability is the same as the bronze dragon’s ability of the same name.
+Torrent Breath (Su) Instead of a cone of super-heated steam, a very young or older sea dragon can breathe a line of pressurized water twice the length of the sea dragon’s cone breath weapon. This line deals bludgeoning damage.
+Unfettered Swimmer (Su) A juvenile sea dragon gains a 10-foot bonus to its swim speed. The sea dragon’s swim speed continues to increase by an additional 10 feet every two age categories. Furthermore, while swimming, the sea dragon is treated as if under the effects of the spell freedom of movement.
+CR Age Category Special Abilities Caster Level
+4
+Wyrmling Immunity to electricity, water breathing —
+6
+Very young Torrent breath —
+8
+Young Change shape, create water 1st
+9
+Juvenile Frightful presence, hydraulic push, unfettered swimmer 3rd
+11
+Young adult DR 5/magic, spell resistance 5th
+12
+Adult Call lightning 7th
+13
+Mature adult DR 10/magic 9th
+15
+Old Control water, sea strider 11th
+16
+Very old DR 15/magic 13th
+17
+Ancient Water walk 15th
+18
+Wyrm DR 20/magic 17th
+20
+Great wyrm Tidal wave, vortex 19th

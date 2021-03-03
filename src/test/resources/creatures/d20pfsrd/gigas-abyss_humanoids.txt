@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gigas-abyss
+Abyss Gigas CR 16
+XP 76,800
+CE Gargantuan humanoid (chaotic, evil, extraplanar, giant)
+Init +5; Senses blindsight 100 ft.; Perception +27
+DEFENSE
+AC 31, touch 7, flat-footed 30 (+9 armor, +1 Dex, +15 natural, –4 size)
+hp 283 (21d8+189)
+Fort +21, Ref +8, Will +10
+Defensive Abilities rock catching; DR 3/—, 10/lawful; Immune electricity; Resist acid 10, cold 10, fire 10, sonic 10
+OFFENSE
+Speed 60 ft. (50 ft. in armor)
+Melee mwk adamantine warhammer +25/+20/+15 (4d6+19/19–20/×3), bite +19 (2d8+6 plus wrenching spasms)
+Ranged rock +13 (4d6+19)
+Space 20 ft.; Reach 20 ft.
+Special Attacks rock throwing (160 ft.)
+Spell-Like Abilities (CL 16th; concentration +18)
+At will—deeper darkness, fear (DC 15), mirror image
+3/day—dispel magic, dominate person (DC 17), telekinesis (DC 17), true seeing
+STATISTICS
+Str 37, Dex 12, Con 28, Int 20, Wis 17, Cha 15
+Base Atk +15; CMB +32 (+34 bull rush, +36 sunder); CMD 43 (45 vs. bull rush and sunder)
+Feats Awesome Blow, Catch Off-Guard, Combat Reflexes, Greater Sunder, Improved Bull Rush, Improved Critical (warhammer), Improved Initiative, Improved Sunder, Power Attack, Stand Still, Throw Anything
+Skills Climb +32, Intimidate +26, Knowledge (planes) +26, Perception +27, Sense Motive +24, Stealth +5, Survival +27
+Languages Abyssal, Common, Giant
+SQ planar empowerment
+SPECIAL ABILITIES
+Planar Empowerment (Su) While on the plane of the Abyss, an Abyss gigas gains access to blasphemy (DC 24), cloak of chaos (DC 25), and earthquake (DC 25) as spell-like abilities, each usable once per day. If the gigas ventures onto another plane, it cannot make use of these abilities (though its other spell-like abilities remain available). The save DC for the spell-like abilities is Charisma-based and includes a +5 racial bonus.
+Wrenching Spasms (Su) When an Abyss gigas hits an opponent with its bite attack, the opponent must make a DC 29 Fort save or be overcome by wrenching spasms that wrack its body. These spasms cause the victim to be nauseated and deal 1d6 points of damage to Strength and Dexterity due to the painful contortion of bones, muscles, and limbs. The spasms continue for 1d6 hours or until healed with heal, regenerate, or greater restoration. The effects of this ability do not stack, but once a creature has recovered from or been cured of the effect, it can be affected again. Once a creature has made a successful saving throw against this effect, it cannot be affected by the wrenching spasms from that particular gigas for 24 hours. The save DC is Constitution-based.

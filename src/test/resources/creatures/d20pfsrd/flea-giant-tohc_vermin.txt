@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/flea-giant-tohc
+Flea, Giant CR 1/2
+XP 200
+N Tiny vermin
+Init +4 Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 17, touch 16, flat-footed 13 (+4 Dex, +1 natural, +2 size)
+hp 5 (1d8+1)
+Fort +3; Ref +4; Will +0
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft.
+Melee touch +6 (1d2-2 plus blood drain) Space 2 1/2 ft.; Reach 0 ft.
+Special Attacks attach, blood drain, disease
+STATISTICS
+Str 6, Dex 18, Con 12, Int -, Wis 11, Cha 2
+Base Atk +0; CMB +2 (+10 grapple); CMD 22 (30 vs. trip)
+Feats Weapon FinesseB
+Skills Acrobatics +4 (+24 to jump); Racial Modifiers +20 to Acrobatics checks to jump
+SQ crowd
+SPECIAL ABILITIES
+Attach (Ex) If a giant flea hits with a touch attack, it uses its many legs to attach itself to the opponent’s body. While attached the giant flea loses its Dexterity bonus to AC and has an AC of 13. It gains a +12 racial bonus to CMD checks while attached. An attached flea can be struck with a weapon or removed by an opposed CMB attack to pluck it free. On a critical failure (a roll of 1) the flea’s head snaps off in the victim and continues to drain blood for 1d8 more rounds. The head can be removed with a successful DC 18 Heal check.
+Blood Drain (Ex) A giant flea drains blood, dealing 1d3 points of Constitution damage in any round it begins its turn attached to a victim. Once it has dealt 4 points of Constitution damage, it detaches and leaps away to digest the meal. At Constitution 0 the host dies and the giant flea detaches. If it has yet to deal 4 points of Constitution damage, it seeks a new host.
+Crowd (Ex) Because of their tiny size, up to four giant fleas can occupy the same 5-foot space.
+Disease (Ex) Filth fever: Bite-injury; save Fort DC 11; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.

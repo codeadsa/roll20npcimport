@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-stone-guardian-tohc
+Stone Guardian Golem CR 4
+XP 1,200
+N Medium construct
+Init –1; Senses darkvision 60 ft., low-light vision, see invisibility; Perception +0
+DEFENSE
+AC 17, touch 9, flat-footed 17 (–1 Dex, +8 natural)
+hp 47 (5d10+20)
+Fort +1; Ref +0; Will +1
+Defensive Abilities light fortification; Immune construct traits; Resist cold 5, fire 5, electricity 5
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +10 (1d8+5)
+STATISTICS
+Str 21, Dex 9, Con —, Int —, Wis 11, Cha 1
+Base Atk +5; CMB +10; CMD 19
+SQ ring link
+SPECIAL ABILITIES
+Light Fortification (Ex) A stone guardian has a 25% chance to ignore additional damage caused by critical hits or sneak attacks.
+Ring Link (Su) A stone guardian is linked to a magic ring. The construct will never attack any creature that wears this ring, nor any creatures within 10 feet of the ringwearer, unless one of those creatures attacks the guardian first.
+See Invisibility (Ex) A stone guardian constantly sees invisible creatures and objects, as per the spell see invisibility.

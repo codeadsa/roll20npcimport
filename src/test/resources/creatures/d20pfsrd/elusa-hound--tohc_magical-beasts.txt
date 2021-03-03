@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/elusa-hound--tohc
+Elusa Hound CR 3
+XP 800
+N Medium magical beast
+Init +2; Senses arcane sight, darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 30 (4d10+8)
+Fort +6; Ref +6; Will +2
+SR 12
+OFFENSE
+Speed 50 ft.
+Melee bite +6 (1d6+3 plus trip)
+TACTICS
+When given instructions to track and kill their target, a pack of elusa hounds uses tactics similar to other canine animals: circle the prey and attack simultaneously from the front, rear, and flanks. These beasts can easily be trained to pin or hold a foe rather than kill it. This tactic is often employed by military or government units when they wish to capture and interrogate a renegade spellcaster. When using these tactics, the elusa hound attempts to trip its foe and then pins it with a bite.
+STATISTICS
+Str 15, Dex 15, Con 15, Int 6, Wis 12, Cha 8
+Base Atk +4; CMB +6; CMD 18 (22 vs. trip)
+Feats Skill Focus (Perception), Skill Focus (Survival)
+Skills Perception +8, Survival +10 (+14 tracking by scent); Racial Modifiers Survival +4 when tracking by scent
+Languages understands Common (but cannot speak)
+SQ aura tracking
+SPECIAL ABILITIES
+Arcane Sight (Su) Elusa hounds can detect magical auras in a 120-foot radius, as per the arcane sight spell cast by a sorcerer at 6th level. This ability can be dispelled, but the elusa hound can restart it as a free action on its next turn. Using this ability, the elusa hound can instantly identify any spellcaster within range.
+Aura Tracking (Su) If an elusa hound has “tasted” the magical aura of a living creature (a creature it has successfully used its arcane sight ability against or a spell it has successfully detected that was cast by such a creature), it gains a +10 competence bonus to its Survival check when tracking that target. The aura must be fresh (“tasted” within the last 3 hours) or the elusa hound does not gain this bonus.

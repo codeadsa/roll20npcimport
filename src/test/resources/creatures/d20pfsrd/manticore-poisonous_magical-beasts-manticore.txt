@@ -1,0 +1,41 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/manticore/manticore-poisonous
+Poisonous Manticore CR 6
+XP 2,400
+LE Large magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +9; Aura poisonous cloud (10 ft., DC 19, 1d3 Str and sickened)
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, –1 size)
+hp 69 (6d10+36)
+Fort +11, Ref +7, Will +3
+Defensive Abilities toxic flesh; Immune poison
+OFFENSE
+Speed 30 ft., fly 50 ft. (clumsy)
+Melee bite +10 (1d8+5 plus poison), 2 claws +10 (2d4+5 plus poison)
+Ranged 4 spikes +8 (1d6+5 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks poisonous cloud, spikes, venomous breath
+TACTICS
+A poisonous manticore begins most attacks with a volley of spikes, then uses its breath weapon. Thereafter, it closes to melee and slashes with claws and teeth.
+STATISTICS
+Str 20, Dex 15, Con 22, Int 7, Wis 12, Cha 9
+Base Atk +6; CMB +12; CMD 24 (28 vs. trip)
+Feats Flyby Attack, Hover, Weapon Focus (spikes)
+Skills Fly –3, Perception +9, Survival +4 (+8 tracking); Racial Modifiers +4 Perception, +4 Survival when tracking
+Languages Common
+SQ
+SPECIAL ABILITIES
+Detect Anti-Poison (Su) At will as a standard action, a poisonous manticore can detect alchemical items, magic effects, and magic items within 30 feet that neutralize or delay poisons, or determine whether a creature in the same range is naturally immune or resistant to poisons. For each such example in the area, the poisonous manticore can make a DC 15 Wisdom check. Success indicates that the poisonous manticore knows the location of the qualifying creature, object, or magic effect and why it qualifies.
+Knowing the location of a hidden or invisible creature or object does not reveal it; the creature merely knows what square or squares the creature or object occupies. The creature knows the location an object, effect, or creature at the moment of the detection, but it cannot follow it’s movement (if it moves) without another detection attempt. The creature usually uses this ability to determine whether it can affect a certain foe.
+Poison (Ex) Bite, Claw or Spikes—injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d2 Con; cure 1 saves. Save DC is Constitution-based.
+Poisonous Cloud (Ex) A poisonous manticore is constantly surrounded by an invisible cloud of poisonous gas. This inhaled poison affects any creature that breathes the air or water within 10 feet of the poisonous manticore.
+Aura – inhaled; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d3 Str damage plus sickened for 1 hour, cure 2 saves. Two consecutive saves reduces the sickened condition to 1 minute. Save DC is Constitution-based.
+Spikes (Ex) With a snap of its tail, a manticore can loose a volley of four spikes as a standard action (make an attack roll for each spike). This attack has a range of 180 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only 24 spikes in any 24-hour period.
+Toxic Flesh (Ex) Poison – contact; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d2 Dex damage; cure 2 saves. Save DC is Constitution-based.
+The poisonous creature’s flesh exudes a contact poison. Each time a poisonous creature makes physical contact with another creature, it delivers its poison. Such contact includes grappling and successful touch or natural attacks by either the poisonous creature or its foe, unless a glove or gauntlet prevents flesh-to-flesh contact.
+This contact poison loses its effectiveness when removed from the poisonous creature, so it is not effective when placed upon objects. In addition, any creature that eats a poisonous creature’s flesh or swallows it whole is affected by the poison as if it had touched the poisonous creature.
+Venomous Breath (Ex) Once every 1d4 rounds, a poisonous creature can spew forth a disorienting mist of contact poison in a 60-foot cone as a standard action. Each creature in the area must succeed in a Fortitude save (DC 19) or suffer the effects of the poison.
+Failing the save results in 1d6 point of Intelligence damage, 1d6 point of Wisdom damage, and the creature is confused as per the spell. A successful save halves the ability damage and negates the confusion effect. The confusion effect lasts for one round per HD of the poisonous creature.
+The save DC is Constitution-based.
+Template Base
+Poisonous Creature Stats Created by
+Brett, d20pfsrd Beastmaster I

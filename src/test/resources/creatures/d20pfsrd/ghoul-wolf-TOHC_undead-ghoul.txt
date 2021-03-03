@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghoul/ghoul-wolf-TOHC
+Ghoul Wolf CR 2
+XP 600
+NE Medium undead
+Init +2; Senses darkvision 60 ft., scent; Perception +9
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 18 (4d8)
+Fort +1, Ref +3, Will +6
+Defensive Abilities channel resistance +2; Immune undead traits
+OFFENSE
+Speed 50 ft.
+Melee bite +7 (1d6+4 plus paralysis plus trip)
+Special Attacks paralysis (1d4+2 rounds, DC 12, elves are immune to this effect)
+TACTICS
+Ghoul wolves hunt in packs, surrounding their prey and circling as they move in for the kill.
+STATISTICS
+Str 17, Dex 15, Con –, Int 6, Wis 14, Cha 10
+Base Atk +3; CMB +6; CMD 18 (22 vs. trip)
+Feats Skill Focus (Perception), Weapon Focus (bite)
+Skills Perception +9, Stealth +6, Survival +2 (+6 tracking by scent), Swim +5; Racial Modifiers +4 Survival when tracking by scent

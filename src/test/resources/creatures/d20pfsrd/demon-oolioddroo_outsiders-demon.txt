@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-oolioddroo
+Oolioddroo CR 13
+XP 25,600
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +7; Senses darkvision 60 ft., see thoughts; Perception +32
+DEFENSE
+AC 28, touch 22, flat-footed 20 (+4 deflection, +7 Dex, +1 dodge, +6 natural)
+hp 175 (14d10+98)
+Fort +11, Ref +16, Will +16
+Defensive Abilities shadow mantle; DR 10/good; Immune electricity, mind-affecting effects, poison; Resist acid 10, cold 10, fire 10; SR 24
+OFFENSE
+Speed 30 ft., fly 40 ft. (perfect)
+Melee 2 claws +21 (1d4+2), tongue +21 (1d6+2 plus thought siphon)
+Special Attacks oviposition, sneak attack +3d6
+Spell-Like Abilities (CL 14th; concentration +20)
+At will—calm emotions (DC 18), charm person (DC 17), detect thoughts (DC 22), greater teleport (self plus 50 lbs. of objects only), invisibility, modify memory (DC 19), sending
+3/day—hold person (DC 19), quickened invisibility, suggestion (DC 19)
+1/day—dream, feeblemind (DC 21), nightmare (DC 21), summon (level 4, 1 oolioddroo 35% or 1d4 shadow demons 35%)
+STATISTICS
+Str 14, Dex 25, Con 24, Int 21, Wis 24, Cha 23
+Base Atk +14; CMB +16; CMD 38
+Feats Dodge, Lightning Stance, Mobility, Quicken Spell-Like Ability (invisibility), Spring Attack, Weapon Finesse, Wind Stance
+Skills Acrobatics +21, Bluff +23, Diplomacy +23, Fly +32, Knowledge (arcana, planes) +22, Perception +32, Sense Motive +32, Spellcraft +22, Stealth +28, Use Magic Device +23; Racial Modifiers +8 Perception, +4 Stealth
+Languages Abyssal, Celestial, Draconic; telepathy 300 ft.
+SPECIAL ABILITIES
+Oviposition (Su) As a full-round action once per day, an oolioddroo can use its tongue to implant its eggs into the brain of a helpless, sleeping, unconscious, or willing creature, dealing 1 point of Intelligence damage. Typically, the oolioddroo uses modify memory immediately after an oviposition, making its victim forget the violation. The egg gestates in the victim’s brain for 24 hours, after which a small caterpillar-like larva emerges and nestles painlessly within the victim’s brain. At this point, the oolioddroo can track the victim’s location as if the victim were under the effect of a status spell, can communicate telepathically with the victim across any distance, and can use its detect thoughts, modify memory, and suggestion spell-like abilities through the link to target the victim. The larva (and its link to its oolioddroo) becomes inert whenever the victim and the oolioddroo are on separate planes. Victims carrying this larva radiate a chaotic and evil aura. Anyone who reads the victim’s thoughts, such as via detect thoughts or telepathy, can attempt a Sense Motive check opposed by the oolioddroo’s Bluff check to notice the presence of a second, alien set of thoughts in the target’s mind. Dispel chaos and dispel evil can each immediately end the oviposition—the implanted larva melts into harmless fluid and is absorbed by the victim’s body. This is not a disease effect, though, so heal or remove disease offer no aid in ending the effect. As an immediate action, an oolioddroo can use its feeblemind spell-like ability on the carrier—it uses this “scorched earth” tactic if it fears that the host is about to be rescued or cut off from its influence, such as occurs when the effects are ended via dispel chaos or dispel evil.
+Using feeblemind in this way automatically destroys the larva, regardless of whether or not the victim succeeds at the saving throw against the feeblemind effect, so an oolioddroo typically waits until the last moment to use this ability.
+See Thoughts (Su) An oolioddroo can see a creature’s thoughts, interpreting them as a shifting mass of colors, images, and shapes that infuse a creature’s aura. An oolioddroo gains the effects of see invisibility against creatures with an Intelligence score as a result of this unusual sense. This ability also grants the oolioddroo a +8 racial bonus on Sense Motive checks.
+When it uses detect thoughts, it does not have to study an area or subject to gain all 3 rounds of information—it gains all of this information on the 1st round of using the ability. In addition, it gains a +4 racial bonus to the save DC of its detect thoughts spell-like ability. A blind oolioddroo loses the ability to see thoughts.
+Shadow Mantle (Su) The supernatural shadows that wreathe an oolioddroo grant the creature a +4 racial bonus on Stealth checks and a +4 deflection bonus to its Armor Class.
+Thought Siphon (Su) Whenever an oolioddroo damages a creature with its tongue attack, it can drink away one of the creature’s thoughts or memories. A creature can resist this attack with a successful DC 23 Will save. On a failed save, the oolioddroo targets the victim with one of the following effects. The save DC is Charisma-based.
+Memory Drain: The victim is immediately affected by the oolioddroo’s modify memory spell-like ability. The oolioddroo can adjust up to 5 minutes of memories immediately—it does not need to increase the spell’s casting time to match the duration of the modified memory.
+Skill Drain: The victim loses all skill ranks in a skill of the oolioddroo’s choosing for 24 hours. Lost skill ranks can be recovered immediately with a restoration or greater restoration spell.
+Spell Drain: The victim immediately loses one prepared spell or one unused spell slot of the oolioddroo’s choice; this lost spell or spell slot can be replenished normally.
+Wisdom Drain: The victim takes 2 points of Wisdom drain.
+Tongue (Ex) An oolioddroo’s tongue attack is a primary attack that deals piercing and slashing damage. Whenever an oolioddroo damages a foe with its tongue, it can use its thought siphon attack.

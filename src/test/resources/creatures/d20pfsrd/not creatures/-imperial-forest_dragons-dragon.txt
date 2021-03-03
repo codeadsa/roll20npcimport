@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-forest
+Forest Dragon
+CE dragon (earth)
+BASE STATISTICS CR 6; Size Small; Hit Dice 7d12
+Speed 40 ft, burrow 20 ft., climb 30 ft.
+Natural Armor +6; Breath Weapon cone, 2d6 piercing
+Str 15, Dex 14, Con 14, Int 10, Wis 11, Cha 10
+SPECIAL ABILITIES
+Change Shape (Su) An adult or older forest dragon can assume any humanoid form three times per day as if using polymorph.
+Destructive Crush (Su) When an old or older forest dragon makes a crush attack, the impact kicks up debris in a 20-foot-radius burst for 1d6 rounds. The debris obscures the vision of creatures within the debris field and grants concealment to those creatures. The forest dragon can see normally within and through the debris field.
+Elemental Breath (Su) Once per day, when an ancient or older forest dragon uses its breath weapon, it can summon a greater earth elemental within the cone. The caster level for these effects is the same as the dragon’s caster level.
+Sound Imitation (Ex) A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener’s Sense Motive check.
+Stony Death (Su) Any creature reduced to 0 or fewer hit points by a great wyrm forest dragon’s breath weapon must also make a Fortitude save (same DC as the forest dragon’s breath weapon) or be petrified as the flesh to stone spell. This is a death effect.
+Woodland Stride (Ex) As the druid ability of the same name.
+CR Age Category Special Abilities Caster Level
+6 Wyrmling Woodland stride, immunity to poison —
+8 Very Young Sound imitation —
+10 Young Pass without trace 1st
+11 Juvenile Frightful presence, entangle 3rd
+13 Young Adult DR 2/adamantine 5th
+14 Adult Change shape, blight 7th
+15 Mature Adult DR 5/adamantine 9th
+17 Old Destructive crush, tree stride 11th
+18 Very Old DR 10/adamantine 13th
+19 Ancient Elemental breath, animate plants 15th
+20 Wyrm DR 15/adamantine 17th
+22 Great Wyrm Stony death, earthquake 19th
+Editor’s Note
+Although the table does not mention it, the Forest Dragon does appear to gain spell resistance as it ages. Based on the other imperial dragons, we assume its SR begins at Young Adult.

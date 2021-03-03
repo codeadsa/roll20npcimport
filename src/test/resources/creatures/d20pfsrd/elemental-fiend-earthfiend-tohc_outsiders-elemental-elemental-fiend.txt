@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-fiend/elemental-fiend-earthfiend-tohc
+Earthfiend CR 5
+XP 1,600
+CE Medium outsider (chaotic, earth, elemental, evil, extraplanar)
+Init +1; Senses all-around vision, darkvision 60 ft.; Perception +15
+DEFENSE
+AC 18, touch 11, flat-footed 17 (+1 Dex, +7 natural)
+hp 68 (8d10+24)
+Fort +5; Ref +7; Will +6
+DR 10/—; Immune acid, elemental traits
+OFFENSE
+Speed 30 ft.
+Melee 3 battleaxes (damage 1d8+4/x3 plus abrade)
+Special Attacks abrade
+STATISTICS
+Str 18, Dex 13, Con 16, Int 8, Wis 10, Cha 8
+Base Atk +8; CMB +12; CMD 23 (25 vs. trip)
+Feats Cleave, Intimidating Prowess, Power Attack, Weapon Focus (battle axe)
+Skills Bluff +10, Intimidate +14, Knowledge (planes) +10, Perception +15, Sense Motive +11; Racial Modifiers +4 Perception
+Languages Terran
+SQ willful weapon
+Combat Gear 3 masterwork weapons
+SPECIAL ABILITIES
+All-Around Vision (Ex) An elemental fiend’s three faces allow it to see in all directions at once. It cannot be flanked.
+Abrade (Ex) An earthfiend deals slashing damage in addition to damage dealt on a successful hit in melee. Those affected by the abrade ability must also succeed on a DC 17 Reflex save or have patches of skin ripped away, taking 1d6 slashing damage for an additional 1d4 rounds at the start of its turn. An abraded creature can attempt a new save as a full-round action by brushing off the abrasive material. Creatures that hit an earthfiend with natural weapons or unarmed attacks take slashing damage as though hit by the earthfiend. The save DC is Constitution-based.
+Willful Weapon (Su) A disarmed elemental fiend can will its weapon to return to its hand on its turn as a free action, as long as the weapon is within 30 ft. of the elemental fiend and is in its line of sight and line of effect. The weapon automatically returns to the elemental fiend’s hand even if the weapon is being held by another creature.

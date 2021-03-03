@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-copper/ancient-copper-dragon
+Ancient Copper Dragon CR 17
+XP 102,400
+CG Huge dragon (earth)
+Init +4; Senses dragon senses; Perception +32
+Aura frightful presence (300 ft., DC 27), slow
+DEFENSES
+AC 39, touch 8, flat-footed 39 (+31 natural, –2 size)
+hp 310 (23d12+161)
+Fort +20, Ref +13, Will +19
+Defensive Abilities uncanny dodge; DR 15/magic; Immune acid, paralysis, sleep; SR 28
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor); climb stone
+Melee bite +32 (2d8+16/19–20), 2 claws +32 (2d6+11/19–20), 2 wings +27 (1d8+5), tail slap +27 (2d6+16)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (100-ft. line, DC 28, 20d6 acid), crush, mass laughter, slow breath Spell-Like Abilities (CL 23rd)
+At will—grease (DC 17), hideous laughter (DC 18), stone shape, transmute mud to rock, transmute rock to mud, wall of stone
+Spells Known (CL 15th)
+7th (4/day)—reverse gravity, teleport object (DC 23)
+6th (7/day)—antimagic field, mislead, programmed image (DC 23)
+5th (7/day)—mind fog (DC 21), polymorph, sending, teleport
+4th (7/day)—confusion, rainbow pattern, stone shape, stoneskin
+3rd (7/day)—dispel magic, haste, suggestion (DC 19), tongues
+2nd (7/day)—glitterdust (DC 18), invisibility, phantom trap, pyrotechnics, see invisibility
+1st (8/day)—expeditious retreat, magic aura, obscuring mist, shield, silent image (DC 18)
+0 (at will)—dancing lights, detect magic, ghost sound (DC 17), light, mage hand, message, open/close, prestidigitation, read magic
+STATISTICS
+Str 33, Dex 10, Con 25, Int 22, Wis 23, Cha 22
+Base Atk +23; CMB +36; CMD 46 (50 vs. trip)
+Feats Combat Expertise, Greater Trip, Improved Critical (bite, claw), Improved Disarm, Improved Initiative, Improved Trip, Improved Vital Strike, Power Attack, Quicken Spell, Spell Focus (illusion), Vital Strike
+Skills Bluff +32, Craft (traps) +42, Diplomacy +32, Fly +18, Knowledge (geography) +32, Knowledge (history) +32, Perception +32, Perform (comedy) +29, Sense Motive +32, Spellcraft +32, Stealth +18, Use Magic Device +32
+Languages Common, Draconic, Dwarven, Elven, Giant, Gnome, Halfling

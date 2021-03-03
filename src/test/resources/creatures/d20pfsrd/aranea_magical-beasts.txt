@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/aranea
+Aranea CR 4
+XP 1,200
+N Medium magical beast (shapechanger)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 20, touch 13, flat-footed 17 (+4 armor, +3 Dex, +3 natural)
+hp 37 (5d10+10)
+Fort +6, Ref +7, Will +4
+OFFENSE
+Speed 50 ft., climb 30 ft.
+Melee bite +8 (1d6 plus poison)
+Special Attacks web (+8 ranged, DC 14, hp 5)
+Sorcerer Spells Known (CL 5th; concentration +8)
+2nd (5/day)—invisibility, mirror image
+1st (7/day)—charm person (DC 14), mage armor (1 already cast), silent image (DC 14), sleep (DC 14)
+0th (at will)—daze (DC 13), detect magic, ghost sound (DC 13), light, mage hand, resistance
+STATISTICS
+Str 11, Dex 17, Con 14, Int 14, Wis 13, Cha 16
+Base Atk +5; CMB +5; CMD 18
+Feats Eschew MaterialsB, Improved Initiative, Iron Will, Weapon Finesse
+Skills Acrobatics +9 (+17 jump), Climb +14, Escape Artist +8, Knowledge (arcana) +7, Perception +9, Stealth +9; Racial Modifiers +2 Acrobatics, +8 Climb, +2 Perception
+Languages Common, Sylvan
+SQ change shape (humanoid; alter self )
+SPECIAL ABILITIES
+Change Shape (Su) An aranea can take the form of a Small or Medium humanoid or spider-humanoid hybrid. In humanoid form, an aranea cannot use its bite, web, or poison. In spider-humanoid hybrid form, an aranea looks like a humanoid with spidery fangs and spinnerets, with the latter typically located at the small of its back. The aranea retains its bite attack, webs, and poison in this form, and can wield weapons and wear armor. When in humanoid or hybrid form, an aranea’s speed is 30 feet and it has no climb speed.
+Poison (Ex) Bite—injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d3 Strength; cure 1 save.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/ryven
+Ryven CR 2
+XP 600
+N Medium monstrous humanoid
+Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +6
+DEFENSE
+AC 14, touch 13, flat-footed 11 (+3 Dex, +1 natural)
+hp 22 (3d8+9)
+Fort +4, Ref +6, Will +4
+OFFENSE
+Speed 30 ft.
+Melee short sword +6 (1d6+2) or 2 claws +6 (1d4+2), bite +6 (1d6+2),
+Ranged light crossbow +6 (1d8, 19-20/x2, range 80 ft.)
+Special Attacks rage
+TACTICS
+Ryvens prefer to attack from surprise. Often, a ryven burrows underneath an unsuspecting foe and emerges from the ground in a blast of rock and dirt, catching the opponent by surprise. It then tears into its opponent with teeth and claws.
+Ryven have managed to gain some control over their animalistic behavior and when angered and raging, can attempt to end the rage.
+STATISTICS
+Str 14, Dex 17, Con 17, Int 6, Wis 12, Cha 10
+Base Atk +3; CMB +5; CMD 18
+Feats Skill Focus (Perception), Weapon Finesse
+Skills Escape Artist +11, Perception +6, Survival +1 (+5 scent tracking); Racial Modifiers +4 Escape Artist
+Languages Common
+SPECIAL ABILITIES
+Rage (Ex) A ryven that takes damage in combat flies into a berserk rage on its next turn, clawing and biting madly until it or its opponent is dead. It gains Strength +4, Constitution +4, and -2 AC. The ryven cannot end its rage voluntarily, but can attempt a DC 20 Will save each round to regain control.
+Ryvens Characters +4 Strength, +6 Dexterity, +6 Constitution, -4 Intelligence, +2 Wisdom. Strong and agile, ryven characters make excellent rogues or fighters. Each ryven tribe has at least one shaman, usually a druid. Ryven clerics worship Domga, “the Badger God” and can choose any two of the following domains: Animal, Evil (if evil), Plant, Trickery, or Strength. Darkvision: Ryvens can see in the dark up to 60 feet. Low-Light Vision: Ryvens see twice as far as humans in conditions of dim light. Scent: Rivens gain the scent special ability Racial Hit Dice: A ryven begins with three levels of monstrous humanoid, which provides 3d8 HD, a base attack bonus of +3, and base save bonuses of Fort +1, Ref +3, and Will +3. Racial Skills: A ryven’s monstrous humanoid levels give it skill points equal to 6 x (2 + Int modifier, minimum 1). Its class skills are Escape Artist and Perception. Racial Feats: A ryven’s monstrous humanoid class levels give it two feats. Born Tracker: +4 racial bonus to tracking by scent. Slippery: +4 racial bonus to Escape Artist checks. Natural AC: a rivens tough hide provides it with a +1 natural armor bonus. Languages: Common. A riven with high Intelligence scores can choose from the following bonus languages: Elven, Goblin, Sylvan, Orc.

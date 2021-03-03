@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-skitterdark-tohc
+Skitterdark CR 3
+XP 800
+CE Tiny outsider (chaotic, demon, evil, extraplanar)
+Init +3; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 19, touch 16, flat-footed 15 (+3 Dex, +1 dodge, +3 natural, +2 size)
+hp 34 (4d10+12)
+Fort +7, Ref +4, Will +5
+DR 5/cold iron; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 14
+OFFENSE
+Speed 20 ft., fly 40 ft. (good)
+Melee 2 claws +9 (1d3–1), bite +9 (1d4–1)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks profane claws
+Spell-Like Abilities (CL 5th)
+At will—detect good, detect magic
+1/day—hold person (DC 13), scare (DC 13)
+STATISTICS
+Str 8, Dex 17, Con 16, Int 11, Wis 12, Cha 12
+Base Atk +4; CMB +5; CMD 15
+Feats Dodge, Weapon Finesse
+Skills Acrobatics +10, Escape Artist +10, Fly +18, Perception +8, Stealth +18, Survival +8
+Languages Abyssal, Common
+SQ clustering
+SPECIAL ABILITIES
+Clustering (Ex) Because of their small size and swarming tactics, up to 4 skitterdarks can fit in the same 5-foot space and function normally.
+Profane Claws (Su) Any good-aligned creature hit by a skitterdark’s claw attack takes normal damage plus 1d6 points of profane damage.

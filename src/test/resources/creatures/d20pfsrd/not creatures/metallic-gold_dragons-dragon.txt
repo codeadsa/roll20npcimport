@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-gold
+Gold Dragon
+LG dragon (fire)
+BASE STATISTICS
+CR 7; Size Small; Hit Dice 8d12
+Speed 60 ft., swim 60 ft.
+Natural Armor +7; Breath Weapon cone, 2d10 fire
+Str 17, Dex 14, Con 15, Int 14, Wis 15, Cha 14
+SPECIAL ABILITIES
+Change Shape (Su) A very young or older gold dragon can assume any animal or humanoid form three times per day as if using polymorph.
+Detect Gems (Sp) A young or older gold dragon can detect gems three times per day. This functions as locate object, but can only be used to locate gemstones.
+Divine Aid (Sp) Once a week, a great wyrm gold dragon can call upon celestial powers for aid. This functions as a miracle.
+Fast Flight (Ex) A young or older gold dragon is treated as one size category larger when determining his fly speed.
+Fire Aura (Su) An old or older gold dragon is surrounded by an aura of fire. All creatures within 5 feet of the dragon take 1d6 points of fire damage at the beginning of the dragon’s turn. An ancient gold dragon’s aura extends to 10 feet. A great wyrm’s damage increases to 2d6. The dragon can activate or suppress this aura as a free action.
+Luck (Sp) Once per day an adult or older gold dragon can touch a gem, usually one embedded in the dragon’s hide, and enspell it to bring good luck. As long as the dragon carries the gem, it and every good creature within a given radius of it (10 ft. per age category) receives a +1 luck bonus on all saving throws. If the dragon gives an enspelled gem to another creature, only that bearer gets the bonus. The effect lasts 1d3 hours plus 3 hours per age category of the dragon. This ability is the equivalent of a 2nd-level spell.
+Spell-Like Abilities (Sp) A gold dragon gains the following spell-like abilities upon reaching the listed age category. Its caster level for these effects is equal to its Hit Dice, and any save DCs are Charisma-based. A gold dragon can use these abilities at will.
+Very young—detect evil Juvenile—bless Adult—daylight Old—geas/quest Ancient—sunburst Great wyrm—foresight Weakening Breath (Su) Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).
+Age Category Special Abilities Caster Level
+Wyrmling Fire subtype, weakening breath —
+Very young Change shape, detect evil —
+Young Fast flight, detect gems 1st
+Juvenile Bless 3rd
+Young Adult DR 5/magic, spell resistance 5th
+Adult Frightful presence, luck, daylight 7th
+Mature adult DR 10/magic 9th
+Old Fire aura, geas/quest 11th
+Very old DR 15/magic 13th
+Ancient Sunburst 15th
+Wyrm DR 20/magic 17th
+Great wyrm Divine aid, foresight 19th

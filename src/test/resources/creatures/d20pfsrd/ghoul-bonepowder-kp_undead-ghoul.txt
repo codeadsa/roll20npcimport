@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghoul/ghoul-bonepowder-kp
+Bonepowder Ghoul CR 15
+XP 51,200
+NE Small undead
+Init +9; Senses darkvision 60 ft.; Perception +22
+DEFENSE
+AC 17, touch 17, flat-footed 11 (+5 Dex, +1 dodge, +1 size)
+hp 178 (17d8+102)
+Fort +11, Ref +12, Will +12
+Defensive Abilities amorphous, channel resistance +4; Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee bite +18 (1d6 plus 1d3 Str and paralysis)
+Special Attacks coalesce, gravedust (DC 24), whirlwind
+Spell-Like Abilities (CL 17th; concentration +23)
+At will—chill touch (DC 17), deeper darkness, dispel magic, ray of enfeeblement (DC 17)
+3/day—blindness/deafness (DC 18), empowered enervation
+1/day—energy drain
+STATISTICS
+Str 10, Dex 20, Con —, Int 19, Wis 15, Cha 22
+Base Atk +12; CMB +16; CMD 27
+Feats Agile Maneuvers, Dodge, Empower Spell-Like Ability (enervation), Improved Initiative, Lightning Reflexes, Mobility, Spring Attack, Stealthy, Weapon Finesse
+Skills Bluff +16, Climb, +15, Diplomacy +13, Disguise +15, Escape Artist +18, Fly +19, Intimidate +19, Knowledge (arcana) +20, Knowledge (dungeoneering) +19, Knowledge (history) +15, Knowledge (religion) +20, Perception +22, Spellcraft +14, Stealth +30; Racial Modifiers +8 Escape Artist, +4 Stealth
+Languages Common, Darakhul, Dwarven, Draconic, Undercommon
+SQ dusty form, hide in plain sight
+SPECIAL ABILITIES
+Coalesce (Su) A bonepowder ghoul can temporarily assume a humanoid form by draining 5 or more Strength from a victim or with a successful enervation attack. This form is Small and semi-transparent but roughly the shape of a normal ghoul. It never lasts for more than 10 minutes/5 ability points drained. In this form, the ghoul can speak normally and manipulate objects.
+Disease (Su) Darakhul Fever: Bite—injury; save Fortitude DC 24; onset 1 day; effect damage 1d6 Con and 1d3 Dex; cure 2 consecutive saves.
+A creature that dies while infected with darakhul fever infected by a bonepowder ghoul or an afflicted creature killed by a bonepowder ghoul rises as a darakhul immediately, gaining the darakhul template.
+Dusty Form (Su) In its natural form, it is difficult to damage a bonepowder ghoul. Damage from any physical attacks is reduced by 50%.
+Gravedust (Ex) A bonepowder ghoul can project a 40-ft. cone of grave dust once every 3 rounds as a standard action. All creatures within the area must make an immediate DC 24 Fortitude check or take 1d6 Strength damage (which the bonepowder ghoul adds to its own Strength as temporary points) and make an immediate DC 24 Fortitude save (Cha-based) or be infected with darakhul fever.
+Paralysis (Ex) Those hit by a bonepowder ghoul’s natural weapons must succeed on a Fortitude save (DC 24) or be paralyzed for 1d4+1 rounds. Even elves and undead are affected by this paralysis.
+Whirlwind (Ex) A bonepowder ghoul can generate a whirlwind of bones and teeth 1/day. This attack affects all creatures within a 20-ft. cube, and it inflicts 2d12 damage and drains 1d6 Strength. (They do not add to their own Strength with this attack.)

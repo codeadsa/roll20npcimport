@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/phase-flea-tohc
+Phase Flea CR 2
+XP 600
+N Tiny magical beast (augmented vermin)
+Init +8; Senses darkvision 60 ft., low-light vision; Perception +6
+DEFENSE
+AC 19, touch 17, flat–footed 14 (+4 Dex, +1 dodge, +2 natural, +2 size)
+hp 17 (2d10+6)
+Fort +6; Ref +7; Will +2
+Defensive Abilities ethereal jaunt
+OFFENSE
+Speed 30 ft.
+Melee touch +8 (1d2–1 plus blood drain and disease)
+Space 2 1/2 ft.; Reach 0 ft.
+Special Attacks attach, blood drain, disease, ethereal ambush
+STATISTICS
+Str 8, Dex 18, Con 16, Int 7, Wis 15, Cha 10
+Base Atk +2; CMB +4; CMD 14 (22 vs. trip)
+Feats Dodge, Improved Initiative B, Weapon FinesseB
+Skills Acrobatics +8 (+28 to jump), Perception +6; Racial Modifiers +20 Acrobatics to jump
+SQ crowd
+SPECIAL ABILITIES
+Attach (Ex) If a phase flea hits with a touch attack, it uses its many legs to attach itself to the opponent’s body. While the phase flea loses its Dexterity bonus to AC and has an AC of 13, it gains a +12 racial bonus to CMD checks while attached. An attached flea can be struck with a weapon or removed by an opposed CMB attack to pluck it free. On a critical failure (a roll of 1) the flea’s head snaps off in the victim and continues to drain blood for 1d8 more rounds. The head can be removed with a successful DC 18 Heal check.
+Blood Drain (Ex) A phase flea drains blood, dealing 1d3 points of Constitution damage in any round it begins its turn attached to a victim. Once it has dealt 4 points of Constitution damage, it detaches and leaps away to digest the meal. At Constitution 0 the host dies and the phase flea detaches. If it has yet to deal 4 points of Constitution damage, it seeks a new host.
+Crowd (Ex) Because of their tiny size, up to four phase fleas can occupy the same 5–foot space.
+Disease (Ex) Filth fever: Bite—injury; save Fort DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dexdamage and 1d3 Condamage; cure 2 consecutive saves. The save DC is Constitution–based.
+Ethereal Ambush (Ex) A phase flea that attacks foes on the Material Plane in a surprise round can take a full round of actions if it begins the combat by phasing into the Material Plane from the Ethereal Plane.
+Ethereal Jaunt (Su) A phase flea can shift from the Ethereal to the Material Plane as a free action, and shift back again as a move action (or during a move action). The ability is otherwise identical with ethereal jaunt (caster level 15th).

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/bloodsuckle
+Bloodsuckle CR 6
+XP 2,400
+N Large plant
+Init +4; Senses blindsight 30 ft., host sense 100 ft.; Perception +11
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+8 natural, –1 size)
+hp 68 (8d8+32)
+Fort +10; Ref +4; Will +4
+Immune plant traits
+OFFENSE
+Speed 0 ft. (immobile)
+Melee 2 tendrils +9 (1d4+3 plus grab plus create host) or 4 limb rakes +8 (1d6+3)
+Space 10 ft.; Reach 10 ft. (30 ft. with tendrils)
+Special Attacks blood drain, create host, seed, summon host
+STATISTICS
+Str 16, Dex 10, Con 18, Int 6, Wis 11, Cha 11
+Base Atk +6; CMB +10 (+14 grapple); CMD 20 (can’t be tripped)
+Feats Improved Initiative, Iron Will, Lightning Reflexes, Weapon Focus (tendril)
+Skills Perception +11
+Languages summon host (see below)
+SPECIAL ABILITIES
+Blood Drain (Ex) A bloodsuckle that grapples a foe can drain blood, dealing 1d4 points of Constitution damage each round that the hold is maintained. Once it has dealt 8 points of Constitution damage, it releases victim so it can use it again later as a food source. Bloodsuckles never kill those they have transformed into hosts unless they are extremely hungry.
+Create Host (Ex) A bloodsuckle that strikes a living target with a tendril injects a special poison sap into the victim that requires a DC 18 Will save, or the victim is transformed into a host. This acts as a dominate monster spell (caster level 8th) with no limit on its duration. Immunity or resistance to poison applies normally to this sap. The save DC is Constitution based.
+A victim that becomes a host returns to the plant whenever it calls. It is normally used by the bloodsuckle for feeding purposes, but if the plant comes under attack may be summoned for defense. A host with an Intelligence score of 3 or higher that is commanded to act in a manner inconsistent with its alignment (such as attacking allies) is allowed another Will save with a +4 bonus to break the bloodsuckle’s control.
+Host Sense (Ex) A bloodsuckle automatically senses the location of any hosts within 100 feet.
+Seed (Ex) Once per month, a bloodsuckle can generate a walnut-sized seed that it implants in a host’s body. The host wanders off and 1d4 days later, the seed breaks open growing a new bloodsuckle inside the host. Each day a host remains implanted with this seed, it takes 1d4 points of Constitution damage. When its Constitution reaches 0, the host dies and a new bloodsuckle erupts from the corpse and takes root. A remove disease spell destroys the seedling.
+Summon Host (Ex) As free action, a bloodsuckle can generate a high-pitched whine that only its hosts can hear. A host that hears this call proceeds immediately at its highest rate of speed and in the most direct route toward the plant. The whine can be heard by a host within 2 miles of the bloodsuckle.

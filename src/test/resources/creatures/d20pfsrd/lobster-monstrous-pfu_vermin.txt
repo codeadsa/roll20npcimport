@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/lobster-monstrous-pfu
+Monstrous Lobster CR 5
+Always N Huge vermin (aquatic)
+Init +0; Senses darkvision 60 ft, Perception +4
+DEFENSE
+AC 20, touch 8, flat-footed 20 (+12 natural, -2 size)
+hp 75 (10d8+30)
+Fort +10, Ref +3, Will +3
+Weaknesses vulnerable to sunder
+OFFENSE
+Speed 20 ft., swim 20 ft.
+Melee combat claw +11 (2d6+9 plus grab) and claw +6 (1d8+3)
+Space 15 ft.; Reach 10 ft. (15 ft. with combat claw)
+Special Attacks constrict (2d6+9)
+STATISTICS
+Str 23, Dex 10, Con 16, Int –, Wis 10, Cha 2
+Base Atk +7; CMB +15 (+19 grapple); CMD 25 (41 vs. trip)
+Skills Perception +4, Stealth -4, Swim +14. Racial Modifiers +4 Perception, +4 Stealth, +8 Swim
+SPECIAL ABILITIES
+Vulnerable to Sunder A sunder combat maneuver can be used to break a monstrous lobster’s combat claw (15 hit points, hardness 5). If its claw is broken, the monstrous lobster immediately drops any creature it is grappling. Until its claw heals in 1d4 weeks, the monstrous lobster cannot use its combat claw melee attack, or the accompanying grab and constrict abilities. During this time, its other claw is still treated as a secondary attack.

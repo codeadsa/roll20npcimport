@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/gro-kosh-pfu
+Gro’kosh CR 10
+Usually NE Medium plant
+Init +7; Senses low-light vision, telepathy 100 ft.; Perception +16
+DEFENSE
+AC 25, touch 13, flat-footed 22 (+3 Dex, +12 natural)
+hp 102 (12d8+48)
+Fort +12, Ref +7, Will +7
+Immunities plant traits; DR 10/bludgeoning or slashing; SR 17
+OFFENSE
+Speed 40 ft.
+Melee 4 vines +16 (2d6+6)
+Spell-Like Abilities (CL 12th)
+3/day—soften earth and stone (DC 16), warp wood (DC 16)
+1/day—transmute rock to mud (DC 19)
+TACTICS
+Before Combat A gro’kosh is difficult to surprise. When it becomes aware of nearby combat through its implanted minions, the gro’kosh diverts its followers to defend their master, to engage the enemy in combat, and to block the enemy’s escape routes.
+During Combat A gro’kosh uses soften earth and stone and transmute rock to mud to slow any melee fighters while it moves forward to engage spellcasters and archers. If able, a gro’kosh avoids killing creatures that it believes could be useful to dominate.
+Morale If a gro’kosh still has a creature controlled with an implanted seed, it fights to the death, commanding any controlled creatures to escape. Otherwise, when reduced to less than 20 hit points it attempts to flee using soften earth and stone and warp wood to slow anyone chasing it.
+STATISTICS
+Str 22, Dex 16, Con 18, Int 14, Wis 12, Cha 18
+Base Atk +9; CMB +15; CMD 28 (can’t be tripped)
+Feats Blind-Fight, Improved Initiative, Improved Natural Attack (vine), Iron Will, Weapon Focus (vine)
+Skills Knowledge (geography) +14, Knowledge (nature) +14, Perception +16, Sense Motive +13
+SQ improved telepathy
+SPECIAL ABILITIES
+Implant Seed (Su) As a full round action that provokes attacks of opportunity, a gro’kosh can implant a seed into a pinned or helpless intelligent living creature. The target can resist with a DC 20 Fortitude save. The save DC is Constitution-based.
+The gro’kosh can control a creature implanted with one of its seeds as dominate monster. At any one time, a gro’kosh can control creatures whose total Hit Dice does not exceed twice its own Hit Dice. It may dispel this ability on an affected creature as a free action. Remove disease destroys the seed and ends the domination.
+Improved Telepathy (Su) A gro’kosh can communicate telepathically with any creature within 100 feet that has a language. A gro’kosh can communicate telepathically with a creature implanted with one of its seeds at unlimited range (as long as both are on the same plane).
+Regrow (Su) When killed, a gro’kosh can transfer its essence to a creature implanted with one of its seeds. A gro’kosh can continue to command that creature, but not others. The gro’kosh reforms 2d6 days later, consuming the body of the host. If the implanted creature dies or the seed is removed before the gro’ko sh reforms completely, then the gro’kosh dies and cannot regenerate itself.

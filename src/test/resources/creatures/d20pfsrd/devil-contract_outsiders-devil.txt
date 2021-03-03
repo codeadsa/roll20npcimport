@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-contract
+Contract Devil (Phistophilus) CR 10
+XP 9,600
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +11; Senses darkvision 60 ft., see in darkness; Perception +26
+DEFENSE
+AC 25, touch 18, flat-footed 17 (+7 Dex, +1 dodge, +7 natural)
+hp 136 (13d10+65)
+Fort +9, Ref +15, Will +16
+DR 10/good; Immune fire, mind-affecting effects, poison; Resist acid 10, cold 10; SR 21
+OFFENSE
+Speed 30 ft.
+Melee binding contract (whip) +20/+15/+10 (1d4+7 plus bleed), gore +11 (2d6+3)
+Space 5 ft.; Reach 5 ft. (10 ft. with binding contract)
+Special Attacks binding contract, bleed (1d6), impale (2d8+4)
+Spell-Like Abilities (CL 13th; concentration +19)
+Constant—tongues
+At will—bestow curse (DC 20), detect thoughts (DC 18), dimension door, erase, identify, major image (DC 19), produce flame, sending
+3/day—arcane eye, break enchantment, greater teleport (self plus 50 lbs. of objects only), hold person (DC 18), locate creature, mage’s private sanctum, scorching ray, silence (DC 18), vision
+1/day—contact other plane, delayed blast fireball (DC 23), dismissal (DC 21), plane shift (DC 23), summon (level 4, 1d6 bearded devils or 1 bone devil 50%), symbol of pain (DC 21)
+STATISTICS
+Str 17, Dex 25, Con 20, Int 24, Wis 23, Cha 22
+Base Atk +13; CMB +16; CMD 34
+Feats Alertness, Deceitful, Dodge, Improved Initiative, Iron Will, Mobility, Persuasive
+Skills Bluff +26, Diplomacy +26, Disguise +8, Intimidate +26, Knowledge (arcana) +23, Knowledge (nobility) +23, Knowledge (planes) +23, Knowledge (religion) +23, Linguistics +20, Perception +26, Profession (scribe) +19, Sense Motive +26, Sleight of Hand +20, Spellcraft +20
+Languages Abyssal, Aklo, Aquan, Auran, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, Gnoll, Halfling, Ignan, Infernal, Orc, Sylvan, Terran, Undercommon; telepathy 100 ft., tongues
+SQ infernal contract, infernal investment
+SPECIAL ABILITIES
+Binding Contract (Su) All contract devils carry numerous lengthy contracts draped over their horns or within their numerous carrying cases. They can wield these contracts like whips, but deal lethal damage regardless of the armor bonus of their target. A contract devil modifies attack and damage rolls when using a binding contract by its Intelligence modifier, not its Strength modifier (this equates to a +7 bonus for most contract devils). Wounds created by a binding contract resemble horrifically deep paper cuts and cause 1d6 points of bleed damage. A contract devil can use its binding contract to disarm and trip foes as if the contract were a whip. If it is itself disarmed of the contract, the devil can rearm itself with a new contract as an immediate action.
+Impale (Ex) As a swift action, a contract devil can impale an opponent grappled by its binding contract, dealing 2d8+4 points of piercing damage.
+Infernal Contract (Su) As a full-round action, a contract devil can produce an infernal contract for a single living mortal creature. This contract can grant a wide range of abilities and effects, as detailed on the following page. To receive any of these bonuses, however, the mortal must sign its true name to the document of its own free will. Upon doing so, that mortal’s soul is sworn to the contract devil, condemning the soul to an eternity of servitude in Hell rather than whatever fate would naturally befall it upon the mortal’s death. Breaking a contract with a contract devil is difficult and dangerous; as long as the infernal contract remains in effect, the victim cannot be restored to life after death save by a miracle or a wish. If a mortal is restored to life in this way, the contract devil immediately senses the development—it not only knows which soul has been restored to life, but also gains the benefits of a discern location spell targeted on the character or creature that restored the damned soul to life.
+Infernal Investment (Su) As a subclause of all infernal contracts, a contract devil can use greater scrying at will upon any creature it has a contract with. The target creature always fails its save against the devil’s scrying attempt—this ability otherwise functions at caster level 20th.

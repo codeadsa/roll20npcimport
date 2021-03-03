@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/spider-skull-tohc
+Skull Spider CR 1/4
+XP 100
+N Tiny vermin
+Init +5; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 20, touch 17, flat-footed 15 (+5 Dex, +3 natural, +2 size)
+hp 4 (1d8)
+Fort +2, Ref +5, Will +0
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., climb 10 ft.
+Melee sting +0 (1d2-2 plus poison)
+Space 2-1/2 ft.; Reach 0 ft
+STATISTICS
+Str 6, Dex 20, Con 10, Int –, Wis 10, Cha 2
+Base Atk +0; CMB +3; CMD 11(23 vs. trip)
+Skills Climb +13, Perception +4, Stealth +13; Racial Modifiers +4 Perception
+SPECIAL ABILITIES
+Poison (Ex) Sting–injury; save Fort DC 10; frequency 1/round for 4 rounds, then 1/ten minutes until cured; effect 1d2 Con; cure 2 consecutive saves

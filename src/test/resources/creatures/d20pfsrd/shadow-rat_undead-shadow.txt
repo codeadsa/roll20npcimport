@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/shadow/shadow-rat
+Shadow Rat CR 1/2
+XP 200
+N Tiny undead
+Init +2; Senses darkvision 60 ft., scent; Perception +8
+DEFENSE
+AC 15, touch 14, flat-footed 13 (+2 Dex, +1 natural, +2 size)
+hp 5 (1d8+1)
+Fort +1, Ref +2, Will +3
+Defensive Abilities incorporeal form, shadow blend; Immune undead traits
+OFFENSE
+Speed 40 ft., climb 15 ft.
+Melee bite +4 (1d3-2 plus 1d2 Strength damage plus disease)
+Space 2-1/2 ft.; Reach 0 ft.
+TACTICS
+Shadow rats attack relentlessly with their bite attack. Unlike normal shadows, shadow rats do not create spawn.
+STATISTICS
+Str 6, Dex 15, Con —, Int 2, Wis 12, Cha 12
+Base Atk +0; CMB +0; CMD 8 (12 vs. trip)
+Feats Skill Focus (Perception), Weapon FinesseB
+Skills Acrobatics +2 (+6 jump), Climb +10, Perception +8, Stealth +14; Racial Modifiers +4 Stealth. Shadow rats use their Dexterity modifier for Climb checks.
+SPECIAL ABILITIES
+Disease (Ex) Filth fever: Bite—injury; save Fort DC 11, onset 1d3 days, frequency 1/day, effect 1d3 Dex damage and 1d3 Con damage, cure 2 consecutive saves. The save DC is Charisma-based.
+Incorporeal Form (Su) A shadow rat can, as a standard action, assume an incorporeal form for up to 1 hour per day. In this form, the shadow rat loses its natural AC bonus but gains a +2 deflection bonus to AC. While in this form, the shadow rat is AC 16 (+2 deflection, +2 Dex, +2 size), touch 15, flat-footed 13. The shadow rat can still attack corporeal opponents while in its incorporeal form, but its attack only inflicts Strength damage and cannot cause physical damage. The shadow rat gains the incorporeal subtype while using this ability.
+Shadow Blend (Ex) A shadow rat can disappear into the shadows as a move action, gaining total concealment in all levels of illumination save bright light.
+Strength Damage (Su) A shadow rat deals Strength damage to living foes it bites. A creature reduced to 0 Strength cannot move but does not die–at least, not until the shadow rat’s physical damage takes its toll.

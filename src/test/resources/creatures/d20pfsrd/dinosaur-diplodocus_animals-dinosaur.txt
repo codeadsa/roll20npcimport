@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/dinosaur-diplodocus
+Diplodocus CR 12
+XP 19,200
+N Colossal animal
+Init +6; Senses low-light vision, scent; Perception +32
+DEFENSE
+AC 25, touch 4, flat-footed 23 (+2 Dex, +21 natural, –8 size)
+hp 190 (20d8+100)
+Fort +17, Ref +14, Will +11
+OFFENSE
+Speed 30 ft.
+Melee 2 tail lashes +22 (4d6+15/19–20)
+Space 30 ft.; Reach 60 ft.
+Special Attacks trample (2d8+22, DC 35)
+STATISTICS
+Str 40, Dex 14, Con 21, Int 2, Wis 17, Cha 11
+Base Atk +15; CMB +38 (+40 bull rush); CMD 50 (52 vs. bull rush, 54 vs. trip)
+Feats Awesome Blow, Combat Reflexes, Critical Focus, Improved Bull Rush, Improved Critical (tail lash), Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception), Staggering Critical
+Skills Perception +32
+SPECIAL ABILITIES
+Tail Lash (Ex) The diplodocus prefers to attack with its tail. The dinosaur can snap its incredibly long tail with surprising speed like an enormous whip—this is a primary attack that deals bludgeoning and slashing damage. A diplodocus can make two separate attacks with its tail lash as a full-attack action.

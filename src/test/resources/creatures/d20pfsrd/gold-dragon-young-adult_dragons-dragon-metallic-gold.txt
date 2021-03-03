@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-gold/gold-dragon-young-adult
+Gold Dragon, Young Adult CR 14
+XP 38,400
+LG Huge dragon (fire)
+Init +0; Senses dragon senses; Perception +27
+DEFENSE
+AC 27, touch 8, flat-footed 27 (+19 natural, -2 size)
+hp 184 (16d12+80)
+Fort +15, Ref +10, Will +16
+DR 5/magic; Immune fire, paralysis, sleep; SR 25
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft., fly 250 ft. (poor), swim 60 ft.
+Melee bite +23 (2d8+13/19-20), 2 claws +23 (2d6+9/19-20), tail slap +21 (2d6+13), 2 wings +21 (1d8+4)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, 10d10 fire, DC 23), crush (2d18+13, DC 23), weakening breath
+Spell-Like Abilities (CL 16th; concentration +20)
+At will—bless, detect evil
+Spells Known (CL 5th; concentration +9)
+2nd (5/day)—cure moderate wounds, resist energy
+1st (7/day)—divine favor, mage armor, shield, shield of faith
+0 (at will)—detect magic, light, mage hand, mending, prestidigitation, stabilize
+STATISTICS
+Str 29, Dex 10, Con 21, Int 18, Wis 19, Cha 18
+Base Atk +16; CMB +27; CMD 37 (41 vs. trip)
+Feats Alertness, Critical Focus, Improved Critical (bite, claw), Iron Will, Multiattack, Power Attack, Vital Strike
+Skills Diplomacy +23, Fly +11, Heal +23, Knowledge (arcana, local, religion) +23, Perception +27, Sense Motive +27, Spellcraft +23, Swim +36; Racial Modifiers +8 Swim
+Languages Celestial, Common, Draconic, Elven, Halfling
+SQ change shape, detect gems, fast flight
+SPECIAL ABILITIES
+Change Shape (Su) A very young or older gold dragon can assume any animal or humanoid form three times per day as if using polymorph.
+Detect Gems (Sp) A young or older gold dragon can detect gems three times per day. This functions as locate object, but can only be used to locate gemstones.
+Fast Flight (Ex) A young or older gold dragon is treated as one size category larger when determining his fly speed.
+Weakening Breath (Su) Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/troll-moss
+Moss Troll CR 3
+XP 800
+CE Large humanoid (giant, shapechanger)
+Init +4 (+8 when climbing trees); Senses darkvision 60 ft., low-light vision, scent; Perception +5
+DEFENSE
+AC 15, touch 13, flat-footed 11 (+4 Dex, +2 natural, -1 size)
+hp 30 (4d8+12); regeneration 5 (fire)
+Fort +7, Ref +5, Will +4
+Weaknesses fear of fire, vulnerable to fire
+OFFENSE
+Speed 30 ft., climb 10 ft.
+Melee bite +5 (1d4+3), 2 claws +5 (1d4+3)
+Space 10 ft.; Reach 10 ft. (15 ft. with claws)
+STATISTICS
+Str 16, Dex 19, Con 16, Int 9, Wis 12, Cha 7
+Base Atk +3; CMB +8; CMD 22
+Feats Intimidating Prowess, Iron Will
+Skills Acrobatics +7, Climb +11, Intimidate +5, Perception +5, Stealth +5 (+9 in vegetation); Racial Modifiers +2 Acrobatics, +4 Stealth (+8 in vegetation)
+Languages Giant
+SQ change shape (mossy tree; tree shape), tree climber
+SPECIAL ABILITIES
+Fear of Fire (Ex) A moss troll is shaken as long as it is within 30 feet of a visible fire or an open flame of at least torch size.
+Tree Climber (Ex) When climbing trees and other foliage, a moss troll’s climb speed increases to 30 feet. If a moss troll falls while climbing in trees, it ignores the first 30 feet it falls for the purposes of calculating total damage from the fall. While climbing in trees, a moss troll gains a +4 racial bonus on initiative checks. Moss trolls are bent and gangly creatures. They are smaller and thinner than normal trolls, yet their arms are unusually long and spindly for the creatures’ size. Their flesh supports the growth of moss and mold as surely as tree bark.

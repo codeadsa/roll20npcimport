@@ -1,0 +1,53 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protean/protean-imentesh
+Imentesh Protean CR 10
+XP 9,600
+CN Large outsider (chaotic, extraplanar, protean, shapechanger)
+Init +7; Senses blindsense 30 ft., darkvision 60 ft.; Perception +20
+DEFENSE
+AC 25, touch 12, flat-footed 22 (+3 Dex, +13 natural, –1 size)
+hp 123 (13d10+52); fast healing 5
+Fort +12, Ref +7, Will +14
+Defensive Abilities amorphous anatomy, freedom of movement; DR 10/lawful; Immune acid, polymorph; Resist electricity 10, sonic 10; SR 21
+OFFENSE
+Speed 30 ft., fly 30 ft. (perfect), swim 30 ft.
+Melee bite +19 (2d6+7), 2 claws +19 (1d8+7), tail +17 (1d8+3 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (1d8+7), inflict warpwave, sneak attack +4d6
+Spell-Like Abilities (CL 10th; concentration +15)
+Constant—detect law, tongues
+At will—dimension door (self plus 50 lbs. of objects only), make whole, major creation, shatter (DC 17), shrink item
+3/day—chaos hammer (DC 19), dispel magic, slow (DC 18)
+1/day—break enchantment, dispel law (DC 20), haste, polymorph any object (DC 23)
+STATISTICS
+Str 24, Dex 17, Con 18, Int 23, Wis 18, Cha 21
+Base Atk +13; CMB +21 (+25 grapple); CMD 34 (can’t be tripped)
+Feats Combat Expertise, Combat Reflexes, Improved Feint, Improved Initiative, Iron Will, Multiattack, Persuasive
+Skills Acrobatics +19, Bluff +21, Diplomacy +25, Disable Device +16, Fly +9, Intimidate +25, Knowledge (arcana) +22, Knowledge (planes) +22, Knowledge (any two) +19, Perception +20, Sense Motive +20, Stealth +15, Swim +15; Racial Modifiers +8 Swim
+Languages Abyssal, Protean; tongues
+SQ change shape (greater polymorph)
+SPECIAL ABILITIES
+Inflict Warpwave (Su)
+As a standard action, an imentesh can inflict a warpwave upon any corporeal creature within 100 feet. The target can resist the warpwave’s effects with a DC 20 Fortitude save. If the imentesh wishes, it can use this ability as a swift action, but if it does so, it is affected by the warpwave as well unless it resists the effects with its own Fortitude save. See Table below for a list of possible effects caused by a warpwave. The save DC is Constitution-based.
+Table: Warpwave Effects d20 Warpwave effect
+1 Target takes 2 Strength damage.
+2 Target takes 2 Dexterity damage.
+3 Target takes 2 Constitution damage.
+4 Target takes 2 Intelligence damage.
+5 Target takes 2 Wisdom damage.
+6 Target takes 2 Charisma damage.
+7 Target gains 1 negative level.
+8 Target is blinded or deafened for 1d4 rounds.
+9 Target is confused for 1d4 rounds.
+10 Target is entangled by filaments of energy for 1d4 rounds.
+11 Target becomes fatigued (or exhausted if already fatigued).
+12 Target becomes nauseated for 1d4 rounds.
+13 Target is stunned for 1d4 rounds.
+14 Target is sickened for 1d4 rounds.
+15 Target is staggered for 1d4 rounds.
+16 Target gains 4d6 temporary hit points.
+17 Target is affected by a heal spell (CL = protean’s CR).
+18 Target is turned to stone.
+19 Target is affected by baleful polymorph (CL = protean’s CR).
+20 Portions of target’s body burst with energy of a random type (choose between acid, cold, electricity, or fire), dealing 4d6 points of damage of the appropriate type to the target.
+
+

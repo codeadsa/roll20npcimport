@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/grendel
+Grendel CR 19/MR 7
+XP 204,800
+CE Large monstrous humanoid (Mythic)
+Init +4; Senses darkvision 60 ft.; Perception +15; Aura frightful presence (60 ft.; DC 20, DC 16 against Mythic creatures)
+DEFENSE
+AC 34, touch 13, flat-footed 30 (+4 Dex, +25 natural, –1 size)
+hp 340 (20d10+230); regeneration 10 (unarmed strikes or natural weapons)
+Fort +16, Ref +16, Will +16
+Defensive Abilities ferocity, unstoppable; DR 10/epic; Resist acid 10, cold 10, fire 10
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +32 (3d10+13/19–20 plus grab), bite +27 (4d8+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks blood rage, brutal surge, gruesome dismemberment, Mythic Power (7/day, Surge +1d10)
+STATISTICS
+Str 36, Dex 19, Con 26, Int 9, Wis 15, Cha 8
+Base Atk +20; CMB +34 (+38 grapple); CMD 48
+Feats Bleeding Critical, Combat Reflexes, Critical Focus, Exhausting Critical, Great FortitudeM, Improved Critical (claw), Iron WillM, Power AttackM, Skill FocusM (Stealth), Tiring Critical
+Skills Acrobatics +19 (+23 when jumping), Intimidate +12, Perception +15 (+23 sound-based checks), Stealth +24, Swim +31; Racial Modifiers +4 Acrobatics when jumping, +8 Perception (sound-based checks)
+Languages Common
+SQ display of strength
+SPECIAL ABILITIES
+Brutal Surge (Su) When Grendel expends Mythic Power to add a Surge die to an attack roll, he also adds a Surge die to that attack’s damage roll. This is not an action and does not require him to expend any additional uses of Mythic Power to use this ability.
+Gruesome Dismemberment (Ex) When Grendel successfully holds a creature he has grappled, he may expend one use of Mythic Power to attempt to dismember that creature. He attempts a grapple check; if successful, his target takes double his normal claw damage and the attack pulls off one of the target’s legs or arms. The target is sickened until it receives magical healing (or until it recovers to full hit points by natural means), and takes 2d6 points of bleed damage each round. A creature with only one an arm cannot perform actions requiring two arms or two hands. A bipedal creature with one leg missing cannot walk or run; it can crawl or hop, but is denied its Dexterity bonus against all opponents. A quadrupedal creature with one leg missing is reduced to half normal speed. At the GM’s discretion, creatures with more than four legs affected by this attack may be able to move at normal speed.

@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/slaad-lord-of-the-insane-TOHC
+Slaad Lord Of The Insane CR 27
+XP 3,280,000
+CN Medium outsider (chaotic, extraplanar, shapechanger)
+Init +10; Senses darkvision 60 ft., detect magic, see invisibility; Perception +61
+DEFENSE
+AC 50, touch 24, flat-footed 44 (+6 Dex, +26 natural, +8 insight)
+hp 820 (40d10+600); fast healing 10
+Fort +39, Ref +28, Will +21
+Defensive Abilities amorphous; DR 20/magic and lawful;
+Resist acid 10, cold 10, electricity 10, fire 10, sonic 10; SR 37
+OFFENSE
+Speed 40 ft., fly 60 ft.
+Melee 3 slam +54 (2d6+13 plus energy drain)
+Reach 5 ft. (10 ft. with slam)
+Special Attacks energy drain
+Spell-Like Abilities (CL 29th; concentration +37)
+Constant—detect magic, see invisibility
+At will—animate objects, chaos hammer (DC 22), deeper darkness, dispel law (DC 23), fireball (DC 21), invisibility (self only), magic circle against law, mass charm monster (DC 26), plane shift (DC 25)
+3/day—power word blind, shatter (DC 20), summon (level 9, 3 red*, blue*, or green slaadi*, or 2 gray* or death slaadi* 100%)
+2/day—circle of death (DC 24), symbol of insanity (DC 26), word of chaos (DC 25)
+1/day—finger of death (DC 25), implosion (DC 27)
+STATISTICS
+Str 36, Dex 22, Con 40, Int 26, Wis 26, Cha 26
+Base Atk +40; CMB +53; CMD 69
+Feats Alertness, Bleeding Critical, Blind-Fight, Cleave, Combat Casting, Combat Reflexes, Critical Focus, Deafening Critical, Great Cleave, Great Fortitude, Improved Bull Rush, Improved Disarm, Improved Initiative, Improved Sunder, Improved Vital Strike, Power Attack, Skill Focus (Perception), Stunning Critical, Vital Strike, Weapon Focus (slam)
+Skills Climb +53, Diplomacy +48, Escape Artist +46, Fly +49, Handle Animal +48, Intimidate +48, Knowledge (arcana) +48, Knowledge (history) +48, Knowledge (planes) +51, Knowledge (religion) +48, Perception +61, Sense Motive +55, Stealth +49, Survival +48
+Languages Abyssal, Celestial, Common, Daemonic, Draconic, Goblin, Infernal, Slaadi, Terran, Undercommon, telepathy 100 ft.
+SQ change shape (humanoid, polymorph)
+SPECIAL ABILITIES
+Energy Drain (Su) Living creatures hit by the Slaad Lord’s slam attack gain 3 negative levels. The DC is 45 for the Fortitude save to remove a negative level. The DC is Constitution-based.
+Amorphous (Ex) The Slaad Lord of the Insane is not subject to critical hits, and having no clear front or back, cannot be flanked.
+Change Shape (Su) The Slaad Lord of the Insane can assume the shape of a humanoid as a standard action. In humanoid form, the slaad lord cannot use its natural weapons and does not deal negative levels. He usually assumes as a human male fighter cloaked in black plate armor wielding an iron black longsword (purportedly the legendary Black Sword: a +3 cold iron longsword that stuns any creature struck, as if by a power word stun spell, for 1d10 minutes if the victim fails a DC 24 Fortitude save).

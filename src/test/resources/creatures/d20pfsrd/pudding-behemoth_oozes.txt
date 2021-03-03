@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/pudding-behemoth
+Behemoth Pudding
+CR 9
+XP 6,400
+N Gargantuan ooze
+Init -4; Senses blindsight 60 ft.; Perception -3
+DEFENSE
+AC 7, touch 2, flat-footed 7 (-4 Dex, +5 natural , -4 size)
+hp 145 (10d8+100)
+Fort +13, Ref -1, Will +0
+Defensive Abilities split, ooze traits
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee slam +10 (2d8+10 plus 2d8 acid plus Grab )
+Space 20 ft.; Reach 15 ft.
+Special Attacks constrict (2d8+10 plus 2d8 acid), corrosion STATISTICS
+Str 24, Dex 3, Con 30, Int –, Wis 5, Cha 5
+Base Atk +7; CMB +18 (+22 grapple); CMD 24 (34 vs. bull rush, can’t be tripped)
+Skills Climb +15
+SQ ooze traits, suction
+SPECIAL ABILITIES
+Acid (Ex) A behemoth pudding secretes a digestive acid that dissolves organic material and metal quickly, but does not affect stone. Each time a creature suffers damage from a behemoth pudding’s acid, its clothing and armor take the same amount of damage from the acid. A DC 25 Reflex save prevents damage to clothing and armor. A metal or wooden weapon that strikes a behemoth pudding takes 2d8 acid damage unless the weapon’s wielder succeeds on a DC 25 Reflex save. If a behemoth pudding remains in contact with a wooden or metal object for 1 full round, it inflicts 25 points of acid damage (no save) to the object. The save DCs are Constitution-based.
+Corrosion (Ex) An opponent that is being constricted by a behemoth pudding suffers a -4 penalty on Reflex saves made to resist acid damage applying to clothing and armor.
+Split (Ex) Slashing and piercing weapons deal no damage to a behemoth pudding. Instead, the creature splits into two identical puddings, each with half of the original’s current hit points (round down). A pudding with 10 hit points or less cannot be further split and dies if reduced to 0 hit points.
+Suction (Ex) The behemoth pudding can create powerful suction against any surface as it climbs, allowing it to cling to inverted surfaces with ease. A behemoth pudding can establish or release suction as a swift action, and as long as it is using suction, it moves at half speed. Because of the suction, a behemoth pudding’s CMD score gets a +10 circumstance bonus to resist bull rush, awesome blows, and other attacks and effects that attempt to physically move it from its location.

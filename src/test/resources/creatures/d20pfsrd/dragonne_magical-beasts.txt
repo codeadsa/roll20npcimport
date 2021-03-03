@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/dragonne
+Dragonne CR 7
+XP 3,200
+N Large magical beast
+Init +7; Senses darkvision 60 ft., low-light vision, scent; Perception +12
+DEFENSE
+AC 20, touch 12, flat-footed 17 (+3 Dex, +8 natural, -1 size)
+hp 76 (9d10+27)
+Fort +9, Ref +9, Will +4
+OFFENSE
+Speed 40 ft., fly 30 ft. (poor)
+Melee bite +13 (1d8+5), 2 claws +13 (1d6+5)
+Space 10 ft.; Reach 10 ft.
+Special Attacks roar, pounce
+STATISTICS
+Str 21, Dex 17, Con 17, Int 6, Wis 12, Cha 12
+Base Atk +9; CMB +15; CMD 28 (32 vs. trip)
+Feats Blind-Fight, Combat Reflexes, Flyby Attack, Improved Initiative, Power Attack
+Skills Fly +5, Perception +12; Racial Modifiers +4 Perception
+Languages Draconic
+SPECIAL ABILITIES
+Roar (Su) A dragonne can unleash a devastating roar every 1d4 rounds as a standard action. All creatures except dragonnes within 120 feet must succeed at a DC 17 Fortitude save or become fatigued. Those within 30 feet who fail their saves are also deafened for 2d4 rounds. This is a sonic effect. The save DC is Constitution-based.

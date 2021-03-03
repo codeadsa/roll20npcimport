@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/cetacean/whale/whale-great-white
+Great White Whale CR 14
+XP 38,400
+N Colossal animal
+Init –2; Senses blindsight 120 ft., low-light vision; Perception +13
+DEFENSE
+AC 28, touch 0, flat-footed 28 (–2 Dex, +28 natural, –8 size)
+hp 225 (18d8+144)
+Fort +21, Ref +9, Will +8
+OFFENSE
+Speed swim 40 ft.
+Melee bite +25 (6d6+20/19–20), tail slap +20 (3d6+10)
+Space 30 ft.; Reach 30 ft.
+Special Attacks capsize, smashing breach
+STATISTICS
+Str 50, Dex 6, Con 27, Int 2, Wis 11, Cha 5
+Base Atk +13; CMB +41; CMD 49 (can’t be tripped)
+Feats Critical Focus, Diehard, Endurance, Great Fortitude, Improved Bull Rush, Improved Critical (bite), Iron Will, Power Attack, Staggering Critical
+Skills Perception +13, Swim +39; Racial Modifiers +8 Swim
+SQ hold breath
+SPECIAL ABILITIES
+Smash Breech (Ex) As a full-round action, a great white whale can make a special charge attack against creatures on the surface of the water. At the end of its charge, the whale breaches, then slams down onto the target with incredible force. Any Huge or smaller creatures in the whale’s space must make a DC 27 Reflex save or take 4d8+30 points of bludgeoning damage and be forced into the nearest square that is adjacent to the whale. This breach automatically attempts to capsize any boats caught wholly or partially in this area. The save DC is Constitution-based.

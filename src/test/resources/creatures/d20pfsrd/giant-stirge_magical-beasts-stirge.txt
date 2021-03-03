@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stirge/giant-stirge
+Giant Stirge CR 2
+XP 600
+Advanced stirge
+N Small magical beast
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +1
+DEFENSE
+AC 14, touch 14, flat-footed 11 (+3 Dex, +1 size)
+hp 22 (4d10)
+Fort +4, Ref +7, Will +2
+OFFENSE
+Speed 10 ft., fly 40 ft. (average)
+Melee bite +8 (1d4–1 plus grab)
+Special Attacks blood drain
+TACTICS
+During Combat The giant stirge quickly crawls out of its nest to buzz hungrily at intruders, attacking anyone who enters its territory. If the stirge hears any form of music (such as that created by certain bardic performances or a Perform skill check), it ceases its attacks and swoops down to land next to the musician. As long as the bardic performance continues, or as long as the musician can continue to make DC 15 Perform checks (or as long as no one else attacks it), the giant stirge remains docile
+Morale The giant stirge fights to the death.
+STATISTICS
+Str 8, Dex 17, Con 10, Int 1, Wis 12, Cha 6
+Base Atk +4; CMB +2 (+6 grapple); CMD 15 (23 vs. trip)
+Feats Improved Initiative, Weapon Finesse
+Skills Fly +10, Stealth +12
+SQ diseased

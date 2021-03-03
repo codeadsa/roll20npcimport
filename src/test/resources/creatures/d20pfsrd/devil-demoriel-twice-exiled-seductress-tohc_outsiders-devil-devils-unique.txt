@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-demoriel-twice-exiled-seductress-tohc
+Demoriel (Twice-Exiled Seductress) CR 19
+XP 204,800
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +9; Senses darkvision 60 ft., detect good, detect magic, see invisibility; Perception +33
+DEFENSE
+AC 40, touch 25, flat-footed 35 (+5 Dex, +15 natural, +10 profane)
+hp 210 (20d10+100); regeneration 5 (good, silver)
+Fort +11, Ref +17, Will +20; +2 on all saves from spells and effects from good-aligned creatures
+Defensive Abilities resistant to good magic
+DR 15/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 30
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee +3 unholy short sword +30/+25/+20/+15 (1d6+9/19–20) or 2 claws +26 (1d6+6)
+Special Attacks enrapture
+Spell-Like Abilities (CL 20th)
+Constant—detect good, detect magic, see invisibility
+At will—blasphemy (DC 27), charm monster (DC 24), dispel magic, fireball (DC 23), greater teleport (self plus 50 pounds of objects only), hold monster (DC 25), invisibility (self only), magic circle against good, major image (DC 23), polymorph (self only), suggestion (DC 23), unholy aura (DC 28)
+3/day—wall of fire, summon (level 9, 1d6 erinyes or 1d2 barbed devils 100% or 1 horned devil 60%)
+1/day—meteor swarm (DC 29), power word stun
+TACTICS
+Demoriel attacks with her spell-like abilities, attempting to charm the strongest opponents she faces. If forced into melee, she attacks with her spell-like abilities and short sword or summons other devils to fight for her while she maintains a position away from the immediate fight.
+STATISTICS
+Str 23, Dex 21, Con 20, Int 23, Wis 23, Cha 31
+Base Atk +20; CMB +26; CMD 51
+Feats Alertness, Cleave, Deceitful, Great Cleave, Improved Initiative, Iron Will, Persuasive, Quicken Spell-Like Ability (fireball), Power Attack, Weapon Focus (short sword)
+Skills Bluff +45, Diplomacy +45, Disguise +37, Fly +28, Intimidate +37, Knowledge (arcana) +29, Knowledge (planes) +29, Knowledge (religion) +26, Perception +33, Sense Motive +33, Stealth +28, Survival +26; Racial Modifiers +8 Bluff, +8 Diplomacy
+Languages Abyssal, Celestial, Common, Draconic, Giant, Ignan, Infernal; telepathy 100 ft.
+Gear Reaver
+SPECIAL ABILITIES
+Enrapture (Su) Those viewing Demoriel must succeed on a DC 30 Will save or stand enthralled for 1 minute. This functions as a hold person spell (caster level 20th). An affected creature can attempt a new Will save each round to break the effects. The save DC is Charisma-based. A creature that successfully saves cannot be affected by Demoriel’s enrapture for one day.
+GEAR Unique Item: Reaver
+Reaver is Demoriel’s finely crafted +3 unholy short sword.

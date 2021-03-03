@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/argus
+Argus CR 13/MR 6
+XP 25,600
+LN Gargantuan aberration (Mythic)
+Init +12M; Senses all-around vision, arcane sight, darkvision 60 ft., detect scrying, limitless vision, mistsight, see in darkness, true seeing; Perception +29
+Aura frightful presence (40 ft., DC 16)
+DEFENSE
+AC 30, touch 12, flat-footed 28 (+2 Dex, +4 insight, +18 natural, –4 size)
+hp 184 (13d8+126)
+Fort +10, Ref +6, Will +9
+Defensive Abilities absolute readiness, rock catching; DR 10/epic; Immune blindness, dazzled; Resist cold 30, fire 30
+Weaknesses vulnerable to fascination and sleep
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +20 (3d6+14 plus grab), bite +19 (2d8+14)
+Ranged rock +8 (3d6+14)
+Space 20 ft.; Reach 20 ft.
+Special Attacks accurate strikes, constrict (3d6+14), eye gouge, fascinating gaze, Mythic Power (6/day, surge +1d8), rend (2 claws, 3d6+21), rock throwing (200 ft.)
+Spell-Like Abilities (CL 14th; concentration +20)
+Constant—arcane sight, detect scrying, true seeing
+At will—arcane eye, clairaudience/clairvoyance, status, true strike
+3/day—quickened true strike
+STATISTICS
+Str 39, Dex 14, Con 23, Int 13, Wis 12, Cha 10
+Base Atk +9; CMB +27 (+31 grapple); CMD 43
+Feats AlertnessM, Combat ReflexesM, Improved InitiativeM, Intimidating Prowess, Quicken Spell-Like Ability (true strike), Skill Focus (Perception), Weapon Focus (claw)
+Skills Climb +24, Handle Animal +6, Intimidate +30, Knowledge (history) +10, Perception +29 (+37 on vision–based Perception checks), Sense Motive +23, Swim +24; Racial Modifiers +8 on vision-based Perception checks
+Languages Aklo, Celestial, Common
+SPECIAL ABILITIES
+Absolute Readiness (Ex) An argus is never surprised or flat-footed. It can act in the surprise round as if it were a normal round.
+Accurate Strikes (Ex) An argus’s attacks ignore the AC bonus granted to targets by any cover less than total cover, and the miss chance granted to targets by any concealment less than total concealment.
+Eye Gouge (Ex) If an argus rends or pins an opponent, as a swift action it can attempt a dirty trick maneuver to blind the target. If its combat maneuver check exceeds the DC by 10 or more, the opponent is permanently blinded.
+Fascinating Gaze (Su) A creature within 40 feet of an argus must succeed at a DC 16 Will saving throw or be fascinated for 5d6 rounds. If the creature has 4 or fewer Hit Dice, it is instead dazed for 5d6 rounds. An argus can’t use this ability in the same round it uses frightful presence. The save DC is Charisma-based.
+Limitless Vision (Ex) An argus takes no distance penalties on Perception checks.

@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/worg
+Worg CR 2
+XP 600
+NE Medium magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +11
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 26 (4d10+4)
+Fort +5, Ref +6, Will +3
+OFFENSE
+Speed 50 ft.
+Melee bite +7 (1d6+4 plus trip)
+STATISTICS
+Str 17, Dex 15, Con 13, Int 6, Wis 14, Cha 10
+Base Atk +4; CMB +7; CMD 19 (23 vs. trip)
+Feats Run, Skill Focus (Perception)
+Skills Perception +11, Stealth +9, Survival +5; Racial Modifiers +2 Perception, +2 Stealth, +2 Survival
+Languages Common, Goblin

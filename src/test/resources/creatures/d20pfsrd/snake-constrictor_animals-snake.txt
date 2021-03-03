@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/snake/snake-constrictor
+Constrictor Snake CR 2
+XP 600
+N Medium animal
+Init +3; Senses scent; Perception +12
+DEFENSE
+AC 15, touch 13, flat-footed 12 (+3 Dex, +2 natural)
+hp 19 (3d8+6)
+Fort +4, Ref +6, Will +2
+
+OFFENSE
+Speed 20 ft., climb 20 ft., swim 20 ft.
+Melee bite +5 (1d4+4 plus grab)
+Special Attacks constrict (1d4+4)
+
+STATISTICS Str 17, Dex 17, Con 12, Int 1, Wis 12, Cha 2
+Base Atk +2; CMB +5 (+9 grapple); CMD 18 (can’t be tripped)
+Feats Skill Focus ( Perception), Toughness
+Skills Acrobatics +15, Climb +11, Perception +12, Stealth +11, Swim +11; Racial Modifiers +4 Perception, +4 Stealth,+8 Acrobatics

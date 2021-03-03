@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/turtle-shark
+Turtle-Shark (CR 6)
+XP 2,400
+N Huge magical beast (aquatic)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 21, touch 11, flat-footed 18 (+3 Dex, +10 natural, -2 size)
+hp 63 (6d10+30)
+Fort +10, Ref +8, Will +2
+Defensive Abilities shell
+OFFENSE
+Speed 10 ft., swim 40 ft.
+Melee bite +13 (2d6+8 plus grab), slam +12 (1d8+8)
+Space 15 ft.; Reach 10 ft.
+Special Attacks capsize, swallow whole (1d8+8 plus 1d6 acid damage, AC 15, 6 hp)
+TACTICS
+A turtle-shark surprises many foes with its quickness in the water. Many assume that it is as slow as its other shelled kin, and underestimate its shark-like speed. Like its predatory cousins, a turtle-shark attacks nearly anything it can reach, especially if there is blood or activity in the water.
+STATISTICS
+Str 26, Dex 16, Con 21, Int 2, Wis 10, Cha 8
+Base Atk +6; CMB +16 (+20 grapple); CMD 29
+Feats Cleave, Power Attack, Weapon Focus (bite)
+Skills Perception +9, Swim +16
+SQ amphibious
+SPECIAL ABILITIES
+Capsize (Ex) A turtle-shark can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25, or the result of the captain’s Profession (sailor) check, whichever is higher. For each size category larger than the turtle-shark’s size, it takes a cumulative -10 penalty on this CMB check.
+Shell (Ex) If severely threatened, a turtle-shark can completely withdraw into its shell, leaving it almost completely impervious to attack. When withdrawn, a turtle-shark gains a +8 bonus to its Armor Class and a +4 bonus on Reflex saves.

@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/grangeri-cr7
+Grangeri CR 7
+N Huge animal
+Init +6; Senses low-light vision; Perception +12
+DEFENSE
+AC 16; touch 9, flat-footed 15 (+1 Dex, -2 size, +7 natural)
+hp 82 (13d8+46)
+Fort +15, Ref +9, Will +3
+OFFENSE
+Speed 40 ft.
+Melee Bite +15 (2d6+8)
+Space 15 ft.; Reach 10 ft.
+STATISTICS
+Str 26, Dex 12, Con 21, Int 1, Wis 9, Cha 9
+Base Atk +9; CMB +17; CMD 28
+Feats: Alertness, Great Fortitude, Improved Natural Armor (x3), Toughness (x2)
+Skills: Perception +11, Stealth +12
+Languages: None

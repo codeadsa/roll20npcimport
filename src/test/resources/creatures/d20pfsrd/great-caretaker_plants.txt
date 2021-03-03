@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/great-caretaker
+Great Caretaker CR 15
+XP 51,200
+NG Colossal plant
+Init +10; Senses low-light vision; Perception +32; Aura aura of tree command (120 ft., DC 23)
+DEFENSE
+AC 29, touch 8, flat-footed 23 (+6 Dex, +21 natural, –8 size)
+hp 243 (18d8+144); fast healing 15
+Fort +19; Ref +14; Will +17
+Defensive Abilities hardness 5; Immune electricity, plant traits; Resist fire 10
+Weaknesses vulnerable to axes
+OFFENSE
+Speed 60 ft., climb 60 ft.
+Melee 2 slams +20 (4d6+15/19–20)
+Space 30 ft.; Reach 30 ft.
+Special Attacks dwarven hatred
+Spell-Like Abilities (CL 13th; concentration +17)
+At will—call lightning (DC 17), entangle, neutralize poison, plant growth, tree shape, tree stride, warp wood (DC 16)
+3/day—call lightning storm (DC 19), quickened warp wood (DC 16)
+1/day—regenerate, transmute metal to wood
+1/week—liveoak, reincarnate
+STATISTICS
+Str 41, Dex 22, Con 26, Int 16, Wis 32, Cha 18
+Base Atk +13; CMB +36; CMD 52
+Feats Awesome Blow, Improved Bull Rush, Improved Critical (slam), Improved Initiative, Lightning Reflexes, Power Attack (–4/+8), Quicken Spell-Like Ability (warp wood), Snatch, Toughness
+Skills Acrobatics +6 (+18 when jumping), Climb +23, Disguise +22 (+38 when appearing like a tree), Heal +32, Knowledge (nature) +24, Perception +32, Stealth +11; Racial Modifiers +16 Disguise when appearing like a tree
+Languages Common, Elven, Orc, Sylvan
+SQ healing sap
+SPECIAL ABILITIES
+Aura of Tree Command (Su) A great caretaker is never helpless when in a forest. A great caretaker can command any tree and plant creature within 120 feet. An awakened tree or other intelligent plant can attempt a DC 23 Will save to resist this ability. The save DC is Charisma-based. Any trees commanded by this ability are treated as mindless treants with no Intelligence score and no movement speed.
+Dwarven Hatred (Ex) A great caretaker knows how dwarves fight and how best to kill them. A great caretaker gains a +4 dodge bonus to its Armor Class and a +4 competence bonus to attack and damage rolls against creatures with the dwarf subtype. This bonus to Armor Class is lost when a great caretaker is denied its Dexterity bonus to AC.
+Healing Sap (Ex) Once every 1d4 rounds, a great caretaker can cover a wound on a living creature with sap from its body. The sap cures 2d8 points of damage. When a great caretaker uses this ability, it loses its fast healing ability until it can use this ability again. Healing from this ability does not deal damage to undead creatures.
+Skilled (Ex) A great caretaker treats Heal and Knowledge (nature) as class skills.
+Vulnerable to Axes (Ex) Weapons from the axes weapon group (see the fighter’s weapon training ability in the Pathfinder Core Rulebook) deal 1-1/2 times their normal damage against a great caretaker.

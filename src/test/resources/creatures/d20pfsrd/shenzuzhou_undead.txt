@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/shenzuzhou
+Shenzuzhou CR 12
+XP 19,200
+NE Large undead
+Init +3; Senses darkvision 60 ft., lifesense; Perception +13; Aura fear (30-ft. radius, DC 22)
+DEFENSE
+AC 27, touch 12, flat-footed 24 (+3 Dex, +15 natural, –1 size)
+hp 127 (17d8+51)
+Fort +8, Ref +10, Will +12
+Defensive Abilities channel resistance +4, DR 5/magic; Immune undead traits; SR 23
+OFFENSE
+Speed 30 ft.
+Melee +1 battleaxe +18/+13/+8 (2d6+10/×3), +1 battleaxe +18/+13 (2d6+10/×3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks festering heads
+Spell-Like Abilities (CL 8th; concentration +11)
+At will— darkness
+1/day— cloudkill (DC 18) TACTICS
+Seeking to steal their victims’ heads for themselves, shezuzhous decapitate their kills, keeping grisly collections of heads from the victims they have slain.
+STATISTICS
+Str 28, Dex 17, Con —, Int 6, Wis 15, Cha 17
+Base Atk +12; CMB +22; CMD 35
+Feats Cleave, Double Slice, Great Cleave, Improved Two-Weapon Fighting, Lightning Reflexes, Power Attack, Two-Weapon Fighting, Two-Weapon Rend, Weapon Focus (battleaxe)
+Skills Climb +20, Intimidate +18, Perception +13, Stealth +8
+Languages Giant (can’t speak)
+SPECIAL ABILITIES
+Festering Heads (Su) Once the heads in a shenzuzhou’s collection rot out naturally, it can hurl them as a thrown splash weapon (range increment 30 ft.) as a standard action. A thrown head ruptures on impact, releasing noxious gas that produces an effect identical to a stinking cloud spell (DC 22). The save is Charisma-based.
+A typical shenzuzhou carries 1d4 festering heads. The heads do not rupture if thrown by another creature.

@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-stag
+Beetle, Giant Stag CR 4
+XP 1,200
+N Large vermin
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+8 natural, –1 size)
+hp 45 (7d8+14)
+Fort +7, Ref +2, Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., fly 20 ft. (poor)
+Melee bite +8 (2d8+6)
+Space 10 ft.; Reach 5 ft.
+Special Attacks trample (1d6+6, DC 17)
+STATISTICS
+Str 19, Dex 10, Con 15, Int —, Wis 10, Cha 9
+Base Atk +5; CMB +10; CMD 20 (28 vs. trip)
+Skills Fly –6

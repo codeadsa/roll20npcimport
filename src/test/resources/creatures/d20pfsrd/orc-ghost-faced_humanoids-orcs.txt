@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orcs/orc-ghost-faced
+Ghost-Faced Orc (CR 1/3)
+XP 135
+Ghost-faced orc warrior 1
+CE Medium humanoid (orc)
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 13, touch 10, flat-footed 13 (+3 armor)
+hp 7 (1d10+1 plus 1)
+Fort +3, Ref +0, Will +0
+Defensive Abilities ferocity, invisible in shadows
+Weaknesses light sensitivity
+OFFENSE
+Speed 30 ft.
+Melee greataxe +4 (1d12+4/x3)
+Ranged shortbow +1 (1d6/x3)
+STATISTICS
+Str 17, Dex 10, Con 12, Int 7, Wis 10, Cha 5
+Base Atk +1; CMB +4; CMD 14
+Feats Skill Focus (Stealth)
+Skills Stealth +3
+Languages Common, Orc
+Gear studded leather armor, greataxe, shortbow, 20 arrows
+SPECIAL ABILITIES
+Invisible in Shadows (Ex) When a ghost-faced orc stands still or moves slowly (no more than 5 feet per round) in shadowy illumination or complete darkness, it becomes effectively invisible to all natural and extraordinary sight, including darkvision and other sight-based senses. A ghost-faced orc invisible in shadows can still be detected by hearing and smell. A true seeing spell (or other similar magic) reveals its location as well.

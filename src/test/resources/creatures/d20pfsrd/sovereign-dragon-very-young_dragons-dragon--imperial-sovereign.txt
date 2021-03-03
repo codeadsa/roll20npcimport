@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sovereign/sovereign-dragon-very-young
+Very Young Sovereign Dragon CR 9
+XP 6,400
+N Medium dragon
+Init +5; Senses dragon senses; Perception +16
+DEFENSE
+AC 21, touch 11, flat-footed 20 (+1 Dex, +10 natural)
+hp 95 (10d12+30)
+Fort +10, Ref +10, Will +12
+Immune paralysis, sleep
+OFFENSE
+Speed 50 ft., fly 150 ft. (average)
+Melee bite +16 (1d8+7), 2 claws +15 (1d6+5), gore +15 (1d6+7)
+Special Attacks breath weapon (30 ft. cone, 4d6 sonic, DC 18)
+Spell-Like Abilities (CL 10th; concentration +13)
+At will—detect evil/good
+STATISTICS
+Str 21, Dex 12, Con 17, Int 16, Wis 17, Cha 16
+Base Atk +10; CMB +15; CMD 26 (30 vs. trip)
+Feats Improved Initiative, Iron Will, Lightning Reflexes, Persuasive, Weapon Focus (bite)
+Skills Appraise +16, Bluff +16, Diplomacy +20, Fly +1, Intimidate +20, Knowledge (arcana, history) +16, Perception +16, Sense Motive +16, Spellcraft +16
+Languages Celestial, Common, Draconic, Infernal
+SQ dogmatic discordance
+SPECIAL ABILITIES
+Dogmatic Discordance (Su) Good or evil creatures take a -2 penalty when making saving throws against a sovereign dragon’s spells, spell-like abilities, breath weapon, and aura.

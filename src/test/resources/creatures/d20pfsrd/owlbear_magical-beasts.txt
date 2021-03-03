@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/owlbear
+Owlbear CR 4
+XP 1,200
+N Large magical beast
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +12
+DEFENSE
+AC 15, touch 10, flat-footed 14 (+1 Dex, +5 natural, –1 size)
+hp 47 (5d10+20)
+Fort +10, Ref +5, Will +2
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +8 (1d6+4 plus grab), bite +8 (1d6+4)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 19, Dex 12, Con 18, Int 2, Wis 12, Cha 10
+Base Atk +5; CMB +10 (+14 grapple); CMD 21 (25 vs. trip)
+Feats Improved Initiative, Great Fortitude, Skill Focus (Perception)
+Skills Perception +12

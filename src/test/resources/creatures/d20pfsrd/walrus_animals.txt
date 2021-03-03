@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/walrus
+Walrus CR 3
+XP 800
+N Large animal
+Init +0; Senses low-light vision; Perception +7
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+8 natural, –1 size)
+hp 30 (4d8+12)
+Fort +7, Ref +4, Will +2
+OFFENSE
+Speed 10 ft., swim 40 ft.
+Melee bite +8 (1d8+7)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 21, Dex 11, Con 16, Int 2, Wis 13, Cha 6
+Base Atk +3; CMB +9; CMD 19 (can’t be tripped)
+Feats Endurance, Weapon Focus (bite)
+Skills Perception +7, Swim +17
+SQ hold breath

@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/lizard/lizard-giant-gecko
+Giant Gecko CR 1
+XP 400
+N Medium animal
+Init +6; Senses low-light vision; Perception +6
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 11 (2d8+2)
+Fort +4, Ref +5, Will +2
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee bite +2 (2d4+1)
+STATISTICS
+Str 13, Dex 15, Con 12, Int 2, Wis 14, Cha 7
+Base Atk +1; CMB +2; CMD 14 (18 vs. trip)
+Feats Improved Initiative
+Skills Climb +21, Perception +6; Racial Modifiers +8 Climb
+SQ expert climber
+SPECIAL ABILITIES
+Expert Climber (Ex) A gecko’s feet allow it to climb virtually any surface, no matter how slick or sheer. In effect, geckos are treated as constantly being under a natural version of the spell spider climb.

@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gorilla-bear-tohc
+Gorilla Bear CR 5
+XP 1,600
+N Large magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +9
+DEFENSE
+AC 16, touch 11, flat-footed 14 (+2 Dex, +5 natural, –1 size)
+hp 42 (4d10+16 plus 4)
+Fort +8; Ref +6; Will +2
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +8 (1d8+5 plus grab), bite +8 (1d8+5)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (1d8+5)
+STATISTICS
+Str 20, Dex 15, Con 18, Int 2, Wis 12, Cha 7
+Base Atk +4; CMB +10 (+14 grapple); CMD 22 (26 vs. trip)
+Feats Skill Focus (Perception), Toughness
+Skills Climb +11, Perception +9, Swim +11; Racial Modifiers +2 Climb, +2 Swim
+

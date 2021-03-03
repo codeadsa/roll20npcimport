@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stymphalidies
+Stymphalidies CR 8
+XP 4,800
+N Large magical beast
+Init +6; Senses low-light vision; Perception +12
+DEFENSE
+AC 22, touch 11, flat-footed 20 (+2 Dex, +11 natural, -1 size)
+hp 94 (9d10+45)
+Fort +11, Ref +10, Will +5
+DR 10/magic and adamantine; Immune fire
+Weaknesses vulnerable to sonic
+OFFENSE
+Speed 20 ft., fly 120 ft. (poor)
+Melee bite +14 (1d8+6 plus bleed), 2 talons +14 (1d6+6), 2 wings +9 (1d6+3 plus bleed)
+Ranged 2 wing razors +10 (1d6+6 plus bleed)
+Space 10 ft.; Reach 5 ft.
+Special Attacks bleed (1d6), glare, wing razors
+STATISTICS
+Str 22, Dex 15, Con 20, Int 2, Wis 15, Cha 17
+Base Atk +9; CMB +16; CMD 28
+Feats Critical Focus, Flyby Attack, Improved Initiative, Lightning Reflexes, Skill Focus (Perception)
+Skills Fly +4, Perception +12
+SPECIAL ABILITIES
+Glare (Su) As a standard action, in any area of normal or brighter light, a stymphalidies can ruffle its metallic feathers in such a way as to blind all creatures nearby. Any creature within 30 feet must succeed at a DC 19 Fortitude save or be blinded for 1d6 minutes. A creature can defend against this effect in the same way it would a gaze attack. This is a sight-based effect. The save DC is Constitution-based.
+Wing Razors (Ex) A stymphalidies’s metallic feathers are razor-sharp. In addition to being able to slash creatures with its wings as a melee attack, it may beat its wings, flinging two large, feathered shards at a single target. These wing razors deal 2d6 points of damage and cause bleed, with a range increment of 50 feet. A stymphalidies can use this attack a number of times per day equal to its Constitution modifier (5 times per day for most stymphalidies).

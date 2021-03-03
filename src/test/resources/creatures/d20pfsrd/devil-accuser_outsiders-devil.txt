@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-accuser
+Accuser Devil (Zebub) CR 3
+XP 800
+LE Small outsider (devil, evil, extraplanar, lawful)
+Init +8; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 17, touch 15, flat-footed 13 (+4 Dex, +2 natural, +1 size)
+hp 30 (4d10+8)
+Fort +6, Ref +10, Will +3
+DR 5/good or silver; Immune fire, poison; Resist acid 10, cold 10
+OFFENSE
+Speed 20 ft., fly 60 ft. (perfect)
+Melee bite +5 (1d6 plus 1d6 acid and disease)
+Spell-Like Abilities (CL 8th; concentration +9)
+At will—greater teleport (self plus 50 lbs. of objects only), invisibility (self only)
+3/day—grease, summon swarm, whispering wind
+1/day—summon (level 3, 1 zebub or 1d4 lemures, 40%)
+STATISTICS
+Str 11, Dex 18, Con 14, Int 9, Wis 15, Cha 12
+Base Atk +4; CMB +3; CMD 17
+Feats Improved Initiative, Lightning Reflexes
+Skills Bluff +8, Fly +21, Knowledge (planes) +6, Perception +9, Stealth +15
+Languages Celestial, Draconic, Infernal; telepathy 100 ft.
+SQ infernal eye
+SPECIAL ABILITIES
+Disease (Ex) Devil Chills: Bite—injury; save Fort DC 14; onset 1d4 days; frequency 1 day; effect 1d4 Str damage; cure 3 consecutive saves.
+Infernal Eye (Su) A zebub records all that it sees and may pass its visions on to another creature. By remaining in contact with a willing creature, it can replay up to 24 hours of witnessed events, or shorter incidents if it so chooses. It takes a zebub 1 round to replay 1 hour of recorded images, which the target receives in a flash of information, without sound or other sensory information. After relaying its findings, the zebub cannot replay its visions of those events again. A zebub cannot replay its visions for an unwilling creature or as an attack, no matter how horrific the events it might have witnessed.

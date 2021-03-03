@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/sea-serpents-TOHC/sea-serpent-fanged
+Fanged Sea Serpent CR 6
+XP 2,400
+N Large dragon (aquatic)
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +9
+DEFENSE
+AC 24, touch 10, flat-footed 23 (+1 Dex, +14 natural, -1 size)
+hp 76 (8d12+24)
+Fort +9, Ref +7, Will +6
+Immune paralysis and sleep, dragon traits
+OFFENSE
+Speed swim 30 ft.
+Melee bite +12 (1d8+6 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (1d8+6), poison
+STATISTICS
+Str 18, Dex 13, Con 16, Int 5, Wis 11, Cha 6
+Base Atk +8; CMB +13; CMD 24 (can’t be tripped)
+Feats Cleave, Great Cleave, Power Attack, Swim-By AttackB, Weapon Focus (bite)
+Skills Perception +9, Stealth +6, Survival +9, Swim +21
+SPECIAL ABILITIES
+Poison (Ex) Bite–injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Con; cure 2 consecutive saves. The save DC is Constitution-based.

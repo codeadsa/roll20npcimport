@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/zoog
+Zoog CR 1
+XP 400
+CN Tiny magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent, spell sight; Perception +5
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 11 (2d10)
+Fort +3, Ref +5, Will +1
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee bite +6 (1d3-2 plus bleed 1), 2 claws +6 (1d2-2)
+Special Attacks bleed 1
+Spell-Like Abilities (CL 1st; concentration -2)
+Constant—detect magic, speak with animals
+STATISTICS
+Str 6, Dex 15, Con 10, Int 5, Wis 12, Cha 5
+Base Atk +2; CMB +2; CMD 10 (14 vs. trip)
+Feats Weapon Finesse
+Skills Acrobatics +12, Climb +12, Perception +5; Racial Modifiers +6 Acrobatics, +6 Climb
+Languages Aklo; speak with animals
+SQ otherworldly touch
+SPECIAL ABILITIES
+Otherworldly Touch (Ex) A zoog’s natural attacks can strike incorporeal creatures as if they were ghost touch weapons.
+Spell Sight (Su) A zoog’s eyes radiate normal light in a 15-foot cone and increase the light level by one step for an additional 15 feet beyond that area. Any magic effect in this area glows faintly. This glow does not reveal the magic effect’s school or strength. A zoog can quell or renew this light as a swift action.

@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/boggart-fgg
+Boggart CR 5
+XP 1,600
+CE Small aberration (air, shapechanger)
+Init +4; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 21, touch 16, flat-footed 15 (+4 Dex, +1 dodge, +5 natural, +1 size)
+hp 39 (6d8+12)
+Fort +3; Ref +6; Will +6
+Immune magic
+OFFENSE
+Speed 20 ft.
+Melee slam +9 (2d6 electricity)
+Special Attacks confusion, electrical discharge, feed
+Spell-like Abilities (CL 1st)
+10/day—invisibility
+STATISTICS
+Str 12, Dex 19, Con 15, Int 14, Wis 12, Cha 14
+Base Atk +4; CMB +4; CMD 19
+Feats Alertness, Blind-Fight, Dodge, Weapon FinesseB
+Skills Acrobatics +13 (+11 jumping), Bluff +8, Escape Artist +13, Fly +13, Perception +12, Stealth +17
+SQ change shape (boggart, will-o’-wisp, polymorph any object), detect thoughts, invisibility
+SPECIAL ABILITIES
+Change Shape (Su) A boggart’s natural form is that of a small humanoid (resembling a young gnome, halfling, or goblin). It has one other form: that of a small, immature will-o’-wisp. In humanoid form, a boggart assumes the same appearance and traits of its form, much as a lycanthrope would. In humanoid form, a boggart retains all of its special attacks and special qualities.
+The second form is that of a will-o-‘wisp. In this form, a boggart is nearly indistinguishable from a normal will-o’-wisp, but a DC 18 Knowledge (dungeoneering) or Perception check reveals that the boggart is in fact smaller and brighter. A boggart can assume either form as a standard action, though it cannot maintain either one for longer than 1 minute (10 rounds).
+A change in form cannot be dispelled, nor does the boggart revert to its true natural form when slain. A true seeing spell reveals the boggart’s natural form if it is in will-o’-wisp form.
+Confusion (Su) Once per day, as a full-round action, a boggart can unleash a screech that confuses all those hearing it within 30 ft. of the boggart. The confusion lasts for 6 rounds. An affected creature can make a DC 15 Will save to negate the effects. Each additional boggart within 10 feet that joins the screeching increases the save DC by +1. The save DC is Charisma-based.
+Detect Thoughts (Su) A boggart can continuously detect thoughts as the spell (caster level 8th). It can suppress or resume this ability as a free action.
+Electricity (Su) A boggart delivers 2d6 points of electricity damage with a successful slam attack (DC 15 Fortitude for half). The save DC is Constitution-based.
+Electrical Discharge (Su) Once every other round as a standard action, a boggart can discharge a bolt of electricity in a 10-foot line. The bolt deals 2d6 points of electricity damage (DC 15 Reflex save for half). The save DC is Constitution-based.
+Feed (Su) When a boggart slays a humanoid opponent, it can feed on the corpse, devouring both flesh and life force, as a full-round action. Feeding destroys the victim’s body and prevents any form of raising or resurrection that requires part of the corpse. There is a 50% chance that a wish, miracle, or true resurrection spell can restore a devoured victim to life. Check once for each destroyed creature. If the check fails, the creature cannot be brought back to life by mortal magic.
+A boggart advances in Hit Dice by consuming corpses in this fashion. For every three suitable corpses a boggart devours, it gains 1 Hit Die, and its Strength, Constitution, and natural armor increase by +1. Its attack bonus and saves improve as normal for an aberration of its Hit Dice, and it gains skill ranks, feats, and ability score improvements normally.
+The boggart only advances by consuming the corpses of creatures whose Hit Dice or levels are equal to or greater than its own current total. A boggart that reaches 9 Hit Dice through feeding immediately becomes a will-o’-wisp upon completion of the act.
+Immunity to Magic (Ex) Boggarts are immune to most spells or spell-like abilities that allow spell resistance, except magic missile, protection from evil, magic circle against evil, and maze.

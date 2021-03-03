@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/the-stabbing-beast
+The Stabbing Beast CR 15
+XP 51,200
+NE Medium outsider (evil, extraplanar, herald, shapechanger)
+Init +16; Senses darkvision 60 ft., low-light vision, see in darkness, see invisibility; Perception +26
+DEFENSE
+AC 31, touch 23, flat-footed 18 (+12 Dex, +1 dodge, +8 natural)
+hp 212 (17d10+119)
+Fort +17, Ref +17, Will +14; +4 vs. mind–affecting
+Defensive Abilities all-around vision; DR 10/good and magic; Immune poison; Resist acid 30, cold 10, electricity 10, fire 10; SR 26
+OFFENSE
+Speed 50 ft.
+Melee +1 keen short swords +28/+28/+23/+18/+13 (1d6+4/17–20 plus bleed), sting +24 (1d6+4 plus bleed and poison)
+Ranged poison stream +29 touch (blindness 1d4+1 rounds)
+Special Attacks bleed (2d6), poison, sudden strike
+Spell-Like Abilities (CL 17th; concentration +19)
+Constant—see invisibility
+At will—absorbing touch, alchemical allocation, charm person (DC 13), keen edge, poison (DC 16), true strike
+3/day—false alibi* (DC 15), greater teleport (self plus 50 lbs. of objects only), invisibility, modify memory (DC 16), suggestion (DC 15), summon (level 6, 1 fiendish deadfall scorpion 100%)
+STATISTICS
+Str 16, Dex 35, Con 24, Int 13, Wis 15, Cha 14
+Base Atk +17; CMB +20; CMD 43
+Feats Combat Expertise, Combat Reflexes, Deflect Arrows B, Dodge, Greater Feint B, Improved Feint B, Improved Initiative, Improved Iron Will, Iron Will, Mobility, Scorpion Style B, Spring Attack, Two-Weapon Fighting, Weapon Finesse B
+Skills Appraise +12, Bluff +22, Climb +11, Craft (alchemy) +13, Knowledge (arcana, nature) +10, Knowledge (local) +13, Knowledge (planes) +12, Knowledge (religion) +9, Perception +26, Sense Motive +13, Stealth +32; Racial Modifiers +8 Bluff, +4 Perception
+Languages Abyssal, Celestial, Common, Infernal, Protean; telepathy 100 ft.
+SQ change shape (Huge scorpion or scorpion-tailed human; shapechange), murderer’s reward
+SPECIAL ABILITIES
+Change Shape (Su) In its scorpion form, replace or add the following statistics:
+Size Huge; Init +14; AC 31, touch 21, flat-footed 20 (+10 Dex, +1 dodge, +10 natural); Ref +16; Melee claws +28 (2d6+13 plus bleed and grab), sting +26 (2d6+11 plus bleed and poison); Space 15 ft.; Reach 15 ft.; Special Attacks constrict (2d6+12); Str 32, Dex 31; CMB +30 (+34 grapple); CMD 53 (65 vs. trip); Skills Climb +20, Stealth +24.
+Murderer’s Reward (Su) If the Stabbing Beast’s attack reduces a target to fewer than 0 hit points, the herald immediately gains 2d6 temporary hit points (or 3d8, if the attack kills the target), but no more than the target’s maximum hit points.
+The temporary hit points last for 1 hour.
+Poison (Ex) Sting—injury; save Fort DC 25; frequency 1/round for 6 rounds; effect 1d6 Str; cure 2 consecutive saves.
+Poison Stream (Ex) As a ranged attack (or in place of a melee sting attack), the Stabbing Beast can fire a stream of poison up to 180 feet at an opponent’s eyes. The target must succeed at a save against the Stabbing Beast’s poison or be blinded for 1d4+1 rounds.
+Sudden Strike (Ex) During a surprise round, the herald may act as if it had a full round to act, rather than just one standard action.

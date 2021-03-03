@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-magma/magma-dragon-young-adult
+Magma Dragon, Young Adult CR 11
+XP 12,800
+CN Large dragon (fire)
+Init +5; Senses dragon senses; Perception +19
+
+DEFENSE
+AC 26, touch 10, flat-footed 25 (+1 Dex, +16 natural, -1 size)
+hp 136 (13d12+52)
+Fort +14, Ref +9, Will +13
+DR 5/magic; Immune fire, paralysis, sleep; SR 22
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +19 (2d6+10/19-20 plus 5 fire), 2 claws +19 (1d8+7/19-20), tail slap +14 (1d8+10), 2 wings +14 (1d6+3)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, DC 20, 10d6 fire)
+Spell-Like Abilities (CL 13th; concentration +15)
+At will—burning hands (DC 13), scorching ray
+Sorcerer Spells Known (CL 5th; concentration +7)
+2nd (5/day)—dust of twilight*, scorching ray
+1st (7/day)—flare burst* (DC 13), grease (DC 13), shield, true strike
+0 (at will)—bleed (DC 12), detect magic, open/close, read magic, spark*, touch of fatigue
+* This spell is from the Pathfinder RPG Advanced Player’s Guide
+STATISTICS
+Str 25, Dex 12, Con 19, Int 16, Wis 16, Cha 15
+Base Atk +13; CMB +21; CMD 32 (36 vs. trip)
+Feats Great Fortitude, Improved Critical (bite, claws), Improved Initiative, Iron Will, Power Attack, Vital Strike
+Skills Acrobatics +14 (+17 jump), Climb +23, Escape Artist +14, Fly +11, Intimidate +18, Perception +19, Sense Motive +19, Stealth +13, Swim +23
+Languages Common, Draconic, Dwarven, Ignan
+SQ superheated
+SPECIAL ABILITIES
+Superheated (Su) At young age and older, a magma dragon’s bite attack deals additional fire damage equal to its age category.
+

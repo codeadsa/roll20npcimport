@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/bleeding-horror-minotaur-tohc
+Bleeding Horror Minotaur CR 7
+XP 3,200
+CE Large undead (augmented monstrous humanoid)
+Init +0; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 21, touch 11, flat-footed 21 (+2 deflection, +10 natural, –1 size)
+hp 51 (6d8+18 plus 6)
+Fort +7; Ref +5; Will +5
+Defensive Abilities channel resistance +4, natural cunning; DR 10/magic; SR 18
+OFFENSE
+Speed 30 ft.
+Melee greataxe +9/+4 (3d6+6/x3) and gore +4 (1d8+2) or 2 claws +9 (1d8+4)
+Space 10 ft.; Reach 10 ft.
+Special Attacks blood consumption, create spawn, find target, horrific appearance, powerful charge (gore, 2d8+6)
+Spell–like Abilities (CL 8th)
+3/day—bloodstorm (DC 16)
+TACTICS
+Bleeding horror minotaurs prefer melee combat, where their great strength serves them well.
+STATISTICS
+Str 19, Dex 10, Con —, Int 7, Wis 10, Cha 16
+Base Atk +6; CMB +11; CMD 23
+Feats Great Fortitude, Improved Bull Rush, Power Attack, ToughnessB
+Skills Intimidate +8, Perception +10, Stealth +2, Survival +11; Racial Modifiers +4 Perception, +4 Survival
+Languages Giant
+SPECIAL ABILITIES
+Bloodstorm (Sp) Bleeding horrors can cast bloodstorm up to three times per day as an 8th–level cleric.
+Blood Consumption (Su) When a bleeding horror successfully hits a living opponent with a claw attack, it heals a number of hit points equal to the damage dealt. However, it can’t gain more than the subject’s Bleeding Horror current hit points + the subject’s Constitution score, which is enough to kill the subject. A bleeding horror can’t gain more hit points than the maximum hit points allowed by its Hit Dice. For example, a 12-HD bleeding horror may not have more than 144 hit points.
+If a bleeding horror hits an opponent with both claw attacks in a single round, that opponent suffers catastrophic blood expulsion, taking 1d4+2 points of Constitution damage. A successful Fortitude save reduces the damage by half. For each point of Constitution damage dealt, a bleeding horror gains 5 temporary hit points.
+Create Spawn (Ex) Any creature slain by the blood consumption attack of a bleeding horror becomes a bleeding horror in 1d4 minutes under the command of its creator.
+Find Target (Sp) If the axe of blood is taken from a bleeding horror before the creature is destroyed, it can find it unerringly, as though guided by discern location.
+Horrific Appearance (Su) A living creature within 60 feet that views a bleeding horror must succeed on a Fortitude save or take 1d6 points of Strength damage. This damage cannot reduce a victim’s Strength below 0, but anyone reduced to Strength 0 is helpless. Creatures affected by this power or those that successfully save against it cannot be affected again by the same bleeding horror’s horrific appearance for one day.
+Powerful Charge (Ex) A bleeding horror minotaur typically begins a battle by charging at an opponent, lowering its head to bring its mighty horns into play. In addition to the normal benefits and hazards of a charge, this allows the beast to make a single gore attack with a +9 attack bonus that deals 2d8+6 points of damage.
+Natural Cunning (Ex) Although bleeding horror minotaurs are not especially intelligent, they possess innate cunning and logical ability. This gives them immunity to maze spells, prevents them from ever becoming lost, and enables them to track enemies. Further, they are never caught flat–footed.

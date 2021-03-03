@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/plantoid-servitor-fgg
+Plantoid Servitor CR 2
+XP 600
+N Medium plant
+Init +0; Senses low-light vision; Perception +4
+DEFENSE
+AC 14, touch 10, flat-footed 14 (+4 natural)
+hp 22 (3d8+6 plus 3)
+Fort +3; Ref +1; Will +1
+Immune plant traits
+OFFENSE
+Speed 40 ft.
+Melee 2 slams +4 (1d4+2 plus grab)
+Special Attacks grab and bite (melee +4, 1d3+2 plus poison), poison
+STATISTICS
+Str 14, Dex 11, Con 14, Int 2, Wis 11, Cha 1
+Base Atk +2; CMB +4 (+8 grapple); CMD 14
+Feats Endurance,DiehardB, Toughness
+Skills Perception +4, Stealth +5
+Combat Gear special (see description)
+SPECIAL ABILITIES
+Grab and Bite (Ex) A plantoid servitor that succeeds on a grapple check can make a bite attack against its opponent as an immediate action. This attack uses the plantoid servitor’s full attack bonus and deals 1d3+2 damage.
+Poison (Ex) Transformative Poison: Bite—injury; save Fort DC 13; frequency 1/round for 4 rounds; effect special; cure 1 save.
+On the first failed save, the victim is paralyzed for 1d6 rounds. On the second failed saving throw, moss rapidly grows on all skin surfaces. The victim gets a +2 bonus on the third saving throw, but if the third save fails the victim becomes a plantoid servitor under the control of the nearest plantoid. There is a 25% chance that the victim becomes a new plantoid in a hideous transformation that takes 24 hours. If the victim succeeds on his third saving throw, the moss that grew on him withers and dies and falls away within a few minutes.
+The save DC is Constitution-based.
+Variants Plantoid

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/vegepygmys-TOHC/vegepygmy-chief
+Vegepygmy Chief CR 6
+XP 2,400
+N Medium plant (fungus)
+Init +1; Senses low-light vision; Perception +17
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+1 Dex, +6 natural)
+hp 76 (9d8+27 plus 9)
+Fort +9, Ref +4, Will +5
+DR 5/bludgeoning or slashing; Immune electricity, plant traits
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +11 (1d6+5) or mwk spear +13/+8 (1d8+7/x3)
+Ranged mwk spear +9 (1d8+5/x3)
+Special Attacks spores
+TACTICS
+Vegepygmies attack with claws or weapons, usually either a longspear or club. They prefer to ambush opponents, using their coloration to blend with their natural surroundings.
+STATISTICS
+Str 21, Dex 12, Con 17, Int 12, Wis 15, Cha 16
+Base Atk +6; CMB +11; CMD 22
+Feats Cleave, Power Attack, Skill Focus (Perception), Toughness, Weapon Focus (spear)
+Skills Diplomacy +4, Intimidate +8, Perception +17, Stealth +17 (+25 in forested or swampy areas), Survival +5; Racial Modifiers +4 Stealth (+12 in forested or swampy areas)
+Gear masterwork spear
+SPECIAL ABILITIES
+Spores (Ex) The chief is the only vegepygmy with a spore attack. As a standard action, a chief vegepygmy can release a cloud of spores in a 40-foot spread. A living creature caught within the cloud must succeed on a DC 17 Fortitude save or be paralyzed for 2d6 rounds. After the paralysis wears off, the character must succeed on another DC 17 Fortitude save or take 3d6 points of Constitution damage. This save DC is Constitution-based. At Constitution 0 a creature dies, and rises as a 4 HD vegepygmy bodyguard in one day. If a remove disease spell is cast on a paralyzed victim before the paralysis wears off, he does not have to attempt the second Fortitude save and takes no Constitution damage.

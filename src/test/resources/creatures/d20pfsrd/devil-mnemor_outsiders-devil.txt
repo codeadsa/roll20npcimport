@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-mnemor
+Mnemor CR 5
+XP 1,600
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +8; Senses darkvision 60 ft., detect magic, detect thoughts, see in darkness; Perception +11
+DEFENSE
+AC 18, touch 14, flat-footed 14 (+4 Dex, +4 natural)
+hp 57 (6d10+24)
+Fort +6, Ref +9, Will +7
+Immune fire, poison; Resist acid 10, cold 10; SR 16
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +11 (1d6+4), proboscis +10 touch (memory siphon)
+Special Attacks memory siphon
+Psychic Magic (CL 6th; concentration +9)
+16 PE—aversion (2 PE, DC 15), calm emotions (2 PE, DC 15), confusion (4 PE, DC 17), deja vu (1 PE), invisibility (2 PE)
+Spell-Like Abilities (CL 6th; concentration +9)
+Constant—detect magic, detect thoughts
+At will—greater teleport, suggestion (DC 15)
+1/day—summon (level 3, 1 bearded devil or 6 lemures 50%)
+STATISTICS
+Str 18, Dex 18, Con 18, Int 17, Wis 15, Cha 17
+Base Atk +6; CMB +10; CMD 24
+Feats Improved Initiative, Power Attack, Weapon Focus (claw)
+Skills Bluff +12, Diplomacy +12, Knowledge (religion) +11, Knowledge (planes) +16, Knowledge (all others) +8, Perception +11, Sense Motive +11, Spellcraft +12, Stealth +13, Use Magic Device +9; Racial Modifiers +4 Knowledge
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SQ easily forgotten
+SPECIAL ABILITIES
+Easily Forgotten (Su) A mnemor devil’s appearance and presence are difficult to fix in one’s mind. Once a mnemor devil moves out of line of sight of a creature (or otherwise becomes unseen), that creature must succeed at a DC 16 Will save or be unable recall the last known location or direction of the devil. Such a creature cannot recall the details or nature of their encounter with the devil, though it retains a vague recollection that the encounter occurred. The mnemor can choose to suppress this ability.
+Memory Siphon (Sp) A creature struck by a mnemor devil’s proboscis suffers the effect of the memory lapse spell with no saving throw. Additionally, the mnemor devil can choose to attempt to affect the creature as with the repress memory spell (DC 16 Will save negates)—the spell targets the creature struck, rather than the mnemor devil itself, and spell resistance applies. If the target is a willing creature, the mnemor devil may alter memories of any length, as if through multiple applications of repress memory.

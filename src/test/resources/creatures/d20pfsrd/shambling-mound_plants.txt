@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/shambling-mound
+Shambling Mound CR 6
+XP 2,400
+N Large plant
+Init +0; Senses darkvision 60 ft., low-Light vision; Perception +11
+DEFENSE
+AC 19, touch 9, flat-footed 19 (+10 natural, –1 size)
+hp 67 (9d8+27)
+Fort +9, Ref +5, Will +5
+Defensive Abilities plant traits; Immune electricity; Resist fire 10
+OFFENSE
+Speed 20 ft., swim 20 ft.
+Melee 2 slams +11 (2d6+5 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (2d6+7)
+STATISTICS
+Str 21, Dex 10, Con 17, Int 7, Wis 10, Cha 9
+Base Atk +6; CMB +12 (+16 grapple); CMD 22
+Feats Cleave, Iron Will, Lightning Reflexes, Power Attack, Weapon Focus (slam)
+Skills Perception +11, Stealth +8 (+16 in swamps or forest), Swim +13; Racial Modifiers +4 Stealth (+12 in swamps or forests), +4 Perception
+Languages Common, Sylvan (cannot speak)
+SQ electric fortitude
+SPECIAL ABILITIES
+Electric Fortitude (Ex) Shambling mounds take no damage from electricity. Instead, any electricity attack used against a shambling mound temporarily increases its Constitution score by 1d4 points. The shambling mound loses these temporary points at the rate of 1 per hour.

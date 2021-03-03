@@ -1,0 +1,60 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/animal-lords-tohc/animal-lord-cat-lord-tohc
+Cat Lord (Panther Form) CR 15
+XP 51,200
+N Medium outsider (native, shapechanger)
+Init +11; Senses darkvision 200 ft., detect evil, detect good, keen senses, low-light vision; Perception +29
+DEFENSE
+AC 32, touch 20, flat-footed 25 (+7 Dex, +12 natural, +3 insight)
+hp 199 (19d10+95)
+Fort +16, Ref +20, Will +11
+Defensive Abilities feline passivism, immortality; DR 20/magic and cold iron; Immune mind-affecting effects, psionics; SR 26
+OFFENSE
+Speed 60 ft., climb 30 ft.
+Melee 2 claws +27 (1d6+7 plus grab), bite +26 (1d8+7)
+Ranged spit +26 (blindness)
+Special Attacks howl, pounce, rake (2 claws +27, 1d6+7)
+Spell-Like Abilities (CL 19th)
+Constant—detect evil, detect good, speak with animals (felines only)
+At will—blur (DC 17), hypnotism (DC 16), greater invisibility (DC 19)
+9/day—dimension door, lick wounds (self only; heals 2d4 damage)
+2/day—ethereal jaunt, haste (self only), summon (level 6, 1d4+2 lions or tigers, or 1d4+4 leopards or cheetahs, or 1d2 dire lions, dire tigers, or weretigers, or 30 + 1d20 normal cats 100%)
+1/day—astral projection, greater teleport (self plus 50 pounds of objects only)
+TACTICS
+During Combat The Cat Lord almost always assumes feline form (if he’s not already in that form) and attacks with two claws and a bite. The Cat Lord often enters combat with both haste and blur in effect. If combat goes against him, he usually summons a group of felines to his aid or to cover his escape.
+STATISTICS
+Str 24, Dex 25, Con 20, Int 19, Wis 17, Cha 20
+Base Atk +19; CMB +26; CMD 46 (50 vs. trip)
+Feats Acrobatic, Alertness, Athletic, Blind-Fight, Combat Reflexes, Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Weapon Focus (claws)
+Skills Acrobatics +38 (+50 when jumping), Climb +38, Escape Artist +26, Fly +9, Handle Animal +24, Heal +22, Knowledge (nature) +23, Perception +29, Sense Motive +29, Stealth +37, Survival +22, Swim +9; Racial Modifiers +8 Acrobatics, +8 Stealth, +20 Acrobatics when jumping
+Languages Common, Sylvan, Druidic, Elven, Goblin, Gnome; telepathy 100 ft.
+SQ change shape (human and panther, polymorph)
+SPECIAL ABILITIES
+Change Shape (Su) The Cat Lord can assume the shape of a human as a standard action. In human form, the Cat Lord cannot use his natural weapons or his howl, pounce, spit, or rake special attacks but can wield weapons and wear armor. Unlike the normal change shape ability, the Cat Lord retains his movement modes (and speeds) in human form.
+Feline Passivism (Ex) Felines (including dire versions) do not willingly attack the Cat Lord, though they can be forced to do so by magic. If the Cat Lord attacks a feline, its protection against that creature ends.
+Howl (Su) When the Cat Lord howls, all creatures except felines within a 20-foot spread must succeed on a DC 24 Will save or be stunned for 1d2 rounds. A creature that successfully saves cannot be affected again by the Cat Lord’s howl for one day. The save DC is Constitution-based.
+Immortality (Su) The Cat Lord is effectively immortal and nearly impossible to slay. When slain, the Cat Lord’s soul reforms on the Astral Plane. Within 9 days, it inhabits another feline on the Material Plane and the Cat Lord reforms. No form of magic (such as magic that would contain or trap his soul) prevents this. To permanently kill the Cat Lord, it is thought that one must destroy every feline in existence (so his soul has no creature to inhabit).
+Keen Senses (Ex) The Cat Lord sees five times as well as a human in shadowy illumination and normal light.
+Spit (Ex) Once every 1d4 rounds as a ranged attack, the Cat Lord can spit a line of caustic saliva at a single target to a range of 30 feet. A creature hit must succeed on a DC 24 Reflex save or be blinded. Remove blindness or dispel magic (vs. CL 19th) removes the blindness effect. The save DC is Constitution-based.
+Cat Lord (Human Form) CR 15
+XP 51,200
+N Medium outsider (native, shapechanger)
+Init +11; Senses darkvision 200 ft., detect evil, detect good, keen senses, low-light vision; Perception +29
+DEFENSE
+AC 33, touch 20, flat-footed 25 (+4 armor, +7 Dex, +8 natural, +3 insight)
+hp 180 (19d10+76)
+Fort +15, Ref +20, Will +11
+Defensive Abilities feline passivism, immortality; DR 20/magic and cold iron; Immune mind-affecting effects, psionics; SR 26
+OFFENSE
+Speed 60 ft., climb 30 ft.
+Melee +5 keen wounding rapier +30/+25/+20/+15 (1d6+11/15–20 plus 1 bleed)
+Spell-Like Abilities (CL 19th)
+At will—blur (DC 17), hypnotism (DC 16), greater invisibility (DC 19)
+9/day—dimension door, lick wounds (self only; heals 2d4 damage)
+2/day—ethereal jaunt, haste (self only), summon (level 6, 1d4+2 lions or tigers, or 1d4+4 leopards or cheetahs, or 1d2 dire lions, dire tigers, or weretigers, or 30 + 1d20 normal cats 100%)
+1/day—astral projection, greater teleport (self plus 50 pounds of objects only)
+STATISTICS
+Str 22, Dex 25, Con 18, Int 19, Wis 17, Cha 20
+Base Atk +19; CMB +25; CMD 45
+Feats Acrobatic, Alertness, Athletic, Blind-Fight, Combat Reflexes, Improved Initiative, Iron Will, Lightning Reflexes, Power Attack, Weapon Focus (claws)
+Skills Acrobatics +38 (+50 jump) , Climb +37, Escape Artist +26, Fly +9, Handle Animal +24, Heal +22, Knowledge (nature) +23, Perception +29, Sense Motive +29, Stealth +37, Survival +22, Swim +8; Racial Modifiers +8 Acrobatics, +8 Stealth, +20 Acrobatics when jumping
+Languages Common, Sylvan, Druidic, Elven, Goblin, Gnome; telepathy 100 ft.

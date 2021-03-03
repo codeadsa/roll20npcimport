@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lycanthrope/lycanthrope-wereshark
+Wereshark (Human Form) CR 3
+XP 800
+Human natural wereshark fighter 3
+CE Medium humanoid (human, shapechanger)
+Init +1; Senses low-light vision, scent; Perception +2
+DEFENSE
+AC 11, touch 11, flat-footed 10 (+1 Dex)
+hp 33 (3d10+12)
+Fort +5, Ref +2, Will +3 (+1 vs. fear)
+Defensive Abilities bravery +1
+OFFENSE
+Speed 30 ft.
+Melee mwk trident +9 (1d8+3)
+STATISTICS
+Str 17, Dex 12, Con 14, Int 8, Wis 15, Cha 8
+Base Atk +3; CMB +6; CMD 17
+Feats Cleave, Great Cleave, Power Attack, Toughness, Weapon Focus (trident)
+Skills Survival +8, Swim +10
+Languages Common
+SQ armor training 1, change shape (human, hybrid, and shark; polymorph), lycanthropic empathy (sharks and dire sharks)
+Wereshark (Hybrid Form) CR 3
+CE Medium humanoid (human, shapechanger)
+Init +1; Senses blindsense 30 ft., low-light vision, keen scent; Perception +2
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+1 Dex, +6 natural
+hp 36 (3d10+15)
+Fort +6, Ref +2, Will +3 (+1 vs. fear)
+Defensive Abilities bravery +1; DR 10/silver
+OFFENSE
+Speed 30 ft.
+Melee mwk trident +9 (1d8+4), bite +2 (1d8+2 plus curse of lycanthropy)
+STATISTICS
+Str 19, Dex 12, Con 16, Int 8, Wis 15, Cha 8
+Base Atk +3; CMB +7; CMD 18
+Feats Cleave, Great Cleave, Power Attack, Toughness, Weapon Focus (trident)
+Skills Survival +8, Swim +11
+Languages Common
+SQ armor training 1, change shape (human, hybrid, and shark; polymorph), lycanthropic empathy (sharks and dire sharks)

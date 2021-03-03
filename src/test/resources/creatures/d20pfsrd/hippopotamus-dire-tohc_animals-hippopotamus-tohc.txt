@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/hippopotamus-tohc/hippopotamus-dire-tohc
+Dire Hippopotamus (Behemoth)
+CR 6
+XP 2,400
+N Huge animal
+Init +5; Senses low-light vision, scent; Perception +22
+DEFENSE
+AC 22, touch 9, flat-footed 21 (+1 Dex, +13 natural, –2 size)
+hp 150 (12d8+84 plus 12)
+Fort +17, Ref +9, Will +7
+OFFENSE
+Speed 40 ft., swim 40 ft.
+Melee bite +17 (4d6+12/19–20)
+Space 15 ft.; Reach 10 ft.
+Special Attacks capsize, trample (1d8+12, DC 24)
+TACTICS
+A dire hippo attacks with its bite, and can sink ships much larger than itself.
+STATISTICS
+Str 27, Dex 12, Con 24, Int 2, Wis16, Cha 8
+Base Atk +9; CMB +19; CMD 30 (34 vs. trip)
+Feats Great Fortitude, Improved Critical (bite), Improved Initiative, Skill Focus (Perception), Swim-By Attack, Toughness
+Skills Perception +22, Swim +21
+SQ hold breath
+SPECIAL ABILITIES
+Capsize (Ex) A submerged dire hippo that surfaces under a boat less than its space can capsize it by making a CMB check. The DC of this check is 10, or the result of the boat pilot’s Profession (sailor) check, whichever is higher. For each size category the boat is larger than the dire hippo’s size, the dire hippo takes a cumulative –10 penalty on this CMB check.
+Hold Breath (Ex) A dire hippo can hold its breath for a number of rounds equal to 5 times its Constitution score before it risks drowning.
+Template Base
+Dire Creature

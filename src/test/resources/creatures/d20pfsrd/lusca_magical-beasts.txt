@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/lusca
+Lusca CR 17
+XP 102,400
+CE Gargantuan magical beast (aquatic)
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +28
+DEFENSE
+AC 32, touch 6, flat-footed 32 (+26 natural, –4 size)
+hp 270 (20d10+160)
+Fort +20, Ref +12, Will +11
+Immune electricity, poison
+OFFENSE
+Speed 10 ft., swim 40 ft., jet 200 ft.
+Melee 3 bites +27 (2d8+11/19–20), 8 tentacles +26 (1d8+5 plus grab)
+Space 20 ft.; Reach 20 ft.
+Special Attacks constrict (1d8+5 plus poison), rend ship, vicious grapple
+Spell-Like Abilities (CL 18th; concentration +22)
+3/day—chain lightning (DC 20), geyser (DC 19)
+1/day—summon (level 8, 1d4+1 dire sharks 50%), vortex (DC 21)
+STATISTICS
+Str 32, Dex 11, Con 26, Int 13, Wis 21, Cha 18
+Base Atk +20; CMB +35 (+39 grapple); CMD 45
+Feats Awesome Blow, Critical Focus, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Multiattack, Power Attack, Sickening Critical, Snatch, Weapon Focus (tentacle)
+Skills Perception +28, Stealth +11, Swim +42
+Languages Aquan, Common
+SQ vicious grapple
+SPECIAL ABILITIES
+Poison (Ex) Constrict—injury; save Fort DC 28; frequency 1/ round for 6 rounds; effect 1d6 Dex; cure 2 consecutive saves.
+Rend Ship (Ex) As a full-round action, a lusca can attempt to use four of its tentacles to grapple a ship of its size or smaller by attempting a combat maneuver check opposed by the ship captain’s Profession (sailor) check; the lusca receives a cumulative +4 bonus on the check for each size category smaller than Gargantuan the ship is. If the lusca grapples the ship, it holds the ship motionless; it can attack targets anywhere on or within the ship with its remaining four tentacles, but can’t attack foes at all with its shark heads. Each round it maintains its hold on the ship, it automatically deals bite damage from all three heads to the ship’s hull.
+Vicious Grapple (Ex) A lusca does not gain the grappled condition if it grabs a foe with its tentacles. It can attempt to maintain a grapple against any number of creatures in its tentacles as a swift action.

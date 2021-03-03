@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-umbral/umbral-dragon-young-adult
+Umbral Dragon, Young Adult
+CR 13
+XP 25,600
+CE Huge dragon (extraplanar)
+Init +4; Senses dragon senses; Perception +23; Aura frightful presence (150 ft., DC 21)
+DEFENSE
+AC 26, touch 8, flat-footed 26 (+18 natural, -2 size)
+hp 157 (15d12+60)
+Fort +13, Ref +9, Will +13
+DR 5/magic; Immune cold, death effects, negative energy, paralysis, sleep; SR 24
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +20 (2d8+10), 2 claws +20 (2d6+7), tail slap +18 (2d6+10) and 2 wings +18 (1d8+3)
+Special Attacks breath weapon (50-ft. cone, DC 21, 10d8 negative energy), crush
+Spell-Like Abilities (CL 15th; concentration +19)
+At will—darkness, vampiric touch
+Spells Known (CL 5th; concentration +9)
+2nd (5/day)—command undead (DC 16), invisibility
+1st (7/day)—grease (DC 15), inflict light wounds (DC 15), shield
+0 (at will)—bleed (DC 14), detect magic, detect poison, disrupt undead (DC 14), read magic
+STATISTICS
+Str 25, Dex 10, Con 19, Int 18, Wis 19, Cha 18
+Base Atk +15; CMB +24; CMD 34 (38 vs trip)
+Feats Hover, Improved Critical (bite), Improved Initiative, Multiattack, Power Attack, Skill Focus (Stealth), Snatch, Vital Strike
+Skills Bluff +22, Diplomacy +22, Fly +10, Knowledge (arcana, local, planes) +22, Perception +22, Sense Motive +22, Spellcraft +22, Stealth +16
+Languages Abyssal, Common, Draconic, Undercommon, 1 more
+SQ ghost bane, umbral scion
+SPECIAL ABILITIES
+Breath Weapon (Su) Although it deals negative energy damage, an umbral dragon’s breath weapon does not heal undead creatures.
+Ghost Bane (Su) A young or older umbral dragon’s physical attacks deal damage to incorporeal creatures normally.
+Umbral Scion (Ex) Umbral dragons have negative energy affinity and are immune to energy drain and death effects.
+
+
+

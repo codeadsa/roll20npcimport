@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/nue
+Nue CR 10
+XP 9,600
+NE Large magical beast
+Init +9; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 24, touch 15, flat-footed 18 (+5 Dex, +1 dodge, +9 natural, -1 size)
+hp 126 (12d10+60)
+Fort +13, Ref +13, Will +7
+OFFENSE
+Speed 30 ft.
+Melee bite +17 (2d6+6 plus energy drain), bite +17 (1d4+6 plus poison), 2 claws +17 (1d6+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks energy drain (2 levels, DC 16), pounce
+Spell-Like Abilities (CL 12th; concentration +12)
+3/day—contagion (DC 14), hold person (DC 13)
+1/day—nightmare (DC 15), shout (DC 14), waves of fatigue
+STATISTICS
+Str 22, Dex 21, Con 20, Int 7, Wis 17, Cha 10
+Base Atk +12; CMB +19; CMD 35 (39 vs. trip)
+Feats Combat Casting, Combat Reflexes, Dodge, Improved Initiative, Mobility, Skill Focus (Stealth)
+Skills Climb +13, Perception +10, Stealth +11
+Languages Common
+SQ cloud form
+SPECIAL ABILITIES
+Cloud Form (Su) A nue can change into the form of a 10-foot black cloud or back to its normal form as a standard action. A nue in cloud form is otherwise treated as if under the effects of gaseous form, except that it obscures vision like fog cloud.
+Poison (Ex) Bite—injury; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d4 Strength damage; cure 2 consecutive saves. The save DC is Constitution-based.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-gold/gold-dragon-wyrmling
+Wyrmling Gold Dragon
+CR 7
+XP 3,200
+LG Small dragon (fire)
+Init +2; Senses dragon senses; Perception +15
+DEFENSE
+AC 20, touch 13, flat-footed 18 (+2 Dex, +7 natural, +1 size)
+hp 68 (8d12+16)
+Fort +8, Ref +8, Will +10
+Immune fire, paralysis, sleep
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft., fly 150 ft. (average), swim 60 ft.
+Melee bite +12 (1d6+4), 2 claws +12 (1d4+3)
+Special Attacks breath weapon (20-ft. cone, 2d10 fire, DC 16), weakening breath
+STATISTICS
+Str 17, Dex 14, Con 15, Int 14, Wis 15, Cha 14
+Base Atk +8; CMB +10; CMD 22 (26 vs. trip)
+Feats Alertness, Iron Will, Power Attack, Vital Strike
+Skills Diplomacy +13, Fly +15, Heal +13, Knowledge (local) +13, Perception +15, Sense Motive +15, Spellcraft +13, Swim +22; Racial Modifiers +8 Swim
+Languages Common, Draconic, Elven
+SPECIAL ABILITIES
+Weakening Breath (Su) Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).
+

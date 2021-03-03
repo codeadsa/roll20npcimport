@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/crab/crab-swarm
+Crab Swarm CR4
+XP 1,200
+N Diminutive vermin (aquatic, swarm)
+Init +2; Senses darkvision 60 ft.; Perception +0
+DEFENSE AC 18, touch 16, flat-footed 16 (+2 Dex, +2 natural, +4 size)
+hp 38 (7d8+7)
+Fort +6, Ref +4, Will +2
+Immune mind-affecting effects, swarm traits, weapon damage
+OFFENSE Speed 30 ft., swim 20 ft.
+Melee swarm (2d6)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 14)
+STATISTICS Str 1, Dex 14, Con 13, Int —, Wis 10, Cha 2
+Base Atk +5; CMB —; CMD —
+Skills Swim +10; Racial Modifiers uses Dex to modify Swim
+

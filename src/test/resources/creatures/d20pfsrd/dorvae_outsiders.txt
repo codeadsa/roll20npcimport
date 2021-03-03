@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/dorvae
+Dorvae CR 11
+XP 12,800
+NE Medium outsider (evil)
+Init +5; Senses darkvision 60 ft., see invisibility; Perception +24
+DEFENSE
+AC 24, touch 16, flat-footed 18 (+5 Dex, +1 dodge, +8 natural)
+hp 123 (13d10+52)
+Fort +8, Ref +13, Will +10
+DR 10/good; Immune mind-affecting effects, poison; SR 22
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee 2 claws +18 (3d8+4/19–20 plus grab)
+Special Attacks writhing snakes
+Spell-Like Abilities (CL 11th; concentration +14)
+Constant—see invisibility
+At will—detect thoughts (DC 15)
+3/day—bestow curse (DC 17), dimension door
+1/day—feeblemind (DC 18), lesser geas (DC 17)
+STATISTICS
+Str 18, Dex 21, Con 18, Int 17, Wis 14, Cha 17
+Base Atk +13; CMB +20 (+24 grapple); CMD 33
+Feats Agile Maneuvers, Dodge, Flyby Attack, Improved Critical (claw), Mobility, Skill Focus (Perception), Weapon Focus (claw)
+Skills Acrobatics +21, Bluff +19, Diplomacy +13, Fly +18, Intimidate +16, Knowledge (planes) +19, Knowledge (religion) +19, Perception +24, Sense Motive +18, Stealth +21
+Languages Abyssal, Celestial, Common, Infernal; telepathy 50 ft.
+SPECIAL ABILITIES
+Writhing Snakes (Ex) When a dorvae succeeds at a grapple check against an opponent, the serpents of its body writhe around the grappled foe, biting wherever they can gain purchase. This deals 2d8 points of piercing damage, and the grappled foe is subject to the dorvae’s supernatural poison.
+Dorvae Poison (Su) Writhing snakes—injury; save DC 20; frequency 1/round for 12 rounds; effect 1d4 Wis and on the first failed save the target is susceptible to the dorvae’s lesser geas no matter its Hit Dice for 24 hours. Cure 3 saves. The save DC is Constitution-based.

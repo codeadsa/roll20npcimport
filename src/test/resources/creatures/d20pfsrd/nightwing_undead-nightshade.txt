@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/nightshade/nightwing
+Nightwing CR 14
+XP 38,400
+CE Huge undead (extraplanar, nightshade)
+Init +8; Senses darksense, darkvision 60 ft., low-light vision, detect magic; Perception +25; Aura desecrating aura (30 ft.)
+DEFENSE
+AC 29, touch 12, flat-footed 25 (+4 Dex, +17 natural, –2 size)
+hp 195 (17d8+119)
+Fort +12, Ref +11, Will +17
+DR 15/good and silver; Immune cold, undead traits; SR 25
+Weaknesses light aversion
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee* bite +23 (4d10+18/19–20 plus 4d6 cold and magic drain)
+Space 15 ft.; Reach 15 ft.
+Special Attacks channel energy (7d6, DC 28, 8/day)
+Spell-Like Abilities (CL 14th; concentration +19)
+Constant—detect magic, magic fang
+At will—contagion (DC 19), deeper darkness, unholy blight (DC 19)
+3/day—confusion (DC 19), greater dispel magic, haste, hold monster (DC 20), invisibility
+1/day—cone of cold (DC 20), finger of death (DC 22), plane shift (DC 22), summon (level 6, 2 greater shadows)
+STATISTICS
+Str 31, Dex 18, Con —, Int 18, Wis 21, Cha 21
+Base Atk +12; CMB* +24; CMD 38
+Feats Cleave, Combat Reflexes, Command Undead, Great Cleave, Improved Critical (bite), Improved Initiative, Improved Sunder, Power Attack, Snatch
+Skills Fly +24, Knowledge (arcana) +24, Knowledge (religion) +24, Perception +25, Sense Motive +25, Spellcraft +24, Stealth +16 (+24 in darkness), Swim +27; Racial Modifiers +8 Stealth in dim light and darkness
+Languages Abyssal, Common, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Magic Drain (Su) The bite of a nightwing drains magical power and energy. When a nightwing bites a foe, the victim must make a DC 23 Will save or one spell effect currently affecting him immediately ends—determine which spell is drained randomly if the target is under the effects of more than one spell. The nightwing heals damage equal to twice the level of the spell drained—hit points in excess of its maximum are instead gained as temporary hit points that last for 1 hour. If a nightwing attempts to sunder a magic item with its bite, its magic-draining bite renders the item nonmagical for 1d4 rounds (if the item is a permanent magic item), drains 1d8 charges (if the item has charges), or renders it permanently nonmagical (if the item is a one-use item). The item (or its wielder, if the item is attended) can resist this effect with a DC 23 Will save. Damage dealt to an item is applied after the effects of magic drain are applied. The save DC is Charisma-based.

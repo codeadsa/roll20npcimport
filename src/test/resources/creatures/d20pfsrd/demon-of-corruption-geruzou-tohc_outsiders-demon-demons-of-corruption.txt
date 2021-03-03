@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demons-of-corruption/demon-of-corruption-geruzou-tohc
+Geruzou (Slime Demon) CR 5
+XP 1,600
+CE Small outsider (chaotic, demon, evil, extraplanar)
+Init +2; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 23, touch 17, flat-footed 21 (+4 deflection, +2 Dex, +6 natural, +1 size)
+hp 39 (6d10+6)
+Fort +3; Ref +7; Will +4
+Defensive Abilities slime armor; DR 10/cold iron or good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 16
+OFFENSE
+Speed 30 ft., fly 50 ft. (good)
+Melee 2 claws +10 (1d4+1), bite +10 (1d6+1)
+Ranged ranged touch +9 (spit slime)
+Special Attacks whisper of madness
+Spell-like Abilities (CL 8th):
+At will—cause fear (DC 11), darkness, detect good, detect thoughts (DC 12), invisibility (self only), mirror image, scare (DC 12), stinking cloud (13)
+1/day—summon (level 3, 1 geruzou 35%)
+STATISTICS
+Str 12, Dex 15, Con 12, Int 8, Wis 8, Cha 10
+Base Atk +6; CMB +6; CMD 22
+Feats Weapon Finesse, Weapon Focus (bite), Weapon Focus (claw)
+Skills Escape Artist +11, Fly +17, Perception +12, Stealth +15, Survival +8; Racial Modifiers +4 Perception
+Languages Abyssal, common; telepathy 100 ft.
+SPECIAL ABILITIES
+Slime Armor (Ex) The slime excreted by a geruzou grants it a +4 deflection bonus to AC. This bonus is already included in the statistics block.
+Spit Slime (Ex) Once every 1d4 rounds as a standard action, a geruzou can spit a stream of slimy goo in a 20-foot line (no range increment). This requires a successful ranged touch attack. A creature hit is slowed (as the slow spell, caster level 6th) for 6 rounds if it fails a DC 14 Fortitude save. The save DC is Constitution-based.

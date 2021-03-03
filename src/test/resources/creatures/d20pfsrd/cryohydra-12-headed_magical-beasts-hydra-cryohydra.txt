@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hydra/cryohydra/cryohydra-12-headed
+12-Headed Cryohydra CR 13
+XP 25,600
+N Huge magical beast (cold)
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +17
+DEFENSE
+AC 22, touch 9, flat-footed 21 (+1 Dex, +13 natural, -2 size)
+hp 126 (12d10+60); fast healing 12
+Fort +12, Ref +11, Will +6
+Immune cold
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 20 ft., swim 20 ft.
+Melee 12 bites +15 (1d8+4)
+Space 15 ft.; Reach 10 ft.
+Special Attacks pounce, 12 breath weapons (15-ft. cone, DC 20, 3d6 cold)
+STATISTICS
+Str 18, Dex 12, Con 19, Int 2, Wis 11, Cha 9
+Base Atk +12; CMB +18; CMD 29 (can’t be tripped)
+Feats Combat Reflexes, Iron Will, Lightning Reflexes, Lunge, Toughness, Weapon Focus (bite)
+Skills Perception +17, Swim +12; Racial Modifiers +2 Perception
+SQ hydra traits, regenerate head
+SPECIAL ABILITIES
+Fast Healing (Ex) A hydra’s fast healing ability is equal to its current number of heads (minimum fast healing 5). This fast healing applies only to damage inflicted on the hydra’s body.
+Hydra Traits (Ex) A hydra can be killed by severing all of its heads or slaying its body. Any attack that is not an attempt to sever a head affects the body, including area attacks or attacks that cause piercing or bludgeoning damage. To sever a head, an opponent must make a sunder attempt with a slashing weapon targeting a head. A head is considered a separate weapon with hardness 0 and hit points equal to the hydra’s HD. To sever a head, an opponent must inflict enough damage to reduce the head’s hit points to 0 or less. Severing a head deals damage to the hydra’s body equal to the hydra’s current HD. A hydra can’t attack with a severed head, but takes no other penalties.
+Regenerate Head (Ex) When a hydra’s head is destroyed, two heads regrow in 1d4 rounds. A hydra cannot have more than twice its original number of heads at any one time. To prevent new heads from growing, at least 5 points of acid or fire damage must be dealt to the stump (a touch attack to hit) before they appear. Acid or fire damage from area attacks can affect stumps and the body simultaneously. A hydra doesn’t die from losing its heads until all are cut off and the stumps seared by acid or fire.
+Base Creature
+Hydra

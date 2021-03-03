@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/fungus-violet
+Violet Fungus
+CR 3
+XP 800
+N Medium plant
+Init –1; Senses low-light vision; Perception +0
+DEFENSE
+AC 15, touch 9, flat-footed 15 (–1 Dex, +6 natural)
+hp 30 (4d8+12)
+Fort +7, Ref +0, Will +1
+Immune plant traits
+OFFENSE
+Speed 10 ft.
+Melee 4 tentacles +4 (1d4+1 plus rot)
+Space 5 ft.; Reach 10 ft.
+STATISTICS Str 12, Dex 8, Con 16, Int —, Wis 11, Cha 9
+Base Atk +3; CMB +4; CMD 13
+SPECIAL ABILITIES Rot (Ex) A creature struck by a violet fungus’s tentacle must succeed on a DC 15 Fortitude save or the flesh around the point of contact swiftly begins to rot away, exposing raw bone with shocking swiftness. This hideous affliction causes 1d4 points of Strength damage and 1d4 points of Constitution damage. This is a poison effect. The save DC is Constitution-based.
+

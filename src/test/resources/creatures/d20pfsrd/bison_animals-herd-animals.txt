@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/bison
+Bison
+CR 4
+XP 1,200
+N Large animal
+Init +0; Senses low-light vision, scent; Perception +8
+
+DEFENSE AC 17, touch 9, flat-footed 17 (+8 natural, –1 size)
+hp 42 (5d8+20)
+Fort +8, Ref +4, Will +1
+OFFENSE Speed 40 ft.
+Melee gore +10 (2d6+12)
+Space 10 ft.; Reach 5 ft.
+Special Attacks stampede, trample (2d6+12, DC 20)
+STATISTICS Str 27, Dex 10, Con 19, Int 2, Wis 11, Cha 4
+Base Atk +3; CMB +12; CMD 22 (26 vs. trip)
+Feats Endurance, Improved Bull Rush, Power Attack
+Skills Perception +8
+SPECIAL ABILITIES Stampede (Ex) A stampede occurs if three or more creatures with stampede make a trample attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample’s save DC increases by +2.
+
+Bison Companions
+
+Bison companions are identical to aurochs animal companions. Starting Statistics: Size Medium; Speed 40 ft.; AC +1 natural armor, Attack gore (1d6); Ability Scores Str 14, Dex 12, Con 12, Int 2, Wis 11, Cha 4; Special Qualities low-light vision, scent.
+7th-Level Advancement: Size Large; AC +3 natural armor; Attack gore (1d8); Ability Scores Str +8, Dex –2, Con +4; Special Qualities stampede, trample.
+
+
+
+
+

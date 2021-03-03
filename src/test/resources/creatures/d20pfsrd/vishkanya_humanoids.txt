@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/vishkanya
+Vishkanya CR 1/2
+XP 200
+Vishkanya ninja 1
+N Medium humanoid (vishkanya)
+Init +3; Senses low-light vision; Perception +6
+DEFENSE
+AC 13, touch 13, flat-footed 10 (+3 Dex)
+hp 11 (1d8+3)
+Fort +2, Ref +5, Will +0; +1 vs. poison
+OFFENSE
+Speed 30 ft.
+Melee kukri +1 (1d4+1/18-20 plus poison)
+Ranged shuriken +3 (1d2+1 plus poison)
+Special Attacks poison (DC 12), sneak attack +1d6
+STATISTICS
+Str 13, Dex 17, Con 14, Int 8, Wis 10, Cha 12
+Base Atk +0; CMB +1; CMD 14
+Feats Deceitful
+Skills Acrobatics +7, Bluff +7, Disguise +7, Escape Artist +9, Perception +6, Sense Motive +4, Stealth +9; Racial Modifiers +2 Escape Artist, +2 Perception, +2 Stealth
+Languages, Common, Vishkanya
+SQ poison use, toxic
+SPECIAL ABILITIES
+Poison Use (Ex) Vishkanyas are skilled with poison and never accidentally poison themselves when using or applying poison.
+Toxic (Ex) A number of times per day equal to its Constitution modifier (minimum 1/day), a vishkanya can envenom a weapon that it wields with its toxic saliva or blood (using blood requires the vishkanya to be injured when it uses this ability). Applying venom in this way is a swift action.
+Vishkanya Venom: Injury; save Fort DC 10 + 1/2 the vishkanya’s Hit Dice + the vishkanya’s Constitution modifier; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save.

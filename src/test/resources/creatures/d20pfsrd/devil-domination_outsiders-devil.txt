@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-domination
+Domination Devil (Gladiatrix) CR 7
+XP 3,200
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +10; Senses darkvision 60 ft., see in darkness; Perception +12
+DEFENSE
+AC 21, touch 12, flat-footed 18 (+7 armor, +3 Dex, +2 natural, -1 size)
+hp 84 (8d10+40)
+Fort +7, Ref +12, Will +7
+Defensive Abilities uncanny dodge; DR 10/good; Immune fire, poison; Resist acid 10, cold 10; SR 18
+OFFENSE
+Speed 40 ft. (30 ft. in armor)
+Melee +1 dire flail +13/+13/+8 (2d6+9)
+Space 10 ft.; Reach 10 ft.
+Special Attack flail master, maniac charge, team fighting
+STATISTICS
+Str 18, Dex 22, Con 20, Int 9, Wis 12, Cha 14
+Base Atk +8; CMB +13; CMD 29
+Feats Combat Reflexes, Improved Initiative, Two-Weapon Fighting, Weapon Focus (dire flail)
+Skills Acrobatics +14, Climb +12, Intimidate +13, Knowledge (planes) +10, Perception +12
+Languages Celestial, Common, Draconic, Infernal
+SPECIAL ABILITIES
+Flail Master (Ex) Gladiatrixes undergo a grueling training regimen with dire flails. A gladiatrix’s skill is such that the penalties for two-weapon fighting are further reduced by 2 and she receives a +4 competence bonus on damage rolls. Both of these benefits apply only when using flails.
+Manic Charge (Ex) A gladiatrix can charge up to triple her normal speed (up to 120 ft.) instead of double as normally allowed. Furthermore, she can make up to two turns of no more than 90 degrees while charging.
+Team Fighting (Ex) When two gladiatrixes flank an opponent, they each receive a +4 flanking bonus to attack rolls instead of the normal +2.

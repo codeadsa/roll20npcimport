@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-goliath-stag
+Goliath Stag Beetle CR 8
+XP 4,800
+N Huge vermin
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 21, touch 8, flat-footed 21 (+13 natural, –2 size)
+hp 104 (11d8+55)
+Fort +12, Ref +3, Will +3
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., fly 30 ft. (poor)
+Melee bite +17 (3d8+16)
+Space 15 ft.; Reach 10 ft.
+Special Attacks trample (3d8+16, DC 26)
+STATISTICS
+Str 32, Dex 10, Con 21, Int –, Wis 10, Cha 4
+Base Atk +8; CMB +21; CMD 31 (39 vs. trip)
+Skills Fly –8

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/moit-of-shub-niggurath/spawning-canker
+Spawning Canker CR 9
+XP 6,400
+CE Medium aberration
+Init +6; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 23, touch 17, flat-footed 16 (+6 Dex, +1 dodge, +6 natural)
+hp 115 (10d8+70)
+Fort +12, Ref +11, Will +9
+Immune mind-affecting effects
+OFFENSE
+Speed 40 ft.
+Melee 2 slams +15 (1d6+8), tentacle +10 (1d8+4 plus grab)
+Special Attacks constrict (1d8+4), feeding
+STATISTICS
+Str 26, Dex 23, Con 24, Int 7, Wis 14, Cha 17
+Base Atk +7; CMB +15; CMD 32
+Feats Dodge, Great Fortitude, Lightning Reflexes, Mobility, Power Attack
+Skills Perception +15, Stealth +19
+Languages Aklo
+SPECIAL ABILITIES
+Feeding (Ex) Whenever a spawning canker deals damage to a sentient living creature with its constrict attack, it also deals 1d3 points of Charisma damage as it feeds off the victim’s vital essence. If a spawning canker drains 10 points of Charisma in 1 hour, the canker immediately spawns (see below).
+Spawn (Ex) When a spawning canker has drained enough life force, it bursts apart into 2d4+2 slugspawn. These worm-like terrors crawl into nearby shadows and lurk in wait for any potential hosts to come nearby. The spawning canker is destroyed when this occurs. There is a 1% chance that instead of turning into slugspawn, a spawning canker transforms into a dark young of Shub-Niggurath.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/swarm-warden-jack-tohc
+Warden Jack Swarm CR 4
+XP 1,200
+N Fine construct (swarm)
+Init +2; Senses darkvision 60 ft., low-light vision, tremorsense 30 ft.; Perception +0
+DEFENSE
+AC 21, touch 20, flat-footed 19 (+2 Dex, +1 natural, +8 size)
+hp 27 (5d10)
+Fort +1, Ref +3, Will +1
+Immune weapon damage, construct traits, swarm traits
+Weaknesses swarm traits
+OFFENSE
+Speed 40 ft.
+Melee swarm (1d6)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 12), topple, wounding spikes
+TACTICS
+Warden jack swarms have two modes of attack: as moving caltrops, or as rolling marbles. They set themselves up for combat by rolling into the path of their opponents and extending their spikes.
+During Combat Once combat begins, most of them roll around continually, extending their spikes and attempting to wound an opponent. Some remain in spheroid form in order to get under the feet of a foe and bring it to the ground. Extending or retracting spikes is a free action for the warden jack swarm.
+STATISTICS
+Str 4, Dex 14, Con —, Int —, Wis 11, Cha 1
+Base Atk +5; CMB —; CMD —
+SPECIAL ABILITIES
+Topple (Ex) Any living creature damaged by a warden jack swarm when its spikes are retracted must make a successful DC 12 Reflex save or fall prone. The save DC is Constitution-based.
+Wounding Spikes (Ex) Any living creature hit by a warden jack swarm when its spikes are extended also takes 1 point of bleed damage.

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-glass
+Glass Golem CR 8
+XP 4,800
+N Large construct
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 21, touch 8, flat-footed 21 (–1 Dex, +13 natural, –1 size)
+hp 96 (12d10+30)
+Fort +4, Ref +3, Will +4
+Defensive Abilities reflect spells; DR 5/adamantine; Immune magic, construct traits
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +16 (2d8+5 plus bleed)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bleed (1d8), dazzling brightness
+STATISTICS
+Str 20, Dex 9, Con —, Int —, Wis 11, Cha 1
+Base Atk +12; CMB +18; CMD 27
+SPECIAL ABILITIES
+Dazzling Brightness (Ex) A glass golem in an area of bright light dazzles any creature within 30 feet that sees it for 1 round (Fortitude DC 16 negates). Once a creature makes its save against this ability, it is immune to that golem’s brightness for 24 hours. The DC is Constitution-based.
+Immune to Magic (Ex) A glass golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against a glass golem, as noted below.
+A shatter spell damages a glass golem as if it were a crystalline creature. A keen edge spell affects all of a glass golem’s slam attacks as if they were slashing weapons. A magical attack that deals cold damage slows a glass golem (as the slow spell) for 3 rounds (no saving throw). A magical attack that deals fire damage ends any slow effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A glass golem gets no saving throw against fire effects. Reflect Spells (Ex) As a free action once every 1d4 rounds, a glass golem can align its internal structure to enhance its resistance to magic for 1 round. During this time, the golem reflects spells (even spells that function differently against the golem as described in its immune to magic ability) as if under the effect of a spell turning spell.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/boggart
+Boggart CR 4
+XP 1,200
+CE Small fey
+Init +5; Senses low-light vision; Perception +12
+DEFENSE
+AC 16, touch 16, flat-footed 11 (+5 Dex, +1 size)
+hp 31 (7d6+7)
+Fort +3, Ref +10, Will +5
+DR 5/cold iron
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee 2 claws +9 (1d3+2)
+Space 5 ft.; Reach 10 ft.
+Psychic Magic (CL 8th; concentration +12)
+10 PE—aversion (2 PE, DC 16), hold person (2 PE, DC 16), hallucinatory terrain (4 PE, DC 18), invisibility (2 PE, DC 16), telekinetic maneuver (0 PE)
+Special Attacks abduct, sneak attack +1d6
+STATISTICS
+Str 15, Dex 20, Con 13, Int 14, Wis 10, Cha 19
+Base Atk +3; CMB +7 (+9 drag); CMD 19 (21 vs. drag)
+Feats Agile Maneuvers, Combat Expertise, Improved Drag, Weapon Finesse
+Skills Acrobatics +13, Bluff +10, Climb +12, Craft (traps) +10, Handle Animal +8, Intimidate +11, Knowledge (geography) +8, Knowledge (nature) +9, Perception +12, Sense Motive +4, Stealth +23, Swim +16; Racial Modifiers +2 Perception, +4 Stealth
+Languages Common, Sylvan
+SPECIAL ABILITIES
+Abduct (Ex) When a boggart hits a single target with both of its claw attacks as part of a full-attack action, it can attempt a drag combat maneuver check as a free action. The boggart can move more than 5 feet as part of this combat maneuver even if it doesn’t have any movement remaining for the round.

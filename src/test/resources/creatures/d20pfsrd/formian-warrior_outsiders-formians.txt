@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/formians/formian-warrior
+Formian Warrior CR 4
+XP 1,200
+LN Medium outsider (extraplanar, lawful)
+Init +3; Senses darkvision 60 ft., hive mind 50 mi.; Perception +8
+DEFENSE
+AC 17, touch 14, flat-footed – (+3 Dex, +1 dodge, +3 natural)
+hp 30 (4d10+8)
+Fort +3, Ref +7, Will +5
+Immune cold, poison, petrification; Resist electricity 10, fire 10, sonic 10
+OFFENSE
+Speed 40 ft.
+Melee sting +7 (2d4+3 plus poison), 2 claws +7 (1d6+3)
+STATISTICS
+Str 17, Dex 16, Con 14, Int 10, Wis 12, Cha 11
+Base Atk +4; CMB +7; CMD 21 (25 vs. trip)
+Feats Capture Alive, Dodge
+Skills Acrobatics +10, Climb +10, Craft (weapons) +7, Sense Motive +8, Stealth +10, Perception +8
+SPECIAL ABILITIES
+
+Poison (Ex) Sting—injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d2 Str damage; cure 1 save. The save DC is Constitution-based.

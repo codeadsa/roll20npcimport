@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/mockingfey
+Mockingfey CR 1
+XP 400
+CN Tiny fey
+Init +3; Senses low-light vision; Perception +7
+DEFENSE
+AC 15, touch 15, flat-footed 12 (+3 Dex, +2 size)
+hp 13 (3d6+3)
+Fort +2, Ref +6, Will +4
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee 2 talons +6 (1d2–2)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-Like Abilities (CL 3rd; concentration +4)
+At will–daze (DC 11)
+STATISTICS
+Str 6, Dex 16, Con 13, Int 7, Wis 12, Cha 13
+Base Atk +1; CMB +2; CMD 10
+Feats Flyby Attack, Weapon Finesse
+Skills Acrobatics +9, Disguise +7, Fly +15, Perception +7, Stealth +16
+SQ mock
+SPECIAL ABILITIES
+Mock (Su) As a standard action, a mockingfey can magically take on the appearance of any creature it can see. This functions like disguise self, but with no restrictions on duration, creature type, or size. The mockingfey does not change size, and if the creature it’s mimicking is larger than it, the mockingfey simply appears to be a miniature version. Anyone interacting with this effect can attempt a DC 12 Will save to see through the ruse. A mockingfey can maintain a given form indefinitely, but cannot change to any form other than its own without visual reference–once a given disguise has ended, the fey must see the subject again to resume that form. The save DC is Charisma-based.

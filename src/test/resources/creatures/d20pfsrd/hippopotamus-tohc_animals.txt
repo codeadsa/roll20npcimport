@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/hippopotamus-tohc
+Hippopotamus CR 4
+XP 1,200
+N Large animal
+Init +4; Senses low-light vision, scent; Perception +12
+DEFENSE
+AC 14, touch 9, flat-footed 14 (+5 natural, –1 size)
+hp 51 (6d8+18 plus 6)
+Fort +8, Ref +5, Will +3
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee bite +7 (2d8+6)
+Space 10 ft.; Reach 5 ft.
+Special Attacks capsize, trample (1d6+6, DC 17)
+STATISTICS
+Str 19, Dex 10, Con 16, Int 2, Wis12, Cha 4
+Base Atk +4; CMB +9; CMD 19 (23 vs. trip)
+Feats Improved Initiative, Skill Focus (Perception), Toughness
+Skills Perception +12, Swim +16
+SQ capsize, hold breath
+SPECIAL ABILITIES
+Capsize (Ex) A submerged hippo that surfaces under a boat less than its space can capsize it by making a CMB check. The DC of this check is 10, or the result of the boat pilot’s Profession (sailor) check, whichever is higher. For each size category the boat is larger than the hippo’s size, the hippo takes a cumulative –10 penalty on this CMB check.
+Hold Breath (Ex) A hippo can hold its breath for a number of rounds equal to 5 times its Constitution score before it risks drowning.

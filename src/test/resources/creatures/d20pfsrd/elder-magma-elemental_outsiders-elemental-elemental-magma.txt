@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-magma/elder-magma-elemental
+Elder Magma Elemental
+CR 11
+XP 12,800
+N Huge outsider (earth, elemental, extraplanar, fire)
+Init +3; Senses darkvision 60 ft.; Perception +19
+DEFENSE
+AC 25, touch 7, flat-footed 25 (–1 Dex, +18 natural, –2 size)
+hp 152 (16d10+64)
+Fort +14, Ref +9, Will +5
+DR 10/—; Immune fire, elemental traits
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 20 ft., burrow 20 ft.; earth glide
+Melee 2 slams +22 (3d6+8 plus burn)
+Space 15 ft.; Reach 15 ft.
+Special Attacks burn (3d6, DC 20), lava puddle
+STATISTICS
+Str 26, Dex 8, Con 19, Int 10, Wis 11, Cha 11
+Base Atk +16; CMB +26; CMD 35
+Feats Cleave, Greater Bull Rush, Greater Overrun, Improved Bull Rush, Improved Initiative, Improved Overrun, Power Attack, Vital Strike
+Skills Climb +27, Intimidate +19, Knowledge (dungeoneering) +19, Knowledge (planes) +19, Perception +19, Stealth +10
+Languages Ignan
+SQ earth glide
+SPECIAL ABILITIES
+Burn (Ex) A magma elemental’s burn DC includes a –2 racial penalty, as their fires don’t burn quite as hot as true elemental flames.
+Earth Glide (Ex) A burrowing magma elemental can pass through stone, dirt, lava, or almost any other sort of earth except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple, though the area it passes through feels warm for 1 round afterward and often retains a strangely smooth texture, as if the stone had been polished. A move earth spell cast on an area containing a burrowing magma elemental flings the elemental back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+Lava Puddle (Su) Once per day as a full-round action, a magma elemental can vomit forth a puddle of lava that fills its space to a depth of 2–3 inches and counts as difficult terrain. Any creature that moves through this puddle of lava takes 2d6 points of fire damage. This damage continues for 1d3 rounds after the creature leaves the lava pool, although then it only inflicts 1d6 points of fire damage per round. The lava puddle solidifies and is safe to touch after a number of rounds equal to the elemental’s Hit Dice. At the GM’s discretion, this puddle of lava could start secondary fires.

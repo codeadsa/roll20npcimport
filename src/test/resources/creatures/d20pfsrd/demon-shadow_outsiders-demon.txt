@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-shadow
+Shadow Demon CR 7
+XP 3,200
+CE Medium outsider; (chaotic, demon, evil, extraplanar, incorporeal)
+Init +8; Senses darkvision 60 ft.; Perception +20
+DEFENSE
+AC 18, touch 18, flat-footed 14 (+4 deflection, +4 Dex)
+hp 59 (7d10+21)
+Fort +5, Ref +11, Will +7
+Defensive Abilities incorporeal; DR 10/cold iron or good; Immune cold, electricity, poison; Resist acid 10, fire 10; SR 17
+Weaknesses sunlight powerlessness
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee 2 claws +11 touch (1d6 plus 1d6 cold), bite +11 touch (1d8 plus 1d6 cold)
+Special Attacks pounce, sprint, shadow blend
+Spell-Like Abilities (CL 10th)
+At will—deeper darkness, fear (DC 18), greater teleport (self only) telekinesis (DC 19)
+3/day—shadow conjuration (DC 18), shadow evocation (DC 19)
+1/day—magic jar (DC 19), summon (level 3, 1 shadow demon 50%)
+STATISTICS
+Str —, Dex 18, Con 17, Int 14, Wis 14, Cha 19
+Base Atk +7; CMB +11; CMD 25
+Feats Blind-Fight, Combat Reflexes, Improved Initiative, Lightning Reflexes
+Skills Acrobatics +14, Bluff +14, Fly +22, Knowledge (local) +12, Knowledge (planes) +12, Perception +20, Sense Motive +12, Stealth +14; Racial Modifiers +8 Perception
+Languages Abyssal, Common; telepathy 100 ft.
+SPECIAL ABILITIES
+Sprint (Ex)
+Once per minute, a shadow demon increase its fly speed to 240 feet for 1 round.
+Shadow Blend (Su)
+During any conditions other than bright light, a shadow demon can disappear into the shadows as a move-equivalent action, effectively becoming invisible. Artificial illumination or light spells of 2nd level or lower do not negate this ability.
+Sunlight Powerlessness (Ex)
+A shadow demon is utterly powerless in bright light or natural sunlight and flees from it. A shadow demon caught in such light cannot attack and can take only a single move or standard action. A shadow demon that is possessing a creature using magic jar is not harmed by sunlight, but if it is struck by a sunbeam or sunburst spell while possessing a creature, the shadow demon is driven out of its host automatically.

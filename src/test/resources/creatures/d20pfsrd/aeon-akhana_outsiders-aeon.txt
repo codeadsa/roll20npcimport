@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/aeon/aeon-akhana
+Akhana CR 12
+XP 19,200
+N Medium outsider (aeon, extraplanar)
+Init +10; Senses darkvision 60 ft., deathwatch; Perception +19
+DEFENSE
+AC 27, touch 18, flat-footed 21 (+2 deflection, +6 Dex, +9 natural)
+hp 148 (11d10+88); fast healing 5
+Fort +17, Ref +11, Will +14
+Immune cold, critical hits, poison; Resist electricity 10, fire 10; SR 23
+OFFENSE
+Speed 30 ft., fly 40 ft. (poor)
+Melee 4 claws +16 (1d4+5 plus grab)
+Special Attacks soul siphoning
+Spell-Like Abilities (CL 11th; concentration +15)
+Constant—deathwatch
+At will—cure serious wounds, gentle repose, inflict serious wounds (DC 17), sanctuary (DC 15)
+3/day—restoration, slay living (DC 19)
+1/day—raise dead
+STATISTICS
+Str 21, Dex 23, Con 26, Int 16, Wis 21, Cha 18
+Base Atk +11; CMB +16 (+20 grapple); CMD 34 (38 vs. trip)
+Feats Combat Reflexes, Great Fortitude, Hover, Improved Initiative, Iron Will, Lightning Reflexes
+Skills Bluff +18, Fly +2, Heal +19, Intimidate +18, Knowledge (planes) +22, Knowledge (religion) +22, Perception +19, Sense Motive +19, Spellcraft +17, Stealth +20
+Languages envisaging
+SQ extension of all, void form
+SPECIAL ABILITIES
+Soul Siphoning (Su) As a swift action, an akhana can use its tail to siphon life essence from a grappled foe. At the start of the aeon’s turn, the victim gains 1d4 negative levels (a DC 23 Fortitude save negates and grants immunity to this akhana’s soul siphoning ability for 24 hours). When the number of negative levels equals the target’s Hit Dice, the target’s soul tears free from its mortal body and gets stored within the body of the akhana as a trap the soul spell. The victim’s body remains preserved as if via a gentle repose spell for as long as the soul is held by the akhana. The akhana can keep the soul indefinitely, or can release it as a full-round action. Upon doing so, the released soul immediately returns to its body if the body is within 300 feet, at which point the body returns to life and any negative levels imparted to it by the akhana are removed. If the body is not within 300 feet (or if it has been destroyed), then the creature dies when its soul is released. A miracle, limited wish, or wish can force a displaced soul to return to its proper body. If an akhana is slain, any soul it contains is released automatically. An akhana can only hold one soul at a time. The save DC is Constitution-based.

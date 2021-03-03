@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-ice-tohc
+Ice Golem CR 5
+XP 1,600
+N Large construct (cold)
+Init -1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 16, touch 8, flat-footed 16 (-1 Dex +8 natural, –1 size)
+hp 63 (6d10+30)
+Fort +2; Ref +1; Will +2
+DR 5/adamantine; Immune cold, construct traits, magic
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +9 (1d6+4 plus 1d6 cold)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (20-ft. cone, 3d6 cold damage, Reflex DC 15 for half, usable once every 1d4 rounds), cold (1d6)
+STATISTICS
+Str 18, Dex 9, Con —, Int —, Wis 11, Cha 1
+Base Atk +6; CMB +11; CMD 20
+SPECIAL ABILITIES
+Breath Weapon (Su) The save DC is Constitution-based and includes a +2 racial bonus.
+Cold (Ex) An ice golem’s body generates intense cold, dealing 1d6 points of damage with its touch. Creatures attacking an ice golem unarmed or with natural weapons take this same cold damage each time one of their attacks hit.
+Immunity to Magic (Ex) An ice golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+Lightning-based effects slow an ice golem (as the spell) for 2d6 rounds. Cold-based effects heal all of its lost hit points.
+Construction ICE GOLEM
+An ice golem’s body must be constructed from a single block of ice weighing at least 1,000 pounds. The ice is treated with magical powders and unguents worth at least 500 gp.
+CL 12th; Price 19,600 gp
+CONSTRUCTION REQUIREMENTS Craft Construct, chill touch, cone of cold, geas/quest, polymorph any object, resist energy (cold); Special creator must be caster level 12th ; Skill Craft (sculptures) DC 17; Cost 10,050 gp

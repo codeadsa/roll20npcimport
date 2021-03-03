@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/fire-phantom
+Fire Phantom CR 5
+XP 1,600
+CE Medium undead (extraplanar, fire)
+Init +6; Senses darkvision 60ft.; Perception +10
+DEFENSE
+AC 16, touch 10, flat-footed 14 (+2 Dex, +6 natural, -2 rage)
+hp 38 (7d8 plus 7)
+Fort +4; Ref +4; Will +6
+Defensive Abilities channel resistance +4; Immune fire, undead traits
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +10 (1d4+4 plus 1d6 fire)
+Ranged fire blast +7 touch (2d6 fire)
+Special Attacks fire, fire blast, immolation, rage
+STATISTICS
+Str 19, Dex 14, Con -, Int 5, Wis 12, Cha 14
+Base Atk +5; CMB +9; CMD 21
+Feats Improved Initiative, Skill Focus (Perception), Toughness, Weapon Focus (slam)
+Skills Intimidate +9, Perception +10
+SPECIAL ABILITIES
+Fire (Ex) A fire phantom’s fists are swathed in elemental fire. Any melee hit deals fire damage. Creatures attacking a fire phantom unarmed or with natural weapons take fire damage each time their attacks hit.
+Fire Blast (Su) Once every 1d4 rounds, as a standard action, a fire phantom can hurl a small globe of elemental fire to a range of 30 feet (no range increment). By making a successful ranged touch attack, it deals 2d6 points of fire damage. A creature hit must make a successful DC 15 Reflex save to avoid catching on fire. The save DC is Charisma-based.
+Immolation (Su) Normally used as a last resort, a fire phantom can detonate itself in an inferno of elemental fire that deals 6d6 points of fire damage to all creatures within a 10-foot radius. A successful DC 15 Reflex save halves the damage. The save DC is Charisma-based. This instantly kills the fire phantom if it fails a DC 20 Will save. Even if the fire phantom survives, its flames are extinguished for 1 minute. During this time the fire phantom cannot use its fire blast ability and cannot deal fire damage with its slam attack. It retains the fire subtype. After 1 minute, its fires relight and it may deal fire damage normally and use its fire blast ability. If the fire phantom survives the immolation it may not use it again for one day.
+Rage (Ex) A fire phantom is in a constant state of agony from the elemental fire that consumes its body. Therefore, it is always in a berserk rage and gains Str +4 and -2 AC (both already included in the statistics block above). The fire phantom cannot end this rage voluntarily and it cannot be suppressed or negated.

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/angelic-guardian
+Angelic Guardian CR 5
+XP 1,600
+N Medium construct
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 53 (6d10+20)
+Fort +2, Ref +4, Will +2
+Defensive Abilities deflective wings; DR 5/adamantine; Immune construct traits, fire
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee 2 slams +10 (1d6+4), 2 wings +5 (1d4+2)
+Special Attacks breath weapon (60-ft. line, 6d6 fire damage, Reflex DC 13 half, usable every 1d4 rounds)
+STATISTICS
+Str 18, Dex 15, Con —, Int —, Wis 11, Cha 1
+Base Atk +6; CMB +10; CMD 22
+Languages Common (cannot speak)
+SQ metallic feathers
+SPECIAL ABILITIES
+Deflective Wings (Ex) As a standard action, an angelic guardian can spread its wings and protect a single adjacent creature from the next ranged attack. The next time the protected creature would normally be hit with an attack from a ranged attack, the attack is instead deflected and the protected creature takes no damage. An angelic guardian can only deflect one ranged attack per turn in this way. This effect lasts until the angelic guardian’s next turn or until the protected creature leaves its square, whichever comes first.
+Metallic Feathers (Ex) An angelic guardian’s wings are honed to razor-sharp edges, and attacks with them deal slashing damage instead of bludgeoning damage.

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/lurking-ray/lurker-above
+Lurker Above CR 7
+XP 3,200
+N Huge aberration
+Init +5; Senses blindsense 10 ft., darkvision 60 ft., scent; Perception +5
+DEFENSE
+AC 19, touch 9, flat-footed 18 (+1 Dex, +10 natural, –2 size)
+hp 85 (10d8+40)
+Fort +7, Ref +4, Will +9
+Defensive Abilities amorphous; DR 10/piercing or slashing; Resist cold 10, fire 10
+Weaknesses light sensitivity
+OFFENSE
+Speed 10 ft., climb 5 ft., fly 40 ft. (poor)
+Melee slam +15 (3d6+15 plus grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks constrict (3d6+15), smother
+STATISTICS
+Str 30, Dex 12, Con 19, Int 2, Wis 15, Cha 9
+Base Atk +7; CMB +19 (+23 grapple); CMD 30 (can’t be tripped)
+Feats Blind-Fight, Combat Reflexes, Improved Initiative, Skill Focus (Perception), Skill Focus (Stealth)
+Skills Climb +18, Fly +1, Perception +5, Stealth +8 (+16 in rocky areas); Racial Modifiers +4 Stealth (+12 in rocky areas)
+SPECIAL ABILITIES
+Smother (Ex) When a lurker above grapples a target, it forms an airtight seal around its prey. A grappled target cannot speak or cast spells with verbal components, and must hold its breath (see Suffocation).

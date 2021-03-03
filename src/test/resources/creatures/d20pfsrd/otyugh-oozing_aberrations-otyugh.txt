@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/otyugh/otyugh-oozing
+Oozing Otyugh CR 4
+XP 1,200
+N Large aberration
+Init +0; Senses darkvision 60 ft., scent; Perception +10
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+8 natural, –1 size)
+hp 39 (6d8+12)
+Fort +3, Ref +2, Will +6
+Immune disease
+OFFENSE
+Speed 20 ft.
+Melee bite +7 (1d8+4 plus 1d6 acid), 2 tentacles +3 (1d6+2 plus 1d6 acid plus grab)
+Space 10 ft.; Reach 10 ft. (15 ft. with tentacle)
+Special Attacks constrict (tentacle, 1d6+2 plus 1d6 acid)
+STATISTICS
+Str 18, Dex 10, Con 13, Int 5, Wis 13, Cha 6
+Base Atk +4; CMB +9 (+13 grapple); CMD 19 (21 vs. trip)
+Feats Skill Focus (Perception), Toughness, Weapon Focus (tentacle)
+Skills Perception +10, Stealth +2 (+10 in lair); Racial Modifiers +8 Stealth in lair
+Languages Common
+CONVERSION OF A VARIANT
+Base Creature
+Otyugh Other Forms
+Corpsefeaster Otyugh
+Mutant Otyugh
+Plaguebearer Otyugh

@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-brine/brine-dragon-young-adult
+Brine Dragon, Young Adult CR 10
+XP 9,600
+LN Large dragon (water)
+Init +4; Senses dragon senses; Perception +17
+DEFENSE
+AC 24, touch 9, flat-footed 24 (+15 natural, -1 size)
+hp 114 (12d12+36)
+Fort +11, Ref +10, Will +10
+DR 5/magic; Immune acid, paralysis, sleep; SR 21
+OFFENSE
+Speed 60 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +20 (2d6+13), 2 claws +20 (1d8+9), tail slap +15 (1d8+13), 2 wings +15 (1d6+4)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (80-ft. line, 10d6 acid, DC 19)
+Spell-Like Abilities (CL12th; concentration +14)
+At will—obscuring mist, speak with animals (fish only), water breathing
+Spells Known (CL 5th; concentration +7)
+2nd (5/day)—alter self, invisibility
+1st (7/day)—color spray (DC 13), flare burst* (DC 13), ray of enfeeblement, touch of the sea*
+0 (at will)—detect magic, detect poison, mage hand, open/close, prestidigitation, read magic
+* – denotes spell from Advanced Player’s Guide. STATISTICS
+Str 28, Dex 11, Con 17, Int 17, Wis 14, Cha 15
+Base Atk +12; CMB +22; CMD 32 (36 vs. trip)
+Feats Hover, Improved Initiative, Lightning Reflexes, Power Attack, Skill Focus (Swim), Vital Strike
+Skills Bluff +17, Diplomacy +17, Fly +9, Heal +17, Knowledge (nature) +18, Perception +17, Sense Motive +17, Survival +17, Swim +38; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic, Elven
+SQ water breathing
+
+

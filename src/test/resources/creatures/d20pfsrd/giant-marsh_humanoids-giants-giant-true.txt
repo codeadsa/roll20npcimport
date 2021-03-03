@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-marsh
+Marsh Giant CR 8
+XP 4,800
+CE Large humanoid (giant)
+Init +3; Senses low-light vision; Perception +11
+DEFENSE
+AC 21, touch 12, flat-footed 18 (+3 Dex, +9 natural, –1 size)
+hp 102 (12d8+48)
+Fort +12, Ref +7, Will +8
+Defensive Abilities rock catching
+OFFENSE
+Speed 40 ft., swim 20 ft.
+Melee gaff +16/+11 (2d6+12) or 2 slams +16 (1d6+8)
+Ranged rock +12 (2d6+9)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rock throwing (120 ft.)
+Spell-Like Abilities (CL 12th; concentration +13)
+3/day—augury, bestow curse (DC 15), fog cloud
+STATISTICS
+Str 27, Dex 17, Con 19, Int 8, Wis 15, Cha 12
+Base Atk +9; CMB +18; CMD 31
+Feats Combat Reflexes, Improved Iron Will, Improved Sunder, Iron Will, Power Attack, Vital Strike
+Skills Perception +11, Stealth +5 (+13 in swamps), Swim +16; Racial Modifiers +8 Stealth in swamps
+Languages Boggard, Giant

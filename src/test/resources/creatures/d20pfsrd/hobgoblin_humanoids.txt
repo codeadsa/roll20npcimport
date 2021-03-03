@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/hobgoblin
+Hobgoblin CR 1/2
+XP 200
+Hobgoblin fighter 1
+LE Medium humanoid (goblinoid)
+Init +2; Senses darkvision 60 ft.; Perception +2
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+3 armor, +2 Dex, +1 shield)
+hp 17 (1d10+7)
+Fort +5, Ref +2, Will +1
+OFFENSE
+Speed 30 ft.
+Melee longsword +4 (1d8+2/19–20)
+Ranged longbow +3 (1d8/×3)
+STATISTICS
+Str 15, Dex 15, Con 16, Int 10, Wis 12, Cha 8
+Base Atk +1; CMB +3; CMD 15
+Feats Toughness, Weapon Focus (longsword)
+Skills Perception +2, Stealth +5; Racial Modifiers +4 Stealth
+Languages Common, Goblin

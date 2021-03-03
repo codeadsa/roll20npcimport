@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/scylla-TOHC
+Scylla CR 10
+XP 9,600
+N Huge magical beast (aquatic)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +23
+DEFENSE
+AC 21, touch 10, flat-footed 19 (+2 Dex, +11 natural, -2 size)
+hp 138 (12d10+72)
+Fort +14, Ref +10, Will +8
+Weaknesses water dependency
+OFFENSE
+Speed 10 ft., swim 50 ft.
+Melee 6 bites +16 (1d8+6/19-20)
+Space 15 ft.; Reach 10 ft.
+Special Attacks boil water, heat, scalding blast
+STATISTICS
+Str 23, Dex 14, Con 23, Int 10, Wis 14, Cha 10
+Base Atk +12; CMB +20; CMD 32 (can’t be tripped)
+Feats Improved Critical (bite), Intimidating Prowess, Iron Will, Power Attack, Skill Focus (Perception), Vital Strike
+Skills Intimidate +19, Perception +23, Swim +19; Racial Modifiers +2 Perception
+Languages Aquan, Common
+SPECIAL ABILITIES
+Boil Water (Ex) If a scylla uses its heat ability (see below) for 3 consecutive rounds and doesn’t move more than 5 feet from its current location, the water surrounding it (in a 10-foot radius and to a depth of 10 feet) begins to rapidly churn and boil. Creatures caught in the boiling water take 3d6 points of fire damage each round they remain in the area. A successful DC 22 Fortitude save reduces the damage by half. Creatures wearing heavy clothing or medium or heavy armor take a -2 penalty on their saving throw. In addition, those wearing metal armor or coming into contact with very hot metal are affected as if by a heat metal spell. The save DC is Constitution-based.
+Once the scylla moves from its location or shuts its heat ability off, the boiling water takes 3 rounds to return to its normal temperature (it still deals full damage during its cooling off period). A scylla is immune to its own boil water ability and to the boil water ability of other scyllas.
+Heat (Ex) A scylla raises the temperature of its body in order to generate intense heat. It does so as a free action. Creatures attacking a scylla unarmed or with natural weapons take 1d6 points of fire damage each time their attacks hit. In addition, a scylla can use its heat ability to boil the surrounding waters.
+Scalding Blast (Ex) A scylla can gulp some of the boiling water surrounding it as a move action. Each head that gulped water can then unleash a line of scalding steam on the scylla’s next action to a range of 50 feet. The scylla can target the same or different opponents with each head, if it wishes. Each blast deals 3d6 points of fire
+In any round that a head does not gulp water, it can bite.
+Water Dependency (Ex) A scylla can survive on land for a number of hours equal to its Constitution modifier (minimum 1 hour). After that, it begins to drown.

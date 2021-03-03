@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/biclops
+Biclops CR 12
+XP 19,200
+N Huge humanoid (giant)
+Init +1; Senses low-light vision; Perception +19
+DEFENSE
+AC 25, touch 9, flat-footed 24 (+4 armor, +1 Dex, +12 natural, –2 size)
+hp 178 (17d8+102)
+Fort +16; Ref +8; Will +9
+Defensive Abilities rock catching
+OFFENSE
+Speed 40 ft., (30 ft. in armor)
+Melee 2 longswords +20/+15/+10 (3d6+10)
+Ranged 2 spears +11 (3d6+10/x3) or 2 rocks +12 (2d6+15)
+Space 15 ft.; Reach 15 ft.
+Special Attacks rock throwing (140 ft.), superior two-weapon fighting
+STATISTICS
+Str 31, Dex 12, Con 23, Int 10, Wis 14, Cha 10
+Base Atk +12; CMB +24 (+26 bull rush, overrun); CMD 35 (37 vs. bull rush, overrun)
+Feats Awesome Blow, Cleave, Improved Bull Rush, Improved Overrun, Intimidating Prowess, Iron Will, Lightning Reflexes, Martial Weapon Proficiency (longsword), Power Attack
+Skills Climb +14, Craft (any) +9, Intimidate +25, Perception +19; Racial Modifiers +2 Perception
+Languages Common, Giant
+Gear hide armor, 2 longswords, 2 spears
+SPECIAL ABILITIES
+Superior Two-Weapon Fighting (Ex) A biclops fights with a longsword or spear in each hand. Because each of its two heads controls an arm, the biclops does not take a penalty on attack or damage rolls for attacking with two weapons.
+
+

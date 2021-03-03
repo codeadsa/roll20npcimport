@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/pyrolisk-TOHC
+Pyrolisk CR 3
+XP 1,200
+NE Small magical beast (fire)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 14, touch 14, flat-footed 11 (+3 Dex, +1 size)
+hp 22 (4d10)
+Fort +4, Ref +7, Will +4
+Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 20 ft., fly 60 ft. (poor)
+Melee bite +8 (1d4-2)
+Special Attacks conflagration gaze, pyrotechnics
+TACTICS
+The pyrolisk uses its gaze attack to ignite those that are unaffected by the blinding flash of its pyrotechnic ability. It is a fierce combatant, fighting until either it or its opponents are dead.
+STATISTICS
+Str 6, Dex 17, Con 11, Int 4, Wis 13, Cha 9
+Base Atk +4; CMB +1; CMD 14
+Feats Iron Will, Skill Focus (Perception), Weapon FinesseB
+Skills Fly +5, Perception +9, Stealth +11
+Languages Common (cannot speak)
+SPECIAL ABILITIES
+Conflagration Gaze (Su) Burst into flames for 4d8 damage, range 30 feet, Fortitude DC 12 half. The flames burst from within the target creature and immediately burn out, so there is no continuing damage or burn effect. A creature that successfully saves cannot be affected again by the same pyrolisk’s conflagration gaze for one day. The save DC is Constitution-based.
+Pyrotechnics (Su) Once per round, a pyrolisk can cause an ordinary fire to burst into a shower of flashes, sparks, and bursts of light (as pyrotechnics, fireworks version only). Will DC 12 to negate the blindness. The save DC is Constitution-based.

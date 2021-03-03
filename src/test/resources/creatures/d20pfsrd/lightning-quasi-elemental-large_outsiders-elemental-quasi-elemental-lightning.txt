@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/quasi-elemental-lightning/lightning-quasi-elemental-large
+Large Lightning Quasi-Elemental CR 9
+XP 6,400
+N Large outsider (air, electricity, elemental, extraplanar)
+Init +12; Senses darkvision 60 ft.; Perception +15; Aura globe (5 ft., Ref DC 21, 1d6 electricity)
+DEFENSE
+AC 22, touch 18, flat-footed 13 (+8 Dex, +1 dodge, +4 natural, -1 size)
+hp 102 (12d10+36)
+Fort +7, Ref +16, Will +8
+DR 10/–; Immune electricity, elemental traits; Resist acid 10, fire 10
+Weaknesses vulnerability to water
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee 2 slams +19 (2d6 electricity)
+Space 10 ft.; Reach 10 ft.
+Special Attacks electricity
+STATISTICS
+Str 14, Dex 26, Con 16, Int 6, Wis 11, Cha 11
+Base Atk +12; CMB +15; CMD 34
+Feats Ability Focus (globe), Dodge, Flyby Attack, Improved Initiative, Mobility, Weapon Finesse
+Skills Fly +29, Knowledge (planes) +13, Perception +15, Stealth +19
+Languages Auran
+SPECIAL ABILITIES
+Electricity (Ex) A lightning quasi-elemental is composed entirely of electricity and deals electricity damage each time it hits. A creature striking the lightning quasi-elemental unarmed, or a creature striking the lightning quasi-elemental with a weapon take this same electricity damage each time one of their attacks hits. Metallic creatures or creatures using metal weapons take an extra 1d6 points of electricity damage each time one of their attacks hits.
+Globe (Ex) As a standard action, a lightning quasi-elemental can discharge one globe of electricity per HD it possesses once per round. Globes hover by the quasi-elemental and move with the creature. An opponent that moves within 5 feet of a lightning quasi-elemental discharges a globe and takes 2d6 electricity damage. An affected creature can make a DC 21 Reflex save to reduce the damage by half. The save DC is Constitution-based. Once a globe discharges, it is destroyed and a lightning quasi-elemental cannot recreate it for 4 hours.
+Vulnerability to Water (Ex) A lightning quasi-elemental takes 1d8 points of damage per gallon of water it contacts. Pouring water onto a lightning quasi-elemental requires a successful ranged touch attack. Water from other sources, such as spells or effects that create water but do not specify an amount in gallons, deal 1d4 points of damage per caster level to a lightning quasi-elemental within its area of effect. Damage from water-based attacks, like the slam attack of a water elemental, is increased by 50% against a lightning quasi-elemental.

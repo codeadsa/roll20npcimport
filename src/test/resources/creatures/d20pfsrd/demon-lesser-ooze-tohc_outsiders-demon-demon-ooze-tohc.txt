@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-ooze-tohc/demon-lesser-ooze-tohc
+Lesser Ooze Demon CR 3
+XP 800
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +0; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 16, touch 10, flat-footed 16 (+6 natural)
+hp 25 (3d10+9)
+Fort +6, Ref +1, Will +3
+DR 5/cold iron or good; Immune acid, critical hits, electricity, paralysis, polymorph, poison, sleep, stun; Resist cold 10, fire 10; SR 14
+OFFENSE
+Speed 30 ft.
+Melee slam +6 (1d6+4 plus 1d4 acid plus grab) or bite +6 (1d6+3 plus 1d4 acid), 2 claws +6 (1d4+3 plus 1d4 acid)
+Special Attacks acid
+Spell-Like Abilities (CL 5th)
+1/day—summon (level 3, 1d2 lesser ooze demons 35%)
+STATISTICS
+Str 16, Dex 10, Con 16, Int 10, Wis 10, Cha 10
+Base Atk +3; CMB +6; CMD 16
+Feats Blind-Fight, Power Attack
+Skills Climb +9, Escape Artist +6, Intimidate +6, Perception +14, Stealth +6, Survival +6; Racial Modifiers +8 Perception
+Languages Abyssal; telepathy 100 ft.
+SPECIAL ABILITIES
+Acid (Ex) A lesser ooze demon’s acid dissolves only flesh. Any melee hit deals acid damage.

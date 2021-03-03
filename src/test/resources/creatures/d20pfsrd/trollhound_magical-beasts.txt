@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/trollhound
+Trollhound (CR 3)
+XP 800
+N Medium magical beast
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+1 Dex, +4 natural)
+hp 30 (4d10+8); regeneration 3 (acid or fire)
+Fort +6, Ref +5, Will +1
+OFFENSE
+Speed 40 ft.
+Melee bite +8 (1d10+6 plus disease and trip)
+STATISTICS
+Str 18, Dex 13, Con 15, Int 2, Wis 11, Cha 6
+Base Atk +4; CMB +8; CMD 19 (23 vs. trip)
+Feats Improved Initiative, Skill Focus (Perception)
+Skills Perception +8, Stealth +5, Survival +1 (+5 scent tracking); Racial Modifiers +4 Survival while scent tracking
+SPECIAL ABILITIES
+Disease (Ex) A trollhound’s saliva is an infectious brew of contagion. Creatures bitten by a trollhound are often afflicted with bloodfire fever, a disease characterized by deep internal pain, as if the victim’s blood were on fire. Additional symptoms include loss of muscular coordination, pus-filled blisters, and overall lethargy and fatigue. Trolls and trollhounds alike are immune to bloodfire fever, even though trollhounds often exhibit the pus-filled blisters that come with the disease.
+Bloodfire fever: Bite—injury; save Fort DC 14; onset 1 day; frequency 1/day; effect 1d3 Str damage, 1d3 Dex damage, and target is fatigued; cure 2 consecutive saves. The save DC is Constitution-based.

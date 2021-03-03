@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/netherspark
+Netherspark CR 7
+XP 3,200
+NE Medium outsider (evil, extraplanar)
+Init +7; Senses darkvision 60 ft.; Perception +20
+DEFENSE
+AC 19, touch 13, flat-footed 16 (+3 Dex, +6 natural)
+hp 125 (10d10+70)
+Fort +12, Ref +10, Will +10
+DR 10/magic; Immune negative energy; Resist positive energy 16
+OFFENSE
+Speed 30 ft.
+Melee 2 slam +14 (1d6+4)
+Ranged negative energy ray +13 touch (1 level, DC 22)
+Special Attacks negative energy aura, negative energy burst, negative energy ray
+STATISTICS
+Str 19, Dex 16, Con 24, Int 14, Wis 16, Cha 14
+Base Atk +10; CMB +14; CMD 27
+Feats Alertness, Great Fortitude, Improved Initiative, Power Attack, Weapon Focus (ray)
+Skills Acrobatics +16, Bluff +15, Climb +14, Diplomacy +15, Intimidate +15, Knowledge (planes) +15, Linguistics +3, Perception +20, Survival +15
+Languages Celestial, Common, Draconic, and Infernal
+SPECIAL ABILITIES
+Negative Energy Aura (Ex) Being composed of negative energy, a netherspark radiates an aura of such energy in a 10-foot radius. Any living creature within this area takes 1 point of damage per round until it leaves the area. Undead in the area heal 1 hit point each round they remain in the area. Undead cannot more hit points than their normal total from the netherspark’s aura.
+Negative Energy Burst (Su) Once every 1d4 rounds, a netherspark can release a burst of negative energy in a 20-foot radius around it. Creatures in the area take 1d8+10 points of negative energy damage. Undead take no damage but heal a number of hit points equal to what the ray would otherwise deal.
+Negative Energy Ray (Su) Once per round as a standard action, a netherspark can release a ray of negative energy with a range of 40 feet as a ranged touch attack. A target hit takes gains one negative level if it fails a DC 22 Fortitude saving throw. On a successful save, the target avoids the negative level but still takes 1d8 points of negative energy damage. The save DC is Constitution-based.

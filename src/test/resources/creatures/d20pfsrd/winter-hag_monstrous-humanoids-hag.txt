@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/winter-hag
+Winter Hag (CR 7)
+XP 3,200
+CE Medium monstrous humanoid (cold)
+Init +1; Senses darkvision 60 ft., see invisibility, snow vision; Perception +18
+DEFENSE
+AC 20, touch 11, flat-footed 19 (+1 Dex, +9 natural)
+hp 85 (10d10+30)
+Fort +8, Ref +8, Will +8
+DR 10/magic; Immune cold; SR 18
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft.
+Melee +2 frost quarterstaff +15/+10 (1d6+6 plus 1d6 cold) or 2 claws +13 (1d4+3)
+Special Attacks breath weapon (30-ft. cone, 4d6 cold and blinded for 1d6 rounds, Reflex DC 18 partial, usable every 1d4 round)
+Spell-Like Abilities (CL 10th; concentration +14)
+Constant—pass without trace, see invisibility
+At will—chill metal (DC 16), detect magic, fog cloud, frostbite, whispering wind
+3/day—alter self, charm monster (DC 18), invisibility (self only), major image (DC 17)
+1/day—cone of cold (DC 19; see ice staff), control weather (windy or cold weather only), wall of ice (DC 18), waves of fatigue
+STATISTICS
+Str 17, Dex 13, Con 16, Int 16, Wis 13, Cha 18
+Base Atk +10; CMB +13; CMD 24
+Feats Alertness, Blind-Fight, Combat Casting, Deceitful, Great Fortitude
+Skills Bluff +18, Craft (alchemy) +11, Diplomacy +9, Disguise +11, Intimidate +17, Knowledge (arcana) +8, Perception +18, Ride +9, Sense Motive +8, Spellcraft +8, Stealth +9 (+13 in snow); Racial Modifiers +4 Stealth in snow
+Languages Aklo, Common, Giant
+SQ ice staff, icewalking
+SPECIAL ABILITIES
+Breath Weapon (Su) A creature that successfully saves against the hag’s breath weapon takes half damage and is not blinded.
+Ice Staff (Su) Once per week, a winter hag can perform an hour-long ritual to create a staff made of black ice that is as hard as steel and functions as a +2 frost quarterstaff. A winter hag holding her ice staff can use cone of cold once per day as a spell-like ability. The staff melts after 1 week.
+Icewalking (Ex) This ability works like the spider climb spell, but the surfaces the hag climbs must be icy. The hag can move across icy surfaces without penalty and doesn’t need to make Acrobatics checks to run or charge on ice.
+Snow Vision (Ex) A winter hag can see perfectly well in snowy conditions and doesn’t take any penalties on Perception checks while in snow.

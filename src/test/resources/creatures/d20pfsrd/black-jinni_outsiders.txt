@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/black-jinni
+Black Jinni CR 12
+XP 19,200
+CE Large outsider (chaotic, evil, extraplanar)
+Init +10; Senses darkvision 60 ft.; Perception +21
+DEFENSE
+AC 28, touch 16, flat-footed 21 (+6 Dex, +1 dodge, +12 natural, -1 size)
+hp 184 (16d10+96)
+Fort +13, Ref +16, Will +12
+Defensive Abilities obscuring cloud; Immune electricity, fire
+Weaknesses vulnerability to recitation
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee 2 claws +24 (2d6+8/19-20 plus 1d10 electricity), gore +23 (2d8+8)
+Space 10 ft.; Reach 10 ft.
+Special Attacks create spawn, dust vortex, shocking touch
+STATISTICS
+Str 26, Dex 22, Con 22, Int 12, Wis 15, Cha 17
+Base Atk +16; CMB +25; CMD 42
+Feats Combat Reflexes, Dodge, Great Fortitude, Improved Critical (claw), Improved InitiativeB, Mobility, Power Attack, Spring Attack, Weapon Focus (claw)
+Skills Acrobatics +25, Bluff +22, Fly +23, Intimidate +22, Knowledge (religion) +20, Perception +21, Stealth +21
+Languages Aquan, Auran, Common, Ignan, Terran
+SQ aligned weapons (chaos, evil)
+SPECIAL ABILITIES
+Create Spawn (Su) A humanoid or genie slain by a black jinni’s searing touch rises 1d4 rounds later as an undead spawn. Humanoids rise as zombies; jann rise as ghuls; and djinn, efreet, shaitans, and marids rise as great ghuls. Spawn created by a black jinni are under its control.
+Dust Vortex (Su) Once per day, as a full-round action, a black jinni can cause the obscuring cloud that surrounds it to become a vortex of electrically-charged dust. This vortex is 20 feet high and radiates to a range of 30 feet, with the black jinni at the vortex’s center. The winds within this area are considered a windstorm, making normal ranged attacks impossible and causing a –4 penalty to siege weapon attacks against creatures in the vortex. Creatures within the vortex are subjected to wind effects — those who are blown back are instead drawn toward the center to a square adjacent to the black jinni. A creature that ends its turn within the dust vortex takes 10d6 points of electricity damage (DC 24 Reflex save halves). Once the dust vortex is created, it remains stationary, allowing the black jinni to move around in it or even leave it. The vortex remains in place for 1d6 rounds, or until the black jinni dismisses it as a move action. The save DC is Constitution-based.
+Obscuring Cloud (Ex) A black jinni is continually surrounded by a cloud of obscuring dust and scouring wind. This cloud gives it a +8 racial bonus to its Stealth check while within a sandstorm or other area of blowing dust. In addition, a black jinni has concealment while the cloud is in effect. Any strong (or stronger) wind can suppress the obscuring cloud as long as the wind persists.
+Shocking Touch (Su) Any creature hit by a black jinni’s claw attack takes an additional 1d10 points of electricity damage—on a critical hit, this additional electricity damage increases to 2d10 points of damage and the creature must make a DC 24 Fortitude save or the electricity lingers on his body, inflicting an additional 1d10 points of electricity damage each round on the start of the victim’s turn for 1d6 additional rounds. Immersion in any liquid ends this ongoing damage, as does contact with a metal object of at least Medium or larger size that is in contact with the ground. The save DC is Constitution-based.
+Stormwalk (Ex) A black jinni is able to move about in any storm of natural or unnatural origin of hurricane velocity (75–174 mph wind speed) or less without suffering any of its effects.
+Vulnerability to Recitation (Ex) As cursed genies of evil and chaos, black jinn are strangely susceptible to certain recitations of holy tracts belonging to good or lawful deities or philosophies. These include the spells dictum and holy word, but also forceful recitations of nonmagical holy sermonizing. If a cleric or paladin of a lawful or good deity makes a successful opposed Knowledge (religion) check against a black jinni as a standard action, the black jinni must make a DC 20 Fortitude save or be instantly destroyed, leaving behind only a small spot of charred ash. If this save is successful, the black jinni instead takes 5d6 points of damage.

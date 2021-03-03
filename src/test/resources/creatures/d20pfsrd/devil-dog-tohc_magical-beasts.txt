@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/devil-dog-tohc
+Devil Dog CR 5
+XP 1,600
+CE Medium magical beast (cold)
+Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception +6; Aura frightful presence (30 ft., DC 13)
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 45 (6d10+12)
+Fort +7; Ref +7; Will +3
+Immune cold
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 50 ft.
+Melee bite +9 (1d6+3 plus trip)
+Special Attacks throat-rip
+STATISTICS
+Str 15, Dex 15, Con 15, Int 6, Wis 12, Cha 10
+Base Atk +6; CMB +8; CMD 20 (24 vs. trip)
+Feats Improved Initiative, Skill Focus (Perception), Weapon Focus (bite)
+Skills Perception +6, Stealth +7 (+13 in snow and ice), Survival +3 (+7 tracking by scent); Racial Modifiers +6 Stealth in snow and ice,+4 Survival when tracking by scent
+SPECIAL ABILITIES
+Throat-Rip (Ex) As a full-round action, a devil dog can deliver a coup de grace against a helpless opponent. If the victim survives the attack, he must succeed on a Fortitude save (DC 10 + damage dealt) or die. Opponents killed in this manner cannot be raised, but resurrection, true resurrection, or the like can restore the slain creature to life.

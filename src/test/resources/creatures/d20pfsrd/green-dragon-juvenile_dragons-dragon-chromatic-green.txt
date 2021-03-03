@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-green/green-dragon-juvenile
+Juvenile Green Dragon CR 9
+XP 6,400
+LE Large dragon (air)
+Init +1; Senses dragon senses; Perception +20; Aura frightful presence (120 ft., DC 17)
+DEFENSE
+AC 23, touch 10, flat-footed 22 (+1 Dex, +13 natural, -1 size)
+hp 115 (11d12+44)
+Fort +11, Ref +8, Will +11
+Immune acid, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor), swim 40 ft.
+Melee bite +16 (2d6+9/19-20), 2 claws +16 (1d8+6), 2 wings +11 (1d6+3), tail slap +11 (1d8+9)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, DC 19, 8d6 acid)
+Spell-Like Abilities (CL 11th; concentration +13)
+At will— charm person (DC 13), entangle (DC 13) Spells Known (CL 1st; concentration +3)
+1st (4/day)— shield, summon monster I
+0 (at will)— dancing lights, detect magic, ghost sound, mage hand STATISTICS
+Str 23, Dex 12, Con 19, Int 14, Wis 15, Cha 14
+Base Atk +11; CMB +18; CMD 29 (33 vs. trip)
+Feats Alertness, Cleave, Great Cleave, Improved Critical (bite), Iron Will, Power Attack
+Skills Fly +9, Knowledge (arcane) +16, Knowledge (nature) +16, Perception +20, Spellcraft +16, Stealth +11, Survival +16, Swim +28; Racial Modifiers +8 Swim
+Languages Common, Draconic, Elven
+SQ water breathing, woodland stride
+SPECIAL ABILITIES
+Water Breathing (Ex) A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+Woodland Stride (Ex) A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.
+

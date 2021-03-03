@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-black/black-dragon-very-young
+Very Young Black Dragon CR 5
+XP 1,600
+CE small dragon (water)
+Init +6; Senses dragon senses; Perception +12
+DEFENSE
+AC 19, touch 13, flat-footed 17 (+2 Dex, +6 natural, +1 size)
+hp 51 (6d12+12)
+Fort +7, Ref +7, Will +6
+Immune acid, paralysis, sleep
+OFFENSE
+Speed 60 ft., fly 150 ft. (average), swim 60 ft.
+Melee bite +9 (1d6+3), 2 claws +9 (1d4+2)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40 ft. line, DC 15, 4d6 acid)
+STATISTICS
+Str 15, Dex 14, Con 15, Int 10, Wis 13, Cha 10
+Base Atk +6; CMB +7; CMD 19 (23 vs. trip)
+Feats Alertness, Improved Initiative, Skill Focus (Stealth)
+Skills Fly +13, Handle Animal +6, Intimidate +9, Perception +12, Stealth +18, Swim +19; Racial Modifiers +8 Swim
+Languages Draconic
+SQ swamp stride, water breathing
+SPECIAL ABILITIES
+Swamp Stride (Ex) A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed.
+Water Breathing (Ex) A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.

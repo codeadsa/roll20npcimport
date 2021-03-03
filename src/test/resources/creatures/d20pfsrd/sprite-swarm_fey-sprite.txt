@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/sprite/sprite-swarm
+Sprite Swarm CR 5 (XP 1,600)
+CN Diminutive fey (swarm)
+Init +7; Senses low-light vision, detect evil, detect good; Perception +14
+DEFENSE
+AC 18, touch 18, flat-footed 14 (+3 Dex, +1 dodge, +4 size)
+hp 45 (10d6+10)
+Fort +4, Ref +10, Will +7
+Defensive Abilities swarm traits DR 2/cold iron; Immune weapon damage
+OFFENSE
+Speed 15 ft., fly 60 ft. (perfect)
+Melee swarm (2d6 plus distraction)
+Space 10 ft.; Reach 0 ft.
+Special Attacks angry glow, concentrated rush, distraction (DC 16
+Spell-Like Abilities (CL 5th; concentration +5)
+Constant—detect evil, detect good
+1/day—mass daze (DC 14)
+STATISTICS
+Str 3, Dex 17, Con 12, Int 6, Wis 11, Cha 10
+Base Atk +5; CMB —; CMD —
+Feats Alertness, Dodge, Flyby Attack, Improved Initiative, Skill Focus (Perception)
+Skills Fly +30, Intimidate +10, Perception +14, Sense Motive +9, Stealth +28
+Languages Common, Sylvan
+SQ mob mentality
+SPECIAL ABILITIES
+Angry Glow (Su) Once per minute, as a full-round action, the sprites that make up a sprite swarm may coordinate their luminous abilities to create a singular, searing glow.
+Creatures within 10 feet of a sprite swarm with line of sight must succeed at a DC 16 Fortitude save or be blinded for 1d4 rounds. A creature that succeeds at its save is dazzled for 1 round. The save DC is Constitution-based.
+Concentrated Rush (Ex) Once every 1d4 rounds, if more than one creature occupies a sprite swarm’s space, the swarm may use its attack action to concentrate on one of these creatures to deal 4d6 points of damage in place of its normal swarm damage. Other creatures within the horde’s space do not take swarm damage that round.
+Mob Mentality (Ex) As long as a sprite swarm has at least 10 hit points, it retains its Intelligence score and can act accordingly. Even so, it cannot be targeted by mind-affecting spells or effects that target a single creature. If its hit points fall below 10, the swarm is considered mindless as the individual creatures within begin to panic.

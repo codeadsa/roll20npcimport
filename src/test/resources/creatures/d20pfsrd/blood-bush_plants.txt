@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/blood-bush
+Blood Bush CR 4
+XP 1,200
+N Small plant
+Init +0; Senses blindsight 30 ft., low-light vision; Perception +1
+DEFENSE
+AC 18, touch 11, flat-footed 18 (+7 natural, +1 size)
+hp 57 (6d8+30)
+Fort +10; Ref +2; Will +3
+Immune electricity; Resist cold 10, fire 10
+Weaknesses vulnerable to sonic
+OFFENSE
+Speed 0 ft.
+Melee tendril +7 (1d4+2)
+Ranged flower dart +5 (1d2+2)
+Special Attacks flower dart, implant
+STATISTICS
+Str 15, Dex 10, Con 20, Int —, Wis 12, Cha 9
+Base Atk +4; CMB +5; CMD 15
+SPECIAL ABILITIES
+Flower Dart (Ex) As a standard action, a blood bush can launch a barrage of six flower darts (make an attack roll for each dart). This attack has a range of 40 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only 30 such darts in one day.
+Implant (Ex) A creature hit by one of the blood bush’s flower darts is implanted with one of its seeds. A seed quickly germinates as follows:

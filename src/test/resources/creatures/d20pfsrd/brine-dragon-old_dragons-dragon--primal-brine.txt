@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-brine/brine-dragon-old
+Brine Dragon, Old CR 14
+XP 38,400
+LN Huge dragon (water)
+Init +3; Senses dragon senses; Perception +25
+Aura frightful presence (240 ft., DC 23)
+DEFENSE
+AC 31, touch 7, flat-footed 31 (-1 Dex, +24 natural, -2 size)
+hp 207 (18d12+90)
+Fort +16, Ref +12, Will +15
+DR 10/magic; Immune acid, paralysis, sleep; SR 25
+OFFENSE
+Speed 60 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +28 (2d8+18), 2 claws +28 (2d6+12), tail slap +23 (2d6+18), 2 wings +23 (1d8+6)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (100-ft. line, 16d6 acid, DC 24), capsize, crush (2d8+18, DC 24)
+Spell-like Abilities (CL 18th; concentration +22)
+At will—control water, obscuring mist, speak with animals (fish only), water breathing
+
+Spells Known (CL 11th; concentration +15)
+5th (4/day)—teleport, wall of force
+4th (7/day)—ball lightning* (DC 18), ice storm, greater invisibility
+3rd (7/day)—aqueous orb* (DC 17), deep slumber (DC 17), dispel magic, sleet storm (DC 17)
+2nd (7/day)—alter self, detect thoughts, invisibility, make whole, slipstream*
+1st (7/day)—color spray (DC 15), feather fall, flare burst* (DC 15), ray of enfeeblement, touch of the sea*
+0 (at will)—arcane mark, detect magic, detect poison, mage hand, message, open/close, prestidigitation, read magic, resistance
+* – denotes spell from Advanced Player’s Guide. STATISTICS
+Str 34, Dex 9, Con 21, Int 21, Wis 18, Cha 19
+Base Atk +18; CMB +32 (+34 bull rush); CMD 41 (43 vs. bull rush; 45 vs. trip)
+Feats Greater Vital Strike, Hover, Improved Bull Rush, Improved Initiative, Improved Vital Strike, Lightning Reflexes, Power Attack, Skill Focus (Swim), Vital Strike
+Skills Bluff +25, Diplomacy +25, Fly +12, Heal +25, Knowledge (arcana, geography, nature) +26, Perception +25, Sense Motive +25, Survival +25, Swim +47; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic, Dwarven, Elven, Halfling
+SQ water breathing
+SPECIAL ABILITIES
+Capsize (Ex) An old or older brine dragon can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25 or the result of the boat captain’s Profession (sailor) check, whichever is higher. For each size category larger the ship is than the brine dragon’s size, the dragon takes a cumulative –10 penalty on the check.
+
+
+

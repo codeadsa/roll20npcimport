@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/duergar
+Duergar CR 1/3
+XP 135
+Duergar warrior 1
+LE Medium humanoid (dwarf)
+Init –1; Senses darkvision 120 ft; Perception +1
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+6 armor, –1 Dex, +2 shield)
+hp 7 (1d10+2)
+Fort +4, Ref –1, Will +1; +2 vs. spells
+Immune paralysis, phantasms, poison
+Weaknesses light sensitivity
+OFFENSE
+Speed 20 ft.
+Melee warhammer +3 (1d8+1/×3)
+Ranged light crossbow +0 (1d8/19–20)
+Spell-Like Abilities (CL 3rd)
+1/day—enlarge person (self only), invisibility (self only)
+STATISTICS
+Str 12, Dex 9, Con 15, Int 10, Wis 13, Cha 4
+Base Atk +1; CMB +2; CMD 11
+Feats Weapon Focus (warhammer)
+Skills Intimidate +1, Stealth –3; Racial Modifiers +2 Perception relating to stonework, +4 Stealth
+Languages Common, Dwarven, Undercommon
+SQ slow and steady, stability

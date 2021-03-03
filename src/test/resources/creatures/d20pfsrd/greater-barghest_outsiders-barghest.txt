@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/barghest/greater-barghest
+Greater Barghest CR 7
+XP 3,200
+LE Large outsider (evil, extraplanar, lawful, shapechanger)
+Init +6; Senses darkvision 60 ft., scent; Perception +16
+DEFENSE
+AC 20, touch 11, flat-footed 18 (+2 Dex, +9 natural, –1 size)
+hp 85 (9d10+36)
+Fort +9, Ref +10, Will +10
+DR 10/magic
+OFFENSE
+Speed 40 ft.
+Melee bite +14 (1d8+6), 2 claws +14 (1d6+6)
+Spell-Like Abilities (CL 9th)
+At will—blink, invisibility sphere, levitate, misdirection
+1/day—charm monster (DC 18), crushing despair (DC 18), dimension door, mass bull’s strength, mass enlarge
+STATISTICS
+Str 23, Dex 15, Con 19, Int 18, Wis 18, Cha 18
+Base Atk +9; CMB +16; CMD 28 (32 vs. trip)
+Feats Combat Casting, Combat Reflexes, Improved Initiative, Great Fortitude, Lightning Reflexes
+Skills Acrobatics +14, Bluff +16, Climb +15, Diplomacy +16, Intimidate +16, Perception +16, Sense Motive +16, Stealth +10, Survival +16, Swim +15
+Languages Common, Goblin, Infernal
+SQ change shape (goblin or wolf, polymorph)

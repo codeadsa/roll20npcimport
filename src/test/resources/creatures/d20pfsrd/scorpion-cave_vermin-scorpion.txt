@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/scorpion/scorpion-cave
+Cave Scorpion
+CR 1
+XP 400
+N Medium vermin
+Init +0; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +4
+DEFENSE
+AC 12, touch 10, flat-footed 12 (+2 natural)
+hp 16 (3d8+3)
+Fort +4, Ref +1, Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 60 ft., climb 40 ft.
+Melee 2 claws +2 (1d4), sting +2 (1d4 plus poison)
+Special Attacks rend (2 claws, 2d4)
+STATISTICS
+Str 11, Dex 10, Con 13, Int —, Wis 10, Cha 2
+Base Atk +2; CMB +2; CMD 12 (24 vs. trip)
+Skills Climb +8, Perception +4, Stealth +0 (+12 in caves); Racial Modifiers +8 Climb, +4 Perception, +12 Stealth in caves
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 12; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.

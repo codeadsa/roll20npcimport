@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/kech
+Kech CR 3
+XP 800
+NE Medium monstrous humanoid
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 16, touch 13, flat-footed 13 (+2 Dex, +1 dodge, +3 natural)
+hp 26 (4d10+4)
+Fort +2, Ref +6, Will +5
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +5 (1d6+1), 2 claws +5 (1d4+1)
+Ranged longbow +6 (1d8/x3)
+Special Attacks rend (2 claws 1d4 +1)
+Spell-Like Abilities (CL 4th; concentration +4)
+Constant—pass without trace
+STATISTICS
+Str 13, Dex 15, Con 12, Int 10, Wis 12, Cha 11
+Base Atk +4; CMB +5; CMD 18
+Feats Dodge, Mobility
+Skills Acrobatics +9 (+13 when jumping), Climb +16, Perception +10, Stealth +13 (+19 in forests and jungles); Racial Modifiers +2 Perception, +4 Stealth (+10 in forests and jungles)
+Languages Kech

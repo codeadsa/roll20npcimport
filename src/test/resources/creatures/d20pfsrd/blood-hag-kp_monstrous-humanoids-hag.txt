@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/blood-hag-kp
+Blood Hag CR 9
+XP 6,400
+CE Medium monstrous humanoid
+Init +3; Senses blood sense 90 ft., darkvision 60 ft.; Perception +20
+DEFENSE
+AC 24, touch 13, flat-footed 21 (+3 Dex, +11 natural)
+hp 114 (12d10+48)
+Fort +10, Ref +11, Will +15
+DR 10/magic; SR 20
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee blood-drinking hair +17 (2d6+5 plus grab), 2 claws +17 (1d6+5)
+Space 5 ft.; Reach 5 ft. (10 ft. with blood-drinking hair)
+Special Attacks blood drain (1d4 Constitution), call the blood, face peel
+Spell-Like Abilities (CL 12th; concentration +15)
+At will—death knell (DC 16), deathwatch, disguise self, ghost sound (DC 13), invisibility (DC 15), knock, pass without trace (DC 14), protection from good, tongues, ventriloquism (DC 14), water breathing
+3/day—quickened bestow curse (DC 16), mirror image, empowered vampiric touch (DC 16)
+1/day— cloudkill (DC 18), modify memory (DC 17)
+STATISTICS
+Str 20, Dex 16, Con 18, Int 19, Wis 21, Cha 17
+Base Atk +12; CMB +17 (+21 grapple); CMD 30
+Feats Deceitful, Empower Spell-Like Ability (vampiric touch), Great Fortitude, Iron Will, Power Attack, Quicken Spell-Like Ability (bestow curse)
+Skills Acrobatics +12, Bluff +14, Climb +20, Diplomacy +13, Disguise +17, Intimidate +15, Knowledge (arcana) +12, Perception +20, Sense Motive +13, Spellcraft +13, Stealth +14
+Languages Abyssal, Common, Giant, Infernal, Sylvan
+SPECIAL ABILITIES
+Blood Drain (Su) A blood hag’s hair is a morass of disgusting worms, ever thirsty for fresh blood. Foes struck suffer them burrowing into flesh and drinking deep, inflicting 1d4 Constitution damage. Blood hags heal 5 hp or gain 5 temporary hp for 1 hour (up to a maximum number of temporary hp equal to its normal full hp) each round it drains blood.
+Blood Sense (Su) A blood hag can detect the blood of living creatures within 90 ft. and pinpoint their locations within 30 ft.
+Call the Blood (Su) A blood hag may target a living creature within 60 ft. that she detects with her blood sense (she need not have line of sight) and makes them bleed uncontrollably. A DC 19 Will save (Charisma-based) negates this ability, and anyone making their save cannot be affected by that blood hag’s call the blood ability again for 24 hours. The hag may choose any of the following effects.
+Blood Choke Curse—Victims’ lungs fill with blood, and they cannot speak or cast spells with verbal components. Blood Eye—Victims’ eyes well with blood, and crimson tears stream down their faces. Targets are blinded as if by blindness/deafness for 1 minute. Heart like Thunder—The only sound victims hear is the rushing of their own blood in their ears and the thumping of their own heart for 1 minute. They are deaf as if by blindness/ deafness. Rupturing Arteries—Victims suffer 5d6 damage as their veins and arteries suddenly burst open. They get a second save on the following round or begin to drown on their own blood (receiving a new save every round thereafter). Face Peel (Su) A blood hag may peel the face right off a grappled foe. This gruesome act inflicts 2d6+5 damage and dazes the opponent for 1 round. Thereafter, the opponent suffers a 50% chance of spell failure when casting any spell requiring verbal components, not to mention suffering abject agony (-4 on attacks, saves, and skill checks). Only heal restores the stolen features although curative magic causes an ugly sheen of scar tissue to form over skull and sinew (-4 on all Bluff and Diplomacy checks thereafter, +4 on Intimidate checks). Any face peeled off in this manner animates and bizarrely retains a semblance of the former owner’s memories and personality (though the face is quite mad with agony). The blood hag may also wear this face to gain a +5 circumstance bonus on any Disguise checks made to imitate the former owner. Blood hags often claim the faces of prey as trophies or fond keepsakes.

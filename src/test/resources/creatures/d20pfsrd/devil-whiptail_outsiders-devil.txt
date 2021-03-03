@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-whiptail
+Whiptail Devil CR 1
+XP 400
+LE Small outsider (devil, evil, extraplanar, lawful)
+Init +2; Senses darkvision 60 ft, see in darkness, telepathy 100 ft.; Perception +4
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+1 size, +2 Dex, +1 natural)
+hp 20 (2d10)
+Fort +0; Ref +5; Will +2
+DR 5/good or silver; Immune fire, poison; Resist acid 10, cold 10
+OFFENSE
+Speed 10 ft., fly 50 ft. (good)
+Melee Tail slap +5 melee (1d6 plus stun) and bite +0 melee (1d4)
+Special Attacks stun
+TACTICS
+Whiptail devils are never found alone. Their greatest strength is numbers, which they exploit to the utmost. Their favored tactic is to stun opponents with their tails and then settle on them to feed. With their great maneuverability and their flyby attack, whiptail devils can gang up on individual targets with ease.
+A whiptail devil’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+STATISTICS
+Str 10, Dex 14, Con 10, Int 7, Wis 8, Cha 10
+Base Atk +2; CMB +1; CMD 13
+Feats Flyby AttackB, Weapon Finesse
+Skills Escape Artist +7, Fly +8, Perception +4, Stealth +7, Survival +4
+Languages Infernal (understands, but does not speak)
+SQ of the flesh
+SPECIAL ABILITIES
+Of the Flesh (Ex) Whiptail devils eat a steady diet of Asmodeus’s flesh. Even the dead stuff is laden with his power, so all have maximum hit points.
+Stun (Ex) Whiptail devils, as their name suggests, are quite adept at using their bony tails in combat. They know how to lash opponents in just the right way to keep them off guard. Any opponent hit by a tail slap attack must succeed at a Fortitude save (DC 10) or be stunned for 1 round. The save DC is Strength-based.

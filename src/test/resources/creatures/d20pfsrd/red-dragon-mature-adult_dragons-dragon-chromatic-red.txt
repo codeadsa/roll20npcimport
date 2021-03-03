@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-red/red-dragon-mature-adult
+Mature Adult Red Dragon CR 15
+XP 51,200
+CE Huge dragon (fire)
+Init +4; Senses dragon senses, smoke vision; Perception +25; Aura fire aura (5-ft., 1d6 fire), frightful presence (210-ft., DC 22)
+DEFENSE
+AC 32, touch 8, flat-footed 32 (+24 natural, -2 size)
+hp 237 (19d12+114)
+Fort +17, Ref +11, Will +16
+DR 10/magic; Immune fire, paralysis, sleep; SR 26
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +28 (2d8+16/19-20), 2 claws +28 (2d6+11), 2 wings +26 (1d8+5), tail slap +26 (2d6+16)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, 14d10 fire damage, Reflex DC 25 half, usable every 1d4 rounds), crush (Small creatures, DC 25, 2d8+16)
+Spell-Like Abilities (CL 19th; concentration +22)
+At will—detect magic, pyrotechnics (DC 15), suggestion (DC 16)
+Spells Known (CL 9th; concentration +12)
+4th (4/day)—greater invisibility, stoneskin
+3rd (7/day)—dispel magic, displacement, haste
+2nd (7/day)—alter self, misdirection, resist energy, see invisibility
+1st (7/day)—alarm, grease (DC 14), magic missile, shield, true strike
+0th (at will)—arcane mark, bleed, light, magehand, mending, message, prestidigitation, read magic
+STATISTICS
+Str 33, Dex 10, Con 23, Int 16, Wis 17, Cha 16
+Base Atk +19; CMB +32; CMD 42 (46 vs. trip)
+Feats Cleave, Greater Vital Strike, Improved Critical (bite), Improved Initiative, Improved Iron Will, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Vital Strike
+Skills Appraise +25, Bluff +25, Fly +14, Intimidate +25, Knowledge (arcana) +25, Perception +25, Sense Motive +25, Spellcraft +25, Stealth +14
+Languages Common, Draconic, Dwarven, Orc
+SPECIAL ABILITIES
+Fire Aura (Su) An adult (or older) red dragon is surrounded by an aura of intense heat. All creatures within 5 feet take 1d6 points of fire damage at the beginning of the dragon’s turn.
+Smoke Vision (Ex) A very young (or older) red dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).

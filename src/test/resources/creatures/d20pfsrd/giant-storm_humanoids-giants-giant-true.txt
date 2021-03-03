@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-storm
+Storm Giant CR 13
+XP 25,600
+CG Huge humanoid (giant)
+Init +2; Senses low-light vision; Perception +27
+DEFENSE
+AC 28, touch 10, flat-footed 26 (+6 armor, +2 Dex, +12 natural, –2 size)
+hp 199 (19d8+114)
+Fort +17, Ref +8, Will +13
+Defensive Abilities rock catching; Immune electricity
+OFFENSE
+Speed 50 ft., swim 40 ft. (35 ft., swim 30 ft. in armor)
+Melee mwk greatsword +27/+22/+17 (4d6+21/17–20) or 2 slams +26 (2d6+14)
+Ranged mwk composite longbow +15/+10/+5 (3d6+14/×3)
+Space 15 ft.; Reach 15 ft.
+Spell-Like Abilities (CL 15th)
+Constant—freedom of movement
+2/day—control weather, levitate
+1/day—call lightning (DC 15), chain lightning (DC 18)
+STATISTICS
+Str 39, Dex 14, Con 23, Int 16, Wis 20, Cha 15
+Base Atk +14; CMB +30; CMD 42
+Feats Awesome Blow, Cleave, Combat Reflexes, Improved Bull Rush, Improved Critical (greatsword), Improved Sunder, Improved Vital Strike, Iron Will, Power Attack, Vital Strike
+Skills Acrobatics +18, Climb +17, Craft (any one) +13, Intimidate +20, Perception +27, Perform (sing) +12, Sense Motive +24, Swim +22
+Languages Auran, Common, Draconic, Giant
+SQ militant, water breathing
+SPECIAL ABILITIES
+Militant (Ex) Storm giants are proficient with all simple and all martial weapons.
+Water Breathing (Ex) Storm giants can breathe water as well as air.

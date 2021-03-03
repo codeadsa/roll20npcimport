@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-umbral/umbral-dragon-adult
+Adult Umbral Dragon CR 14
+XP 38,400
+CE Huge dragon (extraplanar)
+Init +4; Senses dragon senses; Perception +25; Aura frightful presence (180 ft., DC 23)
+DEFENSE
+AC 29, touch 8, flat-footed 29 (+21 natural, –2 size)
+hp 195 (17d12+85)
+Fort +15, Ref +10, Will +15
+DR 5/magic; Immune cold, death effects, energy drain, paralysis, sleep; SR 25
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +23 (2d8+12/19–20), 2 claws +23 (2d6+8), tail slap +21 (2d6+12), 2 wings +21 (1d8+4)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, DC 23, 12d8 negative energy, DC 23), crush, shadow breath (6 Str)
+Spell-like Abilities (CL 17th; concentration +22)
+At will—darkness, shadow walk, vampiric touch
+Spells Known (CL 7th; concentration +12)
+3rd (5/day)—dispel magic, inflict serious wounds (DC 18)
+2nd (7/day)—command undead (DC 17), invisibility, web (DC 17)
+1st (8/day)—grease (DC 16), inflict light wounds (DC 16), magic missile, reduce person (DC 16), shield
+0 (at will)—bleed (DC 15), detect magic, detect poison, disrupt undead (DC 15), mage hand, ray of frost, read magic
+STATISTICS
+Str 27, Dex 10, Con 21, Int 20, Wis 21, Cha 20
+Base Atk +17; CMB +27; CMD 37 (41 vs. trip)
+Feats Critical Focus, Hover, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Multiattack, Power Attack, Skill Focus (Stealth), Snatch, Vital Strike
+Skills Bluff +25, Diplomacy +25, Fly +16, Knowledge (arcana, local, planes) +25, Perception +25, Sense Motive +25, Spellcraft +25, Stealth +18, Survival +25
+Languages Abyssal, Common, Draconic, Undercommon, 2 more
+SQ ghost bane, umbral scion
+SPECIAL ABILITIES
+Breath Weapon (Su) Although it deals negative energy damage, an umbral dragon’s breath weapon does not heal undead creatures.
+Ghost Bane (Su) A young or older umbral dragon’s physical attacks deal damage to incorporeal creatures normally.
+Shadow Breath (Su) Three times per day, an adult or older umbral dragon can breathe a cone of shadows. Creatures who fail a Fortitude save are blinded for 1d4 rounds and take 1 point of Str drain per age category possessed by the dragon. A successful save negates the blindness and reduces Str drain to 1d4 points.
+Umbral Scion (Ex) Umbral dragons have negative energy affinity and are immune to energy drain and death effects.
+

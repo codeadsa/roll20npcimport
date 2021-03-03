@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-caribe-giant-tohc
+Giant Caribe CR 1
+XP 400
+N Medium animal (aquatic)
+Init +2; Senses low-light vision, keen scent; Perception +10
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 13 (3d8)
+Fort +3, Ref +5, Will +2
+OFFENSE
+Speed swim 40 ft.
+Melee bite +4 (1d6+1)
+Special Attacks frenzy
+TACTICS
+Giant caribes attack by swarming an opponent and biting with their razor-sharp teeth. Once blood is drawn, the entire pack goes into a frenzy, attacking twice each round.
+STATISTICS
+Str 12, Dex 15, Con 10, Int 1, Wis 12, Cha 2
+Base Atk +2; CMB +3; CMD 15 (can’t be tripped)
+Feats Skill Focus (Perception), Weapon Finesse
+Skills Perception +10, Swim +10; Racial Modifiers Giant caribes use their Dexterity modifier for Swim checks.
+SPECIAL ABILITIES
+Frenzy (Ex) A giant caribe that detects blood in the water goes into a killing frenzy, as do all other giant caribes within a 90-foot radius. Frenzied giant caribes attack until either they or their opponents are dead. A frenzied giant caribe can make one extra attack when making a full attack action. The attack is made using the creature’s full base attack. Additionally, it gains a +1 bonus on attack rolls and a +1 dodge bonus to AC and Reflex saves. A frenzied giant caribe’s swim speed increases by 10 feet. This frenzy lasts for 1 minute and can only be used once per encounter.
+Keen Scent (Ex) A giant caribe can notice creatures by scent in a 90-foot radius underwater and can detect blood in the water at ranges up to 500 feet.
+Source Wikipedia

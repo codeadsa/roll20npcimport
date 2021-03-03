@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/argorth/cinder-scourge
+Argorth, Cinder scourge CR 12
+XP 19,200
+Always CE Huge aberration
+Init +3; Senses blindsight 120 ft; Perception +18
+DEFENSE
+AC 26, touch 11, flat-footed 23 (+3 Dex, +15 natural, -2 size)
+hp 150 (12d8+12 Toughness + 84)
+Fort +15, Ref +7, Will +11
+DR 10/cold iron; Immune cold, gaze attacks, mind-affecting effects, visual effects; Resist acid 10, fire 20; SR 21
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 20 ft., swim 40 ft.
+Melee bite +19 (3d6+11+grab) and tail slam +18 (2d6+11+grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks breath weapon (60 ft. cone, 14d6 fire damage, Reflex DC 23 half, usable every 1d4 rounds), constrict (2d6+16), fearful shriek, grab, ground slam, swallow whole (2d8+8 dam. plus 8 acid dam., AC 15, 25 hp)
+TACTICS
+Before Combat Maddened engines of destruction, cinder scourges use their breath weapon and fearful shriek abilities and then rampage into battle.
+During Combat Once engaged, cinder scourges attempt to swallow as many creatures as they can, using their ground slam ability to devastate wide areas, all the while waiting for their breath weapon to recharge.
+Morale Cinder scourges know no fear and fight until destroyed.
+STATISTICS
+Str 32, Dex 16, Con 24, Int 8, Wis 16, Cha 20
+Base Atk +9; CMB +22 (+26 for grab); CMD 35 (can’t be tripped)
+Feats Cleave, Combat Reflexes, Die Hard, Endurance, Toughness, Weapon Focus (bite)
+Skills Climb +34, Perception +18, Swim +34; Racial Modifiers +8 on Climb and Swim
+Languages Abyssal
+SQ Death Throes, Skills
+SPECIAL ABILITIES
+Blindsight (Ex) A cinder scourge can ascertain the location of all creatures within 120 feet. Beyond that range it is considered blinded, and must use other senses to locate creatures.
+Breath Weapon (Su) The cinder scourge’s breath weapon is a cone of superheated smoke and cinders (treat as fire damage). This breath weapon is a 60 ft. cone, inflicts 14d6 fire damage unless a DC 23 reflex save is made for half damage. The breath weapon is usable every 1d4 rounds.
+Death Throes (Ex) When a cinder scourge is reduced to -24 hit points or lower, it collapses to the ground and thrashes wildly. It gets one final tail slam attack on every creature within 10 feet, after which it dies. It cannot grapple or constrict with this final attack.
+Fearful Shriek (Su) A cinder scourge can emit a wholly unnatural shriek, a howl not of the mortal world. When a cinder scourge uses this ability, all creatures within 100 feet must succeed on a DC 21 Will save or be shaken for as long as the monster remains in sight. This is a sonic, mind-affecting fear effect. This ability does not affect creatures with more Hit Dice than the cinder scourge. Whether or not the save is successful, an affected creature is immune to the same cinder scourge’s fearful shriek for 24 hours. The save DC is Charisma-based.
+Ground Slam (Ex) As a full-round action, a cinder scourge can lift its entire body into the air and slam it against the ground in a single, reckless attack. This attack deals 1d10 points of damage to the cinder scourge, but all creatures within 5 feet of the monster are targeted by a +13 melee attack which deals 2d8+16 points of damage. Any creature standing within 10 feet of a cinder scourge when it makes this attack (including those who might be damaged) must make a DC 23 Reflex save or be knocked prone by the sheer force of the blow. The save DC is Constitution-based.
+Skills (Ex) A cinder scourge can always choose to take 10 on a Climb check, even if rushed or threatened. It can always choose to take 10 on a Swim check, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.

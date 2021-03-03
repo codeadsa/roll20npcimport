@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/ascomoid
+Ascomoid CR 5
+XP 1,600
+N Large plant
+Init +1; Senses tremorsense 60 ft.; Perception +0
+DEFENSE
+AC 17, touch 10, flat-footed 16 (+1 Dex, +7 natural, -1 size)
+hp 52 (7d8+21)
+Fort +8, Ref +3, Will +2
+DR 10/piercing; Immune plant traits; Resist electricity 10, fire 10
+OFFENSE
+Speed 40 ft.
+Melee slam +8 (2d8+6)
+Space 10 ft.; Reach 5 ft.
+Special Attacks poison, spores, trample (2d8+6, DC 17)
+STATISTICS
+Str 18, Dex 13, Con 17, Int —, Wis 11, Cha 1
+Base Atk +5; CMB +10; CMD 21 (can’t be tripped)
+Feats Improved OverrunB
+SPECIAL ABILITIES
+Poison (Ex) Spores—inhaled; save Fort DC 16; frequency 1/round for 6 rounds; effect 1d2 Str damage; cure 2 saves. The save DC is Constitution-based.
+Spores (Ex) Once per round as a free action, an ascomoid can release a jet of deadly spores to a range of 30 feet. Upon impacting a solid surface, such as a wall or creature, the jet billows out into a cloud of spores that fills a 10-foot-radius spread. This cloud lasts for 1 round before dispersing. Any creature in the cloud must make a DC 16 Fortitude save or become nauseated as long as it remains in the cloud. Any creature that fails to save against this nausea is also exposed to the ascomoid’s poison (see above). The save DC is Constitution-based.

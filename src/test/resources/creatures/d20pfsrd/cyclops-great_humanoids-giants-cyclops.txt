@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/cyclops/cyclops-great
+Great Cyclops CR 12
+XP 19,200
+CE Huge humanoid (giant)
+Init +1; Senses low-light vision; Perception +22
+DEFENSE
+AC 26, touch 9, flat-footed 25 (+4 armor, +1 Dex, +13 natural, -2 size)
+hp 195 (17d8+119)
+Fort +12, Ref +6, Will +14
+OFFENSE
+Speed 50 ft.
+Melee mwk greatclub +24/+19/+14 (3d8+19), gore +17 (1d8+6) or gore +23 (1d8+13), 2 slams +23 (2d6+13)
+Ranged rock +11 (2d6+19)
+Space 15 ft.; Reach 15 ft.
+Special Attacks powerful charge (gore, 4d8+24), rock throwing (120 ft.)
+STATISTICS
+Str 36, Dex 13, Con 25, Int 7, Wis 14, Cha 8
+Base Atk +12; CMB +27; CMD 38
+Feats Awesome Blow, Cleave, Critical Focus, Diehard, Endurance, Improved Bull Rush, Iron Will, Power Attack, Staggering Critical
+Skills Perception +22
+Languages Common, Cyclops, Giant
+SQ flash of brutality
+SPECIAL ABILITIES
+Flash of Brutality (Su) Once per day as a swift action, a great cyclops can gain a burst of savage of inspiration. When it does, it doubles the threat range of all weapons, natural attacks, and rock attacks it makes until the start of its next turn. Furthermore, once per day, when the great cyclops reaches 0 or fewer hit points and is conscious because of its Diehard feat, this ability recharges, allowing it to use the ability a second time that same day.

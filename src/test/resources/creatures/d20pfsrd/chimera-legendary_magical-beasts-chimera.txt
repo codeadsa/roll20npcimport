@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/chimera/chimera-legendary
+Legendary Chimera CR 13
+XP 25,600
+CE Huge magical beast
+Init +4; Senses all-around vision, darkvision 60 ft., low-light vision, scent; Perception +20; Aura frightful presence (60 ft., DC 18)
+DEFENSE
+AC 26, touch 8, flat-footed 26 (+18 natural, -2 size)
+hp 178 (17d10+85)
+Fort +15, Ref +12, Will +8
+DR 10/cold iron and magic; Immune bleed, death effects, disease, fire, poison; SR 24
+OFFENSE
+Speed 30 ft.
+Melee bite +23 (2d8+8/19-20 plus grab), bite +23 (2d6+8 plus burn), 2 claws +23 (1d8+8), gore +23 (2d6+8)
+Space 15 ft.; Reach 10 ft.
+Special Attacks breath weapon (60-ft. cone, 13d8 fire damage, Reflex DC 23 for half, usable every 1d4 rounds), burn (2d8, DC 23), swallow whole (2d6 bludgeoning plus 8d8 fire damage, AC 19, 17 hp)
+STATISTICS
+Str 27, Dex 10, Con 21, Int 5, Wis 12, Cha 10
+Base Atk +17; CMB +27 (+31 grapple); CMD 37
+Feats Cleave, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Iron Will, Lightning Reflexes, Power Attack, Skill Focus (Perception), Vital Strike
+Skills Perception +20, Stealth +2 (+6 in scrubland or brush); Racial Modifiers +4 Stealth in scrubland or brush
+Languages Draconic

@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-cloud-tohc/cloud-dragon-old-TOHC
+old cloud dragon CR 14
+XP 38,400
+N Gargantuan dragon (air)
+Init +4; Senses cloud vision, dragon senses; Perception +30; Aura frightful presence (240 ft., DC 24)
+DEFENSE
+AC 31, touch 6, flat-footed 31 (+25 natural, –4 size)
+hp 225 (18d12+108)
+Fort +17; Ref +11; Will +16
+DR 10/magic; Immune electricity, paralysis, sleep, winds; SR 25
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy)
+Melee bite +24 (4d6+15 plus 2d6 cold), 2 claws +24 (2d8+10), 2 wings +22 (2d6+5), tail slap +22 (2d8+15)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (60 ft. cone, DC 25, 16d6 cold plus bull rush [Medium or smaller]), cold bite 2d6, crush, tail sweep
+Spell-like Abilities (CL 18nd):
+At-will—call lightning (DC 18), create water, obscuring mist, stinking cloud (DC 17)
+Sorcerer Spells Known (CL 9th)
+4th (5/day)—dimension door, lesser globe of invulnerability
+3rd (7/day)—dispel magic, lightning bolt (DC 18), wind wall
+2nd (7/day)—blur, cat’s grace, invisibility, whispering wind
+1st (8/day)—chill touch, feather fall, hypnotism (DC 16), shocking grasp, unseen servant
+0 (at will)—detect magic, daze (DC 15), mage hand, message, open/close, ray of frost, read magic, resistance
+STATISTICS
+Str 31, Dex 10, Con 23, Int 20, Wis 21, Cha 20
+Base Atk +18; CMB +32; CMD 42 (46 vs. trip)
+Feats Alertness, Cleave, Flyby Attack, Hover, Improved Initiative, Multiattack, Power Attack, Skill Focus (Fly), Wingover
+Skills Bluff +26, Diplomacy +26, Fly +13, Intimidate +26, Knowledge (arcana) +26, Knowledge (history) +26, Knowledge (nature) +26, Perception +30, Sense Motive +30, Spellcraft +26, Use Magic Device +26
+Languages Auran, Aquan, Common, Draconic, Giant, Sylvan
+SQ cloud form
+SPECIAL ABILITIES
+Breath Weapon (Su) A cloud dragon’s breath weapon is a powerful cone of icy cold air. When a cloud dragon uses its breath weapon, make a single bull rush attack using the dragon’s CMB against the CMD of any creature that failed its Reflex save and is three or more size categories smaller than the dragon. This bull rush does not provoke attacks of opportunity, and the dragon cannot choose to move with any opponent pushed back. In addition to being pushed back, affected creatures are knocked prone and take 1d4 points of nonlethal damage per 10 feet they are pushed back. Flying creatures are buffeted and pushed back twice the distance and sustain 1d6 points of nonlethal damage per 10 feet they are pushed back.
+Cold Bite (Su) At old age, a cloud dragon’s bite deals an additional 2d6 points of cold damage. An ancient dragon’s damage increases to 4d6, and a great wrym’s to 6d6.
+Cloud Form (Su) As a standard action, a juvenile or older cloud dragon can assume gaseous form at will, but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
+Cloud Vision (Ex) A very young cloud dragon can see perfectly in foggy conditions (such as those created by fog cloud or obscuring mist).
+Immunity to Winds (Su) A cloud dragon is immune to the effects of wind. It ignores the penalties applied to the Fly skill incurred by wind speed, and is immune to the negative effects of any spell or effect that manipulates wind, such as gust of wind and whirlwind.

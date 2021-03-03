@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/afanc-tohc
+Afanc CR 17
+XP 102,400
+N Colossal magical beast (aquatic)
+Init +1; Senses darkvision 60 ft., low-light vision, telepathy 100 ft.; Perception +28
+DEFENSE
+AC 23, touch 3, flat-footed 22 (+1 Dex, +20 natural, -8 size)
+hp 333 (23d10+207)
+Fort +22; Ref +14; Will +11
+DR 15/adamantine; Immune poison; Resist acid 10, cold 10, fire 10; SR 28
+Weaknesses water-dependant
+OFFENSE
+Speed 5 ft., swim 60 ft.
+Melee bite +32 (5d6+16), 2 claws +31 (2d8+16)
+Space 100 ft.; Reach 20 ft.
+Special Attacks sea swell, swallow whole (4d6+16 plus 8 points acid damage, AC 20, 33 hp)
+STATISTICS
+Str 42, Dex 13, Con 28, Int 3, Wis 15, Cha 10
+Base Atk +23; CMB +47 (+51 grapple, sunder); CMD +58 (can’t be tripped)
+Feats Alertness, Cleave, Diehard, Endurance, Greater Sunder, Improved Critical (bite), Improved Natural Attack (bite), Improved Sunder, Iron Will, Power Attack, Swim-By Attack, Weapon Focus (bite)
+Skills Perception +28, Swim +24
+Languages telepathy 100 ft.
+SPECIAL ABILITIES
+Sea Swell (Ex) As a full-round action, an afanc can raise the front part of its body out of the water and bring it crashing back down against the surface. This generates massive waves up to 30 feet tall that may capsize boats and ships within 100 feet of the afanc. Boats and ships less than 20 feet long automatically capsize. Boats over 20 feet long may or may not capsize depending on the skill of the one piloting the vessel. A character steering or guiding a boat or ship over 20 feet long that succeeds on a DC 37 Profession (sailor) check manages to keep the boat afloat; otherwise it capsizes, spilling its contents into the water. The check DC is Strength-based.

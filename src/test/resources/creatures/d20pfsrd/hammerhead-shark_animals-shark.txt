@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/shark/hammerhead-shark
+Hammerhead Shark CR 3
+XP 800
+N Large animal (aquatic)
+Init +7; Senses blindsense 30 ft., keen scent; Perception +10
+DEFENSE
+AC 18, touch 12, flat-footed 15 (+3 Dex, +6 natural, –1 size)
+hp 30 (4d8+12)
+Fort +9, Ref +7, Will +4
+OFFENSE
+Speed swim 60 ft.
+Melee bite +7 (1d8+7)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 21, Dex 16, Con 17, Int 1, Wis 16, Cha 6
+Base Atk +3; CMB +9; CMD 22
+Feats Great Fortitude, Improved Initiative
+Skills Perception +10, Swim +13

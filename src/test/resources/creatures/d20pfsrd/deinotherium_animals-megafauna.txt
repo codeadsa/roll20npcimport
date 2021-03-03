@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/megafauna/deinotherium
+Deinotherium CR 7
+XP 3,200
+N Huge animal
+Init –1; Senses low-light vision, scent; Perception +11
+DEFENSE
+AC 19, touch 7, flat-footed 19 (–1 Dex, +12 natural, –2 size)
+hp 92 (8d8+56)
+Fort +12, Ref +5, Will +5
+OFFENSE
+Speed 30 ft.
+Melee gore +13 (2d6+9), slam +13 (1d8+9)
+Space 15 ft.; Reach 15 ft.
+Special Attacks sweep, trample (2d8+13, DC 23)
+STATISTICS
+Str 29, Dex 9, Con 22, Int 2, Wis 13, Cha 4
+Base Atk +6; CMB +17; CMD 26 (30 vs. trip)
+Feats Endurance, Iron Will, Power Attack, Toughness
+Skills Perception +11, Swim +13
+SPECIAL ABILITIES
+Sweep (Ex)
+A deinotherium can sweep a target with its downward-curving tusks and knock the victim to the ground. As part of a charge, a deinotherium can move up to twice its base speed in a straight line and make a gore attack at any point during its movement. If this attack is successful, the target is knocked prone and the deinotherium can deal damage with its trample attack before continuing its movement.
+Get this book AND support this site!

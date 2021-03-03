@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/korir-kokembe
+Korir-Kokembe CR 10
+XP 9,600
+N Huge dragon
+Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception +18; Aura frightful presence (30 ft., DC 18)
+DEFENSE
+AC 24, touch 10, flat-footed 22 (+2 Dex, +14 natural, –2 size)
+hp 136 (13d12+52)
+Fort +12, Ref +12, Will +10
+Immune disease, dragon traits, magic paralysis and sleep
+OFFENSE
+Speed 40 ft., climb 40 ft., fly 80 ft. (good), swim 40 ft.
+Melee bite +18 (2d6+10 plus disease and grab), 2 claws +18 (2d6+7/19–20 plus grab), tail slap +13 (2d6+3 plus grab)
+Space 15 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks constrict (2d6+7), grab (Gargantuan), rake (2 claws +18, 2d6+7/19–20)
+Spell-Like Abilities (CL 13th; concentration +15)
+Constant–freedom of movement
+At will–repel vermin (DC 16), vomit swarm (must wait 1d4 rounds before using this ability again)
+3/day–entangle (DC 13)
+1/day–creeping doom (DC 19), insect plague
+STATISTICS
+Str 25, Dex 15, Con 18, Int 10, Wis 14, Cha 15
+Base Atk +13; CMB +22 (+26 grapple); CMD 34 (46 vs. trip)
+Feats Critical Focus, Improved Critical (claw), Improved Initiative, Lightning Reflexes, Power Attack, Sickening Critical, Wingover
+Skills Climb +21, Fly +15, Intimidate +15, Knowledge (nature) +13, Perception +18, Spellcraft +10, Stealth +10 (+18 in jungles), Survival +10, Swim +25; Racial Modifiers +8 Stealth in jungles
+Languages Draconic SQ compression
+SPECIAL ABILITIES
+Disease (Ex) Bite–injury; save Fort DC 20; onset 1 round; frequency 1 day; effect 1d3 Dex damage and 1d3 Str damage; cure 2 consecutive saves.

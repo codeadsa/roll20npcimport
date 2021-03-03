@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/winter-wolf
+Winter Wolf (CR 5)
+XP 1,600
+NE Large magical beast (cold)
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +11
+DEFENSE
+AC 17, touch 10, flat-footed 16 (+1 Dex, +7 natural, –1 size)
+hp 57 (6d10+24)
+Fort +9, Ref +6, Will +3
+Immune cold
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 50 ft.
+Melee bite +10 (1d8+7 plus 1d6 cold and trip)
+Space 10 ft.; Reach 5 ft.
+Special Attacks breath weapon (every 1d4 rounds, 15-ft. cone, 6d6 cold damage, Reflex half DC 17)
+STATISTICS
+Str 20, Dex 13, Con 18, Int 9, Wis 13, Cha 10
+Base Atk +6; CMB +12; CMD 23 (27 vs. trip)
+Feats Improved Initiative, Run, Skill Focus (Perception)
+Skills Perception +11, Stealth +4 (+10 in snow), Survival +5; Racial Modifiers +2 Perception, +2 Stealth (+8 in snow), +2 Survival
+Languages Common, Giant

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/akata
+Akata CR 1
+XP 400
+N Medium aberration
+Init +6; Senses darkvision 120 ft., scent; Perception +1
+DEFENSE
+AC 13, touch 12, flat-footed 11 (+2 Dex, +1 natural)
+hp 15 (2d8+6)
+Fort +3, Ref +2, Will +4
+Defensive Abilities no breath; Immune cold, disease, poison; Resist fire 30
+Weaknesses deaf, vulnerable to salt water
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +2 (1d6+1 plus void bite), 2 tentacles –3 (1d3)
+STATISTICS
+Str 12, Dex 15, Con 16, Int 3, Wis 12, Cha 11
+Base Atk +1; CMB +2; CMD 14 (18 vs. trip)
+Feats Improved Initiative
+Skills Acrobatics +6 (+10 jump), Climb +9, Stealth +10; Racial Modifiers +4 Stealth
+SQ hibernation
+SPECIAL ABILITIES
+Deaf (Ex) Akatas cannot hear. They are immune to spells and effects that rely on hearing to function, but they also cannot make Perception checks to listen.
+Hibernation (Ex) Akatas can enter a state of hibernation for an indefinite period of time when food is scarce. When an akata wishes to enter hibernation, it seeks out a den and surrounds itself in a layer of fibrous material excreted from its mouth—these fibers quickly harden into a dense, almost metallic cocoon. While hibernating, an akata does not need to drink or eat. The cocoon has hardness 10 and 60 hit points, and is immune to fire and bludgeoning (including falling) damage. As long as the cocoon remains intact, the akata within remains unharmed. The akata remains in a state of hibernation until it senses another living creature within 10 feet or is exposed to extreme heat, at which point it claws its way to freedom in 1d4 minutes as its cocoon degrades to fragments of strange metal.
+Salt Water Vulnerability (Ex) Salt water acts as an extremely strong acid to akatas. A splash of salt water deals 1d6 points of damage to an akata, and full immersion in salt water deals 4d6 points of damage per round.
+Void Bite (Ex) Akatas hold hundreds of invisibly small larval young within their mouths, spreading these parasitic creatures to hosts through their bite. Only humanoids make suitable hosts for akata young—all other creature types are immune to this parasitic infection. The disease itself is known as void death.
+Disease (Ex) Void Death: Bite—injury; save Fort DC 12; onset 1 hour; frequency 1/day; effect 1d2 Dex and 1d2 Con damage.
+An infected creature who dies rises as a void zombie 2d4 hours later; cure 2 consecutive saves.

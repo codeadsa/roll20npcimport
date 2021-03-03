@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/bodak
+Bodak CR 8
+
+XP 4,800
+CE Medium undead (extraplanar)
+Init +6; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 21, touch 13, flat-footed 18 (+2 Dex, +1 dodge, +8 natural)
+hp 85 (10d8+40)
+Fort +6, Ref +5, Will +8
+DR 10/cold iron; Immune electricity, undead traits; Resist acid 10, fire 10
+Weaknesses vulnerability to sunlight
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +9 (1d8+1)
+Special Attacks death gaze
+STATISTICS
+Str 13, Dex 15, Con —, Int 6, Wis 13, Cha 16
+Base Atk +7; CMB +8; CMD 21
+Feats Dodge, Improved Initiative, Mobility, Toughness, Weapon Focus (slam)
+Skills Intimidate +11, Perception +14, Stealth +10
+Languages Common
+SPECIAL ABILITIES
+Death Gaze (Su) 1d4 negative levels, 30 feet; Fortitude DC 18 negates. The save DC is Charisma-based. A humanoid slain by a bodak’s death gaze rises as a bodak 24 hours later. This is a death effect.
+Vulnerability to Sunlight (Ex) Bodaks loathe sunlight, for its merest touch burns their impure flesh. Each round of exposure to direct sunlight deals 2d6 points of damage to a bodak.

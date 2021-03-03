@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/imp
+Imp CR 2
+XP 600
+LE Tiny outsider (devil, evil, extraplanar, lawful)
+Init +3; Senses darkvision 60 ft., detect good, detect magic, see in darkness; Perception +7
+DEFENSE
+AC 17, touch 16, flat-footed 13 (+3 Dex, +1 dodge, +1 natural, +2 size)
+hp 16 (3d10); fast healing 2
+Fort +1, Ref +6, Will +4
+DR 5/good or silver; Immune fire, poison; Resist acid 10, cold 10
+OFFENSE
+Speed 20 ft., fly 50 ft. (perfect)
+Melee sting +8 (1d4 plus poison)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-Like Abilities (CL 6th)
+Constant—detect good, detect magic
+At will—invisibility (self only)
+1/day—augury, suggestion (DC 15)
+1/week—commune (6 questions, CL 12th)
+STATISTICS
+Str 10, Dex 17, Con 10, Int 13, Wis 12, Cha 14
+Base Atk +3; CMB +1; CMD 15
+Feats Dodge, Weapon Finesse
+Skills Acrobatics +9, Bluff +8, Fly +21, Knowledge (arcana) +7, Knowledge (planes) +7, Perception +7, Spellcraft +7
+Languages Common, Infernal
+SQ change shape (boar, giant spider, rat, or raven, beast shape I)
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 13; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 1 save. The save DC is Constitution-based, and includes a +2 racial bonus.
+Familiar Service Willingly serving spellcasters as familiars, imps play the role of dutiful servants, often granting their masters cunning advice and infernal insights. In truth, though, an imp works to deliver souls to Hell, assuring that its master’s soul—and as many collateral souls as possible—faces damnation upon death.

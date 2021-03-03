@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/vegepygmys-TOHC/vegepygmy-commoner
+Vegepygmy Commoner CR 1/2
+XP 200
+N Small plant (fungus)
+Init +2; Senses low-light vision; Perception +7
+DEFENSE
+AC 16, touch 13, flat-footed 14 (+2 Dex, +3 natural, +1 size)
+hp 4 (1d8)
+Fort +2, Ref +2, Will +0
+DR 5/bludgeoning or slashing; Immune electricity, plant traits
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +1 (1d3) or spear +1 (1d6x3)
+Ranged spear +3 (1d6x3)
+TACTICS
+Vegepygmies attack with claws or weapons, usually either a longspear or club. They prefer to ambush opponents, using their coloration to blend with their natural surroundings.
+STATISTICS
+Str 11, Dex 14, Con 11, Int 6, Wis 11, Cha 10
+Base Atk +0; CMB -1; CMD 11
+Feats Skill Focus (Perception)
+Skills Perception +7, Stealth +10 (+18 in forested or swampy areas); Racial Modifiers +4 Stealth (+12 in forested or swampy areas)
+Gear spear

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/porcupine/porcupine-dire-tohc
+Dire Porcupine CR 1
+XP 400
+N Small animal
+Init +4; Senses low-light vision, scent; Perception +5
+DEFENSE
+AC 16, touch 11, flat–footed 16 (+0 Dex, +5 natural, +1 size)
+hp 13 (2d8+4);
+Fort +5; Ref +3; Will +1
+OFFENSE
+Speed 30 ft.
+Melee 1d6 quills +4 (1d3+2), bite +4 (1d4+2)
+Special Attacks quills
+TACTICS
+Dire porcupines are passive until threatened. When faced with possible combat, the dire porcupine raises the quills on its body and spins around, smashing an opponent with its quill-covered tail. If it bites an opponent, 1d4 quills break off from its body and lodge in the opponent.
+STATISTICS
+Str 14, Dex 10, Con 14, Int 2, Wis 12, Cha 11
+Base Atk +1; CMB +2; CMD 12 (16 vs. trip)
+Feats Improved Initiative
+Skills Perception +5, Stealth +9; Racial Modifiers +4 Perception
+SPECIAL ABILITIES
+Quills (Ex) When the dire porcupine strikes with its tail, it dislodges 1d6 quills that automatically break off and lodge in the opponent’s flesh. A lodged quill imposes a –1 circumstance penalty to attacks, saves, and checks. Each 1 minute thereafter, the quill moves deeper into the opponent’s flesh, dealing 1d2 additional points of damage. Removing the quill takes 1 full round and deals 1d4 additional points of damage. If the quill has been embedded for more than 10 rounds, a Strength check at DC 10 is needed to remove the quill. For every minute after that, the DC to remove a lodged quill increases by +1. An unarmed or melee touch attack against a dire porcupine causes 1d4 quills to break off and lodge in the attacker.
+Template Base
+Dire Creature

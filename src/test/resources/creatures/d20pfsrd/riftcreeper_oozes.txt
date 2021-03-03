@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/riftcreeper
+Riftcreeper CR 15
+XP 51,200
+CE Gargantuan ooze (extraplanar)
+Init +12; Senses blindsight 60 ft., tremorsense 120 ft.; Perception +3
+DEFENSE
+AC 30, touch 14, flat-footed 22 (+8 Dex, +16 natural, –4 size)
+hp 217 (15d8+150); fast healing 10
+Fort +15, Ref +13, Will +8
+Defensive Abilities adaptive defenses; Immune ability damage, ability drain, acid, exhaustion, fatigue, ooze traits
+OFFENSE
+Speed 30 ft., climb 30 ft., swim 20 ft.; gelatinous surge
+Melee 2 slams +24 (4d6+16 plus 2d6 acid and grab)
+Ranged 6 strands +15 touch (2d6 acid plus attach)
+Space 20 ft.; Reach 20 ft.
+Special Attacks constrict (4d6+16 plus 2d6 acid), pull (strand, 20 feet)
+Spell-Like Abilities (CL 15th; concentration +15)
+Constant—feather fall
+STATISTICS
+Str 43, Dex 27, Con 30, Int 7, Wis 16, Cha 10
+Base Atk +11; CMB +31 (+33 bull rush, +35 grapple); CMD 49 (51 vs. bull rush, can’t be tripped)
+Feats Awesome Blow, Combat Reflexes, Improved Bull Rush, Improved Initiative, Improved Vital Strike, Power Attack, Vital Strike, Weapon Focus (slam)
+Skills Climb +39, Swim +24
+Languages Abyssal (can’t speak)
+SPECIAL ABILITIES
+Adaptive Defenses (Su) After being damaged by any magical effect that deals cold, electricity, fire, or sonic damage, a riftcreeper’s body instantly adapts to become immune to that form of energy. A riftcreeper can adapt to only one of those four types of energy at a time—if it adapts to a new energy type, it loses its immunity to the previous type.
+Otherwise, the immunity lasts for 1 hour.
+Gelatinous Surge (Ex) Once per minute as a standard action, a riftcreeper can extrude a protoplasmic tendril of ooze to attach to any vertical surface within 120 feet. It can then transfer its entire bulk along that tendril as part of that standard action to change its location to the surface to which it is now attached. This movement doesn’t provoke attacks of opportunity. Any creatures along its line of travel are subjected to a bull rush attempt.
+Strands (Ex) A riftcreeper can extend up to six thin, sticky strands from its body at a time as a standard action, launching them to a maximum range of 120 feet. These attacks resolve as ranged touch attacks. On a hit, a strand deals 2d6 points of acid damage to its target and attaches to the creature. These strands are quite strong, but any amount of slashing damage severs them (a strand has AC 25). As long as a strand remains attached to a target, that creature takes an additional 2d6 points of acid damage at the start of its turn. A riftcreeper can automatically absorb the strands into its body if it uses its gelatinous surge ability (in doing so, it releases any attached creatures).

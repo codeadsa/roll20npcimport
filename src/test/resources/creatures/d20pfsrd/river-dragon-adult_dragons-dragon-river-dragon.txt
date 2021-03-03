@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/river-dragon/river-dragon-adult
+Adult River Dragon CR 11
+XP 12,800
+CN Large dragon (aquatic, fire)
+Init +5; Senses dragon senses, watersight; Perception +25; Aura boiling (5 ft., 1d6 fire), frightful presence (180 ft., DC 20)
+DEFENSE
+AC 29, touch 11, flat-footed 28 (+1 Dex, +19 natural, -1 size)
+hp 161 (14d12+70)
+Fort +14, Ref +10, Will +13
+DR 5/magic; Immune fire, paralysis, sleep; SR 22
+Weaknesses Vulnerable to cold
+OFFENSE
+Speed 30 ft., swim 60 ft.
+Melee bite +21 (2d6+10), tail +16 (1d8+10)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (80-ft. line, DC 22, 12d6 fire)
+Spell-like Abilities (CL 14th)
+At will – obscuring mist, soften earth and stone, water breathing
+Spells Known (CL 5th)
+2nd (5/day) – (DC 15) cat’s grace, resist energy
+1st (7/day) – (DC 14) expeditious retreat, identify, reduce person
+0 (at will) – arcane mark, detect magic, ghost sound, mage hand, message, prestidigitation
+STATISTICS
+Str 25, Dex 13, Con 20, Int 15, Wis 18, Cha 16
+Base Atk +14; CMB +22; CMD 33 (cannot be tripped)
+Feats Alertness, Athletic, Cleave, Great Cleave, Improved Initiative, Power Attack
+Skills Appraise +19, Intimidate +20, Knowledge (nature) +19, Perception +25, Spellcraft +19, Stealth +14, Survival, +21, Swim +24
+Languages Common, Draconic, Sylvan
+SQ air breathing, speak with aquatic, watersight
+SPECIAL ABILITIES
+Air Breathing (Ex) The river dragon can breathe air just as naturally as water. This dragon can freely use its breath weapon, spells and other abilities in both air and water.
+Speak with Aquatic (Ex) The young and older river dragon gains a constant spell-like ability to speak with animals of the aquatic subtype. This otherwise functions as speak with animals.
+Watersight (Ex) The very young and older river dragon can see underwater four times better than a human.
+

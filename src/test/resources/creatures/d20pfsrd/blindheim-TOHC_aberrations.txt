@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/blindheim-TOHC
+Blindheim CR 2
+XP 600
+CE Small aberration
+Init +1; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 16, touch 12, flat-footed 15 (+1 Dex, +4 natural, +1 size)
+hp 18 (4d8)
+Fort +1; Ref +2; Will +5
+OFFENSE
+Speed 30 ft.
+Melee bite +5 (1d8)
+Special Attacks eye beams
+TACTICS
+A blindheim attacks by first blinding a foe with its gaze and then rushing in to use its bite attack. It can turn its eyes on and off as it wishes, but always leaves them on during combat.
+Morale If over-matched, a blindheim flees.
+STATISTICS
+Str 10, Dex 12, Con 11, Int 2, Wis 12, Cha 6
+Base Atk +3; CMB +2; CMD 13
+Feats Skill Focus (Perception), Weapon Finesse
+Skills Perception +11, Stealth +10, Survival +5; Racial Modifiers +2 Perception, +4 Survival
+SPECIAL ABILITIES
+Eye Beams (Ex) When a blindheim’s eyes are open, it emits a 30-foot cone of light. It can see normally in this light and functions normally in areas of darkness (but not deeper darkness). A creature looking at a blindheim when its eye beams are “on” must succeed on a DC 12 Fortitude save or be blinded for 1 hour. A successful save renders the creature immune to the same blindheim’s eye beams for 24 hours. The blindness can be cured by remove blindness or more powerful magic. The save DC is Constitution-based.

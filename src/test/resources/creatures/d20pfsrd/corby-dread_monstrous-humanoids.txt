@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/corby-dread
+Dread Corby CR 2
+XP 600
+NE Medium monstrous humanoid
+Init +1; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 17, touch 13, flat-footed 14 (+3 Dex, +4 natural)
+hp 19 (2d10+8)
+Fort +4, Ref +6, Will +5
+Defensive Abilities ferocity
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee 2 claws +5 (1d4+3)
+Special Attacks leap, rend (2 claws, 1d4+3), screech of doom
+STATISTICS
+Str 17, Dex 16, Con 19, Int 11, Wis 14, Cha 12
+Base Atk +2; CMB +5; CMD 18
+Feats Blind-Fight, Skill Focus (Stealth)
+Skills Acrobatics +12, Climb +15, Perception +8, Stealth +10; Racial Modifiers +8 Acrobatics, +2 Perception
+Languages Undercommon
+SPECIAL ABILITIES
+Leap (Ex) A dire corby can perform a special kind of pounce attack by jumping into combat. When a dire corby charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it succeeds at this Acrobatics check, it can make a full attack (two claw attacks, plus a rend attack if both claws hit) against foes in reach. If it fails, it can still make its one attack as normal for a charge.
+Screech of Doom (Su) Once per day, a dread corby can shriek at a target within 30 feet. The target must make a DC 12 Will save or become frightened for 1d4 rounds. This is a sonic, mind-affecting fear effect. The save DC is Charisma-based.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/skinwraith
+Skinwraith CR 2
+XP 600
+NE Medium undead
+Init +4; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 15, touch 14, flat-footed 11 (+4 Dex, +1 natural)
+hp 13 (3d8)
+Fort +1, Ref +5, Will +1
+DR 10/piercing or slashing; Immune undead traits
+OFFENSE
+Speed 5 ft., fly 30 ft.
+Melee 2 lashes +6 (1d4+1 plus grab)
+Special Attacks envelop
+TACTICS
+Before Combat Skinwraiths flit about the landscape, hunting for signs of life. If they sense a living creatures nearby, they fly at high speeds toward it, intent on smothering its life away.
+During Combat The skinwraith attacks by smothering and enveloping its target, keeping other opponents at bay by lashing at them viciously with long strips of flayed skin.
+STATISTICS
+Str 12, Dex 18, Con —, Int 3, Wis 6, Cha 11
+Base Atk +2; CMB +3 (+7 to grapple); CMD 17
+Feats MultiattackB, Skill Focus (Perception), Weapon Finesse
+Skills Perception +6, Stealth +8
+Languages none
+SPECIAL ABILITIES
+Envelop (Ex) A skinwraith can wrap around its foe completely. If the skinwraith starts the round grappling a creature it may make a CMB check to envelop the creature it is grappling and deal 1d6+1 points of bludgeoning damage to the creature. Enveloped opponents gain the pinned condition, and are trapped within the skinwraith’s body until they are no longer pinned. Each round, if the skinwraith succeeds on the check to maintain the pin, it deals 1d6+1 bludgeoning damage to the enveloped opponents and may additionally make attacks against adjacent creatures, treating its natural weapons as secondary (2 lashes +0 [1d4]). While its opponent is pinned, any attacks striking the skinwraith deal damage to both the skinwraith and its victim; each receives half the damage before damage reduction, rounded down.

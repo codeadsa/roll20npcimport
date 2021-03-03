@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/ray-stingray/stingray-large-tohc
+Large Stingray CR 5
+XP 1,600
+N Large animal (aquatic)
+Init +0; Senses low-light vision, scent, tremorsense 100 ft.; Perception +11
+DEFENSE
+AC 14, touch 9, flat-footed 14 (+5 natural, –1 size)
+hp 68 (8d8+24 plus 8)
+Fort +9, Ref +6, Will +3
+OFFENSE
+Speed swim 30 ft.
+Melee sting +11 (1d8+6 plus poison), wing +9 (1d6+3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks poison
+STATISTICS
+Str 22, Dex 11, Con 17, Int 1, Wis 12, Cha 2
+Base Atk +6; CMB +13; CMD 23 (can’t be tripped)
+Feats Ability Focus (poison), Multiattack, Skill Focus (Perception), Toughness
+Skills Perception +11, Stealth +3, Swim +14
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d2 Str and paralysis 1d6+2 rds.; cure 1 save.

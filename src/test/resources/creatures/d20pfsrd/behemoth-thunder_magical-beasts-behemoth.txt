@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/behemoth/behemoth-thunder
+Thunder Behemoth CR 18
+XP 153,600
+N Colossal magical beast (behemoth, earth)
+Init -2; Senses blindsense 60 ft., darkvision 60 ft., tremorsense 60 ft.; Perception +27
+DEFENSE
+AC 35, touch 0, flat-footed 35 (-2 Dex, +35 natural, -8 size)
+hp 337 (25d10+200); regeneration 20
+Fort +22, Ref +12, Will +12
+Defensive Abilities unstoppable; DR 15/epic; Immune ability damage, acid, aging, bleed, disease, energy drain, fire, mind-affecting effects, negative levels, paralysis, permanent wounds, petrification, poison, polymorph; SR 29
+Weaknesses vulnerable to miracles and wishes
+OFFENSE
+Speed 30 ft., burrow 30 ft.
+Melee bite +33 (4d6+16 plus grab), gore +33 (4d6+16), 2 stomps +28 (2d8+8 plus trip)
+Ranged 4 rocks +15 (3d6+24 plus stun)
+Space 30 ft.; Reach 20 ft.
+Special Attacks fast swallow, mighty roar, rock spitting, ruinous, swallow whole (4d6+24 bludgeoning and 4d6 fire damage, AC 27, 33 hp), trample (2d8+24, DC 38)
+Spell-Like Abilities (CL 20th; concentration +22)
+3/day—earthquake (DC 20)
+STATISTICS
+Str 43, Dex 6, Con 26, Int 3, Wis 14, Cha 15
+Base Atk +25; CMB +49 (+53 grapple); CMD 57 (61 vs. trip)
+Feats Awesome Blow, Cleave, Great Cleave, Greater Bull Rush, Greater Overrun, Greater Sunder, Improved Bull Rush, Improved Overrun, Improved Sunder, Iron Will, Lunge, Power Attack, Snatch
+Skills* Perception +27, Survival +14, Swim +28; Racial Modifiers +10 Perception
+Language Aklo (cannot speak)
+SPECIAL ABILITIES
+Mighty Roar (Su) Every 1d4 rounds as a standard action, a thunder behemoth can issue a mighty roar in a 60-foot cone that duplicates the effect of an empowered greater shout (Fortitude DC 30 for half damage). This is a sonic effect. The save DC is Constitution-based.
+Rock Spitting (Ex) A thunder behemoth can spit rocks from the essentially inexhaustible store in its gizzard. It can spit up to four rocks as a standard action, with a range increment of 60 feet. A creature that is critically hit by one of these rocks must make a DC 38 Fortitude save to resist being stunned for 1 round. The save DC is Strength-based.
+Swallow Whole (Ex) A thunder behemoth has five stomachs and can shunt a swallowed victim into any one of them (usually choosing an empty stomach).

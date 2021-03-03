@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/shrieker
+Shrieker CR 1
+XP 400
+N Small plant
+Init +0; Senses blindsight 60 ft.; Perception +1
+DEFENSE
+AC 14, touch 11, flat-footed 13 (+3 natural, +1 size)
+hp 11 (2d8+2)
+Fort +4, Ref +0, Will +0
+Immune sonic, plant traits
+OFFENSE
+Speed 5 ft.
+Space 5 ft.; Reach 0 ft.
+Special Attacks shriek (DC 11 Fort, 1d4 sonic)
+STATISTICS
+Str 9, Dex 10, Con 13, Int –, Wis 12, Cha 10
+Base Atk +1; CMB -2; CMD 8 (can’t be tripped)
+Languages none
+SPECIAL ABILITIES
+Shriek (Ex) Light sources or movement within 10 feet of a shrieker causes it to emit a piercing sound that lasts for 1d3 rounds. All creatures within 30 feet of a shrieker when it emits this noise must succeed on a DC 11 Fortitude save or take 1d4 sonic damage each round. A creature that successfully saves is not subject to the same shrieker’s noise for 24 hours. The save DC is Constitution-based.

@@ -1,0 +1,41 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-forest/forest-dragon-adult
+Adult Forest Dragon CR 14
+XP 38,400
+CE Huge dragon (earth)
+Init +4; Senses dragon senses, tremorsense 60 ft.; Perception +23; Aura frightful presence (180 ft., DC 21)
+DEFENSE
+AC 30, touch 8, flat-footed 30 (+22 natural, -2 size)
+hp 229 (17d12+119)
+Fort +16, Ref +10, Will +15
+DR 2/adamantine; Immune paralysis, poison, sleep; SR 25
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 30 ft., fly 200 ft. (poor)
+Melee bite +25 (2d8+13), 2 claws +24 (2d6+9), gore +24 (2d6+13), tail slap +22 (2d6+13)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite and gore)
+Special Attacks breath weapon (50-ft. cone, 12d6 piercing damage), crush (DC 24, 2d8+13)
+Spell-Like Abilities (CL 17th; concentration +20)
+At will—blight (DC 18), entangle (DC 14), pass without trace
+Spells Known (CL 7th; concentration +10)
+3rd (5/day)—wind wall, stinking cloud (DC 16)
+2nd (7/day)—fog cloud, hideous laughter (DC 15), touch of idiocy
+1st (7/day)—hypnotism (DC 14)1, obscuring mist, magic missile, ray of enfeeblement (DC 14), shield
+0 (at-will)—daze (DC 13), detect magic, ghost sound, mage hand, read magic, resistance, touch of fatigue
+STATISTICS
+Str 29, Dex 10, Con 22, Int 16, Wis 17, Cha 16
+Base Atk +17; CMB +28; CMD 38 (42 vs. trip)
+Feats Improved Initiative, Improved Natural Armor, Iron Will, Multiattack, Power Attack, Skill Focus (Stealth), Stealthy, Toughness, Weapon Focus (bite)
+Skills Acrobatics +11 (+15 when jumping), Bluff +23, Climb +37, Escape Artist +2, Fly +12, Intimidate +23, Knowledge (arcana, nature) +15, Perception +23, Spellcraft +23, Stealth +22, Survival +16
+Languages Common, Draconic, Sylvan
+SQ change shape, sound imitation, woodland stride
+SPECIAL ABILITIES
+Change Shape (Su) An adult or older forest dragon can assume any humanoid form three times per day as if using polymorph.
+Sound Imitation (Ex) A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener’s Sense Motive check.
+Woodland Stride (Ex) As the druid ability of the same name.
+Editor’s Note
+Skills appear to be incorrect:
+1. Acrobatics +16 (+20 when jumping)
+2. Fly -8
+3. Stealth +18
+4. Survival +23 “Chinese Earth Dragon”
+(c) 2012 Shoshanna Bauer http://shoshannabauer.com
+All Rights Reserved.

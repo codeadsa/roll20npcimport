@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-movanic-deva
+Movanic Deva CR 10
+XP 9,600
+NG Medium outsider (angel, extraplanar, good)
+Init +7; Senses darkvision 60 ft., detect evil, low-light vision; Perception +26
+Aura protective aura
+DEFENSE
+AC 24, touch 13, flat-footed 21 (+3 Dex, +11 natural) (+4 deflection vs. evil)
+hp 126 (12d10+60)
+Fort +12, Ref +11, Will +9; +4 vs. poison, +4 resistance vs. evil
+Defensive Abilities nature’s pacifism, protected life force; DR 10/evil; Immune acid, cold, electricity, fire, death effects, energy drain, petrification; SR 21
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee +1 flaming greatsword +17/+12/+7 (2d6+7/19-20 plus 1d6 fire)
+Spell-Like Abilities (CL 8th; concentration +12)
+Constant—detect evil
+At will—aid, discern lies (DC 18), dispel evil (DC 19), dispel magic, holy smite (DC 18), invisibility (self only), plane shift (DC 19), remove curse, remove disease, remove fear
+7/day—cure serious wounds
+1/day—antimagic field, awaken, holy aura (DC 22)
+STATISTICS
+Str 19, Dex 17, Con 18, Int 17, Wis 17, Cha 19
+Base Atk +12; CMB +16; CMD 29
+Feats Cleave, Improved Initiative, Iron Will, Power Attack, Toughness, Vital Strike
+Skills Diplomacy +19, Fly +22, Intimidate +19, Knowledge (planes) +18, Knowledge (religion) +18, Perception +26, Sense Motive +22, Stealth +18, Survival +18; Racial Modifiers +4 Perception
+Languages Celestial, Draconic, Infernal; truespeech
+SPECIAL ABILITIES
+Nature’s Pacifism (Ex) Animals and plant creatures do not willingly attack a movanic deva, though they can be forced to do so by magic. If the deva attacks a plant or animal, its protection against that creature ends.
+Protected Life Force (Ex) Movanic devas are never harmed by positive-dominant or negative-dominant planar traits.

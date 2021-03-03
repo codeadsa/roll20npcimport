@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/snake/snake-cobra-emperor
+Emperor Cobra
+CR 5
+XP 1,600
+N Large animal
+Init +6; Senses low-light vision, scent; Perception +13
+DEFENSE
+AC 18, touch 11, flat-footed 16 (+2 Dex, +7 natural, –1 size)
+hp 51 (6d8+24)
+Fort +9, Ref +7, Will +5
+OFFENSE
+Speed 30 ft., climb 30 ft., swim 30 ft.
+Melee bite +10 (2d6+9 plus poison)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 22, Dex 15, Con 18, Int 1, Wis 17, Cha 2
+Base Atk +4; CMB +11; CMD 23 (can’t be tripped)
+Feats Improved Initiative, Skill Focus (Stealth), Weapon Focus (bite)
+Skills Acrobatics +10, Climb +14, Perception +13, Stealth +11, Swim +14; Racial Modifiers +8 Acrobatics, +8 Climb, +4 Perception, +4 Stealth, +8 Swim
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d3 Con; cure 2 consecutive saves.
+

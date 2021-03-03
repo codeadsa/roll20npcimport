@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/sasquatch
+Sasquatch CR 2
+XP 600
+N Medium humanoid (sasquatch)
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +5
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 22 (3d8+9)
+Fort +4, Ref +5, Will +1
+OFFENSE
+Speed 40 ft.
+Melee club +8 (1d6+9) or slam +8 (1d4+9)
+Ranged rock +5 (1d4+9)
+Special Attacks rock throwing (120 ft.)
+STATISTICS
+Str 22, Dex 15, Con 16, Int 9, Wis 10, Cha 11
+Base Atk +2; CMB +8; CMD 20
+Feats Self-Sufficient, Skill Focus (Stealth)
+Skills Heal +2, Perception +5, Stealth +10 (+14 in forested areas), Survival +10; Racial Modifiers +4 Perception, +4 Stealth (+8 in forested areas), +4 Survival
+Languages Sasquatch
+SQ pungency, woodland stride
+SPECIAL ABILITIES
+Pungency (Ex) A sasquatch’s odor is quite powerful, and can be detected at twice the normal distance by scent.
+Woodland Stride (Ex) A sasquatch can move through any sort of undergrowth (such as natural thorns, briars, overgrown areas, and similar terrain) at normal speed and without taking damage or suffering any other impairment. Undergrowth that has been magically manipulated to impede movement still affects the sasquatch. The elusive sasquatches earn their mysterious reputation rightly; they live in unpopulated forests and avoid confrontations with humanoids, only becoming violent when they feel threatened, when their territory is encroached upon, or when they feel they must protect their young. Left to their own devices, sasquatch families are perfectly content to live their lives in the deep woods, leaving behind little to no trace of their passing save for the periodic big footprint in the ground.

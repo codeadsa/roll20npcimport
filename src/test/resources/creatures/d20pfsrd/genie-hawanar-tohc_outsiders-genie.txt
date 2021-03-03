@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/genie-hawanar-tohc
+Hawanar Genie CR 10
+XP 9,600
+LN Large outsider (air, extraplanar, fire)
+Init +8; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 21, touch 14, flat-footed 16 (+4 Dex, +1 dodge, +7 natural, –1 size)
+hp 97 (13d10+26)
+Fort +6; Ref +12; Will +10
+Defensive Abilities air mastery; Immune acid, fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 20 ft., fly 50 ft. (perfect)
+Melee 2 slams +20 (2d6+8 plus 1d8 fire) or masterwork falchion +21/+16/+11 (2d6+12/18–20 plus 1d8 fire)
+Space 10 ft.; Reach 10 ft.
+Special Attacks heat, holocone (1/10 minutes, 10–50 ft. tall, 1d8+8 plus 1d8 fire damage, DC 27)
+Spell-like Abilities (CL 16th):
+At-will—invisibility (self only), plane shift (willing targets to elemental planes, Astral Plane, or Material Plane only)
+1/day—burning hands (DC 13), create food and water, create wine (as create water, but wine instead), fireball (DC 15), gaseous form, invisibility, major creation (created vegetable matter is permanent), persistent image (DC 17), scorching ray (1 ray only), wall of fire (DC 16), wind walk.
+1/day—grant up to 3 wishes (to non-genies only)
+STATISTICS
+Str 27, Dex 18, Con 14, Int 14, Wis 15, Cha 15
+Base Atk +13; CMB +22; CMD 37
+Feats Combat Casting, Combat Reflexes, Dodge, Improved InitiativeB, Mobility, Power Attack, Quicken Spell-Like Ability (scorching ray), Wind Stance
+Skills Bluff +18, Diplomacy +18, Fly +26, Intimidate +18, Knowledge (nobility) +18, Knowledge (planes) +18, Perception +18, Sense Motive +12, Spellcraft +11
+Languages Auran, Celestial, Common, Ignan; telepathy 100 ft.
+Gear masterwork falchion
+SPECIAL ABILITIES
+Air Mastery (Ex) Airborne creatures take a –1 penalty on attack and damage rolls against a hawanar.
+Heat (Ex) A hawanar’s fists are swathed in white-hot fire that deals 1d8 points of extra fire damage whenever it hits in melee, or in each round it maintains a hold when grappling. The hawanar’s metallic weapons conduct this heat. The hawanar can suppress or resume this ability as a free action.
+Holocone (Su) A hawanar can transform into a vortex of embers and white-hot fire once every 10 minutes. This ability functions identically to the whirlwind ability. In this form, it can move through the air or along a surface at its fly speed. The save DC includes a +3 racial adjustment.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dog/breeds/giant-fiendish-bull-mastiff
+Giant Fiendish Bull Mastiff CR 1
+XP 400
+N Large animal
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 15, touch 11, flat-footed 15 (+1 Dex, +4 natural)
+hp 17 (2d8+8)
+Fort +7, Ref +4, Will +1
+Defensive Abilities tenacious; Resist cold 5, fire 5; SR 6
+OFFENSE
+Speed 40 ft.
+Melee bite +5 (1d8+6 plus trip)
+Special Attacks smite good
+STATISTICS
+Str 19, Dex 13, Con 19, Int 2, Wis 12, Cha 6
+Base Atk +1; CMB +5; CMD 16 (20 vs. trip)
+Feats Skill Focus (Perception)
+Skills Acrobatics +4 (+12 jumping), Perception +8, Survival +2 (+6 scent tracking); Racial Modifiers +4 Acrobatics when jumping, +4 Survival when tracking by scent
+SPECIAL ABILITIES
+Smite Good (Su) Once per day, the fiendish creature may smite a good-aligned creature. As a swift action, the creature chooses one target within sight to smite. If this target is good, the creature adds its Charisma bonus (if any) to attack rolls and gains a damage bonus equal to its HD against that foe. This effect persists until the target is dead or the creature rests.
+Tenacious (Ex) When ordered to track prey (usually humanoid prey), a bull mastiff receives a +4 bonus to any Will saves against enchantments or illusions directed at it, and the DC of any Handle Animal skill check by anyone other than the dog’s master is 5 higher.
+
+
+

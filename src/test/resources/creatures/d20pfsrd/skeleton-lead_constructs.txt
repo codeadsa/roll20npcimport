@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/skeleton-lead
+Lead Skeleton CR 7
+XP 3,200
+N Medium construct
+Init +4; Senses blindsight 90 ft., darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 24, touch 14, flat-footed 20 (+4 Dex, +10 natural)
+hp 75 (10d10+20)
+Fort +3, Ref +7, Will +3
+DR 10/adamantine and bludgeoning; Immune acid, cold, electricity, fire, magic, construct traits
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +16 (1d8+6)
+STATISTICS
+Str 22, Dex 18, Con –, Int –, Wis 10, Cha 1
+Base Atk +10; CMB +16; CMD 30
+SPECIAL ABILITIES
+Immunity to Magic (Ex) A lead skeleton is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+
+A magical attack that deals sonic damage slows a lead skeleton (as the slow spell) for 1d4 rounds, with no saving throw.

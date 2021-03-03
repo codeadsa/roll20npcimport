@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/herald-of-hell
+Herald of Hell CR 15
+XP 51,200
+LE Medium outsider (devil, evil, extraplanar, herald, lawful)
+Init +10; Senses darkvision 60 ft., low-light vision, see in darkness; Perception +23
+DEFENSE
+AC 28, touch 16, flat-footed 22 (+6 Dex, +12 natural)
+hp 200 (16d10+112)
+Fort +12, Ref +18, Will +16
+DR 10/good; Immune fire, poison; Resist acid 10, cold 10; SR 26
+OFFENSE
+Speed 30 ft., fly 60 ft. (perfect)
+Melee touch +19 (1d8+8) or 5 slams +24 (1d8+8 plus grab)
+Space 5 ft.; Reach 5 ft. (15 ft. with slam)
+Special Attacks terror, terror shape
+Spell-Like Abilities (CL 16th; concentration +23)
+At will—cloudkill (DC 22), false vision, greater teleport (self plus 50 lbs. of objects only), mirage arcana (DC 22), persistent image (DC 22), scorching ray
+3/day—crushing despair (DC 21), dimensional anchor (DC 21), ethereal jaunt, greater dispel magic, greater invisibility, legend lore, nightmare (DC 22), phantasmal killer (DC 21), true seeing
+1/day—geas/quest, grant 1 wish (to mortals only), summon (level 5, 2 bone devils 75%)
+STATISTICS
+Str 26, Dex 22, Con 25, Int 26, Wis 19, Cha 25
+Base Atk +16; CMB +24 (+28 grapple); CMD 40
+Feats Blind-Fight, Combat Reflexes, Deceitful, Improved Initiative, Improved Iron Will, Iron Will, Lightning Reflexes, Persuasive
+Skills Acrobatics +22, Bluff +30, Diplomacy +38, Disguise +30, Fly +14, Intimidate +38, Knowledge (arcana) +24, Knowledge (history, nobility) +16, Knowledge (planes) +27, Perception +23, Perform (oratory) +23, Sense Motive +23, Sleight of Hand +22, Spellcraft +27, Stealth +25; Racial Modifiers +8 Diplomacy, +8 Intimidate
+Languages Abyssal, Aklo, Aquan, Celestial, Common, Draconic, Elven, Giant, Infernal, Undercommon; tongues, telepathy 100 ft.
+SQ veil of forms
+SPECIAL ABILITIES
+Gaze (Su) Death (if 6 HD or less) or 6d6 damage and panicked for 2d4 rounds (7 HD or more), range 30 feet, Will DC 25 negates the death or panicked effect. This gaze is a mind-affecting fear effect that causes its targets to perceive him as the most terrifying thing that it can imagine. The save DC is Charisma-based.
+Terror (Su) As a standard action, the Herald can surround himself with a terrifying illusion that to all viewers appears as a unique and violent manifestation of the most terrifying thing their minds can conjure. This horror can only be seen by each individual onlooker, with even the Herald being unaware of what his viewers see. Those within 30 feet of the Herald must make a DC 25 Will save. Those with 6 or fewer Hit Dice who fail instantly die from fear, while those with 6 or more Hit Dice are panicked and take 6d6 points of damage. Those who save are immune to the Herald’s death or panic effects, but still take damage. Those who remain within 30 feet of the Herald, even after making their saves, take 6d6 points of damage every round as long as the Herald continues to take standard actions to maintain the terror. The death and panic aspects of this ability are a mind-affecting fear effect, with even creatures immune to such effects still being affected by the ability’s damage. The save DC is Charisma-based.
+Terror Shape (Su) While using his gaze ability, the Herald of Hell manifests one to five monstrous limbs that can make slam attacks.
+Veil of Forms (Su) All creatures see the Herald of Hell as a powerful and attractive member of their own race. While using this ability, His gaze ability is suppressed. He can activate or suppress this ability as a free action.

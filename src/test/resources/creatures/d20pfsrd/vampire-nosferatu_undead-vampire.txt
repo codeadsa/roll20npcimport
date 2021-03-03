@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/vampire/vampire-nosferatu
+Nosferatu CR 10
+XP 9,600
+Male human nosferatu rogue 9
+NE Medium undead (augmented humanoid, human)
+Init +11; Senses darkvision 60 ft., low-light vision, scent; Perception +28
+DEFENSE
+AC 30, touch 18, flat-footed 23 (+4 armor, +1 deflection, +6 Dex, +1 dodge, +8 natural)
+hp 71 (9d8+27); fast healing 5
+Fort +7, Ref +16, Will +7; +3 vs. traps
+Defensive Abilities channel resistance +4, evasion, improved uncanny dodge, trap sense +3; DR 5/wood and piercing; Immune undead traits; Resist cold 10, electricity 10, sonic 10
+Weaknesses vampire weaknesses
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +14 (1d6+3)
+Special Attacks blood drain (1d4 Con and 1d4 Wis), dominate (DC 17), sneak attack +5d6, telekinesis (DC 17)
+STATISTICS
+Str 16, Dex 24, Con —, Int 16, Wis 16, Cha 16
+Base Atk +6; CMB +9; CMD 28
+Feats Alertness B, Dodge, Improved Initiative B, Lightning Reflexes B, Mobility, Power Attack, Skill Focus B (Perception), Skill Focus B (Stealth), Spring Attack, Weapon Finesse, Weapon Focus (claw)
+Skills Acrobatics +19, Bluff +15, Climb +15, Intimidate +15, Knowledge (dungeoneering) +15, Knowledge (history) +12, Knowledge (local) +15, Knowledge (religion) +12, Perception +28, Sense Motive +13, Stealth +30, Survival +12, Swim +15, Use Magic Device +15; Racial Modifiers +8 Perception, +8 Sense Motive, +8 Stealth
+Languages Aklo, Common; telepathy 60 ft.
+SQ rogue talents (bleeding attack +5, fast stealth, stand up, surprise attack), spider climb, swarm form, trapfinding +4

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/thorny-advanced-tyrannosaurus-tohc
+Thorny Advanced Tyrannosaurus CR 17
+XP 102,400
+N Colossal plant
+Init +5; Senses low-light vision, scent; Perception +39
+DEFENSE
+AC 23, touch 3, flat-footed 22 (+1 Dex, +20 natural, –8 size)
+hp 357 (34d8+204)
+Fort +25; Ref +14; Will +15
+Immune plant traits
+OFFENSE
+Speed 50 ft.
+Melee bite +33 (6d6+30/19–20)
+Space 30 ft.; Reach 30 ft.
+Special Attacks swallow whole (3d8+15 acid damage, AC 20, 35 hp), thorns
+STATISTICS
+Str 40, Dex 13, Con 23, Int 2, Wis 15, Cha 10
+Base Atk +25; CMB +48 (+52 grapple); CMD 59
+Feats Bleeding Critical, Critical Focus, Critical Mastery, Diehard, Endurance, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Improved Vital Strike, Iron Will, Lightning Reflexes, Power Attack, Run, Skill Focus (Perception), Staggering Critical, Vital Strike, Weapon Focus (bite)
+Skills Perception +39, Stealth +6 (+14 in swamps or forests); Racial Modifiers +8 Perception, +4 Stealth (+12 in swamps or forests)
+SQ powerful bite
+SPECIAL ABILITIES
+Thorns (Ex) 2d8+15 damage
+Editor’s Note
+Base template: Thorny (CR+1)

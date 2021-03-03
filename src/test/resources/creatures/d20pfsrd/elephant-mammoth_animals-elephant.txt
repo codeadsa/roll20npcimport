@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/elephant/elephant-mammoth
+Mammoth CR 10
+XP 9,600
+N Huge animal
+Init +0; Senses low-light vision, scent; Perception +17
+DEFENSE
+AC 21, touch 8, flat-footed 21 (+13 natural, –2 size)
+hp 149 (13d8+78 plus 13)
+Fort +14, Ref +8, Will +7
+OFFENSE
+Speed 40 ft.
+Melee gore +19 (2d6+11), slam +19 (1d8+11), 2 stomps +17 (2d6+5)
+Space 15 ft.; Reach 10 ft.
+Special Attacks trample (1d8+16, DC 27)
+STATISTICS
+Str 33, Dex 10, Con 23, Int 2, Wis 13, Cha 6
+Base Atk +9; CMB +22 (+24 bull rush); CMD 32 (34 vs. bull rush, 36 vs. trip)
+Feats Improved Bull Rush, Iron Will, Multiattack, Toughness, Weapon Focus (slam), Weapon Focus (stomp), Weapon Focus (gore)
+Skills Perception +17

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/sandling
+Sandling CR 2
+XP 600
+N Large outsider (elemental, extraplanar, earth)
+Init +1; Senses darkvision 60 ft., tremorsense; Perception +10
+DEFENSE
+AC 17, touch 10, flat-footed 16 (+1 Dex, +7 natural, -1 size)
+hp 26 (4d10+4)
+Fort +5, Ref +2, Will +4
+DR 5/bludgeoning; Immune elemental traits
+Weaknesses vulnerability to water
+OFFENSE
+Speed 30 ft., burrow 20 ft.
+Melee bite +6 (1d8+4)
+Space 10 ft.; Reach 5 ft
+STATISTICS
+Str 17, Dex 13, Con 13, Int 4, Wis 11, Cha 11
+Base Atk +4; CMB +8; CMD 19 (can’t be tripped)
+Feats Power Attack, Skill Focus (Perception)
+Skills Perception +10
+SPECIAL ABILITIES
+Vulnerability to Water (Ex) For every 2 gallons of water that hit a sandling, it is slowed (as the slow spell) for 1 round (no save).

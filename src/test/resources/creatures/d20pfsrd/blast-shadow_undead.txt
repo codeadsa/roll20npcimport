@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/blast-shadow
+Blast Shadow CR 5
+XP 1600
+CE Medium undead (fire)
+Init +8; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 18, touch 14, flat-footed 14 (+4 Dex, +4 natural)
+hp 85 (10d8+40)
+Fort +6, Ref +7, Will +8
+Immune fire, undead traits
+Weakness vulnerability to cold
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +7 (1d8+2 plus 1d6 fire)
+Special Attacks cloud of smoke and fire, death burst
+STATISTICS
+Str 15, Dex 18, Con —, Int 10, Wis 13, Cha 16
+Base Atk +7; CMB +9; CMD 23
+Feats Improved Initiative, Toughness, Weapon Finesse, Weapon Focus (claw)
+Skills Perception +14, Stealth +17
+Languages Common
+SPECIAL ABILITIES
+Cloud of Smoke and Fire (Su) A blast shadow can, as a free action, surround itself with a cloud of smoke that burns living flesh. While active, the blast shadow gains concealment, and all living creatures within 5 feet take 1d6 points of fire damage per round. If the blast shadow takes any cold damage, this cloud is dispelled and cannot be renewed for 1d6 rounds.
+Death Burst (Su) When a blast shadow is reduced to 0 or fewer hit points, it explodes in a blast of flame. All creatures within 30 feet take 5d6 points of fire damage. A DC 18 Reflex save results in half damage. The save DC is Charisma-based.

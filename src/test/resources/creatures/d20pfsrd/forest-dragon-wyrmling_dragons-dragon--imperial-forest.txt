@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-forest/forest-dragon-wyrmling
+Wyrmling Forest Dragon CR 6
+XP 2,400
+CE Small dragon (earth)
+Init +6; Senses dragon senses, tremorsense 60 ft.; Perception +10
+DEFENSE
+AC 19, touch 13, flat-footed 17 (+2 Dex, +6 natural, +1 size)
+hp 66 (7d12+21)
+Fort +7, Ref +7, Will +5
+Immune paralysis, poison, sleep
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 30 ft., fly 150 ft. (average)
+Melee bite +11 (1d6+3), 2 claws +10 (1d4+2)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (20-ft. cone, 2d6 piercing damage, DC 15)
+
+STATISTICS
+Str 15, Dex 14, Con 14, Int 10, Wis 11, Cha 10
+Base Atk +7; CMB +8; CMD 20 (24 vs. trip)
+Feats Improved Initiative, Power Attack, Toughness, Weapon Focus (bite)
+Skills Acrobatics +9 (+13 when jumping), Climb +20, Fly +4, Intimidate +10, Knowledge (nature) +7, Perception +10, Stealth +16, Survival +6
+Languages Common, Draconic
+SQ woodland stride
+SPECIAL ABILITIES
+Woodland Stride (Ex) As the druid ability of the same name.
+“Chinese Earth Dragon”
+(c) 2012 Shoshanna Bauer http://shoshannabauer.com
+All Rights Reserved.

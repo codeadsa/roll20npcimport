@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/vargouille/vargouille-giant
+Giant Vargouille CR 3 (XP 800)
+NE Medium outsider (evil, extraplanar)
+Init +0; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 16, touch 10, flat-footed 16 (+6 natural)
+hp 25 (3d10+9)
+Fort +6, Ref +3, Will +2
+OFFENSE
+Speed fly 30 ft. (good)
+Melee bite +5 (1d6+3 plus poison)
+Special Attacks kiss, poison, shriek
+TACTICS
+Before Combat Giant vargouilles shriek before entering combat.
+During Combat Giant vargouilles attack as a group, attempting to bite as many opponents as possible, hoping to breed more of their kind.
+STATISTICS
+Str 14, Dex 11, Con 17, Int 5, Wis 12, Cha 8
+Base Atk +3; CMB +5; CMD 15
+Feats Flyby Attack, Skill Focus (Stealth)
+Skills Fly +10, Intimidate +5, Perception +7, Stealth +3
+Languages Infernal
+SPECIAL ABILITIES
+Kiss (Su) A vargouille can kiss a helpless target by making a successful melee touch attack (this provokes attacks of opportunity). A kissed opponent must succeed on a DC 18 Fortitude save or begin a terrible transformation that changes the creature into a vargouille within 24 hours (and often much sooner; roll 1d6 separately for each phase of the transformation). First, over a period of 1d6 hours, all the victim’s hair falls out. Within another 1d6 hours thereafter, the ears grow into leathery wings, tentacles sprout on the chin and scalp, and the teeth become long, pointed fangs. During the next 1d6 hours, the victim takes Intelligence drain and Charisma drain equal to 1 point per hour (to a minimum of 3). The transformation is complete 1d6 hours thereafter, when the victim’s head breaks free of the body (which promptly dies) and becomes a vargouille. This transformation’s progress is paused by sunlight or any light spell of 3rd level or higher, but stopping the transformation requires remove disease or a similar effect. The transformation is a disease effect. The save DC is Constitution-based and includes a +4 racial bonus.
+Poison (Su) Bite-injury; save Fort DC 14; frequency once; effect damage caused by bite can only be healed with magic if the spellcaster succeeds on a DC 20 caster level check; cure 1 save. The save DC is Constitution-based.
+Shriek (Su) Instead of biting, a vargouille can open its distended mouth to shriek. Those within 60 feet (except other vargouilles) who hear the shriek and can clearly see the creature must succeed on a DC 14 Fortitude save or be paralyzed for 2d4 rounds or until the monster attacks them, goes out of range, or leaves their sight. A creature that successfully saves cannot be affected again by the same vargouille’s shriek for 24 hours. The save DC is Constitution-based.

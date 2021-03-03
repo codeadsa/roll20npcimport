@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/soul-nibbler-tohc
+Soul Nibbler CR 2
+XP 600
+N Tiny magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +5
+DEFENSE
+AC 15, touch 14, flat-footed 13 (+2 Dex, +1 natural, +2 size)
+hp 5 (1d10)
+Fort +2, Ref +4, Will +1
+Immune necromancy spells
+OFFENSE
+Speed 15 ft., climb 15 ft.
+Melee bite +5 (1d3-4 plus energy drain)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks energy drain (1 level, DC 10)
+STATISTICS
+Str 2, Dex 15, Con 10, Int 2, Wis 12, Cha 2
+Base Atk +1; CMB +1; CMD 7 (11 vs trip)
+Feats Weapon Finesse
+Skills Climb +10, Perception +5, Stealth +10
+SPECIAL ABILITIES
+Immunity to Necromancy Spells (Ex) Soul nibblers are immune to all spells of the Necromancy school.
+Essence Ingots
+Essence ingots are small rectangular bricks of blackened stone that contain the soul of a living creature. Creatures are trapped in essence ingots through the use of a great smelter, the location of which has been lost.
+A trapped spirit can be released by casting remove curse (or similar and more powerful magic). A released soul reforms its material body in 1d4 rounds. An essence ingot has a hardness 5, hp 10, and Break DC 20. Note, however, that if an essence ingot is broken, the trapped soul is not released but is lost forever.

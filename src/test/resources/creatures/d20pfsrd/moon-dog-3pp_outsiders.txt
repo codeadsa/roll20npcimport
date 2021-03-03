@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/moon-dog-3pp
+Moon Dog CR 9
+XP 6,400
+NG Medium outsider (extraplanar, good)
+Init +6; Senses darkvision 120 ft., keen senses, scent; Perception +21
+DEFENSE
+AC 22, touch 12, flat-footed 20 (+2 Dex, +10 natural)
+hp 65 (9d10+18)
+Fort +8, Ref +8, Will +8
+DR 10/evil; Immune fear; SR 16
+OFFENSE
+Speed 50 ft., 30 ft. on 2 legs
+Melee bite +14 (1d8+4 plus trip)
+Special Attacks bay, shadow weave
+Spell-like Abilities (CL 12th):
+At will—detect evil, detect magic, see invisibility (all at will abilities always active)
+3/day—alter self, mirror image
+1/day—dancing lights, darkness, dispel magic (using this ability forces the moon dog back to its plane of origin), improved invisibility, light, nondetection, obscuring mist, shades
+STATISTICS
+Str 18, Dex 15, Con 15, Int 15, Wis 16, Cha 14
+Base Atk +9; CMB +13; CMD 25 (29 vs. trip)
+Feats Alertness, Combat Casting, Improved Initiative, Iron Will, Weapon Focus (bite)
+Skills Bluff +14, Diplomacy +11, Knowledge (arcana) +11, Knowledge (the planes) +14 , Perception +21, Sense Motive +17, Stealth +14, Survival +12 (+16 tracking by scent); Racial Modifiers +4 Perception, +4 Survival when tracking by scent
+Languages telepathy 100 ft. (does not speak)
+SQ plane shift
+SPECIAL ABILITIES
+Bay (Su) A moon dog can produce one of the following effects when it howls or barks. Each effect functions as the spell of the same name (caster level 12th). The save DCs are Charisma-based.
+Fear: All evil creatures within 80 feet must make a successful Will save or be affected as by a fear spell. This is a sonic, mind-affecting fear effect. If the save is successful, that creature cannot be affected by the fear effect of that moon dog’s bay for 24 hours. Dispel Evil: This effect works like the spell, and affects one evil extraplanar creature within 80 feet. Dismissal: This effect works as the spell, except that it targets one evil extraplanar creature. Keen Senses (Ex) Moon dogs can see twice as far as humans in low-light and normal light conditions.
+Lick (Su) By licking a target, a moon dog may use one of the following abilities: cure light wounds, delay poison, remove disease. Each is usable at will by the moon dog, but only once per day per recipient. Each is caster level 12th.
+Plane Shift (Su) A moon dog can enter the Ethereal Plane, Astral Plane, or Material Plane. This ability resembles the spell of the same name (caster level 12th).
+Shadow Weave (Su) When in shadows, a moon dog can move in such a way as to affect evil creatures within 60 feet as though by hypnotic pattern (DC 16 Will save, caster level 12th). Any good-aligned creature in the area of the shadow weave will be affected as though by protection from evil (caster level 12th). The shadow weave is a full-round action, and the moon dog must concentrate to maintain it.

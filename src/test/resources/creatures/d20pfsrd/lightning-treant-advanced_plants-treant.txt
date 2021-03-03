@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/treant/lightning-treant-advanced
+Advanced Lightning Treant [3pp]CR 11
+XP 12,800
+NE Huge plant
+Init +5; Senses low-light vision; Perception +20
+DEFENSE
+AC 24, touch 9, flat-footed 23 (+1 Dex, +15 natural, –2 size)
+hp 162 (12d8+108); fast healing 10
+Fort +17, Ref +7, Will +9
+Defensive Abilities electric healing; DR 10/slashing; Immune electricity, fire, plant traits
+OFFENSE
+Speed 40 ft.
+Melee 2 slams +21 (2d8+14)
+Space 15 ft.; Reach 15 ft.
+Special Attacks double damage against objects
+Spell-Like Abilities (CL 12th; concentration +14)
+Constant—greater magic fang (self only)
+At will—faerie fire
+3/day—call lightning storm (DC 17), lightning bolt (DC 15), protection from energy
+1/day—chain lightning (DC 18)
+TACTICS
+While many types of treants might make an effort to negotiate, or at least try to determine whether or not travelers might be hostile to whatever forest they are living in, lightning treants tend to simply attack first and, quite frankly, not question anything. Using their ability to call lightning storms, these creatures can be a true bane to travelers, especially those that do not recognize them at first.
+Lightning treants have an inherent hatred of all humanoids and attack them on sight. If there are more than one or two in a group the lightning treant starts combat with a chain lightning spell and then uses call lightning storm to have further lightning bolts ready; afterward, the lightning treant charges into combat, focusing first on anyone with an axe or other slashing weapon. If combat goes against it, it uses lightning bolt on its enemies, as well as using bolts called down with call lightning storm to heal itself or hurt its opponents.
+If a lightning treant can’t reach the PCs, it uses its spell-like abilities to attack from afar, making sure to catch other treants in the area of effect if it can to provide healing. Lightning treants fight to the death.
+STATISTICS
+Str 32, Dex 13, Con 28, Int 15, Wis 21, Cha 15
+Base Atk +9; CMB +22; CMD 33
+Feats Cleave, Greater Sunder, Improved Initiative, Improved Sunder, Lightning Reflexes, Power Attack
+Skills Knowledge (nature) +14, Perception +20, Stealth +8 (+24 in forests), Survival +17
+Languages Aklo
+SPECIAL ABILITIES
+Double Damage Against Objects (Ex) A lightning treant that makes a full attack against an object or structure deals double damage.
+Electric Healing (Ex) Electricity damage heals a lightning treant 1 point of damage for every 3 points it would otherwise deal. If the amount would cause the lightning treant to exceed its full normal hit points, it gains any excess as temporary hit points—these temporary hit points last for 2 hours.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/psychic-stalker
+Psychic Stalker CR 7
+XP 3,200
+NE Medium undead (incorporeal)
+Init +8; Senses darkvision 60 ft., thoughtsense 60 ft.; Perception +16
+Aura mental static (30 ft., DC 20)
+DEFENSE
+AC 20, touch 20, flat-footed 16 (+6 deflection, +4 Dex)
+hp 84 (8d8+48)
+Fort +8, Ref +6, Will +8
+Defensive Abilities channel resistance +2, incorporeal; Immune undead traits
+OFFENSE
+Speed fly 60 ft. (good)
+Melee incorporeal touch +10 (1d6 Charisma damage)
+Special Attacks fleeting possession
+STATISTICS
+Str —, Dex 18, Con —, Int 13, Wis 15, Cha 23
+Base Atk +6; CMB +10; CMD 26 (can’t be tripped)
+Feats Blind-Fight, Combat Reflexes, Improved Initiative, Skill Focus (Perception)
+Skills Fly +19, Intimidate +17, Perception +16, Sense Motive +13, Stealth +15
+Languages Common
+SQ formless
+SPECIAL ABILITIES
+Charisma Damage (Su) A psychic stalker’s touch deals 1d6 points of Charisma damage to a living creature. Each time a creature takes Charisma damage from a psychic stalker that would normally exceed the creature’s current Charisma score, the creature must make a successful DC 20 Fortitude saving throw or die. This is a negative energy effect. The save DC is Charisma-based.
+Fleeting Possession (Sp) As a standard action, a psychic stalker can enter an adjacent living creature’s body and begin to destroy its mind in a violent attempt to feel alive. The psychic stalker can initiate this process only on a creature that has taken an amount of Charisma damage equal to or greater than half the creature’s Charisma score.
+This effect functions as per possession (CL 8th; Will DC 20; the save DC is Charisma-based), but the target continues to take damage each round as if it had been struck by the psychic stalker’s touch attack. Psychic stalkers delight in possessing creatures immune to negative energy, since the stalkers don’t affect those creatures’ Charisma scores and can inhabit them indefinitely. A creature that successfully saves is immune to that psychic stalker’s possession for 24 hours.
+Formless (Ex) A psychic stalker has no visible form, but creatures that have taken Charisma damage from its attacks hallucinate a screaming skull within a ghostly haze, allowing them to damage the creature normally. It is treated as invisible to all other creatures, but as it has no true form or substance, effects like invisibility purge, see invisibility, and even faerie fire or glitterdust don’t negate this ability (though blindsight provided by thoughtsense can be used to locate a psychic stalker). The ability to hallucinate a psychic stalker and negate its concealment after taking Charisma damage is a mind-affecting effect.

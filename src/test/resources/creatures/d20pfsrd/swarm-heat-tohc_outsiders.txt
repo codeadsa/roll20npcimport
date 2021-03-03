@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/swarm-heat-tohc
+Heat Swarm CR 7
+XP 3,200
+N (E) Diminutive outsider (elemental, extraplanar, fire, swarm)
+Init +10; Senses darkvision 60 ft.; Perception +15; Aura fiery aura (20 ft., DC 16 Fort, 1d6 fire)
+DEFENSE
+AC 21, touch 21, flat-footed 14 (+6 Dex, +1 dodge, +4 size)
+hp 67 (9d10+18)
+Fort +7, Ref +12, Will +6
+DR 10/–; Immune fire, weapon damage, construct traits*, elemental traits, swarm traits
+Weaknesses swarm traits, vulnerability to cold
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee swarm (2d6 plus 2d6 fire and burn)
+Space 10 ft.; Reach 0 ft.
+Special Attacks burn (2d6, DC 16), distraction (DC 16)
+TACTICS
+Heat swarms are highly territorial and attack any creatures (other than their own kind) entering their domain. Several swarms often work together to drive away a common foe.
+A heat swarm attacks by moving on top of and engulfing its foe.
+STATISTICS
+Str 1, Dex 24, Con 14, Int 6, Wis 10, Cha 6
+Base Atk +9; CMB –; CMD —
+Feats Dodge, Great Fortitude, Improved Initiative, Skill Focus (Perception), Weapon Finesse
+Skills Fly +12, Knowledge (planes) +10, Perception +15, Sense Motive +12, Stealth +18, Survival +12
+SPECIAL ABILITIES
+Fiery Aura (Ex) Anyone within 20 feet of a heat swarm must succeed on a DC 16 Fortitude save or take 1d6 points of heat damage per round from the intense heat. The save DC is Constitution-based.
+*Editor’s Note
+The defensive abilities includes “construct traits”, but the creatures Type is “outsider”. GMs are encouraged to ignore the construct traits defensive ability entry.

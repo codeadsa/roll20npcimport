@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/azata-uinuja
+Uinuja CR 15
+XP 51,200
+CG Large outsider (azata, chaotic, extraplanar, good)
+Init +9; Senses darkvision 60 ft., see invisibility; Perception +27; Aura emotion (DC 24)
+DEFENSE
+AC 30, touch 19, flat-footed 25 (+5 deflection, +5 Dex, +11 natural, –1 size)
+hp 207 (18d10+108)
+Fort +12, Ref +16, Will +19
+DR 10/cold iron and evil; Immune electricity, petrification, sleep; Resist cold 10, fire 10; SR 26
+OFFENSE
+Speed 30 ft., fly 60 ft. (perfect)
+Melee +3 starknife +27/+22/+17/+12 (1d6+10/19–20/×3)
+Ranged +3 starknife +25 (1d6+10/19–20/×3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks psychic starknife
+Psychic Magic (CL 18th; concentration +23)
+24 PE—cure serious wounds (3 PE), dancing lights (0 PE), detect mindscape (2 PE), dream council (5 PE), etheric shards (5 PE, DC 20), greater create mindscape (6 PE), lesser restoration (2 PE), message (0 PE), mindscape door (3 PE), mindwipe (4 PE, DC 19), symbol of sleep (5 PE, DC 20), thought shield IV (5 PE)
+Spell-Like Abilities (CL 18th; concentration +23)
+Constant—see invisibility, shield of faith
+At will—deep slumber (DC 18), invisibility
+STATISTICS
+Str 24, Dex 21, Con 22, Int 17, Wis 22, Cha 21
+Base Atk +18; CMB +26; CMD 46
+Feats Critical Focus, Deadly Aim, Flyby Attack, Improved Critical (starknife), Improved Initiative, Iron Will, Power Attack, Spell Penetration, Tiring Critical
+Skills Bluff +26, Diplomacy +26, Fly +32, Knowledge (geography) +24, Knowledge (planes) +24, Knowledge (religion) +24, Perception +27, Sense Motive +27, Stealth +22
+Languages Celestial, Draconic, Infernal; truespeech
+SQ dreamwalker
+SPECIAL ABILITIES
+Dreamwalker (Su) An uinuja can travel between Elysium and the Dimension of Dreams at will, as per dream travel, except that it cannot enter any other planes or take other creatures with it.
+Psychic Starknife (Su) After being used in a ranged attack, an uinuja’s starknife turns into a spiritual weapon (caster level equal to the uinuja’s Hit Dice) and immediately makes a full attack against the same target. An uinuja can teleport its starknife back to its hand as a move action, which ends this effect.

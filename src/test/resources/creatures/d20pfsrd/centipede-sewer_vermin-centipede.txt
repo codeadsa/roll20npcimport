@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/centipede/centipede-sewer
+Sewer Centipede CR 1/4
+XP 100
+N Small vermin
+Init +3; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 16, touch 14, flat-footed 13 (+3 Dex, +2 natural, +1 Size)
+hp 4 (1d8)
+Fort +2, Ref +3, Will +0
+Immune mind-affecting effects
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee bite +4 (1d4–3 plus poison)
+Special Attacks poison
+STATISTICS
+Str 5, Dex 17, Con 10, Int —, Wis 10, Cha 2
+Base Atk +0; CMB –4; CMD 9 (can’t be tripped)
+Feats Weapon FinesseB
+Skills Climb +11, Perception +4, Stealth +15; Racial Modifiers +4 Perception, +8 Stealth
+SPECIAL ABILITIES
+Poison (EX) Bite—injury; save Fort DC 12; frequency 1/round for 6 rounds; effect 1d2 Dex damage; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.

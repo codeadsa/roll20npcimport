@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/autumn-death
+Autumn Death CR 8
+XP 4,800
+NE Medium undead
+Init +7; Senses darkvision 60 ft.; Perception +14; Aura frightful presence (30 ft., DC 18)
+DEFENSE
+AC 21, touch 13, flat-footed 18 (+4 armor, +3 Dex, +4 natural)
+hp 76 (9d8+36)
+Fort +7, Ref +6, Will +8
+Defensive Abilities concealment (25% miss chance); Immune acid, cold, undead traits
+Weaknesses Vulnerable to fire
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee 2 claws +7 (1d4+1)
+Ranged ray +10 touch (see spell)
+Space 5 ft.; Reach 5 ft.
+Special Attacks storm of leaves
+Spell-like Abilities (CL 9th)
+constant – detect good, mage armor
+1/day – enervation, waves of fatigue (DC 21)
+3/day – burst of leaves (DC 19), vampiric touch (+7 touch)
+At will – acid arrow, bleed (+7 touch), ray of enfeeblement STATISTICS
+Str 13, Dex 16, Con -, Int 9, Wis 14, Cha 19
+Base Atk +6; CMB +7; CMD 20 (can’t be tripped)
+Feats Flyby Attack, Hover, Improved Initiative, Weapon Focus (ray), Wingover
+Skills Fly +15, Perception +14, Stealth +15
+Languages Common
+SPECIAL ABILITIES
+Burst of Leaves (Sp) As a standard action, the autumn death can unleash an assault of leaves upon its foes. The autumn death points its bony finger to any point it can clearly see within long range and the leaves burst out extending in a 20 ft. radius. All creatures within the burst radius sustain 9d4 points of force damage (Reflex save for half damage). The damage is based on the number of HD the autumn death posses (maximum 10d4).
+Fear Aura (Su) An aura of fear radiates from the autumn death. Living creatures that fail a DC 19 Will save are frightened for 1d6 rounds. A successful save grants the living creature immunity to the autumn death’s fear aura for 24 hours.
+Storm of Leaves (Su) As a standard action, the autumn death can surround itself with a violent storm of whipping leaves that extends out in a 30 ft. radius. The leaves slice any living enemies within the area, dealing 4 points of damage every round (half of the autumn death’s hit dice). This damage cannot be stopped by armor but can be prevented with hardness, damage reduction or similar effects. Additionally, the leaves provide concealment (25% miss chance) for the autumn death. The autumn death can use this ability for 13 rounds per day. Once activated, the autumn death can keep this ability active as a free action. The duration of the storm of leaves is equal to the number of HD the autumn death possesses plus its Cha modifier.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/pseudodragon
+Pseudodragon CR 1
+XP 400
+NG Tiny dragon
+Init +2; Senses blindsense 60 ft., darkvision 60 ft., low-light vision; Perception +6
+
+DEFENSE
+AC 16, touch 14, flat-footed 14 (+2 Dex, +2 natural, +2 size)
+hp 15 (2d12+2)
+Fort +4, Ref +5, Will +4
+Immune paralysis, sleep; SR 12
+
+OFFENSE
+Speed 15 ft., fly 60 ft. (good)
+Melee sting +6 (1d3–2 plus poison), bite +6 (1d2–2)
+Space 2-1/2 ft.; Reach 0 ft. (5 ft. with tail)
+
+STATISTICS
+Str 7, Dex 15, Con 13, Int 10, Wis 12, Cha 10
+Base Atk +2; CMB +2; CMD 10 (14 vs. trip)
+Feats Weapon Finesse
+Skills Diplomacy +5, Fly +15, Perception +6, Sense Motive +6, Stealth +19 (+23 in forests), Survival +6; Racial Modifiers +4 Stealth (improves to +8 in forests)
+Languages Draconic; telepathy (60 ft.)
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 14; frequency 1/minute for 10 minutes; effect sleep for 1 minute; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.

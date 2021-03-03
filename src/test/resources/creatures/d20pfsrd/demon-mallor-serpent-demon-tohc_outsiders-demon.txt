@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-mallor-serpent-demon-tohc
+Serpent Demon (Mallor) CR 13
+XP 25,600
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +6; Senses darkvision 60 ft.; Perception +28
+DEFENSE
+AC 29, touch 16, flat-footed 27 (+2 Dex, +13 natural, –1 size, +5 profane)
+hp 217 (14d10+140)
+Fort +21, Ref +11, Will +7
+DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 24
+OFFENSE
+Speed 40 ft.,
+Melee +1 anarchic longspear +22/+17/+12 (2d6+13/x3 plus poison) or 2 claws +21 (1d6+8 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks fear gaze, foul liquids
+Spell-Like Abilities (CL 12th)
+At will—burning hands (DC 16), greater dispel magic, greater teleport (self plus 50 pounds of objects only), unholy aura (DC 23)
+3/day—touch of idiocy
+1/day—scorching ray (3 rays), summon (level 9, 1d4 hezrous or vrocks, or 1 mallor 35%), summon (level 9, 1d6 Large fiendish vipers or 1d3 Huge fiendish vipers 50%)
+TACTICS
+A mallor is a straightforward combatant in battle and charges directly at its opponents. Normally, it opens battle with burning hands and/or its fear gaze in hopes of affecting as many targets as possible. The mallor then attempts to move to melee range and touch the nearest spellcaster while using its touch of idiocy. Multiple mallors work in concert with one another; one often drawing the fire away from the others so they can charge in with their massive spears.
+STATISTICS
+Str 27, Dex 15, Con 30, Int 16, Wis 16, Cha 20
+Base Atk +14; CMB +23; CMD 40 (can’t be tripped)
+Feats Blind-Fight, DeceitfulB, Cleave, Great Cleave, Great Fortitude, Improved Initiative, Improved Sunder, Power Attack
+Skills Bluff +26, Climb +25, Diplomacy +22, Disguise +7, Intimidate +22, Knowledge (planes) +20, Perception +28, Sense Motive +20, Stealth +15, Survival +20; Racial Modifiers +8 Perception
+Languages Abyssal, Common, plus any three; telepathy 100 ft.
+SQ poison use
+Gear +1 anarchic longspear
+SPECIAL ABILITIES
+Fear Gaze (Su) The infernal eyes of a mallor weaken the resolve of opponents peering into them. Creatures meeting its gaze must make a successful DC 22 Will save or flee in fear for 1d6 rounds. On a successful save, that opponent is immune to the fear gaze of that mallor for one day. The save DC is Charisma-based.
+Foul Liquid (Su) All liquids within 100 feet of a mallor automatically foul and become unsuitable for consumption or inhabitation (no save). Magical liquids in the area receive a DC 27 Fortitude save to avoid the effects. Creatures drinking fouled water must make a successful DC 27 Fortitude save or become nauseated for 1 minute. Aquatic creatures (or those that can breathe water) swimming in fouled water must make a Constitution check (DC 10, +1 per previous check) each round they remain in the area or begin suffocating.
+A mallor can foul up to 20 gallons of liquid a day using this ability. Sentient- or liquid-based creatures (such as water elementals) must make a successful DC 27 Fortitude save or take 1d8 points of Constitution damage each hour they remain in the area. At Constitution 0, the creature’s liquid structure fouls and it dies. The save DCs are Constitution-based. A mallor can suppress or resume this ability at will as a free action.
+Poison (Ex) Claw—injury; save Fort DC 27; frequency 1/round for 6 rounds; effect 1d6 Strength; cure 2 consecutive saves. The save DC is Constitution-based.

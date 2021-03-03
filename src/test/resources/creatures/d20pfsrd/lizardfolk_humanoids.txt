@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lizardfolk
+Lizardfolk CR 1
+XP 400
+N Medium humanoid (reptilian)
+Init +0; Senses Perception +1
+DEFENSE
+AC 17, touch 10, flat-footed 17 (+5 natural, +2 shield)
+hp 11 (2d8+2)
+Fort +4, Ref +0, Will +0
+OFFENSE
+Speed 30 ft., swim 15 ft.
+Melee morningstar +2 (1d8+1), bite +0 (1d4), or claw +2 (1d4+1), bite +2 (1d4+1)
+Ranged javelin +1 (1d6+1)
+STATISTICS
+Str 13, Dex 10, Con 13, Int 9, Wis 10, Cha 10
+Base Atk +1; CMB +2; CMD 12
+Feats Multiattack
+Skills Acrobatics +2, Perception +1, Swim +8; Racial Modifiers +4 Acrobatics
+Languages Draconic
+SQ hold breath
+SPECIAL ABILITIES
+Hold Breath (Ex) A lizardfolk can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning.
+Examples
+Whisperscale Chief (Terror Lizardfolk Ranger 3; (CR 4)
+Whisperscale Hunter (Terror Lizardfolk; (CR 1) Image used by permission of Purple Duck Games.

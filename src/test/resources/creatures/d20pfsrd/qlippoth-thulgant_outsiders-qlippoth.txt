@@ -1,0 +1,40 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-thulgant
+Thulgant CR 18
+XP 153,600
+CE Large outsider (chaotic, evil, extraplanar, qlippoth)
+Init +12; Senses darkvision 60 ft., true seeing; Perception +31
+
+Aura cloak of chaos (DC 25)
+DEFENSE
+AC 33, touch 25, flat-footed 21 (+4 deflection, +12 Dex, +8 natural, –1 size)
+hp 290 (20d10+180); fast healing 10
+Fort +25, Ref +30, Will +18
+Defensive Abilities displacement, evasion, freedom of movement; DR 15/cold iron and lawful; Immune acid, cold, poison, mind-affecting effects; Resist electricity 10, fire 10; SR 25 vs. lawful spells and Creatures
+OFFENSE
+Speed 40 ft., climb 40 ft., fly 60 ft. (good)
+Melee 3 stings +27 (1d6+8/19–20 plus ability drain), 5 tentacles +22 (1d6+4 plus 2d6 acid)
+Space 10 ft.; Reach 10 ft.
+Special Attacks horrific appearance (DC 27), savage stingers
+Spell-Like Abilities (CL 18th; concentration +25)
+Constant—cloak of chaos (DC 25), displacement, freedom of movement, true seeing
+At will—dimension door, greater dispel magic, telekinesis (DC 22)
+3/day—quickened dimension door, flesh to stone (DC 23), word of chaos (DC 24)
+1/day—binding (DC 25), plane shift (DC 24), telekinetic sphere (DC 25), temporal stasis (DC 25)
+STATISTICS
+Str 26, Dex 34, Con 29, Int 24, Wis 27, Cha 25
+Base Atk +20; CMB +29; CMD 55 (71 vs. trip)
+Feats Combat Expertise, Combat Reflexes, Critical Focus, Greater Vital Strike, Improved Critical (sting), Improved Vital Strike, Lightning Reflexes, Quicken Spell-Like Ability (dimension door), Staggering Critical, Vital Strike
+Skills Acrobatics +35 (+39 jump), Bluff +30, Climb +36, Fly +33, Intimidate +27, Knowledge (arcana) +27, Knowledge (history) +30, Knowledge (planes) +30, Perception +31, Sense Motive +31, Spellcraft +27, Stealth +31, Use Magic Device +30
+Languages Abyssal; telepathy 100 ft.
+SQ demon hunter
+SPECIAL ABILITIES
+Ability Drain (Su)
+A thulgant’s stingers each drain a different ability score on a hit. One stinger drains 1d4 points of Strength, another drains 1d4 points of Dexterity, and the third drains 1d4 points of Charisma. Any sting’s drain is negated by a DC 29 Fortitude save. The save DC is Constitution-based.
+Demon Hunter (Ex)
+A thulgant gains a +10 racial bonus on caster level checks to penetrate the spell resistance of any demon. Its attacks are treated as cold iron and good against demons.
+Horrific Appearance (Su)
+Creatures that succumb to a thulgant’s horrific appearance are stunned for 1d4 rounds and take 1d6 points of Wisdom damage.
+Savage Stingers (Ex)
+If a thulgant hits a single target with all three stings in the same round, it tears through the victim’s body, dealing an extra 3d6+12 points of damage and draining an additional 2 ability points from all six of the victim’s ability scores. A single DC 29 Fortitude save negates all of this additional ability drain. The save DC is Constitution-based.
+
+

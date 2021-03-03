@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-piranha-mature
+Piranha, Mature CR 1
+XP 400
+N Small animal (aquatic)
+Init +5; Senses low-light vision, scent; Perception +7
+DEFENSE
+AC 14, touch 12, flat-footed 13 (+1 Dex, +2 natural, +1 size)
+hp 13 (3d8)
+Fort +3, Ref +5, Will +2
+OFFENSE
+Speed swim 40 ft.
+Melee +1 (1d4-1 plus 1 Con bleed)
+STATISTICS
+Str 9, Dex 14, Con 10, Int 1, Wis 12, Cha 5
+Base Atk +2; CMB +0; CMD 12
+Feats Alertness, Improved Initiative
+Skills Perception +7; Racial Swim +8
+SPECIAL ABILITIES
+Scent (Ex) A piranha can smell a warm-blooded creature in the water up to 100 ft. away and fresh blood in the water up to 300 ft. away.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/barbed
+Barbed Devil (Hamatula) CR 11
+XP 12,800
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +6; Senses darkvision 60 ft., see in darkness; Perception +21
+DEFENSE
+AC 26, touch 16, flat-footed 20 (+6 Dex, +10 natural)
+hp 138 (12d10+72)
+Fort +14, Ref +14, Will +8
+Defensive Abilities barbed defense; DR 10/good; Immune fire, poison; Resist acid 10, cold 10; SR 22
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +18 (2d8+6/19–20 plus fear and grab)
+Special Attacks fear, impale 3d8+9
+Spell-Like Abilities (CL 12th)
+At will— greater teleport (self plus 50 lbs. of objects only), hold person (DC 17), major image (DC 17), produce flame, pyrotechnics (DC 16), scorching ray (2 rays only) 1/day— order’s wrath (DC 18), summon (level 4, 1 barbed devil 35%), unholy blight (DC 18) STATISTICS
+Str 23, Dex 23, Con 22, Int 12, Wis 15, Cha 18
+Base Atk +12; CMB +18 (+22 grapple); CMD 34
+Feats Alertness, Cleave, Combat Reflexes, Improved Critical (claws), Iron Will, Power Attack
+Skills Acrobatics +15, Diplomacy +13, Intimidate +19, Knowledge (planes) +16, Perception +21, Sense Motive +21,Spellcraft +12, Stealth +13, Survival +14
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Barbed Defense (Su) A creature that strikes a hamatula with a melee weapon, an unarmed strike, or a natural weapon takes 1d8+6 points of piercing damage from the devil’s barbs. Melee weapons with reach do not endanger a user in this way.
+Fear (Su) A barbed devil’s fear attack affects any creature it damages with its claws. A DC 20 Will save resists this effect, otherwise the victim becomes frightened for 1d4 rounds. This is a mind-affecting fear effect. The save DC is Charisma-based.
+Grab (Ex) A barbed devil can use its grab attack against a foe up to Medium size
+Impale (Ex) A barbed devil deals 3d8+9 points of piercing damage to a grabbed opponent with a successful grapple check.

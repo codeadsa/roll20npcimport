@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/nightshade/nightskitter
+Nightskitter CR 12
+XP 19,200
+CE Huge undead (extraplanar, nightshade)
+Init +5; Senses darksense 30 ft., darkvision 60 ft., low-light vision, detect magic; Perception +22; Aura desecrating aura (30 ft., DC 21)
+DEFENSE
+AC 28, touch 14, flat-footed 22 (+5 Dex, +1 dodge, +14 natural, –2 size)
+hp 157 (15d8+90)
+Fort +11, Ref +14, Will +15
+DR 15/good and silver; Immune cold, undead traits; SR 23
+Weaknesses light aversion
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee bite +21 (4d8+16/19–20 plus 4d6 cold and poison)
+Space 15 ft.; Reach 15 ft.
+Special Attacks channel negative energy 9/day (DC 26, 6d6), umbral web
+Spell-Like Abilities (CL 12th; concentration +16)
+Constant—detect magic, magic fang
+At will—deeper darkness, unholy blight (DC 18)
+3/day—contagion (DC 18), greater dispel magic, invisibility
+1/day—air walk, cone of cold (DC 19), haste, hold monster (DC 19), plane shift (DC 21), summon (level 5, 1 greater shadow)
+STATISTICS
+Str 28, Dex 21, Con —, Int 16, Wis 19, Cha 19
+Base Atk +11; CMB +22; CMD 38 (50 vs. trip)
+Feats Combat Reflexes, Command Undead, Dodge, Improved Critical (bite), Lightning Reflexes, Mobility, Power Attack, Spring Attack
+Skills Acrobatics +20, Climb +35, Knowledge (arcana) +21, Knowledge (religion) +21, Perception +22, Spellcraft +21 (+29 in dim light and darkness), Stealth +15; Racial Modifiers +8 Spellcraft in dim light and darkness
+Languages Abyssal, Common, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Nightshade traits All nightshades radiate a 30-foot desecrate aura (as per the spell), can channel energy, possess true seeing and deathwatch in areas of dim light or darkness, and are effectively sickened in areas of bright light (double penalty in sunlight).
+Poison (Su) Bite—injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d4 Charisma damage and 2d6 cold damage; cure 2 consecutive saves. The save DC is Charisma-based.
+Umbral Web (Su) A nightskitter can weave semisolid webs out of shadowstuff. These webs are not strong enough to bear any but the lightest weight. A nightskitter can use these umbral webs in two different ways, as detailed below.
+Attacking: Up to eight times per day, a nightskitter can hurl a mass of umbral webs at a target. This is similar to an attack with a net but has a maximum range of 100 feet, with a range increment of 10 feet, and is effective against targets up to one size category larger than the nightskitter. An entangled creature gains 1d4 temporary negative levels while entangled, and can attempt to escape with a successful DC 28 Escape Artist check, or may try to burst the web with a DC 28 Strength check. The negative levels granted by an umbral web vanish as soon as the entangled character escapes from the web. Multiple umbral webs can entangle a single foe—the DCs to escape do not increase, but the temporary negative levels they cause stack. A creature that gains a total number of negative levels equal to its Hit Dice is immediately slain.
+Warding: By encasing all surfaces of an enclosed area, such as a cavern or a room, with thick layers of umbral webs, a nightskitter can infuse that area with necromantic energy. A chamber warded by umbral webs is treated as if under the effects of an unhallow spell with a deeper darkness spell fixed to the effect. A single nightskitter can maintain one such infused area at a time, to a maximum size of one 20-foot cube per Hit Die possessed by the nightskitter. Maintaining an umbral web ward does not limit its use of these webs to attack.

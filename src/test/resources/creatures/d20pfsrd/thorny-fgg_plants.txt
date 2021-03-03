@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/thorny-fgg
+Thorny CR 3
+XP 800
+N Medium plant
+Init +2; Senses low-light vision; Perception +13
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 26 (4d8+8)
+Fort +6, Ref +3, Will +2
+Immune plant traits
+OFFENSE
+Speed 50 ft.
+Melee bite +5 (1d6+3 plus trip)
+Special Attacks thorns
+STATISTICS
+Str 14, Dex 15, Con 14, Int 2, Wis 12, Cha 6
+Base Atk +3; CMB +5; CMD 17
+Feats Combat Reflexes, Skill Focus (Perception)
+Skills Perception +13, Stealth +11 (+19 in swampy or forested areas); Racial Modifiers +4 Perception and Stealth (+12 Stealth in swampy or forested areas)
+SPECIAL ABILITIES
+Thorns (Ex) A thorny’s body is covered with sharp wooden thorns. Any creature attacking a thorny with a non-reach melee weapon or with natural attacks takes 1d4+2 points of piercing damage from the thorny’s sharp thorns. A creature that grapples with a thorny takes this same damage each round.

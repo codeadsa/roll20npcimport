@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-magma
+Magma Dragon
+CN dragon (extraplanar, fire)
+BASE STATISTICS
+CR 4; Size Tiny; Hit Dice 5d12
+Speed 40 ft.
+Natural Armor +4; Breath Weapon cone, 2d6 fire
+Str 13, Dex 16, Con 13, Int 12, Wis 12, Cha 11
+SPECIAL ABILITIES
+Magma Tomb (Su) Once per day, a great wyrm magma dragon can spit lava onto a target within 120 feet, dealing damage normally for its breath weapon. This magma cools instantly—it does not continue doing damage at this point but does entrap the victim (DC equals the dragon’s breath weapon save DC, 3d6 minutes, hardness 8, hp 45).
+Magma Breath (Su) Three times per day, an ancient or older magma dragon can breathe a cone of lava instead of fire. The damage is unchanged, but the magma clings to those it damages, dealing half damage each round thereafter for 1d3 rounds. After this magma cools, it crumbles to dust.
+Spell-like Abilities (Sp) A magma dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) upon reaching the listed age category.
+Very young—burning hands Juvenile—scorching ray Adult—wall of fire Old—fire shield (warm shield, constant) Ancient—delayed blast fireball (3/day) Great wyrm—wall of lava* (1/day) * This spell is from the Pathfinder RPG Advanced Player’s Guide. Superheated (Su) At young age and older, a magma dragon’s bite attack deals additional fire damage equal to its age category.
+Age Category Special Abilities Caster Level
+Wyrmling Immune to fire, vulnerable to cold —
+Very Young Burning hands —
+Young Superheated 1st
+Juvenile Scorching ray 3rd
+Young Adult DR 5/magic, spell resistance 5th
+Adult Frightful presence, wall of fire 7th
+Mature Adult DR 10/magic 9th
+Old Fire shield 11th
+Very Old DR 15/magic 13th
+Ancient Magma breath, delayed blast fireball 15th
+Wyrm DR 20/magic 17th
+Great Wyrm Magma tomb, wall of lava* 19th

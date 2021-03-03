@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/cerberus
+Cerberus CR 23
+XP 819,200
+NE Huge magical beast (evil, extraplanar)
+Init +11; Senses darkvision 120 ft., low-light vision, scent; Perception +45
+DEFENSE
+AC 40, touch 16, flat-footed 32 (+7 Dex, +1 dodge, +24 natural, –2 size)
+hp 465 (30d10+300); regeneration 10 (good)
+Fort +27; Ref +24; Will +20
+Defensive Abilities immovable; DR 15/epic and good; Immune death effects, disintegration; Resist acid 10, cold 10, electricity 10, fire 10; SR 34
+OFFENSE
+Speed 60 ft.
+Melee 3 bites +42 (4d10+13/19–20)
+Space 15 ft.; Reach 15 ft.
+Special Attacks breath weapon, howl, petrifying gaze
+STATISTICS
+Str 36, Dex 24, Con 31, Int 25, Wis 26, Cha 24
+Base Atk +30; CMB +45; CMD 63
+Feats Alertness, Blind-Fight, Cleave, Critical Focus, Dodge, Great Cleave, Improved Critical (bite), Improved Initiative, Intimidating Prowess, Iron Will, Mobility, Power Attack, Spring Attack, Vital Strike, Weapon Focus (bite)
+Skills Acrobatics +40 (+52 jumping), Climb +46, Intimidate +50, Knowledge (planes) +37, Knowledge (religion) +37, Perception +45, Sense Motive +42 Stealth +32, Survival +38 (+46 when tracking by scent); Racial Modifiers +8 Survival when tracking by scent
+Languages Abyssal, Auran, Celestial, Common, Draconic, Giant, Ignan, and Infernal
+SPECIAL ABILITIES
+Breath Weapon (Su) As a standard action, once every 1d4 rounds, from his center head, Cerberus can spit a stream of poison to a range of 30 feet. Poison—contact; save Fort DC 35; onset immediate and 1minute; initial effect 2d8 Con; secondary effect 2d8 Con; cure 2 saves. The save DC is Constitution-based.
+Howl (Su) Any living creature within 600 feet that hears Cerberus’s howl must succeed on a DC 32 Will save or become panicked for 2d4 rounds. Whether or not the save is successful, an affected creature is immune to Cerberus’s howl for 24 hours. The save DC is Charisma-based.
+Petrifying Gaze (Su) A creature meeting the gaze of all three heads must make a successful DC 35 Fortitude save or be turned to stone permanently. The save DC is Constitution-based.
+Immovable (Ex) Cerberus is immune to any extraordinary, spell-like, or supernatural effect or spell that would teleport him or move him from his current location. Only major deities can affect him with such magic.
+Immunities (Ex) Cerberus is immune to death effects (such as slay living, finger of death, and so on) and disintegration.
+Regeneration (Ex) Cerberus takes normal damage from good-aligned magic weapons, and from spells and effects with the good descriptor.

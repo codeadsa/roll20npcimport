@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/skunk-tohc
+Skunk CR 1/8
+XP 50
+N Tiny animal
+Init +1; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 13, touch 13, flat-footed 12 (+1 Dex, +2 size)
+hp 4 (1d8)
+Fort +2, Ref +3, Will +1
+OFFENSE
+Speed 30 ft.
+Melee bite +3 (1d3–4)
+Special Attacks musk
+STATISTICS
+Str 2, Dex 13, Con 10, Int 2, Wis 13, Cha 2
+Base Atk +0; CMB –1; CMD 5 (9 vs. trip)
+Feats Skill Focus (Perception), Weapon FinesseB
+Skills Perception +8, Stealth +9
+SPECIAL ABILITIES
+Musk (Ex) Once per round, and no more than 5 times per day, a skunk can release a cloud of stinking musk that quickly fills a 5-foot area in front of it. A creature within or entering the area must succeed on a DC 10 Fortitude save or be sickened for 1d4 rounds. One round later a second Fortitude save must be made (whether the first one succeeded or not) or the affected creature is blinded for 1d4 rounds. The save DCs are Constitution-based. A delay poison or neutralize poison spell removes the effect from the sickened creature, but does not remove the blindness.
+Creatures immune to poison are unaffected by the sickened effect but can still be blinded if they fail their save, and creatures resistant to poison receive their normal bonus on both saving throws. The stench is highly potent, and short of magical means of cleaning, all cloth and such material continue to reek for 1d6 months. The odor is so strong that it doubles all chances for random encounters and imposes a –6 penalty on Stealth checks attempted while wearing clothing contaminated with a skunk’s musk. Flesh, leather goods, metal goods (weapons, armor, and the like) must be washed in a concentrated mixture of vinegar over period of 1d3 days. Otherwise, the stench clings for at least one week, imposing the same modifiers to random encounters and Stealth checks.

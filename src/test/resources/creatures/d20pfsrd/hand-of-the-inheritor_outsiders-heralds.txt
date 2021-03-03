@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/hand-of-the-inheritor
+Hand Of The Inheritor CR 15
+XP 51,200
+LG Large outsider (angel, extraplanar, good, herald, lawful)
+Init +9; Senses darkvision 60 ft., low-light vision; Perception +28; Aura courage, protective aura (20 ft.)
+DEFENSE
+AC 32, touch 14, flat-footed 27 (+5 Dex, +14 natural, +4 shield, –1 size; +4 deflection vs. evil)
+hp 207 (18d10+108); regeneration 10 (evil effects or weapons)
+Fort +17, Ref +16, Will +13; +4 vs. poison, +4 resistance vs. evil
+DR 10/evil; Immune acid, cold, fear, petrification; Resist electricity 10, fire 10; SR 26
+OFFENSE
+Speed 50 ft., fly 150 ft. (good)
+Melee +2 holy longsword +23/+18/+13/+8 (2d6+9/19–20), +2/+2 heavy steel shield +27 (1d6+5 plus bull rush)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 18th; concentration +24)
+At will—aid, detect evil, dispel magic, lesser restoration, magic weapon, plane shift (DC 23), remove fear
+3/day—bull’s strength, burst of glory*, cure moderate wounds, flame strike (DC 21), holy smite (DC 20), mark of justice (DC 21), order’s wrath (DC 20), power word stun, prayer, raise dead, resist energy, see invisibility
+1/day—blade barrier (DC 22), death ward, dispel evil (DC 21), greater magic weapon, greater restoration, heal
+STATISTICS
+Str 25, Dex 21, Con 22, Int 22, Wis 24, Cha 23
+Base Atk +18; CMB +26; CMD 41
+Feats Cleave, Improved Initiative, Improved Shield Bash, Power Attack, Shield Master, Shield Slam, Two-Weapon Fighting, Weapon Focus (longsword), Weapon Focus (heavy shield)
+Skills Craft (weapons) +27, Diplomacy +15, Fly +6, Heal +16, Intimidate +27, Knowledge (arcana) +24, Knowledge (history) +24, Knowledge (nobility) +27, Knowledge (planes) +27, Knowledge (religion) +27, Perception +28, Sense Motive +28, Spellcraft +27, Swim +24
+Languages Celestial, Common, Draconic, Infernal; truespeech
+SQ divine trigger, lay on hands (15/day, 9d6 hit points, as an 18th-level paladin)
+SPECIAL ABILITIES
+Aura of Courage (Su) The Hand of the Inheritor radiates an aura of courage identical to that of an 18th-level paladin.
+Divine Trigger (Su) The Hand of the Inheritor can activate any paladin spell from a spell trigger item as if he were an 18thlevel paladin.
+Protective Aura (Su) Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the angel. Otherwise, it functions as a magic circle against evil effect and a lesser globe of invulnerability, both with a radius of 20 feet (caster level equals angel’s HD). The defensive benefits from the circle are not included in an angel’s statistics block.
+Truespeech (Su) The Hand of the Inheritor can speak with any creature that has a language, as though using a tongues spell (caster level equal to angel’s Hit Dice). This ability is always active.

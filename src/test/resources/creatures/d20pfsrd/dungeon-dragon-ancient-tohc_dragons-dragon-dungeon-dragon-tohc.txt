@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dungeon-dragon-tohc/dungeon-dragon-ancient-tohc
+Ancient Dungeon Dragon CR 14
+XP 38,400
+N Huge dragon (shapechanger)
+Init +3; Senses dragon senses; Perception +35; Aura frightful presence (300 ft., DC 23)
+DEFENSE
+AC 35, touch 7, flat-footed 35 (–1 Dex, +28 natural, –2 size)
+hp 218 (19d12+95)
+Fort +16; Ref +10; Will +18
+DR 15/magic; Immune enchantment spells and effects, paralysis, sleep; SR 25
+OFFENSE
+Speed 30 ft., fly 200 ft. (poor)
+Melee bite +28 (2d8+16), 2 claws +28 (2d6+11), 2 wings +26 (1d8+5), tail slap +26 (2d6+16)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (100 ft. line or 50 ft. cone, DC 25, confusion 1d6 rounds), crush
+Spell-like Abilities (CL 19th):
+At-will—charm person (DC 15), charm monster (DC 18), detect thoughts (DC 16), mass suggestion (DC 20), suggestion (DC 17)
+Sorcerer Spells Known (CL 14th)
+7th (3/day)—mass hold person (DC 21)
+6th (5/day)—antimagic field, greater dispel magic
+5th (6/day)—persistent image, prying eyes, teleport
+4th (7/day)—arcane eye, detect scrying, illusory wall (DC 18), lesser globe of invulnerability
+3rd (7/day)—arcane sight, deep slumber (DC 17), dispel magic, major image (DC 17)
+2nd (7/day)—arcane lock, magic mouth (DC 16), make whole, phantom trap, see invisibility
+1st (7/day)—alarm, hold portal, shield, silent image (DC 15), ventriloquism
+0th (at will)—dancing lights, daze (DC 14), detect magic, ghost sound (DC 14), light, mending, message, prestidigitation, read magic
+STATISTICS
+Str 33, Dex 9, Con 20, Int 20, Wis 20, Cha 18
+Base Atk +19; CMB +32; CMD 41 (45 vs. trip)
+Feats Alertness, Craft Wondrous Item B, Flyby Attack, Hover, Improved Initiative, Iron Will, Master Craftsman B, Multiattack, Skill Focus (Bluff), Persuasive, Skill Focus (Craft [crystal carving]), Skill Focus (Knowledge [engineering])
+Skills Bluff +32, Craft (crystal carving) +24, Craft (traps) +17, Diplomacy +21, Disable Device +14, Fly +13, Intimidate +6, Knowledge (arcana) +27, Knowledge (dungeoneering) +27, Knowledge (engineering) +33, Linguistics +27, Perception +35, Sense Motive +31, Spellcraft +27; Racial Modifiers +4 Perception
+Languages 24 languages (except Druidic), plus Common and Draconic
+SQ change shape (alter self), craft crystal ball
+SPECIAL ABILITIES
+Breath Weapon (Su) A dungeon dragon’s breath weapon is a line or cone of warm mist. Creatures caught in the area must succeed on Fortitude save or be affected as if by a confusion spell for 1d6 rounds.
+Change Shape (Su) At will, a very young or older dungeon dragon can assume the form of any Small or Medium humanoid creature (as the alter self spell). It can remain in its humanoid form indefinitely. It cannot take the form of a specific individual.
+Craft Crystal Ball (Ex) Dungeon dragon parents begin teaching their wyrmlings the necessary skills and spells to craft a crystal ball soon after they leave the egg. A dungeon dragon gains the Master Craftsman feat for free as a bonus feat without having to meet the prerequisites.
+Craft Wondrous Item (Ex) Older dungeon dragons create new crystal balls with additional powers as they grow in intelligence and spellcasting ability. A young adult dungeon dragon gains the Craft Wondrous Item feat for free as a bonus feat.

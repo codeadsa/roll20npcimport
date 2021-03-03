@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/linnorm/fafnheir
+The Father of All Linnorms CR 24
+XP 1,228,800
+CE Colossal dragon
+Init +14; Senses darkvision 60 ft., low-light vision, scent, true seeing; Perception +46
+DEFENSE
+AC 42, touch 12, flat-footed 32 (+10 Dex, +30 natural, –8 size)
+hp 526 (27d12+351)
+Fort +28, Ref +25, Will +23
+Defensive Abilities freedom of movement; DR 20/cold iron and epic; Immune curse effects, dragon traits, electricity, fire, mind-affecting effects, paralysis, poison, sleep; SR 35
+OFFENSE
+Speed 50 ft., burrow 30 ft., fly 100 ft. (average), swim 50 ft.
+Melee bite +36 (6d6+17/19–20 plus poison), 2 claws +36 (2d8+17/19–20), gore +36 (4d6+17/19–20), tail slap +31 (4d6+8 plus grab)
+Space 30 ft.; Reach 30 ft.
+Special Attacks breath weapon, constrict (tail, 4d6+8), death curse
+Spell-Like Abilities (CL 20th; concentration +29)
+At will—greater dispel magic
+3/day—quickened greater dispel magic, limited wish, plane shift, spell turning, wall of force
+STATISTICS
+Str 45, Dex 30, Con 36, Int 18, Wis 27, Cha 29
+Base Atk +27; CMB +52 (+56 grapple); CMD 72 (can’t be tripped)
+Feats Awesome Blow, Combat Reflexes, Critical Focus, Greater Vital Strike, Improved Bull Rush, Improved Critical (bite), Improved Critical (claws), Improved Critical (gore), Improved Initiative, Improved Vital Strike, Power Attack, Quicken Spell-Like Ability (greater dispel magic), Staggering Critical, Vital Strike
+Skills Fly +32, Intimidate +39, Knowledge (arcana) +34, Knowledge (geography) +34, Knowledge (history) +34, Knowledge (nature) +34, Perception +46, Stealth +24, Swim +55, Use Magic Device +39; Racial Modifiers +8 Perception
+Languages Aklo, Common, Draconic, Skald, Sylvan
+SPECIAL ABILITIES
+Breath Weapon (Su) Once every 1d4 rounds as a standard action, the Father of All Linnorms can breathe a 90-foot cone of burning wind, dealing 26d10 points of fire damage to all creatures in the area of effect. A DC 36 Reflex save halves the fire damage dealt. The save DC is Constitution-based.
+This wind has two additional effects as well:
+Deafening: Any creature in the area of effect that does not succeed at a DC 36 Fortitude save is deafened by the thunderous wind. Storm-Laced: The closest creature in the area of effect is also blasted by a bolt of lightning and takes 20d6 points of electricity damage in addition to the fire damage dealt. This creature can make a second DC 36 Reflex save to halve this electricity damage. Tornado Force: The winds themselves gust at nearly 300 miles per hour, affecting all creatures in the area of effect as if they were caught in tornado-force winds. The wind lasts only a few moments during his action, so it has no real effect on ranged attacks, but it blows away any Large or smaller creature (or Huge or smaller flying creature) that fails a DC 15 Strength check. Death Curse (Su) The Father of All Linnorms is a difficult creature to slay, especially since he lives on in the body of any creature that slays him. When a creature slays him, it becomes afflicted by the Curse of the Father.
+Curse of The Father: save Will DC 32; effect creature’s sense of self erodes as its personality is slowly replaced by his—this manifests as 1d6 points of Charisma drain every 24 hours. A target whose Charisma drops to 0 becomes comatose and must immediately make a DC 32 Fortitude save or die; every 24 hours that passes thereafter, the victim must make a new Fortitude save to avoid death (unless its Charisma score rises above 0, at which point it takes 1d6 points of Charisma drain). If a creature dies from the effects of this curse, its body explodes in a 60-foot burst of burning wind, with effects identical to his breath weapon. This effect occurs if the cursed victim dies from any effect, not just from the curse. One round later, the Father of All Linnorms gains the effect of a true resurrection spell, appearing at the same spot where the cursed victim died (or the closest area large enough to contain the Colossal creature), with full memories of the cursed victim’s doings and accomplishments while cursed. The only way to permanently slay him is to avoid becoming cursed after killing him, or to remove the curse before the victim dies. The effects of this curse end prematurely and immediately if restored to life by other means. The save DC is Charisma-based.
+Freedom of Movement (Ex) The Father of All Linnorms is under the constant effect of freedom of movement, as the spell of the same name. This effect cannot be dispelled.
+Poison (Su) Bite—injury; save Fort DC 34; frequency 1/round for 10 rounds; effect 10d6 fire damage and 1d4 drain from each ability score; cure 3 consecutive saves. The save DC is Constitution-based.
+True Seeing (Ex) The Father of All Linnorms has true seeing, as the spell of the same name. This effect cannot be dispelled.

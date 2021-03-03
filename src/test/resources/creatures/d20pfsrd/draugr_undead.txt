@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/draugr
+Draugr CR 2
+XP 600
+CE Medium undead (water)
+Init +0; Senses darkvision 60 ft., Perception +6
+DEFENSE
+AC 14, touch 10, flat-footed 14 (+2 armor, +2 natural)
+hp 19 (3d8+6)
+Fort +2, Ref +1, Will +3
+DR 5/bludgeoning or slashing; Immune undead traits; Resist fire 10
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee greataxe +5 (1d12+4/×3 plus nausea) or slam +5 (1d10+4 plus nausea)
+STATISTICS
+Str 17, Dex 10, Con —, Int 8, Wis 10, Cha 13
+Base Atk +2; CMB +5; CMD 15
+Feats Power Attack, Toughness
+Skills Climb +9, Perception +6, Stealth +6, Swim +11; Racial Modifiers +8 Swim
+Languages Common (cannot speak)
+SPECIAL ABILITIES
+Nausea (Su) A creature that is damaged by a draugr must make a DC 12 Fortitude save or be nauseated for 1 round. The save DC is Charisma-based.

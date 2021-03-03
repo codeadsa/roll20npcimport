@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-white/young-white-dragon
+Young White Dragon CR 6
+XP 2,400
+CE Medium dragon (cold)
+Init +6; Senses dragon senses, snow vision; Perception +12
+DEFENSES
+AC 20, touch 12, flat-footed 18 (+2 Dex, +8 natural)
+hp 66 (7d12+21)
+Fort +8, Ref +7, Will +5
+Immune cold, paralysis, sleep
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 30 ft., burrow 30 ft., fly 150 ft. (average), swim 60 ft.
+Melee bite +11 (1d8+6), 2 claws +11 (1d6+4), 2 wings +6 (1d4+2)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (30-ft. cone, DC 16, 6d4 cold)
+STATISTICS
+Str 19, Dex 14, Con 17, Int 8, Wis 11, Cha 8
+Base Atk +7; CMB +11; CMD 23 (27 vs. trip)
+Feats Alertness, Flyby Attack, Improved Initiative, Power Attack
+Skills Fly +12, Intimidate +9, Perception +12, Stealth +12, Swim +22
+Languages Draconic

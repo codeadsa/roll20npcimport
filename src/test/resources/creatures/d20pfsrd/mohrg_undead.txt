@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/mohrg
+Mohrg CR 8
+XP 4,800
+CE Medium undead
+Init +8; Senses darkvision 60 ft.; Perception +23
+DEFENSE
+AC 23, touch 15, flat-footed 18 (+4 Dex, +1 dodge, +8 natural)
+hp 91 (14d8+28)
+Fort +6, Ref +10, Will +9
+Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +15 (2d8+5 plus grab), tongue +10 melee touch (paralysis)
+Special Attacks create spawn, paralysis (1d4 minutes, DC 21)
+STATISTICS
+Str 21, Dex 19, Con —, Int 11, Wis 10, Cha 14
+Base Atk +10; CMB +15 (+19 grapple); CMD 30
+Feats Ability Focus (paralysis), Dodge, Improved Initiative, Lightning Reflexes, Mobility, Skill Focus (Perception), Spring Attack
+Skills Climb +22, Perception +23, Stealth +21, Swim +19
+SPECIAL ABILITIES
+Create Spawn (Su) Humanoid creatures killed by a mohrg rise immediately as fast zombies under the mohrg’s control. The sudden bloom of unlife when a mohrg’s victim dies and becomes a zombie causes a surge of negative energy to flow through the mohrg. Whenever a mohrg creates a zombie in this manner, it is healed 1d6 hit points per HD possessed by the slain creature and acts as if hasted for the round immediately following the spawn’s creation.

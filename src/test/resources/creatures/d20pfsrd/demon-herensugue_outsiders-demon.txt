@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-herensugue
+Herensugue Demon CR 11
+XP 12,800
+CE Huge outsider (air, chaotic, demon, evil, extraplanar)
+Init +8; Senses darkvision 60 ft., scent; Perception +20
+DEFENSE
+AC 24, touch 12, flat-footed 20 (+4 Dex, +12 natural, -2 size)
+hp 162 (13d10+91); fast healing 5 (good or cold iron)
+Fort +10, Ref +11, Will +10
+Defensive Abilities amorphous; DR 10/magic or cold iron; Immune electricity, poison; Resist acid 10, cold 10, fire 10
+OFFENSE
+Speed 10 ft., fly 60 ft. (perfect)
+Melee 7 bites +19 (1d8+8)
+Space 15 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks lure, many throats
+Spell-Like Abilities (CL 13th; concentration +17)
+At will-–gust of wind (DC 16)
+3/day-–whirlwind (DC 22)
+1/day-–summon (1 herensugue, level 3, 35%)
+STATISTICS
+Str 27, Dex 18, Con 24, Int 15, Wis 10, Cha 18
+Base Atk +13; CMB +23; CMD 37 (can’t be tripped)
+Feats Alertness, Blind-Fight, Flyby Attack, Combat Reflexes, Improved Initiative, Iron Will, Stealthy
+Skills Bluff +20, Escape Artist +24, Fly +24, Knowledge (arcana) +18, Knowledge (planes) +18, Perception +20, Sense Motive +20, Stealth +16; Racial Modifier +8 to Stealth in dim light
+Languages Abyssal, Celestial, Common, Draconic (can’t speak); telepathy 100 ft.
+SQ compression
+SPECIAL ABILITIES
+Horrifying Trill (Su) The herensugue can emit a noise that reminds the listener of its darkest fears and greatest phobias. Any creature within 60 feet that fails on DC 20 Will save when the herensugue emits a horrifying trill is paralyzed for 1d4 rounds. This is a sonic, mind-affecting, fear effect. The save DC is Charisma-based. A creature that successfully saves is immune to the same herensugue’s horrifying trill for 24 hours.
+Lure (Su) Although the herensugue cannot speak, their skeletal jaws can emit noises that mimic music, laughter and voices. Any creature within 60 feet of a herensugue while it makes such noises must succeed on a DC 20 Will save or walk towards the source of the sounds. A victim under the effects of the lure moves toward the herensugue using the most direct means available. If the path leads them into a dangerous area such as through fire or off a cliff, that creature receives a second saving throw to end the effect before moving into peril. Captivated creatures can take no actions other than to defend themselves. A victim within 5 feet of the herensugue simply stands there. This effect continues for as long as the herensugue emits sounds and for 1 round thereafter. The effect ends immediately if the herensugue attacks an affected creature. This is a sonic, mind-affecting, charm effect. The save DC is Charisma-based. A creature that successfully saves is not subject to the same herensugue’s lure for 24 hours.
+Many Throats (Ex) As a full-round action, the herensugue can use either its horrifying trill or lure ability and make two melee attacks in the same round.

@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-cloud/cloud-dragon-wyrm
+Cloud Dragon, Wyrm CR 19
+XP 204,800
+CN Gargantuan dragon (air)
+Init +1; Senses dragon senses, mist vision; Perception +36; Aura frightful presence (330 ft., DC 29)
+DEFENSE
+AC 38, touch 3, flat-footed 38 (–3 Dex, +35 natural, –4 size)
+hp 351 (26d12+182)
+Fort +22, Ref +12, Will +22
+DR 20/magic; Immune electricity, paralysis, sleep; SR 30
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy), swim 40 ft.
+Melee bite +35 (4d6+18/19–20 plus 2d6 sonic), 2 claws +35 (2d8+12), tail slap +32 (2d8+18), 2 wings +32 (2d6+6)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (60-ft. cone, 22d8 electricity, DC 30), crush (4d6+18), tail sweep (2d6+18)
+Spell-Like Abilities (CL 26th; concentration +32)
+At will—fog cloud, obscuring mist, solid fog, wind walk
+3/day—cloudkill (DC 21)
+Spells Known (CL 15th; concentration +21)
+7th (4/day)—control weather, spell turning
+6th (7/day)—chain lightning (DC 22), greater dispel magic, mass eagle’s splendor
+5th (7/day)—cone of cold (DC 21), dismissal (DC 21), mind fog, teleport
+4th (7/day)—elemental body, ice storm, lesser geas (DC 20), river of wind*
+3rd (7/day)—arcane sight, cloak of winds*, stinking cloud (DC 19), suggestion (DC 19)
+2nd (8/day)—eagle’s splendor, glitterdust (DC 18), gust of wind, locate object, see invisibility
+1st (8/day)—alter winds*, charm person (DC 17), detect secret doors, erase, true strike
+0 (at will)—dancing lights, detect poison, light, mage hand, message, prestidigitation, read magic, resistance, touch of fatigue
+* This spell is from the Pathfinder RPG Advanced Player’s Guide.
+STATISTICS
+Str 34, Dex 5, Con 25, Int 20, Wis 24, Cha 23
+Base Atk +26; CMB +42; CMD 49 (53 vs. trip)
+Feats Critical Focus, Dazzling Display, Flyby Attack, Hover, Improved Critical (bite), Improved Initiative, Multiattack, Power Attack, Skill Focus (Diplomacy), Snatch, Stunning Critical, Weapon Focus (bite, claws)
+Skills Appraise +34, Diplomacy +41, Fly +12, Intimidate +35, Knowledge (local) +34, Knowledge (planes) +34, Perception +36, Sense Motive +36, Stealth +14, Survival +36, Swim +49; Racial Modifiers +8 Swim
+Languages Auran, Common, Draconic, Elven, Giant, Sylvan
+SQ cloud form (26 rounds/day)
+SPECIAL ABILITIES
+Cloud Form (Su) An adult or older cloud dragon can change itself into a cloudy vapor as a swift action for a number of rounds per day equal to its Hit Dice. This ability functions as gaseous form but the dragon’s fly speed is unchanged.
+Mist Vision (Su) A cloud dragon can see through fog, clouds, and similar obscuring effects with perfect clarity.
+Thundering Bite (Su) An ancient or older cloud dragon’s bite makes a thundering crash whenever it attacks, dealing an additional 2d6 points of sonic damage. A great wyrm’s thundering bite deals an additional 4d6 sonic damage.

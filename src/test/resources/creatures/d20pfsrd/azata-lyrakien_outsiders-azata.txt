@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/azata-lyrakien
+Lyrakien CR 2
+XP 600
+CG Tiny outsider (azata, chaotic, extraplanar, good)
+Init +8; Senses darkvision 60 ft., detect evil, detect magic, low-light vision; Perception +9
+DEFENSE
+AC 16, touch 16, flat-footed 12 (+4 Dex, +2 size)
+hp 19 (3d10+3)
+Fort +2, Ref +7, Will +6
+DR 5/evil; Immune electricity, petrification; Resist cold 10, fire 10
+OFFENSE
+Speed 30 ft., fly 80 ft. (perfect)
+Melee slam +2 (1d2–3)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks starlight blast
+Spell-Like Abilities (CL 3rd; concentration +8)
+Constant—detect evil, detect magic, freedom of movement
+At will—dancing lights, daze (DC 15), summon instrument, ventriloquism (DC 16)
+1/day—cure light wounds, lesser confusion (DC 16), silent image (DC 16)
+1/week—commune (6 questions, CL 12th)
+STATISTICS
+Str 5, Dex 19, Con 12, Int 14, Wis 17, Cha 20
+Base Atk +3; CMB +5; CMD 12
+Feats Agile Maneuvers, Improved Initiative
+Skills Acrobatics +10, Bluff +11, Diplomacy +11, Fly +16, Knowledge (any one) +8, Perception +9, Perform (any one) +11, Spellcraft +5, Stealth +18
+Languages Celestial, Draconic, Infernal; truespeech
+SQ traveler’s friend
+SPECIAL ABILITIES
+Starlight Blast (Su) As a standard action once every 1d4 rounds, a lyrakien can tap into the divine power of Elysium, unleashing a blast of holy starlight in a 5-foot burst. All creatures in this area take 1d4 points of holy damage, plus 1 point for each step their alignment deviates from chaotic good. For example, a chaotic neutral or neutral good creature would take 1d4+1 points of damage, a neutral creature would take 1d4+2 points of damage, and a lawful evil creature would take 1d4+4 points of damage. A DC 12 Reflex save negates this damage. Chaotic good creatures are unaffected by this ability. The save DC is Constitution-based.
+Traveler’s Friend (Su) The performances and company of a lyrakien ease the burden of travel. Once per day, a creature may spend a minute listening to a lyrakien’s performance— doing so removes the effects of exhaustion and fatigue from the listener.
+Examples & Variants
+Lyrakien Cleric 3

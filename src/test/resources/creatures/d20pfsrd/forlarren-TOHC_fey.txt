@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/forlarren-TOHC
+Forlarren CR 2
+XP 600
+N(E) Medium fey
+Init +2; Senses low-light vision; Perception +10
+DEFENSE
+AC 18, touch 12, flat-footed 26 (+2 Dex, +6 natural)
+hp 13 (3d6+3)
+Fort +2, Ref +5, Will +4
+DR 5/cold iron
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +3 (1d4+1)
+Special Attacks heat metal
+STATISTICS
+Str 12, Dex 15, Con 12, Int 4, Wis 13, Cha 8
+Base Atk +1; CMB +2; CMD 14
+Feats Skill Focus (Perception), Weapon Finesse
+Skills Perception +10, Stealth +8, Survival +4
+Languages Forlarren, Sylvan
+SPECIAL ABILITIES
+Heat Metal (Su) Once per day, by making a melee touch attack, a forlarren can heat metal (as the spell, caster level 6th, DC 12 Will save). Once the affected metal reaches the searing stage (after 3 rounds), it remains at that stage until the forlarren is killed, moves more than 100 feet from the target, or dismisses the effect (as a free action). Once the effect has been dismissed, the metal slowly returns to its normal temperature (just as in the spell). The save DC is Constitution-based.
+
+

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-volcano
+Volcano Giant
+CR 14
+XP 38,400
+CN Huge humanoid (earth, fire, giant)
+Init +1; Senses low-light vision; Perception +18
+DEFENSE
+AC 29, touch 9, flat-footed 28 (+2 armor, +1 Dex, +18 natural, –2 size)
+hp 201 (20d8+120)
+Fort +18; Ref +7; Will +9
+Defensive Abilities rock catching; Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft.
+Melee Gargantuan longspear +24/+19/+14 (4d6+16, crit x3) or 2 slams +24 (2d6+11)
+Ranged rock +15 (2d6+16 plus 1d6 fire)
+Space 15 ft.; Reach 15 ft.
+Special Attacks breath weapon, rock throwing (120 ft.), trample (2d6+16; DC 31)
+Spell-like Abilities (CL 20th):
+1/day—stone shape
+STATISTICS
+Str 32, Dex 12, Con 23, Int 10, Wis 14, Cha 11
+Base Atk +15; CMB +28; CMD 39
+Feats Awesome Blow, Cleave, Diehard, Endurance, Improved Bull Rush, Improved Sunder, Intimidating Prowess, Iron Will, Power Attack, Vital Strike
+Skills Acrobatics +14 (+18 jumping), Climb +18, Intimidate +20, Knowledge (nature) +10, Perception +18 Languages Giant, Ignan
+SQ oversized weapon use
+Gear Gargantuan longspear, leather armor
+SPECIAL ABILITIES
+Breath Weapon (Su) Three times per day, a volcano giant can exhale a cloud of warm and sulfuric gas in a 30-foot cone. Affected creatures must make a successful DC 26 Fortitude save or take a -4 circumstance penalty on attack rolls, checks and saves for 1 minute (10 rounds) due to fits of coughing and choking. The save DC is Constitution-based.
+Oversized Weapon Use (Ex) A volcano giant wields a Gargantuan two-handed longspear without penalty.
+Volcano Giant Characters +22 Strength, +2 Dexterity, +12 Constitution, +2 Wisdom: A volcano giant’s prowess lies almost entirely in his physical abilities, predominantly strength. Huge: Volcano giants are huge and take a –2 penalty to AC, –2 penalty to attack rolls, +2 bonus to Combat Maneuver Bonus and Combat Maneuver Defense, and a –8 penalty to Stealth checks. A volcano giant’s lifting and carrying limits quadruple those of Medium characters. Space 15ft., Reach 15ft. Speed: A volcano giant’s base speed is 40 feet. Low-light vision: Volcano giants can see twice as far as humans in conditions of dim light. Racial Hit Dice: A volcano giant starts with seventeen levels of giant, which provide it with 20d8 HD, a base attack bonus of +15, and base save bonuses of Fort +12, Ref +6, Will +6. Defensive Abilities: A volcano giant gains the rock catching defensive ability. Racial Skills: A volcano giant’s giant levels give it skill points equal to 20 x (2 + Int modifier). Its class skills are Acrobatics, Climb, Intimidate, Knowledge (nature), and Perception. Racial Feats: A volcano giant’s giant levels give it ten feats. AC: Tough-skinned, volcano giants gain a +18 natural AC bonus. Special Attacks (see left): Breath weapon, rock throwing, trample. Spell-like Abilities: Volcano giants can cast stone shape 1/day as a 20th level caster. Special Qualities (see left): fire and earth subtypes, low-light vision, oversized weapon use. Automatic Languages: Giant, Ignan. Volcano giants with high Intelligence scores can choose from the following languages: Draconic, Goblin, Terran, Orc.

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-chort-kp
+Chort Devil CR 15
+XP 51,200
+LE Medium outsider (devil, evil, extraplanar)
+Init +11; Senses darkvision 60 ft., scent; Perception +27
+DEFENSE
+AC 29, touch 17, flat-footed 22 (+7 Dex, +12 natural)
+hp 229 (17d10+136)
+Fort +15, Ref +17, Will +17
+DR 10/good; Immune fire, poison; Resist acid 10, cold 10; SR 26
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +24 (1d8+7 plus 1d4 Cha drain), or flaming burst ranseur +25/+20/+15/+10 (2d4+10/19–20/×3)
+Special Attacks 1d4 Cha drain
+Spell-Like Abilities (CL 16th; concentration +25)
+Constant—fly, true seeing
+At will—blur, greater teleport (self plus 50 lb. of objects only), magic circle against good
+5/day—scorching ray
+3/day—dominate person (DC 24), flame strike (DC 24), greater dispel magic, quickened haste (self only)
+1/day—summon devil (level 6, 3 barbed devils 35%)
+STATISTICS
+Str 24, Dex 25, Con 27, Int 20, Wis 24, Cha 29
+Base Atk +17; CMB +24; CMD 41
+Feats Combat Expertise, Combat Reflexes, Great Fortitude, Improved Critical (ranseur), Improved Disarm, Improved Initiative, Power Attack, Quicken Spell-Like Ability (haste), Weapon Focus (ranseur)
+Skills Acrobatics +27, Bluff +29, Diplomacy +24, Fly +19, Intimidate +21, Knowledge (arcana) +22, Knowledge (planes) +24, Perception +27, Sense Motive +27, Spellcraft +24, Stealth +27, Use Magic Device +37; Racial Modifiers +8 Use Magic Device
+Languages Abyssal, Celestial, Common, Draconic, Ignan, Infernal; telepathy 100 ft.
+SQ devilish weapons
+SPECIAL ABILITIES
+Devilish Weapons (Su) Any weapons wielded by a chort possess the flaming burst property and are considered evil aligned for the purposes of overcoming DR.

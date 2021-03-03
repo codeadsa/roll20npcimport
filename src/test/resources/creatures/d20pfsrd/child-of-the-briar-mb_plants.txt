@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/child-of-the-briar-mb
+Child of the Briar CR 1
+XP 400
+NE Tiny plant
+Init +3; Senses low-light vision; Perception +7
+DEFENSE
+AC 17, touch 15, flat-footed 14 (+3 Dex, +2 natural, +2 size)
+hp 9 (2d8)
+Fort +3, Ref +3, Will +0
+Defensive Abilities plant traits; DR 5/cold iron
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 20 ft., climb 10 ft.
+Melee 2 claws +6 (1d2-2 plus grab)
+Space 2-1/2 ft.; Reach 5 ft.
+Special Attacks spitdart tongue, thorny grapple
+Spell-Like Abilities (CL 2nd)
+3/day—briar magic (DC 12)
+1/day—entangle (DC 13)
+STATISTICS
+Str 6, Dex 17, Con 11, Int 13, Wis 10, Cha 14
+Base Atk +1; CMB +2 (+6 grapple); CMD 10
+Feats Weapon Finesse
+Skills Bluff +4, Climb +8, Perception +7, Stealth +14 (+20 in forest); Racial Modifiers +8 Climb, +2 Perception, +6 Stealth while in forest
+Language Briarclick (spoken only), Common, Sylvan
+SQ fey blood
+SPECIAL ABILITIES
+Briar Magic (Sp) A child of the briar can cast any cantrip from the sorcerer/wizard spell list (save DCs Cha-based).
+Entangle (Ex) As a standard action, two or more children of the briar in the same square can produce an effect identical to entangle in the 5-ft. square they occupy (DC 10 + number of children of the briar in the square). Briar children are immune to this ability, but other entangle effects affect them normally.
+Fey Blood (Ex) Children of the briar count as both plant and fey for any effect related to type.
+Spitdart Tongue (Ex) Every child of the briar can shoot a wooden spike from its mouth every other round. Treat this as a Tiny dart (1 damage, base range 20 ft.).
+Thorny Grapple (Ex) A child of the briar’s long thorny limbs enable it to grapple creatures up to 2 size categories larger than itself. It adds its Dexterity modifier instead of Strength modifier to any damage inflicted while grappling.

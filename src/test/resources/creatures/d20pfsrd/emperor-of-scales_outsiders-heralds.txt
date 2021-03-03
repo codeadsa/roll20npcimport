@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/emperor-of-scales
+Emperor of scales CR 15
+XP 51,200
+CE Huge outsider (chaotic, evil, native)
+Init +11; Senses all-around vision, darkvision 60 ft., scent; Perception +26; Aura frightful presence (60 ft., DC 25), maddening hiss (100 ft., DC 25)
+DEFENSE
+AC 30, touch 15, flat-footed 23 (+7 Dex, +15 natural, –2 size)
+hp 225 (18d10+126); regeneration 5 (electricity)
+Fort +19, Ref +13, Will +15
+DR 15/good and silver; Immune acid, fire, mind-affecting effects, paralysis, poison, vorpal weapons; SR 26
+OFFENSE
+Speed 30 ft., climb 30 ft., fly 60 ft. (good)
+Melee bite +24 (2d8+8/19–20 plus poison and grab), 8 snakebites +22 (1d6+4 plus poison)
+Space 15 ft.; Reach 10 ft. (15 ft. with snakebites)
+Special Attacks acidic gore, poison, swallow whole (2d8+12 plus poison, AC 17, 22 hp)
+Spell-Like Abilities (CL 15th; concentration +21)
+Constant—fly
+At will—poison (DC 20), teleport
+3/day—accelerate poison (DC 18), blindness/deafness (DC 18), blur, dominate person (DC 21), major image (DC 19), mirror image, suggestion (DC 19)
+1/day—chaos hammer (DC 20), dream, mass suggestion (DC 22), nightmare (DC 21), unholy blight (DC 20)
+STATISTICS
+Str 26, Dex 24, Con 23, Int 13, Wis 19, Cha 22
+Base Atk +18; CMB +28 (+32 grapple); CMD 45 (can’t be tripped)
+Feats Combat Reflexes, Great Fortitude, Hover, Improved Critical (bite), Improved Initiative, Multiattack, Power Attack, Snatch, Toughness
+Skills Bluff +27, Climb +16, Escape Artist +22, Fly +20, Knowledge (history) +12, Knowledge (planes) +12, Knowledge (religion) +12, Perception +26, Sense Motive +22, Spellcraft +19, Stealth +16, Use Magic Device +21; Racial Modifiers +4 Escape Artist, +4 Perception, +4 Stealth, +4 Use Magic Device
+Languages Abyssal, Aklo, +1 additional (does not speak), telepathy 100 ft.
+SQ command snakes
+SPECIAL ABILITIES
+Acidic gore (Su) The Emperor of Scales’ giant severed head continually drips blood and gore that burn like acid. Any creature within 10 feet of the Emperor of Scales must make a DC 25 Reflex save or be sprayed by droplets of acidic blood, taking 2d6 points of acid damage. The save DC is Constitution-based.
+Command Snakes (ex) As a free action, the Emperor of Scales can command any snake or serpent with the animal or magical beast type, as the dominate animal spell. The target can resist the command with a DC 25 Will save.
+Immunity to Vorpal Weapons (Ex) The Emperor of Scales is essentially a giant head with no body. As a result, its head cannot be severed, and vorpal weapons have no additional effect on it.
+Maddening Hiss (Su) The Emperor of Scales’ numerous snake heads constantly hiss in a maddening cacophony as a free action. Any creature within 100 feet of the Emperor of Scales must make a DC 25 Will save or be confused for 1 round. This is a mind-affecting compulsion insanity effect. A creature that saves cannot be affected by the Emperor of Scales’ maddening hiss for 24 hours. The save DC is Charisma-based.
+Poison (Ex) Bite or swallow—injury; save Fort DC 25; frequency 1/round for 10 rounds; effect 2d6 acid and 1d4 Str; cure 2 consecutive saves;
+Snakebite—injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d2 Con; cure 2 consecutive saves.

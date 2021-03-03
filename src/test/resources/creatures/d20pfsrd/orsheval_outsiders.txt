@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/orsheval
+Orsheval CR 4
+XP 1,200
+LN Medium outsider (extraplanar, lawful)
+Init +1; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 37 (5d10+10)
+Fort +6, Ref +2, Will +5
+DR 5/magic; Immune electricity; Resist cold 10, fire 5; SR 15
+OFFENSE
+Speed 50 ft.
+Melee bite +8 (1d6+3), 2 hooves +3 (1d4+1 plus 1d4 electricity)
+Space 10 ft.; Reach 5 ft.
+Special Attacks glittering radiance
+Spell-Like Abilities (CL 6th; concentration +6)
+At will—light, mage hand
+3/day—ant haul, bless, expeditious retreat
+1/day—dimension door (self and rider only), lesser restoration, zone of truth
+STATISTICS
+Str 17, Dex 12, Con 15, Int 10, Wis 13, Cha 10
+Base Atk +5; CMB +8 (+10 overrun); CMD 19 (21 vs. overrun, 23 vs. trip)
+Feats Alertness, Endurance, Improved Overrun B, Run
+Skills Acrobatics +4, Appraise +6, Knowledge (local) +3, Knowledge (nobility) +6, Knowledge (planes) +6, Knowledge (religion) +6, Perception +11, Sense Motive +11, Swim +5
+Languages Celestial, Infernal; truespeech
+SPECIAL ABILITIES
+Glittering Radiance (Su) An orsheval usually glows with a golden light equivalent to that of a candle. In battle, its glow increases, filling the area within 5 feet of it with shining motes. These motes cling to all creatures in the affected area, outlining them as glitterdust for 6 rounds. Opponents in the area must succeed at a DC 14 Will save or be blinded; a blinded creature may attempt a new saving throw each round at the end of its turn to end the blindness. The motes persist for 1 round after the orsheval moves from a square, leaving a trailing cloud that can affect creatures that move into the affected area. The orsheval can suppress or reactivate the glow or motes as a free action. The save DC is Constitution-based.

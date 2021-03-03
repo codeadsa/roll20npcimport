@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-silver/silver-dragon-young-adult
+Silver Dragon, Young Adult CR 13
+XP 25,600
+LG Huge dragon (cold)
+Init +4; Senses dragon senses, fog vision; Perception +22
+DEFENSE
+AC 26, touch 8, flat-footed 26 (+18 natural, -2 size)
+hp 157 (15d12+60)
+Fort +13, Ref +11, Will +15
+DR 5/magic; Immune acid, cold, paralysis, sleep; SR 24
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 40 ft., fly 200 ft. (average); cloudwalking, graceful flight
+Melee bite +21 (2d8+10), 2 claws +20 (2d6+7), tail slap +18 (2d6+10), 2 wings +18 (1d8+3)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, DC 21, 10d8 cold), crush (2d8+10, DC 21), paralyzing breath
+Spell-Like Abilities (CL 15th; concentration +19)
+At will— detect evil, feather fall Spells Known (CL 5th; concentration +9)
+2nd (5/day)— augury, cure moderate wounds
+1st (7/day)— alarm, divine favor, shield, true strike
+0 (at will)— detect magic, flare (DC 14), light, message, read magic, stabilize
+
+Note: A silver dragon can cast cleric spells as arcane spells
+STATISTICS
+Str 25, Dex 10, Con 19, Int 18, Wis 19, Cha 18
+Base Atk +15; CMB +24; CMD 34 (38 vs. trip)
+Feats Hover, Improved Initiative, Iron Will, Lighting Reflexes, Multiattack, Power Attack, Vital Strike, Weapon Focus (bite)
+Skills Acrobatics +15 (+19 jump), Diplomacy +22, Fly +14, Heal +22, Intimidate +22, Knowledge (local, nobility) +22, Perception +22, Sense Motive +22, Spellcraft +22
+Languages Auran, Common, Draconic, Giant, Terran
+SQ change shape
+SPECIAL ABILITIES
+Change Shape (Su)
+A silver dragon can assume any animal or humanoid form 3/day as if using polymorph.
+Cloudwalking (Su) A very young or older silver dragon can tread on clouds or fog as though on solid ground.
+Fog Vision (Ex) A juvenile or older silver dragon can see perfectly well in fog and clouds.
+Graceful Flight (Ex) A young or older silver dragon’s aerial maneuverability is one step better than normal.
+Paralyzing Breath (Su) Instead of a cone of cold, a silver dragon can breathe a cone of paralyzing gas. Creatures within the cone must succeed on a Fortitude save or be paralyzed for 1d6 rounds plus 1 round per age category of the dragon.
+
+

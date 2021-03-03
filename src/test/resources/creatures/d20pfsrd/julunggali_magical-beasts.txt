@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/julunggali
+Julunggali CR 21/MR 8
+XP 409,600
+N Colossal magical beast (aquatic, extraplanar, Mythic, shapechanger)
+Init +21M; Senses blindsense 60 ft., darkvision 60 ft., low-light vision, scent, see in darkness; Perception +30; Aura fascination (DC 26, 100 feet)
+DEFENSE
+AC 38, touch 5, flat-footed 37 (+1 Dex, +2 insight, +33 natural, –8 size)
+hp 399 (22d10+278); fast healing 10
+Fort +22, Ref +18, Will +14
+Defensive Abilities Mythic saving throws; DR 10/epic and magic; Immune acid, cold, electricity, poison; Resist fire 10; SR 32
+OFFENSE
+Speed 40 ft., burrow 40 ft., fly 20 ft. (average), swim 90 ft.
+Melee bite +29 (4d8+14 plus grab and poison and pull or push), slam +29 (4d6+14)
+Space 30 ft.; Reach 30 ft.
+Special Attacks amazing initiative, constrict (4d8+21), fast swallow, Mythic Power (8/day, Surge +1d10), pull (bite, 30 ft.), push (bite, 30 ft.), swallow whole (4d8 acid damage, AC 26, 39 hp)
+Spell-Like Abilities (CL 24th; concentration +29)
+Constant—foresight (self only)
+At will—bestow curse (DC 18), blessM, control water, create water, move earthM, neutralize poison, prayerM, water breathing
+3/day—antipathy (DC 24), baleful polymorphM (DC 20), control weatherM (rain only), greater teleport (self only), hasteM, healM, polymorph, prismatic wall (DC 23), raise dead, slowM (DC 18)
+STATISTICS
+Str 38, Dex 13, Con 28, Int 19, Wis 20, Cha 21
+Base Atk +22; CMB +44 (+48 grapple); CMD 57 (can’t be tripped)
+Feats Cleave, Combat ReflexesM, Great Cleave, Improved InitiativeM, Improved Iron Will, Improved Lightning Reflexes, Iron Will, Lightning ReflexesM, Power AttackM, Weapon Focus (bite), Weapon Focus (gore)
+Skills Fly –7, Handle Animal +16, Heal +27, Intimidate +27, Knowledge (nature) +26, Knowledge (religion) +15, Perception +30, Sense Motive +27, Swim +22
+Languages Celestial, Druidic, Sylvan; telepathy 100 ft.
+SQ amphibious, change shape (any snake; polymorph), compression
+SPECIAL ABILITIES
+Fascination Aura (Su) Any creature within 100 feet of the julunggali who can see it must succeed at a Will save (DC 26) or be fascinated as long as it remains within range. A creature that saves against the julunggali’s aura is immune to it for 24 hours. The save DC is Charisma-based.
+Poison (Ex or Su) A julunggali has three different poisons. Each time it bites, it decides which poison to inject.
+Julunggali Venom: Bite—injury; save Fort DC 30; frequency 1/round for 6 rounds; effect 1d6 Con or 1d6 Dex or age one age category (julunggali’s choice); cure 2 consecutive saves. The save DC is Constitution-based.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/river-dragon/river-dragon-wyrmling
+Wyrmling River Dragon CR 3
+XP 800
+CN Tiny Dragon (aquatic, fire)
+Init +7; Senses dragon senses; Perception +8
+DEFENSE
+AC 19, touch 15, flat-footed 16 (+3 Dex, +4 natural, +2 size)
+hp 30 (4d12+4)
+Fort +5, Ref +7, Will +5
+Immune fire, dragon traits
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft., swim 60 ft.
+Melee bite +6 (1d4)
+Space 2-1/2 ft.; Reach 0 ft. (5 ft. with bite)
+Special Attacks breath weapon (30-ft. line, DC 12, 2d6 fire)
+STATISTICS
+Str 11, Dex 17, Con 12, Int 9, Wis 12, Cha 10
+Base Atk +4; CMB +5; CMD 15 (19 vs, trip)
+Feats Athletic, Improved Initiative
+Skills Knowledge (nature) +6, Perception +8, Stealth +18, Survival +8, Swim +17; Racial Modifiers +8 Swim
+Languages Draconic
+SQ air breathing
+SPECIAL ABILITIES
+Air Breathing (Ex) The river dragon can breathe air just as naturally as water. This dragon can freely use its breath weapon, spells and other abilities in both air and water.
+
+

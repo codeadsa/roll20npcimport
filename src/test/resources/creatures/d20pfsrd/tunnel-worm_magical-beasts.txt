@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/tunnel-worm
+Tunnel Worm CR 7
+XP 3,200
+N Huge magical beast
+Init +1; Senses darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +15
+DEFENSE
+AC 16, touch 9, flat-footed 15 (+1 Dex, +7 natural, -2 size)
+hp 112 (9d10+54 plus 9)
+Fort +12, Ref +9, Will +5
+OFFENSE
+Speed 20 ft., burrow 20 ft.
+Melee bite +14 (2d6+9 plus grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks rend armor
+TACTICS
+The favored tactic of the tunnel worm is to lurk beneath the surface of the ground or behind a wall until it senses a creature moving by, whereupon it burrows out to surprise and attack its prey (treat this attack as a charge attack). A tunnel worm that has taken more than half its hit points in damage retreats to its lair unless it is cornered, in which case it fights to the death.
+STATISTICS
+Str 22, Dex 13, Con 22, Int 1, Wis 10, Cha 6
+Base Atk +9; CMB +17 (+21 grappling); CMD 28 (can’t be tripped)
+Feats Iron Will, Lightning Reflexes, Toughness, Skill Focus (Perception), Weapon Focus (bite)
+Skills Perception +15
+SPECIAL ABILITIES
+Rend Armor (Ex) If a tunnel worm grapples an opponent wearing armor, it attempts to chew away the armor with its powerful mandibles. With a successful grapple check it deals double its regular bite damage to the opponent’s armor. Creatures not wearing armor are unaffected by this special attack. Armor reduced to 0 hit points is destroyed.

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/demi-lich-tohc
+Demi-Lich CR 14
+XP 38,400
+NE Tiny undead
+Init +4; Senses darkvision 60 ft.; Perception +26
+DEFENSE
+AC 24, touch 18, flat-footed 23 (+1 dodge, +6 natural, +5 profane, +2 size)
+hp 133 (14d8+70)
+Fort +16; Ref +11; Will +19
+Defensive Abilities channel resistance +4, unholy grace; DR 20/—; Immune acid, cold, electricity, magic, polymorph, turning, undead traits
+Weaknesses vorpal susceptibility
+OFFENSE
+Speed fly 30 ft. (perfect)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks trap the soul
+Spell-like Abilities (CL 14th)
+At will—greater bestow curse (as bestow curse, but –12 to one ability score, –6 to two ability scores, –8 penalty on attack rolls, saves, and checks, or 25% to act normally, DC 21), wail of the banshee (20-ft.- radius spread centered on demi-lich, DC 24).
+STATISTICS
+Str 10, Dex 10, Con —, Int 20, Wis 20, Cha 20
+Base Atk +10; CMB +8; CMD 28 (can’t be tripped)
+Feats Alertness, Dodge, Defensive Combat Training, Great Fortitude, Improved Initiative, Lightning Reflexes, Skill Focus (Knowledge [arcana])
+Skills Diplomacy +19, Fly +12, Intimidate +22, Knowledge (arcana) +34, Knowledge (religion) +22, Linguistics +19, Perception +26, Sense Motive +26, Spellcraft +28, Stealth +25; Racial Modifiers +6 Knowledge (arcana), +6 Spellcraft
+Languages Abyssal, Aklo, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, Ignan, Infernal, Orc, Undercommon, plus any 6 additional languages
+SQ rejuvenation
+SPECIAL ABILITIES
+Immunity to Magic (Ex) A demi-lich is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A shatter spell deals 1d6 points of damage per two caster levels (maximum 10d6), with no saving throw. A power word kill spell cast by an ethereal caster deals 50 points of damage to the demi-lich if it fails a Fortitude save (DC 19 + caster’s relevant ability score modifier). Note: power word kill does not normally allow a save.) A holy smite spell affects the demi-lich normally. A dispel evil spell deals 2d6 points of damage, with no saving throw. Rejuvenation (Su) Unless holy water is poured over the destroyed remains of a demi-lich, the creature reforms in 1d10 days with a successful level check (1d20 + demi-lich’s HD) against DC 16.
+Trap the Soul (Su) A demi-lich can trap the souls of up to eight living creatures per day. To use this power, it selects any target it can see within 300 feet. The target is allowed a DC 22 Fortitude saving throw. If the target makes its saving throw, it gains three negative levels (this does not count as a use of trap the soul). If the target fails its save, the soul of the target is instantly drawn from its body and trapped within one of the gems incorporated into the demi-lich’s mouth. The gem gleams for 24 hours, indicating the captive soul within. The soulless body collapses in a mass of corruption and molders in a single round, reduced to dust. If left to its own devices, the demi-lich slowly devours the soul over 24 hours—at the end of that time the soul is completely absorbed, and the victim is forever gone.
+If the demi-lich is overcome before the soul is eaten, crushing the gem releases the soul, after which time it is free to seek the afterlife or be returned to its body by the use of resurrection, true resurrection, clone, or miracle. A potential victim protected by a death ward spell is not immune to trap the soul, but receives a +5 bonus on its Fortitude save and is effective against the level loss on a successful save. The save DC is Charisma-based.
+Unholy Grace (Su) A demi-lich adds its Charisma modifier as a bonus on its saving throws and as a profane bonus to its Armor Class.
+Vorpal Susceptibility (Su) Vorpal weapons, no matter their enhancement bonus, ignore a demi-lich’s DR but do only half damage to a demi-lich (demi-liches cannot be beheaded).

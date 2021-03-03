@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/quantum
+Quantum CR 20
+XP 307,200
+N Huge aberration (extraplanar)
+Init +8; Senses darkvision 60 ft.; Perception +47
+DEFENSE
+AC 32, touch 15, flat-footed 28 (+3 deflection, +4 Dex, +17 natural, -2 size)
+hp 357 (34d8+170 plus 34)
+Fort +18, Ref +17, Will +23
+Defensive Abilities unstable form; DR 15/adamantine
+OFFENSE
+Speed fly 40 ft. (good)
+Melee 5 tentacles +34 (2d6+11)
+Space 15 ft.; Reach 15 ft.
+Special Attacks disintegration
+STATISTICS
+Str 33, Dex 18, Con 21, Int 11, Wis 14, Cha 17
+Base Atk +25; CMB +38 (+42 bull rush); CMD 55 (59 vs. bull rush can’t be tripped)
+Feats Alertness, Awesome Blow, Blind-Fight, Cleave, Combat Reflexes, Great Fortitude, Greater Bull Rush, Greater Cleave, Improved Bull Rush, Improved Initiative, Improved Lightning Reflexes, Iron Will, Lightning Reflexes, Power Attack, Stand Still, Toughness, Vital Strike
+Skills Fly +41, Knowledge (planes) +37, Perception +47, Sense Motive +43 Racial Modifiers +4 Perception
+Languages Common, Quantum
+SQ quantum form, quantum movement
+SPECIAL ABILITIES
+Disintegration (Su) Three times per day, as a full-round action, a quantum can attack with a single tentacle. If it hits, it sets up subatomic vibrations that shake apart the molecular structure of its opponent. The target must succeed on a DC 32 Fortitude save or take 40d6 points of damage. Even if the save succeeds, the target takes 10d6 points of damage. This effect functions as a disintegrate spell (CL 34th). A quantum can use this ability when it uses its quantum form. Each use by one of its forms counts against its daily use limit. The save DC is Constitution-based.
+Quantum Form (Su) Three times per day and once per round, a quantum can move in such a way as to appear in two places at once, at a distance no greater than 30 feet. This is a free action that provokes an attack of opportunity and lasts only one round. While occupying two spaces simultaneously, each representation of the quantum can perform one independent standard action (including using the quantum’s special attacks). Using this ability, the same quantum could attack two different opponents, or attack one opponent while opening a door to escape, and so on. At the end of the round, both instances of the quantum return to the space it originally occupied before activating this ability.
+Quantum Movement (Su) At will a quantum can use the dimension door spell as a standard action (CL 34th).
+Unstable Form (Su) A quantum has a deflection bonus to its Armor Class equal to its Charisma bonus. Further, because it moves by means of short-distance teleportation, attacks aimed at a quantum have a 20% miss chance.

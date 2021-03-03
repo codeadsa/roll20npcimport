@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/moss-monster
+Moss Monster CR 6
+XP 2,400
+NE Medium plant (extraplanar)
+Init +6; Senses all-around vision, low-light vision, see invisibility; Perception +16
+DEFENSE
+AC 21, touch 12, flat-footed 19 (+2 Dex, +9 natural)
+hp 67 (9d8+27); regeneration 5 (acid)
+Fort +9, Ref +7, Will +5
+Immune plant traits, poison; Resist electricity 10, fire 10
+OFFENSE
+Speed 30 ft., fly 60 ft. (perfect)
+Melee 2 slam +10 (1d6+4)
+Special Attacks envelop, poison cloud
+Spell-Like Abilities (CL 8th; concentration +11)
+Constant— see invisibility
+At will— scare (DC 15), scorching ray
+3/day— blur, nondetection STATISTICS
+Str 18, Dex 15, Con 16, Int 13, Wis 14, Cha 17
+Base Atk +6; CMB +10; CMD 22
+Feats Alertness, Flyby Attack, Improved Initiative, Lightning Reflexes, Point-Blank Shot
+Skills Fly +14, Knowledge (planes) +3, Perception +16, Sense Motive +10, Stealth +14
+Languages Infernal, Sylvan; telepathy 100 ft.
+SPECIAL ABILITIES Envelop (Ex) The moss monster can wrap a Medium or smaller creature in its vines as a standard action. The moss monster attempts a grapple that does not provoke an attack of opportunity. If it wins the grapple check, it establishes a hold and deals 1d4 points of Wisdom damage if the target fails a DC 17 Fortitude save. Attacks that hit the moss monster while it has a target enveloped deal half their damage to the monster and half to the trapped victim.
+Poison Cloud (Ex) The moss monster can exude a cloud of poisonous gas in a 20-foot radius up to 3 times per day. Creatures in the area must succeed at a DC 17 Fortitude save or be nauseated for 1d4 rounds and sickened for 1d4 hours afterward. This is a poison effect, and the save DC is Constitution-based.

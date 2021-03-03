@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/troglodyte
+Troglodyte CR 1
+XP 400
+CE Medium humanoid (reptilian)
+Init –1; Senses darkvision 90 ft.; Perception +0; Aura stench (30 ft., DC 13, 10 rounds)
+DEFENSE
+AC 15, touch 9, flat-footed 15 (–1 Dex, +6 natural)
+hp 13 (2d8+4)
+Fort +7, Ref –1, Will +0
+OFFENSE
+Speed 30 ft.
+Melee club +2 (1d6+1), claw –3 (1d4), bite –3 (1d4) or 2 claws +2 (1d4+1), bite +2 (1d4+1)
+Ranged* javelin +0 (1d6)
+STATISTICS
+Str 12, Dex 9, Con 14, Int 8, Wis 11, Cha 11
+Base Atk +1; CMB +2; CMD 11
+Feats Great Fortitude
+Skills Stealth +5 (+9 in rocky areas); Racial Modifiers +4 Stealth (+8 in rocky areas)
+Languages Draconic
+Editor’s Note
+It appears that the Ranged line is missing additional damage from Strength. Suggested correction: Ranged javelin +0 (1d6+1) Other Forms
+Advanced Troglodyte (CR 2)
+Stone Troglodyte (CR 2)
+Troglodyte Magic User (CR 6) (3pp)

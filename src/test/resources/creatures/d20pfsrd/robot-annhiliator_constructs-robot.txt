@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/robot/robot-annhiliator
+Annihilator CR 16
+XP 76,800
+N Gargantuan construct (robot)
+Init +6; Senses darkvision 120 ft., low-light vision, tremorsense 60 ft.; Perception +24
+DEFENSE
+AC 31, touch 9, flat-footed 28 (+2 Dex, +1 dodge, +22 natural, –4 size)
+hp 170 (20d10+60), force field (80 hp, fast healing 16)
+Fort +8, Ref +8, Will +7
+Defensive Abilities hardness 10; Immune cold, construct traits; Resist electricity 30, fire 30
+Weaknesses vulnerable to critical hits, vulnerable to electricity
+OFFENSE
+Speed 50 ft., climb 30 ft.; booster jets
+Melee 2 claws +28 (2d6+12/19–20)
+Ranged 2 integrated chain guns +19 (8d6/×4)
+Space 20 ft.; Reach 20 ft.
+Special Attacks combined arms, plasma lance, suppressing fire
+STATISTICS
+Str 34, Dex 15, Con —, Int 14, Wis 13, Cha 1
+Base Atk +20; CMB +36; CMD 49 (57 vs. trip)
+Feats Combat Expertise, Combat Reflexes, Deadly Aim, Dodge, Great Fortitude, Improved Critical (claw), Improved Initiative, Mobility, Skill Focus (Acrobatics), Weapon Focus (chain gun)
+Skills Acrobatics +28 (+36 when jumping), Climb +20, Intimidate +15, Perception +24, Sense Motive +24; Racial Modifiers +8 Acrobatics (when jumping)
+Languages Common
+SPECIAL ABILITIES
+Booster Jets (Ex) As a swift action up to 10 times per hour, an annihilator can gain a fly speed of 60 feet (poor maneuverability) for a duration of 1 minute.
+Chain Guns (Ex) These advanced firearms have a range increment of 200 feet, automatically reload, and never misfire. An annihilator’s core can process scrap metal into new ammunition, effectively giving the annihilator infinite ammunition with these weapons.
+Plasma Lance (Ex) As a standard action once every 3 rounds, an annihilator can fire a 120-foot-long line of plasma from its tail. All creatures in this area take 20d6 points of damage (Reflex DC 22 half). Half of this damage is fire and half is electricity. The save DC is Intelligence-based.
+Suppressing Fire (Ex) As a standard action, an annihilator can use its chain guns to fire in a 100-foot cone. When it does so, it makes a single chain gun attack against every target in this area.

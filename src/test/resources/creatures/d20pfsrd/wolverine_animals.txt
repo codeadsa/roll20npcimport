@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/wolverine
+Wolverine CR 2
+XP 600
+N Medium animal
+Init +2; Senses low-light vision, scent; Perception +10
+
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 22 (3d8+9)
+Fort +5, Ref +5, Will +2
+
+OFFENSE
+Speed 30 ft., burrow 10 ft., climb 10 ft.
+Melee 2 claws +4 (1d6+2), bite +4 (1d4+2)
+Special Attacks rage
+
+STATISTICS
+Str 15, Dex 15, Con 15, Int 2, Wis 12, Cha 10
+Base Atk +2; CMB +4; CMD 16 (20 vs. trip)
+Feats Skill Focus (Perception), Toughness
+Skills Climb +10, Perception +10
+
+SPECIAL ABILITIES
+Rage (Ex) A wolverine that takes damage in combat flies into a rage on its next turn, clawing and biting madly until either it or its opponent is dead. It gains +4 to Strength, +4 to Constitution, and –2 to AC. The creature cannot end its rage voluntarily.

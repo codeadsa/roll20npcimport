@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-tohc/clockwork-warrior
+Clockwork Warrior CR 3
+XP 800
+N Medium construct
+Init –2; Senses darkvision 60 ft., low-light vision; Perception –1
+DEFENSE
+AC 14, touch 8, flat-footed 14 (-2 Dex, +6 natural)
+hp 42 (4d10+20); self-repair 3 (acid, cold, fire)
+Fort +1; Ref –1; Will +0
+Immune construct traits
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +8 (1d6+4)
+STATISTICS
+Str 18, Dex 6, Con —, Int —, Wis 8, Cha 10
+Base Atk +4; CMB +8; CMD 16
+SPECIAL ABILITIES
+Self-Repair (Ex) A clockwork warrior regains 3 hit points per round. Damage dealt from acid, cold, or fire effects cannot be self-repaired. If reduced to 0 or less hit points, it regains 1 hit point per round (but still cannot repair damage caused by acid, cold, or fire effects).

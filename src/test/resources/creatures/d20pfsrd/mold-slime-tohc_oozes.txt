@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/mold-slime-tohc
+Slime Mold CR 3
+XP 800
+N Large ooze (fungus)
+Init -1; Senses blindsight 60 ft; Perception +0
+DEFENSE
+AC 8, touch 8, flat-footed 8 (-1 Dex, -1 size)
+hp 38 (4d8+20)
+Fort +6, Ref +0, Will -4
+Immune ooze traits
+OFFENSE
+Speed 20 ft.
+Melee slam +3 (1d8+1 plus disease plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks engulf (1d8+1)
+STATISTICS
+Str 13, Dex 8, Con 21, Int –, Wis 1, Cha 1
+Base Atk +3; CMB +5 (+9 grapple); CMD 14 (can’t be tripped)
+SQ camouflage
+SPECIAL ABILITIES
+Camouflage (Ex) A slime mold looks like a normal patch of fungus when at rest. It takes a DC 20 Perception check to notice it before it attacks. Anyone with ranks in Survival or Knowledge (nature) can use one of those skills instead of Perception to notice the ooze. Dwarves can use stonecunning to notice the subterranean version.
+Disease (Ex) Fungal rot: Slam–contact, save Fort DC 17, onset 1 day, effect 1d3 Con and 1d3 Str damage, cure 1 save. The save DC is Constitution-based.
+Engulf (Ex) A slime mold can wrap a creature of up to one size smaller in its body as a standard action. If a slime mold succeeds a Combat Maneuver check to grapple an opponent, it establishes a hold and deals slam damage each round the hold is maintained. Attacks that hit an engulfing slime mold deal half their damage to the monster and half to the trapped victim.

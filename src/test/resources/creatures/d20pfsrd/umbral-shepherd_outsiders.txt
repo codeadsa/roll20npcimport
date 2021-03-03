@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/umbral-shepherd
+Umbral Shepherd CR 5
+XP 1,600
+LE Medium outsider (incorporeal)
+Init +6; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 deflection, +2 Dex)
+hp 39 (6d10+6)
+Fort +3, Ref +9, Will +8
+Defensive Abilities incorporeal
+Weaknesses light sensitivity, planebound
+OFFENSE
+Speed 0 ft., fly 30 ft. (perfect)
+Melee touch +8 (shadow touch or possession)
+STATISTICS
+Str –, Dex 14, Con 12, Int 15, Wis 13, Cha 15
+Base Atk +6; CMB +8; CMD 20 (can’t be tripped)
+Feats Improved Initiative, Iron Will, Lightning Reflexes
+Skills Bluff +10, Disguise +11, Fly +14, Intimidate +11, Knowledge (planes) +11, Knowledge (religion) +11, Perception +10, Sense Motive +10, Stealth +11
+Languages Common, Infernal, Shadowtongue
+SPECIAL ABILITIES
+Planebound (Ex) An umbral shepherd is inherently tied to the Plane of Shadow, and can’t survive for long on any other plane without a host body. Each round that an umbral shepherd is on another plane without a host body, it takes 1d6 points of damage.
+Possession (Su) An umbral shepherd can possess a host body as if using magic jar, save that if its host body is killed while possessed, the shepherd dies as well. An umbral shepherd can attempt a possession anytime it succeeds at a touch attack, even while already in a host body. If the touched creature fails a DC 15 Will save, it becomes possessed. Possession by an umbral shepherd takes a toll on its host body, which takes 1 point of Constitution drain every month it is so possessed. Abandoning a host body requires the umbral shepherd to either take a standard action (to appear in a square adjacent to the host) or make a successful possession attempt on a new host. The save DC is Charisma-based.
+Shadow Touch (Su) An umbral shepherd that succeeds at a touch attack can attempt to dissolve a portion of the victim’s flesh into shadow, which then dissipates, dealing 1d4 points of Constitution damage. Victims that succeed at a DC 15 Fortitude save take half damage. The umbral shepherd can use this ability even while possessing a host body. The save DC is Charisma-based.

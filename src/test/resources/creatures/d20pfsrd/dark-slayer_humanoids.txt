@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dark-slayer
+Dark Slayer CR 3
+XP 800
+CE Small humanoid (dark folk)
+Init +4; Senses detect magic, see in darkness; Perception +4
+DEFENSE
+AC 15, touch 15, flat-footed 11 (+4 Dex, +1 size)
+hp 22 (4d8+4)
+Fort +2, Ref +8, Will +1
+Weaknesses light blindness
+OFFENSE
+Speed 30 ft.
+Melee kukri +8 (1d3-1/18-20 plus black smear poison)
+Special Attacks death throes, poison use, sneak attack +2d6, soul harvest
+Spell-Like Abilities (CL 4th; concentration +6)
+Constant—detect magic
+At will—bleed (DC 12), chill touch (DC 13), darkness, spectral hand
+3/day—daze monster (DC 14), death knell (DC 14), inflict moderate wounds (DC 14)
+STATISTICS
+Str 9, Dex 18, Con 12, Int 10, Wis 11, Cha 15
+Base Atk +3; CMB +1; CMD 15
+Feats Skill Focus (Use Magic Device), Weapon Finesse
+Skills Climb +3, Perception +4, Spellcraft +7, Stealth +12, Use Magic Device +12; Racial Modifiers +4 Climb, +4 Stealth, +4 Perception
+Languages Dark Folk
+SQ magical knack
+SPECIAL ABILITIES
+Death Throes (Su) When a dark slayer is slain, its body implodes violently into nothingness, leaving its gear in a heap on the ground. All creatures within a 10-foot burst take 1d8 points of sonic damage and must make a DC 13 Fortitude save or be deafened for 2d4 rounds. The save DC is Constitution-based.
+Magical Knack (Ex) Spellcraft and Use Magic Device are always class skills for dark slayers.
+Soul Harvest (Su) When a dark slayer damages a flat-footed foe or a foe it is flanking with a melee touch spell or spell-like ability that deals hit point damage, the spell does an additional 1d6 points of damage and the dark slayer gains an equal amount of temporary hit points. These temporary hit points last for a maximum of 1 hour.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oni/oni-ogre-mage
+Ogre Mage CR 8
+XP 4,800
+LE Large outsider (giant, native, oni, shapechanger)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +13
+DEFENSE
+AC 21, touch 12, flat-footed 18 (+4 armor, +3 Dex, +5 natural, –1 size)
+hp 92 (8d10+48); regeneration 5 (fire or acid)
+Fort +12, Ref +5, Will +10
+SR 19
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee greatsword +14/+9 (3d6+10)
+Ranged composite longbow +10 (2d6+7)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 9th)
+Constant—fly
+At will—darkness, invisibility
+1/day—charm monster (DC 17), cone of cold (DC 18), gaseous form, deep slumber (DC 16)
+STATISTICS
+Str 24, Dex 17, Con 23, Int 14, Wis 14, Cha 17
+Base Atk +8; CMB +16; CMD 29
+Feats Combat Expertise, Combat Reflexes, Improved Initiative, Iron Will
+Skills Bluff +14, Disguise +14, Fly +5, Intimidate +14, Knowledge (arcana) +13, Perception +13, Sense Motive +13, Spellcraft +13, Use Magic Device +14
+Languages Common, Giant
+SQ change shape (Small, Medium, or Large humanoid; alter self or giant form I), flight

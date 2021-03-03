@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/leanan-sidhe
+Leanan Sidhe CR 9/MR 3
+XP 6,400
+CN Medium fey (Mythic)
+Init +7M; Senses low-light vision; Perception +19
+DEFENSE
+AC 25, touch 19, flat-footed 21 (+5 deflection, +3 Dex, +1 dodge, +6 natural)
+hp 100 (11d6+62)
+Fort +12, Ref +15, Will +13
+DR 10/cold iron and epic
+OFFENSE
+Speed 30 ft., fly 30 ft. (good)
+Melee dagger +5 (1d4/19–20) or touch +5 (1d4 Cha damage)
+Special Attacks life drain, Mythic Power (3/day, Surge +1d6)
+Spell-Like Abilities (CL 10th; concentration +12)
+At will—calm emotions (DC 18), crushing despair (DC 20), dimension door (self plus 50 lbs. of objects only)
+3/day—animal trance (DC 18), quickened charm person (DC 17)
+STATISTICS
+Str 10, Dex 17, Con 18, Int 13, Wis 12, Cha 21
+Base Atk +5; CMB +5; CMD 24
+Feats Alertness, Combat Casting, Dodge, Improved InitiativeM, PersuasiveM, Quicken Spell-Like Ability (charm person), Spell Focus (enchantment)
+Skills Bluff +19, Diplomacy +25, Fly +7, Intimidate +22, Knowledge (arcana) +12, Knowledge (nobility) +7, Perception +19, Sense Motive +19, Spellcraft +6
+Languages Sylvan; tongues
+SQ change shape (any female humanoid), skill blessing, spell blessing, unearthly grace
+SPECIAL ABILITIES
+Life Drain (Ex) A leanan sidhe immediately knows if a creature uses her skill blessing or spell blessing. As a standard action at any range, she can expend one use of Mythic Power to drain 1 point of Constitution from that creature. The leanan sidhe heals 5 hit points or gains 5 temporary hit points for 1 hour (up to a maximum number of temporary hit points equal to her full normal hit points) each time she uses this ability.
+Skill Blessing (Su) As a standard action, a leanan sidhe can create a special token that takes the form of a masterwork artisan’s tool for one Craft or Perform skill. The intended recipient of this tool gains a +4 bonus on skill checks made with the token. Like with a cursed item, the recipient prefers to use the token, refuses to get rid of it, and finds that it returns if stolen or discarded. The leanan sidhe can destroy the token as a standard action at any range. She can have a number of tokens in existence equal to her Mythic Rank.
+Spell Blessing (Su) A leanan sidhe may enhance the magic of a willing humanoid spellcaster by touching him for 1 full round. The blessing allows the target to recall a number of spell levels each day equal to twice the leanan sidhe’s Mythic Rank. This recalling works like a pearl of power, except it works for spellcasters of any class (spontaneous casters recover spent spell slots). The leanan sidhe can end this blessing as a standard action at any range. The number of blessed creatures she can have at the same time is equal to her Mythic Rank.
+Unearthly Grace (Su) A leanan sidhe adds her Charisma modifier as a racial bonus on all her saving throws and as a deflection bonus to her AC.

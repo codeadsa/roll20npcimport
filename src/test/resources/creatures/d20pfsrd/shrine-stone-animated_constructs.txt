@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/shrine-stone-animated
+Animated Shrine Stone CR 7
+XP 3,200
+N Huge construct
+Init -2; Senses Darkvision 60 ft., low-light vision; Perception -5
+DEFENSE
+AC 16, touch 6, flat-footed 16 (-2 Dex, +10 natural, -2 size)
+hp 78 (7d10+40)
+Fort +2, Ref +0, Will -3
+Defensive Abilities hardness 8; Immune construct traits
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +15 (1d8+10)
+Space 15 ft.; Reach 15 ft.
+Special Attacks trample (1d8+15, DC 23)
+STATISTICS
+Str 30, Dex 6, Con -, Int -, Wis 1, Cha 1
+Base Atk +7; CMB +19; CMD 27 (cannot be tripped)
+SQ guard, magical center
+SPECIAL ABILITIES
+Magical Center (Su) The animated shrine stone possesses a valuable jewel on some part of the construct’s body. This jewel must be worth at least 2,500 gp. The jewel serves as the magical center of the construct, allowing it to stay animated. Should the jewel be removed (Disable Device DC 25), the shrine stone holds its current stance. Returning the jewel to the shrine stone’s head reanimates the construct.
+Guard (Su) Whenever a creature comes within 60 ft. of the animated shrine stone’s guard post and the creature does not show the shrine stone the appropriate holy symbol, the construct activates and attacks the creature. To discover the required holy symbol, a creature must succeed a Knowledge (religion) check (DC 20). If the shrine stone has activated and is shown the holy symbol, it will return to its guard post. Drawing the holy symbol on the ground requires a standard action and is sufficient to pacify the shrine stone.

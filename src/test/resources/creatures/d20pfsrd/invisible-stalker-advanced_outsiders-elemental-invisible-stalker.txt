@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/invisible-stalker/invisible-stalker-advanced
+Advanced Invisible Stalker CR 8
+XP 4,800
+N Medium outsider (air, elemental, extraplanar)
+Init +10; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 24, touch 16, flat-footed 18 (+4 Dex, +6 natural)
+hp 94 (7d10+56)
+Fort +15, Ref +13, Will +6
+Defensive Abilities natural invisibility; Immune elemental traits
+OFFENSE
+Speed 30 ft., fly 30 (perfect)
+Melee 2 slams +14 (2d6+6)
+STATISTICS
+Str 22, Dex 23, Con 26, Int 18, Wis 19, Cha 15
+Base Atk +7; CMB +13; CMD 29
+Feats Combat Reflexes, Improved Initiative, Lightning Reflexes, Weapon Focus (slam)
+Skills Acrobatics +16, Bluff +12, Fly +24, Heal +11, Knowledge (planes) +12, Perception +12, Sense Motive +12, Sleight of Hand +13, Stealth +14, Survival +12
+Languages Auran, Common
+SQ improved tracking
+SPECIAL ABILITIES
+Improved Tracking (Ex) An invisible stalker takes no penalty to Survival checks when tracking and moving at any speed.
+Natural Invisibility (Ex) This ability is constant—an invisible stalker remains invisible at all times, even when attacking. As this ability is inherent, it is not subject to the invisibility purge spell. Against foes that cannot pinpoint it, the invisible stalker gains a +20 bonus on Stealth checks when moving, or +40 when standing still—these bonuses are not included in the statistics above.

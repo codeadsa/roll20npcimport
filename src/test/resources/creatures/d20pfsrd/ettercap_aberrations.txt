@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/ettercap
+Ettercap CR 3
+XP 800
+NE Medium aberration
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 15, touch 13, flat-footed 12 (+3 Dex, +2 natural)
+hp 30 (4d8+12)
+Fort +6, Ref +4, Will +6
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee bite +5 (1d6+2 plus poison) and 2 claws +5 (1d4+2)
+Special Attacks traps, web (+6 ranged, DC 15, hp 4)
+STATISTICS
+Str 14, Dex 17, Con 17, Int 6, Wis 15, Cha 8
+Base Atk +3; CMB +5; CMD 18
+Feats Great Fortitude, Improved Initiative
+Skills Climb +14, Craft (trapmaking) +8, Perception +9, Stealth +7; Racial Modifiers +8 on Craft (trapmaking)
+Languages Common
+SQ spider empathy +7
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 15; frequency 1/round for 10 rounds; effect 1d2 Dex; cure 2 consecutive saves. The save DC is Constitution based.
+Spider Empathy (Ex) This ability functions as the druid’s wild empathy, save that an ettercap can only use this ability on spiders. An ettercap gains a +4 racial bonus on this check. Spiders are mindless, but this empathic communication imparts on them a modicum of implanted intelligence, allowing ettercaps to train giant spiders and use them as guardians.
+Traps (Ex) The ettercap is particularly skilled at crafting cunning traps with its webs. Deadfalls, nooses, and spear traps are the most common traps ettercaps build with their webs. An ettercap doesn’t require gold to build its traps, merely time.
+Ettercap Deadfall: CR 3; Type mechanical; Perception DC 20; Disable Device DC 20; Trigger location; Reset repair; Effect +10 melee (4d6), multiple targets (all targets in a 10-ft. square). Ettercap Noose*: CR 1; Type mechanical; Perception DC 20; Disable Device DC 20; Trigger location; Reset repair; Effect +15 CMB check (grapple). Ettercap Spear Trap: CR 2; Type mechanical; Perception DC 20; Disable Device DC 20; Trigger location; Reset repair; Effect +15 melee (1d6+6). * See clarification on Ettercap Noose Trap at bottom of this page.

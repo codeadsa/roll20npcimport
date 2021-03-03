@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/cooshee-TOHC
+Cooshee CR 2
+XP 600
+NG Medium magical beast
+Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +7
+DEFENSE
+AC 16, touch 13, flat-footed 13 (+3 Dex, +3 natural)
+hp 22 (3d10+6)
+Fort +5, Ref +6, Will +2; +4 vs. enchantment
+OFFENSE
+Speed 40 ft. (plus sprint)
+Melee Bite +6 (1d8+2 plus grab or trip), 2 claws +6 (1d4+1)
+STATISTICS
+Str 15, Dex 17, Con 15, Int 4, Wis 12, Cha 6
+Base Atk +3; CMB +5 (+9 to grapple); CMD 18
+Feats Alertness, Weapon Finesse
+Skills Perception +7, Sense Motive +3, Stealth +11 (+15*), Survival +5 (+9**); Racial Modifiers +4 Stealth *Due to their coloration, the racial bonus to Stealth checks increases to +8 in their natural environment. **Cooshee have a +4 racial bonus on Survival checks when tracking by scent.
+SQ sprint
+SPECIAL ABILITIES
+Sprint (Ex) Once per hour, a cooshee can move ten times its normal speed (400 ft.) when it makes a charge attack.

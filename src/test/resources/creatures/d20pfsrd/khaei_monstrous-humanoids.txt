@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/khaei
+Khaei CR 3
+XP 800
+N Small monstrous humanoid
+Init +5; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 15, touch 12, flat-footed 14 (+1 Dex, +3 natural, +1 size)
+hp 30 (4d10+8)
+Fort +3, Ref +5, Will +4
+OFFENSE
+Speed 20 ft.
+Melee club +5 (1d4) or touch +5 (lost time)
+Ranged sling +6 (1d3)
+Spell-Like Abilities (CL 4th; concentration +5)
+Constant–blur
+At will–dancing lights
+STATISTICS
+Str 10, Dex 13, Con 14, Int 7, Wis 10, Cha 13
+Base Atk +4; CMB +3; CMD 14
+Feats Combat Reflexes, Improved Initiative
+Skills Perception +7, Stealth +16; Racial Modifiers +4 Stealth
+Languages Undercommon
+SPECIAL ABILITIES
+Lost Time (Su) As a touch attack, a khaei can touch a creature and prematurely age it. The creature touched must succeed at a DC 14 Fortitude save or take 1d4 points of Constitution damage and be permanently aged 1d10 years. This effect also deals 1d4 points of damage to the khaei. Effects from multiple khaei stack, though a single khaei can use this power on a given opponent only once.

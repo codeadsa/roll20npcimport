@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/freezing-flow
+Freezing Flow CR 4
+XP 1,200
+N Large ooze (cold, water)
+Init –5; Senses blindsense 60 ft.; Perception –5
+DEFENSE
+AC 16, touch 12, flat-footed 13 (+3 Dex, +4 natural, –1 size)
+hp 47 (5d8+25)
+Fort +6, Ref +3, Will –4
+Immune cold, ooze traits
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 20 ft., swim 20 ft.
+Melee slam +6 (2d4+6/19–20 plus 1d6 cold and grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (2d4+6 plus 1d6 cold), jagged slam, numbing touch
+STATISTICS
+Str 18, Dex 16, Con 20, Int —, Wis 1, Cha 1
+Base Atk +3; CMB +8; CMD 13
+Skills Swim +12
+SQ crystalline
+SPECIAL ABILITIES
+Crystalline (Ex) As a creature of living ice, a freezing flow is difficult to discern from its surroundings in icy and snowy land environments and when in icy water. A successful DC 15 Perception check is required to notice a freezing flow in these environments. Any creature that fails to notice a freezing flow and walks into it automatically takes damage as if struck by the ooze’s slam attack.
+Jagged Slam (Ex) A freezing flow’s slam attack is a slashing tendril of crystalline ice. It deals slashing damage instead of bludgeoning damage and has a critical range of 19–20.
+Numbing Touch (Ex) Each time a freezing flow deals cold damage with its slam attack or constrict ability, the target must succeed at a DC 17 Fortitude save or be staggered with numbing cold for 1 round. The save DC is Constitution-based.

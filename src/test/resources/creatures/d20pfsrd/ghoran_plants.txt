@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/ghoran
+Ghoran CR 1
+XP 200
+Ghoran bard 1
+N Medium plant
+Init +1; Senses low-light vision; Perception +5
+DEFENSE
+AC 13, touch 11, flat-footed 12 (+1 Dex, +2 natural)
+hp 12 (1d8+4)
+Fort +3, Ref +3, Will +3
+Immune plant traits
+Weaknesses delicious, light dependent
+OFFENSE
+Speed 30 ft.
+Melee rapier +1 (1d6–1/18–20)
+Special Attacks bardic performance 7 rounds/day (countersong, distraction, fascinate, inspire courage +1)
+Spell-Like Abilities (CL 1st; concentration +4)
+1/day—detect poison, goodberry, purify food and drink
+Bard Spells Known (CL 1st; concentration +4)
+1st (2/day)—charm person (DC 14), sleep (DC 14)
+0 (at will)—daze (DC 13), light, mending, message
+STATISTICS
+Str 8, Dex 13, Con 16, Int 8, Wis 12, Cha 17
+Base Atk +0; CMB –1; CMD 10
+Feats Weapon Finesse
+Skills Bluff +7, Knowledge (history) +4, Knowledge (local) +4, Perception +5, Perform (sing) +7
+Languages Common, Sylvan
+SQ bardic knowledge +1, ghorus seed, past-life knowledge
+SPECIAL ABILITIES
+Delicious (Ex) Ghorans take a –2 penalty on Escape Artist and combat maneuver checks to escape a grapple against any creature that has a bite attack with the grab ability.
+Ghorus Seed (Ex) As a full-round action, a ghoran can expel its ghorus seed from an orifice in its abdomen. If planted in fertile ground and left undisturbed for 2d6 days, the seed grows into a healthy duplicate of the original ghoran, save that the duplicate can reallocate all of its skill ranks upon sprouting. Once a ghoran expels its seed, it gains 1 negative level, and it dies as soon as its duplicate sprouts. This duplicate replaces the previous ghoran character.
+Light Dependent Ghorans take 1d4 points of Constitution damage each day they go without exposure to sunlight.
+Past-Life Knowledge (Ex) Ghorans remember memories encoded in their ghorus seed. They treat all Knowledge skills as class skills.
+Ghoran Characters (19 RP) Ghorans are defined by their class levels–they do not possess racial Hit Dice. They have the following racial traits.
+Standard Racial Traits Ability Score Modifiers Ghorans are hardy and guileful, but process thoughts slowly. As a result, ghorans gain a +2 bonus to Constitution and Charisma, but suffer a –2 penalty to Intelligence. Languages: Ghorans begin play speaking Sylvan and Common. Ghorans with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic). Defense Racial Traits Delicious (–1 RP): Ghorans take a –2 penalty on Escape Artist and combat maneuver checks made to escape a grapple against any creature that has a bite attack with the grab ability. Natural Armor: Ghorans have tough, rugged skin, granting them a +2 natural armor bonus. Type Plant: Ghorans have the plant type. Feat and Skill Racial Traits Past-Life Knowledge (2 RP): Ghorans remember memories encoded in their ghorus seed. They treat all Knowledge skills as class skills. Magical Racial Traits Natural Magic (2 RP): Ghorans with a Charisma score of 11 or higher gain the following spell-like abilities: 1/day–detect poison, goodberry (created berries bud from the ghoran’s body), and purify food and drink. The caster level is equal to the ghoran’s level. The DC for these spells is equal to 10 + the spell’s level + the ghoran’s Charisma bonus. Ghorus Seed (6 RP): As a full-round action, a ghoran can expel its ghorus seed from an orifice in its abdomen. If planted in fertile ground and left undisturbed for 2d6 days, the seed grows into a healthy duplicate of the original ghoran, save that the duplicate may reallocate all of its skill ranks upon sprouting. Once a ghoran expels its seed, it gains 1 negative level, and it dies as soon as its duplicate sprouts. This duplicate replaces the previous ghoran character. Light Dependent (–2 RP): Ghorans take 1d4 points of Constitution damage each day they go without exposure to sunlight.

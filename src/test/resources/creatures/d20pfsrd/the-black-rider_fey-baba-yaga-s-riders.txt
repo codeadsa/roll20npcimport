@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/baba-yaga-s-riders/the-black-rider
+The Black Rider CR 13
+XP 25,600
+LN Medium fey
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +25
+Aura icy aura (10 ft., DC 24)
+DEFENSE
+AC 29, touch 15, flat-footed 24 (+9 armor, +5 Dex, +5 natural)
+hp 171 (18d6+108)
+Fort +12, Ref +16, Will +15
+DR 10/cold iron; Immune cold, poison; SR 24
+OFFENSE
+Speed 30 ft.
+Melee +2 icy burst spear +18/+13 (1d8+11/19–20×3)
+Special Attacks Rider’s weapon, weal or woe (DC 24)
+Spell-Like Abilities (CL 13th; concentration +18)
+Constant—see invisibility
+At Will—chill touch (DC 16), detect thoughts (DC 17), zone of truth (DC 17)
+5/day—deeper darkness, ice storm
+3/day—cone of cold (DC 20), dust of twilight (DC 17), moonstruck (DC 19)
+1/day—cloak of dreams (DC 21)
+STATISTICS
+Str 23, Dex 20, Con 22, Int 17, Wis 18, Cha 21
+Base Atk +9; CMB +15; CMD 25 (can’t be disarmed)
+Feats Cleave, Critical Focus, Improved Critical (spear), Mounted Combat, Power Attack, Ride-By Attack, Spirited Charge, Trample, Weapon Focus (spear)
+Skills Intimidate +23, Knowledge (arcana) +18, Knowledge (history) +18, Knowledge (nature) +21, Knowledge (planes) +18, Perception +25, Ride +26, Sense Motive +25, Stealth +26, Survival +16
+Languages Common, Skald, Sylvan, one other; telepathy 60 ft.
+SQ conjure mount, rider’s robes
+SPECIAL ABILITIES
+Icy Aura (Su) Misty vapors roil from the Black Rider to a distance of 10 feet. Any creatures in contact with the vapors must succeed at a DC 24 Fortitude save or be slowed as per the slow spell. Once affected, the creature remains slowed as long as it is in the aura and for 1 round afterward. The save DC is Charisma-based.
+Rider’s Robes (Su) The Black Rider wears robes that provide the same protection as full plate armor.
+Rider’s Weapon (Su) Whenever the Black Rider successfully confirms a critical hit with his +2 icy burst spear, the target is stunned for 1 round unless it succeeds at a DC 24 Fortitude save. The save DC is Charisma-based.

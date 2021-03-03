@@ -1,0 +1,42 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-jubilex-the-faceless-lord-tohc
+Jubilex (The Faceless Lord) CR 23
+XP 820,000
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +9; Senses darkvision 60 ft., true seeing; Perception +51; Aura unholy aura (DC 25)
+DEFENSE
+AC 43, touch 30, flat-footed 38 (+5 Dex, +9 insight, +13 natural, +7 profane, –1 size)
+hp 553 (27d10+405)
+Fort +32, Ref +20, Will +20
+DR 20/cold iron and good; Immune acid, cold, electricity, ooze traits; Resist fire 10; SR 34
+OFFENSE
+Speed 30 ft.
+Melee slam +42 (2d6+22/19–20 plus 4d6 acid plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks acid, acid spittle (20-ft. line, 4d6 acid damage plus 1d6 Con damage, Fort DC 38, usable once per minute), chaos blade 4/day (10 rounds), constrict (2d6+22 plus 4d6 acid), scythe of evil 4/day (10 rounds)
+Spell-Like Abilities (CL 23rd)
+Constant—true seeing, unholy aura (DC 25)
+At will—circle of cold (cold, 10-ft. radius; 5d6 cold damage, Fort DC 24 half, usable 100 rounds/day), contagion (DC 21), deeper darkness, detect good, detect thoughts (DC 19), fear (DC 21), fly (self only), greater dispel magic, hold monster (DC 22), invisibility, protection from good, pyrotechnics (DC 19), suggestion (DC 20), symbol of pain (DC 22), telekinesis (DC 22), greater teleport (self plus 50 pounds of objects only), tongues (self only), unhallow, unholy blight (DC 21), wall of acid (as wall of fire, but deals acid damage)
+1/day—blasphemy (DC 24), summon (level 9, 4d10 dretches, 2d4 lesser ooze demons, 1d4 greater ooze demons, or 2 nalfeshnees, or 1 balor 100%), summon (level 9, 54 HD of oozes 100%)
+Domain Spell-Like Abilities (CL 20th)
+12/day—touch of chaos, touch of evil, icicle (1d6+10 cold)
+Unholy Spells Prepared (CL 20th)
+9th—energy drain (DC 28), mass heal, miracle, soul bind (DC 28), summon monster IX (evil spell only)D, true resurrection
+8th—antimagic field, dimensional lock, fire storm (DC 27), horrid wiltingD (DC 27), mass inflict critical wounds (DC 27), mass inflict critical wounds (DC 27)
+7th—blasphemyD (DC 26), control weather, destruction (DC 26), destruction (DC 26), repulsion (DC 26), word of chaos (DC 26)
+6th—animate objectsD, geas/quest (DC 25), harm (DC 25) x2, heal, summon monster VI
+5th—break enchantment, dispel good (DC 24), dispel law (DC 24), ice stormD, raise dead, scrying, slay living (DC 24), wall of stone
+4th—control waterD, death ward, discern lies (DC 23), divination, giant vermin, inflict critical wounds (DC 23) x2, restoration
+3rd—animate dead, bestow curse (DC 22), contagion (DC 22) x2, inflict serious wounds (DC 22), magic circle against good, magic circle against lawD, water breathing
+2nd—aid, bear’s endurance, death knell (DC 21), delay poison, enthrall (DC 21), fog cloudD, shatter (DC 21), silence (DC 21)
+1st—bane (DC 20), cause fear (DC 20), command (DC 20), curse water (DC 20), detect law, entropic shield, protection from lawD, sanctuary (DC 20), summon monster I
+0 (at will)— bleed (DC 19), create water, detect magic, light, read magic
+D domain spell; Domains Chaos, Evil, Water
+TACTICS
+When confronted, he usually takes the form of a 12-foot tall column of bubbling and squirting ooze. Jubilex weighs about 6,000 pounds. Jubilex lashes out with a slimy appendage, attempting to grab and constrict opponents. Grabbed creatures are crushed and cast aside, to be dissolved and devoured at a later time. Jubilex can flatten his body, thereby enabling him to squeeze through cracks and openings of Tiny or larger size.
+STATISTICS
+Str 40, Dex 20, Con 41, Int 24, Wis 28, Cha 24
+Base Atk +27; CMB +43 (+47 grapple); CMD 74 (84 vs. bull rush, can’t be tripped)
+Feats Alertness, Cleave, Combat Reflexes, Critical Focus, Enlarge Spell, Great Cleave, Great Fortitude, Improved Critical (slam), Improved Initiative, Iron Will, Maximize Spell, Power Attack, Sickening Critical, Weapon Focus (slam)
+Skills Bluff +37, Climb +45, Diplomacy +34, Escape Artist +35, Intimidate +37, Knowledge (arcana) +34, Knowledge (planes) +37, Knowledge (religion) +34, Perception +51, Sense Motive +43, Spellcraft +34, Stealth +31, Survival +39; Racial Modifiers +8 Perception
+Languages Abyssal, Aquan, Common, Draconic, Giant, Infernal, Terran; telepathy 100 ft.
+SQ planar omniscience

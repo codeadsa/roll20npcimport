@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/svartalfar
+Svartalfar CR 8
+XP 4,800
+LE Medium fey (extraplanar)
+Init +5; Senses darkvision 120 ft., low-light vision; Perception +18
+DEFENSE
+AC 20, touch 15, flat-footed 15 (+5 Dex, +5 natural)
+hp 84 (13d6+39)
+Fort +6, Ref +13, Will +12
+DR 10/cold iron; Resist cold 10, electricity 10; SR 19
+Weaknesses light blindness
+OFFENSE
+Speed 40 ft.
+Melee +1 longsword +9/+6 (1d8+4/19–20)
+Special Attacks bane, quickened spell strike, sneak attack +3d6
+Spell-Like Abilities (CL 13th; concentration +18)
+At will—chill touch (DC 16), corrosive touch
+3/day—frigid touch, shadow step, vanish
+1/day—force punch (DC 18), greater invisibility, ray of exhaustion (DC 18)
+STATISTICS
+Str 12, Dex 21, Con 17, Int 18, Wis 14, Cha 21
+Base Atk +6; CMB +11; CMD 22
+Feats Agile Maneuvers, Combat Casting, Iron Will, Skill Focus (Stealth), Stealthy, Vital Strike, Weapon Focus (longsword)
+Skills Acrobatics +21 (+25 when jumping), Bluff +21, Escape Artist +25, Intimidate +18, Knowledge (nature) +20, Knowledge (planes) +17, Perception +18, Sense Motive +18, Sleight of Hand +21, Stealth +31; Racial Modifiers +4 Acrobatics when jumping
+Languages Aklo, Common, Elven, Sylvan
+SPECIAL ABILITIES
+Bane (Su) Once per day as a swift action, a svartalfar can imbue one of its weapons with the bane weapon special ability. It must select one creature type (and subtype, if choosing humanoid or outsider) when it uses this ability. This lasts for 1 hour. This ability only functions while the svartalfar wields the weapon.
+Quickened Spell Strike (Su) Three times per day as a free action after hitting with a melee weapon, a svartalfar can cast and deliver one of the following of its spell-like abilities through the weapon: chill touch, corrosive touch, force punch, frigid touch, or ray of exhaustion. If the attack is a critical hit and the spell-like ability deals damage, it deals double damage.

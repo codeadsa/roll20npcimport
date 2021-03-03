@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/personification-of-fury
+Personification Of Fury CR 15
+XP 51,200
+N Huge outsider (air, elemental, extraplanar, herald, water)
+Init +16; Senses darkvision 60 ft.; Perception +22
+DEFENSE
+AC 30, touch 21, flat-footed 17 (+12 Dex, +1 dodge, +9 natural, –2 size)
+hp 195 (17d10+102); fast healing 10
+Fort +16, Ref +22, Will +9
+Defensive Abilities air mastery; DR 15/—; Immune cold, electricity, elemental traits
+OFFENSE
+Speed fly 100 ft. (perfect), swim 90 ft.
+Melee 2 slams +27 (2d10+9/19–20 plus 2d6 cold or electricity)
+Ranged 2 energy rays +27/+22/+17/+12 touch (2d6 cold or electricity/18–20)
+Space 15 ft.; Reach 15 ft.
+Special Attacks drench, vortex (10–60 ft. high, DC 27), water mastery, whirlwind (10–60 ft. high, DC 27)
+Spell-Like Abilities (CL 17th; concentration +21)
+At will—create water, invisibility (self only), summon monster II (air or water elemental only)
+5/day—air breathing (as water breathing, but allows water-breathing creatures to breathe air or water), control water, control weather (as a druid), water breathing
+1/day—beast shape IV, possess object, summon monster IX (air or water elementals only)
+STATISTICS
+Str 28, Dex 35, Con 22, Int 15, Wis 15, Cha 18
+Base Atk +17; CMB +28 (+30 bull rush); CMD 51 (53 vs. bull rush)
+Feats Blind-Fight, Combat Reflexes, Dodge, Flyby Attack, Improved Bull Rush, Improved Critical (slam), Improved Initiative B, Iron Will, Mobility, Power Attack, Weapon Finesse B
+Skills Acrobatics +29, Escape Artist +32, Fly +27, Knowledge (nature, religion) +22, Knowledge (planes) +13, Perception +22, Sense Motive +14, Stealth +24, Survival +11, Swim +17
+Languages Aquan, Auran, Common, Druidic, Ignan, Sylvan, Terran
+SQ change shape (air or water elemental; elemental body IV)
+SPECIAL ABILITIES
+Air Mastery (Ex) Airborne creatures take a –1 penalty on attack and damage rolls against the herald.
+Drench (Ex) The herald’s touch puts out Huge or smaller non-magical flames. The herald can dispel magical fire it touches as dispel magic (caster level 19th).
+Energy Ray (Ex) The herald can shoot rays of cold or electricity up to 100 feet. These can threaten a critical hit on a roll of 18, 19, or 20.
+Vortex (Su) The herald can create a whirlpool at will as a standard action. This ability functions identically to its whirlwind special attack, but can only form underwater and cannot leave the water.
+Water Mastery (Ex) The herald gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. These modifiers apply to bull rush and overrun maneuvers, whether the elemental is initiating or resisting these kinds of attacks. (Unlike a water elemental, the herald does not have a penalty if it or its opponent is touching the ground.)

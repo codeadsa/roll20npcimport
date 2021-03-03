@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/cerebral-stalker
+Cerebral Stalker CR 8
+XP 4,800
+CE Medium aberration
+Init +6; Senses darkvision 60 ft., tremorsense 90 ft.; Perception +17
+DEFENSE
+AC 19, touch 12, flat-footed 17 (+2 Dex, +7 natural)
+hp 58 (9d8+18)
+Fort +7; Ref +5; Will +8
+OFFENSE
+Speed 30 ft., burrow 20 ft.; earth glide
+Melee 2 claws +10 (1d6+3 plus grab [only if both claws hit]), bite +9 (1d8+3)
+Special Attacks cocoon, fear gaze, sink
+STATISTICS
+Str 16, Dex 15, Con 15, Int 11, Wis 15, Cha 15
+Base Atk +6; CMB +9 (+13 grapple); CMD 21
+Feats Great Fortitude, Improved Initiative, Skill Focus (Perception), Stealthy, Weapon Focus (claw)
+Skills Escape Artist +20, Perception +17, Stealth +15, Survival +14; Racial Modifiers +4 Escape Artist due to mucus coating Languages unknown; thought to understand Common and several other languages, but never speak
+SPECIAL ABILITIES
+Fear Gaze (Su) Paralyzed with fear 1d4 rounds, range 30 feet, Will DC 16 negates and renders target immune to this ability for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based.
+Cocoon (Ex) Once per round as a standard action, and no more than three times per day, a cerebral stalker can cocoon a grappled foe by shooting sticky webbing from its body. The webs cover as much of the victim as possible, excluding the top of the victim’s head, its eyes, and its nose. The webs remain attached to the cerebral stalker’s body and stretch from just under its arms to its knees. A cocooned victim is anchored to the cerebral stalker and cannot move. The cocooned creature can, as a standard action, break free with a successful DC 20 Strength check or DC 16 Escape Artist check. The webbing has 8 hit points. Note the victim is still grappled even if it breaks the webbing and must succeed at a grapple check to get completely free of the cerebral stalker’s grasp. The check DCs are Constitution-based and the Strength check includes a +4 racial bonus. Once a victim is cocooned, the cerebral stalker can use its sink ability.
+Consume Brain (Ex) Once it has its victim underground, the cerebral stalker begins gnawing on the victim’s head, rapidly chewing through bone and tissue, dealing 2d8+4 points of damage each round. When the victim dies, the cerebral stalker has reached its goal—the victim’s brain, which it promptly devours. A victim slain in this manner is ejected from the ground and becomes a zombie (see below).
+Create Zombie (Su) A creature whose brain is devoured by a cerebral stalker is ejected from the ground and animates as a zombie in 1d4 rounds. Zombies created in this manner are not under the control of the cerebral stalker.
+Earth Glide (Ex) A cerebral stalker can glide through any sort of natural earth or stone as easily as a fish swims through water. Its gliding leaves no sign of its passage or hint of its presence to creatures that don’t possess tremorsense. A move earth spell cast on an area
+Sink (Su) After cocooning a foe, the cerebral stalker begins sinking into the ground, taking the cocooned victim with it. It takes four full rounds for the stalker and foe to completely sink into the ground. In the first round, the creature sinks to its knees; in the second round to its waist; in the third round to its neck; and in the last round, both stalker and foe are completely underground.
+Sinking is a move action that does not provoke an attack of opportunity. Creatures attempting to grab the cocooned victim and prevent the sinking must first break or burn the webbing (see above), and then succeed at a grapple check against the cerebral stalker. A dispel magic (or similar effect) cast on a sinking cerebral stalker paralyzes it (as if by a hold monster spell) for a number of rounds equal to the caster’s level if the stalker fails a Fortitude save. The stalker can make a new save each round to negate the paralysis. The stalker and victim sink to a depth of 10 feet where the victim is placed in a stasis (similar to temporal stasis).
+The spot where the cerebral stalker and victim sunk radiates magic and can be detected normally. Spells such as locate object, discern location, scrying, and other divinatory magic reveals the entombed creature and stalker. A freedom spell cast on the spot where the stalker and victim sunk immediately frees the subject from the webbing and ejects both it and the stalker, who is stunned for 1 round, to the surface.

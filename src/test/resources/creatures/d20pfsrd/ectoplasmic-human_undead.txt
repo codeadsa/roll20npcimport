@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ectoplasmic-human
+Ectoplasmic Human CR 1/2
+XP 200
+N Medium undead (human with Ectoplasmic Creature Template)
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 12, touch 10, flat-footed 12 (+2 natural)
+hp 7 (1d8+3)
+Fort +0, Ref +0, Will +2
+DR 5/slashing; Immune undead traits
+OFFENSE
+Speed 30 ft.; air walk
+Melee slam +3 (1d4+3 plus horrifying ooze)
+Special Attacks horrifying ooze
+Spell-Like Abilities (CL 1st; concentration +1)
+Constant—air walk
+STATISTICS
+Str 16, Dex 11, Con —, Int —, Wis 10, Cha 12
+Base Atk +0; CMB +3; CMD 13
+Feats Toughness B
+SQ phase lurch
+SPECIAL ABILITIES
+Horrifying Ooze (Su) Any creature struck by an ectoplasmic creature’s slam attack must succeed at a DC 11 Will save or be shaken for 1d4 rounds. The save DC is Charisma-based.
+Phase Lurch (Su) An ectoplasmic creature has the ability to pass through walls or material obstacles. To use this ability, the ectoplasmic creature must begin and end its turn outside of whatever wall or obstacle it’s moving through. An ectoplasmic creature cannot move through corporeal creatures with this ability, and its movement speed is halved while moving through a wall or obstacle. Any surface it moves through is coated with a thin, silvery mucus that lingers for 1 minute.

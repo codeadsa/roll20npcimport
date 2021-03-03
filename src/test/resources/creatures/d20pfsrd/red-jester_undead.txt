@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/red-jester
+Red Jester CR 10
+XP 9,600
+CN Medium undead
+Init +8; Senses darkvision 60ft.; Perception +15
+DEFENSE
+AC 25, touch 15, flat-footed 20 (+4 Dex, +1 dodge, +10 natural)
+hp 67 (15d8)
+Fort +5, Ref +9, Will +11
+Defensive Abilities channel resistance +4, unassailable mind;
+DR 10/magic; Immune undead traits; SR 21
+OFFENSE
+Speed 30 ft.
+Melee +2 light mace of merriment +17 (1d6+4 plus merriment) or 2 slams +13 (1d4+2)
+Ranged jester’s deck +15 (see below)
+Space 5 ft.; Reach 5 ft.
+Special Attacks fear cackle, jester’s deck, merriment
+TACTICS
+A red jester opens combat using its fear cackle attempting to affect as many opponents as possible. Those that resist its effects are assailed with its magical playing cards and mace. During the entire combat, the red jester talks, laughs, and tells jokes and riddles.
+STATISTICS
+Str 15, Dex 18, Con –, Int 15, Wis 14, Cha 16
+Base Atk +11; CMB +13; CMD 27
+Feats Ability Focus (fear cackle), Catch Off-Guard, Dodge, Improved Initiative, Mobility, Spring Attack, Throw Anything, Weapon Finesse
+Skills Acrobatics +17, Intimidate +16, Perform (act) +16, Perform (comedy) +20, Perform (oratory) +16, Perception +15, Sense Motive +15, Sleight of Hand +17, Stealth +17; Racial Modifiers +4 Perform (comedy)
+Languages Common plus any 2
+Combat Gear jester’s deck; Other Gear +2 light mace of merriment
+SPECIAL ABILITIES
+Fear Cackle (Su) A red jester can unleash a fear-inducing cackle as a free action. All creatures within 60 feet that hear it must make a successful DC 22 Will save or become panicked for 2d4 rounds. Panicked creatures suffer a -2 morale penalty on saves and flee (if possible). A panicked creature has a 50% chance to drop what it’s holding. If cornered or unable to flee, a panicked creature cowers. This is a sonic, mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to that red jester’s fear cackle for one day. The save DC is Charisma-based.
+Jester’s Deck (Su) The red jester uses a deck of playing cards in combat that functions as a deck of many things. Once per round, as a standard action, the red jester can draw a single card and throw it at an opponent to a range of 20 feet. This requires a successful ranged touch attack. If successful, the card takes effect that round and affects the target just as if he had drawn a card from a deck of many things. A red jester can draw the same card more than once. The playing cards only function in the hands of a red jester. To anyone else, they are merely normal playing cards.
+Merriment (Su) If a red jester strikes an opponent with its mace, the creature must make a successful DC 20 Will save or fall to the ground laughing for 1d3 rounds. The opponent is not helpless, but is unable to move or act for the duration. A mace of merriment functions only in the hands of a red jester. In the hands of any other creature it functions as a masterwork light mace.
+Unassailable Mind (Ex) The mind of a red jester is a twisted and dangerous place to journey. Being undead, it is immune to all mind-influencing effects and should a creature target the mind of a red jester with such an effect (including psionics, telepathy, or the like), the creature attempting to invade the red jester’s mind must make a successful DC Will save or suffer the effects of an insanity spell (caster level 15th). The save DC is Charisma-based.

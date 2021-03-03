@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-baaphel-duke-of-hell-tohc
+Baaphel (Duke of Hell) CR 21
+XP 409,600
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +11; Senses darkvision 60 ft., detect good, detect magic, see in darkness; Perception +35
+DEFENSE
+AC 38, touch 19, flat-footed 37 (+9 armor, +2 Dex, +11 natural, +7 profane)
+hp 270 (20d10+160); regeneration 10 (good, silver)
+Fort +14, Ref +19, Will +22
+DR 15/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 32
+OFFENSE
+Speed 30 ft., fly 50 ft. (good) (40 ft., fly 60 ft. base)
+Melee +3 axiomatic keen scythe +35/+30/+25/+20 (2d4+19/19–20/x4) or fear touch +31 (fear)
+Special Attacks fear touch (Will DC 27, fear spell, CL 20th)
+Spell-Like Abilities (CL 20)
+Constant—detect good, detect magic
+At will—blasphemy (DC 24), charm monster (DC 21), desecrate, fire shield, greater dispel magic, greater invisibility (DC 21), greater teleport (self plus 50 pounds of objects only), magic circle against good, suggestion (DC 20), tongues, unholy aura (DC 25)
+2/day—summon (level 9, 4d10 nupperibos, 2d6 bearded devils, bone devils or erinyes, or 1 ghaddar 100%)
+1/day—circle of death (DC 23), flesh to stone (DC 23), symbol of pain (DC 22), symbol of sleep (DC 22)
+TACTICS
+Baaphel attacks with Hell’s Gleaning and spell-like abilities. He usually opens combat with flesh to stone, attempting to take out the most able bodied attacker. Baaphel wears +3 chainmail and is rarely encountered without it.
+STATISTICS
+Str 33, Dex 25, Con 27, Int 26, Wis 26, Cha 25
+Base Atk +20; CMB +31; CMD 55
+Feats Alertness, Blind-Fight, Cleave, Great Cleave, Improved Initiative, Improved Sunder, Iron Will, Power Attack, Weapon Focus (scythe), Vital Strike
+Skills Appraise +28, Bluff +30, Diplomacy +30, Disguise +27, Escape Artist +30, Fly +34, Intimidate +30, Knowledge (arcana) +31, Knowledge (planes) +31, Knowledge (religion) +28, Perception +35, Sense Motive +35, Stealth +30, Survival +28
+Languages Abyssal, Celestial, Common, Draconic, Giant, Infernal, Terran; telepathy 100 ft.
+Gear Hell’s Gleaning, +3 chainmail
+SPECIAL ABILITIES
+Fear Touch (Su) A creature that successfully saves cannot be affected again by Baaphel’s fear touch for one day. The save DC is Charisma-based.
+GEAR Unique Item: Hell’s Gleaning
+Baaphel’s unique weapon is named Hell’s Gleaning and is a +3 axiomatic keen scythe.

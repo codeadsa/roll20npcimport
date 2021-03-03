@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/thundershrike
+Thundershrike CR 9
+XP 25,600
+N Huge magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +17
+DEFENSE
+AC 19, touch 10, flat-footed 17 (+2 Dex, +9 natural, -2 size)
+hp 136 (13d10+65)
+Fort +13, Ref +10, Will +7
+OFFENSE
+Speed 20 ft., fly 70 ft. (average)
+Melee 2 claws +19 (1d8+8), bite +20 (2d6+8)
+Space 15 ft.; Reach 10 ft.
+Spell-like Abilities (CL 13th):
+At will—gust of wind (DC 15)
+2/day—lightning bolt (DC 16 half)
+1/day—control weather
+STATISTICS
+Str 26, Dex 15, Con 20, Int 13, Wis 16, Cha 17
+Base Atk +13; CMB +23; CMD 35
+Feats Flyby Attack, Hover, Power Attack, Snatch, Vital Strike, Weapon Focus (bite), Wingover
+Skills Fly +8, Knowledge (nature) +10, Perception +17, Spellcraft +12, Survival +10; Racial Modifiers +4 Perception
+Languages Auran, Common

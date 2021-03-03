@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/jellyfish/jellyfish-monstrous
+Monstrous Jellyfish CR 2
+XP 600
+N Large vermin
+Init +1; Senses watersense 60 ft; Perception +0
+DEFENSE
+AC 12, touch 10, flat-footed 11 (+1 Dex, +2 natural, -1 size)
+hp 13 (3d8)
+Fort +3, Ref +2, Will +1
+Defensive Abilities jet, transparent; Immune vermin traits
+OFFENSE
+Speed swim 10 ft.
+Melee tentacles +3 (1d6 plus poison and grab)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 11, Dex 12, Con 10, Int –, Wis 10, Cha 2
+Base Atk +2; CMB +3 (+7 to grapple); CMD 14 (can’t be tripped)
+Feats Weapon FinesseB
+Skills Stealth +5, Swim +8; Racial Modifiers +8 Stealth
+SPECIAL ABILITIES
+Jet (Ex) A monstrous jellyfish can jet backward once per round as a full-round action at a speed equal to four times its swim speed. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
+Poison (Ex) Tentacle–injury; save DC 13; frequency 1/ minute for 6 minutes; effect 1d6 Dexterity damage; cure 2 consecutive saves. The save DC is Constitution-based and includes a +2 bonus.
+Transparent (Ex) A monstrous jellyfish is nearly invisible floating in the water. An observer must succeed on a DC 20 Perception check to notice the jellyfish.
+Watersense (Ex) Monstrous jellyfish can automatically sense the location of anything within 60 feet that is in contact with water.

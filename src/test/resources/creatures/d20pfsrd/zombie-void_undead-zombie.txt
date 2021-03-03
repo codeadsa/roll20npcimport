@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/zombie/zombie-void
+Void Zombie CR 1/2
+XP 200
+NE Medium undead
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 14, touch 10, flat-footed 12 (+2 Dex, +2 natural)
+hp 12 (2d8+3)
+Fort +0, Ref +2, Will +3
+Immune undead traits
+OFFENSE
+Speed 40 ft.
+Melee 2 slams +4 (1d6+4), tongue -1 (1d6+1)
+Special Attacks blood drain, quick strikes
+STATISTICS Str 17, Dex 14, Con —, Int —, Wis 10, Cha 10
+Base Atk +1; CMB +4; CMD 16
+Feats ToughnessB
+SPECIAL ABILITIES
+Blood Drain (Ex) If a void zombie hits a living creature with its tongue attack, it drains blood, dealing 2 points of Strength damage before the tongue detaches.
+Quick Strikes (Ex) Whenever a void zombie takes a full-round action, it can make one additional slam attack at its highest base attack bonus.

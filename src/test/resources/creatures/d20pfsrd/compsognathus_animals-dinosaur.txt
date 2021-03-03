@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dinosaur/compsognathus
+Compsognathus CR 1/2
+XP 200
+N Tiny animal
+Init +6; Senses low-light vision, scent; Perception +4
+DEFENSE
+AC 15, touch 14, flat-footed 13 (+2 Dex, +1 natural, +2 size)
+hp 6 (1d8+2)
+Fort +4, Ref +4, Will +0
+OFFENSE
+Speed 40 ft., swim 20 ft.
+Melee bite +1 (1d3–1 plus poison)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 8, Dex 15, Con 14, Int 2, Wis 11, Cha 5
+Base Atk +0; CMB +0; CMD 9
+Feats Improved Initiative
+Skills Perception +4, Swim +10
+SPECIAL ABILITIES
+Familiar The master of a compsognathus familiar gains a +4 bonus on Initiative checks.
+Poison (Ex) Bite—injury; save Fort DC 12; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save.

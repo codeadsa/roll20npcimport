@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/fleshwarped/fleshwarp-halsora
+Halsora CR 7
+XP 3,200
+CE Small aberration
+Init +2; Senses darkvision 60 ft.; Perception +19
+DEFENSE
+AC 19, touch 13, flat-footed 17 (+2 Dex, +6 natural, +1 size)
+hp 75 (10d8+30)
+Fort +6, Ref +5, Will +9
+DR 5/bludgeoning or slashing; Immune acid, disease
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +13 (1d8+4 plus spores)
+Special Attacks acidic tears, sneak attack +2d6, spores
+STATISTICS
+Str 19, Dex 14, Con 17, Int 6, Wis 11, Cha 8
+Base Atk +7; CMB +10; CMD 22
+Feats Iron Will, Power Attack, Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (claw)
+Skills Perception +19, Stealth +25
+Languages Undercommon, Vegepygmy (can’t speak)
+SPECIAL ABILITIES
+Acidic Tears (Ex) A halsora’s sunken eyes have oversized tear ducts that weep a constant stream of black, acidic tears. As a standard action that provokes attacks of opportunity, a halsora can jerk its head and flick the acidic tears on a single creature within 20 feet. That creature takes 2d6 acid damage (Reflex DC 18 half). A creature that fails its save takes an additional 1d4 points of acid damage at the end of the halsora’s turn for 1d4 rounds or until the acid is scraped off, which requires a full-round action on the part of the creature taking the damage or a creature adjacent to that creature. The save DC is Constitution-based.
+Spores (Ex) A halsora’s claws are covered in mutated russet mold spores. A creature hit by a claw attack must succeed at a DC 18 Fortitude save or take 2 points of Constitution damage per round. It can attempt a new Fortitude save each round to halt the growth. A creature reduced to 0 Constitution by these spores explodes in a mess of viscera and spores. Creatures within the burst must succeed at a DC 18 Fortitude saving throw or be affected as if they were hit by the halsora’s claw attack. This is a disease effect. The save is Constitution-based.

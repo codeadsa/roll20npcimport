@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/great-old-ones/great-old-one-cthulhu
+Cthulhu CR 30 (XP 9,830,400)
+CE Colossal aberration (chaotic, evil, Great Old One)
+Init +15; Senses darkvision 60 ft., true seeing; Perception +52
+Aura unspeakable presence (300 ft., DC 40)
+DEFENSE
+AC 49, touch 29, flat-footed 44 (+12 deflection, +5 Dex, +10 insight, +20 natural, –8 size)
+hp 774 (36d8+612); fast healing 30
+Fort +29, Ref +29, Will +33
+Defensive Abilities freedom of movement, immortality, insanity (DC 40), non-euclidean; DR 20/epic and lawful; Immune ability damage, ability drain, aging, cold, death effects, disease, energy drain, mind-affecting effects, paralysis, and petrification; Resist acid 30, electricity 30, fire 30, sonic 30; SR 41
+OFFENSE
+Speed 60 ft., fly 200 ft. (average), swim 60 ft.
+Melee 2 claws +42 (4d6+23/19–20 plus grab), 4 tentacles +42 (2d10+34/19–20 plus grab)
+Space 40 ft.; Reach 40 ft.
+Special Attacks cleaving claws, constrict (3d6+23), dreams of madness, Mythic Power (10/day, Surge +1d12), powerful blows (tentacle), tentacles, trample (2d8+30, DC 51)
+Spell-Like Abilities (CL 30th; concentration +42)
+Constant—freedom of movement, true seeing
+At will—astral projection, control weatherM, dreamM, greater dispel magic, greater teleport, insanity (DC 29), nightmareM (DC 29), sendingM
+3/day—antipathy (DC 30), demand (DC 30), quickened feeblemind, gate, weird (DC 31)
+1/day—implosion (DC 31), summon (level 9, 2d4 star-spawn of Cthulhu 100%), symbol of insanity (DC 30), wish M
+STATISTICS
+Str 56, Dex 21, Con 45, Int 31, Wis 36, Cha 34
+Base Atk +27; CMB +58 (+60 bull rush, +62 grapple or sunder); CMD 97 (99 vs. bull rush or sunder)
+Feats Ability Focus (nightmare), Awesome Blow, Combat Reflexes, Craft Wondrous Item, Critical Focus, Flyby Attack, Greater Sunder, Greater Vital Strike, Hover, Improved Bull Rush, Improved Critical (claw), Improved Critical (tentacle), Improved Sunder, Improved Vital Strike, Power Attack, Quicken Spell-Like Ability (feeblemind), Staggering Critical, Vital Strike
+Skills Fly +36, Knowledge (arcana) +49, Knowledge (dungeoneering, engineering, geography, history, nature, planes, religion) +46, Perception +52, Sense Motive +49, Spellcraft +49, Swim +70, Use Magic Device +48
+Languages Aklo; telepathy 300 ft.
+SQ compression, greater starflight, otherworldly insight
+SPECIAL ABILITIES
+Cleaving Claws (Ex) A single attack from one of Cthulhu’s claws can target all creatures in a 10-foot square. Make one attack roll; any creature in the area whose AC is equal to or lower than the result takes damage from the claw.
+Dreams of Madness (Su) When Cthulhu uses his nightmare spell-like ability on a creature with one or more ranks in a Craft or Perform skill, he also afflicts the creature with maddening dreams. In addition to the effect of nightmare, the target must succeed at a DC 40 Will save or contract a random insanity. This is a mind-affecting effect. A creature that already has an insanity is immune to this ability. The save DC is Charisma-based.
+Greater Starflight (Su) Cthulhu can survive in the void of outer space, and flies through outer space at incredible speeds. Although the exact travel time will vary from one trip to the next, a trip within a solar system normally takes Cthulhu 2d6 hours, and a trip beyond normally takes 2d6 days (or more, at the GM’s discretion).
+Immortality (Ex) If Cthulhu is killed, his body immediately fades away into a noxious cloud of otherworldly vapor that fills an area out to his reach. This cloud blocks vision as obscuring mist, but can’t be dispersed by any amount of wind. Any creature in this area must succeed at a DC 45 Fortitude save or be nauseated for as long as it remains in the cloud and for an additional 1d10 rounds after it leaves the area. Cthulhu returns to life after 2d6 rounds, manifesting from the cloud and restored to life via true resurrection, but is staggered for 2d6 rounds (nothing can remove this staggered effect). If slain again while he is staggered from this effect, Cthulhu reverts to vapor form again and his essence fades away after 2d6 rounds, returning to his tomb in R’lyeh until he is released again. The save DC is Constitution-based.
+Non-Euclidean (Ex) Cthulhu does not exist wholly in the physical world, and space and time strain against his presence. This grants Cthulhu a deflection bonus to AC and a racial bonus on Reflex saves equal to his Charisma modifier (+12). His apparent and actual position are never quite the same, granting him a 50% miss chance against all attacks. True seeing can defeat this miss chance, but any creature that looks upon Cthulhu while under the effects of true seeing must succeed at a DC 40 Will save or be afflicted by a random insanity (this is a mind-affecting effect). The save DC is Charisma-based.
+Tentacles (Ex) Cthulhu’s tentacles are a primary attack.
+Unspeakable Presence (Su) Failing a DC 40 Will save against Cthulhu’s unspeakable presence causes the victim to immediately die of fright. This is a death and fear effect. A creature immune to fear that fails its save against Cthulhu’s unspeakable presence is staggered for 1d6 rounds instead of killed. The save DC is Charisma-based.

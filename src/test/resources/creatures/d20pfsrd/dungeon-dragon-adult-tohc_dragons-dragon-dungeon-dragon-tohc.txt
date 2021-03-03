@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dungeon-dragon-tohc/dungeon-dragon-adult-tohc
+Adult Dungeon Dragon CR 9
+XP 6,400
+N Large dragon (shapechanger)
+Init +0; Senses dragon senses; Perception +25; Aura frightful presence (180 ft., DC 17)
+DEFENSE
+AC 25, touch 9, flat-footed 25 (+16 natural, –1 size)
+hp 104 (11d12+33)
+Fort +10; Ref +7; Will +12
+DR 5/magic; Immune enchantment spells and effects, paralysis, sleep; SR 20
+OFFENSE
+Speed 30 ft., fly 200 ft. (poor)
+Melee bite +17 (2d6+10), 2 claws +17 (1d8+7), 2 wings +15 (1d6+3), tail slap +15 (1d6+10)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (80 ft. line or 40 ft. cone, DC 18, confusion 1d6 rounds)
+Spell-like Abilities (CL 11th):
+At-will—charm person (DC 13), detect thoughts (DC 14), suggestion (DC 15)
+Sorcerer Spells Known (CL 5th)
+2nd (5/day)—arcane lock, magic mouth (DC 14)
+1st (7/day)—alarm, hold portal, shield, silent image (DC 13)
+0th (at will)—daze (DC 12), detect magic, ghost sound (DC 12), light, mending, read magic
+STATISTICS
+Str 25, Dex 11, Con 16, Int 16, Wis 16, Cha 14
+Base Atk +11; CMB +19; CMD 29 (33 vs. trip)
+Feats Alertness, Craft Wondrous Item B, Flyby Attack, Iron Will, Master Craftsman B, Multiattack, Skill Focus (Craft [crystal carving]), Skill Focus (Knowledge [engineering])
+Skills Bluff +16, Craft (crystal carving) +15, Craft (traps) +11, Diplomacy +11, Disable Device +8, Fly +2, Knowledge (arcana) +17, Knowledge (dungeoneering) +10, Knowledge (engineering) +23, Linguistics +8, Perception +25, Sense Motive +21, Spellcraft +17; Racial Modifiers +4 Perception
+Languages Aklo, Common, Draconic, Gnoll, Goblin, Orc, Undercommon
+SQ change shape (alter self), craft crystal ball
+SPECIAL ABILITIES
+Breath Weapon (Su) A dungeon dragon’s breath weapon is a line or cone of warm mist. Creatures caught in the area must succeed on Fortitude save or be affected as if by a confusion spell for 1d6 rounds.
+Change Shape (Su) At will, a very young or older dungeon dragon can assume the form of any Small or Medium humanoid creature (as the alter self spell). It can remain in its humanoid form indefinitely. It cannot take the form of a specific individual.
+Craft Crystal Ball (Ex) Dungeon dragon parents begin teaching their wyrmlings the necessary skills and spells to craft a crystal ball soon after they leave the egg. A dungeon dragon gains the Master Craftsman feat for free as a bonus feat without having to meet the prerequisites.
+Craft Wondrous Item (Ex) Older dungeon dragons create new crystal balls with additional powers as they grow in intelligence and spellcasting ability. A young adult dungeon dragon gains the Craft Wondrous Item feat for free as a bonus feat.

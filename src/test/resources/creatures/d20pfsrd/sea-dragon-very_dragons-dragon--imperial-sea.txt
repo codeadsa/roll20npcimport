@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sea/sea-dragon-very
+Very old Sea Dragon CR 16
+XP 76,800
+CG Gargantuan dragon (water)
+Init +3; Senses dragon senses; Perception +39; Aura frightful presence (270 ft., DC 26)
+DEFENSE
+AC 34, touch 5, flat-footed 34 (-1 Dex, +29 natural, -4 size)
+hp 262 (21d12+126)
+Fort +20, Ref +13, Will +18
+DR 15/magic; Immune electricity, paralysis, sleep; SR 27
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy), swim 90 ft.
+Melee bite +29 (4d6+16), 2 claws +29 (2d8+11), gore +29 (2d8+16), tail slap +26 (2d8+16)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite and gore)
+Special Attacks breath weapon (60-ft. cone, 18d6 fire damage, DC 26), crush (DC 26, 4d6+16), tail sweep (DC 26, 2d6+16),torrent breath
+Spell-Like Abilities (CL 21st; concentration +27)
+At will—control water, call lightning (DC 19), create water, hydraulic push
+Spells Known (CL 13th; concentration +19)
+6th (5/day)—chain lightning (DC 22), forceful hand
+5th (7/day)—cone of cold (DC 21), mind fog (DC 21), persistent image (DC 21)
+4th (7/day)—black tentacles, confusion (DC 20), lesser geas (DC 20), rainbow pattern (DC 20)
+3rd (7/day)—haste, hold person (DC 19), lightning bolt (DC 19), sleet storm
+2nd (8/day)—gust of wind (DC 18), mirror image, obscure object, scare (DC 18), see invisibility
+1st (8/day)—charm person (DC 17), chill touch, color spray (DC 17), expeditious retreat, sleep
+0 (at will)—acid splash, daze (DC 16), detect magic, ghost sound, mage hand, message, ray of frost, read magic, resistance
+STATISTICS
+Str 33, Dex 8, Con 23, Int 22, Wis 23, Cha 22
+Base Atk +21; CMB +36; CMD 45 (49 vs. trip)
+Feats Alertness, Flyby Attack, Great Fortitude, Improved Initiative, Lightning Reflexes, Lunge, Multiattack, Snatch, Weapon Focus (bite, claws, gore)
+Skills Bluff +30, Diplomacy +30, Fly +9, Intimidate +30, Knowledge (arcana, history, nature) +30, Perception +34, Sense Motive +30, Stealth +11, Survival +30, Swim +43
+Languages Aquan, Auran, Celestial, Common, Draconic, Elven, Sylvan
+SQ change shape, sea strider, unfettered swimmer, water breathing
+SPECIAL ABILITIES
+Change Shape (Su) A young or older sea dragon can assume any humanoid form three times per day as if using polymorph.
+Sea Strider (Su) Three times per day as a standard action, an old or older sea dragon can move from one body of water to another as if using the teleport spell (self only).
+Torrent Breath (Su) Instead of a cone of super-heated steam, a very young or older sea dragon can breathe a line of pressurized water twice the length of the sea dragon’s cone breath weapon. This line deals bludgeoning damage.
+Unfettered Swimmer (Su) A juvenile sea dragon gains a 10-foot bonus to its swim speed. The sea dragon’s swim speed continues to increase by an additional 10 feet every two age categories. Furthermore, while swimming, the sea dragon is treated as if under the effects of the spell freedom of movement.
+Built by:
+Brett, d20pfsrd Beastmaster I

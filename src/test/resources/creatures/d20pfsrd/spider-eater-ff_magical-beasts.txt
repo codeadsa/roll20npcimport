@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/spider-eater-ff
+Spider Eater CR 5
+XP 1,600
+N Large magical beast
+Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception +11
+DEFENSE
+AC 16, touch 12, flat-footed 13 (+2 Dex, +1 dodge, +4 natural, -1 size)
+hp 47 (5d10+20)
+Fort +8, Ref +6, Will +2
+Defensive Abilities freedom of movement
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee sting +9 (1d8+5 plus poison), bite +9 (1d8+5)
+Space 10 ft.; Reach 5 ft.
+Special Attacks poison
+Spell-Like Abilities (CL 12)
+Constant—freedom of movement
+STATISTICS
+Str 21, Dex 14, Con 19, Int 2, Wis 12, Cha 10
+Base Atk +5; CMB +11; CMD 24
+Feats Alertness, Dodge, Improved Initiative
+Skills Fly +8, Perception +11, Sense Motive +3, Stealth +2; Racial Modifier +4 Perception
+SQ implant
+SPECIAL ABILITIES
+Implant (Ex) Female spider eaters lay their eggs inside paralyzed creatures of Medium size or larger. The hatched larva emerge six weeks later, devouring the host from the inside, and killing the implanted creature. A remove disease cast on the implanted creature within the six-week gestation will kill the larva.
+Poison (Ex) Sting – injury; save Fort DC 16; onset 1 minute, frequency 1/week for duration of effect; effect paralysis 1d8+5 weeks; cure 1 save

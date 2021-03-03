@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/defender-globe-fgg
+Defender Globe CR 3
+XP 800
+N Small outsider (elemental, native)
+Init +3; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 17, touch 17, flat-footed 13 (+2 deflection, +3 Dex, +1 dodge, +1 size)
+hp 26 (4d10+4)
+Fort +2; Ref +7; Will +5
+Defensive Abilities awareness, defensive aura; Immune electricity; Resist cold 10, fire 10
+OFFENSE
+Speed 5 ft., 40 ft. fly (perfect)
+Ranged electrical bolt +8 (2d6 electricity)
+Spell-Like Abilities (CL 4th)
+Continuous—light
+STATISTICS
+Str 4, Dex 16, Con 12, Int 4, Wis 12, Cha 14
+Base Atk +4; CMB +0; CMD 16 (can’t be tripped)
+Feats Dodge, Mobility
+Skills Fly +20, Knowledge (planes) +4, Perception +8
+SPECIAL ABILITIES
+Awareness (Ex) A defender globe cannot be surprised or flanked.
+Defensive Aura (Ex) A defender globe adds its Charisma bonus to its AC and CMD as a deflection bonus.
+Flight (Su) A defender globe can cease or resume flight as a free action. The ability is supernatural, so it becomes ineffective in an antimagic field, and the defender globe loses its ability to fly for as long as the antimagic effect persists.

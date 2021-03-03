@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/dragonfly-giant/dragonfly-giant-nymph
+Dragonfly, Giant, Nymph CR 3
+XP 800
+N Small vermin (aquatic)
+Init +1; Senses darkvision 60 ft.; Perception +1
+DEFENSE
+AC 15, touch 12, flat-footed 14 (+1 Dex, +3 natural, +1 size)
+hp 32 (5d8+10)
+Fort +6, Ref +2, Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 10 ft., swim 30 ft.
+Melee bite +6 (2d6+3)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks extending jaw
+STATISTICS
+Str 15, Dex 13, Con 14, Int –, Wis 12, Cha 5
+Base Atk +3; CMB +4; CMD 15 (23 vs. trip)
+Skills Stealth +5 (+13 in shallow water), Swim +10; Racial Modifiers +8 Stealth in shallow water
+SPECIAL ABILITIES
+Extending Jaw (Ex) A giant dragonfly nymph can extend its jaws with surprising speed. Not only does this extend the nymph’s reach with its bite attack, but during the surprise round, a nymph gains a +4 bonus on attack rolls with its bite.
+Family Ties
+Adult Giant Dragonfly

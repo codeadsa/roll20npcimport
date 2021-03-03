@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/gargoyle/gargoyle-fungus-tohc
+Fungus Gargoyle CR 5
+XP 1,600
+N(E) Medium plant (fungus)
+Init +2; Senses low-light vision; Perception +12; Aura sickening aura (10 ft., DC 16, sickened)
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 59 (7d8+21 plus 7)
+Fort +8; Ref +4; Will +4
+DR 10/slashing or piercing; Immune plant traits; Resist fire 5
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee 2 claws +9 (1d8+4)
+Special Attacks breath weapon
+STATISTICS
+Str 18, Dex 14, Con 17, Int 6, Wis 11, Cha 7
+Base Atk +5; CMB +9; CMD 21
+Feats Power Attack, Iron Will, Skill Focus (Perception), Toughness
+Skills Fly +2, Perception +12, Stealth +10 (+18 in vegetation); Racial Modifiers +2 Perception, +2 Stealth (+8 in vegetation)
+Languages Common (can’t speak)
+SPECIAL ABILITIES
+Breath Weapon (Su) Once every 1d4 rounds, a fungus gargoyle can breathe a line of deadly spores to a range of 10 feet. A living creature struck must succeed on a DC 16 Fortitude save or take 1d4 points of Strength damage. Thereafter, the creature must succeed on a DC 16 Fortitude save each minute (10 rounds) or take 1 point of Strength damage. This cycle continues until the creature dies or receives a remove disease spell. A successful DC 20 Heal check or a delay poison spell slows the continuing damage to 1 point per hour. The save DC is Constitution-based.
+Sickening Aura (Su) As a free action, a fungus gargoyle can emanate an aura that smells like rotting vegetable matter in a 10-foot radius. Creatures within the area must succeed on a DC 16 Fortitude save or be sickened for as long as they remain in the area and for 1d4 rounds afterwards. The save DC is Constitution-based.

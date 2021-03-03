@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/owlephant-tohc
+Owlephant CR 8
+XP 4,800
+N Huge magical beast
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +18
+DEFENSE
+AC 16, touch 7, flat-footed 16 (–1 Dex, +9 natural, –2 size)
+hp 95 (10d10+40)
+Fort +13; Ref +6; Will +6
+OFFENSE
+Speed 25 ft.
+Melee slam +10 (2d6+2), 2 talons +10 (1d8+2), gore +10 (2d8+3)
+Space 15 ft.; Reach 10 ft.
+Special Attacks trample (2d8+3, DC 17)
+STATISTICS
+Str 14, Dex 9, Con 19, Int 5, Wis 12, Cha 10
+Base Atk +10; CMB +14; CMD 23 (27 vs. trip)
+Feats Endurance, Great Fortitude, Improved Bull Rush, Iron Will, Power Attack, Skill Focus (Perception) B, Weapon FinesseB
+Skills Perception +18, Stealth +1; Racial Modifiers +4 Perception, +4 Stealth

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/nightmare-ettercap
+Nightmare Ettercap CR 4
+XP 1,200
+NE Medium aberration
+Init +9; Senses darkvision 120 ft., low-light vision; Perception +9; Aura fear (60 ft., DC 13), frightful presence (30 ft., DC 13)
+DEFENSE
+AC 17, touch 15, flat-footed 12 (+5 Dex, +2 natural)
+hp 30 (4d8+12); regeneration 5 (good spells and weapons, silver)
+Fort +6, Ref +6, Will +6
+Defensive Abilities illusion resistance, protection from good; DR 5/good or silver
+OFFENSE
+Speed 30 ft., climb 30 ft., fly 10 ft. (perfect)
+Melee bite +5 (1d6+2 plus poison), 2 claws +5 (1d4+2)
+Special Attacks night terrors (DC 13), poison, traps, web (+8 ranged, DC 15, 4 hp)
+Spell-Like Abilities (CL 4th; concentration +5)
+Constant—protection from good
+3/day—detect thoughts (DC 13), dream (DC 16), nightmare (DC 16), suggestion (DC 14)
+1/day—shadow walk
+STATISTICS
+Str 14, Dex 21, Con 17, Int 8, Wis 15, Cha 12
+Base Atk +3; CMB +5; CMD 20
+Feats Great Fortitude, Improved Initiative
+Skills Climb +14, Craft (trapmaking) +11, Fly +13, Intimidate +5, Perception +9, Stealth +15; Racial Modifiers +8 Craft (trapmaking), +4 Intimidate, +4 Stealth
+Languages Common
+SQ feign death (DC 13), spider empathy +7
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 15; frequency 1/round for 10 rounds; effect 1d2 Dex; cure 2 consecutive saves. The save DC is Constitution-based.
+Spider Empathy (Ex) This ability functions as a druid’s wild empathy, except that an ettercap can only use this ability on spiders. An ettercap gains a +4 racial bonus on this check. Spiders are mindless, but this empathic communication imparts to them a modicum of implanted intelligence, allowing ettercaps to train giant spiders and use them as guardians.
+Traps (Ex) An ettercap is particularly skilled at crafting cunning traps with its webs. Deadfalls, nooses, and spear traps are the most common traps ettercaps build with their webs. An ettercap doesn’t require gold to build its traps, merely time.

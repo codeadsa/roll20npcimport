@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/witchlights-fgg
+Elder Witchlight CR 1/4
+XP 100
+N Fine fey
+Init +4; Senses low-light vision; Perception +4
+DEFENSE
+AC 21, touch 21, flat-footed 18 (+3 Dex, +8 size)
+hp 4 (1d6–2)
+Fort –2; Ref +5; Will +3
+OFFENSE
+Speed fly 30 ft. (perfect)
+Melee none
+Spell-Like Abilities (CL 1st)
+At will—daze (DC 11), ghost sound (DC 11), virtue
+At will—dancing lights, flare (DC 11), purify food and drink (1/hour)
+At will—daze (DC 11), light, prestidigitation
+STATISTICS
+Str 1, Dex 16, Con 6, Int 3, Wis 13, Cha 12
+Base Atk +0; CMB –5; CMD 0
+Feats Skill Focus (Perception)
+Skills Acrobatics +7, Fly +19, Perception +8, Stealth +19
+Languages Sylvan (limited)
+SPECIAL ABILITIES
+Glimmer (Su) Witchlights produce a luminance in their larval stage equal to a candle in brightness. In their adult and elder stage the light is up to half torchlight intensity (bright light in a 10 ft. radius). They can change the intensity or extinguish this light as a free action. The glimmer is a steady, soft glow, and may be silvery-white or just about any color, though the fey that raise them favor pastel shades. Each witchlight has its own unique color which it cannot change.

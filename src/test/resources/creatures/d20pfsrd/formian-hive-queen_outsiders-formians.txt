@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/formians/formian-hive-queen
+Formian Hive Queen CR 14
+XP 38,400
+LN Large outsider (extraplanar, lawful)
+Init +3; Senses darkvision 60 ft., hive mind 50 mi.; Perception +32
+DEFENSE
+AC 23, touch 8, flat-footed – (-1 Dex, +15 natural, -1 size)
+hp 210 (20d10+100); fast healing 2
+Fort +13, Ref +11, Will +17
+Immune cold, poison, petrification; Resist electricity 10, fire 10, sonic 10; SR 25
+OFFENSE
+Speed 10 ft.
+Melee bite +23 (1d8+6)
+Space 10 ft.; Reach 5 ft.
+Spell-Like Abilities (CL 17th; concentration +22)
+Constant—detect chaos, detect thoughts (DC 17), true seeing
+At will—calm emotions (DC 17), charm monster (DC 19), clairaudience/clairvoyance, dictum (DC 22), divination, hold monster (DC 20), magic circle against chaos, order’s wrath (DC 19), shield of law (DC 23)
+Spells Known (CL 17th; concentration +22)
+8th (4/day)—prismatic wall (DC 23), temporal stasis (DC 23)
+7th (6/day)—summon monster VII, vision, waves of exhaustion (DC 22)
+6th (6/day)—analyze dweomer, geas/quest, mass suggestion (DC 23)
+5th (7/day)—cone of cold (DC 20), dispel chaos, teleport, wall of force
+4th (7/day)—confusion (DC 21), detect scrying, black tentacles, scrying (DC 19)
+3rd (7/day)—dispel magic, heroism, nondetection, slow (DC 18)
+2nd (7/day)—align weapon (law only), hypnotic pattern (DC 17), invisibility, protection from arrows, resist energy
+1st (8/day)—comprehend languages, identify, mage armor, magic missile, shield
+0 (at will)—acid splash, detect magic, divine mark*, mage hand, muscle spasm*, ray of frost, ray of light*, resistance, touch of fatigue
+STATISTICS
+Str 18, Dex 8, Con 20, Int 20, Wis 20, Cha 21
+Base Atk +20; CMB +25; CMD 34 (can’t be tripped)
+Feats Alertness, Arcane Strike, Craft Wand, Eschew Materials, Great Fortitude, Greater Spell Focus (enchantment), Improved Counterspell, Improved Initiative, Magical Aptitude, Spell Focus (enchantment)
+Skills Appraise +25, Bluff +28, Diplomacy +25, Intimidate +25, Knowledge (engineering) +28, Knowledge (religion) +28, Knowledge (planes) +28, Perception +32, Sense Motive +32, Spellcraft +32, Use Magic Device +32
+Languages Common, Formian; telepathy 100 ft.
+SPECIAL ABILITIES
+Spells (Sp) Formian queens casts spells as a 17th-level sorcerer but can know spells from both the divine and arcane lists.

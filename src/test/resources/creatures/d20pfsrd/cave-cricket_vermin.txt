@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/cave-cricket
+Cave Cricket CR 1/2
+XP 200
+N Small vermin
+Init +0; Senses darkvision 60 ft.; Perception+2
+DEFENSE
+AC 15, touch 11, flat-footed 15 (+4 natural, +1 size)
+hp 5 (1d8+1)
+Fort +3; Ref +0; Will +0
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft.
+Melee 2 kicks +2 (1d3+1)
+Special Attacks chirp
+STATISTICS
+Str 13, Dex 10, Con 12, Int —, Wis 10, Cha 7
+Base Atk +0; CMB +0; CMD 10 (18 vs. trip)
+Skills Acrobatics +0 (+10 when jumping), Perception +2; Racial Modifiers +10 Acrobatics when jumping, +2 Perception
+SQ leap
+SPECIAL ABILITIES
+Chirp (Ex) Creatures within 20 feet of a chirping cave cricket cannot be heard unless they scream. Spellcasters in the area must succeed on a DC 11 Concentration check to successfully cast a spell. The chirping increases the chance of wandering monsters by 30%. The check DC is Constitution-based.
+Leap (Ex) A cave cricket is a natural leaper and gains a +10 racial bonus to Acrobatics checks when jumping.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gargiya
+Gargiya CR 10
+XP 9,600
+N Huge magical beast (aquatic)
+Init +1; Senses darkvision 90 ft., low-light vision; Perception +6
+DEFENSE
+AC 24, touch 9, flat-footed 23 (+1 Dex, +15 natural, –2 size)
+hp 138 (12d10+72)
+Fort +14, Ref +11, Will +4
+Immune fire
+OFFENSE
+Speed 20 ft., swim 50 ft.
+Melee bite +20 (3d6+10/19–20 plus grab), tail slap +15 (2d6+5)
+Space 15 ft.; Reach 15 ft.
+Special Attacks boiling seas, constrict (3d6+12), dying gasp, scalding scales
+STATISTICS
+Str 31, Dex 13, Con 23, Int 2, Wis 10, Cha 10
+Base Atk +12; CMB +24 (+28 grapple); CMD 35 (can’t be tripped)
+Feats Awesome Blow, Critical Focus, Improved Bull Rush, Improved Critical (bite), Lightning Reflexes, Power Attack
+Skills Perception +6, Stealth +4, Swim +22
+SPECIAL ABILITIES
+Boiling Seas (Ex) Once per minute, a gargiya can concentrate the heat within its body, causing seawater in a 20-foot radius to boil for 1d6 rounds. All creatures caught in this boiling seawater take 4d8 points of fire damage. Creatures spending 2 or more consecutive rounds subjected to this damage must succeed at a DC 22 Fortitude save or fall unconscious. The save DC is Constitution-based.
+Dying Gasp (Su) When a gargiya is killed, it disgorges from its gullet the molten boulder that heats its body. Its fiery death throes deal 6d6 points of fire damage to all creatures within a 20-foot-radius burst. A DC 22 Reflex save halves this damage. The save DC is Constitution-based.
+Scalding Scales (Ex) A gargiya generates such intense heat that anything touching it takes 2d6 points of fire damage. Creatures striking a gargiya with natural attacks or unarmed strikes are subject to this damage.
+Any metal weapon striking a gargiya must succeed at a DC 22 Fortitude save or melt, gaining the broken condition. A metal weapon that fails a second save is destroyed. Wooden weapons are destroyed after only one failed save. The save DC is Constitution-based.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-magma
+Magma Ooze CR 7
+XP 3,200
+N Large ooze (fire)
+Init –5; Senses blindsight 60 ft.; Perception –5
+DEFENSE
+AC 4, touch 4, flat-footed 4 (–5 Dex, –1 size)
+hp 85 (9d8+45)
+Fort +8, Ref –2, Will –2
+Defensive Abilities split (cold and slashing, 8 hp); Immune fire, ooze traits
+Weaknesses vulnerability to cold, vulnerability to water
+OFFENSE
+Speed 10 ft., climb 10 ft.
+Melee slam +14 (2d6+13 plus grab, and burn)
+Space 10 ft.; Reach 5 ft.
+Special Attacks burn (2d6, DC 19), constrict (2d6+13 plus burn)
+STATISTICS
+Str 28, Dex 1, Con 21, Int —, Wis 1, Cha 1
+Base Atk +6; CMB +16 (+20 grapple); CMD 21 (can’t be tripped)
+Skills Climb +17; Racial Modifiers +8 Climb
+SQ lava body
+SPECIAL ABILITIES
+Lava Body (Ex) The magma ooze is formed of molten rock. Whenever a creature strikes a magma ooze with a weapon, that weapon takes 4d6 points of fire damage unless the attacker makes a DC 19 Fortitude save. Damage caused to weapons in this manner is not halved, but hardness does help prevent some of the damage dealt. The save DC is Constitution-based.
+Vulnerability to Water (Ex) A significant amount of water, such as that created by a create water spell, the contents of a large bucket, or a blow from a water elemental, that strikes a magma ooze forces the creature to make a DC 20 Fortitude save to avoid being staggered for 2d4 rounds. A magma ooze that is immersed in water must make a DC 20 Fortitude save each round (this DC increases by +1 each subsequent round) or become petrified, reverting once the water is gone.

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gorgimera
+Gorgimera CR 8
+XP 4,800
+N Large magical beast
+Init +7; Senses darkvision 60 ft., low-light vision, scent; Perception +11
+DEFENSE
+AC 20, touch 12, flat-footed 17 (+3 Dex, +8 natural, -1 size)
+hp 105 (10d10+50)
+Fort +12, Ref +10, Will +4
+OFFENSE
+Speed 40 ft., fly 50 ft. (poor)
+Melee dragon bite +13 (2d6+4), lion bite +13 (1d8+4), gorgon gore +13 (2d8+4), 2 claws +13 (1d6+4)
+Space 10 ft.; Reach 5 ft.
+Special Attacks dragon breath weapon (varies, DC 20, 4d8 varies), gorgon breath weapon (30-ft. cone, turn to stone, Fortitude DC 20 negates)
+STATISTICS
+Str 19, Dex 16, Con 21, Int 4, Wis 13, Cha 10
+Base Atk +10; CMB +15 (+17 bull rush), CMD 28 (+30 vs. bull rush, +32 vs. trip)
+Feats Alertness, Hover, Improved Bull Rush, Improved Initiative, Power Attack
+Skills Fly +5, Perception +9, Sense Motive +3
+Languages Draconic
+SQ breath coordination
+SPECIAL ABILITIES
+Breath Coordination (Ex) A gorgimera may use its dragon breath weapon, gorgon breath weapon, and bite with its lion head in the same round.
+Dragon Breath Weapon (Su) Using a breath weapon is a standard action. A gorgimera can use this breath weapon once every 1d4 rounds. A breath weapon always starts at an intersection adjacent to the dragon head and extends in a direction of the dragon head’s choice. Dragon breath weapons come in two shapes—lines and cones—whose areas vary with the dragon head’s type. Those caught in the area can attempt Reflex saves to take half damage. The save DC against a breath weapon is 10 + ½ gorgimera’s HD + gorgimera’s Con modifier. A dragon head can use its breath weapon when it is grappling or being grappled.
+Table: Dragon Head Color and Breath Weapon d10 Head Color Breath Weapon
+1-2 Black 40-ft. line of acid
+3-4 Blue 40-ft. line of electricity
+5-6 Green 20-ft. cone of acid gas
+7-8 Red 20-ft. cone of fire
+9-10 White 20-ft. cone of cold
+Gorgon Breath Weapon (Su) A gorgon head can use its breath weapon once every 1d4+1 rounds to create a 60-foot cone of green gas. Those caught in the area of the gas can attempt a DC 20 Fortitude save to resist the effects, but those who fail the save are immediately petrified. This petrification is temporary—each round, a petrified creature can attempt a new DC 20 Fortitude save to recover from the petrification as long as it is not caught within the area of effect of the gorgon head’s breath weapon a second time while petrified. A creature exposed a second time while already petrified becomes permanently petrified and can no longer attempt to make additional Fortitude saves to recover naturally. The save DC is Constitution-based.

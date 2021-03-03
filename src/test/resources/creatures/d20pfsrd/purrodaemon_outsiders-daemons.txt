@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/purrodaemon
+Purrodaemon CR 18
+XP 153,600
+NE Large outsider (daemon, evil, extraplanar)
+Init +10; Senses darkvision 60 ft., true seeing; Perception +26
+Aura fear (15 ft., DC 24), unholy aura
+DEFENSE
+AC 35, touch 19, flat-footed 29 (+4 deflection, +6 Dex, +16 natural, –1 size)
+hp 294 (19d10+190)
+Fort +25, Ref +21, Will +14
+DR 10/good and silver; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 29
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee +2 wounding halberd +32/+27/+22/+17 (2d8+18/19–20/×3), bite +24 (1d8+5)
+Space 10 ft.; Reach 10 ft.
+Special Attacks weapon steep
+Spell-Like Abilities (CL 18th; concentration +23)
+Constant—true seeing, unholy aura (DC 23)
+At will—greater teleport (self plus 50 lbs. of objects only)
+3/day—chain lightning (DC 21), cone of cold (DC 20), flame strike (DC 20)
+1/day—summon (level 5, 2 derghodaemons 50%)
+STATISTICS
+Str 32, Dex 23, Con 30, Int 17, Wis 18, Cha 21
+Base Atk +19; CMB +31; CMD 51
+Feats Combat Expertise, Combat Reflexes, Greater Vital Strike, Improved CriticalB (halberd), Improved Initiative, Improved Sunder, Improved Vital Strike, Lunge, Power Attack, Quick Draw, Vital Strike, Weapon FocusB (halberd)
+Skills Acrobatics +28, Bluff +21, Diplomacy +17, Fly +16, Intimidate +27, Knowledge (planes) +25, Perception +26, Sense Motive +26, Spellcraft +23, Stealth +24, Survival +17
+Languages Abyssal, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Weapon Steep (Su) A purrodaemon can sheathe a weapon in its flesh as a swift action. This does no damage to the daemon. If a weapon remains sheathed in its body for at least 24 hours, the weapon absorbs some of its essence and gains magical enhancements. A purrodaemon can have up to a dozen weapons lodged in its body at a time, but only one can possess magical enhancements at a time. The total enhancements cannot exceed a +4 effective enhancement—most purrodaemons opt to create +2 wounding weapons in this manner. A weapon’s enhancements vanish as soon as the purrodaemon dies or releases the weapon. A purrodaemon gains Weapon Focus and Improved Critical as bonus feats as long as it wields a weapon benefiting from its weapon steep ability.
+About this Daemon Type… Armored and bristling with weapons, purrodaemons serve as deacons of their dark mistress. As daemonic personifications of death through war, purrodaemons serve their mistress with martial obedience, but one tainted by outbursts of bloodlust. All are equally accustomed and suited to serving as foot soldiers to more powerful lords and generals commanding masses of lesser daemons, providing order and tactics to daemons untrained in either. Even when leading, though, purrodaemons often hurl themselves into the fray with staggering savagery, eager to slaughter and spread fear and confusion among their enemies’ ranks. Many purrodaemons welcome the opportunity to do battle and lead troops upon the Material Plane, finding most inhabitants both easy and satisfying to slaughter, while still being challenged in unique ways by the occasional cunning mortal opponent.
+Personification of Death: Battle or warfare.
+Preferred Sacrifice: Five or more sentient mortals ordered to slay themselves or each other by a superior, with their souls collected in the aftermath.

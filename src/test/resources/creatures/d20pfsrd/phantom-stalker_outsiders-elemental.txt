@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/phantom-stalker
+Phantom Stalker CR 4
+XP 1,200
+N Medium outsider (elemental, extraplanar, fire, shapechanger)
+Init +6; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 45 (6d10+12)
+Fort +7, Ref +7, Will +2
+Defensive Abilities flames of healing; Immune fire, elemental traits
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee 2 burning claws +10 (1d4+4 plus 1d4 fire and grab)
+Special Attacks burn, death throes
+STATISTICS
+Str 18, Dex 15, Con 14, Int 4, Wis 11, Cha 11
+Base Atk +6; CMB +10 (+14 to grapple); CMD 22
+Feats Improved Initiative, Power Attack, Skill Focus (Perception)
+Skills Fly +11, Perception +12, Survival +9
+Languages Common, Ignan
+SQ find target, change shape 1/day (polymorph)
+SPECIAL ABILITIES
+Burn (Ex) Anyone touching (or touched by) a phantom stalker must succeed on a DC 15 Reflex save or take an extra 1d6 points of fire damage as clothes ignite or armor becomes searing hot. The damage continues for another 1d4+4 rounds after the phantom stalker’s last successful attack. Phantom stalkers can also ignite flammable materials with a touch. The save DC is Constitution-based.
+Death Throes (Ex) A phantom stalker reduced to 0 hit points or less expels a fiery blast equivalent to a fireball (caster level 6th) that deals 6d6 points of fire damage to all creatures within 20 feet. A DC 15 Reflex save reduces the damage by half. The save DC is Constitution-based.
+A phantom stalker never uses this ability if it would harm the one that summoned it, unless the summoner itself is to blame for the phantom stalker’s destruction (i.e., if the summoner attacks the stalker or orders it into battle against opponents that clearly outmatch it).
+Find Target (Sp) If the one who summoned the phantom stalker is slain while the stalker is on the Material Plane, the stalker can unerringly find the slayer as though guided by discern location. Once the slayer has been tracked and dealt with, the phantom stalker returns to its home plane.
+Flames of Healing (Ex) Any magical attack against a phantom stalker that deals fire damage heals 1 point of damage for every 3 points of damage it would otherwise deal. If the amount of healing would cause the phantom stalker to exceed its full normal hit points, it gains any excess as temporary hit points.

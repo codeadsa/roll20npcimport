@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/animated-object/animated-object-colossal
+Colossal Animated Object CR 11
+XP 12,800
+N Colossal construct
+Init -2 Senses darkvision 60, low-light vision; Perception -5
+DEFENSE
+AC 18, touch 0, flat-footed 18 (-2 Dex, +18 natural, -8 size)
+hp 151 (13d10+80 size)
+Fort +4, Ref +2, Will -1
+Defensive Abilities hardness 5 Immune Construct Traits
+
+OFFENSE
+Speed 30 ft.
+Melee slam +23 (2d8+27)
+STATISTICS
+Str 46, Dex 6, Con -, Int -, Wis 1, Cha 1
+Base Atk +13 CMB +39 CMD 47
+SQ 6 construction points
+
+SPECIAL ABILITIES
+Construction Points Colossal animated objects have 6 construction points.

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-copper/copper-dragon-juvenile
+Copper Dragon, Juvenile CR 9
+XP 6,400
+CG Medium dragon (earth)
+Init +6; Senses dragon senses; Perception +17
+DEFENSE
+AC 25, touch 12, flat-footed 23 (+2 Dex, +13 natural)
+hp 115 (11d12+44)
+Fort +11, Ref +9, Will +10
+Defensive Abilities uncanny dodge; Immune acid, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (average); climb stone
+Melee bite +16 (1d8+7/19–20), 2 claws +16 (1d6+5/19–20), 2 wings +11 (1d4+2)
+Special Attacks breath weapon (60-ft. line, DC 19, 8d6 acid), slow breath
+Spell-Like Abilities (CL 11th; concentration +14)
+At will—grease (DC 14), hideous laughter (DC 15)
+Sorcerer Spells Known (CL 3rd; concentration +6)
+1st (6/day)—alarm, magic missile, silent image (DC 14)
+0 (at will)—detect magic, ghost sound (DC 13), light, message, read magic
+STATISTICS
+Str 21, Dex 14, Con 19, Int 16, Wis 17, Cha 16
+Base Atk +11; CMB +16 (+18 trip); CMD 28 (34 vs. trip)
+Feats Combat Expertise, Improved Critical (bite, claw), Improved Initiative, Improved Trip, Power Attack
+Skills Bluff +17, Craft (traps) +21, Diplomacy +17, Fly +16, Perception +17 (+21 vs. traps), Perform (comedy) +14, Sense Motive +17, Stealth +16, Use Magic Device +17
+Languages Common, Draconic, Gnome, Halfling
+SQ trap master
+SPECIAL ABILITIES
+Climb Stone (Ex) A copper dragon can climb on stone surfaces as though using the spider climb spell.
+Slow Breath (Su) Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.
+Trap Master(Ex) A juvenile or older copper dragon receives a +1 bonus per age category on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue’s Trapfinding class feature.
+

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/jellyfish/jellyfish-giant
+Jellyfish, Giant CR 7
+XP 3,200
+N Large vermin (aquatic)
+Init +2; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 11, touch 11, flat-footed 9 (+2 Dex, –1 size)
+hp 94 (9d8+54)
+Fort +12, Ref +5, Will +3
+Defensive Abilities amorphous; DR 10/piercing or slashing; Immune mind-affecting effects
+OFFENSE
+Speed swim 20 ft.
+Melee 4 tentacles +9 (1d6+4 plus poison)
+Space 10 ft.; Reach 15 ft.
+STATISTICS
+Str 18, Dex 15, Con 22, Int —, Wis 11, Cha 1
+Base Atk +6; CMB +11; CMD 23 (can’t be tripped)
+Skills Swim +12
+SQ compression
+SPECIAL ABILITIES
+Poison (Ex) Tentacles—injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Con; cure 2 consecutive saves. The save DC is Constitution based.

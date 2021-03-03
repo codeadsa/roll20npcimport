@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/meat-puppet-human-fgg
+Human Meat Puppet (CR 4
+XP 1,200
+NE Medium undead
+Init +6; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 13, touch 13, flat-footed 10 (+2 Dex, +1 dodge)
+hp 21 (4d8+8 plus 4); regeneration 4 (cold iron or good)
+Fort +3; Ref +3; Will +6
+Defensive Abilities channel resistance +4; DR 5/slashing or piercing; Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +6 (1d6+3 plus grab)
+Special Attacks constrict (1d6+3)
+STATISTICS
+Str 17, Dex 14, Con —, Int 3, Wis 14, Cha 14
+Base Atk +3; CMB +3 (+7 to grapple); CMD 19
+Feats Dodge, Improved Initiative, ToughnessB
+Skills Perception +9

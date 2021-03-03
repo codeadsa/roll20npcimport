@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/djinni
+Djinni CR 5
+XP 1,600
+CG Large outsider (air, extraplanar)
+Init +8; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 19, touch 14, flat-footed 14 (+4 Dex, +1 dodge, +5 natural, –1 size)
+hp 52 (7d10+14)
+Fort +4, Ref +9, Will +7
+Immune acid
+OFFENSE
+Speed 20 ft., fly 60 ft. (perfect)
+Melee 2 slams +10 (1d8+4) or mwk scimitar +11/+6 (1d8+4/18–20)
+Space 10 ft.; Reach 10 ft.
+Special Attacks air mastery, whirlwind (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 17)
+Spell-Like Abilities (CL 9th)
+At will—invisibility (self only), plane shift (willing targets to elemental planes, Astral Plane, or Material Plane only)
+1/day—create food and water, create wine (as create water, but wine instead), gaseous form (for up to 1 hour), major creation (created vegetable matter is permanent), persistent image (DC 17), wind walk
+STATISTICS
+Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 15
+Base Atk +7; CMB +12; CMD 27
+Feats Combat Casting, Combat Reflexes, Dodge, Improved InitiativeB, Wind Stance
+Skills Appraise +12, Craft (any one) +12, Fly +20, Knowledge (planes) +12, Perception +12, Sense Motive +12, Spellcraft +12, Stealth +10
+Languages Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.
+SPECIAL ABILITIES
+Air Mastery (Ex) Airborne creatures take a –1 penalty on attack and damage rolls against a djinni.

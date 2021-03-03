@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/juggernaut-top
+Juggernaut CR 18
+XP 153,600
+N Gargantuan construct
+Init +0 Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 32, touch 6, flat-footed 32 (+26 natural, -4 size)
+hp 197 (25d10+60)
+Fort +8, Ref +8, Will +8
+Defensive Abilities momentum; DR 15/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 80 ft.
+Melee crush (4d10+24, DC 34)
+Space 20 ft.; Reach 0 ft.
+Special Attacks rolling destruction
+STATISTICS
+Str 34, Dex 10, Con —, Int —, Wis 11, Cha 1
+Base Atk +25; CMB +41 (+45 bull rush); CMD 51 (55 vs. bull rush; cannot be tripped)
+Languages none
+SQ irresistible force, unstoppable
+SPECIAL ABILITIES
+Crush (Ex) The juggernaut is so large it is impossible for creatures caught in its path to jump out of the way. Whenever a juggernaut enters a square containing another creature it automatically deals 4d10+24 points of damage and the creature must make a DC 34 Reflex save or be knocked prone. A juggernaut may elect to remain in a square containing another creature. If it does so, the creature is pinned beneath the juggernaut and takes 4d10+12 points of damage each round the juggernaut remains in its square. The save DC is Strength-based.
+Immunity to Magic (Ex) A juggernaut is immune to spells or spell-like abilities that allow spell resistance. Certain spells and effects function differently as noted below.
+A magical attack that deals acid slows a juggernaut (as the slow spell) for 3 rounds, with no saving throw. A magical attack that deals electricity damage breaks any slow effect on the juggernaut and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the juggernaut to exceed its full normal hit points, it gains any excess as temporary hit points. A juggernaut gets no saving throw against electricity effects. A juggernaut is affected normally by rust attacks, such as those of a rust monster or a rusting grasp spell. Irresistible Force (Ex) The juggernaut is treated as having the Greater Bull Rush and Improved Bull Rush feats.
+Momentum (Ex) When reduced to 0 or fewer hit points, a juggernaut may take one more set of actions on its next turn before ceasing to function.
+Rolling Destruction (Ex) When the juggernaut charges it may move up to four times its speed before attacking. It deals double damage to inanimate objects it crushes or hits during a charge.
+Unstoppable (Ex) The juggernaut ignores all difficult terrain and may move or charge without penalty through squares occupied by other creatures at least one size category smaller.

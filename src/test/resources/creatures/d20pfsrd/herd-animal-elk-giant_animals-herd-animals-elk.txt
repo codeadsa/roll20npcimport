@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/elk/herd-animal-elk-giant
+Giant Elk CR 2
+N Large animal
+Init +6; Senses low-light vision; Perception +7
+DEFENSE
+AC 15; touch 12, flat-footed 13 (+2 Dex, -1 size, +4 natural)
+hp 76 (8d8+40)
+Fort +11, Ref +8, Will +2
+OFFENSE
+Speed 40 ft.
+Melee gore +8 (2d6+9)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 26, Dex 14, Con 20, Int 1, Wis 11, Cha 9
+Base Atk +6; CMB +13; CMD 25
+Feats Alertness, Improved Initiative, Improved Natural Armor, Run
+Skills Perception +7, Stealth +9
+Languages None

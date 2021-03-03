@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/walrus/walrus-emperor
+Emperor Walrus CR 8
+XP 4,800
+N Gargantuan animal
+Init –1; Senses low-light vision; Perception +16
+DEFENSE
+AC 20, touch 5, flat-footed 20 (–1 Dex, +15 natural, –4 size)
+hp 126 (12d8+72)
+Fort +14, Ref +7, Will +8
+OFFENSE
+Speed 20 ft., swim 60 ft.
+Melee bite +16 (4d6+15/19–20) or slam +15 (2d6+15 plus trip)
+Space 20 ft.; Reach 15 ft.
+STATISTICS
+Str 31, Dex 9, Con 22, Int 2, Wis 15, Cha 6
+Base Atk +9; CMB +23; CMD 32 (can’t be tripped)
+Feats Diehard, Endurance, Improved Critical (bite), Iron Will, Vital Strike, Weapon Focus (bite)
+Skills Perception +16, Swim +22
+SQ hold breath

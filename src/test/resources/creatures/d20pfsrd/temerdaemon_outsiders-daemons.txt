@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/temerdaemon
+Temerdaemon CR 14
+XP 38,400
+NE Large outsider (daemon, evil, extraplanar)
+Init +8; Senses darkvision 60 ft.; Perception +27; Aura reaper’s curse (30 ft.)
+DEFENSE
+AC 27, touch 13, flat-footed 23 (+4 Dex, +14 natural, –1 size)
+hp 195 (17d10+102)
+Fort +16, Ref +11, Will +17
+DR 10/good and silver; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 25
+OFFENSE
+Speed 30 ft.
+Melee +1 scythe +24/+19/+14/+9 (2d4+10/×4 plus confusion), 2 claws +22 (1d4+6 plus confusion)
+Space 10 ft.; Reach 10 ft.
+Special Attacks confusion
+Spell-Like Abilities (CL 17th; concentration +22)
+At will—bestow curse (DC 19), death knell (DC 17), gaseous form, passwall, stone shape, telekinesis
+3/day—disintegrate (DC 21), greater dispel magic, illusory wall, suggestion (DC 18)
+1/day—summon (level 6, 1 hydrodaemon 50%)
+STATISTICS
+Str 23, Dex 18, Con 23, Int 13, Wis 24, Cha 20
+Base Atk +17; CMB +24; CMD 38 (42 vs. trip)
+Feats Blinding Critical, Cleave, Combat Expertise, Critical Focus, Improved Initiative, Improved Trip, Lightning Reflexes, Power Attack, Weapon Focus (scythe)
+Skills Bluff +25, Climb +26, Intimidate +25, Knowledge (planes) +13, Knowledge (religion) +12, Perception +27, Sense Motive +27, Stealth +20
+Languages Abyssal, Draconic, Infernal; telepathy 100 ft.
+SQ undersized weapons
+SPECIAL ABILITIES
+Confusion (Su) Creatures struck in combat by a temerdaemon’s claws or scythe must succeed at a DC 25 Will save or be confused for 1 round. This is a mind-affecting effect. The save DC is Charisma-based.
+Reaper’s Curse (Su) Those in proximity to a temerdaemon are afflicted by a profound increase in self-inflicted and ally-inflicted wounds, failures in magic, and similar accidental damage. Arcane spell failure chances for armor are doubled. A creature that rolls a natural 1 on its attack roll automatically rerolls the attack against itself (01–50%) or an ally (51–100%). If there is no ally in range, the attack always targets the creature. A creature that rolls a natural 1 on its roll to cast defensively suffers a scroll mishap. Skill checks that have serious consequences if failed by 5 or more (such as Climb, Disable Device, and Swim) have these consequences on all failed checks.
+About this Daemon Type… Temerdaemons arise from souls felled by accidental dooms, and as daemons they seek to engineer such calamities. Each individual temerdaemon has its own preferred variety of accident, often a subtle echo of its own mortal death. Yet few go out of their way to set traps, as their crucidaemon kin prefer. Rather, temerdaemons delight in weakening the supports of bridges, battering fragile dams, spilling oil near street lamps, and generally doing all they can to make everyday objects time bombs of destruction. They take especial delight in not just the death caused by such vicious “acts of god,” but also the insecurity, paranoia, and mental distress such disasters spread among survivors. Conjurers find temerdaemons possess incredible utility as assassins, since investigators often dismiss deaths caused by these daemons as nothing more than unfortunate accidents.
+Personification of Death: Accidents.
+Preferred Sacrifice: A pound of dust, shavings, or fragments taken from a support beam, linchpin, keystone, or other object integral to a large structure’s safe use.

@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-daraka-swarm-demon-tohc
+Swarm Demon (Daraka) CR 12
+XP 19,200
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +0; Senses darkvision 60 ft.; Perception +31
+DEFENSE
+AC 27, touch 9, flat-footed 27 (+18 natural, –1 size)
+hp 162 (12d10+96)
+Fort +12, Ref +8, Will +12
+Defensive Abilities scorpions; DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 23
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +21 (1d8+9 plus grab), bite +20 (2d6+9)
+Ranged scorpions +11 (1d6 plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks scorpions
+Spell-like Abilities (CL 12th):
+At will—chaos hammer (DC 19), deeper darkness, detect good, dispel magic, greater teleport (self plus 50 pounds of objects only), invisibility (self only), unholy aura (DC 23)
+3/day—chill touch (DC 16)
+1/day—feeblemind (DC 20), shatter (DC 17), summon (level 5, 4d10 dretches or 1d2 vrocks 50%, 1 daraka 20%)
+TACTICS
+During Combat Darakas aggressively assault any creature that stands in their way. They usually open combat by slinging scorpions at their opponents and using chaos hammer against lawful-aligned opponents. Against an enemy wizard, a daraka uses feeblemind as soon as it can. The remainder of the combat sees the daraka slash with its claws and bite with its terrible fangs. If it can, a daraka likes to grapple a foe and let the scorpions on its body bite the grabbed opponent.
+STATISTICS
+Str 28, Dex 11, Con 27, Int 18, Wis 18, Cha 20
+Base Atk +12; CMB +22 (+26 grapple); CMD 32
+Feats Alertness, Blind-Fight, Cleave, Great Cleave, Power Attack, Weapon Focus (claws)
+Skills Bluff +20, Climb +24, Intimidate +20, Knowledge (arcana) +19, Knowledge (Planes) +19, Perception +31, Sense Motive +23, Spellcraft +16, Stealth +11, Survival +19; Racial Modifiers +8 Perception
+SPECIAL ABILITIES
+Poison (Ex) Scorpions—injury; save Fort DC 24; frequency 1/round for 2 rounds; effect 1d6 Strength damage; cure 1 save. The save DC is Constitution-based.
+Scorpions (Ex) A daraka’s body is swarming with thousands of tiny scorpions. Creatures attacking a daraka unarmed or with natural weapons are automatically stung for 1d6 points of damage and suffer the effects of the scorpion’s poison (see Poison, above).
+Alternately, a daraka can sling scorpions from its body to a range of 20 feet. This is a standard action that provokes an attack of opportunity. A creature hit takes 1d6 points of damage from the stinging scorpions and is subjected to their poison. A grappled creature is likewise subjected to the stinging of a daraka’s scorpions just as if it had attacked the daraka unarmed (see above).
+A daraka has an unlimited supply of scorpions. As fast as it uses them, its body generates more.

@@ -1,0 +1,32 @@
+Rogors Craesby CR 3
+Male dread ghoul human expert 4 (Advanced Bestiary 76)
+XP 200
+CE Medium undead (augmented humanoid)
+Init +3; Senses darkvision 60 ft., scent; Perception +11
+Defense
+AC 16, touch 14, flat-footed 12 (+3 Dex, +1 Dodge, +2 natural)
+hp 26 (4d8+8)
+Fort +3, Ref +6, Will +6
+Defensive Abilities Dodge, +2 channel resistance; Immune undead traits
+Offense
+Spd 30 ft., climb 30 ft.
+Melee bite +4 (1d6 plus paralysis) and 2 claws –1 (1d3 plus paralysis)
+Special Attacks command ghouls, create spawn, paralysis (Fort save DC 14; 1d4+1 rounds)
+Statistics
+Str 12, Dex 17, Con —, Int 14, Wis 14, Cha 15
+Base Atk +3; CMB +4; CMB 17
+Feats Alertness, Dodge, Lightning Reflexes
+Skills Climb +18, Craft (carpentry) +9, Diplomacy +9, Handle Animal +9, Knowledge (architecture
+and engineering) +9, Knowledge (local) +9, Perception +11, Sense Motive +11, Survival +19;
+Racial Modifier +8 racial bonus on Survival and Climb checks
+Languages Common, Halfling
+treasure
+Gear key to Foxglove Manor
+Special Abilities
+Command Ghouls (Su) A dread ghoul can automatically command all normal ghouls within
+30 feet as a free action. Normal ghouls never attack a dread ghoul unless compelled.
+Create Spawn (Su) Any creature killed by a dread ghoul and lying undisturbed until the next
+midnight rises as a dread ghoul at that time. The new dread ghoul is not under the control of its
+creator. A protection from evil or gentle repose spell cast on the corpse prevents this.
+Paralysis (Ex) A creature damaged by a dread ghoul’s bite or claw must make a DC 14 Fortitude
+save or be paralyzed for 1d4+1 rounds. The save DC is Charisma-based.

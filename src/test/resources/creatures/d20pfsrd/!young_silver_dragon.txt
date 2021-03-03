@@ -1,0 +1,34 @@
+Young Silver DragonCR 10
+
+XP 9,600
+LG Large dragon (cold)
+Init +5; Senses dragon senses; Perception +17
+
+DEFENSES
+
+AC 22, touch 10, flat-footed 21; (+1 Dex, +12 natural, –1 size)
+hp 104 (11d12+33)
+Fort +10, Ref +8, Will +12
+Immune acid, cold, paralysis, sleep
+Weaknesses vulnerability to fire
+
+OFFENSE
+
+Speed 40 ft., fly 200 ft. (average); cloudwalking, graceful flight
+Melee bite +16 (2d6+7), 2 claws +15 (1d8+5), 2 wings +13 (1d6+2), tail +13 (1d8+7)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, DC 18, 6d8 cold), paralyzing breath
+Spell-Like Abilities (CL 11th; concentration +14)
+
+At will— detect evil
+Spells Known (CL 1st; concentration +4)
+
+1st (4/day)— alarm, true strike
+0 (at will)— detect magic, light, message, read magic
+STATISTICS
+
+Str 21, Dex 12, Con 17, Int 16, Wis 17, Cha 16
+Base Atk +11; CMB +17; CMD 28 (32 vs. trip)
+Feats Hover, Improved Initiative, Iron Will, Multiattack, Power Attack, Weapon Focus (bite)
+Skills Acrobatics +12, Diplomacy +17, Fly +13, Heal +17, Intimidate +17, Knowledge (local) +17, Perception +17, Sense Motive +17, Spellcraft +17
+Languages Auran, Common, Draconic, Giant

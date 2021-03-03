@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/thin-man-3pp
+Thin Man CR 7
+XP 3,200
+NE Medium fey
+Init +10; Senses low-light vision; Perception +5
+DEFENSE
+AC 21, touch 17, flat-footed 14 (+6 Dex, +1 dodge, +4 natural)
+hp 66 (12d6 + 24)
+Fort +6; Ref +14; Will +9
+Defensive Abilities missing dimension; DR 10/piercing or slashing
+OFFENSE
+Speed 40 ft.
+Melee 2 blade arms +11 (2d8+2)
+Special Attacks sneak attack (+3d6)
+Spell-Like Abilities (CL 9th; concentration +??)
+3/day—dimension door
+STATISTICS
+Str 15, Dex 23, Con 14, Int 13, Wis 12, Cha 12
+Base Atk +6; CMB +12; CMD 24 (32 vs. grapple)
+Feats Agile Maneuvers, Dodge, Improved Initiative, Two-Weapon Fighting, Weapon Finesse, Weapon Focus (blade arm)
+Skill Acrobatics +21, Bluff +9, Disguise +5, Escape Artist +25, Intimidate +10, Perception +16, Sense Motive +16, Sleight of Hand +21, Stealth +29; Racial Modifiers +4 Escape Artist, +8 Stealth
+Languages Common, Sylvan
+SPECIAL ABILITIES
+Missing Dimension (Ex) A thin man only exists in two dimensions, allowing him to deliver vicious attacks with his arm blades, as well as providing a measure of defense against those who have trouble perceiving him. A creature must make a DC 22 Perception check when attacking a thin man. Success means the thin man only has concealment against the attack, while failure means the creature has total concealment. The DC for the Perception check is Dexterity-based.
+A thin man within 30 feet of another of his kind must make a DC 17 Fortitude save or be destroyed. The save DC is Charisma-based.

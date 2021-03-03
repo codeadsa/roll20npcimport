@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-hutijin-duke-of-hell-tohc
+Hutijin CR 22
+XP 615,000
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +11; Senses darkvision 60 ft., detect good, detect magic, see invisibility, see in darkness; Perception +37
+DEFENSE
+AC 43, touch 25, flat-footed 36 (+7 Dex, +18 natural, +9 profane, –1 size)
+hp 297 (22d10+176); regeneration 10 (good, silver)
+Fort +15, Ref +20, Will +23
+DR 20/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 33
+OFFENSE
+Speed 50 ft., fly 100 ft. (average)
+Melee +4 unholy flaming burst trident +39/+34/+29/+24 (2d6+17/19–20 plus 1d6 fire)
+Ranged net of snaring +28 (grapple)
+Space 10 ft.; Reach 10 ft.
+Special Attacks fear
+Spell-Like Abilities (CL 20th)
+Constant—detect good, detect magic, see invisibility
+At will—animate dead, blasphemy (DC 26), create undead, fireball (DC 22), greater dispel magic, greater invisibility (DC 23), greater scrying (DC 26), greater teleport (self plus 50 pounds of objects only), magic circle against good, mass hold monster (DC 28), polymorph, power word stun, produce flame, ray of enfeeblement, scorching ray, shocking grasp, suggestion (DC 22), tongues, trap the soul (DC 27), unhallow (DC 24), unholy aura (DC 27), unholy blight (DC 23), wall of fire
+2/day—heal, summon (level 9, 2d10 lemures, 2d4 ice devils or erinyes, 1d4 barbed devils, or 1d2 pit fiends 100%)
+1/day—symbol of persuasion (DC 25), meteor swarm (DC 28)
+TACTICS
+Hutijin prefers to summon devils to deal with interlopers or adversaries, rather than waste time fighting them in melee. However, if pressed into combat, he fights with his trident, all the while peppering his foes with fireballs.
+STATISTICS
+Str 37, Dex 24, Con 27, Int 27, Wis 27, Cha 29
+Base Atk +22; CMB +36; CMD 62
+Feats Alertness, Cleave, Great Cleave, Improved Critical (trident), Improved Initiative, Improved Vital Strike, Iron Will, Power Attack, Quicken Spell-Like Ability (fireball), Vital Strike, Weapon Focus (trident)
+Skills Appraise +30, Bluff +34, Diplomacy +34, Disguise +31, Fly +30, Intimidate +34, Knowledge (arcana) +30, Knowledge (planes) +33, Knowledge (religion) +30, Perception +37, Sense Motive +37, Spellcraft +33, Stealth +28, Survival +33
+Languages Abyssal, Celestial, Common, Draconic, Giant, Goblin, Infernal, Sylvan; telepathy 100 ft.
+Gear +4 unholy flaming burst trident, net of snaring
+SPECIAL ABILITIES
+Fear (Su) Hutijin can cause fear by speaking (this is a free action). Creatures within 30 feet that hear his voice must succeed on a DC 30 Will save or be affected as though by a fear spell (CL 20th). A creature that successfully saves cannot be affected again by Hutijin’s fear ability for one day. The save DC is Charisma-based.

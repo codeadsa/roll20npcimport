@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/snake/snake-sea/snake-sea-giant
+Giant Sea Snake CR 7
+XP 3,200
+N Huge animal
+Init +6; Senses low-light vision; Perception +12
+DEFENSE
+AC 20, touch 10, flat-footed 18 (+2 Dex, +10 natural, –2 size)
+hp 85 (9d8+45)
+Fort +11, Ref +10, Will +5
+OFFENSE
+Speed 30 ft., climb 20 ft., swim 40 ft.
+Melee bite +14 (2d8+13/19–20 plus poison)
+Space 15 ft.; Reach 15 ft.
+Special Attacks poison
+STATISTICS
+Str 29, Dex 14, Con 20, Int 1, Wis 15, Cha 2
+Base Atk +6; CMB +17; CMD 29
+Feats Improved Critical (bite), Improved Initiative, Lightning Reflexes, Snatch, Weapon Focus (bite)
+Skills Climb +17, Perception +12, Stealth +7, Swim +17; Racial Modifiers +4 Perception, +4 Stealth
+SQ hold breath
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d2 Dex and 1d2 Con; cure 2 consecutive saves.

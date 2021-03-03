@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/voonith
+Voonith CR 4
+XP 1,200
+CN Small magical beast (aquatic)
+Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +8
+DEFENSE
+AC 17, touch 14, flat-footed 14 (+3 Dex, +3 natural, +1 size)
+hp 37 (5d10+10)
+Fort +6, Ref +7, Will +2
+OFFENSE
+Speed 30 ft., swim 50 ft.
+Melee bite +8 (1d6+1 plus trip), 4 claws +7 (1d3+1)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks blood-freezing howl, pounce
+STATISTICS
+Str 13, Dex 16, Con 14, Int 5, Wis 12, Cha 13
+Base Atk +5; CMB +5; CMD 18 (26 vs. trip)
+Feats Ability Focus (blood-freezing howl), Skill Focus (Perception), Weapon Focus (bite)
+Skills Perception +8, Stealth +12, Swim +17
+SQ amphibious
+Languages Aklo
+SPECIAL ABILITIES
+Blood-Freezing Howl (Su) As a standard action, a voonith can unleash a bloodcurdling howl. All creatures within a 30-foot-radius burst must succeed at a DC 15 Will save or become dazed for 1 round and then shaken for an additional 1d6 rounds. Any creature that makes a successful save against a voonith’s howl is immune to the same voonith’s howl for 24 hours. This is a sonic mind-affecting fear effect. The save DC is Charisma-based.

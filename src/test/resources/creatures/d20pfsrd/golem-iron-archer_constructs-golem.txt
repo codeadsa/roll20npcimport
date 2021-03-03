@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-iron-archer
+Iron Golem Archer CR 13
+XP 25,600
+Variant iron golem
+N Large construct
+Init –1; Senses darkvision 60 ft., low-light vision, see invisibility; Perception +0
+DEFENSE
+AC 28, touch 8, flat-footed 28 (–1 Dexterity, +20 natural, –1 size)
+hp 129 (18d10+30)
+Fort +6, Ref +5, Will +6
+DR 15/adamantine; Immune construct traits; magic
+OFFENSE
+Speed 20 ft., fly 60 ft. (perfect)
+Melee 2 slams +28 (2d10+11)
+Ranged arrows of wrath +17/+12/+7 touch (3d6)
+Space 10 ft.; Reach 10 ft.
+TACTICS
+During Combat The iron archer fires its bow at the nearest creature or at random trespassers. It focuses its attacks on opponents who get past it into the corridor to the exclusion of all others, until the creature is dead or flees. If no opponent gets past it, the iron archer focuses on flying foes.
+Morale The iron archer fights until destroyed.
+STATISTICS
+Str 32, Dex 9, Con —, Int —, Wis 11, Cha 1
+Base Atk +18; CMB +30; CMD 39

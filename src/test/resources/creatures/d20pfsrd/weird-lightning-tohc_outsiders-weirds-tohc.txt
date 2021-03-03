@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/weirds-tohc/weird-lightning-tohc
+Lightning Weird CR 8
+XP 4,800
+CE Large outsider (air, electricity, elemental, extraplanar)
+Init +9; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 20, touch 15, flat-footed 14 (+5 Dex, +1 dodge, +5 natural, -1 size)
+hp 75 (10d10+20)
+Fort +5, Ref +12, Will +8
+DR 10/bludgeoning; Immune electricity, elemental traits
+OFFENSE
+Speed 50 ft.
+Melee bite +15 (1d8+4 plus 1d8 electricity plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks control elemental, electricity
+TACTICS
+Lightning weirds lash out of their crackling pools as soon as an opponent moves too close. Foes are usually grabbed and pulled into the pool where the weird holds on and waits for the creature to die. The lightning weird always chooses a heavily-armored or metal-armored foe over an opponent in light or no armor. These creatures hate lightning quasi-elementals and attack them on sight.
+STATISTICS
+Str 17, Dex 21, Con 15, Int 10, Wis 12, Cha 14
+Base Atk +10; CMB +14 (+18 grapple); CMD 30 (can’t be tripped)
+Feats Alertness, Dodge, Improved Initiative, Weapon Finesse, Weapon Focus (bite)
+Skills Bluff +15, Intimidate +15, Knowledge (planes) +13, Perception +18, Sense Motive +18, Stealth +14
+Languages Auran, Common, Weirdling
+SQ electricity pool, reform, transparent
+SPECIAL ABILITIES
+Control Elemental (Ex) Lightning weirds can attempt to command any outsider with the “Electricity,” “Elemental,” or “Air” subtype that is within 50 feet. The Will save to avoid control has a DC of 20. The save DC is Charisma-based and includes a +4 racial bonus.
+This effect is similar to the dominate monster spell. The elemental receives a Will save to avoid being commanded.
+If the save succeeds, that elemental is immune to the control elemental ability of that lightning weird for one day.
+If the save fails, the elemental falls under the control of the lightning weird and obeys it to the best of its ability until either it or the lightning weird dies. There is no limit to the number of HD of elementals a lightning weird can control using this ability. The range is unlimited though both the lightning weird and the elemental must be on the same plane of existence; otherwise, the lightning weird loses control of the elemental. Lightning weirds cannot control other lightning weirds using this ability.
+Electricity (Ex) Lightning weirds are living creatures of elemental lightning; any successful melee hit deals electricity damage. Creatures attacking a lightning weird unarmed or with natural weapons are subject to electricity damage.
+Lightning Pool: A lightning weird’s pool is a crackling, dancing, arcing, ball of electricity. Creatures touching the pool take 2d8 points of electricity damage per round of contact. Creatures wearing metal armor must make a successful Fortitude save (DC 16) each round they are in contact with the pool or be stunned for that round.
+Creatures immune to electricity are unaffected by the lightning weird’s pool and take no damage. The save DC is Constitution-based.
+Reform (Ex) When reduced to 0 hit points or less, a lightning
+Weird, Lightning weird collapses back into its pool. Four rounds later, it reforms at full strength minus any damage taken from earthor fire-based attacks and effects (including attacks by earth or fire elemental creatures).
+Transparency (Ex) A lightning weird is effectively invisible in its lightning pool until it attacks.
+Other Forms
+Weird, Blood
+Weird, Fungus
+Weird, Lava

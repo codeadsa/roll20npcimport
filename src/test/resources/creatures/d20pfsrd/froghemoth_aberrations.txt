@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/froghemoth
+Froghemoth CR 13
+XP 25,600
+N Huge aberration
+Init +5; Senses all-around vision, blindsight 30 ft., darkvision 60 ft.; Perception +16
+DEFENSE
+AC 28, touch 9, flat-footed 27 (+1 Dex, +19 natural, -2 size)
+hp 184 (16d8+112)
+Fort +12, Ref +8, Will +11
+Immune electricity (partial); Resist fire 10
+Weaknesses slowed by electricity
+OFFENSE
+Speed 20 ft., swim 30 ft.
+Melee bite +20 (2d6+10/19-20 plus grab), 4 tentacles +18 (1d8+5 plus grab), tongue +18 (1d4+5 plus grab)
+Space 15 ft.; Reach 15 ft. (30 ft. with tongue)
+Special Attacks constrict (tentacle, 1d6+10), swallow whole (3d6+10 damage, AC 19, hp 18)
+STATISTICS
+Str 30, Dex 13, Con 24, Int 2, Wis 13, Cha 11
+Base Atk +12; CMB +24 (+28 grapple); CMD 35
+Feats Cleave, Improved Critical (bite), Improved Initiative, Lightning Reflexes, Lunge, Multiattack, Power Attack, Skill Focus (Stealth)
+Skills Perception +16, Stealth +14 (+22 in marshes), Swim +18; Racial Modifiers +8 Perception, +8 Stealth in marshes
+SPECIAL ABILITIES
+All-Around Vision (Ex) A froghemoth’s stalked eyes allow it to see in all directions at once. It cannot be flanked.
+Slowed by Electricity (Ex) Although a froghemoth is immune to damage from electricity, whenever it would otherwise take such damage it is instead slowed for 1 round.

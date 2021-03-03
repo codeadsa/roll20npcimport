@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/dragon-horse-tohc
+Dragon Horse CR 7
+XP 3,200
+NG Large magical beast (air)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +19
+DEFENSE
+AC 21, touch 13, flat-footed 18 (+3 Dex, +8 natural)
+hp 76 (8d10+32)
+Fort +10; Ref +9; Will +8
+SR 16
+OFFENSE
+Speed 60 ft., fly 120 ft. (good)
+Melee 2 hooves +14 (1d6+7)
+Space 10 ft.; Reach 5 ft.
+Special Attacks breath weapon (30 ft. cone, DC 18, 8d6 cold, usable once every 10 rounds), flying charge
+Spell-like Abilities (CL 11th):
+At will—detect chaos, detect evil, detect good, detect law
+1/minute (CL 8th)—fog cloud, gust of wind (DC 17)
+3/day—plane shift (DC 22)
+STATISTICS
+Str 24, Dex 17, Con 19, Int 16, Wis 18, Cha 20
+Base Atk +8; CMB +16; CMD 29 (33 vs. trip)
+Feats Flyby Attack, Improved Initiative, Iron Will, Power Attack
+Skills Fly +16, Knowledge (planes) +11, Perception +19, Sense Motive +12, Survival +12; Racial Modifiers +4 Perception
+Languages Common, Draconic, Auran; telepathy 100 ft.
+SPECIAL ABILITIES
+Breath Weapon (Su) A dragon horse’s breath weapon is a 30 ft. cone of cold. It can only use its breath weapon once every 10 rounds (1/minute).
+Flying Charge (Ex) A dragon horse gains a +2 bonus on damage rolls if it charges while flying.
+Plane Shift (Sp) A dragon horse can enter the Ethereal Plane, Astral Plane, Elemental Planes of Air, or the Material Plane. This ability transports the dragon horse and up to two other creatures, provided they are on its back.

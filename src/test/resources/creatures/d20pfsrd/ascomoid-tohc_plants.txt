@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/ascomoid-tohc
+Ascomoid CR 5
+XP 1,600
+N Large plant (fungus)
+Init +1; Senses tremorsense 60 ft.; Perception +0
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, -1 size)
+hp 52 (7d8+2)
+Fort +8; Ref +3; Will +2
+DR 10/piercing; Immune plant traits; Resist fire 10, electricity 10
+OFFENSE
+Speed 40 ft.
+Melee slam +8 (2d8+6)
+Space 10 ft.; Reach 0 ft.
+Special Attacks spores, trample (2d8+6, DC 17)
+TACTICS
+During Combat An ascomoid attacks by rolling over its opponents or slamming into them. Though mindless, the ascomoid reacts to those that attack it by firing spores at those opponents.
+STATISTICS
+Str 19, Dex 13, Con 17, Int —, Wis 11, Cha 1
+Base Atk +5; CMB +10; CMD 21 (can’t be tripped)
+SPECIAL ABILITIES
+Spores (Ex) Once per round, an ascomoid can fire deadly spores in a 30-foot line. Upon impacting a solid surface, the spores billow into a cloud that fills a 20-foot radius. The cloud lasts 1 round before dispersing. Creatures caught within the cloud must succeed on a DC 16 Fortitude save or take 1d6 points of Constitution damage and become nauseated for 1d4 rounds. A successful save negates the Constitution damage but not the nauseated condition. Once a creature saves against this ability it is immune to the same ascomoid’s spores for 24 hours. The save DC is Constitution-based.

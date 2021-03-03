@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/soulsliver
+Soulsliver CR 2
+XP 600
+NE Medium outsider (extraplanar, shapechanger)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +7
+DEFENSE
+AC 15, touch 14, flat-footed 11 (+3 Dex, +1 dodge, +1 natural)
+hp 19 (3d10+3); fast healing 1
+Fort +4, Ref +6, Will +2; Resist acid 5, fire 5
+Weaknesses vulnerable to sonic
+OFFENSE
+Speed 40 ft.
+Melee 2 slams +5 (1d4+2)
+Special Attacks death throes
+Spell-Like Abilities (CL 3rd; concentration +4
+3/day—mage hand, open/close, silent image
+1/day—mirror image
+STATISTICS
+Str 14, Dex 17, Con 12, Int 11, Wis 12, Cha 13
+Base Atk +3; CMB +5; CMD 19
+Feats Dodge, Improved Initiative
+Skills Acrobatics +9 (+13 when jumping), Bluff +7, Disguise +7 (+11 when using change shape), Perception +7, Sense Motive +7, Stealth +9; Racial Modifiers +4 Acrobatics when jumping, +4 Disguise when using change shape
+Languages Aklo, Common
+SQ change shape (any humanoid, alter self), compression, mirror travel, perfect copy, sound mimicry (voices)

@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/animated-object/animated-object-huge
+Huge Animated Object CR 7
+XP 3,200
+N Huge construct
+Init -2 Senses darkvision 60, low-light vision; Perception -5
+DEFENSE
+AC 15, touch 6, flat-footed 15 (-2 Dex, +9 natural, -2 size)
+hp 78 (7d10+40 size)
+Fort +2, Ref +0, Will -3
+Defensive Abilities hardness 5 Immune Construct Traits
+
+OFFENSE
+Speed 30 ft.
+Melee slam +15 (1d8+15)
+STATISTICS
+Str 30, Dex 6, Con -, Int -, Wis 1, Cha 1
+Base Atk +7 CMB +19 CMD 27
+SQ 4 construction points
+
+SPECIAL ABILITIES
+Construction Points Huge animated objects have 4 construction points.

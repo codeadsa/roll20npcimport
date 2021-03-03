@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-tohc/clockwork-swarm
+Clockwork Swarm CR 4
+XP 1,200
+N Tiny construct (swarm)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +1
+DEFENSE
+AC 18, touch 14, flat-footed 14 (+2 Dex, +4 natural, +2 size)
+hp 42 (4d10+20); self repair 3 (acid, cold, fire)
+Fort +1; Ref +3; Will +2
+Immune construct traits, swarm traits
+Weaknesses swarm traits
+OFFENSE
+Speed 40 ft.
+Melee swarm (1d6)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 12)
+STATISTICS
+Str 14, Dex 15, Con —, Int —, Wis 13, Cha 12
+Base Atk +4; CMB — ; CMD —
+Skills Stealth +2 (+6 when not moving); Racial Modifiers +4 Stealth when not moving
+SPECIAL ABILITIES
+Self-Repair (Ex) A clockwork swarm regains 3 hit points per round. Damage dealt from acid, cold, or fire effects cannot be self-repaired. If a clockwork swarm takes damage from an area attack, it is unable to repair itself for 1d6 rounds following the attack. If reduced to 0 or less hit points, it regains 1 hit point per round (but still cannot repair damage caused by acid, cold, or fire effects) until it has at least 1 hit point (at which time it begins to self-repair at its normal rate of 3 hit points per round).
+Source
+
+Tome of Horrors Complete
+Support Open Gaming
+www.opengamingstore.com

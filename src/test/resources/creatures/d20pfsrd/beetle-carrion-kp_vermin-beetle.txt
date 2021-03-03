@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-carrion-kp
+Carrion Beetle CR 5
+XP 1,600
+N Large vermin
+Init +1; Senses darkvision 60 ft; Perception +4
+DEFENSE
+AC 17, touch 10, flat-footed 16 (-1 size, +1 Dex, +7 natural)
+hp 60 (8d8+24)
+Fort +8, Ref +3, Will +3
+Immune paralysis, vermin traits
+OFFENSE
+Speed 30 ft. (6 squares), burrow 20 ft., climb 10 ft.
+Melee bite +10 (1d8+4), 2 claws +6 (1d6+2)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (1/6 rounds, 30 ft. line, Reflex half DC 17, 3d6 acid damage)
+STATISTICS
+Str 19, Dex 12, Con 17, Int —, Wis 13, Cha 10
+Base Atk +5; CMB +10; CMD 22 (30 vs. trip)
+Skills Climb +12, Perception +4; Racial Modifiers +8 Climb, +3 Perception
+SPECIAL ABILITIES
+Breath Weapon (Ex) Acid spit—the carrion beetle can spit in a 30-ft. line, once every six rounds; 3d6 acid damage, Reflex DC 17 half (Con-based).
+Immune to Paralysis (Ex) Carrion beetles are immune to all forms of paralysis, including that of ghouls, ghasts, darakhul, spells, and poisons.

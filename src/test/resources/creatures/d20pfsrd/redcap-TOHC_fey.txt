@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/redcap-TOHC
+Redcap CR 2
+XP 600
+CE Tiny fey
+Init +8; Senses low-light vision; Perception +8
+DEFENSE
+AC 18, touch 16, flat-footed 14 (+4 Dex, +2 natural, +2 size)
+hp 4 (1d6+1)
+Fort +2, Ref +8, Will +3
+DR 5/cold iron; SR 16
+OFFENSE
+Speed 20 ft.
+Melee tiny short sword +6 (1d3-2 plus poison) or 2 claws +6 (1d2-2)
+Ranged dagger +6 (1d2-2 plus poison)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-like Abilities (CL 7th):
+At will—invisibility
+1/day— dancing lights, detect good, glitterdust (DC 14), mirror image, ventriloquism (DC 13).
+TACTICS
+Redcaps hate humans and most other good-aligned fey creatures (especially brownies, grigs, and pixies). Though not combat-minded, they often go out of their way to kill good-aligned fey if given the chance. Redcaps sometimes work with evil fey such as grimstalkers, but such alliances are usually short-lived.
+Hunting bands are not uncommon, especially at night, and during these hunts redcaps are most often encountered carrying their poisoned daggers (which they use to fell opponents larger or stronger than themselves). They enjoy traveling into civilized areas and stealing livestock and pets, just to see the sorrowful looks on the faces of the farmers and children the next day when they find their animals missing or slaughtered.
+STATISTICS
+Str 7, Dex 19, Con 12, Int 15, Wis 14, Cha 14
+Base Atk +0 CMB -5; CMD 9
+Feats DodgeB, Improved InitiativeB, Weapon Finesse
+Skills Bluff +6, Craft (poisonmaking) +6, Craft (any one) +6, Escape Artist +8, Perception +8, Stealth +8 (+12 in forests); Racial Modifiers +2 Perception, +4 Stealth in forests.
+Languages Common, Elven, Sylvan
+SQ poison use
+Combat Gear 4 doses of aconite poison; Other Gear dagger
+SPECIAL ABILITIES
+Poison Use (Ex) A redcap is never at risk of poisoning itself when handling poison. They usually use aconite poison on their daggers.

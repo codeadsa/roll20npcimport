@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/grimstalker
+Grimstalker CR 5
+XP 1,600
+NE Medium fey
+Init +9; Senses low-light vision; Perception +12
+DEFENSE
+AC 18, touch 15, flat-footed 13 (+5 Dex, +3 natural)
+hp 52 (8d6+24)
+Fort +5, Ref +11, Will +7
+DR 5/cold iron
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee 2 claws +9 (1d4+1 plus poison)
+Special Attacks sneak attack +3d6
+Spell-Like Abilities (CL 8th; concentration +11)
+3/day—control plants (DC 21), tree shape
+TACTICS
+The grimstalker directs his allies’ attacks with control plants while using the plant to flank foes. When reduced to fewer than 11 hit points, the grimstalker flees, climbing up the walls to escape through a hole in the tower’s roof.
+STATISTICS
+Str 12, Dex 21, Con 17, Int 14, Wis 13, Cha 16
+Base Atk +4; CMB +5; CMD 20
+Feats Combat Reflexes, Improved Initiative, Stealthy, Weapon Finesse
+Skills Acrobatics +16 (+20 jump), Climb +20, Escape Artist +18, Intimidate +11, Knowledge (nature) +13, Perception +12, Stealth +18 (+26 in forests), Survival +9
+Languages Aklo, Common, Elven
+SPECIAL ABILITIES
+Poison (Ex) Claw—Injury; save Fort DC 14; frequency 1/round for 6 rounds; effect 1d2 Dex; cure 2 saves.

@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/popobala
+Popobala CR 15
+XP 51,200
+CE Medium monstrous humanoid (shapechanger)
+Init +10; Senses blindsense 60 ft., darkvision 60 ft.; Perception +24; Aura frightful presence (30 ft., DC 26), stench (DC 26, 1d6 minutes)
+DEFENSE
+AC 29, touch 17, flat-footed 22 (+6 Dex, +1 dodge, +12 natural)
+hp 225 (18d10+126); fast healing 10 (see harvester of sorrow)
+Fort +12, Ref +17, Will +14
+Defensive Abilities harvester of sorrow; DR 10/magic; Immune disease, nausea, poison, sickened, stunning
+OFFENSE
+Speed 30 ft., climb 30 ft., fly 80 ft. (average)
+Melee bite +25 (2d6+6 plus 1d4 Cha drain), 2 talons +25 (1d6+6 plus grab and popobala fever), 2 wings +20 (1d6+3)
+Special Attacks rend (2 talons, 2d6+9)
+Spell-Like Abilities (CL 16th; concentration +22)
+At will—clairaudience/clairvoyance, ghost sound (DC 16), ventriloquism (DC 17)
+3/day—dominate person (DC 21, can only dominate and control one person at a time), eyebite (DC 22), feeblemind (DC 21), spell turning, suggestion (DC 19), telekinesis (DC 21)
+1/day—animate objects
+STATISTICS
+Str 23, Dex 22, Con 22, Int 17, Wis 17, Cha 22
+Base Atk +18; CMB +24 (+28 grapple); CMD 41
+Feats Dodge, Flyby Attack, Improved Initiative, Mobility, Power Attack, Skill Focus (Intimidate), Toughness, Weapon Focus (bite), Weapon Focus (talons)
+Skills Acrobatics +18, Bluff +27, Climb +14, Disguise +18, Intimidate +40, Knowledge (local) +24, Perception +24, Perform (act) +18, Sense Motive +15, Stealth +27
+Languages Common
+SQ horrid haunting, change shape (bat, dire bat, or humanoid; polymorph)
+SPECIAL ABILITIES
+Change Shape (Su) A popobala loses its frightful presence, popobala fever, and stench abilities when not in its true form.
+Harvester of Sorrow (Su) A popobala heals as a result of the suffering of others. It gains fast healing 10 if at least one creature within 15 feet has one or more of the following conditions: confused, cowering, dying, exhausted, fatigued, frightened, nauseated, panicked, shaken, sickened, staggered, or stunned.
+Horrid Haunting (Su) A popobala may use ghost sound or ventriloquism as a free action whenever it manipulates a creature or object with animate objects, dominate person, or telekinesis. The ghost sound or ventriloquism originates from the controlled object or creature.
+Popobala Fever (Su) A creature wounded by a popobala’s talons becomes sickened for 1d6 minutes unless it makes a DC 25 Fortitude save. A creature already sickened by the fever becomes nauseated for 1d6 rounds. One already nauseated by the fever is helpless for 1d6 rounds. This is a disease effect. The save DC is Constitution-based.

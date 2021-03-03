@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/ogrillon
+Ogrillon CR 1
+XP 400
+CE Medium humanoid (ogrillon)
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 14, touch 10, flat-footed 14 (+4 natural)
+hp 13 (2d8+4)
+Fort +5, Ref +0, Will -1
+OFFENSE
+Speed 30 ft.
+Melee unarmed strike +6 (1d4+4)
+Special Attacks reinforced fists
+STATISTICS
+Str 19, Dex 10, Con 14, Int 7, Wis 8, Cha 8
+Base Atk +1; CMB +5; CMD 15
+Feats Weapon Focus (unarmed strike)
+Skills Climb +8, Perception +0
+Languages Giant
+SQ orc/ogre blood
+SPECIAL ABILITIES
+Orc/Ogre Blood (Ex) For all special abilities and effects, an ogrillon is considered an orc or ogre. For example, ogrillons can use special ogre or orc weapons or magic items with racially specific ogre or orc powers as if they were ogres or orcs.
+Reinforced Fists (Ex) Ogrillons are considered to be armed even when unarmed (i.e., they do not provoke attacks of opportunity from armed opponents when attacking them and can themselves still make an attack of opportunity against an opponent that attacks unarmed). Additionally, they always deal lethal damage rather than nonlethal damage when fighting unarmed.
+Ogrillon Characters Ogrillons have racial Hit Dice and can have class levels. Most ogrillon leaders are barbarians. Ogrillon clerics tend to worship “the Destroyer,” and they can choose two of the following domains: Chaos, Evil, Strength, and War. Most ogrillon spellcasters are adepts. Ogrillon characters possess the following racial traits.
++8 Strength, +4 Constitution, -4 Intelligence, -2 Wisdom, -2 Charisma. Ogrillons are fierce warriors. Darkvision: Ogrillons can see in the dark up to 60 feet. Racial Hit Dice: An ogrillon begins with two levels of humanoid, which provide 2d8 Hit Dice, a base attack bonus of +1, and base saving throw bonuses of Fort +3, Ref +0, and Will +0. Racial Skills: An ogrillon’s humanoid levels give it skill points equal to 2 x (2 + Int modifier). Racial Feats: An ogrillon’s humanoid levels give it one feat. AC: +4 natural armor bonus. Natural Weapons: Ogrillons can fight with 2 unarmed strikes that deal lethal damage (1d4). Special Attacks: Reinforced fists (see above). Special Qualities: Orc/Ogre blood (see above). Languages: Ogrillons begin play speaking Giant, and can also speak Common if they have an Intelligence of at least 10. Ogrillons with high Intelligence scores can choose from the following languages: Dwarf, Gnoll, Goblin, Orc.

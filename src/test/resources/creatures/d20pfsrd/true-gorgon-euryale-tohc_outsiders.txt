@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/true-gorgon-euryale-tohc
+Euryale CR 22
+XP 615,000
+LE Large outsider (evil, extraplanar, lawful)
+Init +7; Senses darkvision 120 ft.; Perception +30
+DEFENSE
+AC 41, touch 12, flat-footed 38 (+3 Dex, +29 natural, –1 size)
+hp 270 (20d10+160); fast healing 5
+Fort +14; Ref +17; Will +19
+DR 15/epic and good; Immune paralysis, polymorph, sleep, stunning; SR 33
+OFFENSE
+Speed 30 ft., fly 50 ft. (poor)
+Melee 2 claws +32 (2d6+12 plus grab), bite +32 (1d10+12), snake bite +30 (1d8+6 plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks petrifying gaze, poison, rend (2 claws, 2d6+18)
+STATISTICS
+Str 35, Dex 17, Con 26, Int 24, Wis 24, Cha 28
+Base Atk +20; CMB +33 (+37 grapple); CMD 46 (can’t be tripped)
+Feats Cleave, Great Cleave, Improved Initiative, Lightning Reflexes, Multiattack, Power Attack, Vital Strike, Weapon Focus (bite) Weapon Focus (claw), Weapon Focus (snake bite)
+Skills Acrobatics +26, Bluff +32, Craft (alchemy) +30, Diplomacy +32, Fly +20, Intimidate +32, Knowledge (arcana) +30, Knowledge (dungeoneering) +27, Knowledge (planes) +30, Perception +30, Sense Motive +30, Stealth +22, Survival +27
+SQ immortal
+Languages Abyssal, Aklo, Common, Draconic, Infernal, Terran, Undercommon
+SPECIAL ABILITIES
+Immortal (Ex) Sthenno is immortal and cannot die from natural causes. She is not subject to death from massive damage and is immune to death effects and disintegration. She does not age, and does not need to sleep, eat, or breathe.
+Petrifying Gaze (Su) Turn to stone permanently, 30 feet, Fortitude save (DC 29) negates. The save DC is Charisma-based.
+Poison (Ex) Bite—injury; save Fort DC 28; frequency 1/round for 6 rounds; effect 1d6 Strength; cure 1 save.
+Related Creature
+True Gorgon, Sthenno

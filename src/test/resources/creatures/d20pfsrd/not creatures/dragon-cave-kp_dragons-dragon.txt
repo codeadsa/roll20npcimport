@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-cave-kp
+Cave Dragon
+
+NE dragon (earth)
+BASE STATISTICS CR 3; Size Tiny; Hit Dice 4d12
+Speed 40 ft., 20 ft. burrow; earth glide
+Natural Armor +6; Breath Weapon cone, poison 1d6 Strength damage (+1/age category); 2d6 sonic.
+Str 16 Dex 12 Con 18 Int 10 Wis 12 Cha 13
+SPECIAL ABILITIES
+Blindsense (Ex) Cave dragons can pinpoint creatures within a distance of 180 ft. Opponents the cave dragon can’t actually see still have total concealment against the dragon.
+Breath Weapon (Su) A cave dragon breathes one of two different types: a cone of pure black poison and a cone of invisible sonic energy that stuns foes. Creatures within the poison cone suffer the damage shown and must succeed on a Fortitude save (DC 10 + 1/2 HD + its Constitution modifier) or take 1d6 Strength damage (plus 1 Str/age category of the dragon). The sonic blast causes damage and stuns those it strikes for 1 round if the victim fails a Fortitude save. The dragon only breathes one of these types each time it uses its breath weapon.
+Darkness Aura (Ex) An adult or older cave dragon can generate an aura of darkness in a 10-ft.diameter. This range increases by 10 ft./age category greater than adult. This is always centered on the dragon itself and prevents normal vision, darkvision, and even lifesense from working. Blindsense functions normally. Light spells cast into the area must overcome the dragon’s SR +4, or they fail.
+Earth Glide (Su) A young or older cave dragon glides through stone, dirt, or any sort of earth except metal as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. Move earth cast on an area containing a burrowing cave dragon flings the dragon back 30 ft., stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+Immunities (Ex) Cave dragons are immune to sonic and acid attacks as well as to sleep effects.
+Ruff Spikes (Ex) As a free action, a cave dragon can block movement within 5 ft. of its body, keeping enemies at bay using its many feelers and spikes.
+Shadow Armor (Su) An old cave dragon gains a layer of flaky black scale that grants a +6 armor bonus and absorbs all force attacks.
+Spell-Like Abilities (Sp) Wyrmling cave dragons gain the ability to cast darkness 3/day. Juvenile cave dragons gain the ability to cast deeper darkness 3/day.
+Spells A young cave dragon casts spells as a divine caster of 1st level. This improves to 11th level by the time they reach the old category. They may choose two domains from Darkness, Destruction, Earth, Evil, and Knowledge.
+
+Age Category Special Abilities Caster Level SR
+Wyrmling Darkness — —
+Very young Ruff spikes — —
+Young Earth Glide 1st 15
+Juvenile Deeper Darkness 3rd 16
+
+Young Adult DR 5/good 5th 17
+Adult Darkness Aura
+7th 18
+Mature adult DR 10/good 9th 20
+Old Shadow Armor 11th 22
+
+Editor’s Note
+The Source Material for the Cave Dragon does not list information for Age Categories above old.
+Subpages
+Cave Dragon, Adult Cave Dragon, Young

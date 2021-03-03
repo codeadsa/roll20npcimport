@@ -1,0 +1,45 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-pazuzu-demon-prince-of-air-tohc
+Pazuzu (Demon Prince of Air) CR 28
+XP 4,920,000
+CE Large outsider (air, chaotic, demon, evil, extraplanar)
+Init +14; Senses darkvision 60 ft., true seeing; Perception +63 (+71 in daylight); Aura unholy aura (DC 27)
+DEFENSE
+AC 49, touch 37, flat-footed 39 (+10 Dex, +12 natural, –1 size, +9 insight, +9 profane)
+hp 604 (39d10+390); fast healing 5
+Fort +31, Ref +23, Will +30
+Defensive Abilities aerial passivism; DR 25/cold iron and good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 39
+OFFENSE
+Speed 40 ft., fly 80 ft. (perfect)
+Melee +5 anarchic keen greatsword +56/+51/+46+41 (3d6+23/17–20) or +5 anarchic keen greatsword +56 (3d6+23/17–20) and 2 talons +46 (1d8+6/19–20)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapons, dominate aerial creatures
+Spell-Like Abilities (CL 28th)
+Constant—true seeing, unholy aura (DC 27)
+At will—blasphemy (DC 26), control weather, deeper darkness, desecrate, detect good, detect magic, fear (DC 23), flesh to stone (DC 25), greater dispel magic, greater teleport (self plus 50 pounds of objects only), lightning bolt (DC 22), shapechange, suggestion (DC 22), symbol of death (DC 27), symbol of pain (DC 24), telekinesis (DC 24), tongues (self only), unhallow, unholy blight (DC 23), wind walk, wind wall
+3/day—summon (level 9, 2d4 succubi, 1d4 nalfeshnees or vrocks, or 1 balor 100%)
+1/day—wish, summon (level 9, up to 78 HD of aerial or avian creatures 100%
+Prepared Spells (CL 20th, can select spells from the Air domain at CL 22nd)
+9th—dominate monster (DC 28), etherealness, imprisonment (DC 28), meteor swarm (DC 28), prismatic sphere (DC 28)
+8th—moment of prescience, prismatic wall (DC 27), sunburst (DC 27), symbol of death (DC 27), whirlwindD (DC 27)
+7th—finger of death (DC 26), insanity (DC 26), prismatic spray (DC 26), spell turning, symbol of weakness (DC 26)
+6th—acid fog, eyebite (DC 25), mislead (DC 25), repulsion (DC 25), symbol of fear (DC 25)
+5th—baleful polymorph (DC 24), hold monster (DC 24), magic jar (DC 24), symbol of sleep (DC 24), telekinesis (DC 24), wall of force
+4th—confusion (DC 23), contagion (DC 23), enervation, ice storm, solid fog, shout (DC 23)
+3rd—deep slumber (DC 22), dispel magic, displacement, gaseous form, haste, magic circle against good
+2nd—fog cloud, scorching ray, see invisibility, web (DC 21), whispering wind, wind wallD
+1st—cause fear (DC 20), chill touch (DC 20), color spray (DC 20), expeditious retreat, grease (DC 20), magic missile, protection from good
+0 (at will)—acid splash, daze (DC 19), dancing lights, flare (DC 19)
+D Air domain spell
+STATISTICS
+Str 35, Dex 30, Con 31, Int 28, Wis 28, Cha 29
+Base Atk +39; CMB +52; CMD 90
+Feats Ability Focus (breath weapon), Alertness, Arcane Strike, Blind-Fight, Cleave, Deceitful, Empower Spell, Extend Spell, Flyby Attack, Great Cleave, Hover, Improved Critical (talon), Improved Initiative, Maximize Spell, Power Attack, Quicken Spell, Vital Strike, Weapon Focus (talon), Weapon Focus (greatsword), Wingover
+Skills Acrobatics +52, Bluff +55, Diplomacy +48, Disguise +11, Escape Artist +52, Fly +58, Handle Animal +51 (+59), Intimidate +48, Knowledge (arcana) +51, Knowledge (planes) +51, Knowledge (religion) +48, Perception +63 (+71 in daylight), Sense Motive +55, Spellcraft +48, Stealth +48, Survival +48; Racial Modifiers +8 Handle Animal with aerial and avian creatures, +8 Perception (+16 in daylight)
+Languages Auran, Aquan, Abyssal, Celestial, Common, Draconic, Giant, Infernal, Terran; telepathy 100 ft.
+SQ planar omniscience
+Gear Carriontooth
+SPECIAL ABILITIES
+Aerial Passivism (Ex) No aerial creature (defined in his dominate aerial creatures special attack) of 10 HD or less willingly attacks Pazuzu (but can be forced to magically). If attacked by a magically compelled aerial creature, Pazuzu can make an Intelligence check (opposed by the spellcaster’s caster level that compelled the aerial creature). If Pazuzu wins the opposed check, he automatically breaks the magical compulsion controlling the creature (as if by greater dispel magic).
+Breath Weapons (Su) Pazuzu has three breath weapons, each detailed below. Regardless of which breath weapon he uses, he can’t breathe more than once every 1d4 rounds. Each breath weapon is a 100-foot long cone. The save DC is Constitution-based and includes a +2 bonus for Pazuzu’s Ability Focus feat.
+Creeping Doom: This works as the spell of the same name (CL 20th). Insect Plague: This works as the spell of the same name (CL 20th). Corrosive Gas: Damage 16d6 acid, DC 40 Reflex half. Dominate Aerial Creatures (Su) Pazuzu can automatically dominate any aerial creature of 6 HD or less that is within sight as a free action. Targeted creatures do not get a save against this effect. This functions as a charm monster spell (CL 20th). At any one time, Pazuzu can have a total of 40 HD of creatures dominated. Affected creatures must remain with sight or the effect ends. Aerial creatures are defined as avians (including giant and dire versions), gargoyles, harpies, and creatures with the air subtype.
+GEAR Unique Item: Carriontooth Pazuzu’s unique weapon is a +5 anarchic keen greatsword.

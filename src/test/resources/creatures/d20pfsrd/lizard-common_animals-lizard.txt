@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/lizard/lizard-common
+Lizard CR 1/6
+XP 65
+N Tiny animal
+Init +2; Senses low-light vision; Perception +1
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 3 (1d8–1)
+Fort +1, Ref +4, Will +1
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee bite +4 (1d4–4)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 3, Dex 15, Con 8, Int 1, Wis 12, Cha 2
+Base Atk +0; CMB +0; CMD 6 (10 vs. trip)
+Feats Weapon Finesse
+Skills Acrobatics +10, Climb +10, Stealth +14; Racial Modifiers +8 Acrobatics
+SPECIAL ABILITIES
+Familiar The master of a lizard familiar gains a +3 bonus on Climb checks.
+Source: Wikipedia

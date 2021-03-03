@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/undead-warlord
+Undead Warlord CR 8
+XP 4,800
+Always Lawful, usually evil Medium undead
+Init +8; Senses darkvision 60 ft.; Perception +16
+DEFENSE
+AC 24, touch 13, flat-footed 21 (+11 armor, +4 Dex)
+hp 78 (12d8+24)
+Fort +5, Ref +7, Will +9
+Immune mind-affecting effects, bleed, death effects, disease, paralysis, poison, sleep effects, and stunning, nonlethal damage, ability drain, energy drain, exhaustion and fatigue effects; SR 25
+OFFENSE
+Speed 20 ft. (30 ft. base)
+Melee +3 keen greatsword +16 (2d6+10),
+Special Attacks desperate battler, frightful presence
+TACTICS
+Before Combat When the warlord encounters a party, he looks them over, and decides which of the members would be the best match for him in honorable, single combat. Once decided, he offers the hero a challenge. He explains that the only way he can find peace is if a foe of the same approximate power defeats him in honorable combat. If the hero accepts his challenge and can defeat him, the warlord promises to reward him with great power and wealth. If the challenge is accepted, the duel begins. If the challenge is not accepted, the warlord immediately attacks the entire party in a fit of rage.
+During Combat If engaged in single combat, the undead warlord fights well and honorably, attacking with his greatsword. He uses his feats to his advantage, changing his swing with Combat Expertise and Power Attack to adjust to his opponent’s ability if necessary.
+Anyone attempting to interfere in the duel is subject to the warlord’s frightful presence. If the warlord brings his opponent to 0 or fewer hit points, he stops fighting and wanders away, leaving the warrior in the hands of his party for ministrations, last rites, or whatever they can give. If not engaged in single combat, the warlord attacks the strongest warrior first, and works his way through the party to the weakest. He still uses all of his abilities to their best advantage.
+Morale If the warlord is killed in a fair single combat, he turns to dust and fades permanently, leaving behind his greatsword and a number of magical items, gems, and platinum. If anyone helps during the duel, or if the hero defeats him dishonorably, the warlord turns to smoke and fades away upon being defeated, reforming in one day’s time to again find a hero to end his misery.
+STATISTICS
+Str 20, Dex 18, Con -, Int 10, Wis 12, Cha 15
+Base Atk +9; CMB +16; CMD 28
+Feats Combat Expertise, Desperate Battler, Improved Initiative, Power Attack, Weapon Focus (greatsword), Weapon Specialization (greatsword)
+Skills Climb +20, Perception +16, Sense Motive +16, Spellcraft +15
+Languages Common, Necril.
+SQ frightful presence, rejuvenation, undead traits
+SPECIAL ABILITIES
+Frightful Presence (Su) During a duel, all those not involved with the fight are subject to the frightful presence of the warlord if they attempt to interfere in any way. Intervening creatures with fewer Hit Dice than the warlord must succeed on DC 18 Will saves or become panicked for 2d6 rounds. An opponent that succeeds on the saving throw is immune to that warlord’s frightful presence for 24 hours. The save DC is Charisma-based.
+Rejuvenation (Su) A destroyed undead warlord not defeated in an honorable duel reforms after 24 hours.

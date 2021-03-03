@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/tendrul
+Tendrul CR 7
+XP 3,200
+N(E) Large aberration (aquatic)
+Init +2; Senses darkvision 60 ft., keen scent; Perception +11
+DEFENSE
+AC 21, touch 12, flat-footed 18 (+2 Dex, +1 dodge, +9 natural, -1 size)
+hp 76 (9d8+27 plus 9)
+Fort +6, Ref +5, Will +9
+OFFENSE
+Speed 10 ft.; swim 40 ft.
+Melee bite +10 (1d8+5/x3 plus grab), tail slap +5 (1d6+2)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (1d8+5), gnashing of teeth
+STATISTICS
+Str 21, Dex 15, Con 17, Int 3, Wis 12, Cha 6
+Base Atk +6; CMB +12 (+16 grapple); CMD 24
+Feats Improved Iron Will, Iron Will, Power Attack, Skill Focus (Perception), Toughness
+Skills Perception +11, Swim +16
+SQ amphibious
+SPECIAL ABILITIES
+Gnashing of Teeth (Ex) If a tendrul scores a natural 20 on its attack roll with its bite attack and subsequently confirms the critical hit, it deals triple normal damage.
+Keen Scent (Ex) A tendrul notices creatures by scent in a 90-foot radius and detects blood in the water at ranges of up to 500 feet.

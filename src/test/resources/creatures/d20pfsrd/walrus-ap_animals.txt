@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/walrus-ap
+Walrus CR 7
+XP 3,200
+N Large animal
+Init +5; Senses low-light vision, scent; Perception +21
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 95 (10d8+50)
+Fort +14, Ref +8, Will +4
+Resist cold 5
+OFFENSE
+Speed swim 40 ft.
+Melee gore +13 (1d10+7)
+Space 10 ft.; Reach 5 ft.
+Special Attacks trample (2d8+7, DC 22)
+STATISTICS
+Str 25, Dex 13, Con 21, Int 2, Wis 12, Cha 10
+Base Atk +7; CMB +15; CMD 26
+Feats Endurance, Great Fortitude, Improved Bull Rush, Iron Will, Power Attack, Skill Focus (Perception)
+Skills Perception +21
+SQ hold breath
+Source Wikipedia

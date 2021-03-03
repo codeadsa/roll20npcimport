@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/frostfallen-mammoth
+Frostfallen Mammoth CR 10
+XP 9,600
+NE Huge undead (cold)
+Init +1; Senses darkvision 60 ft., lifesense; Perception +0
+DEFENSE
+AC 25, touch 9, flat-footed 26 (+1 Dex, +16 natural, –2 size)
+hp 91 (14d8+28)
+Fort +5, Ref +5, Will +9
+DR 10/bludgeoning; Immune cold, undead traits
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 40 ft.
+Melee gore +21 (2d8+13 plus 3d6 cold), slam +21 (2d6+13 plus 3d6 cold)
+Space 15 ft.; Reach 15 ft.
+Special Attacks cold
+STATISTICS
+Str 36, Dex 12, Con —, Int —, Wis 10, Cha 12
+Base Atk +10; CMB +25; CMD 36 (40 vs. trip)
+Feats ToughnessB
+SQ lifesense
+

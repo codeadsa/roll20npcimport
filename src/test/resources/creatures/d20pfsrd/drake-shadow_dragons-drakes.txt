@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/drakes/drake-shadow
+Shadow Drake CR 2
+XP 600
+CE Tiny dragon (cold)
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +7
+DEFENSE
+AC 18, touch 17, flat-footed 13 (+5 Dex, +1 natural, +2 size)
+hp 22 (3d12+3)
+Fort +4, Ref +8, Will +4
+Defensive Abilities shadow blend; Immune cold, paralysis, and sleep
+Weaknesses light sensitivity, vulnerable to fire
+OFFENSE
+Speed 20 ft., fly 90 ft. (perfect)
+Melee bite +10 (1d3–1), tail slap +5 (1d3–1)
+Space 2-1/2 ft.; Reach 0 ft. (5 ft. with tail)
+Special Attacks stygian breath
+STATISTICS
+Str 9, Dex 20, Con 12, Int 11, Wis 12, Cha 16
+Base Atk +3; CMB +6; CMD 15
+Feats Flyby Attack, Weapon Finesse
+Skills Acrobatics +8 (+4 when jumping), Disable Device +8, Fly +23, Perception +7, Sleight of Hand +8, Stealth +19; Racial Modifiers –4 Acrobatics when jumping
+Languages Common, Draconic
+SQ speed surge
+SPECIAL ABILITIES
+Shadow Blend (Su) In conditions of illumination other than bright light, a shadow drake disappears into the shadows, giving it concealment (20% miss chance). It can resume or suspend this ability as a free action.
+Speed Surge (Ex) Three times per day as a swift action, a shadow drake may draw on its draconic heritage for a boost of strength and speed to take an additional move action in that round.
+Stygian Breath (Su) As a standard action, a shadow drake can exhale a ball of black liquid that explodes into a cloud of frigid black mist. This attack has a range of 60 feet and deals 2d6 points of cold damage (Reflex DC 12 half) to all creatures within a 5-foot-radius spread. The mist snuffs out light sources in the area effect, extinguishing non-magical light sources and dispelling light spells of 1st level or lower. Once a shadow drake has used its stygian breath, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.

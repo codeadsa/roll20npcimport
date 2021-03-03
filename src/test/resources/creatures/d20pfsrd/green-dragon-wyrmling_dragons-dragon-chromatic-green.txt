@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-green/green-dragon-wyrmling
+Wyrmling Green Dragon CR 4
+XP 1,200
+LE Small dragon (air)
+Init +2; Senses dragon senses; Perception +10
+DEFENSE
+AC 17, touch 13, flat-footed 15 (+2 Dex, +4 natural, +1 size)
+hp 37 (5d12+5)
+Fort +5, Ref +6, Will +6
+Immune acid, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (average), swim 40 ft.
+Melee bite +7 (1d6+1), 2 claws +7 (1d4+1)
+Special Attacks breath weapon (20-ft. cone, DC 13, 2d6 acid)
+STATISTICS
+Str 13, Dex 14, Con 13, Int 10, Wis 11, Cha 10
+Base Atk +5; CMB +5; CMD 17 (21 vs. trip)
+Feats Alertness, Iron Will, Power Attack
+Skills Fly +12, Knowledge (nature) +8, Perception +10, Stealth +14, Survival +8, Swim +17; Racial Modifiers +8 Swim
+Languages Draconic
+SQ water breathing
+SPECIAL ABILITIES
+Water Breathing (Ex) A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+

@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/xacarba
+Xacarba CR 15
+XP 51,200
+CE Gargantuan outsider (chaotic, evil, extraplanar)
+Init +9; Senses arcane sight, darkvision 120 ft., detect good, low-light vision, scent, true seeing; Perception +29
+DEFENSE
+AC 31, touch 12, flat-footed 25 (+5 Dex, +1 dodge, +19 natural, –4 size)
+hp 210 (20d10+100)
+Fort +17, Ref +13, Will +20
+DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 26
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +25 (3d8+9 plus poison), 3 tail slaps +20 (2d8+4 plus grab)
+Space 20 ft.; Reach 15 ft.
+Special Attacks constrict (2d6+9), redirect spell
+Spell-Like Abilities (CL 18th; concentration +25)
+Constant—arcane sight, detect good, true seeing
+At will—detect thoughts (DC 19), greater teleport (self plus 50 lbs. of objects only), invisibility, suggestion (DC 20)
+3/day—charm monster (DC 21), mass suggestion (DC 23), scrying (DC 21), symbol of pain (DC 22), touch of idiocy, vision
+1/day—summon (level 5, 1 hezrou or 1d4 succubi, 50%)
+STATISTICS
+Str 29, Dex 21, Con 21, Int 26, Wis 22, Cha 24
+Base Atk +20; CMB +33 (+37 grapple); CMD 49 (can’t be tripped)
+Feats Combat Reflexes, Dodge, Improved Initiative, Improved Iron Will, Improved Vital Strike, Iron Will, Lightning Reflexes, Mobility, Spring Attack, Vital Strike
+Skills Acrobatics +25 (+29 jump), Bluff +30, Climb +17, Diplomacy +27, Disguise +27, Intimidate +27, Knowledge (arcana) +31, Knowledge (any two) +31, Linguistics +28, Perception +29, Sense Motive +29, Spellcraft +31, Stealth +16, Use Magic Device +27
+Languages Abyssal, Common, Draconic; telepathy 100 ft.
+SQ change shape (any humanoid as a swift action, but always retains one serpentine trait that negates the bonus to Disguise checks; alter self )
+SPECIAL ABILITIES
+Poison (Su) Bite—injury; save Fort DC 25; frequency 1/round for 6 rounds; effect one chosen by the xacarba from three options; cure 2 consecutive saves.
+The save DC is Constitution-based.
+Fiendish Bile: effect 1d4 Str damage (good-aligned creatures also take 2d8 points of damage).
+Mysterious Blood: effect 1d4 Dex and 1d4 Wis damage plus confusion for 1 round.
+Vile Disjunction: effect targeted greater dispel magic (CL 18th) on the creature.
+Redirect Spell (Su) Any creature that attempts to cast a spell within 30 feet of a xacarba must cast the spell defensively. If the caster fails the concentration check to do so (or if the caster opts to not cast defensively), the xacarba can choose the target of the spell as an immediate action. The new target must be a legal target—if there’s no legal alternative target to choose from, this ability cannot be used.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-monadic-deva
+Monadic Deva CR 12
+XP 19,200
+NG Medium outsider (angel, aquatic, extraplanar, good)
+Init +8; Senses darkvision 60 ft., detect evil, low-light vision; Perception +29
+Aura protective aura
+DEFENSE
+AC 27, touch 14, flat-footed 23 (+4 Dex, +13 natural) (+4 deflection vs. evil)
+hp 147 (14d10+70)
+Fort +15, Ref +13, Will +10; +4 vs. poison; +4 resistance vs. evil
+DR 10/evil; Immune acid, cold, electricity, fire, death effects, energy drain, petrification; SR 23
+OFFENSE
+Speed 40 ft., fly 90 ft. (good)
+Melee +3 morningstar +22/+17/+12 (1d8+10 plus solid blow)
+Spell-Like Abilities (CL 10th; concentration +14)
+Constant–detect evil
+At will–aid, charm monster (DC 18, elementals only), discern lies (DC 18), dispel evil (DC 19), dispel magic, holy smite (DC 18), invisibility (self only), plane shift (DC 19), remove curse, remove disease, remove fear
+3/day–cure serious wounds, holy word (DC 21), mirror image
+1/day–heal, hold monster (DC 19), holy aura (DC 22)
+STATISTICS
+Str 21, Dex 19, Con 18, Int 19, Wis 18, Cha 19
+Base Atk +14; CMB +19; CMD 33
+Feats Alertness, Cleave, Great Fortitude, Improved Initiative, Iron Will, Power Attack, Toughness
+Skills Diplomacy +21, Fly +25, Intimidate +21, Knowledge (planes) +21, Knowledge (religion) +21, Perception +29, Sense Motive +25, Stealth +21, Survival +21, Swim +27; Racial Modifiers +4 Perception
+Languages Celestial, Draconic, Infernal; truespeech
+SQ amphibious
+SPECIAL ABILITIES
+Solid Blow (Su) If a monadic deva strikes an opponent twice in 1 round with its mace, that creature takes an extra 1d8+10 points of damage.

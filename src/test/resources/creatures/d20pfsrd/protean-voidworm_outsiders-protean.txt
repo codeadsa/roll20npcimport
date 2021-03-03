@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/protean/protean-voidworm
+Protean, Voidworm CR 2
+XP 600
+CN Tiny outsider (chaotic, extraplanar, protean, shapechanger)
+Init +3; Senses blindsense 30 ft., darkvision 30 ft., detect law; Perception +8
+DEFENSE
+AC 15, touch 15, flat-footed 12 (+3 Dex, +2 size)
+hp 16 (3d10); fast healing 2
+Fort +1, Ref +6, Will +2
+Defensive Abilities amorphous anatomy, freedom of movement; Immune acid; Resist electricity 10, sonic 10
+OFFENSE
+Speed 20 ft., fly 50 ft. (perfect)
+Melee bite +8 (1d3–2), tail slap +3 (1d3–2 plus confusion)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-Like Abilities (CL 6th; concentration +7)
+Constant—detect law
+At will—dancing lights, ghost sound (DC 11), prestidigitation
+3/day—blur (self only), obscuring mist
+1/week—commune (CL 12th, 6 questions)
+STATISTICS
+Str 7, Dex 17, Con 10, Int 8, Wis 8, Cha 13
+Base Atk +3; CMB +4; CMD 12 (can’t be tripped)
+Feats Skill Focus (Perception), Weapon Finesse
+Skills Acrobatics +9 (+5 jump), Bluff +7, Escape Artist +7, Fly +19, Knowledge (arcana) +5, Perception +8, Stealth +15
+Languages Common, Protean
+SQ change shape (2 forms, both of which must be Tiny animals; beast shape II)
+SPECIAL ABILITIES
+Confusion (Su) A creature struck by a voidworm’s tail slap must make a DC 12 Will save or become confused for 1 round. This is a mind-affecting effect. The save DC is Charisma-based.

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gorgimera-tohc
+Gorgimera CR 9
+XP 6,400
+N Large magical beast
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +6
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 95 (10d10+40)
+Fort +11; Ref +8; Will +4
+OFFENSE
+Speed 40 ft., fly 50 ft. (poor)
+Melee 2 bites +14 (2d6+4), slam +13 (1d6+4), 2 claws +13 melee (1d6+4)
+Space 10 ft.; Reach 5 ft.
+Special Attacks breath weapon (varies)
+STATISTICS
+Str 19, Dex 13, Con 19, Int 4, Wis 13, Cha 10
+Base Atk +10; CMB +15; CMD 26
+Feats Ability Focus (dragon breath weapon), Flyby Attack, Hover, Power Attack, Weapon Focus (bite)
+Skills Fly +2, Perception +6, Stealth +4; Racial Modifiers +2 Perception
+Languages Draconic
+SPECIAL ABILITIES
+Breath Weapon (Su) A gorgimera has two breath weapons, each of which can be used independently of the other (thus it can breathe twice in a given round as a single standard action).
+A gorgimera’s dragon head breath weapon depends on the color of its dragon head, as summarized on the table below. Regardless of its type, a gorgimera’s breath weapon is usable once every 1d4 rounds, deals 3d8 points of damage, and allows a DC 21 Reflex save for half damage. The save DC is Constitution-based.
+To determine a gorgimera’s head color and breath weapon randomly, roll 1d10 and consult the table below.
+1d10 Head Color Breath Weapon
+1-2 Black 40 ft. line of acid
+3-4 Blue 40 ft. line of lightning
+5-6 Green 20 ft. cone of gas (acid)
+7-8 Red 20 ft. cone of fire
+9-10 White 20 ft. cone of cold
+A gorgimera’s gorgon head breath weapon is usable once every 1d4 rounds (no more than twice per day), turns a creature to stone permanently, and allows a DC 19 Fortitude save to avoid. The save DC is Constitution-based. The breath weapon is a 30-foot cone.

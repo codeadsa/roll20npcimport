@@ -1,0 +1,43 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-bronze/bronze-dragon-wyrm
+Bronze Dragon, Wyrm CR 19
+XP 204,800
+LG Gargantuan dragon (water)
+Init +2; Senses dragon senses; Perception +40; Aura electricity aura (10 ft., 1d6 electricity), frightful presence (330 ft., DC 30)
+DEFENSE
+AC 39, touch 4, flat-footed 39 (-2 Dex, +35 natural, -4 size)
+hp 351 (26d12+182)
+Fort +22, Ref +13, Will +22
+DR 20/magic; Immune electricity, paralysis, sleep; SR 30
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy); swim 60 ft.
+Melee bite +35 (4d6+19/19–20), 2 claws +35 (2d8+13/19–20), tail slap +33 (2d8+19), 2 wings +33 (2d6+6)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (120-ft. line, DC 30, 22d6 electricity), crush (4d6+19, DC 30), repulsion breath, tail sweep (2d6+19, DC 30), vortex
+Spell-Like Abilities (CL 26th; concentration +33)
+At will— control water, create food and water, detect thoughts (DC 19), fog cloud, speak with animals
+Sorcerer Spells Known (CL 17th; concentration +24)
+8th (4/day)— antipathy, storm bolts*
+7th (7/day)— mass fly, spell turning, statue
+6th (7/day)— greater dispel magic, mass suggestion (DC 23), mislead
+5th (7/day)— dismissal, interposing hand, mind fog, teleport
+4th (7/day)— dimension door, ice storm, solid fog, stoneskin
+3rd (8/day)— dispel magic, heroism, slow (DC 20), suggestion
+2nd (8/day)— blur, gust of wind, invisibility, mirror image, web
+1st (8/day)— alarm, mage armor, obscuring mist, shield, true strike
+0 (at will)— detect magic, detect poison, light, mage hand, mending, message, read magic, resistance, prestidigitation
+
+* This spell is from the Pathfinder RPG Advanced Player’s Guide.
+STATISTICS
+Str 37, Dex 6, Con 25, Int 24, Wis 25, Cha 24
+Base Atk +26; CMB +43; CMD 51 (55 vs. trip)
+Feats Alertness, Cleave, Flyby Attack, Great Cleave, Hover, Improved Critical (bite, claw), Improved Initiative, Improved Vital Strike, Multiattack, Power Attack, Vital Strike, Wingover
+Skills Diplomacy +36, Fly +13, Handle Animal +33, Heal +36, Intimidate +36, Knowledge (arcana, geography, history) +36, Perception +40, Sense Motive +40, Spellcraft +36, Stealth +15, Swim +50; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic, Elven, Gnome, 3 more
+SQ change shape (animal or humanoid, polymorph), water breathing, wave mastery (110 min)
+SPECIAL ABILITIES
+Electricity Aura (Su) An old or older bronze dragon has an aura of electricity. All creatures within 5 feet take 1d6 points of electricity damage at the start of the dragon’s turn. An ancient dragon’s aura is 10 feet. A great wyrm’s damage increases to 2d6. A bronze dragon can suppress this aura at will.
+Repulsion Breath (Su) Instead of a line of electricity, a bronze dragon can breathe a cone of repulsion gas. Targets must make a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category. This is a mind-affecting compulsion effect.
+Vortex (Ex) Once per day, an ancient or older bronze dragon can create a vortex as a standard action, just like an elder water elemental. A bronze dragon can maintain this vortex for 1 round per age category.
+Water Breathing (Ex) A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
+Wave Mastery (Su) For up to 10 minutes per age category per day, a juvenile bronze dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water.
+

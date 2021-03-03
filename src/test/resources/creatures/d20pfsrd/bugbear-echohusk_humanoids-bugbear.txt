@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/bugbear/bugbear-echohusk
+Bugbear Echohusk CR 1
+XP 400
+NE Medium undead
+Init +1; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+2 armor, +1 Dex, +1 natural, +1 shield)
+hp 19 (3d8+6)
+Fort +3, Ref +2, Will +3; –4 against psychic spells and effects
+Immune undead traits
+Weaknesses vulnerable to psychic magic
+OFFENSE
+Speed 30 ft.
+Melee morningstar +6 (1d8+4) or slam +6 (1d6+4)
+Ranged javelin +3 (1d6+4)
+STATISTICS
+Str 18, Dex 13, Con —, Int —, Wis 10, Cha 14
+Base Atk +2; CMB +6; CMD 17
+SQ psychic servitude, shattered psyche (DC 13)
+SPECIAL ABILITIES
+Psychic Servitude (Su) Echohusks are animated not by typical necromantic energies, but rather by the mental energies of a powerful psychic creature. They cannot be commanded or created by animate dead, command undead, control undead, and similar necromancy spells and effects.
+However, any creature that creates an echohusk with its psychic attacks can command that echohusk as if it had animated it using the animate dead spell (up to 4 HD of echohusks per HD of the animating creature, and no one echohusk can possess more than twice the HD of the animating creature).
+Echohusks under a creature’s control don’t count against the number of other undead that the creature can control with the animate dead spell, the Command Undead feat, or other similar effects.
+Shattered Psyche (Ex) Psychic attacks that are powerful enough to destroy minds leave behind a powerful but unstable force that lashes out at those nearby. When an echohusk takes damage from a melee attack, a ranged attack from within 30 feet, or a psychic spell or effect from any distance, the creature that initiated the attack must succeed at a Will saving throw (DC = 10 + 1/2 the echohusk’s Hit Dice + the echohusk’s Charisma modifier) or take 1 point of Charisma damage and be dazed for 1 round as the psychic energies in the echohusk shatter once more.
+Vulnerable to Psychic Magic (Ex) Echohusks are particularly susceptible to psychic spells and attacks, as the entire force that animates them is composed of psychic energy. They take a –4 penalty on saving throws against psychic spells and effects.

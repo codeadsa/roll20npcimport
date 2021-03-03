@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/dragonfly-giant
+Dragonfly, Giant CR 4
+XP 1,200
+N Medium vermin
+Init +2; Senses darkvision 60 ft.; Perception +1
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 45 (7d8+14)
+Fort +7, Ref +4, Will +3
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., fly 80 ft. (perfect)
+Melee bite +9 (2d8+6 plus grab)
+Special Attacks darting charge
+STATISTICS
+Str 19, Dex 15, Con 14, Int –, Wis 12, Cha 9
+Base Atk +5; CMB +9 (+13 grappling, or +17 grappling on a charge); CMD 21 (29 vs. trip)
+Feats Flyby AttackB
+Skills Fly +10
+SPECIAL ABILITIES
+Darting Charge (Ex) A giant dragonfly is adept at swooping in to attack prey with a powerful bite and then, just as quickly, swooping back up out of reach. As a result, a giant dragonfly gains Flyby Attack as a bonus feat. In addition, if a giant dragonfly charges while flying, it receives a +4 bonus on CMB checks made to grapple foes.
+
+

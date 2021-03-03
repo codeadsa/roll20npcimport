@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ravener/ravener-green-ancient
+Ancient Green Dragon Ravener CR 19
+XP 204,800
+Female ancient green dragon ravener
+LE Gargantuan undead (air)
+Init –1; Senses blindsense 120 ft., darkvision 240 ft., dragon senses; Perception +41; Aura frightful presence (300 ft., DC 29)
+DEFENSE
+AC 40, touch 9, flat-footed 40 (+4 deflection, –1 Dex, +31 natural, –4 size)
+hp 287 (23d8+184)
+Fort +21, Ref +14, Will +20
+Defensive Abilities channel resistance +4, evasion, soul ward (46/23 hp); DR 15/good; Immune acid, paralysis, undead traits
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy), swim 40 ft.
+Melee bite +35 (4d6+16/19–20), 2 claws +35 (2d8+16/19–20), tail slap +30 (2d8+9/19–20), 2 wings +30 (2d6+9/19–20)
+Space 20 ft.; Reach 20 ft.
+Special Attacks breath weapon (60-ft. cone, DC 31, 20d6 acid plus 2 negative levels), cowering fear, crush (Medium creatures, DC 29, 4d6+21), energy drain (DC 29), miasma, soul consumption, soul magic, tail sweep
+Spell-Like Abilities (CL 23th; concentration +31)
+At will—charm person (DC 19), dominate person (DC 23), entangle (DC 19), plant growth, suggestion (DC 21)
+Spells Known (CL 16th; concentration +24)
+8th—horrid wilting (DC 26)
+7th—limited wish, prismatic spray (DC 25)
+6th—analyze dweomer, chain lightning (DC 24), true seeing
+5th—feeblemind (DC 23), polymorph, secret chest, teleport
+4th—enervation, fear (DC 22), fire shield, greater invisibility
+3rd—dispel magic, fireball (DC 21), haste, shrink item
+2nd—alter self, detect thoughts (DC 20), eagle’s splendor, mirror image, resist energy
+1st—grease (DC 19), magic missile, protection from good, shield, unseen servant
+0th—arcane mark, detect magic, mage hand, mending, message, open/close, prestidigitation, read magic, resistance
+STATISTICS
+Str 39, Dex 8, Con —, Int 24, Wis 25, Cha 26
+Base Atk +23; CMB +41; CMD 54 (58 vs. trip)
+Feats Ability Focus (breath weapon), Arcane Strike, Critical Focus, Flyby Attack, Greater Vital Strike, Hover, Improved Vital Strike, Lightning Reflexes, Power Attack, Quicken Spell, Staggering Critical, Vital Strike
+Skills Appraise +33, Bluff +34, Fly +11, Intimidate +42, Knowledge (arcana) +33, Knowledge (planes) +33, Knowledge (religion) +33, Perception +41, Sense Motive +33, Spellcraft +33, Stealth +21, Swim +48, Use Magic Device +34
+Languages Abyssal, Common, Draconic, Elven, Giant, Sylvan
+SQ camouflage, trackless step, water breathing, woodland stride
+Gear ring of evasion, ring of freedom of movement, unholy amulet of mighty fists +2, 14,000 gp in additional treasure

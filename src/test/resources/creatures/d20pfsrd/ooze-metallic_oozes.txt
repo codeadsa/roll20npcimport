@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-metallic
+Metallic Ooze CR 6
+XP 2,400
+N Large ooze
+Init -5; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 4, touch 4, flat-footed 4 (-5 Dex, -1 size)
+hp 87 (7d8+56)
+Fort +10, Ref -3, Will -3
+Immune ooze traits
+OFFENSE
+Speed 20 ft., climb 10 ft.
+Melee slam +7 (1d8+4 plus 1d6 acid plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks irritating fumes
+STATISTICS
+Str 17, Dex 1, Con 26, Int –, Wis 1, Cha 1
+Base Atk +5; CMB +9; CMD 14 (can’t be tripped)
+Skills Climb +11
+SPECIAL ABILITIES
+Irritating Fumes (Ex) If a metallic ooze is subjected to a heat or fire effect, it emanates a cloud of semi-transparent vapor that irritates the eyes and respiratory system of living creatures within a 10-foot radius. Affected creatures must succeed on a DC 21 Fortitude save or take 2d6 points of acid damage initially and suffer a -2 circumstance penalty on attack and weapon damage rolls for 3 rounds. The cloud disperses in 1d4 rounds and can be affected by wind. The save DC is Constitution-based.
+Poison (Ex) Slam—injury; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d2 Dexterity damage; cure 2 consecutive saves. The save DC is Constitution-based.

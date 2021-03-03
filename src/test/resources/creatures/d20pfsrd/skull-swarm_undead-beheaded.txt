@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/beheaded/skull-swarm
+Skull Swarm CR 1
+XP 400
+NE Tiny undead (swarm)
+Init +2; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 9 (2d8)
+Fort +0, Ref +2, Will +3
+Defensive Abilities swarm traits; Immune undead traits, weapon damage
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee swarm (1d6)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 11)
+STATISTICS
+Str 5, Dex 15, Con –, Int –, Wis 10, Cha 10
+Base Atk +1; CMB +1; CMD 8 (can’t be tripped)
+Skills Fly +6

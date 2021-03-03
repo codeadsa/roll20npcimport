@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/troll-cave-TOHC
+Cave Troll CR 4
+XP 1,200
+CE Medium humanoid (giant)
+Init +6; Senses darkvision 90 ft., low-light vision, scent; Perception +7
+DEFENSE
+AC 22, touch 17, flat-footed 15 (+6 Dex, +1 dodge, +5 natural)
+hp 52 (5d8+25 plus 5); regeneration 3 (fire or acid)
+Fort +9, Ref +10, Will +0
+OFFENSE
+Speed 60 ft., climb 20 ft.
+Melee 2 claws +6 (1d4+2), claw (from haste) +6 (1d4+2), and bite +6 (1d6+2)
+Special Attacks rend (2 claws, 1d4+3)
+TACTICS
+Cave trolls often use deception when they first encounter prey, especially intelligent prey. Their troll heritage often leads to the misconception that they are slow in combat, which they gladly allow their opponents to believe – until the cave troll strikes or moves. Only then is the ruse negated and the true nature of the troll revealed. Cave trolls attack by grabbing and rending an opponent.
+STATISTICS
+Str 15, Dex 22, Con 20, Int 6, Wis 9, Cha 6
+Base Atk +3; CMB +5; CMD 22
+Feats Lightning Reflexes, Skill Focus (Perception), Toughness
+Skills Climb +10, Perception +7
+Languages Giant
+SQ haste, spider climb
+SPECIAL ABILITIES
+Haste (Su) A cave troll is affected by a permanent haste spell (caster level 8th). This grants the cave troll a +1 bonus on attack rolls, and a +1 dodge bonus to AC and Reflex saves (both already figured into the stat block above). Any condition that makes the cave troll lose its Dexterity bonus to AC also makes it lose its dodge bonus. This is an inherent bonus and cannot be dispelled or negated.
+When making a full attack action, a cave troll can make one extra attack with any weapon it is holding or one extra claw attack (if using natural weapons). The extra attack is at the cave troll’s full attack bonus.
+Spider Climb (Su) A cave troll can climb sheer surfaces as though by a spider climb spell (caster level 4th). This ability is always active, but can be negated or dispelled. The cave troll can restart it again on its next turn as a free action.
+Cave Troll Characters Cave troll characters possess the following racial traits.
++4 Strength, +12 Dexterity, +10 Constitution, -4 Intelligence (minimum 3), -2 Wisdom, -4 Charisma. Base speed: A cave troll’s base land speed is 60 feet. Its permanent spider climb ability gives it a climb speed of 20 ft. Darkvision: Cave trolls can see in the dark out to 90 feet. Low-light vision: Cave trolls can see twice as far as humans in conditions of dim light. Scent: Cave trolls can detect opponents within 30 feet by sense of smell. Racial Hit Dice: A cave troll begins with four levels of humanoid, which provide 4d8 Hit Dice, a base attack bonus of +3, and base saving throw bonuses of Fort +4, Ref +1, and Will +1. Racial Skills: A cave troll’s humanoid levels give it skill points equal to 4 x (2 + Int modifier, minimum 1). Racial Feats: A cave troll’s humanoid levels give it two feats. AC: +5 natural armor bonus. Natural Weapons: Cave trolls fight with 2 claws (1d4) and a bite (1d6). Special Attacks: Rend (see left). Special Qualities: Haste, regeneration 3 (fire or acid), spider climb (see left). Languages: Cave trolls begin play speaking Giant. Cave trolls with high Intelligence scores can choose from the following languages: Common, Orc.

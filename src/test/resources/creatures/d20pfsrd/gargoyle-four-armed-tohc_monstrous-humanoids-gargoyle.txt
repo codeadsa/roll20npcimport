@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/gargoyle/gargoyle-four-armed-tohc
+Four-Armed Gargoyle CR 5
+XP 1,600
+CE Medium monstrous humanoid (earth)
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 Dex, +4 natural)
+hp 57 (6d10+24)
+Fort +6; Ref +7; Will +5
+DR 10/magic
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee 4 claws +8 (1d6+2), bite +8 (1d6+2), gore +8 (1d6+2)
+STATISTICS
+Str 15, Dex 14, Con 18, Int 6, Wis 11, Cha 7
+Base Atk +6; CMB +8; CMD 20
+Feats Hover, Improved Initiative, Skill Focus (Fly)
+Skills Fly +12, Perception +9, Stealth +11 (+15 stony environs); Racial Modifiers +2 Perception, Stealth (+6 Stealth in stony environs)
+Languages Common, Terran
+SQ freeze
+SPECIAL ABILITIES
+Freeze (Ex) A four-armed gargoyle can hold itself so still it appears to be a statue. A gargoyle that uses freeze can take 20 on its Stealth check to hide in plain sight as a stone statue.

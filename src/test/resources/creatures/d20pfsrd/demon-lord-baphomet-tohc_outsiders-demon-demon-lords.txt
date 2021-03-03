@@ -1,0 +1,48 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-baphomet-tohc
+Baphomet (Demon Lord of Beasts) CR 25
+XP 1,640,000
+CE Large outsider (chaotic, demon, evil, extraplanar)
+Init +12; Senses darkvision 60 ft., true seeing; Perception +53; Aura unholy aura (DC 25)
+DEFENSE
+AC 47, touch 33, flat-footed 39 (+8 Dex, +14 natural, –1 size, +8 insight, +8 profane)
+hp 555 (30d10+360 plus 30)
+Fort +31, Ref +18, Will +27
+DR 25/cold iron and good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 36
+OFFENSE
+Speed 50 ft.
+Melee Huge +4 unholy halberd of speed +48/+48/+43/+38/+33 (3d8+25/19-20/x3), bite +38 (1d8+7) or gore +43 (1d8+21)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (10-ft. line, unholy water, 10d6 damage to good-aligned, Ref DC 37 half, usable every 1d4 rounds), rend armor, roar (3/day, fear CL 25th, Will DC 37)
+Spell-Like Abilities (CL 25th)
+Constant—unholy aura (DC 25), true seeing
+At will—blasphemy (DC 24), deeper darkness, desecrate, detect good, detect magic, greater dispel magic, greater teleport (self plus 50 pounds of objects only), levitate, magic circle against good, major image (DC 20), read magic, see invisibility, suggestion (DC 20), telekinesis (DC 22), tongues (self only), unhallow, , unholy blight (DC 21)
+3/day—maze, passwall, shapechange, wall of stone
+2/day—summon (level 9, 4d10 dretches, 2d4 hezrous, 1d4 nalfeshnee or glabrezus, or 1d2 mariliths or balors 100%)
+1/day—fire storm (DC 24), summon (level 9, 2d10 minotaurs or 1d6+6 fiendish minotaurs)
+Spells Prepared (CL 20th)
+9th—imprisonment (DC 27), meteor swarm (DC 27), mage’s disjunction (DC 27), weird (DC 27)
+8th—dimensional lock, greater shout (DC 26), incendiary cloud (DC 26), maze, polar ray
+7th—insanity (DC 25), limited wish, mass hold person (DC 25), spell turning, summon monster VII
+6th—circle of death (DC 24), eyebite (DC 24), globe of invulnerability, mislead (DC 24), repulsion (DC 24)
+5th—cloudkill (DC 23), feeblemind (DC 23), mind fog (DC 23), summon monster V, waves of fatigue
+4th—bestow curse (DC 22), charm monster (DC 22), dimensional anchor, enervation, locate creature, wall of fire
+3rd—blink, deep slumber (DC 21), fly, lightning bolt (DC 21), rage, slow (DC 21)
+2nd—acid arrow, blur (DC 20), bull’s strength, flaming sphere (DC 20), protection from arrows, summon swarm
+1st—burning hands (DC 19), feather fall, jump, obscuring mist, protection from law, ray of enfeeblement
+0 (at will)—detect magic, flare (DC 18), ghost sound, touch of fatigue (DC 18)
+TACTICS
+Baphomet attacks using his bite, butting with his head, and slashing with his Huge halberd, Musileim. He is relentless in combat and rarely shows mercy to his opponents. Should he become bored with combat, he summons a slew of demons or minotaurs to dispatch of his opponents as he stands and watches the slaughter.
+Baphomet’s natural weapons, as well as any weapons he wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming damage reduction. His natural weapons are also treated as epic weapons for the purpose of overcoming damage reduction.
+STATISTICS
+Str 38, Dex 26, Con 35, Int 26, Wis 26, Cha 27
+Base Atk +30; CMB +45; CMD 79
+Feats Bleeding Critical, Blind-Fight, Cleave, Combat Casting, Critical Focus, Deceitful, Great Cleave, Great Fortitude, Improved Critical (halberd), Improved Initiative, Improved Sunder, Iron Will, Power Attack, Weapon Focus (halberd), Toughness
+Skills Acrobatics +41, Bluff +45, Climb +47, Diplomacy +41, Disguise +10, Escape Artist +38, Intimidate +41, Knowledge (arcana) +38, Knowledge (history) +38, Knowledge (planes) +41, Knowledge (religion) +38, Perception +53, Sense Motive +41, Stealth +37, Survival +41; Racial Modifiers +12 Perception
+Languages Abyssal, Celestial, Common, Draconic, Giant, Goblin, Infernal, Terran, Undercommon; telepathy 100 ft.
+SQ planar omniscience
+Gear Musileim
+SPECIAL ABILITIES
+Rend Armor (Ex) As a full-round action Baphomet can make a single attack with his halberd against a foe. If he hits, he pulls apart any armor worn by his foe. This attack deals 2d8+23 points of damage to the opponent’s armor.
+Creatures not wearing armor are unaffected by this special attack. Armor reduced to 0 hit points is destroyed. Damaged armor may be repaired with a successful Craft (armorsmithing) check.
+GEAR Unique Item: Musileim Baphomet’s unique weapon is a Huge +4 unholy halberd of speed. He is able to wield the over-sized weapon without penalty.
+Servants of Baphomet Followers of Baphomet are usually minotaurs and fiendish minotaurs and consist of clerics, necromancers, and sorcerers or adepts. Devout followers of Baphomet are called Horned Ones and must sign a pact of evil with Baphomet. Horned ones are granted access to two of the following domains: Chaos, Evil, and War.

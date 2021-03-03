@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-cold-iron/elder-cold-iron-elemental
+Elder Cold iron Elemental CR 11
+XP 12,800
+N Huge outsider (earth, elemental, extraplanar)
+Init –1; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +19
+DEFENSE
+AC 23, touch 7, flat-footed 23 (–1 Dex, +16 natural, –2 size)
+hp 168 (16d10+80)
+Fort +15, Ref +4, Will +10
+DR 10/—; Immune elemental traits; SR 21
+OFFENSE
+Speed 20 ft., burrow 20 ft.
+Melee 2 slams +26 (2d10+12/19–20)
+Space 15 ft.; Reach 15 ft.
+Special Attacks cold iron natural weapons
+STATISTICS
+Str 34, Dex 8, Con 21, Int 10, Wis 11, Cha 11
+Base Atk +16; CMB +30; CMD 39
+Feats Awesome Blow, Cleave, Greater Bull Rush, Greater Overrun, Improved Bull RushB, Improved Critical (slam), Improved Overrun, Improved Sunder, Power Attack
+Skills Appraise +19, Climb +31, Knowledge (dungeoneering) +19, Knowledge (planes) +19, Perception +19, Stealth +10
+Languages Terran
+SPECIAL ABILITIES
+
+Cold Iron Natural Weapons (Ex) A cold-iron elemental’s natural attacks function as cold iron for purposes of bypassing DR.

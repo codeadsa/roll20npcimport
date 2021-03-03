@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-lightning/small-lightning-elemental
+Small Lightning Elemental
+CR 1
+XP 400
+N Small outsider (air, elemental, extraplanar)
+Init +6; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+2 Dex, +1 natural, +1 size)
+hp 11 (2d10)
+Fort +3, Ref +5, Will +0
+Immune electricity, elemental traits
+OFFENSE
+Speed fly 100 ft. (perfect)
+Melee slam +5 (1d4 plus 1d3 electricity)
+Special Attacks metal mastery, spark leap
+STATISTICS
+Str 10, Dex 15, Con 10, Int 4, Wis 11, Cha 11
+Base Atk +2; CMB +1; CMD 13
+Feats Improved Initiative, Weapon FinesseB
+Skills Acrobatics +7, Escape Artist +6, Fly +12, Knowledge (planes) +1, Perception +5
+Language Auran
+SPECIAL ABILITIES
+Metal Mastery (Ex) A lightning elemental gains a +3 bonus on attack rolls if its opponent is wearing metal armor, is wielding a metal weapon, or is made of metal (such as an iron golem).
+Spark Leap (Ex) A lightning elemental gains a +10 bonus on bull rush, disarm, overrun, and trip attacks when it charges a creature against whom its metal mastery ability applies.

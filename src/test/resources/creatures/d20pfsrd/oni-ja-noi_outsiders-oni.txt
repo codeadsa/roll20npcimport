@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oni/oni-ja-noi
+Ja Noi Oni CR 5
+XP 1,600
+LE Medium outsider (goblinoid, native, oni, shapechanger)
+Init +2; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 armor, +2 Dex, +4 natural)
+hp 57 (6d10+24); regeneration 3 (acid or fire)
+Fort +9, Ref +7, Will +3
+OFFENSE
+Speed 30 ft.
+Melee mwk tetsubo +11/+6 (1d10+6/x4)
+Ranged longbow +8/+3 (1d8/x3)
+Spell-Like Abilities (CL 6th; concentration +8)
+3/day—command (DC 13), doom (DC 13), fly, magic weapon
+1/day—bull’s strength
+STATISTICS
+Str 19, Dex 15, Con 18, Int 12, Wis 13, Cha 14
+Base Atk +6; CMB +10; CMD 22
+Feats Cleave, Outflank, Power Attack
+Skills Bluff +11, Disguise +11, Fly +11, Intimidate +11, Perception +10, Sense Motive +10, Stealth +11
+Languages Common, Goblin
+SQ change shape (Small or Medium humanoid, alter self), serene fighter
+SPECIAL ABILITIES
+Serene Fighter (Su) A ja noi is extremely disciplined and maintains its focus even in the midst of combat. Once per day as an immediate action, a ja noi may reroll a Will save.

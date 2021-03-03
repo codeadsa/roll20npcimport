@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dark-dancer
+Dark Dancer CR 1
+XP 400
+CN Small humanoid (dark folk)
+Init +4; Senses see in darkness; Perception +4
+DEFENSE
+AC 15, touch 15, flat-footed 11 (+4 Dex, +1 size)
+hp 13 (2d8+4)
+Fort +2, Ref +7, Will +0
+Weaknesses light blindness
+OFFENSE
+Speed 30 ft.
+Melee club +2 (1d4) or dagger +6 (1d3/19–20 plus poison)
+Special Attacks bardic performance (7 rounds), dark curse, death throes, sneak attack +1d6
+STATISTICS
+Str 11, Dex 19, Con 14, Int 8, Wis 10, Cha 13
+Base Atk +1; CMB +0; CMD 14
+Feats Weapon Finesse
+Skills Climb +4, Perception +4, Perform (dance) +2, Sleight of Hand +5, Stealth +12; Racial Modifiers +4 Climb, +4 Perception, +4 Stealth
+Languages Dark Folk
+SQ poison use
+SPECIAL ABILITIES
+Bardic Performance (Su) A dark dancer can use its dancing to help its allies. A dark dancer can use bardic performance as a 2nd-level bard, but only for distraction and inspire courage effects.
+Dark Curse (Su) As a standard action, a dark dancer can make a touch attack against a foe and curse it. The foe must succeed at a DC 12 Will saving throw to resist the effects. Creatures that fail the saving throw take a –2 penalty on all Dexterity and Charisma-based skill checks. This curse is permanent, but the victim of this curse can attempt a new saving throw each day.
+Death Throes (Su) When a dark dancer is slain, its body combusts in a flash of bright white light, leaving its gear in a heap on the ground. All creatures within a 10-foot burst must succeed at a DC 13 Fortitude save or be dazzled for 1d6 rounds. Other dark folk within 20 feet must succeed at a DC 13 Will save or be shaken for 1 round. The save DC is Constitution-based.

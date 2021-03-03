@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/dragonnel-tohc
+Dragonnel CR 6
+XP 2,400
+N(E) Huge magical beast
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 18, touch 8, flat-footed 18 (+10 natural, –2 size)
+hp 76 (8d10+32)
+Fort +10; Ref +6; Will +2
+OFFENSE
+Speed 40 ft., fly 100 ft. (poor)
+Melee bite +12 (2d6+6), 2 claws +12 (1d8+6)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+TACTICS
+A dragonnel prefers to attack from the air, flying above its prey and then plunging to strike with its claws and bite. A solitary dragonnel is usually either hunting or returning to its lair from hunting, while more than one dragonnel usually indicates a mated pair or family. In such a case, all dragonnels attack in concert with one another and usually fight to the death.
+STATISTICS
+Str 22, Dex 11, Con 18, Int 4, Wis 11, Cha 8
+Base Atk +8; CMB +16; CMD 26 (30 vs. trip)
+Feats Cleave, Flyby Attack, Power Attack, Skill Focus (Fly), Snatch
+Skills Fly +6
+Languages Common (cannot speak)

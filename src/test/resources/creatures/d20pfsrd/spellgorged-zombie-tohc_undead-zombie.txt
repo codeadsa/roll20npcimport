@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/zombie/spellgorged-zombie-tohc
+Spellgorged Zombie CR 3
+XP 800
+N Medium undead
+Init +1; Senses darkvision 60 ft.; Perception +1
+DEFENSE
+AC 13, touch 11, flat-footed 12 (+1 Dex, +2 natural)
+hp 27 (5d8 plus 5)
+Fort +1; Ref +2; Will +5
+Immune undead immunities
+OFFENSE
+Speed 30 ft.
+Melee slam +4 (1d6+1)
+Special Attacks spell storing (CL 10th, 5 total levels)
+STATISTICS
+Str 12, Dex 12, Con —, Int —, Wis 12, Cha 10
+Base Atk +3; CMB +4; CMD 15
+Feats ToughnessB
+SPECIAL ABILITIES
+Spell Storing (Su) A spellgorged zombie can store any spells cast into its mouth as if it were a ring of spell storing. The spellgorged can store a number of spell levels equal to its Hit Dice. Each spell has a caster level equal to that of the spellcaster that placed the spell in the spellgorged zombie. The save DC for any spell stored in a spellgorged zombie is determined using the ability scores of the spellcaster who placed the spell.
+The spellgorged zombie need not provide any material components or focus and there is no arcane spell failure chance for wearing armor (since the spellgorged zombie need not gesture). When the spellcaster stores the spells in the spellgorged zombie, however, he must use all required components for the spell.
+For randomly generated spellgorged zombies, treat the spellgorged zombie as a scroll to determine what spells are stored in it. If you roll a spell that would put the spellgorged over its spell level limit, ignore that roll; the spellgorged has no more spells in it. (Not every spellgorged need be fully charged.)
+A spellcaster can cast any spells into the spellgorged zombie, so long as the total spell levels do not equal more than the spellgorged zombie’s Hit Dice. Any excess spells or spell levels are lost.

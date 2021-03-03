@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/dragonleaf-tree-od
+Dragonleaf Tree (3pp) CR 9
+XP 6,400
+N Large plant
+Init +4; Senses low-light vision; Perception +12
+DEFENSE
+AC 21, touch 13, flat-footed 21 (+4 deflection, +8 natural, -1 size)
+hp 133 (14d8+70)
+Fort +13, Ref +4, Will +7
+DR 5/magic; Immune plant traits, see below; SR 20
+Weaknesses see below
+OFFENSE
+Speed 5 ft.
+Melee slam +12 (1d6+4/19–20 plus bleed)
+Ranged leaves +9 (1d8/19–20 plus bleed)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bleed (1d6), breath weapon
+STATISTICS
+Str 16, Dex 10, Con 19, Int 3, Wis 12, Cha 17
+Base Atk +10; CMB +14; CMD 28
+Feats Improved Critical (slam), Improved Initiative, Iron Will, Point-Blank Shot, Power Attack, Skill Focus (Stealth), Toughness
+Skills Perception +12, Stealth +15; Racial Modifiers +4 Perception
+SQ loyal to dragon master
+SPECIAL ABILITIES
+Breath Weapon (Ex) A dragonleaf tree can issue forth a breath weapon from its leaves appropriate to the dragon it honors. The tree can do this 2/day, and once expended, this ability must be recharged by an old (or older) dragon with a use of its own breath weapon. (The maximum number of charges it can hold is 2.) The creature’s breath weapon deals 14d6 damage (DC 21 Reflex save for half damage). A black, copper, or green tree breathes a 60-ft. line of acid; a blue or bronze tree breathes a 60-ft. line of electricity; a brass, gold, or red tree breathes a 30-ft. cone of fire; and a silver or white tree breathes a 30-ft. cone of cold.
+Immunities (Ex) A dragonleaf tree enjoys the same immunities as its progenitor. Black, copper, and green trees are immune to acid; blue and bronze trees are immune to electricity; brass, gold, and red trees are immune to fire; and silver and white trees are immune to cold.
+Loyal to Dragon Master (Su) A dragonleaf tree only follows commands from its designated master (or from any creatures the master grants control to). It gains a +8 morale bonus to Will saves against any charm or compulsion spell or effect. Additionally, the tree has a +8 morale bonus to resist any Bluff, Diplomacy, or Intimidate checks made to influence it to act against its masters.
+Weaknesses (Ex) Dragonleaf trees with immunity to fire also have vulnerability to cold, and trees with immunity to cold have vulnerability to fire.

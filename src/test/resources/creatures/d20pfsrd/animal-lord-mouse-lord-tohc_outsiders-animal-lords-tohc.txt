@@ -1,0 +1,58 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/animal-lords-tohc/animal-lord-mouse-lord-tohc
+MOUSE LORD (MOUSE FORM) CR 13
+XP 25,600
+N Medium outsider (native, shapechanger)
+Init +11; Senses darkvision 120 ft., detect evil, detect good, keen senses, low-light vision; Perception +26
+DEFENSE
+AC 29, touch 21, flat-footed 22 (+7 Dex, +8 natural, +4 insight)
+hp 142 (15d10+60)
+Fort +13, Ref +18, Will +9
+Defensive Abilities immortality, rodent passivism; DR 15/magic and cold iron; Immune mind-affecting effects, psionics; SR 24
+OFFENSE
+Speed 40 ft., climb 30 ft.
+Melee bite +22 (2d6+6 plus disease)
+Spell-Like Abilities (CL 15th)
+Constant—detect evil, detect good
+At will—confusion (DC 18), displacement
+2/day—ethereal jaunt, greater magic fang (DC 17), summon (level 5, 10d10 rats or mice, 2d8 dire rats, 1d4 wererats, or 1d4+1 rat swarms 100%)
+1/day—astral projection, greater teleport (self plus 50 pounds of objects only)
+TACTICS
+During Combat The Mouse Lord enters combat using her bite. Most often she enters battle with greater magic fang already affecting her. When enough foes are within range, she unleashes her confusion ability and usually displaces on her next turn. If combat goes against her, she summons other rodents to aid her or to cover her escape.
+STATISTICS
+Str 18, Dex 25, Con 18, Int 20, Wis 18, Cha 18
+Base Atk +15; CMB +19; CMD 40 (44 vs. trip)
+Feats Acrobatic, Alertness, Athletic, Blind-Fight, Combat Reflexes, Improved Initiative, Lightning Reflexes, Weapon Finesse
+Skills Acrobatics +34, Climb +31, Diplomacy +19, Escape Artist +22, Handle Animal +19, Knowledge (Nature) +20, Perception +26, Sense Motive +26, Stealth +29, Survival +19, Swim +23; Racial Modifiers +8 Acrobatics, +4 Stealth
+Languages Common, Druidic, Elven, Goblin, Gnome, Halfling, Sylvan; telepathy 100 ft.
+SQ change shape (human or mouse, polymorph)
+MOUSE LORD (HUMAN FORM) CR 13
+XP 25,600
+N Medium outsider (native, shapechanger)
+Init +11; Senses darkvision 120 ft., detect evil, detect good, keen senses, low-light vision; Perception +26
+DEFENSE
+AC 31, touch 20, flat-footed 25 (+7 armor, +6 Dex, +4 natural, +4 insight)
+hp 127 (15d10+45)
+Fort +12, Ref +18, Will +9
+Defensive Abilities immortality, rodent passivism; DR 15/magic and cold iron; Immune mind-affecting effects, psionics; SR 24
+OFFENSE
+Speed 40 ft., climb 30 ft.
+Melee +4 speed dagger of venom +26/+26/+21/+16 (1d4+7/19–20)
+Spell-Like Abilities (CL 15th)
+Constant—detect evil, detect good
+At will—confusion (DC 18), displacement
+2/day—ethereal jaunt, greater magic fang (DC 17), summon (level 5, 10d10 rats or mice, 2d8 dire rats, 1d4 wererats, or 1d4+1 rat swarms 100%)
+1/day—astral projection, greater teleport (self plus 50 pounds of objects only)
+STATISTICS
+Str 16, Dex 25, Con 16, Int 20, Wis 18, Cha 18
+Base Atk +15; CMB +18; CMD 35
+Feats Acrobatic, Alertness, Athletic, Blind-Fight, Combat Reflexes, Improved Initiative, Lightning Reflexes, Weapon Finesse
+Skills Acrobatics +34, Climb +30, Diplomacy +19, Escape Artist +22, Handle Animal +19, Knowledge (Nature) +20, Perception +26, Sense Motive +26, Stealth +29, Survival +19, Swim +22; Racial Modifiers +8 Acrobatics, +4 Stealth
+Languages Common, Druidic, Elven, Goblin, Gnome, Halfling, Sylvan; telepathy 100 ft.
+SQ change shape (human or mouse, polymorph)
+Gear +4 speed dagger of venom (poison DC 24), +5 leather armor
+SPECIAL ABILITIES
+Change Shape (Su) The Mouse Lord can assume the shape of a human as a standard action. In human form, the Mouse Lord cannot use her natural weapons or disease special attack but can wield weapons and wear armor. Unlike the normal change shape ability, the Mouse Lord retains her movement modes (and speeds) in human form.
+Disease (Ex) Black fever—bite, save Fort DC 21; onset 1 day; frequency 1 day; damage 1d4 Dex, 1d4 Con; cure 2 consecutive saves. The save DC is Constitution-based. The Mouse Lord can suppress her ability to cause disease (as a free action) if she so wishes.
+Immortality (Su) The Mouse Lord is effectively immortal and nearly impossible to slay. When slain, the Mouse Lord’s soul reforms on the Astral Plane. Within one week, it inhabits another mouse or rat on the Material Plane and the Mouse Lord reforms. No form of magic (such as magic that would contain or trap her soul) prevents this. To permanently kill the Mouse Lord, one must destroy every mouse and rat in existence (so her soul has no creature to inhabit).
+Keen Senses (Ex) The Mouse Lord sees four times as well as a human in shadowy illumination and twice as well in normal light.
+Rodent Passivism (Ex) Rodents (including dire versions) do not willingly attack the Mouse Lord, though they can be forced to do so by magic. If the Mouse Lord attacks a rodent, its protection against that creature ends.

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-cloud/cloud-dragon-adult
+Adult Cloud Dragon CR 13
+XP 25,600
+CN Huge dragon (air, extraplanar)
+Init +3; Senses dragon senses, mist vision; Perception +24; Aura frightful presence (180 ft., DC 22)
+DEFENSE
+AC* 29, touch 7, flat-footed* 29 (–1 Dex, +22* natural, –2 size)
+hp 184 (16d12+80)
+Fort +15, Ref +9, Will +15
+DR 5/magic; Immune electricity, paralysis, sleep; SR 24
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor), swim 40 ft.
+Melee bite +22 (2d8+10/19–20), 2 claws +22 (2d6+7), tail slap +19 (2d6+10), 2 wings +19 (1d8+3)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, 12d8 electricity, DC 23), crush
+Spell-Like Abilities (CL 16th; concentration +20)
+At will—fog cloud, obscuring mist, solid fog
+Spells Known (CL 5th; concentration +9)
+2nd (5/day)—blur, see invisibility
+1st (7/day)—charm person (DC 15), detect secret doors, shield, true strike
+0 (at will)—dancing lights, detect poison, light, message, prestidigitation, read magic
+STATISTICS
+Str 24, Dex 9, Con 21, Int 16, Wis 20, Cha 19
+Base Atk +16; CMB +25; CMD 34 (38 vs. trip)
+Feats Critical Focus, Improved Critical (bite), Improved Initiative, Multiattack, Power Attack, Skill Focus (Diplomacy), Weapon Focus (bite, claws)
+Skills Appraise +22, Diplomacy +29, Fly +10, Intimidate +23, Knowledge (planes) +22, Perception +24, Sense Motive +24, Stealth +10, Survival +24, Swim +15; Racial Modifiers +8 Swim
+Languages Auran, Common, Draconic, Elven
+SQ cloud form (16 rounds/day)
+SPECIAL ABILITIES
+Cloudform (Su) An adult or older cloud dragon can change itself into a cloudy vapor as a swift action for a number of rounds per day equal to its Hit Dice. This ability functions as gaseous form but the dragon’s fly speed is unchanged.
+Mist Vision (Su) A cloud dragon can see through fog, clouds, and similar obscuring effects with perfect clarity.

@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/animated-object/animated-object-medium
+Medium Animated Object CR 3
+XP 800
+N Medium construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception –5
+DEFENSE
+AC 14, touch 10, flat-footed 14 (+4 natural)
+hp 36 (3d10+20)
+Fort +1, Ref +1, Will -4
+Defensive Abilities hardness 5; Immune construct traits
+OFFENSE
+Speed 30 ft.
+Melee slam +5 (1d6+3)
+STATISTICS
+Str 14, Dex 10, Con —, Int —, Wis 1, Cha 1
+Base Atk +3; CMB +5; CMD 15
+SQ 2 construction points
+
+SPECIAL ABILITIES
+Construction Points Medium animated objects have 2 construction points.

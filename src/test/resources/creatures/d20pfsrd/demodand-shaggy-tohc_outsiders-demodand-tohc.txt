@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demodand-tohc/demodand-shaggy-tohc
+Shaggy Demodand CR 15
+XP 51,200
+CE Medium outsider (chaotic, demodand, evil, extraplanar)
+Init +7; Senses darkvision 120 ft.; Perception +34
+DEFENSE
+AC 29, touch 13, flat-footed 26 (+3 Dex, +16 natural)
+hp 157 (15d10+75)
+Fort +14, Ref +10, Will +13
+DR 15/good and magic; Immune acid, poison, mind-affecting effects; Resist cold 10, fire 10; SR 26
+OFFENSE
+Speed 40 ft., fly 50 ft. (average)
+Melee 2 claws +24 (1d6+9), bite +24 (2d6+9) or morningstar +24/+19/+14 (1d8+9), bite +24 (2d6+9)
+Spell-Like Abilities (CL 15th)
+At will—detect good, detect magic, detect thoughts (DC 17), fear (DC 19), gaseous form, invisibility (self only), magic circle against good, see invisibility, tongues
+3/day—cloudkill (DC 20), dispel magic, fog cloud, ray of enfeeblement, stinking cloud (DC 18)
+1/day—chaos hammer (DC 19), mass charm monster (DC 23), summon (level 6, 1d6 tarry demodands or 1d4 slime demodands 60%; or 1d2 shaggy demodands 30%)
+STATISTICS
+Str 28, Dex 16, Con 21, Int 18, Wis 18, Cha 20
+Base Atk +15; CMB +24; CMD 37
+Feats Alertness, Awesome Blow, Cleave, Great Cleave, Improved Bull Rush, Improved Initiative, Lightning Reflexes, Power Attack
+Skills Acrobatics +14, Bluff +23, Diplomacy +23, Fly +13, Intimidate +23, Knowledge (arcana) +19, Knowledge (planes) +22, Perception +34, Sense Motive +6, Spellcraft +19, Stealth +21, Survival +21; Racial Modifiers +8 Perception
+Languages Abyssal, Common, Ignan, Infernal, Terran
+Gear morningstar

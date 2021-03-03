@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/ant/ant-giant-queen
+Giant Ant Queen CR 5
+XP 1,600
+N Large advanced giant vermin
+Init +1; Senses darkvision 60 ft., scent; Perception +7
+DEFENSE
+AC 20, touch 10, flat-footed 19; (+10 natural, +1 dexterity, -1 size)
+hp 26 (2d8+17)
+Fort +10, Ref +1, Will +3
+Immune mind-affecting effects
+OFFENSE
+Speed 10 ft.
+Melee bite +6 (1d8+6 plus grab), sting +6 (1d6+6 plus poison)
+STATISTICS
+Str 22, Dex 12, Con 25, Int —, Wis 17, Cha 15
+Base Atk +1; CMB +8 (+12 grapple); CMD 19 (27 vs. trip)
+Feats ToughnessB
+Skills Climb +14, Perception +7, Survival +5; Racial Modifiers +4 Perception, +4 Survival
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 14; frequency 1/round for 4 rounds; effect 1d2 Str; cure 1 save

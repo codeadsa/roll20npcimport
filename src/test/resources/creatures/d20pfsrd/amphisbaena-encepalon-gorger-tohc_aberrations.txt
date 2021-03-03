@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/amphisbaena-encepalon-gorger-tohc
+Amphisbaena Encepalon Gorger CR 10
+XP 9,600
+CE Medium aberration (extraplanar)
+Init +6; Senses darkvision 60 ft., mindsense; Perception +24
+DEFENSE
+AC 19, touch 13, flat-footed 16 (+2 Dex, +1 dodge, +6 natural)
+hp 97 (13d8+39); fast healing 5
+Fort +7; Ref +6; Will +10
+Defensive Abilities all-around vision, mind screen, split (slashing 20 hp); Immune flanking; Resist cold 10
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +11 (1d6+3 plus grab)
+Special Attacks 2 mindfeeds
+STATISTICS
+Str 16, Dex 14, Con 16, Int 21, Wis 15, Cha 15
+Base Atk +9; CMB +12 (+16 on grapple); CMD 25
+Feats Combat Expertise, Dodge, Improved Initiative, Mobility, Skill Focus (Perception), Spring Attack, Weapon Focus (claw)
+Skills Bluff +15, Diplomacy +10, Escape Artist +10, Intimidate +18, Knowledge (local) +21, Knowledge (planes) +21, Knowledge (any one) +21, Perception +24, Sense Motive +15, Stealth +13, Survival +10; Racial Modifiers +4 Perception. All Knowledge skills are class skills for encephalon gorgers
+SPECIAL ABILITIES
+Adrenal Surge (Ex) Twice per day per head, an encephalon gorger can create an effect on itself equivalent to a haste spell (caster level 10th).
+Mindfeed (Su) If an encephalon gorger begins its turn grappling an opponent, it can attempt to suck its brain fluid with a successful grapple check. If it pins the foe, it drains cerebral fluid, dealing 1d4 points of Intelligence drain each round the pin is maintained. On each successful mindfeed attack, the encephalon gorger gains 5 temporary hit points. This ability does not work against nonliving creatures or creatures without a central brain mass. The encephalon gorger must be able to reach the head or neck of the target creature to use this ability.
+Mindsense (Su) As a move action, an encephalon gorger can gauge the relative intelligence level of any creature within 60 feet as follows: unintelligent, animal (Int1–2), low (3–8), average (8–12), high (13–16), genius (17–20), or supra-genius (21+).
+Mind Screen (Ex) The mind of an encephalon gorger is an alien and dangerous place. Should a creature attempt to scan the mind or read the thoughts of an encephalon gorger (with detect thoughts, telepathy, or the like), it must make a successful (DC 21) Will save or be driven permanently insane (as by an insanity spell, caster level 15th); if the save succeeds, the creature is instead confused (as the spell) for 1d4 rounds. The save DC is Intelligence-based.

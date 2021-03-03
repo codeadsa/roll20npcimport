@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/gloom-crawler-tohc
+Gloom Crawler CR 8
+XP 4,800
+N Huge magical beast
+Init +6; Senses darkvision 60 ft., low-light vision, tremorsense 60 ft.; Perception +18
+DEFENSE
+AC 18, touch 10, flat-footed 16 (+2 Dex, +8 natural, –2 size)
+hp 95 (10d10+30 plus +10)
+Fort +10; Ref +9; Will +6
+Defensive Abilities all-around vision; Immune flanking
+Weaknesses vulnerability to sunlight
+OFFENSE
+Speed 20 ft.
+Melee bite +16 (1d8+7), 10 tentacles +11 (1d6+3 plus grab)
+Space 15 ft.; Reach 15 ft. (30 ft. with tentacle)
+Special Attacks constrict (1d6+7)
+STATISTICS
+Str 24, Dex 14, Con 16, Int 4, Wis 12, Cha 2
+Base Atk +10; CMB +19 (+23 grapple); CMD 31(cannot be tripped)
+Feats Improved Initiative, Iron Will, Toughness, Weapon Focus (bite), Weapon Focus (tentacle)
+Skills Perception +18; Racial Modifiers +4 Perception
+

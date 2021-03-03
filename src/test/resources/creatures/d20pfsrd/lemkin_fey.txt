@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/lemkin
+Lemkin CR 9
+XP 6,400
+CN Small fey
+Init +4; Senses low-light vision; Perception +20
+DEFENSE
+AC 21, touch 15, flat-footed 17 (+4 Dex, +1 dodge, +5 natural +1 size)
+hp 77 (14d6+28)
+Fort +6, Ref +13, Will +12
+DR 5/magic and silver; Immune poison
+OFFENSE
+Speed 40 ft.
+Ranged +2 blowgun +12/+7 (3 plus poison)
+Space 5 ft.; Reach 5 ft.
+Special Attack poison
+Spell-like Abilities (CL 14th)
+Constant – detect law, nondetection (caster level check vs DC 25),
+
+At will – alter self (small humanoid or fey only), animal messenger, dancing lights, feather fall (self only), ghost sound, ventriloquism (DC 15)
+
+1/day – cure serious wounds, faerie fire, hallucinatory terrain (DC 22), spike growth (DC 19), tree stride
+STATISTICS
+Str 12, Dex 19, Con 14, Int 10, Wis 16, Cha 23
+Base Atk +7; CMB +7; CMD 28
+Feats Ability Focus (hallucinatory terrain), Deceitful, Defensive Combat Training, Dodge, Nimble Moves, Stealthy
+Skills Acrobatics +21, Bluff +24, Knowledge (geography) +17, Knowledge (nature) +17, Perception +20, Stealth +21
+Languages Common, Sylvan
+SQ trackless step
+SPECIAL ABILITIES
+Poison (Ex) A lemkin coats the tip of its blow gun darts with the natural oils produced by their own skin. This oil acts as a poison to most living creatures.
+Lemkin oil-injury; save Fort (DC 19), frequency 1/hour for 6 hours, effect the creature turns a different random color once per hour, cure 2 consecutive saves. Trackless Step (Ex) A lemkin leaves no trail in natural surroundings and cannot be tracked. She may choose to leave a trail if so desired.

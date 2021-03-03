@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-umbral/umbral-dragon-very-young
+Umbral Dragon, Very Young
+CR 8
+XP 4,800
+CE Medium dragon (extraplanar)
+Init +5; Senses dragon senses; Perception +15
+DEFENSE
+AC 20, touch 11, flat-footed 19 (+1 Dex, +9 natural)
+hp 76 (9d12+18)
+Fort +8, Ref +7, Will +9
+Immune cold, death effects, negative energy, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (average)
+Melee bite +12 (1d8+4), 2 claws +12 (1d6+3) and 2 wings +10 (1d4+1)
+Special Attacks breath weapon (30-ft cone. 4d8 neg energy DC 16)
+Spell-Like Abilities (CL 9th; concentration +12)
+At will—darkness
+STATISTICS
+Str 17, Dex 12, Con 15, Int 16, Wis 17, Cha 16
+Base Atk +9; CMB +12; CMD 23 (27 vs trip)
+Feats Hover, Improved Initiative, Multiattack, Power Attack, Vital Strike
+Skills Bluff +15, Diplomacy +15, Fly +13, Knowledge (arcana, local, planes) +15, Perception +15, Sense Motive +15, Stealth +13
+Languages Abyssal, Common, Draconic, Undercommon
+SQ umbral scion
+SPECIAL ABILITIES
+Breath Weapon (Su) Although it deals negative energy damage, an umbral dragon’s breath weapon does not heal undead creatures.
+Umbral Scion (Ex) Umbral dragons have negative energy affinity and are immune to energy drain and death effects.
+
+

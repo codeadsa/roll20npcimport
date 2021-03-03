@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/nightmare
+Nightmare CR 5
+XP 1,600
+NE Large outsider (evil, extraplanar)
+Init +6; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, –1 size)
+hp 51 (6d10+18)
+Fort +8, Ref +7, Will +3
+OFFENSE
+Speed 40 ft., fly 90 ft. (good)
+Melee bite +9 (1d4+4), 2 hooves +4 (1d6+2 plus 1d4 fire)
+Space 10 ft.; Reach 5 ft.
+Special Attacks smoke
+Spell-Like Abilities (CL 6th)
+1/day (self plus 1 rider only)—plane shift
+STATISTICS
+Str 18, Dex 15, Con 16, Int 13, Wis 13, Cha 12
+Base Atk +6; CMB +11; CMD 23 (27 vs. trip)
+Feats Alertness, Improved Initiative, Run
+Skills Fly +13, Intimidate +10, Knowledge (planes) +10, Perception +12, Sense Motive +12, Stealth +7, Survival +10
+Languages Abyssal, Infernal
+SPECIAL ABILITIES
+Smoke (Su) In battle, a nightmare exhales smoke that chokes and blinds foes, filling a 15-foot cone each round as a free action. Anyone in the cone must succeed on a DC 16 Fortitude save or become sickened until 1d6 minutes after leaving the area. This smoke acts as obscuring mist for the purposes of concealment. The smoke persists for 1 round. The save DC is Constitution-based.

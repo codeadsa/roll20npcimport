@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/daemon-guardian
+Guardian Daemon CR 6
+XP 2,400
+N(E) Large outsider (extraplanar)
+Init +1; Senses darkvision 120 ft.; Perception +13
+DEFENSE
+AC 21, touch 10, flat-footed 20 (+1 Dex, +11 natural, –1 size)
+hp 68 (8d10+24)
+Fort +5; Ref +7; Will +8
+DR 10/cold iron or silver; Immune acid, hold, mind-affecting effects, poison, polymorph, sleep; Resist cold 10, electricity 10, fire 10
+Weaknesses limited domain
+OFFENSE
+Speed 30 ft.
+Melee bite +11 (2d6+4), 2 claws +11 (1d6+4)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (30 ft. cone, DC 17, 5d6 fire, useable every 1d4 rounds)
+STATISTICS
+Str 18, Dex 12, Con 16, Int 12, Wis 14, Cha 14
+Base Atk +8; CMB +13; CMD 24
+Feats Blind-Fight, Improved Natural Attack (bite), Power Attack, Vital Strike
+Skills Bluff +13, Diplomacy +9, Intimidate +13, Knowledge (arcana) +8, Knowledge (planes) +12, Perception +13, Sense Motive +13, Stealth +4, Survival +9
+Languages Abyssal, Common, Daemonic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Limited Domain (Ex) The realm of a guardian daemon encompasses only the area it is summoned to guard; a room, chamber, or treasure. The area can be no larger than 100 feet + 10 feet per caster level of the one who summoned it. The guardian daemon can wander freely in its area, but cannot move beyond the precincts of the designated area.
+
+
+

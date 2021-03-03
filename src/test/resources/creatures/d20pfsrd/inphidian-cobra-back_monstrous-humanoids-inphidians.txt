@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/inphidians/inphidian-cobra-back
+Cobra-Back Inphidian CR 3
+XP 800
+NE Medium monstrous humanoid (reptilian)
+Init +3; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 18, touch 13, flat-footed 15 (+3 Dex, +5 natural)
+hp 37 (5d10+10)
+Fort +5; Ref +7; Will +5
+OFFENSE
+Speed 30 ft.
+Melee 2 snake-hand bites +9 (1d4+3 plus poison)
+Special Attacks poison (DC 16), spit poison
+STATISTICS
+Str 16, Dex 17, Con 15, Int 12, Wis 13, Cha 12
+Base Atk +5; CMB +8; CMD 21
+Feats Alertness, Great Fortitude, Weapon Focus (snake-hand bites)
+Skills Acrobatics +8, Craft (alchemy) +9, Perception +11, Sense Motive +8, Stealth +11
+Languages Aklo, Common, Inphidian
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 16; frequency 1/round for 4 rounds; effect 1d4 Strength damage; cure 1 save. The save is Constitution-based and includes a +2 racial bonus.
+Spit Poison (Ex) Once every 1d4 rounds, a cobra-back can spit a line of inphidian poison from its mouth to a range of 20 feet.
+Cobra-Back Inphidian Characters
++6 Strength, +6 Dexterity, +4 Constitution, +2 Intelligence, +2 Wisdom, +2 Charisma. Quick and deadly, cobra-backed inphidians make highly efficient warriors. Racial Hit Dice: a cobra-back inphidian begins with five levels of monstrous humanoid, which provide 5d8 HD, a base attack bonus of +5, base save bonuses of Fort +1, Ref +4, Will +4. Racial Skills: a cobra-back’s monstrous humanoid levels give it skill points equal to 5 x (4 + Int modifier). Racial Feats: a cobra-back’s monstrous humanoid levels give it three feats
+AC: +5 natural AC bonus.
+Special Attacks: poison, spit poison See Inphidians for more details on playable inphidians.

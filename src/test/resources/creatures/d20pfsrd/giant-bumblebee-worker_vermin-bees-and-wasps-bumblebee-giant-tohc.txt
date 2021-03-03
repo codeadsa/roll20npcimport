@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/bees-and-wasps/bumblebee-giant-tohc/giant-bumblebee-worker
+Giant Bumblebee, Worker CR 3
+
+XP 800
+N Large vermin
+Init +2; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +5
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+2 Dex, +4 natural, -1 size)
+hp 32 (5d8+10)
+Fort +6; Ref +3; Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee sting +6 (1d8+6 plus poison)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 18, Dex 14, Con 14, Int —, Wis 13, Cha 10
+Base Atk +3; CMB +8; CMD 20 (+28 vs. trip)
+Skills Fly +4, Perception +5, Survival +1 (+5 to keep from getting lost); Racial Modifiers +4 Perception, +4 Survival to keep from getting lost
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fortitude DC 14; frequency 1/round for 6 rounds; effect 1d2 Con; cure 1 save. The save DC is Constitution-based.

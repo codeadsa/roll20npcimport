@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/slithering-tracker
+Slithering Tracker CR 4
+XP 1,200
+N Small ooze
+Init +4; Senses blindsense 60 ft.; Perception +7
+DEFENSE
+AC 15, touch 15, flat-footed 11 (+4 Dex, +1 size)
+hp 42 (4d8+24)
+Fort +7, Ref +5, Will +1
+Immune mind-affecting effects, ooze traits
+OFFENSE
+Speed 10 ft., climb 10 ft.
+Melee 2 slams +7 (1d6+3 plus grab and paralysis)
+Special Attacks blood drain (1d2 Constitution), grab (Colossal)
+STATISTICS
+Str 16, Dex 18, Con 23, Int 11, Wis 10, Cha 1
+Base Atk +3; CMB +5 (+9 grapple); CMD 19 (can’t be tripped)
+Feats Skill Focus (Perception), Skill Focus (Stealth)
+Skills Climb +11, Perception +7, Stealth +20; Racial Modifiers +8 Stealth, +8 Climb
+Languages Undercommon (cannot speak)
+SQ transparent
+SPECIAL ABILITIES
+Paralysis (Ex) Any creature that is hit by a slithering tracker’s slam attack comes into contact with the anesthetizing slime it secretes. The opponent must succeed on a DC 18 Fortitude save or be paralyzed—at the end of each round thereafter, the paralyzed victim can attempt a new Fortitude save to recover from this paralysis. When a victim recovers from a slithering tracker’s paralysis, the victim is staggered for 1d6 rounds. This DC is Constitution-based.
+Transparent (Ex) Because of its lack of coloration, a slithering tracker is difficult to discern from its surroundings in most environments. The slithering tracker gains a +8 racial bonus on Stealth checks as a result, and can move at full speed without taking a penalty on Stealth checks. A creature that fails to notice a slithering tracker and walks into it automatically takes damage as if struck by the slithering tracker’s slam attack and is immediately subject to a grab attempt and paralysis by the ooze.

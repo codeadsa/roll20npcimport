@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/gremlins/gremlin-vexgit
+Gremlin, Vexgit CR 1
+
+XP 400
+LE Tiny fey
+Init +1; Senses darkvision 120 ft., low-light vision; Perception +5
+DEFENSE
+AC 15, touch 13, flat-footed 14 (+1 Dex, +2 natural, +2 size)
+hp 8 (1d6+5)
+Fort +2, Ref +3, Will +3
+DR 5/cold iron; SR 12
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee warhammer +0 (1d4–2/×3), bite –2 (1d3–2)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks speedy sabotage, wrecking crew
+Spell-Like Abilities (CL 1st; concentration +1)
+At will—prestidigitation
+1/hour—rusting grasp, snare
+STATISTICS
+Str 6, Dex 13, Con 14, Int 12, Wis 13, Cha 11
+Base Atk +0; CMB –1; CMD 7
+Feats Skill Focus (Disable Device), ToughnessB, Weapon FinesseB
+Skills Appraise +2, Climb +13, Craft (traps) +5, Disable Device +9, Knowledge (engineering) +2, Perception +5, Stealth +13 (+17 in metal or stony areas, +9 when moving); Racial Modifiers +4 Disable Device, +4 Stealth in metal or stony areas, –4 Stealth when moving
+Languages Undercommon
+SPECIAL ABILITIES
+Speedy Sabotage (Su) Vexgits are adept at disassembling machinery, reducing even complex devices to trash with shocking speed. When using the Disable Device skill, these gremlins treat all devices as being one category simpler for the purposes of determining how long it takes to use the skill. Thus, difficult devices count as tricky, tricky devices count as simple, and simple devices can be dismantled as a free action.
+Wrecking Crew (Su) A group of up to six vexgits can work together to dismantle a device. This ability functions like the aid another action, but a single vexgit can receive help from up to five other vexgits, granting it up to a +10 bonus on its Disable Device check.

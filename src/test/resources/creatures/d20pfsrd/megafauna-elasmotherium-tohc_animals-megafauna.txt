@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/megafauna/megafauna-elasmotherium-tohc
+Elasmotherium (Giant Wooly Rhino)
+CR 13
+XP 25,600
+N Large animal
+Init +0; Senses low-light vision, scent; Perception +25
+DEFENSE
+AC 19, touch 9, flat-footed 19 (+10 natural, –1 size)
+hp 172 (15d8+90 plus 15)
+Fort +17, Ref +9, Will +6
+OFFENSE
+Speed 30 ft.
+Melee gore +21 (2d6+15/19–20)
+Space 10 ft.; Reach 5 ft.
+Special Attacks powerful charge (gore, 8d6+24), trample (1d6+15, DC 27)
+TACTICS
+The elasmotherium is a herding creature and encounters with herds are common. When danger presents itself, the females encircle the young, while the males charge the predator, goring with its horn.
+STATISTICS
+Str 31, Dex 10, Con 23, Int 2, Wis 13, Cha 2
+Base Atk +11; CMB +22 (+24 bull rush); CMD 32 (34 vs. bull rush, 36 vs. trip)
+Feats Endurance, Great Fortitude, Improved Critical (gore), Improved Bull Rush, Power Attack, Skill Focus (Perception), Toughness, Weapon Focus (gore)
+Skills Perception +25
+Source Wikipedia

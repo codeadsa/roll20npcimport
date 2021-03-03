@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/water-wraith
+Water Wraith CR 2
+XP 600
+CN Large magical beast (aquatic)
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 16, touch 11, flat-footed 14 (+1 Dex, +1 dodge, +5 natural, –1 size)
+hp 19 (3d10+3)
+Fort +4, Ref +4, Will +2
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee bite +4 (1d8+2 plus attach), 4 claws +4 (1d6+2)
+Special Attacks blood drain (1d2 Constitution), rend (2 claws, 1d3+3)
+STATISTICS
+Str 14, Dex 13, Con 13, Int 3, Wis 12, Cha 6
+Base Atk +3; CMB +6 (+10 when attached); CMD 18 (30 vs. trip)
+Feats Dodge, Improved Initiative
+Skills Perception +5, Stealth +1, Swim +14
+SQ amphibious, expressive chameleon
+SPECIAL ABILITIES
+Expressive Chameleon (Ex) Once per round as a free action, a water wraith can change its color to any of its own choosing. A water wraith using this ability to camouflage itself gains a +8 bonus on Stealth checks.

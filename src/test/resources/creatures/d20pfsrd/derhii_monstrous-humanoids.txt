@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/derhii
+Derhii CR 5
+XP 1,600
+N Large monstrous humanoid
+Init +3; Senses darkvision 60 ft., scent; Perception +14
+DEFENSE
+AC 18, touch 12, flat-footed 15 (+3 Dex, +6 natural, -1 size)
+hp 59 (7d10+21)
+Fort +5, Ref +8, Will +8
+OFFENSE
+Speed 30 ft., climb 30 ft., fly 60 ft. (poor)
+Melee mwk falchion +12/+7 (2d6+7/18-20) or 2 slams +11 (1d6+5)
+Ranged javelin +9 (1d8+5)
+Space 10 ft.; Reach 10 ft.
+Special Attacks aerial charge, knockdown
+STATISTICS
+Str 21, Dex 16, Con 17, Int 9, Wis 12, Cha 10
+Base Atk +7; CMB +13; CMD 26
+Feats Acrobatic, Combat Reflexes, Iron Will, Skill Focus (Perception)
+Skills Acrobatics +12, Climb +13, Fly +9, Perception +14
+Languages Auran, Common
+SQ booming voice
+SPECIAL ABILITIES
+Aerial Charge (Ex) When airborne, a derhii can dive at twice its normal flying speed. This is the equivalent of a charge, granting a +2 bonus on the attack roll and a -2 penalty to AC.
+Booming Voice (Ex) A derhii can use its own booming voice as a signal. The sound can be heard up to 12 miles away as a thrumming in the air that conveys 20 words of information in 5 minutes.
+Knockdown (Ex) When a derhii confirms a critical hit with a two-handed weapon, it has a chance to knock an opponent prone in addition to the damage dealt by the critical hit. If the derhii’s confirmation roll exceeds its opponent’s CMD, the opponent is knocked prone as if from the trip combat maneuver. This does not provoke an attack of opportunity, nor can the derhii be tripped if the confirmation roll fails to exceed the CMD.

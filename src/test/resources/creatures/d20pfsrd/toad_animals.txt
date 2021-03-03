@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/toad
+Toad CR 1/8
+XP 50
+N Diminutive animal
+Init +1; Senses low-light vision, scent; Perception +5
+DEFENSE
+AC 15, touch 15, flat-footed 14 (+1 Dex, +4 size)
+hp 2 (1d8–2)
+Fort +0, Ref +3, Will +2
+OFFENSE
+Speed 5 ft.
+Space 1 ft.; Reach 0 ft.
+STATISTICS
+Str 1, Dex 12, Con 6, Int 1, Wis 15, Cha 4
+Base Atk +0; CMB –3; CMD 2 (6 vs. trip)
+Feats Skill Focus (Perception)
+Skills Perception +5, Stealth +21; Racial Modifiers +4 Stealth
+SPECIAL ABILITIES
+Familiar The master of a toad familiar gains 3 hit points.

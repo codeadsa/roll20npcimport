@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oni/oni-water-yai
+Water Yai CR 18
+XP 153,600
+CE Huge outsider (aquatic, giant, native, oni, shapechanger, water)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +26
+DEFENSE
+AC 32, touch 11, flat-footed 29 (+6 armor, +3 Dex, +15 natural, -2 size)
+hp 297 (22d10+176); regeneration 10 (fire or good spells)
+Fort +21, Ref +10, Will +18
+Defensive Abilities freedom of movement; Immune acid; SR 29
+OFFENSE
+Speed 50 ft., fly 60 ft. (good), swim 60 ft.
+Melee mwk spear +35/+30/+25/+20 (3d6+21/19-20/x3) or 2 slams +34 (2d6+14)
+Ranged acidic missile +23 (4d6 acid plus nausea)
+Space 15 ft.; Reach 15 ft. (20 ft. with spear)
+Spell-Like Abilities (CL 18th; concentration +24)
+Constant—fly, freedom of movement, water walk
+At will—invisibility (self only), liquid form (as gaseous form), water breathing
+3/day—charm monster (DC 20), cone of cold (DC 21), control water, polar ray
+STATISTICS
+Str 39, Dex 17, Con 27, Int 16, Wis 20, Cha 22
+Base Atk +22; CMB +38 (+40 bull rush, disarm); CMD 51 (53 vs. bull rush, disarm)
+Feats Awesome Blow, Blind-Fight, Cleave, Combat Expertise, Combat Reflexes, Critical Focus, Improved Bull Rush, Improved Critical (spear), Improved Disarm, Improved Initiative, Power Attack
+Skills Acrobatics +21 (+29 when jumping), Bluff +27, Disguise +24, Fly +24, Intimidate +27, Knowledge (arcana) +24, Perception +26, Perform (sing) +24, Sense Motive +26, Spellcraft +21, Swim +43
+Languages Common, Giant
+SQ amphibious, change shape (Medium, Large, or Huge humanoid; alter self or giant form II)
+SPECIAL ABILITIES
+Acidic Missile (Su) As a swift action, a water yai can launch a bolt of acid from its third eye. Any creature struck by this bolt must also make a DC 29 Fortitude save to avoid becoming nauseated for 1 round by the overwhelming stench of the acid. This attack has a range of 180 feet with no range increment. The save DC is Constitution-based.
+Flowing Robes (Su) A water yai wears a special silk kimono infused with magical water. This kimono grants a +6 armor bonus. These robes function as armor only for water yai.
+Liquid Form (Sp) As a standard action, a water yai can turn into a mobile pool of water. This functions like gaseous form, except that the yai cannot fly in this form. It retains its own base speed, and its swim speed doubles to 120 feet. The water yai can end this ability as a standard action.

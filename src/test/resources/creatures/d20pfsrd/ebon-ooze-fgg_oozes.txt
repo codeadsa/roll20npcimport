@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ebon-ooze-fgg
+Ebon Ooze CR 6
+XP 2,400
+NE Huge ooze
+Init +2; Senses blindsight 60 ft.; Perception +2
+DEFENSE
+AC 6, touch 6, flat-footed 6 (–2 Dex, –2 size)
+hp 100 (8d8+56 plus 8)
+Fort +9; Ref +2; Will +4
+Defensive Abilities negative energy affinity; Immune acid, disease, ooze traits, sonic
+OFFENSE
+Speed 20 ft., swim 20 ft.
+Melee slam +12 (3d6+10 plus 2d6 acid plus grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks disease (slimy doom, DC 21)
+STATISTICS
+Str 24, Dex 7, Con 24, Int 8, Wis 14, Cha 3
+Base Atk +6; CMB +15 (+19 to grapple); CMD 23 (can’t be tripped)
+Feats Improved Initiative, Lightning Reflexes, Skill Focus (Stealth), ToughnessB, Weapon Focus (slam)
+Skills Stealth +1
+SPECIAL ABILITIES
+Negative Energy Affinity (Ex) An ebon ooze is healed by negative energy attacks, and harmed by positive energy, as if it were undead.
+Slimy Doom (Ex) Slam—injury; save Fort DC 21; onset 1 day; frequency 1 day; effect 1d4 Con damage; cure 2 consecutive saves.

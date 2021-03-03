@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/hanged-man
+hanged man CR 3
+XP 800
+CE Medium undead
+Init +5; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+1 Dex, +4 natural)
+hp 22 (4d8+4)
+Fort +2; Ref +2; Will +4
+Immune undead traits
+OFFENSE
+Spd 30 ft.
+Melee 2 claws +5 (1d4+2)
+Ranged rope touch +5 (entangle)
+Special Attacks drag
+STATISTICS
+Str 15, Dex 13, Con —, Int 9, Wis 11, Cha 13
+Feats Improved Initiative, Weapon Focus (rope)
+Skills Climb +9 (+19 with rope), Perception +7, Stealth +8
+Languages Common (cannot speak)
+SPECIAL ABILITIES
+Drag (Ex) If the hanged man entangles a foe with his rope attack, it drags its opponent 10 feet closer as a standard action on each subsequent round that it succeeds on a CMB check (including a +5 racial bonus) without provoking attacks of opportunity. When an opponent is dragged within 5 feet, the hanged man can attack with both of its claws in the same round. It gains a +4 attack bonus against opponents entangled in its rope.
+Entangle (Su) The hanged man’s noose is a 20-ft. length of rope that entangles opponents of any size as an animate rope spell (CL 15th, DC 21). A hanged man can lash its rope outward 20 feet with no range penalty. The rope functions only for the hanged man it belongs to and no other. It has AC 22, hardness 10, hp 10, and DR 5/slashing. If the rope is severed, both it and the hanged man are destroyed. The save DC is Strength-based.

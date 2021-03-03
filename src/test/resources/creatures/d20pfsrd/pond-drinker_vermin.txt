@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/pond-drinker
+Pond Drinker CR 3
+XP 800
+N Tiny vermin (aquatic, extraplanar)
+Init +4; Senses darkvision 60 ft.; Perception +1; Aura ultrasonic (15 ft.)
+DEFENSE
+AC 18, touch 16, flat-footed 14 (+4 Dex, +2 natural, +2 size)
+hp 27 (5d8+5)
+Fort +5, Ref + 5, Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 15 ft. (on land), 40 ft. (on water), swim 30 ft.
+Melee bite +5 (1d3 plus grab)
+Space 2½ ft.; Reach 0 ft.
+Special Attacks blood drain, leaping strike (40 ft.)
+STATISTICS
+Str 10, Dex 18, Con 12, Int –, Wis 12, Cha 10
+Base Atk +3; CMB +1 (+5 grapple); CMD 11 (15 vs. grapple, 19 vs. trip)
+Skills Swim +8
+SQ amphibious, water walking
+SPECIAL ABILITIES
+Blood Drain (Ex) A pond drinker drains blood at the end of its turn if it is grappling with a foe, inflicting 1 point of Constitution damage. A pond drinker will never drink more blood than 1 point per its Hit Dice per day.
+Leaping Strike (Ex) A pond drinker can make a single leap from the surface of a body of water to attack a creature with its bite. This movement and attack is a full-round action that does not draw an attack of opportunity.
+Water Walking (Ex) Pond drinkers can walk on the surface of water as most creatures can walk on land. They can even use the surface of water as solid ground from which to leap.
+Ultrasonic Aura (Ex) Pond drinkers constantly produce an ultrasonic drone that is disruptive to spellcasters and those with spell-like abilities. Any creature attempting to cast a spell or use a spell-like ability within the ultrasonic aura must make a concentration check (DC 15 + spell level) to cast a spell or use a spell-like ability.
+

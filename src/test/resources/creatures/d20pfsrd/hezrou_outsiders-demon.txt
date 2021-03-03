@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/hezrou
+Hezrou CR 11
+XP 12,800
+CE Large outsider (aquatic, chaotic, demon, evil, extraplanar)
+Init +4; Senses darkvision 60 ft.; Perception +23
+Aura stench (DC 24, 10 rounds)
+DEFENSE
+AC 25, touch 9, flat-footed 25 (+16 natural, –1 size)
+hp 145 (10d10+90)
+Fort +16, Ref +3, Will +9
+DR 10/good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 22
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee bite +17 (4d4+8 plus grab), 2 claws +17 (1d8+8 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks nausea
+Spell-Like Abilities (CL 13th)
+At will—chaos hammer (DC 18), greater teleport (self plus 50 lbs. of objects only), unholy blight (DC 18)
+3/day—gaseous form
+1/day—blasphemy (DC 21), summon (level 4, 1 hezrou 35%)
+STATISTICS
+Str 27, Dex 11, Con 29, Int 14, Wis 14, Cha 18
+Base Atk +10; CMB +19 (+23 grapple); CMD 29
+Feats Blind-Fight, Cleave, Great Cleave, Improved Initiative, Power Attack
+Skills Climb +21, Escape Artist +10, Intimidate +14, Knowledge (arcana) +15, Perception +23, Spellcraft +15, Stealth +9, Swim +29; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SQ amphibious
+SPECIAL ABILITIES
+Nausea (Ex) The noxious vapors and foul fluids that constantly weep and seethe from a hezrou’s body are particularly heinous to those the creature grapples. Each round a creature is grappled by a hezrou, the grappled foe must make a DC 24 Fortitude save to avoid becoming nauseated. A creature nauseated in this manner remains nauseated until he succeeds on a DC 24 Fortitude save, or until a minute has passed during which he is not grappled by the hezrou, whichever condition comes first. The save DC is Constitution-based.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/carrion-claw-fgg
+Carrion Claw CR 6
+XP 2,400
+NE Large magical beast
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +6
+DEFENSE
+AC 14, touch 11, flat-footed 12 (+2 Dex, +3 natural, –1 size)
+hp 51 (6d10+12 plus 6)
+Fort +7; Ref +7; Will +3
+Weaknesses light sensitivity, vulnerable to magical light
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee 6 claws +10 (1d6+4 plus grab), bite +9 (1d3+4 plus paralysis)
+Space 10 ft.; Reach 5 ft.
+Special Attacks hatred of elves (+1 to hit and damage), paralysis (1d4 hours, DC 15)
+STATISTICS
+Str 18, Dex 14, Con 14, Int 4, Wis 12, Cha 11
+Base Atk +6; CMB +11 (+15 to grapple); CMD 23 (can’t be tripped)
+Feats Improved Initiative, Toughness, Weapon Focus (claw)
+Skills Climb +17, Perception +6, Stealth +11; Racial Modifiers +8 Stealth
+SQ superior climbing
+SPECIAL ABILITIES
+Superior Climbing (Ex) A carrion claw need not make Climb checks to traverse a vertical or horizontal surface (even upside down.) It retains its Dexterity bonus to Armor Class while climbing, and opponents get no special bonus to their attacks against it. It cannot, however, use the run action while climbing.
+Vulnerable to Magical Light (Ex) A carrion claw that is the target of a spell with the light descriptor must succeed on a Will save or be dazed for 1 round. The Will save DC is equal to 10 + the spell level + the caster’s key ability.

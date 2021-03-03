@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ahuizotl
+Ahuizotl CR 6
+XP 2,400
+NE Large magical beast (aquatic)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +2
+DEFENSE
+AC 19, touch 12, flat-footed 16 (+3 Dex, +7 natural, -1 size)
+hp 68 (8d10+24)
+Fort +9, Ref +9, Will +4
+OFFENSE
+Speed 30 ft., swim 50 ft.
+Melee bite +12 (2d6+5), claw +12 (1d8+5/19-20 plus grab)
+Space 10 ft.; Reach 5 ft. (10 ft. with tail)
+Special Attacks rake (2 claws +5, 1d4+5)
+STATISTICS
+Str 20, Dex 17, Con 17, Int 9, Wis 14, Cha 16
+Base Atk +8; CMB +14 (+18 grapple); CMD 27 (31 vs. trip)
+Feats Blinding CriticalB, Combat Reflexes, Improved Critical (claw)B, Improved Initiative, Skill Focus (Stealth), Stand Still
+Skills Bluff +9, Stealth +9, Swim +20; Racial Modifiers +6 Bluff
+Languages Common
+SQ amphibious, tenacious grapple, voice mimicry
+SPECIAL ABILITIES
+Tenacious Grapple (Ex) An ahuizotl does not gain the grappled condition when it grapples a foe.
+Voice Mimicry (Ex) An ahuizotl can perfectly mimic the sound of humanoid sobbing and can even attempt to mimic voices it has heard. When mimicking a voice, an ahuizotl must make a Bluff check opposed by its listener’s Sense Motive check. If the listener has never heard the voice the ahuizotl is attempting to mimic, the listener takes a -8 penalty on the Sense Motive check.

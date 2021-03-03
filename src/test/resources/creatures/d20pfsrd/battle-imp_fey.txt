@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/battle-imp
+Battle Imp CR 11
+XP 12,800
+CG Medium fey
+Init +7; Senses low-light vision; Perception +25
+DEFENSE
+AC 25, touch 17, flat-footed 18 (+7 Dex, +8 natural)
+hp 153 (18d6+90)
+Fort +11, Ref +18, Will +15
+DR 10/cold iron; Immune fire
+OFFENSE
+Speed 30 ft., fly 60 ft. (as spell)
+Melee 2 slams +19 (1d8+9/19-20)
+Ranged rock +15/+10 (1d8+13)
+Spell-Like Abilities (CL 18th)
+Constant—fly, telekinesis
+At will—call lightning, summon swarm, tree shape
+3/day—elemental body II, spike stones, wall of thorns
+STATISTICS
+Str 6, Dex 24, Con 20, Int 28, Wis 18, Cha 21
+Base Atk +9; CMB +18 (+20 trip); CMD 25 (27 vs. trip)
+Feats Combat Expertise, Dazzling Display, Greater Feint, Improved Critical (slam), Improved Feint, Improved Trip, Shatter Defenses, Vital Strike, Weapon Focus (slam)
+Skills Acrobatics +28, Bluff +26, Climb +30, Diplomacy +26, Disguise +26, Escape Artist +28, Fly +37, Knowledge (geography) +30, Knowledge (local) +30, Knowledge (nature) +30, Perception +25, Perform (oratory) + 26, Sense Motive +25, Stealth +28, Use Magic Device +26
+Languages Aquan, Auran, Common, Druidic, Elven, Giant, Sylvan, Terran
+SQ telekinetic mastery
+SPECIAL ABILITIES
+Telekinetic Mastery (Su) A battle imp has a constant telekinesis effect that allows him to use his Intelligence modifier in place of Strength. They can also hurl and catch rocks like giants.

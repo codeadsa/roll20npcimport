@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/minotaur
+Minotaur (CR 4)
+XP 1,200
+CE Large monstrous humanoid
+Init +0; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 14, touch 9, flat-footed 14 (+5 natural, –1 size)
+hp 45 (6d10+12)
+Fort +6, Ref +5, Will +5
+Defensive Abilities natural cunning
+OFFENSE
+Speed 30 ft.
+Melee greataxe +9/+4 (3d6+6/×3) and gore +4 (1d6+2)
+Space 10 ft.; Reach 10 ft.
+Special Attacks powerful charge (gore +11, 2d6+6)
+TACTICS
+Before Combat Minotaurs prefer to lure their prey into confusing terrain, such as a maze, sewer, or tunnel system, before setting up an ambush. If possible, they stalk their prey for days before finally committing to battle.
+During Combat Minotaurs typically begin combat by charging the most threatening opponent. They follow this up with devastating swings of their greataxes, using Power Attack if they are hitting easily.
+Morale Out in the open, a minotaur attempts to flee from combat if reduced to 10 hp. If in a maze or other controlled territory, most minotaurs fight to the death.
+STATISTICS
+Str 19, Dex 10, Con 15, Int 7, Wis 10, Cha 8
+Base Atk +6; CMB +11; CMD 21
+Feats Great Fortitude, Improved Bull Rush, Power Attack
+Skills Intimidate +5, Perception +10, Stealth +2, Survival +10; Racial Modifiers +4 Perception, +4 Survival
+Languages Giant
+SPECIAL ABILITIES
+Natural Cunning (Ex) Although minotaurs are not especially intelligent, they possess innate cunning and logical ability. This gives them immunity to maze spells and prevents them from ever becoming lost. Further, they are never caught flat-footed.

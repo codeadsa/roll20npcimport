@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/wraith/wraith-moon
+Moon Wraith CR 7
+XP 3,200
+LE Medium undead (incorporeal)
+Init +8; Senses darkvision 60 ft., lifesense; Perception +13
+DEFENSE
+AC 20, touch 20, flat-footed 16 (+6 deflection, +4 Dex)
+hp 74 (7d8+42)
+Fort +8, Ref +6, Will +7
+Defensive Abilities channel resistance +2, incorporeal; Immune undead traits
+Weaknesses light discorporation
+OFFENSE
+Speed fly 60 ft. (good)
+Melee incorporeal touch +9 (2d6 negative energy plus 1d6 Con drain)
+Special Attacks create spawn
+STATISTICS
+Str —, Dex 18, Con —, Int 14, Wis 14, Cha 23
+Base Atk +5; CMB +9; CMD 19
+Feats Blind-Sight, Combat Reflexes, Flyby Attack, Improved Initiative
+Skills Diplomacy +14, Fly +8, Intimidate +17, Knowledge (planes) +10, Perception +13, Sense Motive +13, Stealth +15
+Language Common, Infernal
+SPECIAL ABILITIES
+Body of Darkness (Ex) In areas of darkness, the moon wraith can assume a corporeal form as a move action. The moon wraith’s body of darkness appears as a humanoid with a pair of boney claws, swaddled in black rags wearing a white clay mask. In this form, it loses the incorporeal subtype, its fly speed, and its incorporeal touch attack, but gains a +5 natural armor bonus (total AC 19), a speed of 30 feet, 2 claws (+11, 1d8+5 plus 1d6 Con drain), and a Strength score of 20. The moon wraith may resume its normal incorporeal form as a swift action, and automatically becomes incorporeal again should the level of illumination increase to dim light or brighter.
+Create Spawn (Su) A humanoid slain by a moon wraith becomes a wraith in 1d4 rounds. These spawn are less powerful than typical wraiths, and suffer a –2 penalty on all d20 rolls and checks, receive –2 hp per HD, and only drain 1d2 points of Constitution on a touch. Spawn are under the command of the moon wraith that created them until its death, at which point they lose their spawn penalties and become free-willed wraiths. They do not possess any of the abilities they had in life.
+Constitution Drain (Su) Creatures hit by a wraith’s touch attack (or claw attacks in corporeal form, see body of darkness above) must succeed on a DC 19 Fortitude save or take 1d6 points of Constitution drain. This is a negative energy effect. On each successful attack, the wraith gains 5 temporary hit points. The save DC is Charisma-based.
+Lifesense (Su) A wraith notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability.
+Light Discorporation (Ex) In areas of bright or normal light, the moon wraith cannot attack, becomes ethereal (as per the ethereal jaunt spell), and is staggered.
+Unnatural Aura (Su) Animals do not willingly approach within 30 feet of a wraith, unless a master makes a DC 25 Handle Animal, Ride, or wild empathy check.

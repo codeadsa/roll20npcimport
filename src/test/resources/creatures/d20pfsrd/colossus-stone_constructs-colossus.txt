@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/colossus/colossus-stone
+Stone Colossus CR 19/MR 7
+XP 204,800
+N Colossal construct (colossus, Mythic)
+Init +11M; Senses darkvision 60 ft., low-light vision; Perception +11; Aura selective antimagic aura (30 ft.)
+DEFENSE
+AC 31, touch 2, flat-footed 31 (+29 natural, –8 size)
+hp 265 (21d10+150)
+Fort +7, Ref +7, Will +7
+DR 10/epic; Immune construct traits
+OFFENSE
+Speed 40 ft.
+Melee 2 slams +32 (3d10+19/19–20) or stomp +32 (6d10+28 plus pinning stomp) Ranged light ballista +13 (3d8/×3)
+Space 30 ft.; Reach 30 ft.
+Special Attacks Mythic Power (7/day, Surge +1d10), Mythic quickening, pinning stomp
+Spell-Like Abilities (CL 15th; concentration +16)
+3/day—wall of stone (DC 16)
+1/day—repulsion (DC 17)
+STATISTICS
+Str 48, Dex 11, Con —, Int 5, Wis 10, Cha 7
+Base Atk +21; CMB +48 (+53 sunder); CMD 60 (65 vs. sunder)
+Feats Cleave, Deadly AimM, Great Cleave, Improved Critical (slam), Improved InitiativeM, Improved SunderM, Improved Vital Strike, Point-Blank ShotM, Power Attack, Precise Shot, Vital Strike
+Skills Intimidate +11, Perception +11
+Languages Common
+SQ alternate form, movable keep, Mythic creation, Mythic resilience, self repair, siege tower
+SPECIAL ABILITIES
+Alternate Form (Ex) A stone colossus can take the form of a small keep as a full-round action. Its DR increases to 20/epic, and it gains fast healing 10. While in this form, the colossus cannot make melee attacks.
+Movable Keep (Ex) In either form, a stone colossus holds up to 12 Medium creatures. Those on its ramparts gain cover. Any inside when it’s destroyed take 3d10+20 points of damage.
+Selective Antimagic Aura (Su) Spells with the earth or force descriptor or that transmute or manipulate earth or stone are unaffected by this field.
+Self Repair (Ex) A stone colossus can expend one use of Mythic Power as a swift action to gain fast healing 20 for 5 rounds.
+Siege Tower (Ex) A stone colossus’s ballistae don’t provoke attacks of opportunity, and they reload themselves at the start of the colossus’s turn.

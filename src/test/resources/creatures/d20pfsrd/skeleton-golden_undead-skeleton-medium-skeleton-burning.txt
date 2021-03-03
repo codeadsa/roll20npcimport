@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/skeleton-medium/skeleton-burning/skeleton-golden
+Golden Skeleton CR 1
+XP 400
+Gold-clad human burning skeleton
+NE Medium undead
+Init +3; Senses darkvision 60 ft.; Perception –1
+DEFENSE
+AC 16, touch 9, flat-footed 16 (+2 armor, –1 Dex, +5 natural)
+hp 8 (1d8+4)
+Fort +4, Ref –1, Will +1
+Defensive Abilities light fortification; DR 5/bludgeoning; Immune fire, undead traits
+Weaknesses vulnerability to cold, electricity
+OFFENSE
+Speed 20 ft.
+Melee broken scimitar +0 (1d6 plus 1d6 fire), claw –3 (1d4+1 plus 1d6 fire)
+Special Attacks fiery aura
+STATISTICS
+Str 15, Dex 8, Con —, Int —, Wis 8, Cha 18
+Base Atk +0; CMB +2; CMD 11
+Feats Improved Initiative
+SQ fiery death (1d6 fire damage, Reflex DC 11 half )
+Gear broken chain shirt, helmet, broken scimitar

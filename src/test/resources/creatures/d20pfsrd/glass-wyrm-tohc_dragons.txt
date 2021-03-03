@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/glass-wyrm-tohc
+Glass Wyrm CR 12
+XP 19,200
+N Large dragon
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +24
+DEFENSE
+AC 26, touch 11, flat-footed 24 (+2 Dex, +15 natural, –1 size)
+hp 168 (16d12+64)
+Fort +14; Ref +12; Will +11
+Defensive Abilities reflective hide (DC 22), spell reflection; DR 10/magic and bludgeoning; Immune paralysis, sleep
+Weakness vulnerability to sonic spells
+OFFENSE
+Speed 30 ft.
+Melee bite +21 (2d6+9/19–20), 2 claws +21 (1d8+6), tail slap +19 (1d8+9)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40 ft. cone, DC 22, 12d6 piercing and slashing)
+STATISTICS
+Str 23, Dex 14, Con 19, Int 10, Wis 12, Cha 12
+Base Atk +16; CMB +23; CMD 35 (39 vs. trip)
+Feats Alertness, Cleave, Critical Focus, Improved Critical (bite), Improved Initiative, Multiattack, Power Attack, Vital Strike
+Skills Diplomacy +20, Escape Artist +18, Knowledge (planes) +19, Perception +24, Sense Motive +24, Stealth +16
+Languages Draconic, Undercommon
+SPECIAL ABILITIES
+Breath Weapon (Su) A glass wyrm’s breath weapon is a 40 ft. cone of razor-sharp shards of glass.
+Reflective Hide (Ex) Any mundane or magical light source brought within 30 feet of a glass wyrm causes the light to be reflected as a burst that blinds all creatures within 30 feet for 1d6+4 rounds. A creature can attempt a DC 22 Fortitude save to negate the blinding effect. This otherwise operates like a gaze attack. The save DC is Constitution-based.
+Spell Reflection (Ex) Any spell or spell-like ability that allows spell resistance and targets a glass wyrm (or includes it in its area of effect) is reflected back on the caster if the glass wyrm successfully resists the spell or effect. The original caster becomes the spell’s target (or its point of origin in the case of area spells). A reflected spell can be resisted normally by the caster (and any other creatures affected). A glass wyrm cannot reflect a sonic-based spell or spell-like ability, even if it allows resistance.

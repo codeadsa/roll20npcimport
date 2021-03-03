@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/doppelganger
+Doppelganger (CR 3)
+XP 800
+N Medium monstrous humanoid (shapechanger)
+Init +1; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+1 Dex, +1 dodge, +4 natural)
+hp 26 (4d10+4)
+Fort +4, Ref +5, Will +6
+Immune charm, sleep
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +8 (1d8+4)
+Spell-Like Abilities (CL 18th)
+At will—detect thoughts (DC 13)
+STATISTICS
+Str 18, Dex 13, Con 12, Int 13, Wis 14, Cha 13
+Base Atk +4; CMB +8; CMD 20
+Feats Dodge, Great Fortitude
+Skills Bluff +9 (+13 while using change shape ability), Diplomacy +4, Disguise +9 (+29 while using change shape ability), Perception +9, Sense Motive +6, Stealth +5; Racial Modifiers +4 Bluff, +4 Disguise
+Languages Common
+SQ change shape (alter self), perfect copy, mimicry
+SPECIAL ABILITIES
+Mimicry (Ex) A doppelganger is proficient in all weapons, armor, and shields. In addition, a doppelganger can use any spell trigger or spell completion item as if the spells were on its spell list. Its caster level is equal to its racial Hit Dice.
+Perfect Copy (Su) When a doppelganger uses change shape, it can assume the appearance of specific individuals.

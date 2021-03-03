@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/tojanida
+Tojanida CR 5
+XP 1,600
+N Medium outsider (extraplanar, (water)
+Init +1; Senses all-around vision, darkvision 60 ft.; Perception +14
+DEFENSE
+AC 21, touch 12, flat-footed 19 (+1 Dex, +1 dodge, +9 natural)
+hp 51 (6d10+18)
+Fort +8, Ref +6, Will +3
+Resist electricity 10, fire 10
+OFFENSE
+Speed 10 ft., swim 90 ft.
+Melee bite +9 (1d6+3), 2 claws +9 (1d6+3)
+Space 5 ft.; Reach 5 ft.
+Special Attacks ink cloud
+STATISTICS
+Str 16, Dex 13, Con 17, Int 10, Wis 12, Cha 9
+Base Atk +6; CMB +9; CMD 21 (29 vs. trip)
+Feats Blind-Fight, Dodge, Power Attack
+Skills Bluff +5, Escape Artist +10, Knowledge (planes) +9, Perception +14, Perform (act) +5, Sense Motive +10, Stealth +7, Survival +7, Swim +11; Racial Modifiers +4 Perception
+Languages Aquan
+SPECIAL ABILITIES
+Ink Cloud (Ex) A tojanida can emit a 30-foot-radius sphere of ink once per minute as a free action. The ink provides total concealment in water, and persists for 1 minute. If used out of the water, the jet of ink is a line 30 feet long, and creatures in the area must succeed at a DC 16 Reflex save or be blinded for 1 round. The save DC is Constitution-based.

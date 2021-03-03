@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sea/sea-dragon-very-young
+Very Young Sea Dragon CR 6
+XP 2,400
+CG Medium dragon (water)
+Init +5; Senses dragon senses; Perception +5
+DEFENSE
+AC 19, touch 11, flat-footed 18 (+1 Dex, +8 natural)
+hp 59 (7d12+14)
+Fort +9, Ref +6, Will +8
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (average), swim 60 ft.
+Melee bite +10 (1d8+4), 2 claws +10 (1d6+3), gore +10 (1d6+4)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite and gore)
+Special Attacks breath weapon (30-ft. cone, 4d6 fire damage, DC 15), torrent breath
+
+STATISTICS
+Str 17, Dex 12, Con 15, Int 16, Wis 17, Cha 16
+Base Atk +7; CMB +10; CMD 21 (25 vs. trip)
+Feats Alertness, Great Fortitude, Improved Initiative, Lunge
+Skills Diplomacy +13, Fly +11, Intimidate +13, Knowledge (arcana, nature) +13, Perception +5, Sense Motive +15, Stealth +11, Survival +13, Swim +21
+Languages Aquan, Common, Draconic
+SQ water breathing
+SPECIAL ABILITIES
+Torrent Breath (Su) Instead of a cone of super-heated steam, a very young or older sea dragon can breathe a line of pressurized water twice the length of the sea dragon’s cone breath weapon. This line deals bludgeoning damage.

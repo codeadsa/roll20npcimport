@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/manitou
+Manitou CR 15
+XP 51,200
+NG Huge outsider (native)
+Init +10; Senses darkvision 60 ft., detect evil, true seeing; Perception +34; Aura positive energy (10 ft.)
+DEFENSE
+AC 29, touch 18, flat-footed 22 (+3 deflection, +6 Dex, +1 dodge, +11 natural, –2 size)
+hp 237 (19d10+133); fast healing 5
+Fort +18, Ref +12, Will +17
+Defensive Abilities freedom of movement, greater invisibility; DR 10/cold iron and evil; Immune acid, cold; Resist electricity 30, fire 30; SR 26
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +30 (4d10+12)
+Space 15 ft.; Reach 15 ft.
+Special Attacks spirit stampede
+Spell-Like Abilities (CL 19th; concentration +26)
+Constant—detect evil, freedom of movement, greater invisibility, pass without trace, speak with animals, true seeing
+3/day—heal, neutralize poison, restoration, summon nature’s ally VIII
+1/day—earthquake
+STATISTICS
+Str 34, Dex 23, Con 24, Int 19, Wis 22, Cha 25
+Base Atk +19; CMB +33 (+35 bull rush); CMD 53 (55 vs. bull rush)
+Feats Awesome Blow, Cleave, Combat Reflexes, Dodge, Improved Bull Rush, Improved Initiative, Power Attack, Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (slam)
+Skills Climb +22, Diplomacy +20, Heal +16, Intimidate +10, Knowledge (arcana, geography, history, religion) +14, Knowledge (local, planes) +17, Knowledge (nature) +26, Perception +34, Sense Motive +19, Spellcraft +14, Stealth +17, Survival +28, Swim +22
+Languages Celestial, Common, Sylvan; speak with animals
+SQ token of fortune
+SPECIAL ABILITIES
+Positive Energy Aura (Su) Living creatures within the manitou’s aura heal 5 hit points on its turn each round. A manitou can exclude a number of creatures equal to its Charisma modifier (typically 7) from the aura’s effect, and can cease or resume the aura as a free action.
+Spirit Stampede (Su) Every 1d4 rounds, a manitou can call upon animal spirits to attack, affecting a 60-foot cone and dealing 10d6 points of force damage (Reflex DC 26 half). Using this ability temporarily weakens the manitou’s connection with the natural world, halting its positive energy aura until the stampede is ready to be used again.
+Token of Fortune (Su) A manitou can imbue an small object, such as a stone or necklace, with its blessing. The object’s bearer and any allies within 10 feet gain a +2 luck bonus on saving throws. The manitou can use scrying on the token at will. The manitou can teleport to it (without error) once per day as a swift action. These abilities are lost if the token leaves the manitou’s territory. A manitou may only have one token active at a time.

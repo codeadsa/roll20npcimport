@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/sandman-TOHC
+Sandman CR 3
+XP 800
+N(E) Medium outsider (elemental, extraplanar, earth)
+Init +5; Senses darkvision 60 ft.; Perception +7; Aura sleep aura (20 ft., DC 14)
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 30 (4d10+8)
+Fort +6, Ref +2, Will +4
+Defensive Abilities protection from arrows; Immune elemental traits; SR 15
+OFFENSE
+Speed 30 ft.
+Melee slam +7 (1d4+3 plus sleep)
+STATISTICS
+Str 14, Dex 12, Con 14, Int 10, Wis 11, Cha 14
+Base Atk +4; CMB +6; CMD 17
+Feats Improved Initiative, Weapon Focus (slam)
+Skills Knowledge (arcana) +7, Knowledge (planes) +7, Perception +7, Sense Motive +7, Stealth +8, Use Magic Device +9
+Languages Terran
+SPECIAL ABILITIES
+Sleep (Su) A creature struck by a sandman must succeed on a DC 14 Will save or be affected as though by a sleep spell (caster level 8th). There is no limit to the number of Hit Dice a sandman can affect with this aura. The save DC is Charisma-based. Creatures attacking a sandman unarmed or with natural attacks are also subject to this special attack.
+Sleep Aura (Su) A sandman can radiate a 20-foot-radius sleep aura as a free action. A creature in the area must succeed on a DC 14 Will save or be affected as though by a sleep spell (caster level 8th). There is no limit to the number of Hit Dice a sandman can affect with this aura. A creature that successfully saves cannot be affected again by the same sandman’s sleep aura for one day. The save DC is Charisma-based.
+Protection from Arrows (Su) A sandman is protected by a permanent protection from arrows effect (as the spell) that grants it damage reduction 10/magic against ranged weapons. This ability is inherent and cannot be dispelled.

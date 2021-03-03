@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-marzach-flayer-tohc
+Flayer Devil (Marzach) CR 11
+XP 12,800
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +2; Senses darkvision 60 ft., detect good; Perception +21
+DEFENSE
+AC 27, touch 11, flat-footed 25 (+2 Dex, +16 natural, –1 size)
+hp 174 (12d10+108); regeneration 5 (good, silver)
+Fort +13, Ref +10, Will +10
+DR 10/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 22
+OFFENSE
+Melee 2 claws +21 (1d8+9/19–20), bite +21 (2d6+9)
+Space 10 ft.; Reach 10 ft.
+Special Attacks flensing, unholy burst
+Spell-Like Abilities (CL 12th)
+Constant—detect good
+At will—greater teleport (self plus 50 pounds of objects only), scorching ray
+1/day—wall of fire, unholy aura (DC 20)
+TACTICS
+Flayer devils are ferocious in battle, employing simple, brutal tactics. Given the chance, they always make a full attack, striking with both claws and a bite attempting to rip an opponent’s flesh from its bones. On rounds they do not attack with their natural weapons, they release an unholy burst to sicken those around them before striking again with claws and bite.
+STATISTICS
+Str 29, Dex 15, Con 29, Int 14, Wis 14, Cha 14
+Base Atk +12; CMB +22; CMD 34
+Feats Alertness, Cleave, Improved Critical (claw), Power Attack, Weapon Focus (bite), Weapon Focus (claw)
+Skills Climb +24, Escape Artist +17, Intimidate +17, Knowledge (planes) +17, Perception +21, Sense Motive +21, Stealth +13, Survival +17
+Languages Common, Ignan, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Unholy Burst (Su) Three times per day, a flayer devil can release a burst of hellish black vapor in a 30-foot radius. Those caught within the area must succeed at a DC 25 Fortitude save or be sickened for 1d6 rounds. Additionally, good-aligned creatures suffer 3d6 points of unholy damage from the vapors if they fail their save. The save DC is Constitution-based.
+Flensing (Ex) A flayer devil that scores a critical hit with a claw attack rips the flesh from its opponent’s body. This attack deals 1d3 points of Constitution damage.

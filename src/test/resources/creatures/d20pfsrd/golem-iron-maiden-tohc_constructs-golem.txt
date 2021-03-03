@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-iron-maiden-tohc
+Iron Maiden Golem CR 9
+XP 6,400
+N Large construct
+Init +0; Senses low-light vision, darkvision 60 ft.; Perception +2
+DEFENSE
+AC 25, touch 9, flat-footed 25 (+16 natural, –1 size)
+hp 96 (12d10+30)
+Fort +4; Ref +4; Will +4
+DR 15/adamantine; Immune construct traits, magic
+Weaknesses vulnerability to rust
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +19 (2d10+8 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks animated host, bladed lid, steal essence
+STATISTICS
+Str 27, Dex 10, Con —, Int —, Wis 11, Cha 1
+Base Atk +12; CMB +21 (+25 grapple); CMD 31
+Feats (see below)
+Skills (see below)
+SPECIAL ABILITIES
+Animated Host (Su) Once a victim trapped within an iron maiden has died, it reanimates as a zombie in the next round (as if by an animate dead spell). It cannot escape, however, and serves only to fuel the iron maiden and provide it with skills and abilities. While it is trapped, the zombie cannot be attacked, damaged, turned, rebuked, or commanded, and it doesn’t suffer any damage from the bladed lid. If the lid of the golem is somehow forced open, the zombie has the normal abilities of a Medium zombie. The victim of an iron maiden golem must be alive when it is placed inside and the lid is closed or the golem’s animate host ability fails.
+Bladed Lid (Ex) A living creature inside an iron maiden when the lid is closed is pierced by twenty dagger–like blades, dealing a total of 50 points of piercing damage each round. The lid automatically seals with an arcane lock spell with a caster level equal to that of the iron maiden golem’s creator (14th level usually). The lid can be forced open with a successful Strength check (DC 34) or by casting dispel magic. The knock spell has no effect on the lid. The check DC is Strength–based and includes a +10 bonus from the arcane lock spell.
+Because of the shape of the iron maiden, only a Medium humanoid can be sealed inside.
+Immunity to Magic (Ex) An iron maiden golem is immune to any spell or spell–like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A magical attack that deals electricity damage slows an iron maiden golem (as the slow spell) for 3 rounds, with no saving throw.
+A magical attack that deals fire damage breaks any slow effect on the iron maiden golem and heals
+1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points.
+Steal Essence (Su) An iron maiden golem that has created a host using its animate host ability (see above) gains 10 temporary hit points, uses its own base attack bonus or the host’s (whichever is higher), and can make normal use of the victim’s skills, feats, and non–magical class abilities.
+The golem must substitute its own ability scores when determining its total skill bonuses; therefore it cannot use skills requiring Constitution or Intelligence, and since it cannot speak, many Charisma skills are severely limited. Likewise, the iron maiden golem must meet the requirements for any feat in order to make use of that feat (thus feats such as Dodge and Combat Expertise are unavailable to the golem). An iron maiden cannot use any divine spells or divinely granted special abilities, since the host within is no longer able to receive such abilities from her deity. An iron maiden likewise cannot use any arcane spells as its inherent magic immunity disrupts any attempt to do so.
+Vulnerability to Rust (Ex) An iron maiden golem is affected normally by rust attacks, such as that of a rust monster or a rusting grasp spell.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-tohc/clockwork-parasite
+Clockwork Parasite
+CR 2
+XP 600
+N Tiny construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception –1
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 natural, +2 size)
+hp 22 (4d10); self-repair 1 (acid, cold, fire)
+Fort +1; Ref +1; Will +0
+Immune construct traits
+OFFENSE
+Speed 20 ft.
+Melee bite +7 (1d4+1)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 12, Dex 10, Con —, Int —, Wis 8, Cha 8
+Base Atk +4; CMB +2; CMD 13 (21 vs. trip)
+SQ control host
+SPECIAL ABILITIES
+Control Host (Su) By burrowing into the base of a corpse’s skull and attaching itself with its pincers, a parasite clockwork can animate the creature (similar to an animate dead spell). The animated creature uses its own HD, base attack, saves, and hit points. It has an effective Wisdom of 10 and Charisma of 1. It does not have an Intelligence score. The host loses all skills, feats, class abilities, supernatural abilities, and spell-like abilities (including the ability to cast spells) it possessed in life. It retains its AC and any natural attacks it possessed, including proficiency with weapons. A host retains any proficiency with armor and shields it possessed while alive.
+Spells such as detect undead or detect magic do not reveal the presence of the parasite or host. So long as the parasite clockwork remains in contact with the host, the control remains in effect.
+A host brought to 0 or less hit points is destroyed, but can be repaired by the clockwork parasite using its self-repair ability (though this only works if the host is brought to 0 or less hit points; a host does not gain the self-repair ability of the parasite while “alive”).
+Self-Repair (Ex) A clockwork parasite regains 1 hit point per round. Damage dealt from acid, cold, or fire effects cannot be self-repaired. If reduced to 0 or less hit points, it regains 1 hit point per round (but still cannot repair damage caused by acid, cold, or fire effects).

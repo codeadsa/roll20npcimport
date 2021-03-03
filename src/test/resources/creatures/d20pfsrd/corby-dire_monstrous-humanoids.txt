@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/corby-dire
+Dire Corby CR 1
+XP 400
+NE Medium monstrous humanoid
+Init +1; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 13, touch 11, flat-footed 12 (+1 Dex, +2 natural)
+hp 15 (2d10+4)
+Fort +2, Ref +4, Will +3
+Defensive Abilities ferocity
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee 2 claws +3 (1d4+1)
+Special Attacks leap, rend (2 claws, 1d4+1)
+STATISTICS
+Str 13, Dex 12, Con 15, Int 7, Wis 10, Cha 8
+Base Atk +2; CMB +3; CMD 14
+Feats Blind-Fight, Skill Focus (Stealth)
+Skills Acrobatics +10, Climb +13, Perception +6, Stealth +8; Racial Modifiers +8 Acrobatics, +2 Perception
+Languages Undercommon
+SPECIAL ABILITIES
+Leap (Ex) A dire corby can perform a special kind of pounce attack by jumping into combat. When a dire corby charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it succeeds at this Acrobatics check, it can make a full attack (two claw attacks, plus a rend attack if both claws hit) against foes in reach. If it fails, it can still make its one attack as normal for a charge.

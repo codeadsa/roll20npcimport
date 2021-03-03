@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/cavelight-moss-kp
+Cavelight Moss CR 6
+XP 2,400
+N Large plant
+Init +0; Senses low-light vision, tremorsense 30 ft.; Perception +11
+DEFENSE
+AC 18, touch 9, flat-footed 18 (+9 natural, -1 size)
+hp 76 (9d8+36)
+Fort +13, Ref +5, Will +6
+DR 5/slashing; Immune plant traits; Resist acid 10, cold 10, fire 10
+OFFENSE
+Speed 5 ft., climb 5 ft.
+Melee 2 tendrils +12 (1d6+7 plus 1d6 Str drain)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (1d4+7), grab, 1d6 Str drain
+STATISTICS
+Str 25, Dex 10, Con 18, Int 1, Wis 13, Cha 5
+Base Atk +6; CMB +13; CMD 23
+Feats Ability Focus (Strength drain), Alertness, Power Attack
+Skills Perception +11; Racial Modifiers +12 Stealth (when near darkglow moss or other luminescent plants)
+SPECIAL ABILITIES
+Luminescence (Ex) The chemicals within cavelight moss cause the entire creature to glow and shed light as a torch. A cavelight moss cannot suppress this effect. It can, however, diminish the light produced to shed illumination as a candle.
+Strength Drain (Su) Living creatures hit by a cavelight moss’s tendril attack or caught up in its grapple must succeed on a DC 20 Fort saving throw (Con-based) or take 1d6 Strength drain. A creature that makes its Fort save is immune to that particular cavelight moss’s Strength drain ability for 24 hours. On each successful attack, a cavelight moss gains 5 temporary hp.

@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/shedu-ff/shedu-greater-ff
+Greater Shedu CR 10
+XP 9,600
+LG Large magical beast (good, lawful)
+Init +5; Senses darkvision 60 ft., detect evil, discern lies, low-light vision; Perception +21; Aura magic circle against evil
+DEFENSE
+AC 21, touch 10, flat-footed 19 (+1 Dex, +11 natural, -1 size)
+hp 147 (14d10+70)
+Fort +14, Ref +10, Will +10
+OFFENSE
+Speed 40 ft., fly 80 ft. (average)
+Melee 2 hooves +20 (2d8+7)
+Space 10 ft.; Reach 5 ft.
+Spell-Like Abilities (CL 14th)
+Constant—detect evil, discern lies (DC 19), magic circle against evil
+At will—astral projection (self only), clairaudience/clairvoyance, detect magic, invisibility
+2/day—dominate person (DC 20), telekinesis (DC 20)
+Class Spells Prepared (CL 10th)
+5th—atonement, mass cure light wounds (DC 19)
+4th—divination, divine power, restoration, spell immunity
+3rd—create food and water, dispel magic (DC 17), magic vestment, remove curse (DC 17)
+2nd—aid, bull’s strength (DC 16), cure moderate wounds (DC 16), remove paralysis, resist energy
+1st—bless, cure light wounds (DC 15), divine favor, endure elements, entropic shield
+0—create water, guidance (2), read magic, resistance, virtue
+STATISTICS
+Str 24, Dex 12, Con 20, Int 18, Wis 18, Cha 20
+Base Atk +14; CMB +22; CMD 33 (37 vs. trip)
+Feats Blind-Fight, Flyby Attack, Improved Initiative, Improved Natural Attack (hoof), Iron Will, Power Attack, Skill Focus (Diplomacy)
+Skills Diplomacy +28, Fly +6, Knowledge (arcana) +17, Knowledge (planes) +10, Knowledge (religion) +14, Perception +18, Sense Motive +21, Survival +16; Racial Modifiers Diplomacy, Knowledge (arcana), and Sense Motive are class skills
+Languages Auran, Celestial, Common, Draconic, telepathy 100 ft.
+SQ Ethereal jaunt
+SPECIAL ABILITIES
+Speaker of the Law (Su) Three times per day a greater shedu can speak a word of power. Chaotic creatures in a 30-ft. radius are stunned for 1d4 rounds if they fail a DC 22 Will save. On a successful save chaotic creatures are dazed for 1 round. A creature that saves is immune to any further uses of that shedu’s ability for 24 hours. This is a sonic, mind-affecting effect. The save DC is Charisma-based.
+Ethereal Jaunt (Su) As a move action, a shedu can move from the Ethereal Plane to the Material Plane as a free action and shift back as a move action. Otherwise, this ability is identical to the ethereal jaunt spell.
+Spells Greater shedu cast spells as a 10th-level cleric but do not gain access to domains or other clerical abilities.

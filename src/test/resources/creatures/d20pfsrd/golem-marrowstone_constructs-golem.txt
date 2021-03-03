@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-marrowstone
+Marrowstone Golem CR 8
+XP 4,800
+N Large construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0; Aura necrotic field (30 ft.)
+DEFENSE
+AC 21, touch 9, flat-footed 21 (+12 natural, –1 size)
+hp 85 (10d10+30)
+Fort +3, Ref +3, Will +3
+DR 10/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +14 (2d6+5 plus 2d6 negative energy)
+Space 10 ft.; Reach 10 ft.
+Special Attacks create spawn
+STATISTICS
+Str 20, Dex 11, Con –, Int –, Wis 11, Cha 1
+Base Atk +10; CMB +16; CMD 26
+SPECIAL ABILITIES
+Create Spawn (Su) Any humanoid creature that is slain by a marrowstone golem rises from death as a free-willed ghoul in 24 hours. A creature with four or more class levels rises as a ghast instead. In either case, the ghoul or ghast has a 25% chance of retaining whatever class levels it had in life.
+Immunity to Magic (Su) A marrowstone golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the golem, as noted below.
+A transmute rock to mud spell slows a marrowstone golem (as the slow spell) for 2d6 rounds, with no saving throw. Effects that heal undead heal half that amount of damage to a marrowstone golem, to a limit of its full normal hit points. A marrowstone golem that fails its save against a magical attack that deals positive energy damage (including the channel energy ability when used to harm undead, but not when used to heal living creatures) does not take any damage from the attack, but it loses its create spawn ability, its necrotic field aura, and the negative energy damage from its slam attack for 1d4 rounds. Necrotic Field (Su) Undead within 30 feet of a marrowstone golem gain a +2 resistance bonus on saving throws, increase the save DCs of their extraordinary and supernatural abilities by 2, and gain a +4 bonus to channel resistance. Positive energy effects cause only half damage to a creature within the marrowstone golem’s aura. Their aura particularly strengthens ghouls and ghasts, giving them a +2 bonus on attack and weapon damage rolls.
+
+Marrowstone Golem Construction
+A marrowstone golem’s body is chiseled from a single block of marrowstone weighing at least 2,500 pounds. Preparing the stone requires the use of exotic unguents that cost 2,500 gp.
+CL 11th; Price 42,500 gp
+CONSTRUCTION REQUIREMENTS
+Feats Craft Construct; Spells animate objects, antilife shell, create undead; Caster Level 11; Skill(s) Craft (sculpture) or Craft (stonemasonry) DC 21; Cost 22,500 gp

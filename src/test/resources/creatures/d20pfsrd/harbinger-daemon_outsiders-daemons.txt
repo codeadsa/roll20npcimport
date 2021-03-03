@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/harbinger-daemon
+Harbinger Daemon
+CR 21
+XP 409,600
+NE Large outsider (daemon, evil, extraplanar, fire)
+Init +5; Senses darkvision 60 ft., scent, true seeing; Perception +33
+Aura unholy aura
+DEFENSE
+AC 39, touch 13, flat-footed 35 (+11 armor, +3 Dex, +1 dodge, +15 natural, –1 size)
+hp 396 (24d10+264)
+Fort +19, Ref +19, Will +20
+Defensive Abilities blur (20% miss chance); Immune ability damage, acid, charm and compulsion effects, death effects, disease, fire, poison; Resist cold 30, electricity 30; SR 32
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 30 ft., fly 60 ft. (perfect)
+Melee bite +34 (1d8+11 plus 2d6 fire), 2 claws +35 (1d10+11/19–20 plus 2d6 fire)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bitter flames, corpse cremation, incandescent body, incendiary grasp, pounce, rake (2 claws +35, 1d10+11 plus 2d6 fire)
+Spell-Like Abilities (CL 24th; concentration +30)
+Constant–blur, true seeing, unholy aura (DC 24)
+At will–blistering invective (DC 18), dispel good (DC 21), fire shield, mass charm monster (creatures of the fire subtype only) (DC 24)
+3/day–empowered fire storm (DC 24), incendiary cloud (DC 24), quickened contagious flame, sirocco (DC 22)
+1/day–summon (level 9, 2 fiendish elder fire elementals or any daemon of 20 Hit Dice or fewer 100%)
+STATISTICS
+Str 33, Dex 21, Con 32, Int 17, Wis 22, Cha 23
+Base Atk +24; CMB +36; CMD 52
+Feats Blind-Fight, Charge Through, Combat Reflexes, Dodge, Empower Spell-Like Ability (fire storm), Greater Overrun, Improved Critical (claw), Improved Overrun, Mobility, Power Attack, Quicken Spell-Like Ability (contagious flame), Weapon Focus (claw)
+Skills Acrobatics +29, Bluff +20, Diplomacy +20, Fly +26, Intimidate +33, Knowledge (planes) +30, Perception +33, Sense Motive +29, Spellcraft +24, Stealth +25, Survival +27
+Languages Abyssal, Common, Ignan, Infernal; telepathy 300 ft.
+SQ daemonic harbinger traits
+SPECIAL ABILITIES
+Bitter Flames (Su) Whenever the harbinger deals fire damage with any attack or effect, half of the damage is fire damage and the other half is untyped damage, similar to a flame strike spell. In addition, creatures that fail a save against any fire effect he creates are sickened for 1 minute. Those damaged by his melee attacks or by fire effects that allow no save are instead sickened for 1 round per attack. This duration stacks.
+Corpse Cremation (Su) Whenever the harbinger reduces a living creature to negative hit points, as a swift action he can turn its body to ashes and feed upon the target’s life force, as death knell (Will DC 28 negates). Whenever he slays a creature with any attack or ability, the creature’s corpse is reduced to ashes (treat as disintegrate).
+Daemonic Harbinger Traits A daemonic harbinger is a powerful daemon that has not yet made the full transition from unique daemon to a horseman. It possesses several traits, as summarized here.
+Immunity to acid, charm and compulsion effects, death effects, disease, and poison. Resistance to cold 30, electricity 30, and fire 30. Telepathy 300 feet. The harbinger’s natural weapons, as well as any weapon it wields, are treated as evil and lawful for the purpose of overcoming damage reduction. The harbinger can grant spells to its worshipers. Granting spells does not require any specific action on its behalf. The harbinger grants access to the domains of Evil, Law, Magic, and Trickery. His favored weapon is the quarterstaff. Incandescent Body (Su) As a free action, the harbinger can cause his body to erupt into white-hot flame. He sheds light as bright as a daylight spell, and dazzles any creature that does not avert its gaze. Creatures with the fire subtype are immune to this dazzling effect. The harbinger can dim his flames to burning black shadows as a free action, suppressing the dazzling effect and allowing him to use Stealth without penalty.
+Incendiary Grasp (Su) If the harbinger hits a target with more than one natural weapon in the same round, the fire damage from each hit is combined as if from a single attack for the purpose of overcoming effects that provide resistance to fire. In addition, if he succeeds at a grapple combat maneuver, as a swift action he can suppress any fire resistance or immunity the target possesses until the beginning of his next turn. Creatures with the fire subtype are immune to this effect, unless that subtype is granted by a temporary magical effect or magic item.

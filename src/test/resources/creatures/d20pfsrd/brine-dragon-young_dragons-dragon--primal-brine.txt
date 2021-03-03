@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-brine/brine-dragon-young
+Bring Dragon, Young CR 7
+XP 3,200
+LN Medium dragon (extraplanar, water)
+Init +5; Senses dragon senses; Perception +12
+DEFENSE
+AC 20, touch 11, flat-footed 19 (+1 Dex, +9 natural)
+hp 68 (8d12+16)
+Fort +8, Ref +7, Will +7
+Immune acid, paralysis, sleep
+OFFENSE
+Speed 60 ft., fly 150 ft. (average), swim 60 ft.
+Melee bite +15 (1d8+10), 2 claws +15 (1d6+7), 2 wings +10 (1d4+3)
+Special Attacks breath weapon (60-ft. line, 6d6 acid, DC 16)
+Spell-Like Abilities (CL 8th; concentration +9)
+At will—obscuring mist, speak with animals (fish only)
+Spells Known (CL 1st; concentration +2)
+1st (4/day)—color spray (DC 12), touch of the sea*
+0 (at will)—detect magic, mage hand, open/close, prestidigitation
+* Denotes spell from Advanced Players Guide.
+
+STATISTICS
+Str 24, Dex 13, Con 15, Int 15, Wis 12, Cha 13
+Base Atk +8; CMB +15; CMD 26 (30 vs. trip)
+Feats Hover, Improved Initiative, Power Attack, Skill Focus (Swim)
+Skills Diplomacy +12, Fly +12, Heal +12, Knowledge (nature) +13, Perception +12, Sense Motive +12, Survival +12, Swim +29
+Languages Aquan, Common, Draconic
+SQ water breathing
+

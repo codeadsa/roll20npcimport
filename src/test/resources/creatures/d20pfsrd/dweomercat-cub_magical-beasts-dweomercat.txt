@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/dweomercat/dweomercat-cub
+Dweomercat Cub CR 2
+XP 600
+CN Tiny magical beast
+Init +2; Senses darkvision 60 ft., scent; Perception +5
+DEFENSE
+AC 16, touch 15, flat-footed 13 (+2 Dex, +1 dodge, +1 natural, +2 size)
+hp 16 (3d10)
+Fort +3, Ref +5, Will +2
+DR 5/magic; SR 14
+OFFENSE
+Speed 20 ft.
+Melee 2 claws +7 (1d2–1), bite +7 (1d3–1)
+Special Attacks dweomer leap, pounce, rake (2 claws +6, 1d2–1)
+Spell-Like Abilities (CL 4th)
+Constant—detect magic
+1/week—dimension door (self only)
+STATISTICS
+Str 9, Dex 15, Con 10, Int 9, Wis 12, Cha 14
+Base Atk +3; CMB +3; CMD 13 (17 vs. trip)
+Feats Dodge, Weapon Finesse
+Skills Climb +3, Knowledge (arcana) +0, Perception +5, Stealth +4; Racial Modifiers +4 Climb
+Languages Common, Sylvan
+SPECIAL ABILITIES
+Dweomer Leap (Su) When a dweomercat cub is targeted by a spell or within the area of effect of a spell, it can, as an immediate action, choose to teleport to a square adjacent to the spell’s caster, effectively appearing mid-leap and aimed toward the caster. This ability takes effect regardless of whether or not the spell overcomes the dweomercat cub’s spell resistance. If it chooses, the dweomercat cub can immediately make a full attack against the spell’s caster as though pouncing. Using this ability does not provoke an attack of opportunity. If there is no safe space adjacent to the caster—or if the dweomercat cub’s chooses—the dweomercat cub can forgo using this ability.

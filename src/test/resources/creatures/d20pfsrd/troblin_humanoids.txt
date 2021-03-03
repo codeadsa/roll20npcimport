@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/troblin
+Troblin CR 2
+XP 600
+CE Medium humanoid (goblinoid)
+Init +1; Senses darkvision 60 ft.; Perception +2
+DEFENSE
+AC 13, touch 11, flat-footed 12 (+1 Dex, +2 natural)
+hp 22 (3d8+6 plus 3); regeneration 2 (acid or fire)
+Fort +5, Ref +4, Will +1
+OFFENSE
+Speed 30 ft.
+Melee greatclub +5 (1d10+4), bite +0 (1d6+1) or 2 claws +5 (1d4+3), bite +5 (1d6+3)
+TACTICS
+Troblins are a disorganized lot, and rarely engage in any sort of formal tactics or strategy. When a troblin war band encounters opponents, they simply attack with as much strength and ferocity as they can muster. Troblins are even more craven and cowardly than goblins, and a lone troblin usually runs from any combat in which it is outnumbered.
+STATISTICS
+Str 16, Dex 12, Con 15, Int 8, Wis 11, Cha 7
+Base Atk +2; CMB +5; CMD 16
+Feats Great Fortitude, Toughness
+Skills Perception +2, Stealth +2
+Languages Giant
+SQ mutation
+Gear greatclub
+SPECIAL ABILITIES
+Mutation (Ex) The regenerative ability of a troblin does not function as well as those of its trollish parent. Sometimes when an injured troblin regenerates, its body warps in an inexplicable fashion. A severed arm may regrow as two arms, or a scar may grow to cover the troblin’s entire body in thick skin. Further, if a troblin suffers a critical hit in melee, it has a 25% chance of gaining a mutation once it is fully healed.

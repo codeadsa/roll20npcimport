@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demodand/demodand-shaggy
+Shaggy Demodand CR 18
+XP 153,600
+CE Medium outsider (chaotic, demodand, evil, extraplanar)
+Init +11; Senses blindsense 30 ft., darkvision 60 ft., detect good, detect magic, see invisibility; Perception +36
+DEFENSE
+AC 32, touch 17, flat-footed 25 (+7 Dex, +15 natural)
+hp 262 (25d10+125)
+Fort +19, Ref +17, Will +18; +4 vs. divine spells
+DR 15/good and magic; Immune acid, poison; Resist cold 10, fire 10; SR 29
+OFFENSE
+Speed 40 ft., fly 50 ft. (average)
+Melee +2 unholy morningstar +36/+31/+26/+21 (1d8+11), bite +32 (2d6+4), claw +32 (1d6+4) or bite +34 (2d6+9), 2 claws +34 (1d6+9)
+Special Attacks faith-stealing strike
+Spell-Like Abilities (CL 20th; concentration +25)
+Constant—detect good, detect magic, see invisibility
+At will—detect thoughts (DC 17), fear (DC 19), gaseous form, greater dispel magic, invisibility (self only), magic circle against good
+3/day—empowered cloudkill (DC 20), fog cloud, quickened ray of enfeeblement (DC 16), stinking cloud (DC 18)
+1/day—blasphemy (DC 22), chaos hammer (DC 19), mass charm monster (DC 23), summon (level 6, 1d6 tarry demodands or 1d4 slimy demodands 60%)
+STATISTICS
+Str 29, Dex 24, Con 21, Int 19, Wis 18, Cha 20
+Base Atk +25; CMB +34; CMD 51
+Feats Alertness, Cleave, Combat Casting, Combat Reflexes, Empower Spell-Like Ability (cloudkill), Flyby Attack, Great Cleave, Improved Initiative, Intimidating Prowess, Lightning Reflexes, Multiattack, Power Attack, Quicken Spell-Like Ability (ray of enfeeblement)
+Skills Acrobatics +35 (+39 when jumping), Bluff +28, Diplomacy +28, Fly +35, Intimidate +42, Knowledge (arcana) +26, Knowledge (planes) +15, Knowledge (religion) +15, Perception +36, Sense Motive +36, Spellcraft +29, Use Magic Device +30
+Languages Abyssal, Celestial, Common
+SQ heretical soul

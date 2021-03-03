@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/siyokoy
+Siyokoy CR 10
+XP 9,600
+N Medium aberration (aquatic)
+Init +5; Senses blindsight 60 ft., darkvision 60 ft., scent; Perception +22
+DEFENSE
+AC 26, touch 16, flat-footed 20 (+5 Dex, +1 dodge, +10 natural)
+hp 136 (13d8+78)
+Fort +10, Ref +9, Will +10
+DR 10/slashing; Immune cold, electricity, poison
+Weaknesses light sensitivity
+OFFENSE
+Speed 30 ft., swim 60 ft.
+Melee bite +18 (1d6+9/19-20 plus grab), 2 claws +18 (1d6+9), tail slap +14 (1d6+4 plus stunning shock)
+Space 5 ft.; Reach 5 ft. (10 ft. with tail slap)
+Special Attacks constrict (2d6+4), stunning shock, swim-by attack
+STATISTICS
+Str 28, Dex 21, Con 22, Int 12, Wis 15, Cha 11
+Base Atk +9; CMB +18 (+24 grapple); CMD 34
+Feats Alertness, Dodge, Improved Critical (bite), Improved Grapple, Power Attack, Stealthy, Weapon Focus (tail slap)
+Skills Disable Device +16, Escape Artist +7, Intimidate +9, Knowledge (geography) +10, Perception +22, Sense Motive +4, Stealth +25, Survival +16, Swim +25
+Languages Aquan
+SPECIAL ABILITIES
+Stunning Shock (Su) A siyokoy can emit a strong electrical charge from its tail. When it hits a creature with its tail slap, the attack deals 3d6 points of electrical damage and the target must succeed at a DC 22 Fortitude save or be stunned for 1d4 rounds.
+Swim-By Attack (Ex) Extremely quick in the water, a siyokoy gains Spring Attack as a bonus feat when swimming.

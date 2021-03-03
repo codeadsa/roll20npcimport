@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/seps
+Seps CR 11
+XP 12,800
+N Huge magical beast
+Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception +17
+DEFENSE
+AC 26, touch 10, flat-footed 24 (+2 Dex, +16 natural, –2 size)
+hp 147 (14d10+70)
+Fort +14, Ref +11, Will +6
+Defensive Abilities acid blood; Immune acid, poison
+OFFENSE
+Speed 30 ft.
+Melee bite +23 (3d8+15/19–20 plus poison)
+Space 15 ft.; Reach 15 ft.
+Special Attacks poison
+STATISTICS
+Str 30, Dex 14, Con 21, Int 2, Wis 11, Cha 11
+Base Atk +14; CMB +26; CMD 38 (can’t be tripped)
+Feats Improved Critical (bite), Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (bite)
+Skills Perception +17, Stealth +11; Racial Modifiers +4 Perception, +4 Stealth
+SQ liquefaction
+SPECIAL ABILITIES
+Acid Blood (Ex) A metal, wooden, or natural weapon that deals piercing or slashing damage to a seps takes 4d6 points of acid damage unless the weapon’s wielder succeeds at a DC 22 Reflex save at the listed DC. The DC is Constitution-based.
+Liquefaction (Su) Any creature killed by seps poison dissolves into an acidic liquid that deals 2d6 points of acid damage per round to anything in its square (including the dead creature’s equipment).
+Poison (Ex) Bite—injury; save Fort DC 22; frequency 1/round for 10 rounds; effect 1d8 acid damage and 1d4 Con drain; cure 2 consecutive saves.
+Subpages
+Seps, Juvenile

@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/shark/dire-shark
+Dire Shark (Megalodon) CR 9
+XP 6,400
+N Gargantuan animal (aquatic)
+Init +6; Senses blindsense 30 ft., keen scent; Perception +25
+DEFENSE
+AC 23, touch 8, flat-footed 21 (+2 Dex, +15 natural, –4 size)
+hp 112 (15d8+45)
+Fort +14, Ref +13, Will +8
+OFFENSE
+Speed swim 60 ft.
+Melee bite +17 (4d10+15/19–20 plus grab)
+Space 20 ft.; Reach 20 ft.
+Special Attacks swallow whole (2d6+15 damage, AC 17, 11 hp)
+STATISTICS
+Str 30, Dex 15, Con 17, Int 1, Wis 12, Cha 10
+Base Atk +11; CMB +25 (+29 grapple); CMD 37
+Feats Bleeding Critical, Critical Focus, Great Fortitude, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Skill Focus (Perception)
+Skills Perception +25, Swim +18

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dog/breeds/bulldog
+Bulldog CR 1/3
+XP 135
+N Small Animal
+Init +1; Senses low-light vision, scent; Perception +8
+
+DEFENSE
+AC 13, touch 12, flat-footed 12 (+1 Dex, +1 natural, +1 size)
+hp 6 (1d8+2)
+Fort +4, Ref +3, Will +1
+
+OFFENSE
+Speed 40 ft.
+Melee bite +2 (1d4+1 plus grab)
+STATISTICS
+Str 13, Dex 13, Con 15, Int 2, Wis 12, Cha 6
+Base Atk +0; CMB +0; CMD 11 (15 vs. trip)
+Feats Skill Focus (Perception)
+Skills Acrobatics +1 (+9 jumping), Perception +8, Survival +1 (+5 scent tracking); Racial Modifiers +4 Acrobatics when jumping, +4 Survival when tracking by scent
+SPECIAL ABILITIES
+Lockjaw (Ex)
+The Bulldog’s jaw muscles are extremely strong and once it locks on to something it is very hard to get it to let go. The Bulldog can attempt to grab its opponent on a successful bite attack.
+
+Carrying Capacity: A light load for a Bulldog is up to 50 pounds; a medium load, 51-100 pounds; a heavy load, 101-150 pounds. A Bulldog can drag 750 pounds.
+
+Average Price: 30gp
+

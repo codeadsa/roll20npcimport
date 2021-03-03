@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/sudoth-tohc
+Sudoth CR 3
+XP 800
+N Medium aberration (aquatic)
+Init +3; Senses all-around vision, darkvision 60 ft., watersense 60 ft.; Perception +12
+DEFENSE
+AC 16, touch 13, flat-footed 13 (+3 Dex, +3 natural)
+hp 26 (4d8+8)
+Fort +3, Ref +4, Will +5
+Defense DR 5/slashing or piercing
+Weakness Water dependant
+OFFENSE
+Speed 5 ft., swim 30 ft.
+Melee 2 slam +7 (1d6+4), spear +7 (1d8+4), tentacle +5 (1d8+2 plus paralysis)
+Special Attacks paralysis (1d6 rounds, DC 14)
+TACTICS
+Hunters by nature, sudoth are often encountered while on a hunting excursion.
+A common tactic is to grapple and paralyze a foe with its tail tentacles, and finish them off with stabs from their spear. Their tail tentacles excrete a paralytic substance.
+STATISTICS
+Str 18, Dex 16, Con 14, Int 11, Wis 12, Cha 8
+Base Atk +3; CMB +7; CMD 20
+Feats Multiattack, Swim-By Attack
+Skills Perception +12, Stealth +10, Survival +8, Swim +19, Racial Modifiers +4 Perception
+SPECIAL ABILITIES
+Water Dependent (Ex) A sudoth can survive out of the water for 1 hour per 2 points of Constitution and then begins suffocating.
+Watersense (Ex) A sudoth can automatically pinpoint anything in contact with the water within 60 feet.

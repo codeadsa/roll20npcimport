@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/zombie/zombie-unhallowed
+Unhallowed Zombie CR 1/2
+XP 200
+NE Medium undead
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 12, touch 10, flat-footed 12 (+2 natural)
+vs. Good Creatures: AC 14, touch 12, flat-footed 12 (+2 deflection, +2 natural)
+hp 12 (2d8+3)
+Fort +0, Ref +0, Will +3
+vs. Good Creatures: Fort +2, Ref +2, Will +5
+DR 5/slashing; Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee slam +4 (1d6+4)
+STATISTICS
+Str 17, Dex 10, Con —, Int —, Wis 10, Cha 10
+Base Atk +1; CMB +4; CMD 14
+Feats ToughnessB
+Special Qualities staggered
+Editor’s Note
+An Unhallowed creature is an undead creature that has the effects of the unhallow spell already applied to it (it has the ” Unhallowed Creature” template.)

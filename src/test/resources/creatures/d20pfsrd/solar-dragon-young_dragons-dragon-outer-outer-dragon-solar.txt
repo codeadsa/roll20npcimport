@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-outer/outer-dragon-solar/solar-dragon-young
+Young Solar Dragon CR 9
+XP 6,400
+LN Large dragon (fire)
+Init +6; Senses dragon senses, see in darkness; Perception +15
+DEFENSE
+AC 21, touch 11, flat-footed 19 (+2 Dex, +10 natural, –1 size)
+hp 115 (11d12+44)
+Fort +10, Ref +11, Will +10
+Immune fire, paralysis, sleep
+Weakness vulnerable to cold
+OFFENSE
+Speed 50 ft., fly 200 ft. (poor)
+Melee bite +16 (1d8+9), 2 claws +16 (1d6+6), 2 wings +14 (1d6+3)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (80-ft. line, 6d10 fire, DC 18), channel life (6/day), primal fire
+Spell-Like Abilities (CL 1st; concentration +4)
+At will—detect magic
+Sorcerer Spells Known (CL 1st; concentration +4)
+1st (4/day)—color spray (DC 14), mage armor
+0 (at will)—bleed (DC 13), detect poison, flare (DC 13), read magic
+STATISTICS
+Str 22, Dex 15, Con 16, Int 15, Wis 12, Cha 17
+Base Atk +11; CMB +18; CMD 30 (34 vs. trip)
+Feats Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Quick Channel, Toughness
+Skills Diplomacy +17, Fly +10, Knowledge (arcana, history, nature, planes) +16, Perception +15, Sense Motive +15
+Languages Celestial, Common, Draconic
+SQ no breath, starflight
+SPECIAL ABILITIES
+Alien Presence (Su) A creature that fails its saving throw against a solar dragon’s alien presence is blinded for 5d6 rounds (or permanently if it has 4 Hit Dice or fewer).
+Channel Life (Su) A solar dragon can channel positive energy a number of times per day equal to 3 + its Charisma modifier, using its age category + 2 as its cleric level. This energy can be used only to heal living creatures.
+Primal Fire (Su) A very young or older solar dragon’s breath weapon can affect creatures normally immune or resistant to fire damage. A creature immune to fire damage still takes half damage from the breath weapon (no damage with a successful saving throw). A resistant creature’s fire resistance is treated as 10 less than normal.

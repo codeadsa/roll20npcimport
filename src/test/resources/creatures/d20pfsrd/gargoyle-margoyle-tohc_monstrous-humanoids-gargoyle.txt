@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/gargoyle/gargoyle-margoyle-tohc
+Margoyle
+CR 5
+XP 1,600
+CE Medium monstrous humanoid (earth)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 63 (6d10+24 plus 6)
+Fort +6; Ref +7; Will +6
+DR 10/magic
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee 2 claws +9 (1d6+3), bite +9 (1d6+3), gore +9 (1d6+3)
+STATISTICS
+Str 17, Dex 15, Con 19, Int 8, Wis 12, Cha 8
+Base Atk +6; CMB +9; CMD 21
+Feats Power Attack, Skill Focus (Fly), Toughness
+Skills Fly +14, Perception +10, Stealth +10 (+16 stony environs), Survival +7; Racial Modifiers +2 Perception, +2 Stealth (+8 Stealth in stony environs)
+Languages Common, Terran
+SQ freeze
+SPECIAL ABILITIES
+Freeze (Ex) A margoyle can hold itself so still it appears to be a statue. A margoyle that uses freeze can take 20 on its Stealth check to hide in plain sight as a stone statue.

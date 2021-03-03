@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/elephant/elephant-mastodon
+Mastodon CR 9
+XP 6,400
+N Huge animal
+Init +1; Senses low-light vision, scent; Perception +24
+DEFENSE
+AC 21, touch 9, flat-footed 20 (+1 Dex, +12 natural, –2 size)
+hp 133 (14d8+70)
+Fort +14, Ref +10, Will +7
+OFFENSE
+Speed 40 ft.
+Melee gore +21 (2d8+12), slam +20 (2d6+12)
+Space 15 ft.; Reach 15 ft.
+Special Attacks trample (2d8+18, DC 29)
+STATISTICS
+Str 34, Dex 12, Con 21, Int 2, Wis 13, Cha 7
+Base Atk +10; CMB +24, CMD 35 (39 vs. trip)
+Feats Endurance, Improved Bull Rush, Improved Iron Will, Iron Will, Power Attack, Skill Focus (Perception), Weapon Focus (gore)
+Skills Perception +24

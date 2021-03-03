@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/jack-o-lantern-tohc
+Jack-O-Lantern CR 3
+XP 800
+N Medium plant
+Init +3; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 15, touch 14, flat-footed 11 (+3 Dex, +1 dodge, +1 natural)
+hp 33 (6d8+6)
+Fort +6, Ref +5, Will +2
+Immune plant traits
+OFFENSE
+Speed 30 ft.
+Melee 3 slams +6 (1d6+2 plus grab) or pitchfork +6 (1d6+3)
+Special Attacks constrict (1d6+2), rend (2 slams, 2d6+3)
+Spell-like Abilities (CL 11th);
+1/day—fire seeds (first version only on its own seeds, ranged touch +7, DC 17)
+STATISTICS
+Str 14, Dex 16, Con 13, Int 6, Wis 11, Cha 2
+Base Atk +4; CMB +6 (+10 to grapple); CMD 20
+Feats Dodge, Mobility, Skill Focus (Stealth)
+Skills Perception +6, Stealth +16; Racial Modifiers +4 Stealth
+Gear rusty pitchfork

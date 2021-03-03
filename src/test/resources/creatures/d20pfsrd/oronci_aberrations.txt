@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/oronci
+Oronci CR 5
+XP 1,600
+CE Large aberration
+Init +3; Senses darkvision 120 ft., tremorsense 60 ft.; Perception +5
+DEFENSE
+AC 20, touch 12, flat-footed 17 (+3 Dex, +6 natural, +2 shield, –1 size)
+hp 59 (7d8+28)
+Fort +6, Ref +5, Will +5
+Defensive Abilities ferocity
+Weaknesses light sensitivity
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee mwk battleaxe +11 (1d8+6/x3), bite +10 (1d6+9 plus poison)
+Ranged mwk longbow +8 (1d8/x3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks frenzy, spit
+STATISTICS
+Str 23, Dex 17, Con 18, Int 7, Wis 10, Cha 16
+Base Atk +5; CMB +12 (+14 overrun); CMD 25 (27 vs. overrun; can’t be tripped)
+Feats Acrobatic Steps, Improved Overrun, Nimble Moves, Power Attack
+Skills Acrobatics +8 (+12 when jumping), Climb +16, Perception +5, Stealth +6, Swim +8
+Languages Orc
+SPECIAL ABILITIES
+Frenzy (Ex) Once per day, an oronci that takes damage in combat can fly into a frenzy as a free action the following round. While in this state, an oronci cannot use any Charisma-, Dexterity-, or Intelligence-based skill checks, but functions as if under the effects of a haste spell. The oronci can continue to frenzy for up to 3 rounds, after which it is staggered for 1 round.
+Poison (Ex) Bite–injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d3 Dex; cure 2 consecutive saves.
+Spit (Ex) An oronci can spit poison at a target within 30 feet as a standard action. This is a ranged touch attack, and can only be performed once every 1d6 rounds. If the attack is successful, the target is affected by the poison just as if it had been injured. The oronci can still poison a target with each successful bite attack.
+Undersized Weapons (Ex) Although an oronci is Large, its upper torso is the same size as that of a Medium humanoid. As a result, oronci wield weapons as if they were one size category smaller than their actual size (Medium for most oronci).

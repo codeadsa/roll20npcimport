@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/erodaemon
+Erodaemon CR 11
+XP 12,800
+NE Medium outsider (daemon, evil, extraplanar)
+Init +9; Senses darkvision 60 ft., detect good, detect thoughts; Perception +20
+DEFENSE
+AC 25, touch 16, flat-footed 19 (+5 Dex, +1 dodge, +9 natural)
+hp 147 (14d10+70)
+Fort +9, Ref +14, Will +12
+DR 10/good or silver; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 22
+OFFENSE
+Speed 30 ft.
+Melee bite +19 (1d6+4 plus 1d4 Charisma drain), 2 claws +19 (1d6+4)
+Special Attacks object of desire, wilting kiss
+Spell-Like Abilities (CL 14th; concentration +20)
+Constant—detect good, detect thoughts, tongues
+At will—death knell (DC 18), greater teleport (self plus 50 lbs. of objects only), unnatural lust (DC 18)
+3/day—desecrate, quickened crushing despair (DC 20), enervation, suggestion (DC 19)
+1/day—modify memory (DC 20), summon (level 4, 1d3 ceustodaemons 35%), utter contempt (DC 20)
+STATISTICS
+Str 18, Dex 21, Con 21, Int 19, Wis 16, Cha 22
+Base Atk +14; CMB +19; CMD 34
+Feats Agile Maneuvers, Deceitful, Dodge, Improved Initiative, Quicken Spell-Like Ability (crushing despair), Skill Focus (Bluff), Weapon Finesse
+Skills Bluff +33, Diplomacy +23, Disguise +24, Intimidate +23, Knowledge (local) +21, Knowledge (planes) +21, Perception +20, Sense Motive +20, Sleight of Hand +22, Stealth +22
+Languages Abyssal, Draconic, Infernal; telepathy 100 ft., tongues
+SPECIAL ABILITIES
+Object of Desire (Su) While using its detect thoughts ability, an erodaemon can see into the mind of a humanoid and identify the person the target most desires, whether it be a lost loved one or an object of lust. As a full-round action, the erodaemon can change into the form of this desired person as long as the target is a Small, Medium, or Large humanoid. The erodaemon gains a +20 bonus on its Disguise and Bluff checks to impersonate that person and avoid being detected as a fraud, but spells like true seeing negate this effect as normal. This effect ends if the erodaemon attacks any creature. Actions that could reveal the erodaemon as a fraud (such as performing an action that the imitated person would obviously not do, like cast a spell or speak Infernal) require the erodaemon to make an immediate Bluff check to continue the impersonation, with the erodaemon losing some or all of its bonus depending on the severity of the breach (GM’s discretion).
+Wilting Kiss (Su) An erodaemon can draw a mortal into a state of obsession with its kiss. An unwilling victim must be grappled before the erodaemon can use this ability. A creature affected by this kiss must make a DC 23 Will save or become obsessed with the erodaemon, an obsession the erodaemon feeds on. Each round the target is more than 30 feet away from the erodaemon, it must make an additional DC 23 Will save. Failing the save means that the sheer pain of her absence deals 1 point of Charisma drain to the subject that round. Succeeding at the Will save two consecutive times ends the effects of this ability. Spells such as dispel magic and break enchantment end this effect. The save DC is Charisma-based.
+About this Daemon Type… The seducers of Abaddon, erodaemons possess appealing forms, but don’t seek to tempt with sins of the flesh. Instead, they drive mortals to destruction by way of heartbreak and despair. Erodaemons live for the chance to revel in the misery of a broken heart, the despair of lost love, and the resulting spiritual bleakness. When a mortal dies of a broken heart, whether naturally or by their own self-destructive hand, an erodaemon waits to feast as soon as the soul slips the mortal coil. The Material Plane is an erodaemon’s natural playground, and if summoned or bound into service, its first personal goal is to seduce its conjurer into granting it freedom, even if it means deceiving its master with years of loyal service. The magic-user’s suspicion gradually erodes until he forgets his minion’s true nature and grants his supposed slave what it desires. A free erodaemon’s first act in the mortal realm is nearly always betraying and destroying the one who summoned it.
+Personification of Death: Heartbreak.
+Preferred Sacrifice: A wedding band of a mortal abandoned at the altar (preferably by the one making the sacrifice), or an adulterer’s heart.

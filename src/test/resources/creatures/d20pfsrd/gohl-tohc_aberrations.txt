@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/gohl-tohc
+Gohl (Hydra Cloud) CR 9
+XP 6,400
+CE Large aberration
+Init +7; Senses darkvision 60 ft.; Perception +25
+DEFENSE
+AC 22, touch 12, flat-footed 19 (+3 Dex, +10 natural, -1 size)
+hp 119 (14d8+56)
+Fort +8; Ref +9; Will +12
+Defensive Abilities all-around vision; DR 10/silver
+OFFENSE
+Speed fly 30 ft. (good)
+Melee 3 bites +15 (1d4+5 plus 1d6 acid), 6 tentacles +12 (1d6+2 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (1d6+5)
+STATISTICS
+Str 20, Dex 17, Con 19, Int 6, Wis 12, Cha 6
+Base Atk +10; CMB +16 (+20 grapple); CMD 29 (can’t be tripped)
+Feats Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Power Attack, Skill Focus (Perception), Weapon Focus (bite)
+Skills Fly +9, Intimidate +10, Knowledge (dungeoneering) +5, Perception +25; Racial Modifiers +4 Perception
+Languages Common (can’t speak)

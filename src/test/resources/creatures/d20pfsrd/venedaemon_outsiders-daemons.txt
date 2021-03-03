@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/venedaemon
+Venedaemon CR 5
+XP 1,600
+NE Medium outsider (daemon, evil, extraplanar)
+Init +6; Senses arcane sight, darkvision 60 ft.; Perception +12
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 51 (6d10+18)
+Fort +5, Ref +7, Will +8
+DR 5/good or silver; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 16
+OFFENSE
+Speed 30 ft., fly 30 ft. (average)
+Melee 2 tentacles +6 (1d6)
+Special Attacks arcane soul-crush
+Spell-Like Abilities (CL 6th; concentration +11)
+Constant—arcane sight
+3/day—dimension door, dispel magic, slow
+1/day—summon (level 3, 1 cacodaemon, 75%)
+Spells Known (CL 6th; concentration +11)
+3rd (4/day)—hold person (DC 18)
+2nd (6/day)—invisibility, scorching ray (DC 17)
+1st (8/day)—charm person (DC 16), mage armor, magic missile, shield
+0 (at will)—acid splash, arcane mark, bleed (DC 15), mage hand, prestidigitation, ray of frost (DC 15), read magic
+STATISTICS
+Str 11, Dex 15, Con 16, Int 22, Wis 16, Cha 21
+Base Atk +6; CMB +6; CMD 18
+Feats Combat Casting, Eschew MaterialsB, Improved Initiative, Magical Aptitude
+Skills Bluff +14, Disguise +11, Fly +11, Intimidate +14, Knowledge (arcana) +15, Knowledge (planes) +15, Knowledge (religion) +12, Perception +12, Sense Motive +12, Spellcraft +17, Stealth +11, Use Magic Device +16
+Languages Abyssal, Aquan, Celestial, Common, Draconic, Ignan, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Arcane Soul-Crush (Su) A venedaemon may consume a held soul gem as a swift action, allowing it to cast any of its spells known without using a spell slot. For the daemon to use this ability, the consumed gem must contain the soul of a creature with Hit Dice equal to or greater than the spell level of the desired spell.
+About this Daemon Type… Venedaemons represent the concept of death by magic. While among the weakest of daemons, they possess a frightening aptitude for spellcraft, and given enough time, luck, or sponsorship by more powerful fiends, may rise to much higher levels of arcane mastery and personal power. As such, many influential daemons employ venedaemons as servitors and scholars. Ever eager to expand their knowledge of magic, venedaemons also enter into pacts with mortal spellcasters, offering knowledge in exchange for knowledge. Other times they mask their nature and explore the arcane secrets of worlds upon the Material Plane, infiltrating academies or exploring magical ruins, always in search of greater spells and power.
+Personification of Death: Magic.
+Preferred Sacrifice: A magic-user’s familiar, or some manner of arcane knowledge unknown to the daemon.

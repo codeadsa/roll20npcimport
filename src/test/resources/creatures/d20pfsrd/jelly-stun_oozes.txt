@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/jelly-stun
+Stunjelly CR 3
+XP 800
+N Large ooze
+Init +0; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 9, touch 9, flat-footed 9 (-1 size)
+hp 42 (4d8+24)
+Fort +7, Ref +1, Will -4
+Defensive Abilities camouflage; Immune ooze traits
+OFFENSE
+Speed 10 ft.
+Melee slam +3 (1d6+1 plus 1d6 acid plus paralysis)
+Space 10 ft.; Reach 5 ft.
+Special Attacks corrosion, engulf (DC 13, 1d6 acid and paralysis), paralysis (3d6 rounds, DC 18)
+STATISTICS
+Str 12, Dex 10, Con 22, Int –, Wis 1, Cha 1
+Base Atk +3; CMB +5; CMD 15(can’t be tripped)
+SPECIAL ABILITIES
+Acid (Ex) A stunjelly secretes a digestive acid that dissolves organic material quickly, but does not affect metal or stone. Any melee hit deals acid damage, and the opponent’s clothing and armor (non-metal only) take the same amount of damage unless they succeed on DC 18 Reflex save. A wooden weapon that strikes a stunjelly takes 1d6 acid damage unless it succeeds on a DC 18 Reflex save. If a stunjelly remains in contact with a wooden object for 1 full round, it inflicts 18 points of damage (no save) to the object. The save DCs are Constitution-based.
+Camouflage (Ex) Since a stunjelly looks like normal stone when at rest, it takes a DC 20 Perception check to notice it before it attacks. Anyone with ranks in Survival or Knowledge (dungeoneering) can use one of those skills instead of Perception to notice the stunjelly. Dwarves can use stonecunning to notice a stunjelly.
+Corrosion (Ex) An opponent that is being engulfed by a stunjelly suffers a -4 penalty on Reflex saves made to resist acid damage applying to clothing and armor.

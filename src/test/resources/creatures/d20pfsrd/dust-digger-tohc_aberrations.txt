@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/dust-digger-tohc
+Dust Digger CR 4
+XP 1,200
+N Large aberration
+Init +0; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +8
+DEFENSE
+AC 16, touch 9, flat-footed 16 (+7 natural, –1 size)
+hp 27 (5d8+5)
+Fort +2; Ref +1; Will +4
+OFFENSE
+Speed 10 ft., burrow 10 ft.
+Melee 5 tentacles +8 (1d6+3 plus grab) and bite +8 (2d6+3)
+Space 10 ft.; Reach 10 ft. (5 ft. with bite)
+Special Attacks sinkhole, swallow whole (1d6+3 plus 1d8 acid damage, AC 13, 10 hp)
+STATISTICS
+Str 16, Dex 10, Con 13, Int 2, Wis 11, Cha 10
+Base Atk +3; CMB +7 (+11 grapple); CMD 17 (can’t be tripped)
+Feats Improved Natural Attack (bite), Skill Focus (Perception), Skill Focus (Stealth)
+Skills Perception +8, Stealth +5 (+17 sandy terrain); Racial Modifiers +12 Stealth in sandy terrain
+SQ earth glide
+SPECIAL ABILITIES
+Earth Glide (Ex) A dust digger can glide through sand, loose soil, or other loosely packed earth as easily as a fish swims through water. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or signs of its presence. A move earth spell cast on an area containing a burrowing dust digger flings the creature back 30 feet, stunning it for 1 round unless it succeeds on a Fortitude save.
+Sinkhole (Ex) A buried dust digger can deflate its body as a free action, causing the sand above it to slide toward its maw. A creature standing on a space occupied by a buried dust digger when it deflates is immediately subjected to the dust digger’s tentacle attacks.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-dragon/elemental-dragon-earth-tohc
+Elemental Earth Dragon CR 20
+XP 307,200
+(N)E Huge outsider (earth, elemental, extraplanar)
+Init +0; Senses darkvision 60 ft.; Perception +28
+DEFENSE
+AC 26, touch 8, flat-footed 26 (+18 natural, –2 size)
+hp 252 (24d10+120)
+Fort +13; Ref +14; Will +15
+Defensive Abilities earth mastery; DR 10/magic and cold iron; Immune elemental traits
+OFFENSE
+Speed 20 ft., fly 100 ft. (poor), burrow 20 ft.
+Melee bite +35 (2d8+18), 2 claws +35 (2d6+12), 2 wings +32 (1d8+12), tail slap +32 (2d6+18)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50 ft. cone, DC 29, 14d8 fire and slashing)
+STATISTICS
+Str 35, Dex 10, Con 20, Int 10, Wis 12, Cha 10
+Base Atk +24; CMB +38; CMD 48 (52 vs. trip)
+Feats Ability Focus (breath weapon), Blind-Fight, Cleave, Flyby Attack, Great Cleave, Hover, Multiattack, Power Attack, Snatch, Vital Strike, Weapon Focus (bite), Weapon Focus (claw)
+Skills Fly +19, Intimidate +27, Knowledge (nature) +27, Knowledge (planes) +27, Perception +28, Survival +28
+Languages Common, Terran
+SQ assimilation, freeze, meld with stone
+SPECIAL ABILITIES
+Assimilation (Su) When an elemental earth dragon slays an opponent, it dehydrates the flesh with its breath weapon and pulverizes the bones. The residue is then absorbed into the dragon’s body. An assimilated creature can only be restored to life using wish, miracle, or true resurrection, but even then, there is a 50% chance that such powerful magic fails.
+Breath Weapon (Su) An elemental earth dragon’s breath weapon is a 50 ft. cone of scorching sand and gravel.
+Earth Mastery (Ex) An elemental earth dragon gains a +1 bonus on attack and damage rolls if both it and its foes are touching the ground. If an opponent is airborne or waterborne, the elemental earth dragon takes a –4 penalty on attack and damage rolls. (These modifiers are not included in the stat block.)
+Freeze (Ex) An elemental earth dragon can hold itself so still it appears to be a statue. An observer must succeed on a DC 20 Perception check to notice that the elemental earth dragon is really alive.
+Meld into Stone (Ex) An elemental earth dragon can meld its body with any stone surface large enough to accommodate its entire body. This is a standard action and has an unlimited duration (the dragon can stay melded as long as it desires). It otherwise resembles the meld into stone spell (caster level 20th).

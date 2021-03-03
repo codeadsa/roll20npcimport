@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-jack-in-irons
+Jack-in-Irons Giant CR 17
+XP 102,400
+CE Huge humanoid (giant)
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +27
+DEFENSE
+AC 28, touch 9, flat-footed 27 (+1 Dex, +19 natural, –2 size)
+hp 321 (26d8+204)
+Fort +23; Ref +11; Will +12
+Defensive Abilities rock catching
+OFFENSE
+Speed 40 ft.
+Melee spiked greatclub +31/+26/+21/+16 (3d8+19 plus daze) or great chain +31/+26/+21/+16 (2d8+13 plus daze) or 2 slams +30 (2d6+13 plus daze)
+Ranged rock +19 (2d6+19)
+Space 15 ft.; Reach 15 ft.
+Special Attacks daze, pound, rock throwing (140 ft.), shake the earth, trample (2d6+19, DC 36)
+STATISTICS
+Str 36, Dex 12, Con 26, Int 10, Wis 14, Cha 11
+Base Atk +19; CMB +34 (+36 sunder, +38 bull rush); CMD 45 (47 vs. sunder, 49 vs. bull rush)
+Feats Awesome Blow, Cleave, Endurance, Greater Bull Rush, Improved Bull Rush, Improved Sunder, Iron Will, Lightning Reflexes, Martial Weapon Proficiency (great chain), Martial Weapon Proficiency (greatclub), Power Attack, Weapon Focus (greatclub) , Weapon Focus (chain)
+Skills Climb +18, Intimidate +25, Perception +27, Survival +11
+Languages Giant
+Gear spiked greatclub, great chain
+SPECIAL ABILITIES
+Daze (Ex) Any creature hit by a jack-in-iron’s melee attack must succeed on a DC 36 Fortitude save or be dazed 1d2 rounds. The save DC is Strength-based and is a function of the jack-in-irons not its weapon(s).
+Pound (Ex) A jack-in-irons that makes a successful grapple check against a foe two or more sizes smaller than itself can smash the opponent into the ground, walls, nearby trees, or other solid objects as a standard action. This deals 2d6+19 points of bludgeoning damage to the victim. In addition, the opponent must succeed on a DC 36 Fortitude save or be stunned for one round. A jack-in-irons can perform this action once per round as long as it maintains the grapple. The save DC is Strength-based.
+Shake the Earth (Ex) As a standard action, a jack-in-irons can stomp its foot on the ground causing powerful vibrations to radiate out around the giant. Any creature within 5 feet of the jack-in-irons must succeed on a DC 36 Reflex save or fall prone. The save DC is Strength-based.

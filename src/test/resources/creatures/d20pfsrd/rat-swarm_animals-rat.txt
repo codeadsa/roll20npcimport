@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/rat/rat-swarm
+Rat Swarm CR 2
+XP 600
+N Tiny animal (swarm)
+Init +6; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 16 (3d8+3)
+Fort +4, Ref +5, Will +2
+Defensive Abilities swarm traits (as a swarm of tiny creatures, a Rat Swarm takes only half damage from piercing and slashing attacks)
+OFFENSE
+Speed 15 ft., climb 15 ft., swim 15 ft.
+Melee swarm (1d6 plus disease)
+Space 10 ft.; Reach 0 ft.
+Special Attacks disease, distraction (DC 12)
+STATISTICS
+Str 2, Dex 15, Con 13, Int 2, Wis 13, Cha 2
+Base Atk +2; CMB —; CMD —
+Feats Improved Initiative, Skill Focus (Perception)
+Skills Acrobatics +6, Climb +10, Perception +8, Stealth +14, Swim +10; Racial Modifiers uses Dex to modify Climb and Swim
+SPECIAL ABILITIES
+Disease (Ex) Filth fever: Swarm—injury; save Fort DC 12; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves. The save DC is Constitution-based.

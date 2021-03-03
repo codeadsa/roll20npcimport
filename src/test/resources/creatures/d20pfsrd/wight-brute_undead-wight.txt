@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/wight/wight-brute
+Brute Wight
+CR 5
+
+XP 1,600
+LE Large undead
+Init +2; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 21, touch 12, flat-footed 18 (+2 Dex, +9 natural)
+hp 34 (4d8+16)
+Fort +5, Ref +3, Will +7
+Defensive Abilities undead traits
+Weaknesses resurrection vulnerability
+
+OFFENSE
+Speed 30 ft.
+Melee slam +8 (1d6+5 plus energy drain)
+Special Attacks energy drain (1 level, DC 16)
+
+STATISTICS Str 20, Dex 14, Con —, Int 15, Wis 17, Cha 19
+Base Atk +3; CMB +8; CMD 20
+Feats Blind-Fight, Skill Focus ( Perception)
+Skills Intimidate +11, Knowledge (religion) +9, Perception +13, Stealth +17; Racial Modifier +8 Stealth
+Languages Common
+SPECIAL ABILITIES Resurrection Vulnerability (Su) A raise dead or similar spell cast on a wight destroys it (Will negates). Using the spell in this way does not require a material component.
+

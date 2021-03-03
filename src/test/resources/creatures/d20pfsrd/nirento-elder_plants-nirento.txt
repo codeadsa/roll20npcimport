@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/nirento/nirento-elder
+Elder Nirento CR 6
+XP 2,400
+N Huge plant
+Init +6; Senses blindsight 60 ft., low-light vision; Perception +11
+DEFENSE
+AC 20, touch 10, flat-footed 18 (+2 Dex, +10 natural, –2 size)
+hp 76 (9d8+36)
+Fort +10, Ref +7, Will +2
+DR 5/slashing; Immune bludgeoning weapons, plant traits, sonic
+OFFENSE
+Speed 10 ft.
+Melee 4 vines +10 (1d8+5 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks constrict (1d8+5), hypnotic display, uproot
+STATISTICS
+Str 20, Dex 14, Con 19, Int 2, Wis 9, Cha 11
+Base Atk +6; CMB +13 (+17 grapple); CMD 25
+Feats Combat Reflexes, Improved Initiative, Lightning Reflexes, Power Attack, Weapon Focus (vines)
+Skills Perception +11
+SPECIAL ABILITIES
+Hypnotic Display (Ex) Once per day as a standard action, a nirento can sway and dance in such a way that it attracts any who see the tree within a 60-foot radius. Any creatures other than nirentos in the area must succeed at a DC 17 Will save or become entranced by the nirento’s graceful movements, thereafter believing the nirento to be a perfectly normal tree. Affected creatures become passive for 1d6 minutes and refuse to attack the nirento during this time. Affected creatures can attempt a new Will save each round that the nirento attacks an ally—if a hypnotized creature is attacked by the nirento, it gains a +4 bonus on its Will save to see through the hypnotic display. This is a mind-affecting compulsion effect. The save DC is Constitution-based.
+Uproot (Ex) As a full-round action, a nirento can thrust its vines into the soil and attack up to four creatures around it in a 10-foot radius. Creatures in this area take 1d8+5 points of damage (DC 17 Reflex half). In addition, a nirento can attempt to trip any creatures that fail their Reflex saves as a free action without provoking attacks of opportunity. The save DC is Constitution-based.

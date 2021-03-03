@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/kaiju/kaiju-agyra
+Agyra CR 27
+XP 3,276,800
+CN Colossal magical beast (air, kaiju)
+Init +11; Senses blindsense 30 ft., darkvision 600 ft., low-light vision; Perception +38
+DEFENSE
+AC 45, touch 9, flat-footed 38 (+7 Dex, +36 natural, –8 size)
+hp 656 (32d10+480); fast healing 30
+Fort +33, Ref +25, Will +21
+Defensive Abilities electrified corpse, ferocity, rebirth, recovery; DR 20/epic; Immune ability damage, ability drain, death effects, disease, electricity, energy drain, fear; Resist acid 30, cold 30, fire 30, negative energy 30, sonic 30
+OFFENSE
+Speed 80 ft., fly 200 ft. (average), swift flight
+Melee 2 bites +41 (6d6+17/19–20), 2 talons +41 (3d8+17), tail slap +36 (10d6+8/19–20 plus bleed)
+Space 50 ft.; Reach 50 ft. (75 ft. with tail)
+Special Attacks bleed (5d6), blinding flash, breath weapon, hurl foe, hurricane, thunderous blast
+STATISTICS
+Str 44, Dex 25, Con 41, Int 3, Wis 29, Cha 25
+Base Atk +32; CMB +57 (+61 bull rush); CMD 74 (76 vs. bull rush)
+Feats Combat Reflexes, Critical Focus, Greater Bull Rush, Greater Vital Strike, Hover, Improved Bull Rush, Improved Critical (tail slap), Improved Critical (bite), Improved Initiative, Improved Iron Will, Improved Vital Strike, Iron Will, Power Attack, Staggering Critical, Vital Strike, Wingover
+Skills Fly +24, Perception +38; Racial Modifiers +16 Perception
+Languages Auran (can’t speak)
+SQ massive, storm flier
+SPECIAL ABILITIES
+Blinding Flash (Su) By spreading her wings as a full-round action while she stands upon the ground, Agyra can create a blinding flash of light that targets all creatures within 100 feet. Affected creatures must succeed at a DC 41 Fortitude save or be permanently blinded and staggered for 1d6 rounds by the blast of light. A successful saving throw reduces the blindness to 1 round and negates the staggered effect. The save DC is Constitution-based.
+Breath Weapon (Su) Once every 4 rounds as a standard action, each of Agyra’s twin heads can breathe out a line of electricity to a range of 1,200 feet. Agyra can breathe each line in a different direction. Each creature caught in a line of electricity must succeed at a DC 41 Reflex save or take 20d6 points of electricity damage and be staggered for 1d4 rounds. A successful saving throw halves the damage and negates the staggered effect. A creature struck by both breath weapons simultaneously must attempt separate saving throws against each breath weapon, but takes a –4 penalty on both—the damage and staggered condition duration stack with each other. A creature wearing medium or heavy metal armor or a creature composed mostly of metal that fails its saving throw is also stunned for 1 round. A creature slain by Agyra’s breath weapon remains electrified for 2d4 rounds after death—any creature that touches the body automatically takes 3d6 points of electricity damage. The save DC is Constitution-based.
+Electrified Corpse (Su) If Agyra is slain, her corpse crackles and flashes with pulses of electrical light if she has not used her rebirth ability that year. Any creature that touches her corpse takes 3d6 points of electricity damage. Even if Agyra’s body is destroyed, the site of her death continues to carry this electrical charge for 1 minute, or until Agyra is reborn, whichever comes first.
+Hurricane (Sp) Once per day, Agyra can create a supernatural hurricane surrounding herself. This effect functions as control weather, save that it affects an area with a 4-mile radius, lasts for 24 hours, and can only be used to create hurricane-force winds. The hurricane created is static, and features a calm eye at the center with a 500-foot radius.
+Rebirth (Su) Agyra remains dead for only 1 minute before she come back to life, as if via a true resurrection spell. Agyra rises from the exact same position she occupied when she died, and typically takes advantage of this second chance to use her swift flight to escape as soon as possible. Agyra can only be reborn in this manner once per year; if she is slain a second time before a year has passed, her death is permanent and her corpse does not become electrified. This ability replaces Agyra’s ability to immediately heal damage that would normally kill her, granted by her recovery ability, but does not replace the other defenses granted by recovery.
+Storm Flier (Ex) Agyra does not take penalties on Fly checks when flying in strong or more powerful winds.
+Swift Flight (Su) As a standard action once per hour, Agyra can fly in a straight line at an incredible speed. She may travel up to 1 mile in this manner—doing so does not provoke attacks of opportunity. When Agyra activates this ability, her thunderous blast ability is automatically triggered from the swift flight’s point of origin.
+Thunderous Blast (Su) When Agyra uses her swift flight, she creates a thunderous sonic boom. This devastating explosion of sound occurs at her location when she activates swift flight, filling an area equal to her space and her reach combined—resulting in a 100-foot-diameter burst of sonic energy. All creatures in this area of effect take 20d10 points of sonic damage, are permanently deafened, are knocked prone, and are stunned for 1 round. A successful DC 41 Reflex save halves the damage, reduces the deafened condition to 1d4 rounds, and negates the knocked prone and stun effects entirely. The save DC is Constitution-based. Agyra, the Forever Storm, is believed by many cultures to be the cause of seasonal typhoons or other great storms—such tempests being a manifestation of Agyra’s monstrous breaths as she exhales during her long slumber every season. While this kaiju is not in fact responsible for the world’s storms, her powers over wind and lightning are significant, and when she is vexed to rampage, the effects of her hurricanes can be as devastating to a region as her more direct attacks.

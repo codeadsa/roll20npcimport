@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/bonestorm
+Bonestorm CR 8
+XP 4,800
+CE Diminutive undead (swarm)
+Init +6; Senses darkvision 60 ft.; Perception +1; Aura unholy winds 10 ft. (DC 18)
+DEFENSE
+AC 23, touch 20, flat-footed 17 (+6 Dex, +3 natural, +4 size)
+hp 72 (16d8)
+Fort +5, Ref +11, Will +11
+Immune cold, swarm traits, undead traits, weapon damage; SR 20
+OFFENSE
+Speed fly 50 ft. (perfect)
+Melee swarm (3d6 plus 3d6 unholy)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 18), wrath
+Tactics Unliving and unthinking, a bonestorm does not prepare before combat, it simply turns and speeds toward living creatures as soon as it detects their presence, intent on adding their bones to itself. A bonestorm does not preferentially select opponents, rather just seeking to encompass as many living creatures as possible. If injured, however, it does pause to suck up the bones of any convenient skeleton. Completely devoid of fear or sense of self, a bonestorm fights until destroyed.
+STATISTICS
+Str 3, Dex 23, Con –, Int –, Wis 12, Cha 10
+Base Atk +8; CMB –; CMD —
+Skills Fly +20
+SQ gather bones
+SPECIAL ABILITIES
+Gather Bones (Su) By spending a full-round action in the same square as a dead creature, a bonestorm can shred the flesh from the corpse and absorb the bones into its swarm. The absorption grants the bonestorm healing (or temporary hit points if it is unwounded). The amount of healing depends on the size of the body absorbed. A Small creature grants 2 points of healing. A Medium grants 5 points, Large grants 10 points, and Huge grants 20 point. A bonestorm gains no benefit from collecting the skeletons of creatures smaller than Small or larger than Huge.
+Unholy Winds (Su) A bonestorm is surrounded by fierce netherwinds, the howls and raging essences of souls forever trapped within a whirlwind of death. As such, the area within 10 feet of a bonestorm is affected by winds of windstorm force. Creatures that enter this area must make a DC 18 Fortitude save or be affected by the high winds as dictated by their size: Small or smaller creatures are blown away, Medium creatures are knocked down, Large creatures are checked, and larger creatures are unaffected. In addition, these winds are responsible for a bonestorm’s movement and protect it from the damage and dispersal diminutive swarms typically face when affected by powerful winds.
+Wrath (Su) A bonestorm cuts apart creatures occupying the same space as it, not just with splintered bones and bludgeoning skulls, but with the unholy energies of the damned souls that make up the undead whirlwind. Thus, 3d6 points of the damage dealt by a bone swarm is physical, and 3d6 points are unholy damage, resulting directly from unholy power.

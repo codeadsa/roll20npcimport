@@ -1,0 +1,54 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/gibbering-orb-fgg/gibbering-orb-lesser-fgg
+Lesser Gibbering Orb CR 11
+XP 12,800
+CE Large aberration
+Init +7; Senses darkvision 60 ft.; Perception +23
+DEFENSE
+AC 20, touch 12, flat-footed 17 (+3 Dex, +8 natural, –1 size)
+hp 91 (14d8+42)
+Fort +7; Ref +7; Will +13
+Defensive Abilities all-around vision; Immune critical hits, flanking; SR 21
+OFFENSE
+Speed 5 ft., fly 30 ft. (good)
+Melee 6 bites +12 (1d8+3 plus grab)
+Ranged 6 eye rays +13 touch
+Space 10 ft.; Reach 5 ft.
+Special Attacks eye rays, gibbering (60 ft., Will DC 23), steal spell, steal spell-like ability, swallow whole (1d8 acid damage, AC 14, hp 9)
+Spell-like Abilities (CL 14th, save DC 16 + spell level)
+Constant—fly
+At will—one stolen spell or spell-like ability per round
+STATISTICS
+Str 16, Dex 17, Con 17, Int 20, Wis 14, Cha 22
+Base Atk +10; CMB +14 (+18 grapple); CMD 27 (can’t be tripped)
+Feats Diehard, Endurance, Flyby Attack, Improved Initiative, Iron Will, Vital Strike, Weapon Focus (eye ray)
+Skills Acrobatics +20, Fly +22, Intimidate +23, Knowledge (arcana) +22, Knowledge (dungeoneering) +19, Linguistics +19, Perception +23, Sense Motive +16, Stealth +16; Racial Modifiers +4 Perception
+Languages all
+SQ flight
+SPECIAL ABILITIES
+Eye Rays (Su) Six of the eyes can produce a magical ray per round, with each eye emulating a spell from among the list of spells below as if cast by a 14th-level caster. The save DCs, where applicable, are 16 + spell level. A gibbering orb has no directional limitations on where it can point its eye rays, because the eyes orbiting around its body drift and float wherever needed. However, a gibbering orb can never aim more than three rays at any single target, due to limitations of aiming. All rays have a range of 80 feet. Each of these effects functions as a ray, regardless of the normal parameters of the spell it resembles. That is, each is usable against a single target and requires a ranged touch attack.
+The default eye rays are: daze monster, dispel magic, flaming sphere, inflict moderate wounds, magic missile, and ray of enfeeblement. The save DC is Charisma-based.
+The eye rays listed above are just a default selection for convenience. If you’d like a different assortment of rays, a lesser gibbering orb can have up to 6 eye rays, each based on a 0–3rd level cleric or sorcerer spell. They can simply be chosen by the GM or rolled randomly on the table below.
+Table: Random Eye Rays d20 Eye Ray
+1 acid arrow
+2 blindness/deafness
+3 chill touch
+4 color spray
+5 daze monster
+6 dispel magic
+7 flaming sphere
+8 glitterdust
+9 grease
+10 hypnotism
+11 hypnotic pattern
+12 inflict light wounds
+13 inflict moderate wounds
+14 magic missile
+15 ray of enfeeblement
+16 ray of frost
+17 shatter
+18 sleep
+19 slow
+20 touch of fatigue
+Flight (Sp) The gibbering orb’s body is naturally buoyant. This buoyancy allows it to cast fly, as the spell, as a free action, at a speed of 30 ft. This buoyancy also grants it a permanent feather fall effect with personal range.
+Gibbering (Su) As a free action, no more than once per 1d4 rounds, a gibbering orb can emit a cacophony of maddening sound. All creatures other than gibbering mouthers and gibbering orbs within 60 feet must succeed on a DC 23 Will save or be confused for 1d4 rounds. This is a mind-affecting compulsion insanity effect. A creature that saves cannot be affected by the same orb’s gibbering for 24 hours. The save DC is Charisma-based.
+Steal Spell/Steal Spell-Like Ability (Su) When a creature dies by being swallowed whole (or when a creature killed by the gibbering orb in some other fashion is eaten by it), the gibbering orb absorbs the creature’s known spells, prepared spells, and spell-like abilities. The orb can use any one of those abilities per round as a free action. Each originates from an eye that is not producing an eye ray that round. Stolen spells and spell-like abilities are lost after 24 hours.

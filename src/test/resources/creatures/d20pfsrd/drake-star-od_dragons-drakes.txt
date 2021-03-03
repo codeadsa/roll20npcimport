@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/drakes/drake-star-od
+Star Drake
+CR 15
+XP 51,200
+N Large dragon (esoteric/material)
+Init +12; Senses darkvision 60 ft., low-light vision; Perception +28; Aura nimbus of stars (DC 24)
+DEFENSE
+AC 30, touch 26, flat-footed 22 (+7 deflection, +8 Dex, +2 luck, +4 natural, -1 size)
+hp 207 (18d12+90)
+Fort +16, Ref +21, Will +18
+DR 10/magic; Immune cold, fire, paralysis, sleep; SR 26
+OFFENSE
+Speed 60 ft., fly 200 ft. (good)
+Melee bite +24 (2d6+7), 2 claws +24 (1d8+7)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, DC 24, 10d10 cold or fire), searing star (DC 26)
+Spell-Like Abilities (CL 18th; concentration +25)
+Constant—planar adaptation
+At will—faerie fire, flare burst (DC 18)
+3/day—plane shift (DC 24)
+1/day—mass planar adaptation, wandering star motes (DC 21)
+STATISTICS
+Str 24, Dex 27, Con 21, Int 22, Wis 24, Cha 25
+Base Atk +18; CMB +27; CMD 51
+Feats Ability Focus (searing star), Acrobatic, Agile Maneuvers, Flyby Attack, Improved Initiative, Improved Lightning Reflexes, Lightning Reflexes, Persuasive, Wingover
+Skills Acrobatics +33 (+45 jump), Bluff +18, Diplomacy +32, Escape Artist +12, Fly +35, Heal +14, Intimidate +28, Knowledge (arcana) +27, Knowledge (history) +11, Knowledge (nature) +11, Knowledge (planes) +27, Knowledge (religion) +11, Linguistics +13, Perception +28, Perform (oratory) +15, Sense Motive +22, Sleight of Hand +12, Spellcraft +27, Stealth +11, Survival +14, Use Magic Device +28
+Languages Abyssal, Aquan, Auran, Celestial, Common, Draconic, Dwarven, Elven, Ignan, Infernal, Terran
+SPECIAL ABILITIES
+Nimbus of Stars (Su) A star drake has a continual supply of tiny motes surrounding its body. Any non-blind creatures within 10 ft. of the drake must make a DC 24 Fortitude save (Con-based) or become dazed. Those who succeed are still dazzled by the nimbus. These effects last while the creature is within the aura and an additional round after the creature leaves.
+Searing Star (Su) Once every 10 rounds, a star drake can gather up energy from its nimbus, reducing its effective range to 5 ft., in order to create a powerful globe of energy. By succeeding at a ranged touch attack, the drake strikes an opponent with the globe, which explodes for 6d8 force damage and blinds the target (a DC 24 Fortitude saving throw prevents the blindness but not the damage). Against outsiders without the native subtype, the damage increases to 18d8.

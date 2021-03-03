@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/djinni/noble-djinn
+Noble Djinni (Vizier) CR 8
+XP 4,800
+CG Large outsider (air, extraplanar)
+Init +8; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 19, touch 14, flat-footed 14 (+4 Dex, +1 dodge, +5 natural, –1 size)
+hp 75 (10d10+20)
+Fort +5, Ref +11, Will +11
+Immune acid
+OFFENSE
+Speed 20 ft., fly 60 ft. (perfect)
+Melee 2 slams +15 (1d8+6) or mwk falchion +16/+11 (2d6+9/18–20)
+Space 10 ft.; Reach 10 ft.
+Special Attacks air mastery, whirlwind (1/10 minutes, 10–50 ft. tall, 1d8+6 damage, DC 19)
+Spell-Like Abilities (CL 12th)`
+At will—invisibility (self only), plane shift (willing targets to elemental planes, Astral Plane, or Material Plane only)
+1/day—create food and water, create wine (as create water, but wine instead), gaseous form (for up to 1 hour), major creation (created vegetable matter is permanent), persistent image (DC 18), wind walk
+3/day—quickened invisibility (self only)
+May grant three wishes to any being (nongenies only) who captures them.
+STATISTICS
+Str 23, Dex 19, Con 14, Int 14, Wis 15, Cha 17
+Base Atk +10; CMB +17; CMD 32
+Feats Combat Casting, Combat Reflexes, Dodge, Improved Initiativesize=”2″>B, Iron Will, Wind Stance, Quicken Spell-Like Ability
+Skills Appraise +15, Craft (any one) +15, Fly +23, Knowledge (planes) +15, Perception +15, Sense Motive +15, Spellcraft +15, Stealth +10, Knowledge (nobility) +8
+Languages Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.

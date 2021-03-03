@@ -1,0 +1,43 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork/clockwork-reliquary
+Clockwork Reliquary CR 21
+XP 409,600
+CN Large construct
+Init +6; Senses arcane sight, darkvision 60 ft., low-light vision, see invisibility; Perception +31
+DEFENSE
+AC 40, touch 23, flat-footed 37 (+11 deflection, +2 Dex, +1 dodge, +17 natural, –1 size)
+hp 442 (25d10+305); fast healing 20
+Fort +19, Ref +10, Will +14
+Defensive Abilities skymetal plating; DR 15/epic (but see text); Immune construct traits; Resist cold 20, fire 20; SR 32 (but see text)
+Weaknesses seven star artifact vulnerability, susceptible to positive energy, unstable mind
+OFFENSE
+Speed 40 ft., climb 30 ft., fly 60 ft. (good)
+Melee 4 claws +36 (2d10+18/19–20/×4 plus 1d6 cold or fire)
+Ranged 6 inubrex darts +26 (2d6+12/×3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks abysium pulse, alloyed claws, conquer construct, djezet blood, rend (4 claws, 2d10+18 plus 1d6 cold or fire)
+Spell-Like Abilities (CL 20th; concentration +31)
+Constant—arcane sight, fly, see invisibility, tongues
+At will—chain lightning (DC 27), dispel magic, telekinesis (DC 26)
+3/day—quickened telekinesis (DC 26)
+1/day—mage’s disjunction (DC 29), repulsion (DC 27)
+TACTICS
+During Combat The clockwork reliquary lashes at the closest target with its djezet blood on the 1st round of combat, then triggers its abysium pulse in the 2nd round. It uses these abilities as often as it can. The construct uses telekinesis to try to wrench the most powerful weapon or powerful item away from its controller (treat this as a disarm combat maneuver, but grant the defender a +10 bonus to its CMD), mixing melee and ranged attacks as appropriate in a round (it prefers attacking with its claws). If reduced to fewer than 150 hit points, it casts repulsion and uses chain lightning to keep foes at range while using its fast healing.
+Morale The clockwork reliquary fights until destroyed.
+STATISTICS
+Str 34, Dex 14, Con —, Int 39, Wis 23, Cha 32
+Base Atk +25; CMB +38; CMD 62 (64 vs. trip)
+Feats Bleeding Critical, Combat Expertise, Combat Reflexes, Critical Focus, Dodge, Improved Critical (claws), Improved Initiative, Improved Vital Strike, Mobility, Power Attack, Quicken Spell-Like Ability (telekinesis), Spring Attack, Vital Strike
+Skills Acrobatics Climb +45, Fly +42, Knowledge (all types) +39, Perception +31, Sense Motive +31, Spellcraft +39, Use Magic Device +36
+SQ haunted
+Languages Aboleth, Abyssal, Aquan, Auran, Draconic, Elven, Infernal, Ignan, Terran, and four others; tongues
+SPECIAL ABILITIES
+Abysium Pulse (Su) Once every 1d4 rounds as a free action, the two adamantine spheres atop the clockwork reliquary’s body can bloom like metal flowers to reveal highly refined abysium rods that immediately pulse with energy. All creatures within a 30-foot-radius spread must succeed at a DC 22 Fortitude save or suffer 1d6 points of Constitution drain and become nauseated for 1 round. On a successful save, creatures in the area suffer only 1 point of Constitution drain and are staggered for 1 round. The reliquary cannot create an abysium pulse in the same round it lashes out with its djezet blood. This is a poison effect. The save DC is Constitution-based.
+Alloyed Claws (Ex) The clockwork reliquary’s claws are crafted from a strange alloy of adamantine and siccatite. These claws threaten a critical hit on a result of 19–20 and deal ×4 damage on a successful critical hit. They always add 1-1/2 times the reliquary’s Strength modifier on damage rolls. The claws bypass hardness and damage reduction as if they were made of adamantine, and on a hit, the reliquary can decide to deal +1d6 points of fire damage or +1d6 points of cold damage as a free action.
+Conquer Construct (Su) As a standard action, the clockwork reliquary can target a single mindless construct within 120 feet and attempt to seize control of it. The construct can attempt to resist this control with a DC 33 Will save, but on a failure, it permanently falls under the clockwork reliquary’s command. If the reliquary targets a dormant construct (such as an unwound clockwork), the construct fails the save automatically and is immediately activated at the start of the next round. The save DC is Charisma-based.
+Djezet Blood (Su) The clockwork reliquary’s “blood” is composed of djezet. Once every 1d4 rounds as a free action, the reliquary may lash out at a single creature within 30 feet with a tendril of this blood. The reliquary must attempt a +36 touch attack; if it hits, the target must succeed at a DC 22 Will save or become more susceptible to the reliquary’s supernatural attacks and spell-like abilities, taking a –10 penalty on all saving throws against these attacks for 24 hours. The reliquary cannot use its blood in this way during the same round it creates an abysium pulse. The save DC is Constitution-based.
+Haunted (Ex) The reliquary gains its Charisma bonus (+11) to its AC as a deflection bonus and on Fortitude saves as a resistance bonus. It gains its Charisma bonus (+11) to each of its Hit Dice as bonus hit points.
+Inubrix Darts (Ex) As a full-round action, the clockwork reliquary may fire six inubrix darts from its upper body, or one dart as a standard action. These darts have a range increment of 90 feet and ignore any armor or shield bonus granted by metal armor or shields. The reliquary can fire 100 darts before it must craft replacements.
+Seven Star Artifact Vulnerability (Ex) A creature equipped with the Seven Star Artifact can penetrate the clockwork reliquary’s damage reduction with any attack, and automatically succeeds at all checks to penetrate its spell resistance. If the user transfers the artifact to an ally while the clockwork reliquary is within 30 feet, the reliquary must succeed at a DC 30 Fortitude save or be staggered for 1 round.
+Skymetal Plating (Su) Plates of horacalcum and noqual are incorporated into the reliquary’s body. These plates rotate and realign every round so that one of the two materials is visible, while the other side of the plate faces inward. On even-numbered rounds, its horacalcum plates are visible and the clockwork reliquary functions as if hasted. On odd-numbered rounds, its noqual plates are visible and its spell resistance increases to 37.
+Susceptible to Positive Energy (Ex) The reliquary is vulnerable to damage from positive energy as if it were an undead creature. It is not affected by negative energy.
+Unstable Mind (Ex) The clockwork reliquary’s animating spirit carries with it all of spirit’s madness. At the start of every round, there’s a cumulative 1% chance that it malfunctions in that round—if the reliquary malfunctions, it functions for that round as if confused. Presenting evidence of the spirit’s failures increases the next malfunction check by 20%. Once the reliquary malfunctions, the malfunction chance resets to 1% for the next round.

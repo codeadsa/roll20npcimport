@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-requiem
+Requiem Beetle CR 18
+XP 153,600
+N Gargantuan vermin
+Init +1; Senses darkvision 60 ft., tremorsense 100 ft.; Perception +8
+DEFENSE
+AC 31, touch 7, flat-footed 30 (+1 Dex, +24 natural, –4 size)
+hp 345 (30d8+210)
+Fort +24; Ref +11; Will +10
+DR 10/—; Immune acid, mind-affecting effects
+OFFENSE
+Speed 50 ft.
+Melee 2 claws +29 (2d8+11 plus grab), bite +29 (2d10+11)
+Space 20 ft.; Reach 15 ft.
+Special Attacks constrict (4d6+11), earth-shaking, trample (2d8+16, DC 36)
+STATISTICS
+Str 33, Dex 12, Con 24, Int —, Wis 11, Cha 2
+Base Atk +22; CMB +37 (+41 grapple); CMD 48
+Feats CleaveB, Power AttackB
+Skills Acrobatics +1 (+9 jump) Perception +8; Racial Modifiers Acrobatics (+8 jump), +8 Perception
+SPECIAL ABILITIES
+Earth-Shaking (Ex) Whenever a requiem beetle moves more than 10 feet in a round, all creatures within 10 feet of the requiem beetle must succeed on a DC 34 Reflex save or fall prone. The save DC is Strength-based.

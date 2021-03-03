@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/thanadaemon
+Thanadaemon CR 13
+XP 25,600
+NE Medium outsider (daemon, evil, extraplanar)
+Init +7; Senses darkvision 60 ft., true seeing; Perception +25
+DEFENSE
+AC 27, touch 14, flat-footed 23 (+3 Dex, +1 dodge, +13 natural)
+hp 172 (15d10+90)
+Fort +11, Ref +12, Will +14
+DR 10/good; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 24
+OFFENSE
+Speed 30 ft.
+Melee +2 quarterstaff +22/+17/+12 (1d6+9 plus energy drain) or2 claws +20 (1d4+5 plus energy drain)
+Special Attacks draining weapon, energy drain (1 level, DC 21), fear gaze, soul crush
+Spell-Like Abilities (CL 15th; concentration +19)
+Constant—air walk, true seeing
+At will—greater teleport (self plus skiff and passengers only), plane shift (self plus skiff and passengers only, Astral, Ethereal, and evil-aligned planes only)
+3/day—animate dead, desecrate, enervation
+1/day—summon (level 4, 1d4 hydrodaemons 80% or 1 thanadaemon 35%)
+STATISTICS
+Str 21, Dex 16, Con 23, Int 17, Wis 17, Cha 18
+Base Atk +15; CMB +20; CMD 34
+Feats Alertness, Blind-Fight, Dodge, Improved Initiative, Iron Will, Lunge, Mobility, Power Attack
+Skills Acrobatics +21, Bluff +22, Diplomacy +22, Intimidate +22, Knowledge (planes) +21, Knowledge (religion) +21, Perception +25, Sense Motive +25, Stealth +14, Survival +10
+Languages Abyssal, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Draining Weapon (Su) A thanadaemon’s energy drain attack functions through any melee weapon it wields.
+Fear Gaze (Su) Cower in fear for 1d6 rounds, 30 feet, Will DC 21 negates. This is a mind-affecting fear effect. The save DC is Charisma-based.
+Soul Crush (Su) A thanadaemon can crush a soul gem (see cacodaemon) as a standard action to gain fast healing 15 for 15 rounds. This action condemns the crushed soul to Abaddon—resurrecting this victim requires a DC 28 caster level check.

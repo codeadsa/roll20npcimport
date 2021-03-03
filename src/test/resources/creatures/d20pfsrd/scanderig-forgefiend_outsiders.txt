@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/scanderig-forgefiend
+Forgefiend (Scanderig) CR 10
+XP 9,600
+LE Large outsider (earth, extraplanar)
+Init +6; Senses see in darkness; Perception +15
+DEFENSE AC 25, touch 11, flat-footed 23 (+2 Dex, +14 natural, –1 size)
+hp 137 (11d10+77)
+Fort +14, Ref +5, Will +10
+Immune fire, poison; Resist acid 10, cold 10
+OFFENSE Speed 20 ft., burrow 20 ft., earth glide
+Melee bite +17 (2d6+7 plus rend armor), bite +17 (1d6+7), 2 claws +17 (1d6+7)
+Space 10 ft.; Reach 10 ft.
+Special Attacks adamantine bite, searing spew
+Spell-Like Abilities (CL 10th; concentration +12)
+Constant—pass without trace
+At will—major image (DC 15), passwall, shatter (DC 14), stone shape
+3/day—deeper darkness, dimensional anchor, flesh to stone (DC 18), quickened produce flame, wall of fire, wall of stone
+STATISTICS Str 24, Dex 14, Con 25, Int 15, Wis 12, Cha 15
+Base Atk +11; CMB +19; CMD 31
+Feats Combat Reflexes, Greater Sunder B, Improved Initiative, Improved Iron Will, Improved Sunder B, Iron Will, Quicken Spell-Like Ability (produce flame), Vital Strike
+Skills Acrobatics +16 (+12 when jumping), Climb +21, Craft (traps) +16, Disable Device +16, Knowledge (dungeoneering) +16, Perception +15, Sense Motive +15, Stealth +12
+Languages Common, Dwarven, Infernal, Terran
+SPECIAL ABILITIES
+Adamantine Bite (Ex) A forgefiend’s bite attacks are treated as adamantine for the purposes of overcoming damage reduction.
+Rend Armor (Ex) When a forgefiend hits with a bite attack, it chews any armor worn by the target—this grants the forgefiend a free sunder attempt against armor worn by the target if the victim fails a DC 22 Reflex save. A forgefiend also gains Greater Sunder and Improved Sunder as bonus feats. The save DC is Strength-based.
+Searing Spew (Su) A forgefiend can belch forth a searing pile of slag from its body maw as a standard action once every 1d4 rounds. This blob of molten metal affects any 10-foot-square area adjacent to the forgefiend. Any creature in this area takes 14d6 points of fire damage (Reflex DC 22 halves). The slag quickly cools, forming a rugged pile of worthless scrap and misshapen metal that is treated as difficult terrain—this stuff crumbles to powder in 1 hour. The save DC is Constitution-based.

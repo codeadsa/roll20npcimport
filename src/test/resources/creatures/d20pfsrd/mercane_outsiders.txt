@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mercane
+Mercane CR 5
+XP 1,600
+LN Large outsider (extraplanar)
+Init +2; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 16, touch 12, flat-footed 13 (+2 Dex, +1 dodge, +4 natural, –1 size)
+hp 51 (6d10+18)
+Fort +8, Ref +4, Will +8
+SR 20
+OFFENSE
+Speed 30 ft.
+Melee mwk Large falchion +8/+3 (2d6+3/18–20)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 9th; concentration +11)
+3/day—dimension door, invisibility (self only)
+1/day—plane shift (DC 17)
+STATISTICS
+Str 15, Dex 14, Con 16, Int 20, Wis 17, Cha 15
+Base Atk +6; CMB +9; CMD 22
+Feats Combat Casting, Combat Expertise, Dodge
+Skills Appraise +14, Bluff +11, Diplomacy +8, Intimidate +8, Knowledge (arcana) +14, Knowledge (planes) +14, Perception +12, Profession (merchant) +9, Sense Motive +12, Sleight of Hand +11, Spellcraft +14
+Languages Abyssal, Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SQ secret chest
+SPECIAL ABILITIES
+Secret Chest (Sp) A mercane can retrieve or hide an extradimensional storage chest, as the secret chest spell (caster level 5th). The mercane does not need an expensive replica chest to use this ability; any chest will do. It can only use this ability on one chest at a time.

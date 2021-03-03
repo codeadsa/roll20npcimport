@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/crocodilians/crocodile-marine
+Marine Crocodile CR 3
+XP 800
+N Large animal
+Init +5; Senses low-light vision; Perception +11
+DEFENSE
+AC 14, touch 10, flat-footed 13 (+1 Dex, +4 natural, –1 size)
+hp 30 (4d8+12)
+Fort +7, Ref +5, Will +2
+OFFENSE
+Speed 15 ft., swim 50 ft.
+Melee bite +7 (1d8+7 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks death dive
+STATISTICS
+Str 20, Dex 13, Con 17, Int 1, Wis 12, Cha 2
+Base Atk +3; CMB +9 (+13 grapple); CMD 20
+Feats Improved Initiative, Skill Focus (Perception)
+Skills Perception +11, Swim +13
+SQ hold breath
+SPECIAL ABILITIES
+Death Dive (Ex) When grappling a foe of its size or smaller, a marine crocodile can perform a deadly dive upon making a successful grapple check. As it clings to its foe, it uses the force of its powerful tail to propel it downward in the water, allowing it to use both the move and damage actions as part of its grapple attempt. If successful, the marine crocodile maintains its grapple.
+Hold Breath (Ex) A marine crocodile can hold its breath a number of rounds equal to 8 times its Constitution score before it risks drowning.

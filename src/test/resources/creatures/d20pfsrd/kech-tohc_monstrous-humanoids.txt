@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/kech-tohc
+Kech CR 3
+XP 800
+NE Medium monstrous humanoid
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +11
+DEFENSE
+AC 17, touch 13, flat-footed 14 (+2 Dex, +1 dodge, +4 natural)
+hp 32 (5d10+5)
+Fort +2, Ref +6, Will +5
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee 2 claws +6 (1d4+1 and bite +6 (1d6+1)
+Special Attacks rend (2 claws, 1d4+1)
+STATISTICS
+Str 13, Dex 15, Con 12, Int 10, Wis 13, Cha 11
+Base Atk +5; CMB +6; CMD 19
+Feats Dodge, Improved Initiative, Mobility
+Skills Climb +17, Perception +11, Stealth +14 (+20 in forested areas), Survival +9; Racial Modifiers +2 Perception, +4 Stealth (+10 in forested areas)
+Languages Kech
+SQ pass without trace
+SPECIAL ABILITIES
+Pass Without Trace (Ex) A kech can move across any ground–ice, snow, mud–without leaving any footprints. Tracking a kech by nonmagical means is impossible.
+Kech Characters
+Kechs have racial Hit Dice and can have class levels. Kech characters possess the following racial traits.
++2 Strength, +4 Dexterity, +2 Constitution, +2 Wisdom. Kechs are dexterous and hardy jungle survivors. Base speed: Kechs’ base speed is 40 feet. A kech has a climb speed of 20 feet. Darkvision: Kechs can see in the dark up to 60 feet and low-light vision. Racial Hit Dice: A kech begins with five levels of monstrous humanoid, which provide 5d10 HD, a base attack bonus of +5, and base saves of Fort +1, Ref +4, and Will +4. Racial Skills: A kech’s monstrous humanoid levels give it skill points equal to 5 x (4 + Int modifier, minimum 1). Kechs have a +4 racial bonus on Stealth checks and a +2 racial bonus to Perception checks. Due to their coloration and leaf-like skin, kechs have a +10 racial bonus on Stealth checks when in a forested area. Racial Feats: A kech’s monstrous humanoid levels give it three feats. Weapon Proficiency: A kech is automatically proficient with simple weapons. AC: Kechs have a +4 natural armor bonus. Natural Weapons: Kechs can fight with 2 claws (1d4) and a bite (1d6). Special Attacks: rend (2 claws, 1d4+1-1/2 times Str modifier) SQ: pass without trace (see left) Languages: Kechs begin play speaking Kech. Kechs with high Intelligence scores can choose from the following bonus languages: Common, Elven, Goblin, Sylvan.

@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/drow-common/drow-noble
+Drow Noble CR 3
+XP 800
+Female drow cleric 3
+CE Medium humanoid (elf)
+Init +3; Senses darkvision 120 ft.; Perception +5
+DEFENSE
+AC 21, touch 13, flat-footed 18 (+6 armor, +3 Dex, +2 shield)
+hp 20 (3d8+3)
+Fort +4, Ref +4, Will +6; +2 vs. enchantment
+Immune sleep; SR 14
+Weaknesses light blindness
+OFFENSE
+Speed 20 ft.
+Melee mwk rapier +4 (1d6+1/18–20)
+Ranged hand crossbow +5 (1d4/19–20plus poison)
+Special Attacks bleeding touch (6/day), channel negative energy (4/day, 2d6, DC 12), touch of chaos (6/day)
+Spell-Like Abilities (CL 3rd)
+Constant—detect magic
+At will—dancing lights, deeper darkness, faerie fire, feather fall, levitate
+1/day—divine favor, dispel magic, suggestion (DC 14)
+Spells Prepared (CL 3rd)
+2nd—death knellD (DC 15), hold person (DC 15), silence (DC 15)
+1st—bless, cause fear (DC 14), cure light wounds, protection from lawD
+0th—bleed (DC 13), detect poison, read magic, resistance
+D Domain spell; Domains Chaos, Death
+STATISTICS
+Str 12, Dex 17, Con 12, Int 10, Wis 17, Cha 12
+Base Atk +2; CMB +3; CMD 16
+Feats Channel Smite, Weapon Finesse
+Skills Knowledge (religion) +6, Sense Motive +9, Spellcraft +6; Racial Modifiers +2 Perception
+Languages Elven, Undercommon
+SQ poison use
+Combat Gear drow poison (4), potion of invisibility, scroll of dispel magic, wand of cure light wounds (CL 1st, 20 charges); Other Gear masterwork breastplate, heavy steel shield, masterwork rapier, 400 gp
+SPECIAL ABILITIES
+Poison Use (Ex) Drow are skilled in the use of poison and never risk accidentally poisoning themselves. Drow favor an insidious toxin that causes its victims to lapse into unconsciousness—this poison allows drow to capture slaves with great ease.
+Drow Poison—injury; save Fort DC 13; frequency 1/minute for 2 minutes; initial effect unconsciousness for 1 minute; secondary effect unconsciousness for 2d4 hours; cure 1 save.
+Drow Noble Characters Drow nobles are defined by their class levels—they do not possess racial Hit Dice. A drow noble’s challenge rating is equal to her class level. Drow nobles possess all of the racial traits listed for drow characters, plus the following:
++4 Dexterity, +2 Intelligence, +2 Wisdom, +2 Charisma, –2 Constitution. Noble drow are very agile, observant, and regal. These ability score modifiers replace the standard drow ability score modifiers. Spell Resistance: Drow nobles have spell resistance equal to 11 + their character level. Spell-Like Abilities: Drow nobles can cast dancing lights, deeper darkness, faerie fire, feather fall, and levitate each at will, and have detect magic as a constant spell-like ability. A drow noble can also cast divine favor, dispel magic, and suggestion once per day each. In some cases, a drow noble’s spell-like abilities might vary, although the level of a particular spell-like ability does not. A drow noble’s caster level for her spell-like abilities is equal to her character level.

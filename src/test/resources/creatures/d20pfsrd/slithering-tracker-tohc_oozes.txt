@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/slithering-tracker-tohc
+Slithering Tracker CR 3
+XP 800
+N Small ooze
+Init +4; Senses blindsight 60 ft.; Perception +8
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+4 natural, +1 size)
+hp 47 (5d8+25)
+Fort +6, Ref +1, Will +1
+Defensive Abilities sealed mind, transparent; Immune ooze traits
+OFFENSE
+Speed 10 ft., climb 10 ft.
+Melee slam +6 (1d4+3 plus paralysis)
+Special Attacks engulf (paralysis and plasma drain), paralysis (1d4 hours, DC 17, also when struck by unarmed attacks or natural weapons), plasma drain
+STATISTICS
+Str 14, Dex 10, Con 21, Int 10, Wis 10, Cha 1
+Base Atk +3; CMB +4; CMD 14 (can’t be tripped)
+Feats Improved Initiative, Skill Focus (Perception), Skill Focus (Stealth)
+Skills Climb +10, Perception +8, Stealth +16; Racial Modifiers +4 Stealth
+SPECIAL ABILITIES
+Engulf (Ex) A slithering tracker can engulf a paralyzed foe up to one size larger than itself as a standard action. It cannot make a slam attack during a round in which it engulfs. The slithering tracker merely has to move into a space occupied by a paralyzed creature, completely covering it.
+An engulfed opponent is subjected to the slithering tracker’s paralysis and plasma drain, and is considered to be grappled and trapped within its body.
+A slithering tracker only uses this ability against a paralyzed, sleeping, or otherwise helpless opponent.
+Plasma Drain (Ex) A slithering tracker drains the body fluids from an engulfed opponent. Each 5 minutes an opponent is engulfed, it takes 1 point of Constitution damage. Because it takes a long time to completely drain a foe, a slithering tracker generally only uses this ability against a paralyzed, stunned, held, or sleeping opponent.
+Sealed Mind (Ex) Even though a slithering tracker has an Intelligence score, it is immune to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects) just as other oozes are.
+Transparent (Ex) A slithering tracker is hard to identify, even under ideal conditions, and it takes a DC 15 Perception check to notice one. Creatures who fail to notice a slithering tracker and walk into it are automatically hit with a slam attack and subjected to the creature’s paralysis attack.

@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-bronze/bronze-dragon-juvenile
+Bronze Dragon, Juvenile CR 10
+XP 9,600
+LG Large dragon (water)
+Init +1; Senses dragon senses; Perception +23
+
+DEFENSE
+AC 24, touch 10, flat-footed 23 (+1 Dex, +14 natural, -1 size)
+hp 126 (12d12+48)
+Fort +12, Ref +9, Will +12
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor); swim 60 ft.
+Melee bite +17 (2d6+9), 2 claws +17 (1d8+6), tail slap +15 (1d8+9), 2 wings +15 (1d6+3)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (80-ft. line, DC 20, 8d6 electricity), repulsion breath
+Spell-Like Abilities (CL 12th; concentration +16)
+At will— create food and water, speak with animals
+Sorcerer Spells Known (CL 3rd; concentration +7)
+1st (6/day)— alarm, obscuring mist, true strike
+0 (at will)— detect magic, light, mage hand, message, resistance
+STATISTICS
+Str 23, Dex 12, Con 19, Int 18, Wis 19, Cha 18
+Base Atk +12; CMB +19; CMD 30 (34 vs. trip)
+Feats Alertness, Cleave, Flyby Attack, Multiattack, Power Attack, Vital Strike
+Skills Diplomacy +19, Fly +10, Handle Animal +16, Intimidate +19, Knowledge (arcana) +19, Perception +23, Sense Motive +23, Spellcraft +19, Stealth +12, Swim +29; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic, Elven, Gnome
+SQ change shape (animal or humanoid, polymorph), water breathing, wave mastery (40 min)
+SPECIAL ABILITIES
+Repulsion Breath (Su) Instead of a line of electricity, a bronze dragon can breathe a cone of repulsion gas. Targets must make a Will save or be compelled to do nothing but move away from the dragon for 1d6 rounds plus 1 round per age category. This is a mind-affecting compulsion effect.
+Water Breathing (Ex) A bronze dragon breathes water and can use its breath weapon, spells, and abilities underwater.
+Wave Mastery (Su) For up to 10 minutes per age category per day, a juvenile bronze dragon, along with creatures or vessels within 50 feet, can move at twice its normal speed in water.
+

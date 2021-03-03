@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/zombie/zombie-fast/zombie-flapping-head
+Flapping Head CR 1
+XP 400
+Fast zombie vargouille
+NE Small undead (extraplanar)
+Init +2; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+2 Dex, +1 natural, +1 size)
+hp 18 (4d8)
+Fort +1, Ref +3, Will +4
+Immune undead traits
+OFFENSE
+Speed fly 30 ft. (clumsy)
+Melee bite +5 (1d4+1), slam +5 (1d4+1)
+Special Attacks quick strikes
+TACTICS
+This undead vargouille is but a shadow of its former self—it has lost its deadly kiss, shriek, and poison, and its wings are tattered ribbons, barely able to hold its rotting head aloft, but its teeth remain razor sharp. The flapping head turns to attack any living creatures it sees, slamming into and biting its foes. The flapping head fights until destroyed.
+STATISTICS
+Str 12, Dex 15, Con —, Int —, Wis 10, Cha 10
+Base Atk +3; CMB +3; CMD 15
+Skills Fly –6, Stealth +6

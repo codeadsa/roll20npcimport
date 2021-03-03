@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/drakes/drake-spire
+Spire Drake CR 7
+XP 3,200
+LE Large dragon
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +11
+DEFENSE
+AC 20, touch 10, flat-footed 19 (+1 Dex, +10 natural, –1 size)
+hp 84 (8d12+32)
+Fort +10, Ref +7, Will +6
+Immune curses, energy drain, negative energy, paralysis, sleep
+OFFENSE
+Speed 30 ft., climb 30 ft., fly 60 ft. (average)
+Melee bite +13 (2d6+6 plus 1d6 negative energy), tail slap +8 (1d8+3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks accursed breath, soul corruption
+STATISTICS
+Str 22, Dex 12, Con 19, Int 10, Wis 11, Cha 15
+Base Atk +8; CMB +15; CMD 26
+Feats Flyby Attack, Power Attack, Vital Strike, Wingover
+Skills Climb +20, Fly +10, Knowledge (arcana) +10, Knowledge (religion) +10, Perception +11, Spellcraft +10, Use Magic Device +13
+Languages Draconic
+SQ speed Surge
+SPECIAL ABILITIES
+Accursed Breath (Su) As a standard action, a spire drake can spit a compressed ball of jet-black dust that bursts into a spray of clinging motes that sap the spiritual strength of creatures in an area. The attack has a range of 60 feet and deals 5d6 points of negative energy damage (Will DC 18 half) to all creatures in a 20-foot radius. Affected creatures take a –2 penalty on attack rolls, saving throws, skill checks, and ability checks for 1d4 rounds (or for 1 round on a successful Will save). As long as these motes cling to a creature, the effect of any conjuration (healing) effect used on that creature is halved. This is a curse effect. The save DC is Constitution-based.
+Soul Corruption (Su) If a spire drake successfully performs a coup de grace upon a creature afflicted by its accursed breath, the slain target arises 1d4 rounds later as a wight. This wight is not under the drake’s control, and the wight and any spawn that it creates perish 1d6 days after arising.
+Speed Surge (Su) Three times per day as a swift action, a spire drake can draw on its draconic reserves for a boost of strength and speed, allowing it to take an additional move action in that round.

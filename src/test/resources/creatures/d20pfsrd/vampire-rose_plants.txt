@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/vampire-rose
+Vampire Rose CR 3
+XP 800
+N Small plant
+Init +0; Senses blindsight 30 ft., low-light vision; Perception +1
+DEFENSE
+AC 17, touch 11, flat-footed 17 (+6 natural, +1 size)
+hp 30 (4d8+12)
+Fort +7, Ref +1, Will +2
+Defensive Abilities camouflage; Immune plant traits
+OFFENSE
+Speed 5 ft.
+Melee stalk +6 (1d4+2 plus grab)
+Space 5 ft.; Reach 5 ft. (10 ft. with stalk)
+Special Attacks blood drain (1d4 Constitution)
+TACTICS
+A vampire rose stands motionless until its prey moves within range, when it strikes with a thorny stalk. Opponents are grabbed and drained of blood. When fully sated with blood, a vampire rose’s petals flush red.
+STATISTICS
+Str 14, Dex 10, Con 16, Int –, Wis 13, Cha 8
+Base Atk +3; CMB +4 (+8 grapple); CMD 16 (can’t be tripped)
+SPECIAL ABILITIES
+Camouflage (Ex) Since a vampire rose looks like a normal white rose bush when at rest, it takes a DC 20 Perception check to notice it before it attacks. Anyone with ranks in Survival or Knowledge (nature) can use one of those skills instead of Perception to notice the plant. Dwarves can use stonecunning to notice the subterranean version.

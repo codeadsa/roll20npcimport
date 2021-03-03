@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/panotti
+Panotti CR 2
+XP 600
+NG Medium humanoid
+Init +1; Senses blindsense 60 ft.; Perception +2
+DEFENSE
+AC 16, touch 12, flat-footed 14 (+2 armor, +1 Dex, +1 dodge, +2 natural)
+hp 19 (3d8+6)
+Fort +5, Ref +2, Will +2
+OFFENSE
+Speed 30 ft., fly 20 ft. (poor)
+Melee short sword +4 (1d6+2/19–20) or 2 wings +2 (1d4+1 plus push, 10 ft.)
+STATISTICS
+Str 15, Dex 13, Con 14, Int 10, Wis 12, Cha 11
+Base Atk +2; CMB +4; CMD 16
+Feats Dodge, Hover B, Multiattack
+Skills Fly +3, Perception +2 (+6 listening only), Survival +6; Racial Modifiers +4 Perception (listening only)
+Languages Common
+SQ elephantine ears
+SPECIAL ABILITIES
+Elephantine Ears (Ex) A panotti can flap its huge ears to fly awkwardly. A panotti can also wrap its ears around the length of its body for warmth and protection from the elements (similar to using a bedroll or heavy blankets), or use them as secondary natural attacks (as per wing attacks).
+Panotti in Mythology
+The panotti are cryptids drawn from real-world mythology, specifically Natural History by Pliny the Elder in 77–79 a.d. They are also counted among the strange creatures living in the legendary kingdom of Prester John, along with the blemmyae, cynocephali (protowerewolves), and monopods.

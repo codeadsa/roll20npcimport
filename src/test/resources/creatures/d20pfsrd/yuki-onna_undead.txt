@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/yuki-onna
+Yuki-onna CR 8
+XP 4,800
+LE Medium undead (cold, incorporeal)
+Init +8; Senses darkvision 60 ft.; Perception +17; Aura snowstorm (200 ft.)
+DEFENSE
+AC 21, touch 21, flat-footed 16 (+6 deflection, +4 Dex, +1 dodge)
+hp 94 (9d8+54)
+Fort +9, Ref +7, Will +11
+Defensive Abilities incorporeal; Immune cold, undead traits
+Weaknesses vulnerable to fire, snow dependency
+OFFENSE
+Speed fly 30 ft. (perfect)
+Melee 2 touches +10 (4d6 cold plus chilling touch)
+Special Attacks chilling touch, fascinating gaze
+Spell-Like Abilities (CL 10th; concentration +16)
+Constant—blur
+3/day—cone of cold (DC 21), eyebite (comatose and panicked only, DC 22), ice storm
+STATISTICS
+Str —, Dex 18, Con —, Int 17, Wis 21, Cha 22
+Base Atk +6; CMB +10; CMD 27
+Feats Combat Casting, Dodge, Improved Initiative, Mobility, Spring Attack
+Skills Bluff +15, Fly +12, Intimidate +18, Perception +17, Sense Motive +17, Spellcraft +15, Stealth +16, Survival +14
+Languages Common
+SPECIAL ABILITIES
+Chilling Touch (Su) A yuki-onna’s touch causes 4d6 cold damage. Whenever a creature takes cold damage in this manner, it must make a DC 20 Fortitude save to avoid being staggered by the supernatural cold for 1 round. This duration stacks. The save DC is Charisma-based.
+Fascinating Gaze (Su) Fascinated for 1d4 rounds, 30 feet, Will DC 20 negates. The save DC is Charisma-based.
+Snow Dependency (Ex) A yuki-onna is staggered if she is ever in an area without snow while her snowstorm aura is suppressed or otherwise not functioning.
+Snowstorm (Su) A yuki-onna is surrounded by whirling blasts of snow, even in areas that wouldn’t allow for such weather, that comprise a 200-foot-radius spread. Within this area, the snowfall and wind gusts cause a -4 penalty on Perception checks and ranged attacks. The wind itself blows in a clockwise rotation around the yuki-onna, and functions as severe wind. A yuki-onna is unaffected by snowstorms or blizzards of any kind. Any effect that causes these winds to drop below severe (such as control weather or control winds) cancels the snowstorm effect entirely.

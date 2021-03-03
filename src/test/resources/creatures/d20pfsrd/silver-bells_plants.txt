@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/silver-bells
+Silver Bells CR 3
+XP 800
+N Large plant
+Init +2; Senses low-light vision; Perception +10
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+2 Dex, +4 natural, -1 size)
+hp 22 (4d8+4)
+Fort +5, Ref +3, Will +3
+Defensive Abilities Plant Traits; DR 5/magic or slashing
+Immune electricity, Plant Traits
+OFFENSE
+Speed 20 ft.
+Melee tendril +3 (1d4 plus Grab)
+Space 10 ft.; Reach 15 ft.
+Special Attacks silver dust (15 ft cone, Poison)
+STATISTICS
+Str 11, Dex 14, Con 13, Int 1, Wis 15, Cha 8
+Base Atk +3; CMB +4 (+8 grapple); CMD 16 (18 vs grapple, can’t be tripped)
+Feats Alertness, Combat Reflexes, Improved GrappleB
+Skills Perception +10
+SPECIAL ABILITIES
+Poison (Su) The flowers of a silver bell can expel a fine pollen in a 15 ft. cone. All creatures within the cone are exposed to the poison.
+Silver Dust-contact; save Fort DC 13, frequency 1/round for 10 rounds, effect 1d3 Dex. When a creature’s Dexterity score is reduced to 0, it becomes a non-living silver statue , cure 2 consecutive saves or a stone to flesh spell.

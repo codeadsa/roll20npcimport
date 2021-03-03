@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/buckawn
+Buckawn CR 2
+XP 600
+N Small fey
+Init +3; Senses low-light vision; Perception +9
+DEFENSE
+AC 17, touch 15, flat-footed 13 (+3 Dex, +1 dodge, +2 natural, +1 size)
+hp 11 (3d6)
+Fort +1; Ref +6; Will +4
+DR 5/cold iron; SR 13
+OFFENSE
+Speed 30 ft.
+Melee dagger +5 (1d3 plus poison)
+Ranged dart +5 (1d3 plus poison)
+Spell-like Abilities (CL 3rd)
+At will—dancing lights, disguise self, ghost sound (DC 12), invisibility (self only)
+1/day—entangle (DC 13), pass without trace, insect plague (one swarm only)
+STATISTICS
+Str 10, Dex 17, Con 11, Int 12, Wis 13, Cha 14
+Base Atk +1; CMB +0; CMD 14
+Feats Dodge, Weapon Finesse
+Skills Bluff +8, Craft (alchemy) +7 (+9 when making poison), Escape Artist +9, Knowledge (nature) +7, Perception +9, Sense Motive +7, Stealth +13; Racial Modifiers +2 Craft (alchemy) when making poison, +2 Perception
+Languages Common, Sylvan
+SQ poison use
+SPECIAL ABILITIES
+Poison Use (Ex) Buckawns never risk accidentally poisoning themselves when applying poison to a blade. They favor moonseed berries as poison and usually have a plentiful supply readily available.
+These small berries are bluish-purple and resemble wild grapes. They are highly poisonous and are often mixed with food or crushed and smeared on a weapon or object.
+Moonseed Berries: poison—contact or ingested; save Fort DC 13; frequency 1/round for 4 rounds; effect 1d2 Con; cure 1 save; Price 1,500 gp.

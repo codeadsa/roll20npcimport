@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/greymalkin
+Greymalkin CR 5
+XP 1,600
+NE Large magical beast (extraplanar)
+Init +8; Senses darkvision 60 ft., low-light vision, scent ; Perception +9
+DEFENSE
+AC 18, touch 13, flat-footed 14 (+4 Dex, +5 natural, -1 size)
+hp 51 (6d10+18)
+Fort +8, Ref +9, Will +4
+Defensive Abilities mirror image
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +9 (1d6+2), bite +9 (1d8+2)
+Space 10 ft.; Reach 5 ft. (15 ft. with dimensional lunge)
+Special Attacks dimensional lunge, pounce, rake (2 claws +9, 1d6+2)
+Spell-Like Abilities (CL 6th)
+Constant–mirror image
+STATISTICS
+Str 15, Dex 18, Con 16, Int 5, Wis 14, Cha 8
+Base Atk +6; CMB +9; CMD 23 (27 vs. trip)
+Feats Alertness, Improved Initiative, Weapon Finesse
+Skills Acrobatics +9, Perception +9, Sense Motive +4, Stealth +5
+Languages Common (can’t speak)
+SPECIAL ABILITIES
+Dimensional Lunge (Su) Because it is out of phase with the Material Plane, a greymalkin can briefly shift its position relative to the world around it. Any time the greymalkin makes an attack with its claws, it may choose to shift itself a total of 10 feet in any direction for a split second, before returning to its previous location. (It cannot choose not to return to its prior location.) This essentially grants it 15-foot reach with its claws.

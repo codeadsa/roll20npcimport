@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kyton/kyton-eremite
+Eremite Kyton CR 20
+XP 307,200
+LE Medium outsider (evil, extraplanar, kyton, lawful)
+Init +12; Senses darkvision 60 ft., true seeing; Perception +34
+DEFENSE
+AC 38, touch 19, flat-footed 29 (+8 Dex, +1 dodge, +19 natural)
+hp 310 (20d10+200); regeneration 15 (good weapons and spells, silver weapons)
+Fort +22, Ref +16, Will +19
+DR 15/good and silver; Immune cold, fear effects, nonlethal damage, pain; SR 31
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee bite+30 (2d6+10 plus pain), 2 claws +30 (2d6+10/19-20 plus grab and pain), 2 wings +25 (1d8+5 plus pain)
+Special Attacks evisceration, unnerving gaze (30 ft., DC 31)
+Spell-Like Abilities (CL 20th; concentration +31)
+Constant—true seeing
+At will—greater teleport (self plus 50 lbs. of objects only), inflict critical wounds (DC 25), shadow walk, telekinesis (DC 26)
+3/day—blade barrier (DC 27), dimensional lock, forcecage (DC 28), greater shadow evocation (DC 29), heal (self only), insanity (DC 28), mass inflict critical wounds (DC 29), plane shift (DC 28), shades (DC 29), symbol of pain (DC 26), wall of force
+1/day—binding (DC 29), trap the soul (DC 29)
+STATISTICS
+Str 30, Dex 27, Con 30, Int 22, Wis 21, Cha 33
+Base Atk +20; CMB +30 (+34 grapple); CMD 49
+Feats Combat Casting, Combat Expertise, Combat Reflexes, Dodge, Improved Critical (claws), Improved Initiative, Iron Will, Lightning Reflexes, Skill Focus (Perception), Spell Penetration
+Skills Bluff +34, Diplomacy +34, Fly +12, Heal +28, Intimidate +34, Knowledge (arcana) +16, Knowledge (dungeoneering) +16, Knowledge (nature) +16, Knowledge (planes) +29, Knowledge (religion) +16, Perception +34, Sense Motive +28, Spellcraft +29, Stealth +31, Use Magic Device +31
+Languages Common, Infernal; telepathy 100 ft.
+SQ graft flesh, shadow traveler
+SPECIAL ABILITIES
+Immune to Pain (Su) An eremite is immune to nonlethal damage, as well as to all magical effects associated with extreme pain, such as a symbol of pain, another eremite’s pain attack, or similar effects at the GM’s discretion.
+Evisceration (Ex) When an eremite grapples a foe, it can quickly eviscerate or otherwise surgically alter its victim by excising a bit of flesh or a part of an internal organ as a swift action, causing the victim to take 1d8 points of ability drain—the exact ability score drained is chosen by the eremite. The victim can resist this effect with a DC 28 Fortitude save. The save DC is Dexterity-based.
+Graft Flesh (Su) Once per day, an eremite may graft any bit of flesh or bone harvested via its evisceration ability within the previous hour to its own body as a full-round action that provokes an attack of opportunity. Doing so grants the eremite the effects of a heal and a greater restoration spell (caster level 20th).
+Pain (Su) Any creature struck by an eremite’s natural attacks must make a DC 30 Fortitude save or become staggered for 1 round from the pain. As long as a creature is staggered by this effect, it takes a -4 penalty on all saving throws made to resist the eremite’s spell-like and extraordinary abilities. The save DC is Constitution-based.
+Shadow Traveler (Ex) When an eremite uses plane shift to travel to the Plane of Shadow, it arrives at its intended destination with complete accuracy. When an eremite uses shadow walk, it moves at a rate of 100 miles per hour.
+Unnerving Gaze (Ex) A creature that succumbs to an eremite’s unnerving gaze becomes paralyzed with fear for 1d4 rounds as it finds itself almost longing to submit its flesh to the kyton. At the end of any round it remains paralyzed in this way, the victim must make a DC 31 Will save or take 1d4 points of Wisdom drain from encroaching madness. This is a mind-affecting fear effect.
+Variants Eremite Overlords: Eremites who surpass the limits of individuality and achieve dominion over a certain realm of the Plane of Shadow are referred to as eremite overlords. An overlord has focused on a specific type of mutilation, and has taken that heinous surgical procedure to the outer limits of pain and pleasure. Those who worship and venerate the overlords often seek to emulate their patron’s chosen mutilation, often fatally so. Overlords keep in correspondence with one another and sometimes collaborate in a Covenant of Overlords, and while they do not view each other as enemies, they are by no means allies, and often vie for the favor of the demagogues.
+Each overlord is a unique Large (or larger) eremite with several additional Hit Dice. In addition, each has a unique power linked to its chosen form of self-mutilation, as well as 4-6 additional spell-like abilities along that mutilation’s theme.
+For example, an overlord that has perfected the act of skinning itself and wrapping its flesh in thorny black vines might have an ability to send those thorny vines out at great length to grapple and constrict distant foes, and might gain black tentacles, entangle, wall of thorns, and 1-3 similar spell-like abilities.
+The following is an example eremite overlord, inspired by the suggestions above.
+The Briar King (CR 22)

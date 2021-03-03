@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/gronk-tohc
+Gronk CR 3
+XP 800
+CN Large monstrous humanoid
+Init +0; Senses darkvision 60 ft., scent; Perception +7
+DEFENSE
+AC 13, touch 9, flat-footed 13 (+4 natural, -1 size)
+hp 34 (4d10+12)
+Fort +6; Ref +4; Will +4
+OFFENSE
+Speed 40 ft.
+Melee gore +7 (1d6+4), 2 slams +7 (1d6+4) or greatclub +7 (2d8+6) and +2 gore (1d6+2)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 19, Dex 10, Con 16, Int 8, Wis 11, Cha 9
+Base Atk +4; CMB +9; CMD 19
+Feats Great Fortitude, Power Attack
+Skills Intimidate +6, Perception +7, Survival +11; Racial Modifiers +4 Survival
+Languages Giant)

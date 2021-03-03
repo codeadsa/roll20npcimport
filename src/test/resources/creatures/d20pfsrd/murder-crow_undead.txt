@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/murder-crow
+Murder Crow CR 5
+XP 1,600
+CE Medium undead
+Init +9; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 19, touch 16, flat-footed 13 (+5 Dex, +1 dodge, +3 natural)
+hp 67 (9d8+18 plus 9)
+Fort +5, Ref +8, Will +8
+Immune undead traits
+OFFENSE
+Speed 10 ft.; fly 70 ft. (average)
+Melee 2 claws +7 (1d4+1), 1 bite +7 (1d6+1)
+Special Attacks death throes, eye rake
+STATISTICS
+Str 12, Dex 20, Con –, Int 2, Wis 14, Cha 14
+Base Atk +6; CMB +7; CMD 23
+Feats Dodge, Flyby Attack, Improved Initiative, Toughness, Wingover
+Skills Perception +10, Stealth +12
+SPECIAL ABILITIES
+Death Throes (Su) If a murder crow is reduced to 0 hit points or less, it explodes into a murder of standard crows. Use the statistics for the undead raven swarm found elsewhere in this book. These smaller crows continue to relentlessly attack all living creatures within sight.
+Eye Rake (Ex) If a murder crow hits an opponent with both claws in the same round, the victim must succeed on a DC 15 Reflex save or be blinded as the crow scratches and tears at the victim’s eyes. The blindness last for 1d4 days while the eyes naturally heal, or until healed (with remove blindness or a successful DC 15 Heal check). The save DC is Charisma-based and includes a +1 racial bonus.

@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/lich
+Lich CR 12
+XP 19,200
+Human lich necromancer 11
+NE Medium undead (augmented humanoid)
+Init +2; Senses darkvision 60 ft., life sight*; Perception +24; Aura fear (60-ft. radius, DC 18)
+DEFENSE
+AC 23, touch 14, flat-footed 21 (+4 armor, +2 deflection, +2 Dex, +5 natural)
+hp 111 (11d6+55 plus 15 false life)
+Fort +6, Ref +7, Will +11
+Defensive Abilities channel resistance +4; DR 15/bludgeoning and magic; Immune cold, electricity, undead traits
+OFFENSE
+Speed 30 ft.
+Melee touch +5 (1d8+5 plus paralyzing touch)
+Special Attacks grave touch* (9/day), paralyzing touch (DC 18), power over undead* (9/day, DC 18)
+Spells Prepared (CL 11th)
+6th—circle of death (DC 22), globe of invulnerability, maximized fireball (DC 19)
+5th—cloudkill (DC 21), cone of cold (DC 21), quickened magic missile, waves of fatigue
+4th—dimension door, enervation, fire shield, wall of ice (2)
+3rd—dispel magic (2), fireball (DC 19), suggestion (DC 19), vampiric touch (2)
+2nd—darkness, extended mage armor (already cast), false life (already cast), scorching ray (2), see invisibility, spectral hand
+1st—magic missile (3), ray of enfeeblement (2), shield (2)
+0th—bleed (DC 16), detect magic, ray of frost, read magic
+Prohibited Schools illusion, transmutation
+*Necromancer power
+STATISTICS
+Str 10, Dex 14, Con —, Int 22, Wis 14, Cha 16
+Base Atk +5; CMB +5; CMD 25
+Feats Craft Wondrous Item, Defensive Combat Training, Extend Spell, Improved Lightning Reflexes, Iron Will, Lightning Reflexes, Maximize Spell, Quicken Spell, Scribe Scroll, Toughness
+Skills Craft (alchemy) +20, Intimidate +17, Knowledge (arcana) +20, Knowledge (planes) +20, Linguistics +20, Perception +24, Sense Motive +24, Spellcraft +20, Stealth +24; Racial Modifiers +8 Perception, +8 Sense Motive, +8 Stealth
+Languages Abyssal, Aklo, Aquan, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, Ignan, Infernal, Orc, Undercommon
+SPECIAL ABILITIES
+Fear Aura (Su) Creatures of less than 5 HD in a 60-foot radius that look at a lich must succeed on a Will save or become frightened. Creatures with 5 HD or more must succeed at a Will save or be shaken for a number of rounds equal to the lich’s Hit Dice. A creature that successfully saves cannot be affected again by the same lich’s fear aura for 24 hours. This is a mind-affecting fear effect.
+Paralyzing Touch (Su) Any living creature a lich hits with its touch attack must succeed on a Fortitude save or be permanently paralyzed. Remove paralysis or any spell that can remove a curse can free the victim (with a DC equal to the lich’s save DC). The effect cannot be dispelled. Anyone paralyzed by a lich seems dead, though a DC 20 Perception check or a DC 15 Heal check reveals that the victim is still alive.
+Rejuvenation (Su) When a lich is destroyed, its phylactery (which is generally hidden by the lich in a safe place far from where it chooses to dwell) immediately begins to rebuild the undead spellcaster’s body nearby. This process takes 1d10 days—if the body is destroyed before that time passes, the phylactery merely starts the process anew. After this time passes, the lich wakens fully healed (albeit without any gear it left behind on its old body), usually with a burning need for revenge against those who previously destroyed it.
+The most common form of phylactery is a sealed metal box containing strips of parchment on which magical phrases have been transcribed. The box is Tiny and has 40 hit points, hardness 20, and a break DC of 40.
+Other forms of phylacteries can exist, such as rings, amulets, or similar items.
+Subpages
+Lich, Psychic

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/dragonfish-tohc
+Dragonfish CR 1
+XP 400
+N Small animal (aquatic)
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +7
+DEFENSE
+AC 16, touch 13, flat-footed 14 (+2 Dex, +3 natural, +1 size)
+hp 9 (2d8)
+Fort +3; Ref +5; Will +0
+Defensive Abilities camouflage, spines
+OFFENSE
+Speed swim 20 ft.
+Melee bite +2 (1d4)
+Special Attacks poison
+TACTICS
+Dragonfish are not aggressive and prefer to lie on the bottom of a body of water, waiting for a victim to step on it so its poisonous spines penetrate the victim’s flesh. If forced into melee, a dragonfish attacks with its bite.
+STATISTICS
+Str 10, Dex 15, Con 11, Int 2, Wis 11, Cha 4
+Base Atk +1; CMB +0; CMD 12 (can’t be tripped)
+Feats Skill Focus (Perception)
+Skills Perception +7, Stealth +10, Swim +10; Racial Modifiers Dragonfish use their Dexterity modifier for Swim checks.
+SPECIAL ABILITIES
+Spines (Ex) A creature that steps on a dragonfish or strikes it with an unarmed strike or a natural weapon takes 1d4 points of piercing damage from the fish’s dorsal barbs and is subjected to its poison. Melee weapons do not endanger a user in this way. A charging or running creature must immediately stop if it steps on a dragonfish. A creature that takes more than 2 points of damage from a dragonfish’s barb has its speed is reduced by half because its foot is wounded. This movement penalty lasts until the barb is removed.
+Dragonfish Poison (Ex) Spine—injury, save Fort DC 11, frequency 1/round for 6 rounds, effect 1d2 Constitution, cure 1 save
+Camouflage (Ex) It takes a successful DC 20 Perception check to recognize a motionless dragonfish for what it really is.

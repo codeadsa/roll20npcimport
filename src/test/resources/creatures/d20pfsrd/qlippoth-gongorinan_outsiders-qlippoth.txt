@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-gongorinan
+Gongorinan Qlippoth
+CR 11
+XP 12,800
+CE Medium outsider (chaotic, qlippoth, evil, extraplanar)
+Init +10; Senses all-around vision, darkvision 60 ft.; Perception +18; Aura horrific appearance (30 ft., DC 20)
+DEFENSE
+AC 27, touch 17, flat-footed 20 (+6 Dex, +1 dodge, +10 natural)
+hp 137 (11d10+77)
+Fort +14, Ref +13, Will +7
+DR 10/lawful; Immune cold, acid, mind-affecting effects, polymorph effects; Resist acid 10, electricity 10, fire 10; SR 22
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee +1 scimitar +19/+14/+9 (1d6+7/15–20), claw +17 (1d8+6 plus bleed), sting +15 (1d4+3 plus poison), pincer +15 (1d6+3 plus grab)
+Special Attacks bleed (1d6), constrict (1d6+7), oviposition, web (+17 ranged, DC 22, 11 hp)
+Spell-Like Abilities (CL 11th; concentration +16)
+Constant—air walk, freedom of movement
+At will—statue
+3/day—baleful polymorph (DC 20), protection from law
+1/day—dimension door, mass reduce person (DC 19), polymorph any object (DC 23)
+STATISTICS
+Str 23, Dex 23, Con 24, Int 13, Wis 18, Cha 20
+Base Atk +11; CMB +17 (+21 grapple); CMD 34 (42 vs. trip)
+Feats Combat Reflexes, Dodge, Improved Critical (scimitar), Improved Initiative, Multiattack, Power Attack, Weapon Focus (scimitar)
+Skills Acrobatics +20 (+24 when jumping), Climb +28, Disguise +16 (+24 as a boulder while in statue form), Knowledge (arcana) +15, Perception +18, Stealth +20 (+28 among rocks), Swim +17; Racial Modifiers +4 Acrobatics when jumping, +8 Disguise as a boulder while in statue form, +8 Stealth among rocks
+Languages Abyssal; telepathy 100 ft.
+SPECIAL ABILITIES
+Horrific Appearance (Su) Creatures that succumb to a gongorinan’s horrific appearance become confused for 1d4 rounds.
+Oviposition (Su) A gongorinan can implant a stony egg the size of a human heart in the body of any Small or larger pinned, helpless, or willing creature as a full-round action that provokes an attack of opportunity. This action deals 1d4 points of Constitution damage to the victim. If the victim survives this damage, the egg takes root deep in the victim’s body, links to his mind, and begins gestating. The egg grows rapidly, dealing 1 point of Intelligence drain every day to a minimum score of 1. Once this Intelligence drain affects a creature that already has an effective Intelligence score of 1, the egg “hatches” inside of the victim. This causes the victim to immediately transform into a horrid animal, aberration, magical beast, or vermin (the exact choice is made by the gongorinan according to its strange goals and unknowable desires), whereupon it begins living out its new life via pure instinct—this effect otherwise functions as if it were baleful polymorph to which the creature had failed its secondary Will save to retain its personality. A gongorinan can command the actions of a creature that has undergone this transformation as if the victim had been affected by dominate monster (this works even on creatures that are normally immune to such effects as a result of being mindless) as long as the gongorinan is within 120 feet of the creature. The effect can be reversed by break enchantment (DC 22—treat the gongorinan’s Hit Dice as it caster level), but cannot be dispelled.
+Poison, Sting (Ex) Type poison, injury; Save Fortitude DC 22
+Frequency 1/round for 6 rounds
+Effect 1d3 Strength damage and staggered for 1 round; Cure 2 consecutive saves. The save DC is Constitution-based.

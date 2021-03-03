@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/elemental-mud/large-mud-elemental
+Large Mud Elemental
+CR 5
+XP 1,600
+N Large outsider (earth, elemental, extraplanar, water)
+Init +1; Senses darkvision 60 ft., tremorsense 30 ft.; Perception +11
+DEFENSE
+AC 17, touch 10, flat-footed 16 (+1 Dex, +7 natural, –1 size)
+hp 68 (8d10+24)
+Fort +9, Ref +7, Will +2
+DR 5/—; Immune acid, elemental traits
+OFFENSE
+Speed 20 ft., burrow 10 ft., swim 30 ft.; earth glide
+Melee 2 slams +12 (1d8+5 plus entrap)
+Space 10 ft.; Reach 10 ft.
+Special Attacks entrap (DC 17, 10 minutes, hardness 5, hp 10)
+STATISTICS
+Str 20, Dex 12, Con 17, Int 4, Wis 11, Cha 11
+Base Atk +8; CMB +14; CMD 25
+Feats Cleave, Great Cleave, Greater Bull Rush, Improved Bull RushB, Power Attack
+Skills Climb +12, Escape Artist +8, Knowledge (planes) +4, Perception +11, Stealth +4, Swim +13; Racial Modifiers +8 Swim
+Language Terran
+SPECIAL ABILITIES
+Earth Glide (Ex) A burrowing mud elemental can pass through dirt, gravel, or other loose or porous solid matter as easily as a fish swims through water. It cannot use this ability to pass through a solid barrier such as a stone or brick wall. Its burrowing leaves behind no tunnel or hole, nor does it create any ripple or other sign of its presence. A move earth spell cast on an area containing a burrowing mud elemental flings the elemental back 30 feet, stunning the creature for 1 round unless it succeeds on a DC 15 Fortitude save.
+Entrap (Ex) The mud from an elemental’s entrap ability can be washed away in 1d3 rounds of immersion in water.

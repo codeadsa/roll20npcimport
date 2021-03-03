@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lashunta
+Lashunta CR 1/2
+XP 400
+Female lashunta wizard 1
+NG Medium humanoid (lashunta)
+Init +1; Senses Perception +2
+DEFENSE
+AC 11, touch 11, flat-footed 10 (+1 Dex)
+hp 11 (1d6+2)
+Fort –1, Ref +1, Will +3
+OFFENSE
+Speed 30 ft.
+Melee mwk quarterstaff +0 (1d6–1)
+Ranged light crossbow +1 (1d8/19–20)
+Special Attacks hand of the apprentice (6/day)
+Spell-Like Abilities (CL 1st; concentration +4)
+At will–daze (DC 13), mage hand
+1/day–detect thoughts (DC 15)
+Wizard Spells Prepared (CL 1st; concentration +4)
+1st–charm person (DC 14), mage armor, magic missile
+0th (at will)–acid splash, detect magic, flare (DC 13), read magic
+STATISTICS
+Str 8, Dex 13, Con 8, Int 17, Wis 12, Cha 16
+Base Atk +0; CMB –1; CMD 10
+Feats Scribe Scroll, Toughness
+Skills Diplomacy +4, Handle Animal +4, Knowledge (arcana) +9, Perception +2, Spellcraft +7, Use Magic Device +4; Racial Modifiers +2 Knowledge (arcana)
+Languages Celestial, Common, Draconic, Elven, Lashunta; limited telepathy
+SQ arcane bond (amulet)

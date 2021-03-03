@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/mimi
+Mimi CR 1
+XP 400
+N(G) Tiny fey (cold)
+Init +4; Senses low-light vision; Perception +5
+DEFENSE
+AC 19, touch 17, flat-footed 14 (+4 Dex, +1 dodge, +2 natural, +2 size)
+hp 4 (1d6+1)
+Fort +2, Ref +6, Will +3
+DR 5/cold iron; Immune cold, SR 15
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 20 ft., fly 50 ft. (average)
+Melee short sword +6 (1d3-3),
+Space 2 1/2 ft.; Reach 0 ft.
+Special Attacks group casting, lower temperature
+Spell-like Abilities (CL 8th):
+At will—invisibility
+2/day—frost fingers (as burning hands, but cold damage, DC 13)
+1/day—cone of cold (DC 17)
+STATISTICS
+Str 4, Dex 19, Con 14, Int 15, Wis 13, Cha 14
+Base Atk +0 CMB +2; CMD 10
+Feats DodgeB, Weapon Finesse
+Skills Bluff +6, Craft (any one) +6, Escape Artist +8, Perception +5, Perform (limericks) +6, Perform (sing) +6, Sense Motive +5, Stealth +16, Survival +2, Racial Modifiers +4 Perception
+Languages Common, Elven, Sylvan
+SPECIAL ABILITIES
+Group Casting (Sp) A group of three or more mimis together can use freezing sphere (DC 18 half), once per day. Caster level 12th. The save DCs are Charisma-based.
+Lower Temperature (Su) A mimi can, as a free action, lower the temperature in a 10- foot radius around its body by 20-80 degrees. Creatures in the area that are not immune or resistant to cold may take damage.

@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/night-monarch
+Herald of Dreams
+CR 15
+XP 51,200
+CG Huge outsider (chaotic, extraplanar, good, herald)
+Init +10; Senses blindsense 60 ft., darkvision 120 ft.; Perception +29
+DEFENSE
+AC 31, touch 15, flat-footed 24 (+6 Dex, +1 dodge, +16 natural, –2 size)
+hp 207 (18d10+108)
+Fort +17, Ref +14, Will +15
+Defensive Abilities poison flesh, DR 15/evil; Immune cold (itself and its riders), electricity, sleep; SR 26
+OFFENSE
+Speed 30 ft., fly 120 ft. (average)
+Melee 2 claws +23 (2d6+7), 2 wings +21 (2d6+3)
+Space 15 ft.; Reach 15 ft.
+Special Attacks breath weapon (30-ft. cone, web, Reflex DC 25 negates, usable every 1d4 rounds), dream dust, poison
+Spell-Like Abilities (CL 15th; concentration +22)
+At will—cure serious wounds, dream, freedom of movement, hypnotic pattern (DC 19)
+3/day—break enchantment, greater dispel magic, plane shift (self and willing targets only), remove curse, remove fear, remove paralysis
+1/day—hallow, regenerate
+STATISTICS
+Str 25, Dex 22, Con 23, Int 20, Wis 18, Cha 24
+Base Atk +18; CMB +27; CMD 44 (52 vs. trip)
+Feats Alertness, Dodge, Flyby Attack, Hover, Improved Initiative, Lightning Reflexes, Multiattack, Snatch, Wind Stance
+Skills Diplomacy +28, Fly +2, Handle Animal +25, Heal +22, Knowledge (geography, religion) +23, Knowledge (nature, planes) +26, Perception +29, Sense Motive +29, Stealth +19, Survival +25
+Languages Auran, Celestial, Common (can’t speak); telepathy touch
+SQ no breath (itself and its riders)
+SPECIAL ABILITIES
+Breath Weapon (Su) The Herald of Dreams’ breath weapon creates sticky webbing (as the web universal monster ability). It can use this ability in the air to entangle flying creatures without requiring the use of anchor points to hold the web in place.
+Dream Dust (Su) As a full-round action, The Herald of Dreams can flutter its wings to create a 30-foot burst of dust centered on itself. This dust affects creatures as deep slumber, but with no Hit Die limit (Will DC 25 negates).
+This ability is usable once every 1d4 rounds. The save DC is Constitution-based.
+Poison Flesh (Ex) Any creature that bites the Herald of Dreams is exposed to black lotus extract poison. Eating it’s flesh gives the attacker a –4 penalty on the poison’s saving throw.

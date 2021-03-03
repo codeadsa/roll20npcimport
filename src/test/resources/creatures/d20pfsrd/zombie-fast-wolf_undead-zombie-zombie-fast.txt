@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/zombie/zombie-fast/zombie-fast-wolf
+Zombie Wolf CR 1
+XP 400
+Fast zombie wolf
+NE Medium undead
+Init +3; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 15, touch 13, flat-footed 12 (+3 Dex, +2 natural)
+hp 16 (3d8+3)
+Fort +1, Ref +4, Will +3
+Immune undead traits
+OFFENSE
+Speed 60 ft.
+Melee bite +4 (1d6+3 plus trip), slam +4 (1d6+3)
+Special Attacks quick strikes
+STATISTICS
+Str 15, Dex 17, Con —, Int —, Wis 10, Cha 10
+Base Atk +2; CMB +4; CMD 17 (21 vs. trip)
+Feats ToughnessB
+SPECIAL ABILITIES
+Quick Strikes (Ex) Whenever a zombie wolf takes a full-attack action, it can make one additional slam attack at its highest base attack bonus.

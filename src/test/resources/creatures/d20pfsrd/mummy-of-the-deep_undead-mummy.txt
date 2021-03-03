@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/mummy/mummy-of-the-deep
+Mummy Of The Deep CR 4
+XP 1,200
+NE Medium undead (aquatic)
+Init +0; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 20, touch 10, flat-footed 20 (+10 natural)
+hp 40 (5d8+10 plus 5)
+Fort +5, Ref +1, Will +6
+DR 5/–; Immune undead traits; Resist fire 10
+OFFENSE
+Speed 20 ft., swim 20 ft.
+Melee slam +6 (1d6+4 plus grab)
+Special Attacks curse of the deep, despair
+STATISTICS
+Str 17, Dex 10, Con –, Int 6, Wis 14, Cha 15
+Base Atk +3; CMB +6 (+10 to grapple); CMD 16
+Feats Great Fortitude, Skill Focus (Perception), Toughness
+Skills Perception +10, Stealth +7, Swim +17
+SQ control water
+SPECIAL ABILITIES
+Control Water (Su) Once per day, a mummy of the deep can control water (as the spell, caster level 8th).
+Curse of the Deep (Su) On a successful grapple check against a creature up to its size, a mummy of the deep presses its lips against an opponent’s and regurgitates sea water into the opponent’s lungs.
+Each round thereafter, for the next 10 rounds, the victim must make a DC 15 Fortitude save or take 1d4 points of damage that round. Three consecutive successful saves means the character has coughed up enough water to shake the effects of this attack and takes no further damage. An affected creature can take no actions other than to defend itself in any round it takes damage from this ability. At 0 or less hit points, the victim falls unconscious. In the next round, he drowns. The save DC is Charisma-based.
+Holding one’s breath does not prevent drowning (water is already in the lungs). A remove curse, heal spell, or successful DC 20 Heal check halts the damage if applied before the creature reaches 0 or less hit points.
+Despair (Su) At the mere sight of a mummy of the deep, the viewer must succeed on a DC 15 Will save or be paralyzed with fear for 1d4 rounds. Whether or not the save is successful, that creature cannot be affected again by that mummy of the deep’s despair ability for one day. The save DC is Charisma-based.

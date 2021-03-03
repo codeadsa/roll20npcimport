@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-inverted
+Inverted Giant CR 11
+XP 12,800
+CE Huge humanoid (giant)
+Init +6; Senses blindsight 60 ft.; Perception +9; Aura fear aura (60 ft., DC 21)
+DEFENSE
+AC 25, touch 10, flat-footed 23 (+2 Dex, +15 natural, –2 size)
+hp 152 (16d8+80); fast healing 4
+Fort +15, Ref +7, Will +7
+Defensive Abilities rock catching; Resist cold 10, electricity 10, fire 10
+OFFENSE
+Speed 30 ft.
+Melee bite +19 (2d8+9 plus grab), 2 claws +19 (1d8+9 plus 1d6 energy)
+Space 15 ft.; Reach 15 ft.
+Special Attacks grab (Large), rock Throwing (120 ft.), runes, swallow whole (2d8+13 bludgeoning damage, AC 17, 15 hp)
+STATISTICS
+Str 29, Dex 14, Con 20, Int 9, Wis 11, Cha 16
+Base Atk +12; CMB +23 (+27 grapple); CMD 35
+Feats Awesome Blow, Cleave, Critical Focus, Improved Bull Rush, Improved Initiative, Iron Will, Power Attack, Vital Strike
+Skills Climb +17, Intimidate +11, Perception +9
+Languages Giant (can’t speak)
+SPECIAL ABILITIES Claws (Ex) An inverted giant can channel arcane energy into its fists whenever it makes a successful claw attack, dealing 1d6 points of energy damage (cold, electricity, or fire, chosen when the inverted giant attacks) in addition to the damage its claws normally deal.
+Runes (Ex) Whenever an inverted giant is affected by a spell or spell-like ability, it can cause the runes covering its body to flash with light. All creatures within 10 feet of the giant must make a DC 21 Fortitude save or be blinded for 1 round. The saving throw is Charisma-based.

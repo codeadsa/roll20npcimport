@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-crystal/crystal-dragon-very-young
+Crystal Dragon, Very Young
+CR 4
+XP 1,200
+CG Small dragon (earth)
+Init +2; Senses dragon senses; Perception +9
+
+DEFENSE
+AC 18, touch 13, flat-footed 16 (+2 Dex, +5 natural, +1 size)
+hp 42 (5d12+10)
+Fort +6, Ref +8, Will +5
+Immune paralysis, sleep, sonic
+OFFENSE
+Speed 60 ft., burrow 30 ft., climb 30 ft., fly 150 ft. (average)
+Melee bite +7 (1d6+1), 2 claws +7 (1d4+1)
+Special Attacks breath weapon (20-ft. cone, 4d4 sonic, DC 14)
+Spell-Like Abilities (CL 5th; concentration +9)
+At will—color spray (DC 15)
+STATISTICS
+Str 13, Dex 14, Con 15, Int 12, Wis 13, Cha 18
+Base Atk +5; CMB +5; CMD 17 (21 vs. trip)
+Feats Deceitful, Lightning Reflexes, Power Attack
+Skills Bluff +14, Climb +17, Disguise +11, Fly +12, Intimidate +12, Perception +9, Stealth +14; Racial Modifiers +8 Climb
+Languages Draconic, Undercommon
+SQ razor sharp
+SPECIAL ABILITIES
+Razor Sharp (Sp) All of a crystal dragon’s natural attacks deal slashing damage.
+

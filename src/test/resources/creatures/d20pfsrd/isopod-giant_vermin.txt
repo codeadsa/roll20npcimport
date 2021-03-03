@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/isopod-giant
+Giant Isopod CR 1/8
+XP 50
+N Tiny vermin (aquatic)
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 14, touch 11, flat-footed 14 (–1 Dex, +3 natural, +2 size)
+hp 6 (1d8+2)
+Fort +4, Ref –1, Will +0
+Defensive Abilities curl; Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., swim 10 ft.
+Melee bite –1 (1d3–3)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 5, Dex 9, Con 14, Int —, Wis 11, Cha 2
+Base Atk +0; CMB –3; CMD 4 (can’t be tripped)
+Skills Swim +5
+SPECIAL ABILITIES
+Curl (Ex) As a standard action, a giant isopod can curl into a ball, increasing its natural armor bonus by +2 but preventing it from taking any move actions. Uncurling is also a standard action.

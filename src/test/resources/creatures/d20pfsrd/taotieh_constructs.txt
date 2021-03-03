@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/taotieh
+Taotieh CR 11 (XP 12,800)
+N Large construct
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +2
+DEFENSE
+AC 28, touch 11, flat-footed 26 (+2 Dex, +17 natural, -1 size)
+hp 107 (14d10+30)
+Fort +4, Ref +6, Will +6
+DR 10/adamantine; Immune construct traits; Resist acid 10, cold 10, electricity 10, fire 10
+Weaknesses vulnerable to sonic
+OFFENSE
+Speed 40 ft.
+Melee bite +23 (1d8+10 plus grab), 2 claws +23 (1d6+10 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks pounce, rake (2 claws +23, 1d6+10), swallow whole (suffocation, AC 17, hardness 8, 25 hp)
+STATISTICS
+Str 30, Dex 15, Con —, Int —, Wis 14, Cha 1
+Base Atk +14; CMB +25 (+29 grapple); CMD 37 (41 vs. trip)
+SPECIAL ABILITIES
+Swallow Whole (Su) A taotieh can expand its jaws to swallow Large or smaller creatures. When swallowed, a victim is transported to its own lightless pocket dimension—a stone prison just large enough to contain the victim. Creatures do not take damage within this pocket dimension, but there is only enough air inside to last for 3 rounds. At the end of the third round, the trapped creature must hold its breath or risk suffocation. A creature that attempts to carve its way out of this dimension with a weapon must be able to penetrate the surrounding walls’ hardness 8. When a creature manages to cut its way out of this dimension, it appears to leap out of the taotieh’s mouth to emerge into any square adjacent to the taotieh’s space—no actual hole is created in the creature, and new creatures that are swallowed later must cut their own way out. When a taotieh is destroyed, its body bursts open to allow the contents of its extradimensional stomachs to spill out into adjacent spaces. A taotieh can swallow up to four creatures at any one time.

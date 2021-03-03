@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/animated-object/animated-object-gargantuan
+Gargantuan Animated Object CR 9
+XP 6,400
+N Gargantuan construct
+Init -2 Senses darkvision 60, low-light vision; Perception -5
+DEFENSE
+AC 17, touch 4, flat-footed 17 (-2 Dex, +13 natural, -4 size)
+hp 115 (10d10+60 size)
+Fort +3, Ref +1, Will -2
+Defensive Abilities hardness 5 Immune Construct Traits
+
+OFFENSE
+Speed 30 ft.
+Melee slam +20 (2d6+21)
+STATISTICS
+Str 38, Dex 6, Con -, Int -, Wis 1, Cha 1
+Base Atk +10 CMB +28 CMD 36
+SQ 5 construction points
+
+SPECIAL ABILITIES
+Construction Points Gargantuan animated objects have 5 construction points.

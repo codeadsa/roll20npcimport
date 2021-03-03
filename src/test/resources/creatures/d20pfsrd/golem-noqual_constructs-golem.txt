@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-noqual
+Noqual Golem CR 18
+XP 153,600
+N Huge construct
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +0; Aura impeded magic (60 ft.)
+DEFENSE
+AC 32, touch 10, flat-footed 30 (+2 Dex, +22 natural, –2 size)
+hp 202 (25d10+65)
+Fort +8, Ref +10, Will +8; +8 vs. spells, spell-like abilities, and supernatural abilities
+Defensive Abilities spell absorption; DR 15/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 40 ft.
+Melee 2 slams +36 (4d8+19/19–20 plus spell sunder)
+Space 15 ft.; Reach 15 ft.
+Special Attacks construct bane
+STATISTICS
+Str 36, Dex 15, Con –, Int –, Wis 11, Cha 1
+Base Atk +25; CMB +40; CMD 52
+Feats ToughnessB
+SPECIAL ABILITIES
+Construct Bane (Ex) A noqual golem deals an additional 2d6 points of damage against constructs (except other noqual golems) and undead created by feats or spells.
+Immunity to Magic (Su) A noqual golem is immune to and absorbs any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A magical attack that deals electricity damage slows a noqual golem (as the slow spell) for 3 rounds, with no saving throw. If the golem is under a haste effect, the attack breaks the haste effect instead. A mage’s disjunction spell staggers a noqual golem and negates its impeded magic ability for 1d4 rounds. Impeded Magic (Su) To successfully cast a spell within 60 feet of a noqual golem, a caster must make a concentration check (DC 25 + the level of the spell being cast). If the check fails, the noqual golem absorbs the spell.
+Powerful Blows (Ex) A noqual golem inflicts 1-1/2 times its Strength bonus and threatens a critical hit on a 19–20 with its slam attacks.
+Spell Absorption (Su) A noqual golem absorbs any spells blocked or dispelled by its impeded magic, immunity to magic, and spell sunder abilities. It heals 5 points of damage for every spell level absorbed. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. Absorbing a spell gives the golem the benefits of haste (as the spell) for 1 round per spell level.
+Spell Sunder (Su) A creature struck by a noqual golem’s slam attack is targeted by dispel magic (CL 18th). It absorbs any spells so dispelled.
+Noqual Golem Construction
+A noqual golem’s body is sculpted from 30,000 pounds of iron alloyed with 1,000 pounds of noqual at the staggering cost of 53,000 gp.
+CL 18th; Price 253,000 gp
+CONSTRUCTION REQUIREMENTS
+Feats Craft Construct; Spells geas/quest, greater dispel magic, polymorph any object, wish; Caster Level 18; Skill(s) Craft (armor) or Craft (weapons) DC 26; Cost 153,000 gp

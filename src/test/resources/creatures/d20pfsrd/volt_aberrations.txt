@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/volt
+Volt CR 2
+XP 600
+N Small aberration
+Init +3; Senses darkvision 60 ft.; Perception +7
+DEFENSE
+AC 16, touch 14, flat-footed 13 (+3 Dex, +2 natural, +1 size)
+hp 16 (3d8+3)
+Fort +2, Ref +6, Will +4
+Immune electricity
+OFFENSE
+Speed fly 30 ft. (good)
+Melee bite +6 (1d4 plus attach), tail slap +1 (1d4 plus shock)
+Special Attacks blood drain (1d4 Constitution)
+TACTICS
+Volts are very aggressive and attack by latching onto a foe and draining its blood. An attached volt strikes with its tail and maintains its hold until either it or its opponent is dead.
+STATISTICS
+Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 6
+Base Atk +2; CMB +1 (+9 grapple when attached); CMD 14
+Feats Lightning Reflexes, Weapon Finesse
+Skills Fly +9, Perception +7
+SPECIAL ABILITIES
+Attach (Ex) When a volt hits with bite, it latches onto the opponent’s body, anchoring it in place. An attached volt is effectively grappling its prey. The volt loses its Dexterity bonus to AC and has an AC of 13, but holds on with great tenacity and inserts its proboscis into the grappled target’s flesh. A volt has a +8 racial bonus to maintain its grapple on a foe once it is attached. An attached volt can be struck with a weapon or grappled itself–if its prey manages to win a grapple check or Escape Artist check against it, the volt is removed.
+Shock (Su) A volt delivers an electrical charge when it hits with its tail slap, dealing 2d4 points of nonlethal damage. An attached volt can attack the grappled opponent with its tail slap with a +4 bonus in the same round.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dogmole-kp/dogmole-juggernaut-kp
+Dogmole Juggernaut CR 6
+XP 2,400
+N Large animal
+Init +6; Senses blindsight 30 ft., scent; Perception +2
+DEFENSE
+AC 20, touch 11, flat-footed 18 (+4 armor, +2 Dex, +5 natural, -1 size)
+hp 85 (9d8+45)
+Fort +13, Ref +8, Will +3
+OFFENSE
+Speed 30 ft., burrow 10 ft., swim 10 ft.
+Melee bite +13 (1d8+8) and 2 claws +10 (2d6+4)
+Space 10 ft., Reach 10 ft.
+Special Attacks ferocity, wormkiller rage
+STATISTICS
+Str 26, Dex 14, Con 20, Int 2, Wis 10, Cha 2
+Base Atk +6; CMB +15; CMD 27
+Feats Great Fortitude, Improved Bull Rush, Improved Initiative, Power Attack
+Skills Climb +9, Escape Artist +4, Perception +2, Survival +4
+SPECIAL ABILITIES
+Burrow (Ex) Dogmole juggernauts cannot burrow into solid rock, but they can move through softer material like soil or loose rubble, leaving a usable tunnel 10 ft. in diameter.
+Ferocity (Ex) Dogmole juggernauts continue to fight without penalty even while disabled or dying.
+Powerful Build (Ex) A dogmole juggernaut is treated as one size larger if doing so is advantageous to it (such as during grapple checks, bull rush attempts, and trip attempts, but not for the purposes of squeezing or AC).
+Wormkiller Rage (Ex) Wild dogmole juggernaut packs are famed for their battles against the monsters of the dark caverns of the world. If it draws blood against a vermin, purple worm, or other underground invertebrate, the dogmole juggernaut gains a +4 bonus to Strength and Constitution but suffers a -2 penalty to AC.The wormkiller rage lasts for a number of rounds equal to 1+ its Constitution modifier (minimum 1 round). It cannot end the rage voluntarily while the creatures that sent it into a rage still live.

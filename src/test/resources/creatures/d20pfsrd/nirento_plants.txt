@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/nirento
+Nirento CR 4
+XP 1,200
+N Large plant
+Init +6; Senses blindsight 60 ft., low-light vision; Perception +7
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, –1 size)
+hp 42 (5d8+20)
+Fort +8, Ref +3, Will +0
+DR 5/slashing; Immune plant traits, sonic
+OFFENSE
+Speed 10 ft.
+Melee 2 vines +7 (1d6+4 plus grab and trip)
+Space 10 ft.; Reach 15 ft.
+Special Attacks constrict (1d6+4), hypnotic display
+STATISTICS
+Str 18, Dex 14, Con 19, Int 2, Wis 9, Cha 11
+Base Atk +3; CMB +8 (+12 grapple); CMD 20
+Feats Combat Reflexes, Improved Initiative, Weapon Focus (vines)
+Skills Perception +7
+SPECIAL ABILITIES
+Hypnotic Display (Ex) Once per day as a standard action, a nirento can sway and dance in such a way that it attracts any who see the tree within a 60-foot radius. Any creatures other than nirentos in the area must succeed at a DC 17 Will save or become entranced by the nirento’s graceful movements, thereafter believing the nirento to be a perfectly normal tree. Affected creatures become passive for 1d6 minutes and refuse to attack the nirento during this time. Affected creatures can attempt a new Will save each round that the nirento attacks an ally—if a hypnotized creature is attacked by the nirento, it gains a +4 bonus on its Will save to see through the hypnotic display. This is a mind-affecting compulsion effect. The save DC is Constitution-based.

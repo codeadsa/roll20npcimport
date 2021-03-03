@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/marble-snake
+Marble Snake CR 2
+XP 600
+N Large magical beast
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +11
+DEFENSE
+AC 12, touch 10, flat-footed 11 (+2 Dex, +2 natural, -1 size)
+hp 25 (3d10+9 plus 3)
+Fort +5, Ref +4, Will +1
+OFFENSE
+Speed 20 ft., climb 20 ft.
+Melee bite +6 (1d6+6)
+Space 10 ft.; Reach 5 ft.
+Special Attacks whistle
+STATISTICS
+Str 18, Dex 13, Con 14, Int 2, Wis 10, Cha 11
+Base Atk +3; CMB +8; CMD 19 (can’t be tripped)
+Feats Toughness, Skill Focus (perception)
+Skills Acrobatics +13, Climb +20, Perception +11, Stealth +5; Racial Modifiers +8 Acrobatics, +8 Climb, +4 Perception, +4 Stealth
+SPECIAL ABILITIES
+Whistle (Su) A marble snake can whistle, gaining the attention of any creature within 50 feet that hears it. All creatures (other than marble snakes) with the area must succeed on a DC 11 Will save or become entranced. This is a sonic mind-affecting charm effect. A creature that successfully saves cannot be affected again by the same marble snake’s whistle for one day. The save DC is Charisma-based.
+An entranced victim walks toward the marble snake, taking the most direct route available. If the path leads into a dangerous area, that creature gets a second saving throw. The effect continues for as long as the marble snake whistles and for 1 round thereafter. An entranced victim is effectively dazed (cannot attack, but can defend). If an entranced opponent is attacked, the effect is immediately broken. A bard‘s countersong ability allows the entranced creature to attempt a new Will save.

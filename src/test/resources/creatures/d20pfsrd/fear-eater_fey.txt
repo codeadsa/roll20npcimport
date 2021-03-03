@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/fear-eater
+Fear Eater CR 5
+XP 1,600
+NE Medium fey
+Init +10; Senses darkvision 60 ft., low-light vision; Perception +12
+DEFENSE
+AC 18, touch 16, flat-footed 12 (+6 Dex, +2 natural)
+hp 52 (8d6+24)
+Fort +5, Ref +12, Will +7
+DR 5/cold iron; Immune disease, fear
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee 2 claws +10 (1d6+2 plus anxiety spores)
+Special Attacks anxiety spores, dread burst, fungal snare
+Spell-Like Abilities (CL 5th, concentration +7)
+At will—cause fear (DC 13), dancing lights
+3/day—faerie fire, paranoia (DC 14)
+1/day—fear, feather fall
+STATISTICS
+Str 14, Dex 22, Con 17, Int 11, Wis 12, Cha 15
+Base Atk +4; CMB +6; CMD 22 (can’t be tripped)
+Feats Combat Reflexes, Improved Initiative, Power Attack, Weapon Finesse
+Skills Acrobatics +17, Climb +21, Intimidate +10, Perception +12, Sense Motive +12, Stealth +17; Racial Modifiers +8 Climb
+Languages Aklo, Undercommon
+SPECIAL ABILITIES
+Anxiety Spores (Ex) Any creature struck by the fear eater’s claws must succeed at a DC 17 Fortitude saving throw or be infected with anxiety spores, which cause nervousness and muscle tremors.
+Anxiety Spores: Disease—injury; save Fort DC 17; onset 1 round; frequency 1/minute; effect cumulative –1 penalty on saving throws against emotion-manipulating effects (maximum –5); cure 2 consecutive saves.
+Dread Burst (Su) As a standard action, a fear eater can cause mushrooms to erupt from any creature within 30 feet already infected with its anxiety spores.
+The targeted creature takes 1d6 points of Charisma damage (Fortitude DC 17 negates) as the growing spores siphon away her emotions. If the affected creature is currently shaken, frightened, or panicked, any creature within 10 feet gains the same condition for 1d4 rounds (Will DC 17 negates). This is a mind-affecting fear effect.
+The save DCs are Charisma-based.
+Fungal Snare (Ex) Once every 1d4 rounds, a fear eater can spew a fungal mass up to 30 feet, which explodes and coats all creatures within a 10-foot-radius burst with sticky filaments. Creatures other than fear eaters are entangled (Reflex DC 17 negates). An entangled creature can attempt to break free with a successful DC 14 Strength or Escape Artist check as a move action. The save DC is Charisma-based.

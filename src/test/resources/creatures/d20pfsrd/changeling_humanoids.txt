@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/changeling
+Changeling CR 1/2
+XP 200
+Female changeling witch 1
+LN Medium humanoid (changeling)
+Init –1; Senses darkvision 60 ft.; Perception +2
+DEFENSE
+AC 10, touch 9, flat-footed 10 (–1 Dex, +1 natural)
+hp 8 (1d6+2)
+Fort +1, Ref –1, Will +4
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +0 (1d4+1)
+Special Attacks hexes (cauldron)
+Witch Spells Prepared (CL 1st; concentration +3)
+1st—hypnotism (DC 14), sleep (DC 14)
+0 (at will)—daze (DC 13), light, touch of fatigue (DC 13)
+Patron transformation
+STATISTICS
+Str 10, Dex 8, Con 12, Int 15, Wis 14, Cha 15
+Base Atk +0; CMB +0; CMD 9
+Feats Brew Potion, Combat Casting
+Skills Craft (alchemy) +10, Heal +6, Knowledge (arcana) +6, Spellcraft +6
+Languages Common, Draconic, Elven, Orc
+SQ hulking changeling, witch’s familiar (spider)

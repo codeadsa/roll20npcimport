@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/skvader
+Skvader CR 1/2
+XP 200
+N Tiny magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +1
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 6 (1d10+1)
+Fort +3, Ref +4, Will +1
+OFFENSE
+Speed 40 ft., fly 40 ft. (poor)
+Melee bite +5 (1d3–1 plus attach)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 8, Dex 15, Con 13, Int 4, Wis 13, Cha 6
+Base Atk +1; CMB +1; CMD 10 (14 vs. trip)
+Feats Weapon Finesse
+Skills Stealth +14
+SPECIAL ABILITIES
+Attach (Ex) When a skvader hits with its bite attack, it automatically grapples its foe, dealing automatic bite damage each round. An attached skvader loses its Dexterity bonus to AC and has an AC of 12.

@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/divs/div-pairaka
+Pairaka CR 7
+
+XP 3,200
+NE Medium outsider (div, evil, extraplanar, shapechanger)
+Init +9; Senses darkvision 60 ft., detect good, detect magic, see in darkness; Perception +16
+DEFENSE
+AC 23, touch 15, flat-footed 18 (+5 Dex, +8 natural)
+hp 76 (9d10+27)
+Fort +6, Ref +11, Will +10
+DR 10/cold iron or good; Immune fire, poison, disease; Resist acid 10, electricity 10; SR 22
+OFFENSE
+Speed 30 ft., fly 50 ft. (good)
+Melee 2 claws +14 (1d6+3 plus disease)
+Spell-Like Abilities (CL 12th; concentration +19)
+Constant—detect good, detect magic
+At will—charm monster (DC 20), dimension door (self plus 50 lbs. of objects only), misdirection (DC 19)
+1/day—insect plague, summon (level 3, 1d4 dorus 50%)
+STATISTICS
+Str 17, Dex 20, Con 16, Int 14, Wis 18, Cha 24
+Base Atk +9; CMB +12; CMD 27
+Feats Deceitful, Flyby Attack, Hover, Improved Initiative, Weapon Finesse
+Skills Bluff +20, Diplomacy +18, Disguise +18, Fly +16, Intimidate +16, Knowledge (local) +13, Knowledge (planes) +13, Perception +16, Sense Motive +13, Stealth +17
+Languages Abyssal, Celestial, Infernal; telepathy 100 ft.
+SQ change shape (any Small or Medium animal or humanoid; polymorph)
+SPECIAL ABILITIES
+Disease (Su) A pairaka carries two diseases. Its claws infect targets with bubonic plague, and any willing contact with its skin (such as through caressing, grappling, or more) exposes victims to the shakes.
+Bubonic Plague: Claw—injury; save Fort DC 17; onset 1 day; frequency 1/day; effect 1d4 Str damage, 1 Cha damage, and target is fatigued; cure 2 consecutive saves.
+Shakes: Contact; save Fort DC 13; onset 1 day; frequency 1/day; effect 1d8 Dex damage; cure 2 consecutive saves.
+Lustful Dreams (Su) Pairakas can torment sleeping creatures. While an intelligent creature sleeps, a pairaka can slip into the target’s mind and twist its dreams to lusty nocturnal visions. The victim must be asleep for the pairaka to use this ability and the pairaka must be within 100 feet. If the victim fails a DC 21 Will save, it experiences vivid hallucinations of a lurid nature that leave it breathless and fatigued upon waking. The victim, even a depraved soul, rarely considers the sexual nature of these dreams enjoyable, as the images exploit any number of taboos the pairaka suspects its victim might harbor. The save DC is Charisma-based. Creatures that do not sleep or dream are immune to this effect.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/corpsespinner
+Corpsespinner CR 11
+XP 12,800
+N Huge magical beast (extraplanar)
+Init +7; Senses astralsense, darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 25, touch 11, flat-footed 22 (+3 Dex, +14 natural, –2 size)
+hp 127 (15d10+45)
+Fort +12; Ref +12; Will +7
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +18 (2d8+7/19–20 plus poison)
+Space 15 ft.; Reach 15 ft.
+Special Attacks create corpsespun, web (ranged touch +16, DC 28, 15 hp)
+STATISTICS
+Str 20, Dex 17, Con 17, Int 7, Wis 15, Cha 10
+Base Atk +15; CMB +22; CMD 35 (47 vs. trip)
+Feats Ability Focus (poison), Alertness, Combat Reflexes, Improved Initiative, Improved Critical (bite), Improved Natural Attack (bite), Power Attack, Skill Focus (Stealth)
+Skills Climb +17, Perception +10, Sense Motive +8, Stealth +8
+Languages Aklo
+SQ astral jaunt
+SPECIAL ABILITIES
+Astral Jaunt (Su) A corpsespinner can shift from the Astral Plane to the Material Plane as a free action, and shift back again as a move action (or as part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th) except it accesses the Astral Plane.
+Astralsense (Su) A corpsespinner can automatically detect the location of anything within 200 feet of it on the Astral Plane.
+Create Corpsespun (Su) Creatures slain by a corpsespinner but not devoured rise in 1 hour as a corpsespun creature.
+Poison (Ex) Bite—injury; save Fort DC 22; frequency 1/round for 4 rounds; effect 2d6 Intelligence damage, death at 0 Intelligence and rise as a corpsespun after 1 hour; cure 2 consecutive saves. The save DC is Constitution-based.
+Web (Ex) As the standard ability but with range 80 ft. In addition the checks include both a +4 bonus because the webs are constructed of astral material and a +4 racial bonus. The corpsespinner cannot produce the magical astral webs during combat.

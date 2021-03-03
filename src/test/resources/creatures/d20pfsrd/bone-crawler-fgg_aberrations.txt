@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/bone-crawler-fgg
+Bone Crawler CR 12
+XP 19,200
+N Huge aberration
+Init +3; Senses blindsight 60 ft.; Perception +15
+DEFENSE
+AC 11, touch 11, flat-footed 8 (+3 Dex, –2 size);
+or
+AC 18, touch 8, flat-footed 18 (+10 natural armor, –2 size) in bone armor
+hp 114 (12d8+60)
+Fort +13; Ref +9; Will +10
+Defensive Abilities bone armor, cannot be flanked; SR23
+OFFENSE
+Speed 20 ft. in bone armor (30 ft. base); climb 10 ft.
+Melee up to 12 bone blades +16 (1d8+8/19–20) and/or up to 12 whipfronds +15 (1d4+8)
+Space 15 ft.; Reach 10 ft.
+Special Attacks bone blades, whipfronds, whirling frenzy
+STATISTICS
+Str 26, Dex 16, Con 21, Int 9, Wis 15, Cha 9
+Base Atk +9; CMB +19; CMD 32
+Feats Cleave, Improved Critical (bone blade), Lightning Reflexes, Lunge, Power Attack, Weapon Focus (bone blade)
+Skills Acrobatics +9, Climb +25 (+15 in bone armor), Disguise +5 (+15 disguised as mound of bones), Perception +15, Stealth +8; Racial Modifiers when in bone armor, a bone crawler gains a +10 on disguise checks to resemble a mound of bones, and takes a –10 armor check penalty on Climb checks
+Languages Aklo
+SPECIAL ABILITIES
+Bone Armor (Ex) The bone crawler is normally encountered encased in a shell of iron-hard bones. This shell has a hardness of 10, takes half damage from energy attacks (except sonic attacks) and has hit points equal to 10 x (HD + 1.) Bone armor weighs 1 pound per hit point. It can take damage like any object, though it receives the bone crawler’s saving throws and spell resistance. Unlike carried objects, area of effect attacks require the bone crawler to roll a separate saving throw for its bone armor, even if it makes the saving throw itself. Spell resistance is checked just once for the overall creature and its armor, however. While it bears bone armor, the bone crawler receives no bonus to AC for its Dexterity.
+After the first 10 hit points of damage, every 10 hit points worth of bone armor provides the bone crawler with one bone blade that it can use in melee as described below.
+As its armor receives damage, it likewise loses these bone blades. The last 10 hit points of bone armor represent those protecting the main body itself; until the armor is destroyed, the central body is considered to have total cover.
+A bone crawler can repair its armor by absorbing new bones into its mass. This requires a 24-hour period while enzymes secreted by specialized tendrils harden the bone.
+The number of hit points gained depends on the size of the skeleton or bone collection absorbed: a Tiny skeleton repairs 1 hit point, a Small skeleton 1d4 hit points, a Medium skeleton 2d4 hit points, and Large and larger skeletons 4d4 hit points. Note that skeletons of Huge size and larger contain many bones that are too large for the bone crawler to absorb effectively into its mass, which is why the hit points gained do not increase after Large size.
+Bone Blade (Ex) The bone crawler has a number of bony limbs that it can manipulate with its whipfronds. When attacking with these, it gains its full attack bonus as a primary weapon attack. It can only attack a creature or creatures in a single 5 ft. square with a maximum of 4 bone blades at once. Sunder attacks directed at bone blades do damage to the creature’s bone armor (see above.)
+Whipfrond (Ex) The bone crawler’s primary attacking tentacles are called whipfronds. It has one whipfrond per hit die. A whipfrond can be severed with a successful sunder attack with a slashing weapon that inflicts, in a single blow, a number of points of damage equal to or greater than the bone crawler’s hit dice. Whipfronds cannot be sundered while encased in bone armor; the armor must be destroyed first. As with the bone blades, the bone crawler can only attack a single 5 ft. square area with up to 4 whipfronds at a time, no more.
+Whirling Frenzy (Ex) As a full round action the bone crawler may whirl its bone blades around it in a swirling storm of sharpened edges. This attack inflicts 1d8+4 points of damage per three bone blades used (round down) on anyone within the bone crawler’s reach. A DC 19 Reflex save is allowed to take only half damage from this attack; alternately, a targeted creature may opt instead to make an attack of opportunity against the bone crawler instead.
+The save DC is Dexterity-based.

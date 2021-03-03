@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/dire-corby-tohc
+Dire Corby CR 1
+XP 400
+NE Medium monstrous humanoid
+Init +1; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 14, touch 11, flat-footed 13 (+1 Dex, +3 natural)
+hp 13 (2d10+2)
+Fort +1; Ref +4; Will +3
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +5 (1d4+3)
+TACTICS
+Dire corbies hunt in flocks. They enjoy the thrill of the hunt and enjoy running their prey down, toying with it before swooping in and tearing it to shreds with their claws. Dire corbies always fight to the death and never flee, even when faced with overwhelming odds.
+STATISTICS
+Str 16, Dex 12, Con 13, Int 6, Wis 10, Cha 8
+Base Atk +2; CMB +5; CMD 16
+Feats Blind-Fight
+Skills Climb +8, Perception +8, Stealth +5; Racial Modifiers +4 Perception
+Languages Aklo

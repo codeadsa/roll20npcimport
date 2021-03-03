@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/hyena/hyaenodon
+Hyaenodon CR 4
+XP 1,200
+N Large animal
+Init +2; Senses low-light vision, scent; Perception +10
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, –1 size)
+hp 47 (5d8+20 plus 5)
+Fort +8; Ref +6; Will +2 Spd 50 ft.
+OFFENSE
+Melee bite +11 (1d8+12 plus trip)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 26, Dex 15, Con 19, Int 2, Wis 13, Cha 6
+Base Atk +3; CMB +12; CMD 24 (28 vs. trip)
+Feats Skill Focus (Perception), Toughness, Weapon Focus (bite)
+Skills Perception +10, Stealth +3 (+7 in tall grass or undergrowth), Survival +5 (+9 tracking by scent); Racial Modifiers +4 Stealth in tall grass or undergrowth, +4 Survival (+8 when tracking by scent)

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azer
+Azer CR 2
+XP 600
+LN Medium outsider (extraplanar, fire)
+Init +1; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 18, touch 11, flat-footed 17 (+5 armor, +1 Dex, +2 natural)
+hp 15 (2d10+4)
+Fort +5, Ref +1, Will +4
+Immune fire; SR 13
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft. (20 ft. in armor)
+Melee mwk warhammer +4 (1d8+1/×3 plus 1d6 fire)
+Ranged light hammer +3 (1d4+1 plus 1d6 fire)
+Special Attacks heat (1d6 fire)
+STATISTICS
+Str 13, Dex 12, Con 15, Int 12, Wis 12, Cha 9
+Base Atk +2; CMB +3; CMD 14
+Feats Power Attack
+Skills Acrobatics +0, Appraise +6, Climb +3, Craft (any two) +6, Knowledge (nobility) +6, Perception +6
+Languages Common, Ignan
+Publisher’s Choice Quality Stock Art (c) Rick Hershey / Fat Goblin Games Examples
+Azer Fighter 6 /Rogue 1 (CR 9)

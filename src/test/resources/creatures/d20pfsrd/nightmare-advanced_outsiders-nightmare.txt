@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/nightmare/nightmare-advanced
+Advanced Nightmare CR 6
+XP 2,400
+NE Large outsider (evil, extraplanar)
+Init +8; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 23, touch 13, flat-footed 19 (+4 Dex, +10 natural, –1 size)
+hp 63 (6d10+30)
+Fort +10, Ref +9, Will +5
+OFFENSE
+Speed 40 ft., fly 90 ft. (good)
+Melee bite +11 (1d4+6), 2 hooves +6 (1d6+3 plus 1d4 fire)
+Space 10 ft.; Reach 5 ft.
+Special Attacks smoke
+Spell-Like Abilities (CL 6th, concentration +9)
+1/day (self plus 1 rider only)—plane shift
+STATISTICS
+Str 22, Dex 19, Con 20, Int 17, Wis 17, Cha 16
+Base Atk +6; CMB +13; CMD 27 (31 vs. trip)
+Feats Alertness, Improved Initiative, Run
+Skills Acrobatics +10, Escape Artist +10, Fly +15, Intimidate +12, Knowledge (planes) +12, Perception +14, Sense Motive +14, Stealth +9, Survival +12
+Languages Abyssal, Infernal
+SPECIAL ABILITIES
+Smoke (Su) In battle, a nightmare exhales smoke that chokes and blinds foes, filling a 15-foot cone each round as a free action. Anyone in the cone must succeed on a DC 16 Fortitude save or become sickened until 1d6 minutes after leaving the area. This smoke acts as obscuring mist for the purposes of concealment. The smoke persists for 1 round. The save DC is Constitution-based.

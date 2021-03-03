@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/oni/oni-fire-yai
+Fire Yai CR 15
+XP 51,200
+NE Large outsider (fire, giant, native, oni, shapechanger)
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +23
+DEFENSE
+AC 29, touch 10, flat-footed 28 (+8 armor, +1 Dex, +11 natural, -1 size)
+hp 229 (17d10+136); regeneration 5 (acid or cold)
+Fort +18, Ref +10, Will +15
+Immune fire; SR 26
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 60 ft. (good); 30 ft., fly 40 ft. (good) in armor
+Melee +1 katana +27/+22/+17/+12 (2d6+16/18-20) or 2 slams +26 (1d10+15)
+Ranged fiery missile +19 touch (4d6 fire plus burn)
+Space 10 ft.; Reach 10 ft.
+Special Attacks burn (2d6, DC 26), smoke form
+Spell-Like Abilities (CL 15th; concentration +17)
+Constant—fly
+At will—darkness, invisibility (self only), scorching ray
+3/day—charm monster (DC 16), deep slumber (DC 15), fireball (DC 15), fire shield (warm shield only), wall of fire
+1/day—incendiary cloud (DC 20)
+STATISTICS
+Str 31, Dex 16, Con 26, Int 14, Wis 17, Cha 15
+Base Atk +17; CMB +28; CMD 41
+Feats Cleave, Combat Reflexes, Great Cleave, Improved Initiative, Improved Overrun, Iron Will, Lightning Reflexes, Power Attack, Vital Strike
+Skills Bluff +22, Craft (weapons) +12, Craft (armor) +12, Diplomacy +11, Disguise +11, Fly +14, Intimidate +22, Knowledge (arcana) +14, Perception +23, Sense Motive +23, Spellcraft +11, Use Magic Device +14
+Languages Common, Giant
+SQ change shape (Medium or Large humanoid; alter self or giant form I)
+SPECIAL ABILITIES
+Fiery Missile (Su) As a swift action, a fire yai can launch a bolt of fire from its third eye. This attack has a range of 180 feet with no range increment.
+Smoke Form (Sp) As a standard action, a fire yai can turn into a cloud of smoke. This functions like gaseous form, except the cloud has the properties of the smoke cloud from a pyrotechnics spell (Fort DC 26 negates the effects of the smoke cloud). The fire yai can end this ability as a standard action.

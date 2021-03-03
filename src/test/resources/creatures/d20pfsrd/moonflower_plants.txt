@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/moonflower
+Moonflower CR 8
+XP 4,800
+N Huge plant
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 21, touch 8, flat-footed 21 (+13 natural, –2 size)
+hp 104 (11d8+55); fast healing 5
+Fort +12, Ref +3, Will +4
+DR 10/slashing; Immune electricity, plant traits; Resist cold 10
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 20 ft.
+Melee bite +15 (2d6+9 plus grab), 2 tentacles +13 (1d8+4)
+Space 15 ft.; Reach 15 ft.
+Special Attacks light pulse, pod prison
+STATISTICS
+Str 28, Dex 10, Con 21, Int 5, Wis 12, Cha 17
+Base Atk +8; CMB +19 (+23 grapple); CMD 29 (can’t be tripped)
+Feats Blind-Fight, Improved Initiative, Improved Sunder, Multiattack, Power Attack, Skill Focus (Stealth)
+Skills Perception +9, Stealth +4 (+20 in thick vegetation); Racial Modifiers +16 Stealth in thick vegetation
+Languages telepathy (1 mile, other moonflowers only)
+SQ pod spawn
+SPECIAL ABILITIES
+Light Pulse (Su) As a standard action, a moonflower can release a pulse of bright light. All creatures within a 50-foot burst that can see the moonflower must make a DC 20 Fortitude save or be blinded for 1d4 rounds. Moonflowers are immune to this ability. The save DC is Constitution-based.
+Pod Prison (Ex) This works like the swallow whole ability, except the moonflower can only use it once every 1d4 rounds, and the swallowed creature is immediately wrapped in a tight digestive cocoon and expelled into an adjacent square, where it takes damage every round (2d6 bludgeoning and 2d6 acid, AC 15, 25 hp). The cocooned target cannot use Escape Artist to get out of the cocoon. Other creatures can aid the target by attacking the cocoon with piercing or slashing weapons, but the creature within takes half the damage from any attack against the cocoon. Once the cocoon is destroyed, it deflates and decays. Each creature swallowed by a moonflower is encased in its own cocoon.
+Pod Spawn (Ex) Should a moonflower’s pod prison kill and digest a small or larger creature, the pod transforms into an adult moonflower with full hit points after 1d4 hours. The newly formed moonflower has its own consciousness, but some aspect of its trunk or blossoms resembles the creature that died within. The dead creature’s equipment remains inside the new moonflower and can be retrieved by killing it.

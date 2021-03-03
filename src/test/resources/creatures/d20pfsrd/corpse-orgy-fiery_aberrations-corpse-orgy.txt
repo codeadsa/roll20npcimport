@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/corpse-orgy/corpse-orgy-fiery
+Fiery Corpse Orgy CR 14
+XP 38,400
+Variant corpse orgy
+CE Large aberration (fire)
+Init +8; Senses all-around vision, darkvision 60 ft., tremorsense 60 ft.; Perception +28
+DEFENSE
+AC 28, touch 13, flat-footed 24 (+4 Dex, +15 natural, –1 size)
+hp 218 (19d8+133)
+Fort +15, Ref +12, Will +15
+DR 10/piercing or slashing; Immune fire
+Weaknesses vulnerable to cold
+OFFENSE
+
+Speed 30 ft.
+Melee 4 slams +20 (2d6+6 plus 1d6 fire)
+Space 10 ft.; Reach 10 ft.
+Special Attacks absorb body, burn (1d6 fire, DC 26), pain shriek
+STATISTICS
+
+Str 23, Dex 18, Con 25, Int 14, Wis 15, Cha 16
+Base Atk +14; CMB +21 (+23 bull rush); CMD 35 (37 vs. bull rush, can’t be tripped)
+Feats Blind-Fight, Great Fortitude, Improved Bull Rush, Improved Initiative, Iron Will, Lightning Reflexes, Lunge, Power Attack, Vital Strike, Weapon Focus (slam)
+Skills Climb +19, Escape Artist +19, Intimidate +25, Knowledge (dungeoneering) +20, Perception +28, Sense Motive +21, Stealth +15, Survival +13; Racial Modifiers +4 Perception
+Languages Aklo, Russian
+SPECIAL ABILITIES
+Absorb Body (Su) A corpse orgy can absorb the physical body of any creature it has reduced to 0 or fewer hit points by moving over it and remaining in contact with it for at least 1 full round. An unconscious or dying opponent can attempt a DC 26 Fortitude save to prevent the absorption. A dead opponent gets no saving throw. The save DC is Constitution-based. When it absorbs a body, the corpse orgy gains 12 temporary hit points. A creature whose body is absorbed can only be raised or resurrected if the corpse orgy that absorbed its body is slain and the corpse in question is recovered.
+All-Around Vision (Ex) A fiery corpse orgy sees in all directions at once. It can not be flanked.
+Pain Shriek (Su) Twice per day as a standard action, a corpse orgy can unleash a piercing shriek from the various heads captured in its form. This shriek deals 10d6 points of sonic damage to all creatures in a 40-foot radius (Fortitude DC 22 for half). Creatures that cannot hear do not take this damage. The save DC is Charisma-based.

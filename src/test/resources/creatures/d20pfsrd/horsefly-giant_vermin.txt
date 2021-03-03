@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/horsefly-giant
+Giant Horsefly CR 3
+XP 800
+N Large vermin
+Init +2; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +5
+DEFENSE
+AC 15, touch 11, flat-footed 13 (+2 Dex, +4 natural, –1 size)
+hp 26 (4d8+8)
+Fort +6; Ref +3; Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee bite +6 (1d6+6 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks blood drain (1d4 Constitution)
+STATISTICS
+Str 18, Dex 15, Con 14, Int —, Wis 12, Cha 7
+Base Atk +3; CMB +8 (+12 grapple); CMD 20
+Skills Fly +4, Perception +5; Racial Modifiers +4 Perception

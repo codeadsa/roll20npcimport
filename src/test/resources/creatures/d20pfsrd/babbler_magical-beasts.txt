@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/babbler
+Babbler CR 3
+XP 800
+CE Large magical beast
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +10
+DEFENSE
+AC 14, touch 10, flat-footed 14 (+1 Dex, +4 natural, -1 size)
+hp 30 (4d10+8)
+Fort +6; Ref +5; Will +3
+OFFENSE
+Speed 40 ft., 20ft. on two legs
+Melee 2 claws +7 (1d4+4) and bite +7 (1d6+4)
+Space 10 ft.; Reach 5 ft.
+Special Attacks sneak attack +2d6
+STATISTICS
+Str 18, Dex 13, Con 12, Int 10, Wis 14, Cha 11
+Base Atk +4; CMB +9; CMD 20 (24 vs. trip)
+Feats Improved Initiative, Skill Focus (Perception)
+Skills Acrobatics +10, Climb +9, Perception +10, Stealth +2 (+6 when slithering) , Swim +8; Racial Modifiers +4 Acrobatics, +4 Stealth when slithering, +4 Swim
+Languages Babbler, Common (cannot speak Common)

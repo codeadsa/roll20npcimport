@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/baccae
+Baccae CR 3
+XP 800
+CN Medium fey
+Init +3; Senses low-light vision; Perception +7
+DEFENSE
+AC 15, touch 13, flat-footed 12 (+3 Dex, +2 natural)
+hp 27 (5d6+5 plus 5)
+Fort +2; Ref +7; Will +3
+DR 5/cold iron
+OFFENSE
+Speed 30 ft.
+Melee greatclub +5 (1d10+3), 2 claws +4 (1d4+2), bite +5 (1d6+2)
+Special Attacks beast form, charming gaze, rage
+STATISTICS
+Str 15, Dex 16, Con 12, Int 11, Wis 9, Cha 16
+Base Atk +2; CMB +4; CMD 17
+Feats Toughness, Weapon Focus (bite), Weapon Focus (greatclub)
+Skills Bluff +11, Diplomacy +11, Escape Artist +10, Knowledge (planes) +3, Knowledge (religion) +3, Perception +7, Stealth +11
+Languages Common, Sylvan
+SPECIAL ABILITIES
+Beast Form (Su) When angered or intoxicated, a baccae takes on a beast-like visage, growing sharpened fangs and claws. This transformation cannot be ended voluntarily and lasts for up to 1 hour.
+Charming Gaze (Su) In human form, a baccae’s gaze can charm any creature meeting her gaze and within 30 feet. An affected creature can attempt a DC 14 Will save to resist the effects. If the save fails, the opponent acts as if affected by a charm person spell (caster level equals the baccae’s HD). A baccae can suppress this ability as a free action. The save DC is Charisma-based.
+Rage (Su) Once per day, a baccae in beast form can fly into berserk frenzy. This frenzy lasts for 1 minute (10 rounds). In this rage, she gains temporary bonuses to her ability scores: +4 Strength, +4 Constitution. She likewise gains a +2 morale bonus on Will saves, but takes a –2 penalty to Armor Class. A baccae cannot voluntarily end her rage.
+

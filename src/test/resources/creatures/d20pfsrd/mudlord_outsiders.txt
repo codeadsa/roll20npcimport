@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mudlord
+Mudlord CR 6
+XP 2,400
+N Medium outsider (earth, elemental, water)
+Init +7; Senses darkvision 60 ft., tremorsense 30 ft.; Perception +13
+DEFENSE
+AC 19, touch 13, flat-footed 16 (+3 Dex, +6 natural)
+hp 67 (9d10+18)
+Fort +8, Ref +9, Will +4
+Defensive Abilities amorphous, DR 10/magic; Immune elemental traits; SR 17
+Weaknesses vulnerable to magic
+OFFENSE
+Speed 30 ft., swim 40 ft.
+Melee 2 slams +13 (2d6+3 plus grab)
+Ranged mudball +12 touch (blindness)
+Special Attacks engulf (DC 17, 1d6+3 bludgeoning and smother), smother
+STATISTICS
+Str 17, Dex 16, Con 14, Int 10, Wis 13, Cha 7
+Base Atk +9; CMB +12; CMD 25 (can’t be tripped)
+Feats Combat Reflexes, Improved Initiative, Lunge, Skill Focus (Stealth), Weapon Focus (slam)
+Skills Acrobatics +15, Climb +9, Escape Artist +15, Intimidate +10, Knowledge (planes) +6, Perception +13, Stealth +18, Swim +17
+Languages Terran
+SQ compression, freeze (mud puddle)
+SPECIAL ABILITIES
+Engulf (Su) A mudlord can engulf no more than one Medium or two Small or smaller creatures at a time.
+Mudball (Ex) A mudlord can throw a ball of sticky mud up to 30 feet at an opponent’s face as a ranged touch attack. It if hits, the target is blinded. Each round on its turn, the target can attempt a DC 16 Reflex save as a free action; if successful, the target shakes off the mud. The target or an adjacent creature can wipe off the mud as a standard action. The save DC is Constitution-based.
+Vulnerable to Magic (Ex) A transmute mud to rock spell deals 1d6 points of damage per caster level to any mudlord in the area and automatically staggers it for 2d6 rounds.

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/eel/eel-electric-tohc
+Electric Eel CR 2
+XP 600
+N Large animal (aquatic)
+Init +4; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 15, touch 13, flat-footed 11 (+4 Dex, +2 natural, –1 size)
+hp 22 (4d8+4)
+Fort +5, Ref +8, Will +2
+Immune electricity
+OFFENSE
+Speed swim 40 ft.
+Melee bite +7 (1d8)
+Space 10 ft.; Reach 5 ft.
+Special Attacks electricity (DC 13)
+STATISTICS
+Str 10, Dex 18, Con 12, Int 1, Wis 12, Cha 2
+Base Atk +3; CMB +4; CMD 18 (can’t be tripped)
+Feats Weapon Finesse, Weapon Focus (bite)
+Skills Perception +8, Swim +12; Racial Modifiers Electric eels use their Dexterity modifier for Swim checks.
+SPECIAL ABILITIES
+Electricity (Ex) Once per hour, an electric eel can produce a jolt of electricity in a 10-foot radius centered on its body. Creatures within 5 feet take 3d8 points of electricity damage. Those further away than 5 feet but within 10 feet take 2d8 points of electricity damage. Affected creatures can make a DC 13 Fortitude save to reduce the damage by half. Electric eels are immune to their own electrical attacks and that of other electric eels. The save DC is Constitution-based.

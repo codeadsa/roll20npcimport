@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/daemon-hydrodaemon-TOHC
+HYDRODAEMON CR 7
+XP 3,200
+NE Large outsider (aquatic, daemon, evil, extraplanar)
+Init +2; Senses darkvision 60 ft., detect magic; Perception +14
+DEFENSE
+AC 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, –1 size)
+hp 66 (7d10+28)
+Fort +9, Ref +7, Will +2
+DR 10/good; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 18
+OFFENSE
+Speed 30 ft., fly 40 ft. (average, see below), swim 60 ft.
+Melee 2 claws +10 (1d6+4), bite +10 (2d6+4 plus grab)
+Ranged sleep spittle +8 (sleep)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rake (2 claws +10, 1d6+4)
+Spell-Like Abilities (CL 8th)
+Constant—detect magic, water walk
+At will—cause fear (DC 13), create water, deeper darkness
+2/day—dimension door, greater teleport (self plus 50 pounds of objects only)
+1/day— desecrate, summon (level 3, hydrodaemon 50%)
+STATISTICS
+Str 18, Dex 14, Con 18, Int 8, Wis 11, Cha 14
+Base Atk +7; CMB +12; CMD 24
+Feats Cleave, Point-Blank Shot, Power Attack, Precise Shot
+Skills Fly +10, Intimidate +12, Knowledge (planes) +9, Perception +14, Swim +22; Racial Modifiers +4 Perception
+Languages Common, Daemonic; telepathy 100 ft.
+SQ amphibious, glide
+SPECIAL ABILITIES
+Glide (Ex) A hydrodaemon can launch itself into the air and glide along for 1 minute, gaining a fly speed of 40 feet and average maneuverability. A gliding hydrodaemon gains the pounce ability.
+Sleep Spittle (Ex) A hydrodaemon can fire a line of spittle at a single target within 20 feet, making a ranged touch attack as a standard action. A target hit by the spittle must succeed on a DC 17 Will save or fall asleep for 6 rounds. The save DC is Constitution-based.

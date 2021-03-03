@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mother-of-obilivion
+Mother of Oblivion CR 15
+XP 51,200
+CE Gargantuan outsider (aquatic, native)
+Init +0; Senses all-around vision, darkvision 120 ft., Perception +30, trans-dimensional tentacles; Aura Warp Dimensions 300 ft.
+DEFENSE
+AC 32, touch 6, flat-footed 32 (+26 natural, -4 size)
+hp 232 (15d10+150)
+Fort +19, Ref +5, Will +15
+Defensive Abilities all-around Vision; DR 15/cold iron and magic; Immune Death effects, mind-affecting effects, petrification, polymorph; Resist acid 20, cold 20; SR 26
+OFFENSE
+Speed 20 ft., swim 60 ft.
+Melee Bite +24 (2d8+13 + energy drain (2 Levels, DC 22) and 4 tentacles +22 (2d6+6 plus Grab)
+Space 20 ft.; Reach 20 ft.
+Special Attacks Breath of Madness (60 ft cone, 1d6 Wis Damage and 1d6 rounds confusion, Ref DC 27 partial, usable every minute), Constrict (2d6+6), Grab
+Spell-Like Abilities (CL 18th; concentration +23)
+1/Day–commune, dream, unhallow
+3/Day–demand (DC 23), dimensional anchor, divination, dominate person (DC 20), greater command (DC 20)
+At Will–death knell (DC 17), invisibility purge, prayer
+Tactics
+Before Combat A Mother of Oblivion is rarely surprised. She uses her trans-dimensional tentacles to keep tabs on the terrain and plan the best ambush.
+During Combat Once battle is joined, the Mother of Oblivion uses her breath of madness and energy-draining bite to weaken foes, then merely swats them aside with her Awesome Blow.
+Morale A Mother of Oblivion knows no fear, but is wise enough to know when she has lost the advantage. She flees if reduced to fewer than half her hit points.
+STATISTICS
+Str 37, Dex 10, Con 31, Int 25, Wis 18, Cha 20
+Base Atk +15; CMB +32 (+34 on Bull Rush, +36 on Grapple); CMD 42 (44 vs. Bull Rush)
+Feats Awesome Blow, Cleave, Improved Bull Rush, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Skill Focus (Stealth), Vital Strike
+Skills Climb +31, Escape Artist +18, Intimidate +23, Knowledge (Arcana) +25, Knowledge (History) +25, Knowledge (Nature) +25, Knowledge (Planes) +25, Knowledge (Religion) +25, Perception +30, Sense Motive +22, Spellcraft +25, Stealth +12, Swim +31; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common, Draconic, Infernal
+SQ Trans-dimensional Tentacles
+SPECIAL ABILITIES
+All-Around Vision (Ex) The eyes at the tips of several of a Mother of Oblivion’s tentacles grants her a +8 racial bonus on Perception checks. She cannot be flanked.
+Breath of Madness (Su) A Mother of Oblivion can exhale a cloud of foul-smelling, narcotic breath: 60-foot cone, once per minute, 1d6 points of Wisdom damage and confusion for 1d6 rounds, Reflex DC 27 for half Wisdom damage and no confusion. This breath is a mind-affecting poison effect.
+The save DC is Constitution-based.
+Trans-dimensional Tentacles (Su) A Mother of Oblivion’s tentacles allow her to see into and infiltrate multiple planes at once. At all times, a Mother of Oblivion is cognizant of the plane she inhabits bodily and all coterminous planes-such as the Ethereal Plane and Plane of Shadow from the Material Plane. Not only is she aware of these planes and the creatures there, she can reach her tentacles through to attack. By worming her tentacles through the dimensions, a Mother of Oblivion can effectively reach through solid barriers into any area not protected by a dimensional lock or similar effect.
+While a Mother of Oblivion can attack and even grapple creatures on other planes, she cannot move creatures from one plane to another.
+Warp Dimensions (Su) A Mother of Oblivion’s presence distorts the dimensions. Any creature that attempts to utilize a teleport effect within 300 feet of a Mother of Oblivion must make a DC 21 caster level check or the teleport effect fails to activate. The creature must also make a DC 27 Fortitude save or be nauseated for 1d6 rounds.
+The save DC is Constitution-based.

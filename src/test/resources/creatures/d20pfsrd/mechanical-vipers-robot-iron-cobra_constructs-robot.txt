@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/robot/mechanical-vipers-robot-iron-cobra
+Mechanical Viper CR 2
+XP 600
+Robot iron cobra
+N Small construct (robot)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +4
+DEFENSE
+AC 20, touch 13, flat-footed 18 (+2 Dex, +7 natural, +1 size)
+hp 18 (1d10+13)
+Fort +0, Ref +2, Will +0
+DR 5/—; Immune construct traits; SR 13
+Weaknesses vulnerable to critical hits and electricity
+OFFENSE
+Speed 40 ft.
+Melee bite +3 (1d6+1 plus poison)
+STATISTICS
+Str 12, Dex 15, Con —, Int 10, Wis 11, Cha 1
+Base Atk +1; CMB +1; CMD 13 (can’t be tripped)
+Feats Toughness
+Skills Perception +4, Stealth +12; Racial Modifiers +6 Stealth
+SQ find target
+SPECIAL ABILITIES
+Find Target (Su) Once per day, an iron cobra’s creator can order it to find and kill a specific creature within 1 mile, which it does as if guided by discern location. The creator must have seen or be holding an item from the specified creature for this order to function.
+Poison (Ex) An iron cobra’s bite injects poison from a hidden reservoir within its body. Because it is a construct, the cobra does not naturally produce this poison, and its creator must refill this reservoir manually. The reservoir holds enough poison for 3 successful bite attacks, after which the creature merely deals bite damage. Refilling the reservoir takes 5 rounds and provokes attacks of opportunity. The creator can fill the reservoir with any injury poison (typically black adder venom), though acid, alchemical substances, and even stranger liquids have been used.
+Black Adder Venom: Bite—injury; save Fort DC 11; frequency 1/round for 6 rounds; effect 1d2 Con damage; cure 1 save.

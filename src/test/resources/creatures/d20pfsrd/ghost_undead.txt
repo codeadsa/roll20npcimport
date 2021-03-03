@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghost
+Ghost CR 7
+XP 3,200
+Human ghost aristocrat 7
+CE Medium undead (augmented humanoid, incorporeal)
+Init +5; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 17, touch 17, flat-footed 15 (+5 deflection, +1 Dex, +1 dodge)
+hp 73 (7d8+42)
+Fort +7, Ref +5, Will +7
+Defensive Abilities channel resistance +4, incorporeal, rejuvenation; Immune undead traits
+OFFENSE
+Speed fly 30 ft. (perfect)
+Melee corrupting touch +6 (7d6, Fort. DC 18 half)
+Special Attacks frightful moan (DC 18)
+STATISTICS
+Str —, Dex 12, Con —, Int 10, Wis 11, Cha 20
+Base Atk +5; CMB +5; CMD 22
+Feats Dodge, Improved Initiative, Iron Will, Lightning Reflexes, Toughness
+Skills Fly +9, Knowledge (history) +10, Knowledge (nobility) +10, Perception +18, Sense Motive +10, Stealth +9; Racial Modifiers +8 Perception, +8 Stealth
+Languages Common
+SPECIAL ABILITIES
+Corrupting Touch (Su) By passing part of its incorporeal body through a foe’s body as a standard action, the ghost inflicts 7d6 damage. This damage is not negative energy—it manifests in the form of physical wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this damage, but otherwise the damage bypasses all forms of damage reduction. A Fortitude save halves the damage inflicted.
+Frightful Moan (Su) The ghost died in the throes of crippling terror. It can emit a frightful moan as a standard action. All living creatures within a 30-foot spread must succeed on a DC 18 Will save or become panicked for 2d4 rounds. This is a sonic mind-affecting fear effect. A creature that successfully saves against the moan cannot be affected by the same ghost’s moan for 24 hours.
+Rejuvenation (Su) In most cases, it’s difficult to destroy a ghost through simple combat: the “destroyed” spirit restores itself in 2d4 days. Even the most powerful spells are usually only temporary solutions. The only way to permanently destroy a ghost is to determine the reason for its existence and set right whatever prevents it from resting in peace. The exact means varies with each spirit and may require a good deal of research, and should be created specifically for each different ghost by the GM.

@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/griffon
+Griffon CR 4
+XP 1,200
+N Large magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +12
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, –1 size)
+hp 42 (5d10+15)
+Fort +7, Ref +6, Will +4
+OFFENSE
+Speed 30 ft., fly 80 ft. (average)
+Melee bite +8 (1d6+3), 2 talons +7 (1d6+3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks pounce, rake (2 claws +7, 1d4+3)
+STATISTICS
+Str 16, Dex 15, Con 16, Int 5, Wis 13, Cha 8
+Base Atk +5; CMB +9; CMD 21 (25 vs. trip)
+Feats Iron Will, Skill Focus (Perception), Weapon Focus (bite)
+Skills Acrobatics +10, Fly +6, Perception +12; Racial Modifiers +4 Acrobatics, +4 Perception
+Languages Common (cannot speak)

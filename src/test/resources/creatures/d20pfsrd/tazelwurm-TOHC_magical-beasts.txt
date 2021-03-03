@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/tazelwurm-TOHC
+Tazelwurm CR 5
+XP 1,600
+N Large magical beast
+Init +6; Senses darkvision 60 ft. low-light vision, scent, tremorsense 60 ft.; Perception +8
+DEFENSE
+AC 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, -1 size)
+hp 59 (7d10+21)
+Fort +8, Ref +7, Will +4
+Resist fire 10
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +10 (1d6+4), bite +11 (2d6+4)
+Space 10 ft.; Reach 5 ft.
+Special Attacks ambush, frightening exuviation
+STATISTICS
+Str 19, Dex 14, Con 16, Int 2, Wis 15, Cha 15
+Base Atk +7; CMB +12; CMD 24 (can’t be tripped)
+Feats Improved Initiative, Improved Natural Attack (bite), Power Attack, Weapon Focus (bite)
+Skills Perception +8, Skill +13 (+17 in rocky or subterranean environs); Racial Modifiers +4 Stealth (+8 Stealth in rocky or subterranean environs)
+SPECIAL ABILITIES
+Ambush (Ex) If a tazelwurm catches an opponent flatfooted it gains a +4 circumstance bonus to its attack roll for that round.
+Frightening Exuviation (Ex) If a tazelwurm is hit by a fire attack or effect that deals at least 10 points of damage, it takes no damage, but instead allows its scales, flesh, and fur to be consumed and burned away in a single round, exposing its skeletal structure. A creature viewing this must make a successful DC 15 Will save or paralyzed with fear for 1d3 rounds. The save DC is Charisma-based. A creature that successfully saves cannot be affected again by the same tazelwurm’s frightening exuviation for one day. This has no effect on other tazelwurms.
+

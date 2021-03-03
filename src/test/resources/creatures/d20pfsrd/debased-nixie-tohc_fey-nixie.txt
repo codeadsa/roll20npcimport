@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/nixie/debased-nixie-tohc
+Debased Nixie CR 2
+XP 600
+NE Small fey (aquatic)
+Init +3; Senses low-light vision; Perception +9
+DEFENSE
+AC 15, touch 15, flat-footed 11 (+3 Dex, +1 dodge, +1 size)
+hp 10 (3d6)
+Fort +1; Ref +6; Will +4; +4 vs. spells and spell–like abilities cast by good–aligned fey
+DR 5/cold iron; SR 16
+OFFENSE
+Speed 20 ft., swim 30 ft.
+Melee short sword +5 (1d4–2), 2 claws +5 (1d4–2)
+Ranged light crossbow +5 (1d6/19–20)
+Special Attacks defiling touch (DC 17)
+Spell-Like Abilities (CL 4th):
+3/day— charm person (DC 15)
+1/day—water breathing
+STATISTICS
+Str 7, Dex 16, Con 11, Int 12, Wis 13, Cha 18
+Base Atk +1; CMB -2; CMD 12
+Feats Alertness, Dodge, Weapon FinesseB
+Skills Bluff +10, Craft (any one) +7, Escape Artist +9, Handle Animal +7, Perception +9, Sense Motive +9, Stealth +13 (+18 in water), Swim +6; Racial Modifiers +5 Stealth in water
+Languages Aquan, Sylvan
+SQ amphibious, anathema, wild empathy
+Gear short sword, light crossbow, 20 crossbow bolts
+SPECIAL ABILITIES
+Anathema (Su) A debased fey has been rejected by the purity of nature. Normal plants within 20 feet wither and die if the debased fey remains in proximity for more than 5 minutes. Pure environments such as untouched forests and clear streams and ponds may become spoiled and polluted if the debased fey remains in that environment for more than 1 day. Plant creatures (such as shambling mounds, for example) take 1d2 points of damage each round they remain within 20 feet of a debased fey. A Fortitude save negates the damage for that round. A new save can be made each round.
+Defiling Touch (Su) The damage dealt by a debased fey’s natural attacks resists all magical healing (though it can be healed normally through rest). A creature attempting to cast a cure spell or a heal spell on a creature damaged by a debased fey’s natural attacks must make a successful caster level check (DC 10 + 1/2 the debased fey’s HD + the debased fey’s Constitution modifier, +2 racial bonus), or the spell has no effect on the injured creature.
+Wild Empathy (Ex) This ability works like the druid’s wild empathy class feature, except that a nixie has a +6 racial bonus on the check.
+Editor’s Note
+Base template: Debased Fey (CR +1)

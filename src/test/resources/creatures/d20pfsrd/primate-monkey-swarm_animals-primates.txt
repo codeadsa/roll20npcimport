@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/primates/primate-monkey-swarm
+Monkey Swarm CR 2
+XP 600
+N Tiny animal (swarm)
+Init +7; Senses low-light vision; Perception +5
+DEFENSE
+AC 15, touch 15, flat-footed 12 (+3 Dex, +2 size)
+hp 22 (3d8+9)
+Fort +6, Ref +8, Will +2
+Defensive Abilities half damage from weapons, swarm traits
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee swarm (2d6 plus distraction)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 14)
+STATISTICS
+Str 7, Dex 16, Con 17, Int 2, Wis 12, Cha 11
+Base Atk +2; CMB —; CMD —
+Feats Improved Initiative, Lightning Reflexes
+Skills Acrobatics +11, Climb +10, Perception +5; Racial Modifiers +4 Acrobatics
+SQ coordinated swarm
+SPECIAL ABILITIES
+Coordinated Swarm (Ex) A monkey swarm coordinates its attacks more than a typical swarm, and deals swarm damage one step higher than a swarm of its HD would normally cause.

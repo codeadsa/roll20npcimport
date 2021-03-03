@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/soul-eater-tohc
+Soul Eater CR 7
+XP 3,200
+N Medium outsider (extraplanar)
+Init +6; Senses darkvision 60 ft., find target; Perception +17
+DEFENSE
+AC 25, touch 17, flat-footed 18 (+6 Dex, +1 dodge, +8 natural)
+hp 75 (10d10+20)
+Fort +9, Ref +13, Will +3
+DR 10/magic; Immune critical hits, paralysis, poison, sleep, stun
+OFFENSE
+Speed fly 100 ft., (perfect)
+Melee 2 claws +16 (1d6+1/19-20 plus 1d6 Wis damage)
+Special Attacks soul drain, Wisdom damage
+STATISTICS
+Str 13, Dex 22, Con 14, Int 12, Wis 11, Cha 11
+Base Atk +10; CMB +11; CMD 28 (can’t be tripped)
+Feats Alertness, Dodge, Flyby Attack, Improved Critical (claw), Weapon Finesse
+Skills Diplomacy +13, Fly +18, Intimidate +13, Knowledge (planes) +14, Perception +17, Sense Motive +16, Stealth +19 (+29 in darkness, smoke, or concealment), Survival +13; Racial Modifiers +10 Stealth in darkness, smoke, or concealment
+Languages telepathy 100 ft.
+SQ link to caster
+SPECIAL ABILITIES
+Find Target (Sp) When ordered to find a creature, a soul eater does so unerringly, as though guided by discern location. The being giving the order must have seen the creature to be found and must know the target’s name. This ability is the equivalent of an 8th-level spell.
+Link to Caster (Ex) When a soul eater is summoned to the Material Plane, it creates a mental link between itself and the caster who summoned it. If a soul eater’s victim (i.e., the creature it is summoned to slay) is killed before the creature can devour its soul, the soul eater returns at full speed to the caster and attacks him. Likewise, if a soul eater is defeated in battle (but not slain) by its target, the creature returns to the caster and attacks him. So long as both the caster and soul eater are on the same plane of existence, the soul eater can successfully locate the caster (again as though guided by discern location). If the caster leaves the plane, the link is temporarily broken. Once the caster returns, or the soul eater enters a plane the caster is on, the link is immediately restored.
+Soul Drain (Su) When a soul eater slays a foe, it devours the victim’s soul. Such a creature cannot be returned to life by any means save a deity’s intervention.
+Wisdom Damage (Su) A creature hit by a soul eater’s claw attack must succeed on a DC 17 Fortitude save or take 1d6 points of Wisdom damage. The save DC is Constitution-based. A creature brought to Wisdom 0 dies.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/bhuta-TOHC
+Bhuta CR 6
+XP 2,400
+NE Medium undead
+Init +6; Senses darkvision 60 ft.; Perception +16
+DEFENSE
+AC 19, touch 12, flat-footed 17 (+2 Dex, +7 natural)
+hp 67 (9d8+18 plus 9)
+Fort +5; Ref +5; Will +9
+Defensive Abilities channel resistance +2; Immune undead traits
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +12 (1d8+5 plus grab)
+Special Attacks death grip
+STATISTICS
+Str 20, Dex 14, Con —, Int 12, Wis 16, Cha 14
+Base Atk +6; CMB +11 (+15 grapple); CMD 23
+Feats Improved Initiative, Power Attack, Skill Focus (Perception), Toughness, Weapon Focus (claw)
+Skills Climb +17, Escape Artist +11, Intimidate +14, Knowledge (religion) +6, Perception +16, Stealth +14
+Languages Common
+SQ find target, gentle repose
+SPECIAL ABILITIES
+Death Grip (Ex) A bhuta deals 1d8+5 points of damage with a successful grapple check each round the hold is maintained. Because it seizes its victim by the throat, a creature in its grasp cannot speak or cast spells with verbal components.
+Find Target (Sp) So long as the bhuta and its killer are on the same plane of existence, it can find its target unerringly as though guided by discern location (caster level 9th).
+Gentle Repose (Ex) When it first rises from the dead, a bhuta is preserved as if by gentle repose for a period of 14 days. After that time, its body begins to decay and it takes on an appearance similar to that of a ghoul or zombie.

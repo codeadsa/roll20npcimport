@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/phasm
+Phasm CR 7
+XP 3,200
+CN Medium aberration (shapechanger)
+Init +7; Senses tremorsense 60 ft.; Perception +22
+DEFENSE
+AC 20, touch 14, flat-footed 16 (+3 Dex, +1 dodge, +6 natural)
+hp 84 (13d8+26)
+Fort +10, Ref +11, Will +10
+Defensive Abilities amorphous, resilient
+OFFENSE
+Speed 30 ft.
+Melee slam +12 (1d3+1)
+STATISTICS
+Str 12, Dex 16, Con 15, Int 18, Wis 15, Cha 14
+Base Atk +9; CMB +11; CMD 24
+Feats Alertness, Blind-Fight, Combat Reflexes, Dodge, Mobility, Improved Initiative, Weapon Finesse
+Skills Bluff +15, Climb +17, Diplomacy +15, Escape Artist +11, Knowledge (any one) +20, Perception +22, Sense Motive +19, Stealth +19, Survival +18; Racial Modifier +8 to Escape Artist
+Languages Common, telepathy 100 ft.
+SQ change shape (shapechange, Large or smaller)
+SPECIAL ABILITIES
+Amorphous (Ex) In its natural form, a phasm is immune to poison, sleep, paralysis, polymorph, and stunning effects. It is not subject to critical hits, sneak attack, or precision damage and cannot be flanked. Also in its natural form, a phasm gains +4 racial bonus to CMB to resist bull rush and grapple attempts and cannot be tripped.
+Resilient (Ex) A phasm has a +4 racial bonus to Fortitude and Reflex saves. (Already included in the stat block).

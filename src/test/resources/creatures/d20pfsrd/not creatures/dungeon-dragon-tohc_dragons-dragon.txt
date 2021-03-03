@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dungeon-dragon-tohc
+Dungeon Dragon (Draco Carcer Dominus)
+N dragon (shapechanger)
+BASE STATISTICS
+CR 1; Size Tiny; Hit Dice 1d12
+Speed 30 ft., fly 100 ft. (average)
+Natural Armor +1; Breath Weapon line or cone, confusion
+Str 11, Dex 15, Con 8, Int 10, Wis 10, Cha 8
+SPECIAL ABILITIES
+Breath Weapon (Su) A dungeon dragon’s breath weapon is a line or cone of warm mist. Creatures caught in the area must succeed on Fortitude save or be affected as if by a confusion spell for 1d6 rounds.
+Change Shape (Su) At will, a very young or older dungeon dragon can assume the form of any Small or Medium humanoid creature (as the alter self spell). It can remain in its humanoid form indefinitely. It cannot take the form of a specific individual.
+Craft Crystal Ball (Ex) Dungeon dragon parents begin teaching their wyrmlings the necessary skills and spells to craft a crystal ball soon after they leave the egg. A dungeon dragon gains the Master Craftsman feat for free as a bonus feat without having to meet the prerequisites.
+Craft Wondrous Item (Ex) Older dungeon dragons create new crystal balls with additional powers as they grow in intelligence and spellcasting ability. A young adult dungeon dragon gains the Craft Wondrous Item feat for free as a bonus feat.
+Dominate Monster (Sp) A great wyrm dungeon dragon can use this ability three times per day. It works as a dominate monster spell. This ability is the equivalent of an 8th-level spell.
+Skills Dungeon dragons gain a +4 bonus to Perception checks.
+Spell-like Abilities A dungeon dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Young—charm person; Juvenile—detect thoughts; Adult—suggestion; Old—charm monster; Ancient—mass suggestion; Great Wyrm—mass charm monster. The dungeon dragon uses these abilities to populate its dungeon with monsters it encounters in the surrounding terrain.
+Young—charm person
+Juvenile—detect thoughts
+Adult—suggestion
+Old—charm monster
+Ancient—mass suggestion
+Great Wyrm—mass charm monster
+CR Age Category Special Abilities Caster Level
+1 Wyrmling Craft crystal ball, immune to
+enchantment spells and effects —
+3 Very Young Change shape —
+5 Young charm person —
+6 Juvenile detect thoughts 1st
+8 Young Adult Craft Wondrous Item, DR 5/magic,
+spell resistance 3rd
+9 Adult Frightful presence, suggestion 5th
+10 Mature Adult DR 10/magic 7th
+12 Old charm monster 9th
+13 Very Old DR 15/magic 11th
+14 Ancient mass suggestion 14th
+15 Wyrm DR 20/magic 15th
+17 Great Wyrm Dominate monster, mass charm monster 17th

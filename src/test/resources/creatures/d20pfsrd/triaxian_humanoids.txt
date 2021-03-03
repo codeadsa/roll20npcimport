@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/triaxian
+Triaxian CR 1/2
+XP 200
+Triaxian ranger 1
+N Medium humanoid (triaxian)
+Init +2; Senses low-light vision; Perception +8
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+6 armor, +2 Dex)
+hp 13 (1d10+3)
+Fort +4, Ref +4, Will +2
+OFFENSE
+Speed 20 ft.
+Melee lance +2 (1d8+1/×3) or longsword +2 (1d8+1/19–20)
+Ranged composite longbow +3 (1d8+1/×3)
+Special Attacks favored enemy (dragons +2)
+STATISTICS
+Str 13, Dex 14, Con 15, Int 10, Wis 14, Cha 8
+Base Atk +1; CMB +2; CMD 14
+Feats Mounted Archery, Mounted Combat
+Skills Knowledge (arcana) +1, Knowledge (nature) +4, Perception +8, Ride +1, Stealth +1, Survival +6; Racial Modifiers +2 Perception
+Languages Triaxian
+SQ seasoned, track +1, wild empathy +0
+Gear NPC gear (chainmail, composite longbow with 20 arrows, lance, longsword, other treasure)
+SPECIAL ABILITIES Seasoned (Ex) Triaxians suffer no harm from being in hot or cold environments depending on whether they are Summerborn or Winterborn. Summerborn Triaxians can exist comfortably in conditions between 90 and 140 degrees Fahrenheit without having to attempt Fortitude saves. Winterborn Triaxians can exist comfortably in conditions between 40 and –20 degrees Fahrenheit without having to attempt Fortitude saves. When in conditions of severe cold or heat, Triaxians only have to attempt Fortitude saves once per hour instead of once every 10 minutes. Transitional Triaxians do not have this ability.
+Triaxian Characters Triaxians don’t possess racial Hit Dice, gaining their capabilities instead from class levels.
+All Triaxians have the following racial traits.
++2 Constitution, +2 Wisdom, –2 Strength: Triaxians are a hardy and wily race, as befits their constantly changing environment, but their lean forms have trouble maintaining large amounts of muscle mass.
+Low-Light Vision: In dim light, Triaxians can see twice as far as humans.
+Keen Senses: Triaxians’ unique ear construction grants them a +2 bonus on Perception checks.
+Bonus Feat: Triaxians select one extra feat at 1st level.
+Seasoned: See above.
+Languages: Triaxians speak Triaxian. Triaxians with high Intelligence scores can choose any languages they want (except secret languages, such as Druidic).

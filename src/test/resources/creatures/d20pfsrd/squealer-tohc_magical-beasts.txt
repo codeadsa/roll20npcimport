@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/squealer-tohc
+Squealer CR 9
+XP 6,400
+N Large magical beast
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, -1 size)
+hp 114 (12d10+48)
+Fort +12, Ref +10, Will +5
+OFFENSE
+Speed 40 ft., climb 30 ft.
+Melee 2 claws +17 (1d6+6/19-20), bite +17 (1d8+6 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks rake (2 claws +17, 1d6+6/19-20), rend (2 claws, 1d6+12)
+TACTICS
+A squealer attacks using its bite and claws. One of its favorite tactics is to hide in a tree, grasping a limb with three of its claws. When prey passes beneath, it swings down to attack. If it can grapple its prey, it drops from the tree, raking with its hind legs.
+STATISTICS
+Str 23, Dex 15, Con 18, Int 2, Wis 12, Cha 10
+Base Atk +12; CMB +19 (+23 grappling); CMD 31 (35 vs trip)
+Feats Cleave, Critical Focus, Improved Critical (claw), Improved Initiative, Power Attack, Skill Focus (Perception)
+Skills Acrobatics +8, Climb +20, Perception +10, Stealth +4 (+16 in forests); Racial Modifiers Stealth +12 in forests
+SQ sound imitation
+SPECIAL ABILITIES
+Sound Imitation (Ex) As a free action, a squealer can mimic any animal or magical beast sound it has previously heard. Listeners who succeed on a DC 16 Will save detect the ruse. The save DC is Charisma-based.

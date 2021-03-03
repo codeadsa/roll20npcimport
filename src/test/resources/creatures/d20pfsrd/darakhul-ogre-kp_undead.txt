@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/darakhul-ogre-kp
+Darakhul Ogre CR 5
+XP 1,600
+Male ogre darakhul
+LE Large undead (augmented giant)
+Init +0; Senses darkvision 120 ft.; Perception +4
+DEFENSE
+AC 23, touch 10, flat-footed 19 (+4 armor, +1 Dex, +9 natural, -1 size)
+hp 22 (4d8+4)
+Fort +5, Ref +2, Will +5
+Defensive Abilities channel resistance +4; DR 5/magic and daylight; Immune undead traits
+Weaknesses daylight weakness
+OFFENSE
+Speed 30 ft., burrow 15 ft.
+Melee bite +10 (2d6+8 plus paralysis and disease) and 2 claws +10 (1d6+4 plus paralysis) or greatclub +10 (2d8+12) and bite +8 (1d10+8 plus paralysis and disease)
+Ranged javelin +3 (1d8+8)
+Special Attacks paralysis (1d4+1 rounds, DC 13, elves are immune to this effect)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 27, Dex 12, Con —, Int 10, Wis 14, Cha 13
+Base Atk +3; CMB +12; CMD +23
+Feats Improved Iron WillB, Iron Will, Lightning ReflexesB, MultiattackB, Toughness
+Skills Climb +18, Intimidate +12, Perception +4; Racial Modifiers +8 Climb, +8 Intimidate, +8 Knowledge (dungeoneering)
+Languages Darakhul, Giant
+SPECIAL ABILITIES
+Daylight Weakness (Ex) A darakhul suffers a -4 penalty to attack and saving throws when in full daylight. A daylight spell instead inflicts a -2 penalty to a darakhul.
+Disease (Su) Darakhul fever: bite—injury; save Fortitude DC 10 + 1/2 HD + Cha modifier; onset 1 day; effect 1d6 Con and 1d3 Dex damage; cure 2 consecutive saves.
+A creature that dies while infected with darakhul fever must make an adjustment check (see sidebar). If its check is high enough, it rises as a darakhul rather than as a standard ghoul within an hour. A darakhul is a free-willed undead. A creature that rises as a standard ghoul or ghast is controlled by the darakhul whose fever infected it.
+Paralysis (Ex) Those hit by a darakhul’s natural weapons must succeed on a Fortitude save (DC 10 + 1/2 HD + Charisma ability modifier) or be paralyzed for 1d4+1 rounds. Elves are immune to this paralysis.

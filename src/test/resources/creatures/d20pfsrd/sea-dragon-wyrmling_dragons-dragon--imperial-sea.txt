@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sea/sea-dragon-wyrmling
+Wyrmling Sea Dragon CR 4
+XP 1,200
+CG Small dragon (water)
+Init +6; Senses dragon senses; Perception +4
+DEFENSE
+AC 18, touch 13, flat-footed 16 (+2 Dex, +5 natural, +1 size)
+hp 37 (5d12+5)
+Fort +7, Ref +6, Will +6
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (avr.), swim 60 ft.
+Melee bite +7 (1d6+1), 2 claws +7 (1d4+1)
+Space 5 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (20-ft. cone, d6 fire damage, DC 13)
+
+STATISTICS
+Str 13, Dex 14, Con 13, Int 14, Wis 15, Cha 14
+Base Atk +5; CMB +5; CMD 17 (21 vs. trip)
+Feats Alertness, Great Fortitude, Improved Initiative
+Skills Diplomacy +10, Fly +12, Intimidate +10, Knowledge (nature) +10, Perception +4, Sense Motive +12, Stealth +14, Survival +10, Swim +17
+Languages Aquan, Common, Draconic
+SQ water breathing

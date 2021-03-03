@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-mercury
+Mercury Ooze CR 4
+XP 1,200
+N Large ooze
+Init -4; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 5, touch 5, flat-footed 5 (-4 Dex, -1 size)
+hp 55 (5d8+25)
+Fort +6, Ref -3, Will -4
+Immune ooze traits
+OFFENSE
+Speed 10 ft., climb 20 ft.
+Melee slam +4 (2d4+4 plus mercury poisoning and grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (2d4+4)
+STATISTICS
+Str 14, Dex 3, Con 21, Int —, Wis 1, Cha 1
+Base Atk +3; CMB +6 (+10 to grapple); CMD 12 (can’t be tripped)
+Skills Climb +10
+SPECIAL ABILITIES
+Mercury Poisoning (Ex) Slam—injury; save Fort DC 17; frequency 1/round for 4 rounds; effect 1 Dexterity damage and 1 Constitution damage; cure 1 save. The save DC is Constitution-based.
+If an opponent failed a save against the poison, one week after suffering the effects of the mercury poisoning, if the target has not received the benefits of a neutralize poison during that time span, then he must succeed on a DC 17 Will save or be affected as if by an insanity spell (caster level 10th). The effects can be removed by the successful casting of a greater restoration, heal, miracle, or wish spell.

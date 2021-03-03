@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/sea-serpents-TOHC/sea-serpent-shipbreaker
+Shipbreaker Sea Serpent CR 25
+XP 1,640,000
+CN Colossal dragon (aquatic)
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +48
+DEFENSE
+AC 31, touch 4, flat-footed 29 (+1 Dex, +1 dodge, +27 natural, -8 size)
+hp 665 (38d12+380 plus 38)
+Fort +33, Ref +24, Will +26
+Immune paralysis and sleep, dragon traits
+OFFENSE
+Speed 10 ft.; swim 40 ft.
+Melee bite +43 (5d6+16/19-20 plus poison and grab)
+Space 50 ft.; Reach 50 ft.
+Special Attacks capsize, constrict (5d6+16), poison
+STATISTICS
+Str 32, Dex 13, Con 30, Int 11, Wis 17, Cha 21
+Base Atk +38; CMB +57 (+61 grapple); CMD 69 (can’t be tripped)
+Feats Ability Focus (poison), Alertness, Blind-Fight, Cleave, Dodge, Endurance, Great Cleave, Great Fortitude, Greater Weapon Focus (bite), Improved Critical (bite), Improved Initiative, Improved Lightning Reflexes, Improved Natural Armor, Improved Natural Attack (bite), Iron Will, Lightning Reflexes, Power Attack, Swim-By AttackB, Toughness, Weapon Focus (bite)
+Skills Bluff +26, Intimidate +46, Knowledge (nature) +23, Perception +48, Sense Motive +9, Stealth +26, Survival +44, Swim +59
+SQ amphibious
+SPECIAL ABILITIES
+Capsize (Ex) A shipbreaker sea serpent can attempt to capsize a boat or ship by ramming it as a charge attack and making a CMB check. The DC of this check is 25, or the result of the captain’s Profession (sailor) check, whichever is higher. For each size category the ship is larger than the sea serpent’s size, the sea serpent takes a cumulative -10 penalty on this CMB check.
+Poison (Ex) Bite–injury; save Fort DC 41; frequency 1/round for 6 rounds; effect 2d4 Con; cure 2 consecutive saves. The save DC is Constitution-based.

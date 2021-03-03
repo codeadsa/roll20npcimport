@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/mephit/mephit-lightning
+Lightning Mephit CR 3
+XP 800
+N Medium outsider (air, electricity, extraplanar)
+Init +7; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 17, touch 14, flat-footed 13 (+3 Dex, +1 dodge, +3 natural)
+hp 16 (3d10); fast healing 2
+Fort +1, Ref +6, Will +3
+DR 5/magic; Immune electricity
+Weaknesses vulnerability to water
+OFFENSE
+Speed 30 ft., fly 60 ft. (perfect)
+Melee 2 claw +3 (1d4 plus 1d4 electricity)
+Special Attacks breath weapon (15-foot cone of lightning, DC 13 for half, 1d8 electricity)
+Spell-like Abilities (CL 6th)
+1/hour—shocking grasp
+1/day—lightning bolt, summon (level 2, lightning mephit 25%)
+STATISTICS
+Str 10, Dex 17, Con 10, Int 6, Wis 11, Cha 15
+Base Atk +3; CMB +3; CMD 17
+Feats Dodge, Improved Initiative
+Skills Bluff +6, Diplomacy +6, Disguise +6, Escape Artist +7, Fly +14, Intimidate +6, Perception +4, Stealth +9
+Languages Auran, Common
+SPECIAL ABILITIES
+Breath Weapon (Su) 15-foot cone of lightning, damage 1d8 electricity, Reflex DC 13 half. The save DC is Constitution-based and includes a +1 racial bonus. Creatures wearing metal armor take an extra +2 points of damage from a lightning mephit’s breath weapon.
+Fast Healing (Ex) A lightning mephit heals only if exposed electricity (whether natural, such as an electrical storm, or magical, such as its own shocking grasp or lightning bolt spell-like ability).
+Vulnerability to Water (Ex) A lightning mephit takes 1d4 points of damage per gallon of water it contacts. Pouring water onto a lightning mephit requires a successful ranged touch attack. Water from other sources, such as spells or effects that create water but do not specify an amount in gallons, deal 1d4 points of damage per caster level to a lightning mephit within its area of effect. Damage from water-based attacks, like the slam attack of a water elemental, is increased by 50% against a lightning mephit.

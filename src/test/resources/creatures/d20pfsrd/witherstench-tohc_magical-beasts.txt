@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/witherstench-tohc
+Witherstench CR 1
+XP 400
+N Small magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +5; Aura stench (DC 12, while within 30 ft. plus 1 round)
+DEFENSE
+AC 14, touch 13, flat-footed 12 (+2 Dex, +1 natural, +1 size)
+hp 13 (2d10+2)
+Fort +4, Ref +5, Will +0
+OFFENSE
+Speed 20 ft.
+Melee 2 claws +5 (1d4-1)
+STATISTICS
+Str 8, Dex 14, Con 12, Int 2, Wis 10, Cha 4
+Base Atk +2; CMB +0; CMD 12 (16 vs. trip)
+Feats Weapon Finesse
+Skills Perception +5
+SPECIAL ABILITIES
+Stench (Ex) A witherstench constantly emits a putrid stench that nearly every form of animal life finds offensive. All living creatures (except witherstenches) within 30 feet of a witherstench must succeed on a DC 12 Fortitude save or be nauseated for as long as they remain within 30 feet of the creature. Moving out of the affected area leaves the character sickened for 1 round after which time he recovers immediately. The save DC is Constitution-based.
+Creatures that successfully save cannot be affected by the same witherstench’s stench for 24 hours. This is a poison effect.

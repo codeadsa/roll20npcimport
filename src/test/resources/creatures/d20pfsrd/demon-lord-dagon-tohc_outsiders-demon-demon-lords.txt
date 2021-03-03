@@ -1,0 +1,48 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-lords/demon-lord-dagon-tohc
+Dagon (Demon Prince of the Sea) CR 27
+XP 3,280,000
+CE Large outsider (aquatic, chaotic, demon, evil, extraplanar)
+Init +12; Senses darkvision 60 ft., true seeing; Perception +60; Aura unholy aura (DC 27)
+DEFENSE
+AC 50, touch 35, flat-footed 42 (+8 Dex, +15 natural, –1 size, +9 insight, +9 profane)
+hp 594 (36d10+396)
+Fort +33, Ref +20, Will +29
+DR 25/cold iron and good; Immune electricity, poison, water-based-spells and effects; Resist acid 10, cold 10, fire 10; SR 38
+OFFENSE
+Speed 20 ft., swim 60 ft.
+Melee +5 unholy mighty cleaving trident +54/+49/+44/+39 (2d6+18/19–20) or 2 slams +48 (1d8+13)
+Ranged +5 unholy mighty cleaving trident +49 (2d6+18/19–20)
+Space 10 ft.; Reach 10 ft.
+Special Attacks water mastery
+Spell-Like Abilities (CL 27th)
+Constant—speak with animals (aquatic only), true seeing, unholy aura (DC 27)
+At will—blasphemy (DC 26), charm monster (DC 23), control water, create water, deeper darkness, desecrate, detect good, detect law, detect thoughts (DC 21), fear (DC 23), greater dispel magic, greater teleport (self plus 50 pounds of objects only), telekinesis (DC 24), tongues (self only), unhallow, unholy blight (DC 23), water breathing
+3/day—summon (level 9, 1d6 shrroths, 1d4 nalfeshnees, 1d2 mariliths, or 1 balor 100%)
+1/day—enervation, feeblemind (DC 24), summon (level 9, 72 HD of aquatic creatures 100%)
+Spells Prepared (CL 20th)
+9th—mage’s disjunction (DC 27), soul bind (DC 27), teleportation circle, time stop
+8th—antipathy (DC 26), dimensional lock, horrid wilting (DC 26, x2), prismatic wall (DC 26)
+7th—control weather, finger of death (DC 25), limited wish, mass hold person (DC 25), prismatic spray (DC 25)
+6th—geas/quest (DC 24), flesh to stone (DC 24), mage’s lucubration, mass suggestion (DC 24), repulsion (DC 24)
+5th—dominate person (DC 23), mind fog (DC 23), magic jar (DC 23), wall of force, waves of fatigue
+4th—bestow curse (DC 22), confusion (DC 22), contagion (DC 22), lesser globe of invulnerability, stoneskin, wall of ice (DC 22)
+3rd—blink, lightning bolt (DC 21), lightning bolt (DC 21), ray of exhaustion (DC 21), sleet storm, tongues
+2nd—blur (DC 20), bull’s strength, fog cloud, shatter (DC 20), summon swarm, web (DC 20)
+1st—magic missile, obscuring mist, ray of enfeeblement (x2), true strike (x2)
+0 (at will)—detect magic, flare (DC 18), light, resistance
+TACTICS
+Dagon prefers to use his trident in battle but can attack with his powerful fists if he so chooses. One of his favorite tactics is to grab an air-breathing opponent and dive as deep as he can in the waters where he holds the victim until it drowns.
+STATISTICS
+Str 37, Dex 27, Con 33, Int 26, Wis 29, Cha 28
+Base Atk +36; CMB +50; CMD 86 (can’t be tripped)
+Feats Alertness, Cleave, Combat Casting, Combat Expertise, Critical Focus, Enlarge Spell, Extend Spell, Great Cleave, Great Fortitude, Heighten Spell, Improved Bull Rush, Improved Critical (trident), Improved Initiative, Maximize Spell, Power Attack, Quick Draw, Sickening Critical, Weapon Focus (trident)
+Skills Acrobatics +47, Bluff +48, Diplomacy +48, Escape Artist +47, Knowledge (arcana) +47, Knowledge (geography) +44, Knowledge (local) +44, Knowledge (nature) +44, Knowledge (planes) +47, Knowledge (religion) +44, Perception +60, Sense Motive +52, Stealth +43, Swim +60; Racial Modifiers +8 Perception
+Languages Abyssal, Aquan, Celestial, Common, Draconic, Giant, Goblin, Infernal; telepathy 100 ft.
+SQ amphibious, planar omniscience
+Gear Embrace of the Uncaring Sea
+SPECIAL ABILITIES
+Water Mastery (Ex) Dagon gains a +2 competence bonus on attack and damage rolls and a +2 competence bonus to AC if both he and his opponent are touching water
+SPECIAL GEAR Unique Item: Embrace of the Uncaring Sea
+Dagon’s unique weapon is a +5 unholy mighty cleaving trident.
+On a successful critical hit, the target must make a DC 39 Fortitude save or begin to drown. This affects even creatures that can ordinarily breathe underwater or are under the effects of a water breathing spell.
+The target is allowed a new saving throw each round. The drowning continues until either the target is dead, a successful save is made, or the effect is successfully dispelled (CL 30th). Even if the effect is successfully removed, another critical hit starts it once again. The save DC is Constitution-based and includes a +10 racial bonus when used by Dagon.

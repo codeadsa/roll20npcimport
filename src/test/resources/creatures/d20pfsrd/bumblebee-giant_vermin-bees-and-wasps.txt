@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/bees-and-wasps/bumblebee-giant
+Giant Bumblebee CR 2
+XP 600
+N Medium vermin
+Init +4; Senses darkvision 60 ft.; Perception +3
+DEFENSE
+AC 17, touch 14, flat-footed 13 (+4 Dex, +3 natural)
+hp 22 (3d8+9)
+Fort +6, Ref +5, Will +4
+Immune mind-affecting effects
+Weaknesses vulnerable to smoke
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee sting +4 (1d4+3 plus poison)
+STATISTICS
+Str 15, Dex 18, Con 17, Int –, Wis 16, Cha 13
+Base Atk +2; CMB +4; CMD 18 (26 vs. trip)
+Skills Fly +8
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 14; frequency 1/round for 4 rounds; effect 1d2 Con; cure 1 save.
+Vulnerable to Smoke (Ex) Smoke from particularly smoky fires or effects (such as that created by a pyrotechnics spell) causes a giant bee to become nauseated if it fails a DC 14 Fortitude save. This condition persists as long as the giant bumblebee remains in the smoke, plus 1d4 rounds.

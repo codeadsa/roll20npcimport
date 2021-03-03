@@ -1,0 +1,42 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-cloud-tohc/dragon-cloud-ancient-TOHC
+Ancient Cloud Dragon CR 16
+XP 76,800
+N Gargantuan dragon (air)
+Init +4; Senses cloud vision, dragon senses; Perception +35; Aura frightful presence (300 ft., DC 27)
+DEFENSE
+AC 37, touch 6, flat-footed 37 (+31 natural, –4 size)
+hp 297 (22d12+154)
+Fort +20; Ref +13; Will +19
+DR 15/magic; Immune electricity, paralysis, sleep, winds; SR 27
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy)
+Melee bite +30 (4d6+18 plus 2d6 cold), 2 claws +30 (2d8+12), 2 wings +28 (2d6+6), tail slap +28 (2d8+18)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (60 ft. cone, DC 28, 20d6 cold plus bull rush [Medium or smaller]), cold bite 2d6, crush, tail sweep
+Spell-like Abilities (CL 22nd):
+At-will—call lightning (DC 19), control winds (DC 21), create water, obscuring mist, stinking cloud (DC 19)
+Sorcerer Spells Known (CL 14th)
+7th (3/day)—reverse gravity
+6th (6/day)—acid fog, chain lightning (DC 22)
+5th (7/day)—cloudkill (DC 21), cone of cold (DC 21), teleport
+4th (7/day)—air walk, dimension door, ice storm, lesser globe of invulnerability
+3rd (7/day)—dispel magic, lightning bolt (DC 19), sleet storm, wind wall
+2nd (7/day)—blur, cat’s grace, invisibility, levitate, whispering wind
+1st (7/day)—chill touch, feather fall, hypnotism (DC 17), shocking grasp, unseen servant
+0 (at will)—acid splash, detect magic, daze (DC 16), mage hand, message, open/close, ray of frost, read magic, resistance
+STATISTICS
+Str 35, Dex 10, Con 25, Int 22, Wis 23, Cha 22
+Base Atk +22; CMB +38; CMD 48 (52 vs. trip)
+Feats Alertness, Cleave, Flyby Attack, Great Cleave, Hover, Improved Initiative, Multiattack, Power Attack, Skill Focus (Fly), Snatch, Wingover
+Skills Bluff +31, Diplomacy +31, Fly +17, Intimidate +31, Knowledge (arcana) +31, Knowledge (geography) +31, Knowledge (history) +31, Knowledge (nature) +31, Perception +35, Sense Motive +35, Spellcraft +31, Use Magic Device +31
+Languages Auran, Aquan, Common, Draconic, Giant, Sylvan
+SQ cloud form
+SPECIAL ABILITIES
+Breath Weapon (Su) A cloud dragon’s breath weapon is a powerful cone of icy cold air. When a cloud dragon uses its breath weapon, make a single bull rush attack using the dragon’s CMB against the CMD of any creature that failed its Reflex save and is three or more size categories smaller than the dragon. This bull rush does not provoke attacks of opportunity, and the dragon cannot choose to move with any opponent pushed back. In addition to being pushed back, affected creatures are knocked prone and take 1d4 points of nonlethal damage per 10 feet they are pushed back. Flying creatures are buffeted and pushed back twice the distance and sustain 1d6 points of nonlethal damage per 10 feet they are pushed back.
+Cold Bite (Su) At old age, a cloud dragon’s bite deals an additional 2d6 points of cold damage. An ancient dragon’s damage increases to 4d6, and a great wrym’s to 6d6.
+Cloud Form (Su) As a standard action, a juvenile or older cloud dragon can assume gaseous form at will, but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
+Cloud Vision (Ex) A very young cloud dragon can see perfectly in foggy conditions (such as those created by fog cloud or obscuring mist).
+Immunity to Winds (Su) A cloud dragon is immune to the effects of wind. It ignores the penalties applied to the Fly skill incurred by wind speed, and is immune to the negative effects of any spell or effect that manipulates wind, such as gust of wind and whirlwind.
+
+
+

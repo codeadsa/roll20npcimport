@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ankhrav
+Ankhrav CR 9
+XP 6,400
+N Huge magical beast
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +13
+DEFENSE
+AC 24, touch 8, flat-footed 24 (+16 natural, –2 size)
+hp 115 (10d10+60)
+Fort +13, Ref +7, Will +7
+OFFENSE
+Speed 40 ft., burrow 30 ft.
+Melee bite +16 (2d8+8 plus 2d6 acid), 2 claws +16 (1d8+8)
+Space 15 ft.; Reach 15 ft.
+Special Attacks spit acid
+STATISTICS
+Str 27, Dex 10, Con 22, Int 1, Wis 15, Cha 10
+Base Atk +10; CMB +20; CMD 30
+Feats Improved Initiative, Iron Will, Skill Focus (Perception), Snatch, Step Up
+Skills Climb +16, Perception +13
+SPECIAL ABILITIES
+Spit Acid (Ex) An ankhrav can spit a 60-foot line of digestive fluid that deals 7d6 points of acid damage (Reflex DC 21 half). Once an ankhrav uses this ability, the acid damage dealt by the ankhrav’s bite attack is reduced by 1d6 for 1 hour. If the ankhrav’s bite attack would not deal any acid damage, it cannot spit acid. The save DC is Constitution-based.

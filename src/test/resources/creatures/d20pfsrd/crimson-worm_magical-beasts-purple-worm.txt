@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/purple-worm/crimson-worm
+Crimson Worm CR 13
+XP 25,600
+N Colossal magical beast
+Init –2; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +18
+DEFENSE
+AC 25, touch 0, flat-footed 25 (-2 Dex, +25 natural, -8 size)
+hp 232 (16d10+144)
+Fort +19, Ref +8, Will +5
+OFFENSE
+Speed 20 ft., burrow 20 ft., swim 10 ft.
+Melee bite +21 (8d6+12/19–20 plus grab), sting +21 (4d6+12 plus poison)
+Space 20 ft.; Reach 15 ft.
+Special Attacks swallow whole (8d6+18 bludgeoning damage, AC 21, 20 hp)
+STATISTICS
+Str 35, Dex 6, Con 25, Int 1, Wis 8, Cha 8
+Base Atk +16; CMB +38 (+42 grapple); CMD 45 (can’t be tripped)
+Feats Awesome Blow, Critical Focus, Improved Bull Rush, Improved Critical (bite), Power Attack, Staggering Critical, Weapon Focus (bite, sting)
+Skills Perception +18, Swim +22
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 27; frequency 1/round for 6 rounds; effect 1d4 Strength damage; cure 3 consecutive saves. The save DC is Constitution-based.

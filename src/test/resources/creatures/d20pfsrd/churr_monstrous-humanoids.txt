@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/churr
+Churr CR 5
+XP 1,600
+N (E) Large monstrous humanoid
+Init +2; Senses darkvision 60 ft., scent; Perception +11
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, –1 size)
+hp 57 (6d10+24)
+Fort +6; Ref +7; Will +8
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee bite +10 (1d6+5), 2 claws +10 (1d6+5 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (1d6+5), howl
+TACTICS
+Churr begin combat by unleashing their horrific howl and beating their chests. They then charge opponents attempting to get their meaty paws around them and choke the life from them.
+STATISTICS
+Str 21, Dex 15, Con 18, Int 6, Wis 12, Cha 10
+Base Atk +6; CMB +12 (+16 grapple); CMD 24
+Feats Iron Will, Power Attack, Skill Focus (Perception)
+Skills Climb +13, Intimidate +7, Perception +11, Survival +8
+Languages Giant
+SPECIAL ABILITIES
+Howl (Su) A churr can unleash a frightening howl as a standard action in a 60-foot radius. Creatures in the area must succeed on DC 15 Will save or become panicked for 1d6 rounds. This is a sonic, mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same churr’s howl for 24 hours. The save DC is Charisma-based and includes a +2 racial bonus.

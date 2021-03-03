@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/demiurge-tohc
+Demiurge CR 6
+XP 2,400
+CE Medium undead (incorporeal)
+Init +6; Senses darkvision 60 ft.; Perception +14
+Aura unnatural aura (30 ft.)
+DEFENSE
+AC 16, touch 16, flat-footed 14 (+2 Dex, +4 deflection)
+hp 68 (8d8+32)
+Fort +6, Ref +6, Will +8
+Defensive Abilities incorporeal; Immune undead traits; SR 17
+Weaknesses vulnerability to iron
+OFFENSE
+Speed fly 40 ft. (good)
+Melee incorporeal touch +8 (1d4 cold)
+Special Attacks soul touch, transfixing gaze
+STATISTICS
+Str —, Dex 15, Con —, Int 14, Wis 14, Cha 18
+Base Atk +6; CMB +8; CMD 18
+Feats Alertness, Combat Reflexes, Improved Initiative, Lightning Reflexes
+Skills Bluff +10, Fly +16, Intimidate +14, Perception +14, Sense Motive +14, Stealth +12, Survival +9
+SPECIAL ABILITIES
+Soul Touch (Su) A demiurge can damage a creature’s soul by moving through a space occupied by the creature. This is a standard action that does not provoke an attack of opportunity. The target can resist the attack by succeeding on a DC 18 Will save. If the save fails, the target dies as the shock of unlife permeates its soul. If the save succeeds, that creature cannot be affected again by the same demiurge’s soul touch for one day. This is a death effect. The save DC is Charisma-based.
+Transfixing Gaze (Su) Any creature within 30 feet meeting the demiurge’s gaze must succeed on a DC 18 Will save or be transfixed for one minute as if affected by a hold person spell (caster level 10th). An affected creature can attempt a new save each round to break the effects.
+Vulnerability to Iron (Ex) A cold iron weapon ignores the demiurge’s incorporeal state and deals normal damage.

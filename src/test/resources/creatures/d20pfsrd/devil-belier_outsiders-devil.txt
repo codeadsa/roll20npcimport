@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-belier
+Belier Devil (Bdellavritra) CR 16
+XP 76,800
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +10; Senses darkvision 60 ft., see in darkness; Perception +28
+DEFENSE
+AC 33, touch 15, flat-footed 27 (+6 Dex, +18 natural, -1 size)
+hp 212 (17d10+119)
+Fort +17, Ref +11, Will +20
+DR 10/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 28
+OFFENSE
+Speed 20 ft., fly 60 ft. (perfect)
+Melee bite +23 (4d8+7), 3 tongues +23 (2d6+7/19-20 plus grab)
+Space 10 ft.; Reach 10 ft. (20 ft. with tongues)
+Special Attacks blood drain (1d4 Con damage), constrict (1d6+7), possession, strangle
+Spell-Like Abilities (CL 17th; concentration +24)
+At will—acid arrow, greater dispel magic, greater teleport (self plus 50 pounds of objects only), persistent image (DC 22)
+3/day—acid fog, dimensional anchor, dominate person (DC 22), greater scrying (DC 24), mass suggestion (DC 23)
+1/day—blasphemy (DC 24), demand (DC 25), magic jar (DC 22), plane shift (DC 22), summon (level 6, 3 barbed devils 45%), waves of exhaustion
+STATISTICS
+Str 24, Dex 23, Con 25, Int 25, Wis 26, Cha 24
+Base Atk +17; CMB +25 (+29 grapple); CMD 41 (can’t be tripped)
+Feats Combat Expertise, Combat Reflexes, Greater Disarm, Greater Trip, Improved Critical (tongue), Improved Disarm, Improved Initiative, Improved Trip, Iron Will
+Skills Appraise +24, Bluff +27, Diplomacy +27, Fly +32, Intimidate +24, Knowledge (arcana, local, nobility, and planes) +27, Perception +28, Sense Motive +28, Spellcraft +24, Stealth +22
+Languages Celestial, Common, Draconic, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Possession (Su) When a belier devil uses its magic jar spell-like ability, it can identify and pinpoint life forces accurately, allowing it to select its victims with ease. It does not require a receptacle to use magic jar. If it uses magic jar on a host while on the Material Plane, its own body becomes ethereal for the duration of the possession and the magic jar effect lasts until the effect is dispelled, the devil ends the effect, it is forced out of its host body, or it or its host body is slain.

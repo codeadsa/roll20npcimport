@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/linnorm/linnorm-taiga
+Taiga Linnorm CR 19
+XP 204,800
+CE Colossal dragon
+Init +11; Senses darkvision 60 ft., low-light vision, scent, true seeing; Perception +30
+DEFENSE
+AC 34, touch 9, flat-footed 27 (+7 Dex, +25 natural, -8 size)
+hp 346 (21d12+210); regeneration 15 (cold iron)
+Fort +22, Ref +21, Will +18
+Defensive Abilities freedom of movement, spines; DR 15/cold iron; Immune curse effects, electricity, mind-affecting effects, paralysis, poison, sleep; SR 30
+OFFENSE
+Speed 40 ft., fly 100 ft. (average), swim 60 ft.
+Melee bite +29 (3d8+16/19-20 plus poison), 2 claws +29 (2d6+16), tail +24 (3d6+8 plus grab)
+Space 30 ft.; Reach 30 ft.
+Special Attacks breath weapon, constrict (tail, 3d6+24), death curse
+STATISTICS
+Str 43, Dex 25, Con 30, Int 6, Wis 23, Cha 28
+Base Atk +21; CMB +45 (+49 grapple); CMD 62 (can’t be tripped)
+Feats Awesome Blow, Blind-Fight, Cleave, Combat Reflexes, Great Cleave, Improved Bull Rush, Improved Critical (bite), Improved Initiative, Lightning Reflexes, Power Attack, Vital Strike
+Skills Fly +23, Perception +30, Stealth +15 (+23 in forests), Swim +48; Racial Modifiers +8 Stealth in forests
+Languages Aklo, Draconic, Sylvan
+SPECIAL ABILITIES
+Breath Weapon (Su) Once every 1d4 rounds as a standard action, a taiga linnorm can expel a 60-foot cone of electrified vapor, dealing 21d8 points of electricity damage to all creatures struck (Reflex DC 30 for half). The vapor itself persists for 1d4 rounds, filling its cone-shaped area with electrified mist that deals 4d6 points of electricity damage (no save) to any creature that ends its turn in the mist. The mist does not hinder vision. The save DC is Constitution-based.
+Death Curse (Su) Curse of Electrocution: save Will DC 29; effect the creature gains vulnerability to electricity.
+Poison (Ex) Bite—injury; save Fort DC 30; frequency 1/round for 10 rounds; effect 4d6 electricity damage and 1d8 Dex drain; cure 3 consecutive saves.
+Spines (Ex) Any creature that makes a melee attack against a taiga linnorm takes 1d6 points of piercing damage per attack from the linnorm’s spines. A melee weapon with reach provides protection from these spines.

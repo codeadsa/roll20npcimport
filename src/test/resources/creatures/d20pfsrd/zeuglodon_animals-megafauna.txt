@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/megafauna/zeuglodon
+Zeuglodon CR 9
+XP 6,400
+N Gargantuan animal
+Init +8; Senses low-light vision; Perception +20
+DEFENSE
+AC 25, touch 11, flat-footed 20 (+4 Dex, +1 dodge, +14 natural, –4 size)
+hp 115 (11d8+66)
+Fort +13, Ref +11, Will +6
+OFFENSE
+Speed swim 60 ft.
+Melee bite +17 (2d8+19 plus grab)
+Space 20 ft.; Reach 20 ft.
+Special Attacks thrash
+STATISTICS
+Str 37, Dex 18, Con 22, Int 1, Wis 13, Cha 6
+Base Atk +8; CMB +25 (+29 grapple); CMD 40 (can’t be tripped)
+Feats Dodge, Improved Initiative, Iron Will, Lunge, Power Attack, Run
+Skills Perception +20, Swim +27; Racial Modifiers +8 Perception
+SQ hold breath
+SPECIAL ABILITIES
+Hold Breath (Ex) A zeuglodon can hold its breath for a number of rounds equal to 4 times its Constitution score before it risks drowning.
+Thrash (Ex) A zeuglodon grappling a foe can thrash its body back and forth rapidly, dealing extra damage due to the violent motion of its whipping head. This attack deals 4d8+19 points of damage, but allows the grappled creature a free attempt to escape the grapple. If a creature escapes, it is thrown 30 feet in a random direction by the zeuglodon’s erratic thrashing.
+Primeval Sea Creatures
+The ocean is full of myriad life forms, as varied and specialized as those in any other environment. But not all sea creatures are the result of millennia upon millennia of continual evolution. Some found themselves perfectly suited for their roles as apex predators millions of years ago and have simply remained as such to the present day, presenting terrible threats to those creatures that cross them, from their natural prey to unsuspecting sailors who find themselves in the wrong place at the wrong time. In most cases, these creatures are closely related to other waterborne animals, be they fish, reptiles, or mammals, and some even have distinctive similarities to primarily land-based creatures.

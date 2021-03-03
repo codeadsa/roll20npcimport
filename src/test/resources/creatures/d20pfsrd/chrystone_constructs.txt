@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/chrystone
+Chrystone CR 4
+XP 1,200
+N Medium construct
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +4
+DEFENSE
+AC 15, touch 9, flat-footed 15 (–1 Dex, +6 natural)
+hp 42 (4d10+20)
+Fort +1; Ref +0; Will +3
+Defensive Abilities shatter weapons; DR 5/—; Immune construct traits, magic
+OFFENSE
+Speed 20 ft.
+Melee longsword +7 (1d8+3)
+Special Attacks death throes
+Spell-like Abilities (CL 4th)
+At will—stone shape (item of 5 pounds or less, otherwise as the spell)
+2/day—stone tell
+3/day—color spray (DC 13)
+TACTICS
+During Combat Chrystones open with color spray which emanates from their mouth like a breath weapon and then close for melee combat if targets are close enough; otherwise, they stand back and fight with their longswords. If a battle is going poorly, a chrystone attempts to retreat and ambush its opponents when it has repaired itself.
+STATISTICS
+Str 17, Dex 9, Con —, Int 8, Wis 11, Cha 1
+Base Atk +4; CMB +7; CMD 16
+Feats Iron Will, Power Attack
+Skills Perception +4
+SPECIAL ABILITIES
+Death Throes (Ex) When a chrystone is destroyed, it shatters, spraying razor-sharp fragments from its form. Creatures within 5 feet of the chrystone take 2d6 points of damage. A DC 12 Reflex saving throw halves the damage. A chrystone can prevent itself from shattering by making a DC 12 Will save as it is destroyed.
+Spell-like Abilities (Sp) Three times per day, a chrystone can use its stone shape to repair itself, healing 1d6 points of damage per use. This requires a full-round action that provokes attacks of opportunity. The save DC for the chrystone’s color spray includes a +2 racial bonus.
+Immunity to Magic (Ex) A chrystone is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A transmute rock to mud spell slows a chrystone (as the slow spell) for 2d6 rounds, with no saving throw, while transmute mud to rock heals all of its lost hit points.
+A stone to flesh spell does not actually change the chrystone’s structure but negates its damage reduction and immunity to magic for 1 full round.
+Shatter Weapons (Ex) Whenever a character strikes a chrystone with a weapon (magical or nonmagical), the weapon must succeed on a DC 14 Fortitude save or shatter into pieces. A magic weapon uses its own save bonus or that of the wielder, whichever is higher. If the weapon breaks, the chrystone takes no damage from the attack. The save DC is Constitution-based and includes a +2 racial bonus.

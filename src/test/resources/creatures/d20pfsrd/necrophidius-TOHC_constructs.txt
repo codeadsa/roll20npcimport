@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/necrophidius-TOHC
+Necrophidius CR 2
+XP 600
+N Large construct
+Init +3; Senses low-light vision, darkvision 60 ft.; Perception +0
+DEFENSE
+AC 18, touch 12, flat-footed 15 (+3 Dex, +6 natural, -1 size)
+hp 46 (3d10+30)
+Fort +1, Ref +, Will +1
+DR 5/bludgeoning; Immune construct traits
+OFFENSE
+Speed 30 ft.
+Melee bite +5 (1d8+3 plus paralysis)
+Space 10 ft; Reach 5 ft.
+Special Attacks dance of death, paralysis (1d6 minutes, DC 12)
+TACTICS
+The necrophidius opens combat with its dance of death ability; entranced victims are bitten and paralyzed. Paralyzed victims are either slain by the necrophidius or left to their own accord (depending on the exact instructions given to the necrophidius by its creator).
+STATISTICS
+Str 16, Dex 17, Con –, Int –, Wis 11, Cha 12
+Base Atk +3; CMB +7; CMD 20 (can’t be tripped)
+Skills Stealth +11; Racial Modifiers +12 Stealth
+SPECIAL ABILITIES
+Dance of Death (Ex) A necrophidius can entrance opponents by swaying back and forth. Those within 30 feet viewing the dancing snake must succeed on a DC 12 Will save or be dazed for 2d4 rounds. This is a mind-affecting effect. The save DC is Charisma-based.
+Variants Rattler
+A variation of the necrophidius, the rattler is constructed from the skeletal remains of a giant rattlesnake. During the creation process, the tail rattle is left intact and magicked to create a confusion effect on those that hear it rattle. The rattler uses the same statistics as the standard necrophidius except it does not gain the necrophidius’ dance of death special attack. Instead it gains the special attack detailed below.
+Rattle (Ex) By shaking its tail rattle, the creature emits a rattling noise to a range of 30 feet. Those within the area that hear this rattle must succeed on a DC 12 Will save or be affected as by a confusion spell for 2d4 rounds. The save DC is Charisma-based.
+Construction A necrophidius’ body consists of a human skull and the skeletal remains of a constrictor snake treated with rare oils and powders worth at least 1,000 gp.
+CL 10th; Price 7,500 gp
+CONSTRUCTION REQUIREMENTS
+Craft Construct, animate objects, charm person (or confusion if creating a rattler), geas/quest, polymorph any object, confusion (rattler necrophidius only); Special creator must be caster level 8th; Skill Craft (sculptures) DC 15; Cost 4,250 gp.

@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/titan/elysian-titan
+Elysian Titan CR 21
+XP 409,600
+CG Colossal outsider (chaotic, extraplanar, good)
+Init +7; Senses darkvision 120 ft., true seeing; Perception +33
+DEFENSE
+AC 37, touch 5, flat-footed 34 (+9 armor, +3 Dex, +23 natural, –8 size)
+hp 409 (21d10+294); regeneration 15 (evil)
+Fort +21, Ref +15, Will +21; +8 resistance vs. mind-affecting
+DR 15/evil; Immune aging, death effects, disease; SR 32
+OFFENSE
+Speed 60 ft. (40 ft. in armor)
+Melee maul of the titans +33/+28/+23/+18 (6d8+28/17–20) or 2 slams +30 (2d8+17)
+Space 30 ft.; Reach 30 ft.
+Special Attacks trample (2d8+25, DC 37)
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant—air walk, mind blank, true seeing
+At will—bestow curse (DC 21), break enchantment, divination, greater dispel magic, sending
+3/day—greater scrying (DC 24), heal, mass suggestion (DC 23)
+1/day—freedom, greater planar ally, meteor swarm (DC 26)
+STATISTICS
+Str 45, Dex 16, Con 39, Int 21, Wis 28, Cha 24
+Base Atk +21; CMB +46; CMD 59
+Feats Awesome Blow, Critical Focus, Greater Sunder, Greater Vital Strike, Improved Bull Rush, Improved Initiative, Improved Sunder, Improved Vital Strike, Power Attack, Staggering Critical, Vital Strike
+Skills Bluff +31, Craft (any) +29, Diplomacy +31, Intimidate +31, Knowledge (engineering) +26, Knowledge (planes) +29, Perception +33, Perform (any) +28, Sense Motive +33, Spellcraft +29, Use Magic Device +31
+Languages Abyssal, Celestial, Common; telepathy 300 ft.
+SQ change shape (any humanoid; alter self )

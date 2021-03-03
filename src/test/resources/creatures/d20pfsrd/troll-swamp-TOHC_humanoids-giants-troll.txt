@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/troll-swamp-TOHC
+Swamp Troll CR 3
+XP 800
+CE Large humanoid (giant)
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +3
+DEFENSE
+AC 16, touch 11, flat-footed 14 (+2 Dex, +5 natural, -1 size)
+hp 38 (4d8+20); regeneration 3 (acid or fire)
+Fort +9, Ref +3, Will +2
+Weaknesses swamp dependent
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee bite +6 (2d6+4), 2 claws +6 (1d6+4)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d6+6)
+TACTICS
+Swamp trolls are aggressive predators that attack living creatures on sight (especially when hungry). When hunting a swamp troll moves quietly along, easing closer to its prey and then finally striking with its claws and bite when within range. Swamp trolls rarely fight to the death unless threatened or hungry.
+STATISTICS
+Str 18, Dex 14, Con 20, Int 6, Wis 9, Cha 4
+Base Atk +3; CMB +8; CMD 20
+Feats Improved Natural Attack (bite)B, Iron Will, Skill Focus (Perception)
+Skills Perception +3, Stealth +4 (+8 swampy or forested areas) , Survival +3, Swim +12; Racial Modifiers +4 Stealth (+8 Stealth in swampy or forested areas)
+Languages Giant
+SPECIAL ABILITIES
+Swamp Dependent (Ex) Swamp trolls keep their bodies covered in a thick coating of mud and swamp water. Without such a coating, they lose their regeneration ability and eventually suffocate. They can survive away from their murky home for 1 hour per 2 points of Constitution. After that, they begin to suffocate. They cannot regenerate while subject to suffocation from being away from their swamp for too long.
+Swamp Troll Characters Swamp troll characters possess the following racial traits.
++8 Strength, +4 Dexterity, +10 Constitution, -4 Intelligence (minimum 3), -2 Wisdom, -6 Charisma. Large size: -1 penalty to Armor Class, -1 penalty on attack rolls, -4 penalty on Stealth checks, +1 bonus on CMB and CMD checks, lifting and carrying limits double those of Medium characters. Space/Reach: 10 feet/10 feet. Darkvision: Swamp trolls can see in the dark out to 60 feet. Low-light vision: Swamp trolls can see twice as far as humans in conditions of dim light. Scent: Swamp trolls can detect opponents within 30 feet by sense of smell. Racial Hit Dice: A swamp troll begins with four levels of humanoid, which provide 4d8 Hit Dice, a base attack bonus of +3, and base saving throw bonuses of Fort +4, Ref +1, and Will +1. Racial Skills: A swamp troll’s humanoid levels give it skill points equal to 4 x (2 + Int modifier, minimum 1). Swamp trolls have a +4 racial bonus on Stealth checks. The bonus to Stealth checks increases to +8 in swampy or forested areas. Racial Feats: A swamp troll’s humanoid levels give it two feats. It gains Improved Natural Attack (bite) as a bonus feat. AC: +5 natural armor bonus. Natural Weapons: Swamp trolls fight with a bite (2d6) and 2 claws (1d6). Special Attacks: Rend (see left). Special Qualities: regeneration 3 (fire or acid), swamp dependent (see left). Languages: Swamp trolls begin play speaking Giant. Swamp trolls with high Intelligence scores can choose from the following languages: Common, Orc.

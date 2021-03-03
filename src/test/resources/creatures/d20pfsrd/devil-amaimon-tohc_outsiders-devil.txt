@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-amaimon-tohc
+Amaimon Devil CR 8
+XP 4,800
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +8; Senses darkvision 60 ft.; Perception +16; Aura fear (10 ft., Will DC 15)
+DEFENSE
+AC 23, touch 13, flat-footed 19 (+4 Dex, +10 natural, –1 size)
+hp 94 (9d10+45); regeneration 5 (good, silver)
+Fort +8, Ref +10, Will +8
+DR 10/silver; Immune fire, poison; Resist acid 10, cold 10; SR 19
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +16 (1d8+7), bite +15 (2d6+7)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (40-ft. cone, 4d6 fire plus 2d6 Con, Reflex DC 21, usable 1d4 rounds)
+Spell-Like Abilities (CL 10th)
+At will—greater teleport (self plus 50 pounds of objects only), major image (DC 14), protection from good, wall of fire (DC 15)
+1/day—summon (level 4, 2d10 lemures 50% or 1 amaimon 35%)
+TACTICS
+An amaimon ruthlessly attacks any creatures it encounters. It begins combat with its breath weapon seeking to engulf as many of its opponents within the area as possible. It always enters combat against good-aligned foes with its protection from good in effect raking with its claws and gnashing with its bite. If the battle turns against the amaimon it summons a horde of lemures or another amaimon to its aid.
+STATISTICS
+Str 24, Dex 18, Con 21, Int 14, Wis 14, Cha 12
+Base Atk +9; CMB +17; CMD 31
+Feats Alertness, Deceitful, Improved Initiative, Power Attack, Weapon Focus (claw)
+Skills Acrobatics +13, Bluff +15, Diplomacy +13, Disguise +3, Intimidate +13, Knowledge (planes) +14, Perception +16, Sense Motive +16, Survival +14
+Languages Common, Draconic, Infernal; telepathy 100 ft.

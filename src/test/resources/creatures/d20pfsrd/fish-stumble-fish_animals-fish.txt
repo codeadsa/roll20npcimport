@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/fish/fish-stumble-fish
+Stumble Fish CR 1
+XP 400
+N Small animal (aquatic)
+Init +1; Senses low-light vision; Perception +1
+DEFENSE
+AC 13, touch 12, flat-footed 12 (+1 Dex, +1 natural, +1 size)
+hp 7 (2d8-2)
+Fort +2, Ref +4, Will +1
+OFFENSE
+Speed swim 20 ft.
+Melee 1 bite -1 (1d4-2)
+Space 5 ft.; Reach 5 ft.
+Special Attacks jumping overrun
+STATISTICS
+Str 6, Dex 12, Con 8, Int 1, Wis 12, Cha 2
+Base Atk +1; CMB +1 (+3 overrun); CMD 8 (10 vs overrun)
+Feats Agile Maneuvers, Improved OverrunB
+Skills Acrobatics +6
+SPECIAL ABILITIES
+Jumping Overrun (Ex) A stumble fish can jump out of the water to make an overrun attempt. It can jump up to 10 ft out of the water without having to make an Acrobatics check. This jump is part of an overrun attempt.

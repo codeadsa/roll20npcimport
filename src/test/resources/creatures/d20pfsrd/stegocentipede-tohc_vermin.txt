@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/stegocentipede-tohc
+Stegocentipede CR 5
+XP 1,600
+N Huge vermin
+Init +2; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 17, touch 10, flat-footed 15 (+2 Dex, +7 natural, -2 size)
+hp 58 (9d8+18)
+Fort +8, Ref +5, Will +3
+Defensive Abilities spines; Immune mind-affecting effects, vermin traits
+OFFENSE
+Speed 40 ft.
+Melee bite +8 (2d6+4 plus poison), sting +8 (2d6+4 plus poison)
+Space 15 ft.; Reach 15 ft
+STATISTICS
+Str 19, Dex 15, Con 14, Int —, Wis 10, Cha 2
+Base Atk +6; CMB +12; CMD 24 (can’t be tripped)
+Skills Climb +8, Perception +4, Stealth +2; Racial Modifiers +4 Climb, +4 Perception, +8 Stealth
+TACTICS
+A stegocentipede raises its spines instinctively when it enters combat and rushes its prey. Opponents are bitten and stung to death.
+SPECIAL ABILITIES
+Poison (Ex) Bite or sting—injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d6 Dex; cure 2 consecutive saves. The save DC is Constitution-based and includes a +2 racial bonus.
+Spines (Ex) A stegocentipede raises its spine-plates during combat, and moves rapidly back and forth while attacking. Creatures in a space adjacent to a stegocentipede must succeed on a DC 16 Reflex save each time they attack it or take 2d8+2 points of damage from the spine-plates, whether the attack was successful or not. The save DC is Constitution-based.

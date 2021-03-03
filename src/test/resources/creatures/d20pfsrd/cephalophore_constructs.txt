@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/cephalophore
+Cephalophore CR 8
+XP 4,800
+N Large construct
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +1
+DEFENSE
+AC 23, touch 11, flat-footed 21 (+2 Dex, +12 natural, –1 size)
+hp 96 (12d10+30)
+Fort +4, Ref +6, Will +5
+Defensive Abilities shatter weapons; Immune construct traits; SR 20
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +18 (2d6+7 plus dazing strike)
+Space 10 ft.; Reach 10 ft.
+Special Attacks dazing gaze, dazing strike
+STATISTICS
+Str 25, Dex 14, Con —, Int —, Wis 12, Cha 1
+Base Atk +12; CMB +20; CMD 32
+SQ shatter weapons, statue
+SPECIAL ABILITIES
+Dazing Gaze (Su) As a standard action, a cephalophore can hold up its severed head to make a gaze attack that affects all seeing creatures within a 60-foot radius. These creatures must succeed at a DC 16 Will save or be stunned for 1 round. Creatures that successfully save are instead sickened for 1 round. This is a mind-affecting fear effect, and the save DC is Wisdom-based.
+Dazing Strike (Su) Any creature struck by the cephalophore’s slam attacks must succeed at a DC 16 Will save or be dazed for 1 round. Those who save against this affect are instead sickened for 1 round. This is a mind-affecting fear effect, and the save DC is Wisdom-based.
+Shatter Weapons (Ex) Whenever a character strikes a cephalophore with a weapon (magical or non-magical), the weapon takes 3d6 points of damage. Apply the weapon’s hardness normally. Weapons that take any amount of damage in excess of their hardness gain the broken condition.
+Statue (Ex) If a cephalophore stands perfectly still, it is indistinguishable from a normal statue. An observer must succeed at a DC 20 Perception check to notice the cephalophore is alive. If a cephalophore initiates combat from this pose, it gains a +6 bonus on its initiative check.

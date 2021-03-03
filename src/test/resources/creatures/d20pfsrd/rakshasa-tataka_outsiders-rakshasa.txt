@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/rakshasa/rakshasa-tataka
+Tataka CR 15
+XP 51,200
+LE Large outsider (native, rakshasa, shapechanger)
+Init +3; Senses darkvision 60 ft., scent, true seeing; Perception +19
+DEFENSE
+AC 28, touch 13, flat-footed 24 (+3 Dex, +1 dodge, +15 natural, -1 size)
+hp 225 (18d10+126)
+Fort +18, Ref +9, Will +12
+DR 15/good and piercing; SR 30
+OFFENSE
+Speed 40 ft.; air walk
+Melee unarmed strike +24/+19/+14/+9 (2d6+7/19-20), bite +19 (1d8+3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks detect thoughts (DC 24), martial artist
+Spell-Like Abilities (CL 15th; concentration +20)
+Constant—air walk, true seeing
+Spells Known (CL 12th; concentration +17)
+6th (3/day)—heal
+5th (6/day)—flame strike (DC 20), telekinesis (DC 20)
+4th (7/day)—charm monster (DC 19), dimension door, freedom of movement
+3rd (7/day)—dispel magic, fireball (DC 18), haste, rage
+2nd (7/day)—acid arrow, cure moderate wounds, death knell (DC 17), invisibility, misdirection
+1st (8/day)—command (DC 16), mage armor, magic missile, ray of enfeeblement (DC 16), shield of faith
+0 (at will)—acid splash, bleed (DC 15), light, mage hand, mending, message, open/close, prestidigitation, read magic
+STATISTICS
+Str 24, Dex 16, Con 25, Int 13, Wis 13, Cha 20
+Base Atk +18; CMB +26; CMD 40
+Feats Cleave, Combat Reflexes, Critical Focus, Dodge, Great Cleave, Improved Critical (unarmed strike), Improved Vital Strike, Power Attack, Vital Strike
+Skills Acrobatics +18 (+22 when jumping), Bluff +23, Climb +17, Disguise +26, Intimidate +23, Knowledge (religion) +10, Perception +19, Sense Motive +19, Survival +16, Swim +18; Racial Modifiers +4 Bluff, +8 Disguise
+Languages Common, Infernal, Undercommon
+SQ change shape (any humanoid; alter self or giant form I)
+SPECIAL ABILITIES
+Martial Artist (Su) A tataka’s unarmed strikes deal 2d6 points of damage. If a tataka gains monk levels, it uses its tataka unarmed strike damage or its monk unarmed strike damage, whichever is higher. Its unarmed strikes function as lawful and evil weapons for overcoming damage reduction.
+Spells A tataka casts spells as a 12th-level sorcerer. A tataka can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a tataka.

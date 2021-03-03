@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/banderlog
+Banderlog CR 2
+XP 600
+N Medium monstrous humanoid
+Init +2; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 19 (3d10+3)
+Fort +2; Ref +5; Will +4
+OFFENSE
+Speed 40 ft., climb 30 ft.
+Melee bite +5 (1d6+2) or club +5 (1d6+2)
+Ranged coconut +6 (1d4+2)
+Special Attacks coconut throwing
+STATISTICS
+Str 15, Dex 14, Con 12, Int 8, Wis 12, Cha 6
+Base Atk +3; CMB +5; CMD 17
+Feats Alertness, Weapon Focus (coconut)
+Skills Climb +10, Perception +9, Sense Motive +3, Stealth +8, Survival +7
+Languages Banderlog, Common
+SPECIAL ABILITIES
+Coconut Throwing (Ex) A banderlog can hurl a coconut up to 10 feet (range increment 10 feet, maximum range 50 feet).
+Banderlog Characters Banderlogs have racial Hit Dice and can have class levels. Most banderlogs are barbarians or rangers. Most banderlog spellcasters are adepts. Banderlog characters possess the following racial traits.
++4 Strength, +4 Dexterity, +2 Constitution, –2 Intelligence, +2 Wisdom, –4 Charisma: Banderlogs are strong and hardy tree dwellers, but also shy and retiring Base Speed: A banderlog’s base land speed is 40 feet. Its base climb speed is 30 feet. Darkvision: Banderlogs can see in the dark up to 60 feet. Racial Hit Dice: A banderlog begins with three levels of monstrous humanoid, which provide 3d10 Hit Dice, a base attack bonus of +3, and base saves of Fort +1, Ref +3, and Will +3. Racial Skills: A banderlog’s monstrous humanoid levels give it skill points equal to 3 x (4 + Int modifier, minimum 1) Racial Feats: A banderlog’s monstrous humanoid levels give it two feats. AC: Banderlogs have +2 natural armor bonus. Natural Weapons: Banderlogs can fight with a bite (1d6). Special Attacks: Coconut throwing (see above). Languages: Banderlogs begin plays speaking Banderlog. Banderlogs with high Intelligence scores can choose from the following bonus languages: Common, Elven, Gnome, Halfling, Sylvan.

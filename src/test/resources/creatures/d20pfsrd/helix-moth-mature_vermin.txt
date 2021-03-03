@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/helix-moth-mature
+helix moth, mature CR 10
+XP 9,600
+N Huge vermin
+Init +6; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +0
+DEFENSE
+AC 23, touch 10, flat-footed 21 (+2 Dex, +13 natural, –2 size)
+hp 120 (16d8+48)
+Fort +13; Ref +7; Will +5
+Immune vermin traits
+OFFENSE
+Speed 20 ft., fly 60 ft. (good)
+Melee bite +15 (2d8+5 plus 1d8 acid plus grab), tail sting +15 (2d6+2 plus poison),
+Space 15 ft.; Reach 10 ft.
+Special Attacks drone
+STATISTICS
+Str 20, Dex 15, Con 16, Int –, Wis 11, Cha 2
+Base Atk +12; CMB +19; CMD 27
+Feats Improved InitiativeB
+SPECIAL ABILITIES
+Drone (Ex) The rapid beating of the helix moth’s wings creates a droning sound that is audible up to 60 feet away. This droning clouds the minds of all creatures within 30 feet that hear it except other helix moths. A successful DC 21 Will save negates the effect. The save DC is Constitution-based.
+On a failed save, a creature suffers a -4 circumstance penalty to attack rolls, checks and saves for 1 minute. After this time, a new save can be attempted (same DC) if the helix moth’s droning can still be heard and the creature is within range. If this save fails, the creature remains affected for another one minute. This continues every minute until a successful save is made or the combat ends. A creature that makes a successful Will save is unaffected by the droning of that helix moth for one day. The droning is a free action so long as the helix moth is airborne. On the ground, it may beat its wings as a move action with the effects as above.
+Poison (Ex) Sting—injury; save DC 21; frequency 1/round for 6 rounds; effect 1d4 Strength damage; cure 2 consecutive saves. The save DC is Constitution-based.

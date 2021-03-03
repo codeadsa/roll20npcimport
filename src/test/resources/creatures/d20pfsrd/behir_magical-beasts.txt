@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/behir
+Behir CR 8
+XP 4,800
+N Huge magical beast
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +8
+DEFENSE
+AC 21, touch 9, flat-footed 20 (+1 Dex, +12 natural, –2 size)
+hp 105 (10d10+50)
+Fort +12, Ref +8, Will +5
+Immune electricity
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +15 (2d6+9 plus grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks breath weapon (20-foot line, 7d6 electricity damage, Reflex DC 20 for half, usable every 1d4 rounds), constrict (2d6+9), rake (6 claws +14, 1d4+6), swallow whole (2d8+9 bludgeoning damage, AC 16, 10 hp)
+STATISTICS
+Str 23, Dex 12, Con 21, Int 7, Wis 14, Cha 12
+Base Atk +10; CMB +18 (+22 grapple); CMD 29 (can’t be tripped)
+Feats Alertness, Cleave, Great Cleave, Power Attack, Weapon Focus (bite)
+Skills Climb +14, Perception +8, Stealth +5
+Languages Common
+SPECIAL ABILITIES
+Grab (Ex) A behir’s grab attack works against creatures of any size category. It can constrict the same round it establishes a hold. On any round thereafter that it maintains its hold, the behir can choose to rake the grappled target or swallow it whole.

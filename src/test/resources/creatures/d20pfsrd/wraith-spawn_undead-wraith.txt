@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/wraith/wraith-spawn
+Broken Child CR 4
+XP 1,200
+Wraith spawn
+LE Small undead (incorporeal)
+Init +5; Senses darkvision 60 ft., lifesense; Perception +8; Aura unnatural aura (30 ft.)
+DEFENSE
+AC 15, touch 15, flat-footed 14 (+3 deflection, +1 Dex, +1 size)
+hp 37 each (5d8+15)
+Fort +4, Ref +2, Will +4
+Defensive Abilities channel resistance +2, incorporeal; Immune undead traits
+Weaknesses sunlight powerlessness, wraith spawn
+OFFENSE
+Speed fly 60 ft. (good)
+Melee incorporeal touch +5 (1d4 negative energy plus 1d2 Con drain)
+TACTICS
+During Combat A wraith spawn concentrates attacks upon individual PCs, such as those caught in traps or at the edges of the group. If attacked, a wraith spawn flees and returns again to attack the same foe when it is safe.
+Morale A wraith spawn flees if reduced to 10 hit points or fewer, but if encountered in its home, it attacks until destroyed.
+STATISTICS
+Str –, Dex 12, Con –, Int 14, Wis 10, Cha 17
+Base Atk +3; CMB +3; CMD 16
+Feats Blind-Fight, Combat Reflexes, Improved Initiative
+Skills Diplomacy +8, Fly +5, Intimidate +11, Knowledge (planes) +5, Perception +8, Sense Motive +8, Stealth +13
+Languages Common, Varisian
+SPECIAL ABILITIES
+Constitution Drain (Su) The save DC for a wraith spawn’s Constitution drain is 15. On each successful attack, the wraith spawn gains 2 temporary hit points.
+Wraith Spawn (Su) The broken children are spawn of a wraith and are under its control. As such, they are smaller and weaker than normal wraiths. If the creator is destroyed, they become full-sized, free-willed wraiths with no penalties.

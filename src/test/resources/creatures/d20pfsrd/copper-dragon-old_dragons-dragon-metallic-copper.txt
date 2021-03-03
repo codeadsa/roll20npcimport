@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-copper/copper-dragon-old
+Copper Dragon, Old CR 15
+XP 51,200
+CG Huge dragon (earth)
+Init +4; Senses dragon senses; Perception +27; Aura frightful presence (240 ft., DC 24), slow (5 ft., DC 25, 1 round)
+DEFENSE
+AC 33, touch 8, flat-footed 33 (+25 natural, -2 size)
+hp 237 (19d12+114)
+Fort +17, Ref +11, Will +16
+Defensive Abilities uncanny dodge; DR 10/magic; Immune acid, paralysis, sleep; SR 26
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor); climb stone
+Melee bite +26 (2d8+13/19–20), 2 claws +26 (2d6+9/19–20), tail slap +21 (2d6+13), 2 wings +21 (1d8+4)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (100-ft. line, DC 25, 16d6 acid), crush (2d8+13, DC 25), slow breath
+Spell-Like Abilities (CL 19th; concentration +24)
+At will— grease (DC 16), hideous laughter (DC 17), stone shape, transmute mud to rock, transmute rock to mud
+Sorcerer Spells Known (CL 11th; concentration +16)
+5th (5/day)—mind fog (DC 20), teleport
+4th (7/day)—confusion (DC 19), rainbow pattern (DC 20), stone shape
+3rd (7/day)—dispel magic, haste, major image (DC 19), tongues
+2nd (7/day)—glitterdust (DC 17), invisibility, phantom trap, pyrotechnics, see invisibility
+1st (8/day)—alarm, identify, magic missile, shield, silent image (DC 17)
+0 (at will)—dancing lights, detect magic, ghost sound (DC 16), light, mage hand, message, open/close, prestidigitation, read magic
+STATISTICS
+Str 29, Dex 10, Con 23, Int 20, Wis 21, Cha 20
+Base Atk +19; CMB +30 (+34 trip); CMD 40 (46 vs. trip)
+Feats Combat Expertise, Greater Trip, Improved Critical (bite, claw), Improved Initiative, Improved Trip, Improved Vital Strike, Power Attack, Spell Focus (Illusion), Vital Strike
+Skills Bluff +27, Craft (traps) +35, Diplomacy +27, Fly +14, Knowledge (geography, history) +27, Perception +27 (+35 vs. traps), Perform (comedy) +24, Sense Motive +27, Stealth +14, Use Magic Device +27
+Languages Common, Draconic, Dwarven, Elven, Gnome, Halfling
+SQ trap master
+SPECIAL ABILITIES
+Climb Stone (Ex) A copper dragon can climb on stone surfaces as though using the spider climb spell.
+Slow Aura (Su) An old or older copper dragon is surrounded by an aura of slowness. All creatures within 5 feet of the dragon must make a Will save or be affected as per slow for 1 round. An ancient dragon’s aura extends to 10 feet. For great wyrm copper dragons, those opponents that fail their saves are slowed for 1d4 rounds. The DC of this save is equal to the dragon’s breath weapon. A copper dragon can suppress or activate this aura at will as a free action.
+Slow Breath (Su) Instead of a line of acid, a copper dragon can breathe a cone of slowing gas. Those in the cone must make a Fortitude save or be slowed (as per the spell slow) for 1d6 rounds plus 1 round per age category of the dragon.
+Trap Master (Ex) A juvenile or older copper dragon receives a +1 bonus per age category on Craft (traps) and Perception checks made to locate a trap. Upon becoming a mature adult, he can also use Disable Device to disarm magic traps as if he had the rogue’s Trapfinding class feature.
+

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/trapper-TOHC
+Trapper CR 8
+XP 4,800
+N Huge aberration
+Init +5; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +23
+DEFENSE
+AC 19, touch 9, flat-footed 18 (+1 Dex, +10 natural, -2 size)
+hp 117 (12d8+51 plus 12)
+Fort +8, Ref +7, Will +10
+Defensive Abilities amorphous; DR 10/slashing or piercing;
+Resist cold 10, fire 10
+OFFENSE
+Speed 10 ft.
+Melee buffet +17 (1d8+15)
+Space 15 ft.; Reach 10 ft.
+Special Attacks smother
+TACTICS
+A trapper waits until its prey is almost centered on its body near the “trunk” or “chest” before it strikes. It then quickly folds and wraps its body around its unsuspecting prey attempting to smother and squeeze it until it is dead.
+STATISTICS
+Str 30, Dex 12, Con 19, Int 14, Wis 15, Cha 14
+Base Atk +9; CMB +21; CMD 32 (can’t be tripped)
+Feats Blind-Fight, Improved Initiative, Lightning Reflexes, Skill Focus (Perception), Skill Focus (Stealth), Toughness
+Skills Climb +25, Knowledge (dungeoneering) +17, Knowledge (engineering) +14, Perception +23, Stealth +14 (+26 in areas of natural or worked stone), Survival +17; Racial Modifiers +12 Stealth in areas of natural or worked stone
+Languages Common, Undercommon (cannot speak)
+SPECIAL ABILITIES
+Smother (Ex) A trapper can try to wrap a creature up to one size smaller than itself in its body as a standard action. The trapper attempts a grapple that does not provoke an attack of opportunity. If it wins the grapple check, it establishes a hold and deals buffet damage each round the hold is maintained. Further, a grappled opponent must hold its breath or suffocate. Attacks that hit a smothering trapper deal half their damage to the monster and half to the trapped victim.

@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/beheaded/flaming-skull
+Flaming Skull
+CR 1/2
+XP 200
+NE Tiny undead
+Init +1; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 13, touch 13, flat-footed 12 (+1 Dex, +2 size)
+hp 5 (1d8+1)
+Fort +1, Ref +1, Will +2
+Immune fire, undead traits
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee slam (1d2–1 plus 1d6 fire)
+STATISTICS
+Str 9, Dex 12, Con –, Int –, Wis 10, Cha 13
+Base Atk +0; CMB -3; CMD 8 (can’t be tripped)
+Skills Fly +9

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/scythe-tree
+Scythe Tree CR 6
+XP 2,400
+CE Huge plant
+Init -1; Senses blindsight 30 ft., low-light vision; Perception +16
+DEFENSE
+AC 19, touch 7, flat-footed 19 (-1 Dex, +12 natural, -2 size)
+hp 67 (9d8+27)
+Fort +9, Ref +4, Will +4
+DR 10/slashing; Immune plant traits
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 20 ft.
+Melee 3 branches +10 (2d4+6/19–20)
+Space 15 ft.; Reach 15 ft.
+TACTICS
+The scythe tree uses Lunge to increase its reach on the first round of combat. It focuses its attacks on only one or two opponents, slicing them with Power Attack. Unused to strong resistance, the scythe tree fights until it is reduced to 13 hit points or fewer, at which point it tries to flee into the forest.
+STATISTICS
+Str 23, Dex 8, Con 17, Int 10, Wis 13, Cha 12
+Base Atk +6; CMB +16; CMD 25 (can’t be tripped)
+Feats Cleave, Improved Critical (branches)B, Lightning Reflexes, Lunge, Power Attack, Skill Focus (Perception)
+Skills Perception +16, Stealth +3 (+15 in forests); Racial Modifiers +12 Stealth in forests
+Languages Sylvan, Treant
+SPECIAL ABILITIES
+Branches (Ex) A scythe tree makes its primary attacks with its branches, which deal slashing damage and threaten a critical hit on a 19-20.

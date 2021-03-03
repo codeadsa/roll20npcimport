@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/terra-cotta-soldier/terra-cotta-archer
+Terra-cotta Archer CR 6
+XP 2,400
+N Medium construct
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +8
+DEFENSE
+AC 19, touch 13, flat-footed 16 (+3 Dex, +6 natural)
+hp 64 (8d10+20)
+Fort +2, Ref +5, Will +2
+DR 5/bludgeoning; Immune construct traits, fire; SR 17
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +11 (1d6+3)
+Ranged composite longbow +12 (1d8/x3)
+Special Attacks keen weapons, rank fighting
+STATISTICS
+Str 16, Dex 16, Con —, Int 1, Wis 11, Cha 1
+Base Atk +8; CMB +11; CMD 24
+Feats Improved Initiative, Point-Blank Shot, Precise Shot Weapon Focus (longbow)
+Skills Perception +8
+SPECIAL ABILITIES
+Keen Weapons (Su) After it has engaged in at least 1 round of combat, a terra-cotta archer’s arrows automatically gain the benefits of keen weapon (CL 6th). This effect persists until the end of the battle. This effect applies to the soldier’s arrows even though keen doesn’t normally work on piercing weapons.
+Rank Fighting (Ex) Whenever a terra-cotta archer is adjacent to another terra-cotta archer, it gains a +2 dodge bonus to its AC and a +2 bonus on saving throws, attack rolls, and damage rolls.
+Base Creature
+Terra-cotta Soldier Construction Terra-cotta Archer
+A terra-cotta archer’s body is made from 600 pounds of clay, fired with rare and magical glazes worth 500 gp.
+CL 9th; Price 19,000 gp
+CONSTRUCTION REQUIREMENTS
+Craft Construct, animate objects, cat’s grace, geas/quest, keen edge; Special creator must be caster level 9th; Skill Craft (pottery) or Craft (sculptures) DC 14; Cost 10,000 gp

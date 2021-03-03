@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/dragon-horse
+Dragon Horse CR 9
+XP 6,400
+NG Large magical beast (air)
+Init +7; Senses darkvision 120 ft., know alignment, low-light vision; Perception +17
+DEFENSE
+AC 23, touch 13, flat-footed 19 (+3 Dex, +1 dodge, +10 natural, –1 size)
+hp 105 (10d10+50)
+Fort +12, Ref +10, Will +9
+OFFENSE
+Speed 60 ft., fly 120 ft. (good)
+Melee 2 hooves +16 (2d6+7 plus 1d6 electricity)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapons, flying charge
+STATISTICS
+Str 24, Dex 17, Con 21, Int 16, Wis 18, Cha 21
+Base Atk +10; CMB +18; CMD 32 (36 vs. trip)
+Feats Dodge, Flyby Attack, Improved Initiative, Iron Will, Mobility
+Skills Fly +18, Knowledge (planes) +13, Perception +17, Sense Motive +14, Survival +14
+Languages Auran, Common, Draconic; telepathy 100 ft.
+SQ shift planes
+SPECIAL ABILITIES
+Breath Weapons (Su) As a standard action, a dragon horse can breathe out a 30-foot cone of mist. This mist either deals 10d6 points of cold damage (DC 20 Reflex half), creates a region of fog in the area that lasts for 1 minute (similar to that created by a fog cloud spell), or creates a blast of severe wind in the area. The dragon horse may use this breath weapon once every 1d4 rounds. The save DC is Constitution-based.
+Flying Charge (Ex) A dragon horse gains a +4 bonus on damage rolls if it charges while flying.
+Know Alignment (Su) Dragon horses automatically know the alignment of any creature they can see.
+Shift Planes (Su) A dragon horse can enter the Ethereal Plane, Astral Plane, Plane of Air, or Material Plane once per day as a standard action. This functions as plane shift, but the dragon horse can only bring up to two other willing creatures with it, and only if they are on its back.

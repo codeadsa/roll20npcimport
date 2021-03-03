@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-carrion
+Carrion Golem CR 4
+XP 1,200
+N Medium construct
+Init +1; Senses blindsense 10 ft., darkvision 60 ft., low-light vision; Perception +0; Aura foul stench (DC 12, 1 round)
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+1 Dex, +6 natural)
+hp 42 (4d10+20)
+Fort +1, Ref +2, Will +1
+DR 5/bludgeoning or slashing; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +7 (1d8+3 plus disease)
+Special Attacks plague carrier
+STATISTICS
+Str 17, Dex 12, Con —, Int —, Wis 11, Cha 1
+Base Atk +4; CMB +7; CMD 18
+SPECIAL ABILITIES
+Foul Stench (Ex) This functions as the stench ability, but causes affected creatures to be nauseated rather than sickened.
+Immune to Magic (Ex) A carrion golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+Gentle repose causes a carrion golem to become stiff and helpless for 1d4 rounds if it fails a Will save against the spell. Animate dead causes the various parts of the golem’s body to shudder and tear, dealing 1d6 points of damage per caster level to the golem (no save). Any magical attack that deals cold or fire damage slows a carrion golem (as the slow spell) for 2d6 rounds (no save). Any magical attack that deals electricity damage hastes a carrion golem (as the haste spell) for 2d6 rounds. Plague Carrier (Ex) When a carrion golem is created, its creator infects it with a specific disease. The carrion golem can then infect those it strikes with its slams with this disease—most carrion golems inflict filth fever. The save DC is Constitution-based and includes a +2 racial bonus.
+Filth Fever: slam—injury; save Fortitude DC 14; onset 1d3 days; frequency 1/day; effect 1d3 Dex damage and 1d3 Con damage; cure 2 consecutive saves.
+Variants The creation of a carrion golem is as much an art as a science, and each golem tends to be unique, reflecting the whims and sick desires of its creator. While the version addressed above applies to most individuals, a number of twisted variations follow.
+Carrion Golem, Mount: Occasionally, a particularly twisted individual creates a carrion golem using parts from horses and other large quadrapeds, making the construct strong enough to use as a mount. Employed primarily for the shock value, and occasionally called upon to lead the vanguard of evil armies, few things are more terrifying than a man riding into battle on a decaying horse with spider legs and a man’s face, his legs stuck firm to the putrefying molded flesh of the saddle. These variant carrion golems are Large and have a speed of 40 feet.
+Carrion Golem, Stand-ins: Some tieflings and other deformed spellcasters enjoy creating carrion golems in their own image. These disgusting variants are still cobbled together from an assortment of corpses, but the crafter carefully sculpts them and covers strange appendages in grafts of human flesh or scaly lizard hide (depending on their own weird physical traits). These golems impersonate their master with a +8 bonus on Disguise skill checks, though anyone attempting to interact with them immediately discovers the ruse. They are otherwise identical to common carrion golems.
+Carrion Golem, Weaponized: Eschewed by all but the most ruthless warlords, these carrion golems are excellent instruments of terror. Rigged with alchemical explosives inside their chest cavities, these monstrosities can be sent into a rebellious town or hamlet to wreak havoc, infecting the local populace with fear and disease. When dealt a mortal blow, a special glyph placed on its chest causes it to explode, showering everyone within a 30-foot radius spread with gobbets of reeking flesh. The damage dealt by this explosion depends upon the nature of the alchemical ingredients used and stored inside the golem, but fire and acid are standard choices. In any event, the explosion deals 4d6 points of the appropriate energy damage (Reflex DC 12 half; the save DC is Constitution based), and infects everyone who takes damage with a random disease, as if each had been hit by the golem’s slam attack.
+Pathfinder 7: Edge of Anarchy. Copyright 2008, Paizo Publishing LLC. Author: Nicolas Logue
+
+Construction
+A carrion golem’s body can be constructed using at least two Medium corpses and four smaller corpses. Special reagents worth 500 gp are also required.
+Carrion Golem
+CL 7th; Price 10,500 gp
+CONSTRUCTION
+Requirements Craft Construct, animate dead, contagion, false life, gentle repose, lesser geas; Special creator must be caster level 7th; Skill Craft (leather) or Heal DC 13; Cost 5,500 gp

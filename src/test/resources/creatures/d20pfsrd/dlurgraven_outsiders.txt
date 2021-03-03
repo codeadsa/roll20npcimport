@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/dlurgraven
+Dlurgraven CR 4
+XP 1,200
+Usually neutral evil Large outsider (evil)
+Init +3; Senses darkvision 60 ft.; Perception +10 (+14 in twilight/darkness)
+DEFENSE
+AC 17 (-1 size, +3 Dex, +5 natural)
+hp 37 (5d10+5+5 Toughness)
+Fort +5, Ref +7, Will +3
+Defensive Abilities evasion, plane shift; DR 5/magic; Resist cold 10, fire 10; SR 8
+OFFENSE
+Speed 10 ft., fly 80 ft. (average)
+Melee 2 talons +7 (1d6+4/19-20), bite +7 (1d8+4 plus poison)
+Special Attacks poison, stunning stare
+Spell-Like Abilities (CL 14th; concentration +14)
+1/day— plane shift (DC 17)
+Tactics Dlurgravens fighting lone prey prefer to make several quick strikes with Flyby Attack, keeping itself out of melee range for as long as possible until its poison takes effect. When fighting multiple foes they use a similar tactic, using their stunning stare ability to disable one opponent and give it time to concentrate on others.
+STATISTICS
+Str 18, Dex 17, Con 12, Int 10, Wis 14, Cha 10
+Base Atk +5; CMB +10; CMD 23
+Feats Flyby Attack, Power Attack, Toughness
+Skills Acrobatics +11, Fly +11, Intimidate +8, Knowledge (planes) +8, Perception +10 (+14 in twilight/darkness), Stealth +7 (+15 in twilight or darker environments) Racial Dlurgravens receive a +4 racial bonus to Perception checks in twilight or darker environments.
+Languages Abyssal or Infernal
+
+SPECIAL ABILITIES
+Evasion (Ex) A dlurgraven can avoid even magical and unusual attacks with great agility. If it makes a successful Reflex saving throw against an attack that normally deals half damage on a successful save, it instead takes no damage.
+Plane Shift (Sp) A dlurgraven may cast plane shift once per day as a full-round action. It may carry a single passenger of up to Medium-size. It is otherwise similar to the spell of the same name. The save DC is Charisma based.
+Poison (Ex) The dlurgraven’s bite is poisonous.
+Dlurgraven saliva Bite—injury; save Fort DC 13, frequency 1/round for 4 rounds, effect 1d2 Str, cure 1 save;
+Stunning Stare (Su) Once per day a dlurgraven can direct a gaze attack at a single creature within 30 feet. The target is stunned for 1d4 rounds unless it succeeds at a Will saving throw (DC 12).

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sepia-snake
+Sepia Snake CR 10
+XP 9,600
+N Huge magical beast
+Init +7; Senses darkvision 120 ft., low-light vision; Perception +9
+DEFENSE
+AC 21, touch 11, flat-footed 18 (+3 Dex, +10 natural, -2 size)
+hp 114 (12d10+48)
+Fort +12, Ref +11, Will +5
+DR 10/magic;
+OFFENSE
+Speed 40 ft., fly 50 ft. (good)
+Melee bite +17 (1d8+7 plus grab) tail sting +18 (1d8+3 plus poison)
+Space 15 ft.; Reach 10 ft.
+Special Attacks cocoon, constrict (1d8+10), gaze
+STATISTICS
+Str 24, Dex 16, Con 19, Int 4, Wis 13, Cha 19
+Base Atk +12; CMB +21; CMD 34 (can’t be tripped)
+Feats Flyby Attack, Improved Initiative, Improved Poison, Power Attack, Skill Focus (Stealth), Weapon Focus (tail sting)
+Skills Perception +9, Stealth +12
+SPECIAL ABILITIES
+Cocoon (Su) Three times per day, a sepia snake can fire a line of webbing to a range of 20 feet. A creature caught in the path can make a successful DC 20 Reflex save to avoid the web. On a failed save, the opponent is wrapped in the snake’s webbing. When a foe is completely covered in webbing, it must make a successful DC 20 Fortitude save or be placed in a state of suspended animation as per the sepia snake sigil spell for 1d4+12 days. The save DCs are Constitution-based.
+In one round, the sepia snake can spit enough webbing to cover one Medium or smaller creature. For each size category larger than Medium, the snake must fire another line of webbing to completely encase an opponent. Victims hit by the webbing, but not completely covered, can break free in one round by making a successful DC 24 Strength check or DC 20 Escape Artist check. Each 5-foot section of webbing has 10 hit points. The check DCs are Constitution-based and the Strength check includes a +4 racial bonus.
+A foe completely wrapped cannot break the webs and must rely on others to get free.
+Gaze (Su) The gaze of a sepia snake crushes the will of an opponent and induces despair if it fails a DC 20 Will save. On a failed save, the opponent suffers a -4 penalty on attack rolls, weapon damage rolls, and ability and skill checks. The save DC is Charisma-based.
+Poison (Ex) Tail Sting–Injury; save Fort DC 20; frequency 1/ round for 6 rounds; effect paralysis and 1d2 Dex; cure 1 save. The save DC is Constitution-based.

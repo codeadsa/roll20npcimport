@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/humbaba
+Humbaba CR 19
+XP 204,800
+CN Colossal monstrous humanoid
+Init +7; Senses darkvision 120 ft., true seeing; Perception +32; Aura prismatic aura (30 ft., DC 26)
+DEFENSE
+AC 34, touch 2, flat-footed 34 (+8 armor, +24 natural, -8 size)
+hp 341 (22d10+220); fast healing 10
+Fort +17, Ref +16, Will +22
+Immune blindness, death effects, fire, sonic; SR 30
+OFFENSE
+Speed 60 ft. (40 ft. in armor)
+Melee longsword +29/+24/+19/+14 (6d6+15/17-20) or 2 slams +29 (2d8+15)
+Ranged rock +18 (2d8+22)
+Space 30 ft.; Reach 30 ft.
+Special Attacks breath weapon (60-ft. cone, 20d6 fire, DC 31, usable every 1d4 rounds), rock throwing (180 ft.)
+Spell-Like Abilities (CL 20th; concentration +25)
+Constant—true seeing
+3/day—greater shout (DC 23)
+1/day—destruction (DC 22), earthquake (DC 23), power word stun
+STATISTICS
+Str 41, Dex 16, Con 30, Int 11, Wis 24, Cha 21
+Base Atk +22; CMB +45; CMD 58
+Feats Awesome Blow, Cleave, Critical Focus, Improved Bull Rush, Improved Critical (longsword), Improved Initiative, Intimidating Prowess, Iron Will, Power Attack, Staggering Critical, Vital Strike
+Skills Climb +34, Intimidate +45, Perception +32, Survival +32
+Languages Abyssal, Common, Giant
+SPECIAL ABILITIES
+Prismatic Aura (Su) As a swift action once per day, a humbaba can activate its prismatic aura. Doing so causes brilliant light to radiate from the humbaba to a radius of 30 feet. Each round at the start of the humbaba’s turn, roll 1d8 and consult the table of prismatic spray effects to determine the color and effect of the light (reroll results of 8). If a creature begins its turn in the prismatic aura’s area, it must make the appropriate saving throw (DC 26) against that effect. Once activated, a humbaba’s prismatic aura lasts for 7 rounds. The save DC is Charisma-based.

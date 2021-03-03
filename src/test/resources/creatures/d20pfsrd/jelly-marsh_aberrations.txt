@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/jelly-marsh
+Marsh Jelly CR 3
+XP 800
+N Medium aberration
+Init +5; Senses darkvision 60 ft., scent; Perception +10
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +5 natural)
+hp 32 (5d8+10)
+Fort +3, Ref +2, Will +5
+DR 5/piercing or slashing
+OFFENSE
+Speed 5 ft., fly 30 ft. (average)
+Melee 4 tentacles +6 (1d6+3 plus poison)
+Special Attacks death throes, disorienting glow
+STATISTICS
+Str 16, Dex 13, Con 15, Int 3, Wis 12, Cha 10
+Base Atk +3; CMB +6; CMD 17 (can’t be tripped)
+Feats Improved Initiative, Skill Focus (Perception), Stealthy
+Skills Escape Artist +3, Fly +5, Perception +10, Stealth +7
+SPECIAL ABILITIES
+Death Throes (Ex) When slain, a marsh jelly explodes in a blast of acid that deals 2d6 points of acid damage to anything within 10 feet. A successful DC 14 Reflex save reduces the damage by half. The save DC is Constitution-based.
+Disorienting Glow (Ex) When a marsh jelly first takes damage, its body begins pulsating and flashing rapidly, emitting an eerie greenish glow. Creatures viewing a pulsating marsh jelly must succeed on a DC 14 Will save or be dazzled for 1d4 rounds. The save DC is Constitution-based.
+Poison (Ex) Tentacle–injury; save DC 14; frequency 1/ round for 4 rounds; effect 1d2 Dexterity damage; cure 2 consecutive saves. The save DC is Constitution-based.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/scorpion/scorpion-deadfall
+Deadfall Scorpion CR 8
+XP 4,800
+N Huge vermin
+Init +2; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +6
+DEFENSE
+AC 21, touch 10, flat-footed 19 (+2 Dex, +11 natural, -2 size)
+hp 95 (10d8+50)
+Fort +12, Ref +5, Will +5
+Immune mind-affecting effects
+OFFENSE
+Speed 50 ft.
+Melee 2 claws +13 (1d8+8 plus grab), sting +13 (1d8+8 plus poison)
+Space 15 ft.; Reach 15 ft.
+Special Attacks constrict (1d8+8), sudden strike
+STATISTICS
+Str 27, Dex 15, Con 20, Int —, Wis 14, Cha 2
+Base Atk +7; CMB +17 (+21 grapple); CMD 29 (41 vs. trip)
+Feats Skill Focus (Stealth)B
+Skills Perception +6, Stealth +5 (+13 in forests); Racial
+Modifiers +4 Perception, +8 Stealth (+16 in forests)
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Str damage; cure 2 consecutive saves.
+Sudden Strike (Ex) A deadfall scorpion is adept at moving quickly when its foes are surprised. During a surprise round, a deadfall scorpion may act as if it had a full round to act, rather than just one standard action.
+Source dundjinni.com forums

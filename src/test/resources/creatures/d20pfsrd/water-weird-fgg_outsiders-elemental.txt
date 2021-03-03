@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/elemental/water-weird-fgg
+Water Weird CR 4
+XP 1,200
+CE Large outsider (elemental, water)
+Init +6; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 16, touch 11, flat-footed 14 (+2 Dex, +5 natural, –1 size)
+hp 26 each (4d10+4)
+Fort +2; Ref +6; Will +6
+Defensive Abilities reform body, transparent; DR 10/bludgeoning; Immune elemental traits
+OFFENSE
+Speed 30 ft., swim 90 ft.
+Melee slam +6 (1d6+4 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks control water elemental, drown (DC 15), water mastery
+STATISTICS
+Str 17, Dex 14, Con 12, Int 11, Wis 14, Cha 11
+Base Atk +4; CMB +8 (+12 to grapple); CMD 20
+Feats Improved Initiative, Skill Focus (Perception)
+Skills Bluff +7, Escape Artist +9, Intimidate +7, Perception +12, Stealth +5, Swim +18
+Languages Aquan
+SPECIAL ABILITIES
+Control Water Elemental (Ex) With a successful Intelligence check (DC 10), a water weird may control a single water elemental within 30 feet of it, as though it had summoned it with a summon monster spell. If the elemental is already under the control of another caster, the DC of the Intelligence check is instead 10 plus the Intelligence modifier of the creature controlling the elemental. Control lasts for a number of hours equal to the water weird’s Hit Dice.
+Drown (Ex) A water weird who successfully grabs an opponent attempts to pin it under water. A creature unable to escape the water weird’s pin who fails its Fortitude save (DC 15) begins to drown. The save DC is Strength-based.
+Reform Body (Ex) When reduced to zero or fewer hit points, the water weird collapses. If it was on water at the time, it reforms at full strength 1d4+1 rounds later. A purify food and drink spell deals 1d4 points of damage per caster level (max 10d4), and any damage sustained in this manner is not regained when the water weird reforms.
+Transparent (Ex) A water weird is effectively invisible in water until it attacks.
+Water Mastery (Ex) A water weird gains a +1 circumstance bonus to attacks and damage for every 4 Hit Dice it possesses if both it and its opponent touch water. If the opponent or water weird is on land, it instead suffers a –4 penalty to attack and damage. (The statistics block above does not include this bonus).

@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-outer/outer-dragon-vortex/vortex-dragon-adult
+Adult Vortex Dragon CR 14
+XP 38,400
+LN Huge dragon (fire)
+Init +5; Senses dragon senses, see in darkness; Perception +24; Aura alien presence (180 ft., DC 23)
+DEFENSE
+AC 30, touch 9, flat-footed 29 (+1 Dex, +21 natural, –2 size)
+hp 195 (17d12+85)
+Fort +17, Ref +13, Will +14
+DR 5/magic; Immune fire, paralysis, sleep; SR 25
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 60 ft., fly 200 ft. (good)
+Melee bite +23 (2d8+12/19–20), 2 claws +23 (2d6+8), 2 wings +21 (1d8+4), tail slap +21 (2d6+12) Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, 12d8 fire, DC 23), crush, fragmented strike
+Spell-Like Abilities (CL 17th; concentration +22)
+At will—anticipate peril, entropic shield
+Sorcerer Spells Known (CL 7th; concentration +12)
+3rd (5/day)—displacement, protection from energy
+2nd (7/day)—mirror image, resist energy, scorching ray
+1st (8/day)—comprehend languages, feather fall, magic missile, obscuring mist, true strike
+0 (at will)—detect magic, light, message, read magic, 3 more
+STATISTICS
+Str 27, Dex 12, Con 21, Int 20, Wis 19, Cha 20
+Base Atk +17; CMB +27; CMD 38 (42 vs. trip)
+Feats Flyby Attack, Great Fortitude, Improved Critical (bite), Improved Initiative, Lightning Reflexes, Multiattack, Power Attack, Snatch, Wingover
+Skills Bluff +25, Diplomacy +25, Fly +21, Intimidate +25, Knowledge (arcana, geography, planes, religion) +25, Perception +24, Sense Motive +24, Spellcraft +25
+Languages Abyssal, Auran, Celestial, Common, Draconic, Infernal
+SQ agile, galactic emissary, no breath, starflight
+SPECIAL ABILITIES
+Agile (Ex) Vortex dragons have good maneuverability when flying regardless of their age or size.
+Alien Presence (Su) A vortex dragon’s alien presence bends space. A creature that fails its saving throw treats all other creatures as if they were under the effects of blur (or displacement if the target has 4 or fewer Hit Dice) for 5d6 rounds.
+Fragmented Strike (Su) An adult or older vortex dragon can strike with its bite through a rift in space. This allows it to make its bite attack against a target anywhere within the radius of its alien presence as long as the dragon can see the creature. This doesn’t apply to attacks of opportunity.
+Galactic Emissary (Su) A young or older vortex dragon halves the time of any starflight journey. In addition, it’s immune to any effect that bars extradimensional travel.

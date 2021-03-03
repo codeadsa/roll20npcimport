@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-green/green-dragon-mature-adult
+Mature Adult Green Dragon CR 13
+XP 25,600
+LE Huge dragon (air)
+Init +0; Senses dragon senses; Perception +27; Aura frightful presence (210 ft., DC 21)
+DEFENSE
+AC 30, touch 8, flat-footed 30 (+22 natural, -2 size)
+hp 195 (17d12+85)
+Fort +15, Ref +10, Will +15
+DR 10/magic; Immune acid, paralysis, sleep, SR 24
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor), swim 40 ft.
+Melee bite +24 (2d8+13/19-20), 2 claws +24 (2d6+9/19-20), 2 wings +22 (1d8+4), tail slap +22 (2d6+13)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, DC 23, 14d6 acid), crush (Small creatures, DC 23, 2d8+13)
+Spell-Like Abilities (CL 17th; concentration +20)
+At will— charm person (DC 14), entangle (DC 14), suggestion (DC 16) Spells Known (CL 7th; concentration +10)
+3rd (5/day)— fireball (DC 16), haste
+2nd (7/day)— alter self, detect thoughts (DC 15), mirror image
+1st (7/day)— magic missile, shield, silent image (DC 14), summon monster I, ventriloquism (DC 14)
+0 (at will)— dancing lights, detect magic, ghost sound, mage hand, message, resistance, prestidigitation STATISTICS
+Str 29, Dex 10, Con 21, Int 16, Wis 17, Cha 16
+Base Atk +17; CMB +28; CMD 38 (42 vs. trip)
+Feats Alertness, Cleave, Flyby Attack, Great Cleave, Improved Critical (bite), Improved Critical (claws), Iron Will, Multiattack, Power Attack
+Skills Fly +12, Knowledge (arcane) +23, Knowledge (nature) +23, Perception +27, Spellcraft +23, Stealth +12, Survival +23, Swim +37, Use Magic Device +23; Racial Modifiers +8 Swim
+Languages Common, Draconic, Elven, Sylvan
+SQ trackless step, water breathing, woodland stride
+SPECIAL ABILITIES
+Trackless Step (Ex) An adult or older green dragon does not leave a trail in natural surroundings and cannot be tracked. A green dragon can choose to leave a trail, if it so desires.
+Water Breathing (Ex) A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
+Woodland Stride (Ex) A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.
+

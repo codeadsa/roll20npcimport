@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga/naga-dark
+Dark Naga CR 9 (XP 4,800)
+LE Large aberration
+Init +5; Senses darkvision 60 ft., detect thoughts; Perception +19
+DEFENSE
+AC 22, touch 15, flat-footed 16 (+5 Dex, +1 dodge, +7 natural, –1 size)
+hp 85 (10d8+40)
+Fort +7, Ref +10, Will +9 (+11 vs. charm effects)
+Defensive Abilities guarded thoughts; Immune poison
+OFFENSE
+Speed 40 ft.
+Melee bite +8 (1d4+2), sting +8 (2d4+2 plus poison)
+Space 10 ft.; Reach 5 ft.
+Spells Known (CL 7th)
+3rd (5/day)—displacement, lightning bolt (DC 16)
+2nd (7/day)—cat’s grace, invisibility, scorching ray
+1st (7/day)—expeditious retreat, magic missile, ray of enfeeblement (DC 14), shield, silent image
+0 (at will)—daze, detect magic, light, mage hand, open/close, ray of frost, read magic
+STATISTICS
+Str 14, Dex 21, Con 18, Int 16, Wis 15, Cha 17
+Base Atk +7; CMB +10; CMD 26 (can’t be tripped)
+Feats Alertness, Combat Casting, Dodge, Eschew MaterialsB, Lightning Reflexes, Stealthy
+Skills Bluff +13, Diplomacy +9, Disguise +9, Escape Artist +13, Intimidate +12, Knowledge (arcana) +13, Perception +19, Sense Motive +10, Spellcraft +12, Stealth +18
+Languages Common, Infernal
+SPECIAL ABILITIES
+Detect Thoughts (Su) A dark naga can continuously use detect thoughts as per the spell (caster level 9th; Will DC 18 negates). The save DC is Charisma-based.
+Guarded Thoughts (Ex) Dark nagas are immune to any form of mind reading, such as that granted by detect thoughts. This ability also grants a +2 racial bonus on all saves against charm effects.
+Poison (Ex) Sting—injury; save Fort DC 19; frequency 1 round; effect sleep for 2d4 minutes; cure 1 save.
+Spells Dark nagas cast spells as 7th-level sorcerers.

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demons-of-corruption/demon-of-corruption-azizou-tohc
+Azizou (Pain Demon) CR 4
+XP 1,200
+CE Small outsider (chaotic, demon, evil, extraplanar)
+Init +2; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 19, touch 13, flat-footed 17 (+2 Dex, +6 natural, +1 size)
+hp 22 (4d10)
+Fort +1; Ref +6; Will +4
+DR 5/cold iron; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 15
+OFFENSE
+Speed 30 ft., fly 50 ft. (good)
+Melee 2 claws +8 (1d4+2), bite +8 (1d6+2)
+Special Attacks rend (2 claws, 2d4+3), whisper of madness
+Spell-like Abilities (CL 7th):
+At will—cause fear (DC 11), desecrate, detect good, detect thoughts (DC 12), invisibility (self only), scare (DC 12), stinking cloud (13)
+1/day—summon (level 3, 1 azizou 35%)
+STATISTICS
+Str 14, Dex 15, Con 11, Int 8, Wis 10, Cha 10
+Base Atk +4; CMB +5; CMD 17
+Feats Weapon Focus (bite), Weapon Focus (claw)
+Skills Acrobatics +9, Escape Artist +9, Fly +15, Perception +11, Stealth +13; Racial Modifiers +4 Perception
+Languages Abyssal, Common; telepathy 100 ft.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-wood-TOHC
+Wood Giant
+CR 5
+XP 1,600
+CG Large humanoid (giant)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +9
+DEFENSE
+AC 18, touch 12, flat-footed 15 (+2 armor, +3 Dex, +4 natural, –1 size)
+hp 52 (7d8+21)
+Fort +8; Ref +5; Will +4; +2 vs. enchantment
+OFFENSE
+Speed 40 ft.
+Melee greatsword +9 (3d6+7/19–20)
+Ranged mwk composite longbow (+5 Str) +9 (2d6+5/x3)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 21, Dex 16, Con 17, Int 14, Wis 14, Cha 12
+Base Atk +5; CMB +11; CMD 24
+Feats Deadly Aim, Point Blank Shot, Martial Weapon Proficiency (longbow), Weapon Focus (longbow)
+Skills Acrobatics +10, Climb +15, Perception +9, Stealth +6 (+10 in forests); Racial Modifiers +4 Stealth in forests
+Languages Common, Giant, Sylvan
+SQ change shape 3/day (alter self, giant form I)
+Gear greatsword, masterwork composite longbow (+5 Str), 20 arrows, leather armor
+Variants Wood Giant (Bestiary 2)
+Wood Giant Characters Most wood giant chieftains are rangers. Wood giant clerics are called shamans and can choose two of the following domains: Animal, Earth, or Plant. Wood giant characters possess the following racial traits.
++10 Str, +6 Dex, +6 Con, +4 Int, +4 Wis, +2 Cha: Wood giants are powerful and clever forest-dwellers. Large size: –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on Stealth checks, +1 bonus to CMB and CMD, lifting and carrying limits double those of Medium characters. Low-Light Vision: Wood giants can see twice as far as humans in conditions of dim light. Darkvision: Wood giants can see in the dark to a range of 60 feet. Saves: Wood giants have a +2 bonus to saves vs. spells of the enchantment school. Armor: Wood giants have a +4 natural armor bonus. Speed: 40 feet. Racial Hit Dice: A wood giant begins with seven levels of giant, which provide 7d8 Hit Dice, a base attack bonus of +5, and base saving throw bonuses of Fort +5, Ref +2, and Will +2. Racial Skills: A wood giant’s giant levels give it skill ranks equal to 7 x (2 + Int modifier). A wood giant has a +4 racial bonus on Stealth checks in forested areas. Racial Feats: A wood giant’s giant levels give it three feats. Special Qualities: (see left) Change shape Automatic Languages: Giant. Bonus Languages Common, Draconic, Elven, Goblin, Orc, and Sylvan.

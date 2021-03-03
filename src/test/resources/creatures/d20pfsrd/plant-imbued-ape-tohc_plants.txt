@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/plant-imbued-ape-tohc
+Plant-Imbued Ape CR 5
+XP 1,600
+NG Large plant
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +11
+DEFENSE
+AC 18, touch 11, flat-footed 16 (+2 Dex, +7 natural, –1 size)
+hp 19 (3d8+6); fast healing 5
+Fort +7; Ref +5; Will +3
+Defensive Abilities acute senses; DR 5/magic; Immune plant traits; SR 16
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee 2 slams +3 (1d6+2)
+Space 10 ft.; Reach 10 ft.
+Spell–like Abilities (CL 9th):
+At will—freedom of movement
+3/day—entangle (DC 13), magic fang
+1/day—sunburst (DC 20), tree stride
+STATISTICS
+Str 15, Dex 15, Con 14, Int 13, Wis 15, Cha 14
+Base Atk +2; CMB +5; CMD 17
+Feats Great Fortitude, Skill Focus (Perception)
+Skills Acrobatics +7, Climb +14, Perception +11, Stealth +4 (+8 in forested terrain); Racial Modifiers +4 Stealth in forested terrain
+Languages Common, Elven, Sylvan
+SQ woodland strike
+SPECIAL ABILITIES
+Acute Senses (Ex) Plant-imbued creatures can instantly sense anything within 60 feet; they cannot be flanked or surprised and gain Improved Uncanny Dodge as if they possessed rogue levels equal to their Hit Dice. They can also detect invisible foes or opponents in heavy fog or other obscuring conditions allowing them to strike without any miss chance.
+Woodland Stride (Ex) Plant-imbued creatures can move through any sort of undergrowth at their full movement rate without taking any penalties or suffering any damage. Magical enchantments designed to impede movement still affect them.
+Editor’s Note
+Base template: Plant-Imbued Creature (CR varies)

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/tenebrous-purple-worm-tohc
+Tenebrous Purple Worm CR 15
+XP 51,200
+N Gargantuan outsider (extraplanar)
+Init –2; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +18
+DEFENSE
+AC 32, touch 4, flat-footed 32 (–2 Dex, +28 natural, –4 size)
+hp 232 (16d10+144)
+Fort +19; Ref +8; Will +4
+OFFENSE
+Speed 20 ft., burrow 20 ft., swim 10 ft.
+Melee bite +26 (4d8+13/19–20 plus 2d6 acid and grab), sting +26 (2d8+13 plus poison)
+Space 20 ft.; Reach 15 ft.
+Special Attacks bristles (DC 27), poison, swallow whole (4d8+19 bludgeoning damage, AC 24, 20 hp)
+STATISTICS
+Str 37, Dex 6, Con 29, Int 1, Wis 8, Cha 10
+Base Atk +16; CMB +33 (+37 grapple); CMD 41
+Feats Awesome Blow, Critical Focus, Improved Bull Rush, Improved Critical (bite), Power Attack, Staggering Critical, Weapon Focus (bite, sting)
+Skills Perception +18, Swim +21
+SPECIAL ABILITIES
+Bristles (Ex) Reflex DC 27; Fort DC 27; 3d6 Con. The save DCs are Constitution–based.
+Poison (Ex) Sting—Injury; save Fort DC 27; frequency 1/round for 6 rounds; effect 1d4 Strength damage; cure 3 consecutive saves.
+Editor’s Note
+Base template: Tenebrous Creature (CR varies)

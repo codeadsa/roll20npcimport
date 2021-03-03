@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/land-lamprey
+Land Lamprey CR 1
+XP 400
+N Small magical beast
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 16, touch 13, flat-footed 14 (+2 Dex, +3 natural, +1 size)
+hp 5 (1d10)
+Fort +2, Ref +4, Will +1
+OFFENSE
+Speed 40 ft.
+Melee bite +3 (1d3-1 plus attach)
+Special Attacks attach, blood drain (1d4 Constitution)
+STATISTICS
+Str 8, Dex 14, Con 11, Int 1, Wis 12, Cha 2
+Base Atk +0; CMB -2 (+6 grapple); CMD 10
+Feats Weapon Finesse
+Skills Perception +5, Stealth +6
+SPECIAL ABILITIES
+Blood Drain (Ex) A land lamprey drains blood, dealing 1d4 points of Constitution damage in any round when it begins its turn attached to a victim. Once it has dealt 4 points of Constitution damage, it detaches and slithers off to digest the meal. If its victim dies before the land lamprey’s appetite has been sated, the land lamprey detaches and seeks a new target.

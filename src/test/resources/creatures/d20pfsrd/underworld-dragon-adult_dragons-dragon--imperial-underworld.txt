@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-underworld/underworld-dragon-adult
+Adult Underworld Dragon CR 11
+XP 12,800
+LE Large dragon (fire)
+Init +4; Senses dragon senses, smoke vision; Perception +20; Aura frightful presence (180 ft., DC 20)
+DEFENSE
+AC 28, touch 9, flat-footed 28 (+19 natural, -1 size)
+hp 161 (14d12+70)
+Fort +14, Ref +9, Will +12
+DR 5/magic; Immune fire, paralysis, sleep; SR 22
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft., burrow 40 ft., fly 200 ft. (poor)
+Melee bite +22 (2d6+12), 2 claws +22 (1d8+8/19-20), gore +21 (1d8+12), tail slap +16 (1d8+12)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite and gore)
+Special Attacks adamantine claws, breath weapon (80-ft. line, 12d6 fire damage, DC 22)
+Spell-Like Abilities (CL 14th; concentration +17)
+At will—soften earth and stone, spike stones (DC 17), stone shape
+Spells Known (CL 5th; concentration +8)
+2nd (5/day)—flaming sphere (DC 15), scorching ray
+1st (7/day)—burning hands (DC 14), cause fear (DC 14) magic missile, ray of enfeeblement (DC 14)
+0 (at will)—acid splash, bleed (DC 13), detect magic, flare (DC 13), read magic, resistance
+STATISTICS
+Str 27, Dex 10, Con 21, Int 16, Wis 17, Cha 16
+Base Atk +14; CMB +23; CMD 33 (37 vs. trip)
+Feats Improved Critical (claws), Improved Initiative, Improved Natural Armor, Lunge, Skill Focus (Stealth), Weapon Focus (bite, claw)
+Skills Appraise +20, Bluff +20, Climb +25, Fly +11, Intimidate +20, Knowledge (dungeoneering, geography) +20, Perception +20, Stealth +19
+Languages Common, Draconic, Ignan, Terran
+SQ change shape, underworld burrower
+SPECIAL ABILITIES
+Adamantine Claws (Ex) The claws of an underworld dragon are made of adamantine, and have the qualities of a weapon made from that material.
+Change Shape (Su) A young or older underworld dragon can assume any humanoid form three times per day as if using polymorph.
+Smoke Vision (Ex) A very young and older underworld dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
+Underworld Burrower (Ex) An adult underworld dragon gains a 10-foot bonus to its burrow speed. When the underworld dragon becomes old and every two age categories thereafter, its burrow speed increases by an additional 10 feet.

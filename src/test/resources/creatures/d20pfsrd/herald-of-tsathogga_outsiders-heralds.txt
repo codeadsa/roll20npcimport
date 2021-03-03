@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/heralds/herald-of-tsathogga
+herald of tsathogga CR 15
+XP 51,200
+CE Huge aberration (chaotic, evil, extraplanar)
+Init +3; Senses darkvision 60 ft.; Perception +34
+DEFENSE
+AC 27, touch 11, flat-footed 24 (+3 Dex, +16 natural, -2 size)
+hp 231 (22d8+110 plus 22); regeneration 10 (good, fire)
+Fort +12; Ref +12; Will +18
+DR 10/good; Resist sonic 15
+Weaknesses bloated
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee bite +21 (2d6+7 plus grab), 10 tentacles +20 (1d8+3 plus paralysis), tongue +20 (1d6+3 plus grab)
+Space 15 ft.; Reach 10 ft. (30 ft. with tongue)
+Special Attacks bellow, paralysis (1d6+4 rounds, DC 26), swallow whole (2d6+7 plus 2d6 acid damage, AC 18, 23 hp)
+STATISTICS
+Str 24, Dex 16, Con 20, Int 7, Wis 16, Cha 12
+Base Atk +16; CMB +25 (+25 on grapple); CMD 382
+Feats Blind-Fight, Cleave, Iron Will, Lightning Reflexes, Multiattack, Power Attack, Skill Focus (Perception, Stealth), Toughness, Weapon Focus (tentacle, tongue)
+Skills Intimidate +14, Perception +34, Stealth +15, Swim +19
+SPECIAL ABILITIES
+Bellow (Su) A herald of Tsathogga has two distinct bellows, each usable once every 1d4 rounds. The first is a trilling croak like that of a frog. All opponents with 30 feet hearing this trilling must succeed on a DC 22 Fortitude save or be deafened for 1d6+4 rounds. Opponents within 10 feet must make a DC 22 Fortitude save or be stunned for 1d4 rounds.
+Alternately, a herald can focus its bellow attack against a single opponent within 100 feet. The opponent takes 5d6 points of sonic damage. A successful DC 22 Reflex save reduces the damage by half. The save DCs are Charisma-based.
+Bloated (Ex) Because of its bloated, heavy body, a herald of Tsathogga that attacks with more than 5 tentacles in one round cannot move that round.
+Regeneration (Ex) A herald of Tsathogga takes normal damage from fire and good-aligned weapons, and from spells or effects with the good descriptor.

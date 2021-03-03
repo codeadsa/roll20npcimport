@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/grig/swarm-grig-tohc
+Grig Swarm CR 6
+XP 2,400
+NG Tiny fey (swarm)
+Init +4; Senses low-light vision; Perception +14
+DEFENSE
+AC 19, touch 17, flat-footed 14 (+4 Dex, +1 dodge, +2 natural, +2 size)
+hp 45 (10d6+10)
+Fort +6, Ref +11, Will +8
+DR 5/cold iron; Immune swarm traits; SR 17
+Weaknesses swarm traits
+OFFENSE
+Speed 20 ft., fly 40 ft. (poor)
+Melee swarm (2d6)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 16), fiddle
+Spell-like Abilities (CL 10th):
+3/day—disguise self, entangle (DC 13), invisibility (self only), pyrotechnics (DC 14), ventriloquism (DC 13)
+TACTICS
+A grig swarm normally attacks by surrounding and enveloping its opponents. Before closing to melee range, a swarm uses its entangle ability to bind its foes.
+Morale If facing destruction, a grig swarm often turns invisible and flees.
+STATISTICS
+Str 5, Dex 18, Con 13, Int 10, Wis 13, Cha 14
+Base Atk +5; CMB –; CMD —
+Feats Dodge, Great Fortitude, Mobility, Spring Attack, Weapon Finesse
+Skills Acrobatics +17 (+23 jumping), Craft (any) +13, Escape Artist +17, Fly +4, Perception +14, Perform (string instruments) +15, Stealth +25 (+29 in forests); Racial Modifiers +8 Acrobatics when jumping, +5 Stealth in forests
+Languages Common, Sylvan
+SPECIAL ABILITIES
+Fiddle (Su) The grigs that make up a grig swarm carry tiny, grig-sized fiddles. When the fiddlers play, any non-fey within 30 feet of the instruments must make a successful DC 17 Will save or be affected as though by irresistible dance for as long as the playing continues. The save DC is Charisma-based.

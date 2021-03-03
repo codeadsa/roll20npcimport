@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-underworld/underworld-dragon-very-old
+very old Underworld Dragon CR 15
+XP 51,200
+LE Huge dragon (fire)
+Init +3; Senses dragon senses, smoke vision; Perception +27; Aura frightful presence (270 ft., DC 24)
+DEFENSE
+AC 36, touch 7, flat-footed 36 (-1 Dex, +29 natural, -2 size)
+hp 250 (20d12+120)
+Fort +18, Ref +11, Will +16
+DR 15/magic; Immune fire, paralysis, sleep; SR 26
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft., burrow 50 ft., fly 200 ft. (poor)
+Melee bite +30 (2d8+16/19-20), 2 claws +30 (2d6+11/19-20), gore +29 (2d6+16), tail slap +24 (2d6+16)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite and gore)
+Special Attacks adamantine claws, breath weapon (100-ft. line, 18d6 fire damage, DC 26), crush (DC 26, 2d8+16)
+Spell-Like Abilities (CL 20th; concentration +24)
+At will—soften earth and stone, spike stones (DC 18), stone shape, wall of stone
+Spells Known (CL 11th; concentration +15)
+5th (4/day)—transmute rock to mud, waves of fatigue
+4th (7/day)—enervation, shout (DC 18), stone shape
+3rd (7/day)—displacement, fireball (DC 17), protection from good, slow
+2nd (7/day)—acid arrow, daze monster (DC 16), flaming sphere (DC 16), resist energy, scorching ray
+1st (7/day)—burning hands (DC 15), cause fear (DC 15), magic missile, ray of enfeeblement (DC 15), true strike
+0 (at will)—acid splash, bleed (DC 14), detect magic, flare (DC 14), ghost sound, mage hand, read magic, resistance, touch of fatigue (DC 14)
+STATISTICS
+Str 33, Dex 8, Con 23, Int 18, Wis 19, Cha 18
+Base Atk +20; CMB +33 (+35 bull rush); CMD 42 (44 vs bull rush, 46 vs. trip)
+Feats Improved Bull Rush, Improved Critical (bite, claw), Improved Initiative, Improved Natural Armor, Lunge, Power Attack, Skill Focus (Stealth), Weapon Focus (bite, claw)
+Skills Appraise +27, Bluff +27, Climb +34, Fly +14, Intimidate +27, Knowledge (dungeoneering, geography, planes) +27, Perception +27, Stealth +20
+Languages Common, Draconic, Dwarven, Ignan, Terran
+SQ change shape, underworld burrower
+SPECIAL ABILITIES
+Adamantine Claws (Ex) The claws of an underworld dragon are made of adamantine, and have the qualities of a weapon made from that material.
+Change Shape (Su) A young or older underworld dragon can assume any humanoid form three times per day as if using polymorph.
+Smoke Vision (Ex) A very young and older underworld dragon can see perfectly in smoky conditions (such as those created by pyrotechnics).
+Underworld Burrower (Ex) An adult underworld dragon gains a 10-foot bonus to its burrow speed. When the underworld dragon becomes old and every two age categories thereafter, its burrow speed increases by an additional 10 feet.
+Built by:
+Brett, d20pfsrd Beastmaster I

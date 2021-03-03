@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/grim-reaper
+Grim Reaper CR 22
+XP 614,400
+NE Medium undead (extraplanar)
+Init +14; Senses darkvision 60 ft., see invisibility, status sight, true seeing; Perception +6; Aura misfortune (20 ft.), unnatural aura
+DEFENSE
+AC 39, touch 29, flat-footed 28 (+10 Dex, +1 dodge, +10 natural, +8 profane)
+hp 400 (32d8+256)
+Fort +26, Ref +29, Will +32
+Defensive Abilities channel resistance +4, death’s grace;
+DR 10/—; Immune undead traits; SR 33
+OFFENSE
+Speed 60 ft., fly 90 ft. (perfect)
+Melee +5 keen adamantine scythe +40/+40/+35/+30/+25 (2d4+18/19–20/×4 plus death strike and energy drain)
+Special Attacks death strike (DC 34), energy drain (2 levels, DC 34), final death
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant—haste, see invisibility, true seeing
+At will—call spirit (DC 23)
+3/day—finger of death (DC 26), power word kill
+1/day—plane shift (DC 23)
+STATISTICS
+Str 29, Dex 30, Con —, Int 15, Wis 23, Cha 26
+Base Atk +24; CMB +34; CMD 62
+Feats Cleave, Cleaving Finish, Combat Casting, Combat Reflexes, Critical Focus, Dazing Assault, Furious Focus, Great Cleave, Improved Cleaving Finish, Improved Initiative, Power Attack, Staggering Critical, Step Up, Stunning Critical, Tiring Critical, Weapon Focus (scythe)
+Skills Acrobatics +42, Disguise +43, Fly +18, Intimidate +43, Knowledge (planes) +18, Knowledge (religion) +21, Ride +42, Stealth +45
+Languages Celestial, Common, Infernal
+SPECIAL ABILITIES
+Death Strike (Su) A grim reaper automatically confirms any critical hit. A creature damaged by a critical hit from a grim reaper must succeed at a DC 34 Fortitude saving throw or be instantly killed. The save DC is Charisma-based.
+Death’s Grace (Su) The dark power stolen from countless souls protects a grim reaper, granting it a profane bonus on all saving throws and to AC equal to its Charisma modifier.
+Final Death (Su) A creature killed by a grim reaper can’t be brought back to life by any means short of divine intervention.
+Misfortune Aura (Su) When a living creature attempts an ability check, attack roll, caster level check, skill check, or saving throw within 20 feet of a grim reaper, it must roll two d20s and take the lowest roll before applying any modifiers.
+Status Sight (Su) When a grim reaper gazes on a creature, it can see that creature’s emotion aura and that creature’s current health and overall well-being. This acts as the status spell, as well as the emotion aura aspect of the analyze aura spell.

@@ -1,0 +1,53 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/lycanthrope/werewolf
+Werewolf (Human Form)
+CR 2
+XP 600
+Human natural werewolf fighter 2
+CE Medium humanoid (human, shapechanger)
+Init +5; Senses low-light vision, scent; Perception +4
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+6 armor, +1 Dex)
+hp 19 (2d10+4)
+Fort +5, Ref +1, Will +2 (+3 vs. fear)
+Defensive Abilities bravery +1
+OFFENSE
+Speed 30 ft. (20 ft. in armor)
+Melee longsword +5 (1d8+4/19–20)
+Ranged light crossbow +3 (1d8/19–20)
+STATISTICS
+Str 17, Dex 13, Con 14, Int 8, Wis 14, Cha 8
+Base Atk +2; CMB +5; CMD 16
+Feats Cleave, Combat Reflexes, Improved Initiative, Power Attack
+Skills Climb +3, Intimidate +4, Perception +4
+Languages Common
+SQ change shape (human, hybrid, and wolf; polymorph), lycanthropic empathy (wolves and dire wolves)
+Werewolf (Hybrid Form) CR 2
+XP 600
+Human natural werewolf fighter 2
+CE Medium humanoid (human, shapechanger)
+Init +5; Senses low-light vision, scent; Perception +4
+DEFENSE AC 22, touch 12, flat-footed 20 (+6 armor, +2 Dex, +4 natural)
+hp 21 (2d10+6)
+Fort +6, Ref +2, Will +2 (+3 vs. fear)
+Defensive Abilities bravery +1; DR 10/silver
+OFFENSE Speed 30 ft. (20 ft. in armor)
+Melee longsword +6 (1d8+6/19–20), bite +1 (1d6+1 plus trip and curse of lycanthropy)
+Ranged light crossbow +4 (1d8/19–20)
+STATISTICS Str 19, Dex 15, Con 17,Int 8, Wis 14, Cha 8
+Base Atk +2; CMB +6; CMD 18
+Feats Cleave, Combat Reflexes, Improved Initiative, Power Attack
+Skills Climb +4, Intimidate +4, Perception +4
+Languages Common
+SQ change shape (human, hybrid, and wolf; polymorph), lycanthropic empathy (wolves and dire wolves)
+SPECIAL ABILITIES
+Bravery (Ex) As the sample werewolf is a 2nd level fighter, it gains a +1 bonus on Will saves against fear.
+Change Shape (Su) All lycanthropes have three forms—a humanoid form, an animal form, and a hybrid form. Equipment does not meld with the new form between humanoid and hybrid form, but does between those forms and animal form. A natural lycanthrope can shift to any of its three alternate forms as a move-equivalent action. An afflicted lycanthrope can assume animal or hybrid form as a full-round action by making a DC 15 Constitution check, or humanoid form as a full-round action by making a DC 20 Constitution check. On nights when the full moon is visible, an afflicted lycanthrope gains a +5 morale bonus to Constitution checks made to assume animal or hybrid form, but a –5 penalty to Constitution checks made to assume humanoid form. An afflicted lycanthrope reverts to its humanoid form automatically with the next sunrise, or after 8 hours of rest, whichever comes first. A slain lycanthrope reverts to its humanoid form, although it remains dead.
+Lycanthropic Empathy (Ex) In any form, natural lycanthropes can communicate and empathize with animals related to their animal form. They can use Diplomacy to alter such an animal’s attitude, and when so doing gain a +4 racial bonus on the check. Afflicted lycanthropes only gain this ability in animal or hybrid form.
+Curse of Lycanthropy (Su) A natural lycanthrope’s bite attack in animal or hybrid form infects a humanoid target with the lycanthropy curse (Fortitude DC 15 negates). If the victim’s size is not within one size category of the lycanthrope, this ability has no effect.
+Lycanthropy
+
+Type curse, injury; Save Fortitude DC 15 negates, Will DC 15 to avoid effects
+Onset the next full moon; Frequency on the night of every full moon or whenever the target is injured.
+Effect target transforms into a wolf under the GM’s control until the next morning
+When a PC becomes a lycanthrope, you as the GM have a choice to make. In most cases, you should take control of the PC’s actions whenever he is in hybrid or animal form—lycanthropy shouldn’t be a method to increase a PC’s power, after all, and what an afflicted lycanthrope does while in animal or hybrid form is often at odds with what the character would actually want. If a player wants to play a lycanthrope, he should play a natural lycanthrope and follow the guidelines for playing a character of a powerful race.
+Trip (Ex) A werewolf in hybrid form can attempt to trip its opponent as a free action without provoking an attack of opportunity if it hits with its bite attack. If the attempt fails, the werewolf is not tripped in return.

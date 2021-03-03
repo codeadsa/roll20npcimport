@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/unique/nightripper
+Ripper Demon
+CR 24
+XP 1,228,800
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +11; Senses darkvision 60 ft., detect good, detect law, true seeing; Perception +36; Aura unholy aura (DC 25)
+DEFENSE
+AC 42, touch 25, flat-footed 31 (+4 deflection, +11 Dex, +17 natural)
+hp 526 (27d10+378); regeneration 15 (good weapons or spells)
+Fort +27, Ref +30, Will +25
+DR 15/cold iron and good; Immune charm and compulsion effects, death effects, electricity, poison; Resist acid 30, cold 30, fire 30; SR 35
+OFFENSE
+Speed 60 ft.
+Melee +5 vorpal bastard sword +43/+38/+33/+28 (1d10+18/17–20), claw +31 (2d6+4/19–20 plus 2d6 bleed), 2 talons +31 (1d6+4/19–20 plus 2d6 bleed)
+Space 5 ft.; Reach 5 ft. (15 ft. with talons)
+Special Attacks curse of living death, slowing gaze, sneak attack +3d6, swift cuts, sword mastery
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant–airwalk, detect good, detect law, freedom of movement, true seeing, unholy aura (DC 25)
+At will–greater dispel magic, greater teleport, phantasmal killer (DC 21), spiked pit (DC 20), telekinesis (DC 22)
+3/day–acid pit (DC 21), quickened blade barrier (DC 23), harm (DC 23), hungry pit (DC 22)
+1/day–reverse gravity, summon (level 9, any demon or combination of demons whose total combined CR is 20 or lower 100%), time stop, weird (DC 26)
+STATISTICS
+Str 29, Dex 32, Con 39, Int 18, Wis 23, Cha 24
+Base Atk +27; CMB +36; CMD 61
+Feats Combat Expertise, Combat Reflexes, Dazzling Display, Deadly Stroke, Exotic Weapon Proficiency (bastard sword)B, Greater Feint, Greater Weapon Focus (bastard sword)B, Greater Weapon Specialization (bastard sword)B, Improved Critical (bastard sword, claw, talon), Improved Disarm, Improved Feint, Power Attack, Quick Draw, Quicken Spell-Like Ability (blade barrier), Shatter Defenses, Weapon Focus (bastard sword)B, Weapon Specialization (bastard sword)B
+Skills Acrobatics +41, Intimidate +37, Knowledge (history, local, religion) +31, Knowledge (nobility) +34, Perception +36, Sense Motive +36, Stealth +41, Use Magic Device +37
+Languages Abyssal, Celestial, Common, Draconic; telepathy 300 ft.
+SQ nascent demon lord traits
+SPECIAL ABILITIES Curse of Living Death (Su) Once per round, as a free action as he kills a living creature, the Demon can choose to afflict that target with the curse of living death. The target can resist this curse with a successful DC 30 Will save right before it dies, allowing the victim to die normally. If the victim fails its save, it enters a sort of half-living state; it becomes completely helpless, unable to take any actions whatsoever, but remains conscious and aware of the world, and of the pain in its body. It cannot be resurrected or otherwise restored to life until the curse is lifted. While the curse remains in effect, the victim takes 1d4 points of Intelligence, Wisdom, and Charisma drain every day as any lingering shreds of sanity are blasted away. When each ability score is drained to zero, the DC of the curse increases by +4. A character suffering the curse of living death can remain in this state forever, but as long as any one of her mental ability scores is at zero, she is capable only of enduring pain and cannot observe the world around her. Even if the character’s body is destroyed, the cursed victim’s consciousness remains as a disembodied and invisible presence at the site of this destruction, and cannot be resurrected or released to the afterlife. The save DC is Charisma-based.
+Nascent Demon Lord Traits
+A nascent demon lord is a powerful demon that has not yet made the full transition from unique demon to full demon lord of an Abyssal realm. They have several traits, as summarized here.
+Immunity to charm and compulsion effects, death effects, electricity, and poison. Resistance to acid 30, cold 30, and fire 30. Summon (Sp) Once per day, the Demon can summon any demon or combination of demons whose total combined CR is 20 or lower. This ability always works, and is equivalent to a 9th-level spell.
+Telepathy 300 feet. His natural weapons, as well as any weapon he wields, are treated as chaotic, epic, and evil for the purpose of overcoming damage reduction. The Demon can grant spells to his worshipers. He grants access to the domains of Chaos, Darkness, Evil, and Strength. His favored weapon is the bastard sword. Slowing Gaze (Su) Slowed (as the slow spell) for 1 round, 30 feet, Will DC 30 negates. The save DC is Charisma-based.
+Swift Cuts (Ex) As long as he is attacking with a sword, the Demon treats foes who are staggered, nauseated, or under the effects of a slow spell (or similar effects, such as his gaze) as if they were flat-footed.
+Sword Mastery (Ex) The Demon possesses several sword-related bonus feats normally restricted to fighters.
+Editor’s Note
+How does a named demon not have a name? Unfortunately, this creature’s name and background are trademark of Paizo, and cannot be reproduced here. I highly recommend you pick up a copy of the Inner Sea Bestiary for additional information!

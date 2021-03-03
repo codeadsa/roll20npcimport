@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/titan/thanatotic-titan
+Thanatotic Titan CR 22
+XP 614,400
+CE Colossal outsider (chaotic, evil, extraplanar)
+Init +4; Senses darkvision 120 ft., true seeing; Perception +31
+DEFENSE
+AC 38, touch 2, flat-footed 38 (+12 armor, +24 natural, –8 size)
+hp 471 (23d10+345)
+Fort +22, Ref +15, Will +20; +8 resistance vs. mind-affecting
+DR 15/lawful and epic; Immune aging, death effects, disease; SR 33
+OFFENSE
+Speed 60 ft. (40 ft. in armor)
+Melee +3 unholy battleaxe +37/+32/+27/+22 (6d6+22/19–20/×3), claw +29 (2d8+9) or 2 claws +34 (2d8+19)
+Ranged rock +16/+11/+6/+1 (4d6+28)
+Space 30 ft.; Reach 30 ft.
+Special Attacks godslayer, rock throwing (100 ft.), trample (2d8+28, DC 40)
+Spell-Like Abilities (CL 20th; concentration +27)
+Constant—air walk, mind blank, spell turning, true seeing
+At will—bestow curse (DC 21), break enchantment, divination, greater dispel magic, sending
+3/day—disintegrate (DC 23), greater scrying (DC 24), heal, mass suggestion (DC 23)
+1/day—greater planar ally, imprisonment (DC 26), meteor swarm (DC 26), true resurrection
+STATISTICS
+Str 49, Dex 10, Con 41, Int 27, Wis 20, Cha 24
+Base Atk +23; CMB +50; CMD 60
+Feats Awesome Blow, Bleeding Critical, Critical Focus, Greater Vital Strike, Improved Bull Rush, Improved Critical (battleaxe), Improved Initiative, Improved Vital Strike, Iron Will, Lightning Reflexes, Power Attack, Vital Strike
+Skills Bluff +33, Craft (any one) +34, Diplomacy +30, Intimidate +33, Knowledge (arcana, history, and planes) +34, Knowledge (religion) +31, Perception +31, Perform (any one) +30, Ride +18, Sense Motive +31, Spellcraft +34, Stealth +5, Use Magic Device +33
+Languages Abyssal, Celestial, Common; telepathy 300 ft.
+SQ change shape (any humanoid, alter self)
+SPECIAL ABILITIES
+Godslayer (Su) When a thanatotic titan damages a creature capable of casting divine spells, that creature must make a DC 28 Will save or be unable to cast any divine spells for 1d4 rounds and be shaken. If the save is successful, the creature struck is merely shaken for 1 round. A thanatotic titan’s attacks are treated as epic and evil for the purposes of overcoming damage reduction. The save DC is Charisma-based.

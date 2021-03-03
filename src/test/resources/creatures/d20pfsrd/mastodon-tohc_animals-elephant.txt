@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/elephant/mastodon-tohc
+Mastodon CR 13
+XP 25,600
+N Huge animal
+Init +0; Senses low-light vision, scent; Perception +20
+DEFENSE
+AC 23, touch 8, flat-footed 23 (+15 natural, –2 size)
+hp 200 (16d8+112 plus 16)
+Fort +17, Ref +10, Will +8
+OFFENSE
+Speed 40 ft.
+Melee gore +23 (2d8+12), slam +23 (2d6+12), 2 stomps +21 (2d6+6)
+Space 15 ft.; Reach 10 ft.
+Special Attacks trample (1d8+18, DC 30)
+TACTICS
+Mastodons are generally peaceful creatures and avoid combat. They have no natural fear of any creature, so do not flee. If threatened, or if their young are threatened, mastodons fight by goring with their tusks or trampling foes. Mastodons fight to the death to protect their young.
+STATISTICS
+Str 35, Dex 10, Con 25, Int 2, Wis 13, Cha 6
+Base Atk +12; CMB +26 (+28 bull rush); CMD 36 (38 vs. bull rush, 40 vs. trip)
+Feats Endurance, Improved Bull Rush, Iron Will, Multiattack, Toughness, Weapon Focus (gore), Weapon Focus (slam), Weapon Focus (stomp)
+Skills Perception +20
+Source Wikipedia

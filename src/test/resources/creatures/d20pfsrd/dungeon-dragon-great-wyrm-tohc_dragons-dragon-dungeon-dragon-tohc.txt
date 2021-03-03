@@ -1,0 +1,45 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dungeon-dragon-tohc/dungeon-dragon-great-wyrm-tohc
+Great Wyrm Dungeon Dragon (AKA Gargax the Mighty, Master of the Dungeon Dragons)
+CR 17
+XP 102,400
+N Gargantuan dragon (shapechanger)
+Init +2; Senses dragon senses; Perception +40; Aura frightful presence (360 ft., DC 26)
+DEFENSE
+AC 38, touch 4, flat-footed 38 (–2 Dex, +34 natural, –4 size)
+hp 287 (23d12+138)
+Fort +21; Ref +13; Will +21
+DR 20/magic; Immune enchantment spells and effects, paralysis, sleep; SR 28
+OFFENSE
+Speed 30 ft., fly 250 ft. (clumsy)
+Melee bite +32 (4d6+19), 2 claws +32 (2d8+13), 2 wings +30 (2d6+6), tail slap +30 (2d8+19)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (120 ft. line or 60 ft. cone, DC 27, confusion 1d6 rounds), crush, tail sweep
+Spell-like Abilities (CL 23rd):
+At-will—charm person (DC 16), charm monster (DC 19), detect thoughts (DC 17), mass charm monster (DC 23), mass suggestion (DC 21), suggestion (DC 18)
+3/day—dominate monster (DC 23)
+Sorcerer Spells Known (CL 17th)
+8th (4/day)—antipathy (DC 23), maze
+7th (6/day)—greater teleport, mass hold person (DC 22), project image (DC 22)
+6th (6/day)—antimagic field, greater dispel magic, move earth
+5th (7/day)—mind fog (DC 20), persistent image, prying eyes, teleport
+4th (7/day)—arcane eye, detect scrying, illusory wall (DC 19), lesser globe of invulnerability
+3rd (7/day)—arcane sight, deep slumber (DC 18), dispel magic, major image (DC 18)
+2nd (7/day)—arcane lock, magic mouth (DC 17), make whole, phantom trap, see invisibility
+1st (8/day)—alarm, hold portal, shield, silent image (DC 16), ventriloquism
+0th (at will)—dancing lights, daze (DC 15), detect magic, ghost sound (DC 15), light, mending, message, prestidigitation, read magic
+STATISTICS
+Str 37, Dex 7, Con 22, Int 22, Wis 22, Cha 20
+Base Atk +23; CMB +40; CMD 48 (52 vs. trip)
+Feats Alertness, Craft Wondrous Item B, Flyby Attack, Great Fortitude, Hover, Improved Initiative, Iron Will, Lightning Reflexes, Master Craftsman B, Multiattack, Skill Focus (Bluff),Persuasive, Skill Focus (Craft [crystal carving]), Skill Focus (Knowledge [engineering])
+Skills Appraise +13, Bluff +37, Craft (crystal carving) +27, Craft (traps) +20, Diplomacy +24, Disable Device +17, Fly +10, Intimidate +35, Knowledge (arcana) +32, Knowledge (dungeoneering) +32, Knowledge (engineering) +38, Linguistics +28, Perception +40, Sense Motive +36, Spellcraft +32; Racial Modifiers +4 Perception
+Languages 25 languages (except Druidic), plus Common and Draconic
+SQ change shape (alter self), craft crystal ball
+SPECIAL ABILITIES
+Breath Weapon (Su) A dungeon dragon’s breath weapon is a line or cone of warm mist. Creatures caught in the area must succeed on Fortitude save or be affected as if by a confusion spell for 1d6 rounds.
+Change Shape (Su) At will, a very young or older dungeon dragon can assume the form of any Small or Medium humanoid creature (as the alter self spell). It can remain in its humanoid form indefinitely. It cannot take the form of a specific individual.
+Craft Crystal Ball (Ex) Dungeon dragon parents begin teaching their wyrmlings the necessary skills and spells to craft a crystal ball soon after they leave the egg. A dungeon dragon gains the Master Craftsman feat for free as a bonus feat without having to meet the prerequisites.
+Craft Wondrous Item (Ex) Older dungeon dragons create new crystal balls with additional powers as they grow in intelligence and spellcasting ability. A young adult dungeon dragon gains the Craft Wondrous Item feat for free as a bonus feat.
+Dominate Monster (Sp) A great wyrm dungeon dragon can use this ability three times per day. It works as a dominate monster spell. This ability is the equivalent of an 8th-level spell.
+Editor’s Note
+Technically, Gargax the Mighty (Gary to his friends), has 6 too many skill points. Frankly, at this level, it doesn’t really have much impact. If you feel it necessary reduce three skills at random by two points each.
+GM’s are actually encouraged to ignore this discrepancy. It’s Gary after all.

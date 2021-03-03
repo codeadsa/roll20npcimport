@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/plantoid-fgg
+Plantoid CR 4
+XP 1,200
+N Medium plant (extraplanar)
+Init +1; Senses low-light vision; Perception +11
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+1 Dex, +1 dodge, +2 natural)
+hp 42 (5d8+10)
+Fort +6; Ref +2; Will +4
+Immune bludgeoning damage, plant traits
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee 4 tendrils +3 (1d4–1 plus grab)
+Space 5 ft.; Reach 5 ft. (10 ft. with tendrils)
+Special Attacks control, create servitor, moss tendrils (+1 to grapple per tendril)
+STATISTICS
+Str 8, Dex 13, Con 14, Int 12, Wis 16, Cha 16
+Base Atk +3; CMB +2 (+6 grapple); CMD 14 (can’t be tripped)
+Feats Dodge, Mobility, Weapon Focus (tendrils)
+Skills Fly +17, Knowledge (planes) +6, Perception +11, Stealth +7
+Languages Plantoid
+SQ alien plant
+SPECIAL ABILITIES
+Alien Plant (Ex) Plantoids are extradimensional fungi, and have the same class skills as aberrations.
+Moss Tendrils (Ex) A plantoid lashes out with several mossy tendrils when it attacks, gaining a +1 bonus on its grapple check for each tendril that hit its opponent.
+Control (Ex) The tendrils of a plantoid inject a mind-controlling substance, which it injects as a free action as part of its grapple check. Anyone touched by the mossy tendrils must succeed on a DC 15 Will save or fall under control of the plantoid. This otherwise acts like the dominate person spell except that the plantoid must touch the target and it functions on any Medium humanoid or monstrous humanoid. Control lasts for as long as the plantoid maintains contact. The victim also gets another saving throw to resist as described under the dominate person spell, and once every 4 hours after control is initiated. The save DC is Charisma-based.
+Create Servitor (Ex) Anyone who remains controlled by a plantoid for more than 24 hours becomes a plantoid servitor, all human reason irrevocably lost. A plantoid can only control and transform a single creature or servitor at a time.
+Variants Plantoid Servitor

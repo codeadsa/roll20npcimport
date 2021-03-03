@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/calikang
+Calikang CR 12
+XP 19,200
+LN Large monstrous humanoid
+Init +6; Senses darkvision 60 ft., true seeing; Perception +20
+DEFENSE
+AC 27, touch 11, flat-footed 25 (+2 Dex, +12 natural, +4 shield, –1 size)
+hp 157 (15d10+75); fast healing 5
+Fort +12, Ref +11, Will +11
+Defensive Abilities defensive slam, energy absorption, suspend animation; Immune electricity, mind-affecting effects, negative energy; SR 23
+OFFENSE
+Speed 30 ft.
+Melee +1 longsword +18/+13/+8 (2d6+8/17–20), +1 longsword +18 (2d6+8/17–20), 4 slams +16 (1d6+3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (60-foot line, 14d6 energy damage, Reflex DC 22 half, usable 1/day)
+Spell-Like Abilities (CL 12th; concentration +15)
+Constant—air walk, magic weapon, true seeing, water walk
+3/day—lightning bolt (DC 16)
+1/day—chain lightning (DC 19)
+STATISTICS
+Str 25, Dex 15, Con 20, Int 8, Wis 14, Cha 17
+Base Atk +15; CMB +23; CMD 35
+Feats Critical Focus, Double Slice, Great Fortitude, Improved Critical (longsword), Improved Initiative, Staggering Critical, Two-Weapon Fighting, Vital Strike
+Skills Intimidate +21, Perception +20, Use Magic Device +18
+Languages Common, Giant
+SPECIAL ABILITIES
+Defensive Slam (Ex) A calikang gains a cumulative +1 shield bonus to its AC for each of its arms that does not wield a manufactured weapon, to a maximum of +4 for four hands. A calikang can make slam attacks with these arms without losing this AC bonus.
+Energy Absorption (Su) A spell that inflicts energy damage that is defeated by the calikang’s SR or immunity to electricity is absorbed into its body, healing it for an amount of damage equal to the absorbed spell’s caster level and granting an additional daily use of its breath weapon.
+Breath Weapon (Su) A calikang can choose what kind of energy damage its breath weapon inflicts when it uses this ability, choosing from acid, cold, electricity, fire, or sonic energy. Calikangs are particularly adept at using electricity in this manner, and inflict 1 additional point of damage per die (+14 for most calikangs) when they elect to inflict electricity damage with their breath weapon.
+Suspend Animation (Su) As a full-round action, a calikang can enter a state of suspended animation, freezing in place and becoming motionless. It remains aware of its surroundings. In this state, the calikang is immune to disease, inhaled toxins, poison, starvation, and thirst, and receives a +4 bonus on all Fortitude saves. The calikang can exit this state as an immediate action—if it does so to attack a foe or initiate combat, it gains a +4 insight bonus on its Initiative check.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/mandragora/immense-mandragora
+Immense Mandragora CR 15
+XP 51,200
+CE Gargantuan plant
+Init +7; Senses low-light vision; Perception +12
+DEFENSE
+AC 18, touch 9, flat-footed 15 (+3 Dex, +9 natural, –4 size)
+hp 232 (16d8+160); fast healing 10
+Fort +20, Ref +10, Will +6
+Immune plant traits; Resist acid 5, cold 5, electricity 10
+Weaknesses vulnerable to darkness
+OFFENSE
+Speed 40 ft., burrow 10 ft., climb 40 ft.
+Melee 2 vine whips +25 (2d8+17/19–20 plus poison), bite +25 (2d8+17)
+Space 20 ft.; Reach 20 ft. (30 ft. with vine whips)
+Special Attacks shriek
+TACTICS
+The mandragoras require the entire first round of combat to collect into their Gargantuan form. During this round, the immense mandragora cannot make attacks. Once it is fully formed, it uses Power Attack with every strike, and Awesome Blow against characters that are able to make large numbers of melee attacks trying to force the characters to take move actions to get back in range, thus minimizing the damage they do. The immense mandragora fights to the death.
+STATISTICS
+Str 45, Dex 17, Con 30, Int 8, Wis 13, Cha 10
+Base Atk +12; CMB +33; CMD 46
+Feats Awesome Blow, Improved Bull Rush, Improved Critical (vine whips), Improved Initiative, Improved Vital Strike, Lightning Reflexes, Power Attack, Vital Strike
+Skills Climb +25, Fly +0, Perception +12, Stealth +0 (+8 in heavy plant growth)
+Languages Aklo, Common
+SPECIAL ABILITIES
+Poison (Ex) Vine whip—injury; save Fort DC 28; frequency 1/round for 6 rounds; effect confused for 1 round; cure 2 consecutive saves. The save DC is Constitution-based.
+Shriek (Su) Once per day, as a standard action, an immense mandragora can give voice to an unsettling shriek that sounds not unlike the cry of gargantuan baby. All creatures within 30 feet of a shrieking immense mandragora must make a DC 25 Reflex save or take 15d6 points of sonic damage and a DC 25 Will save or become nauseated for 1d4 rounds. A successful Reflex save halves the sonic damage, while a successful Will save negates the nausea. This is a sonic, mind-affecting effect. The save DC is Constitution-based.
+Vulnerable to Darkness (Ex) An immense mandragora in an area of darkness loses its fast healing and becomes slowed, as per the spell.

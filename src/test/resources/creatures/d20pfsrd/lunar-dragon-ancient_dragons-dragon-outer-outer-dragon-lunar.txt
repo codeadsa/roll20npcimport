@@ -1,0 +1,39 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-outer/outer-dragon-lunar/lunar-dragon-ancient
+Ancient Lunar Dragon CR 18
+XP 153,600
+CN Gargantuan dragon
+Init +2; Senses dragon senses, see in darkness; Perception +35; Aura alien presence (300 ft., DC 29)
+DEFENSE
+AC 37, touch 4, flat-footed 37 (–2 Dex, +33 natural, –4 size)
+hp 348 (24d12+192)
+Fort +21, Ref +12, Will +22 Defensive Abilities reflect rays, reflected light; DR 15/magic; Immune cold, paralysis, sleep; SR 29
+OFFENSE
+Speed 40 ft., burrow 20 ft., fly 250 ft. (clumsy)
+Melee bite +32 (4d6+18), 2 claws +32 (2d8+12), 2 wings +30 (2d8+6), tail slap +30 (2d8+18) Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks bewildering breath, breath weapon (120-ft. line, 20d8 cold, DC 29), crush, moonsilver, tail sweep
+Spell-Like Abilities (CL 24th; concentration +31)
+At will—dancing lights, life bubble, moonstruck, scrying
+3/day—quickened moonstruck
+Sorcerer Spells Known (CL 15th; concentration +22)
+7th (5/day)—greater teleport, waves of exhaustion
+6th (7/day)—cold ice strike (DC 23), greater dispel magic, true seeing
+5th (7/day)—dominate person (DC 22), feeblemind (DC 22), fire snake (DC 22), mage’s private sanctum
+4th (7/day)—charm monster (DC 21), fire shield, greater invisibility, lesser globe of invulnerability
+3rd (8/day)—haste, heroism, tongues, vampiric touch
+2nd (8/day)—bear’s endurance, detect thoughts (DC 19), hypnotic pattern (DC 19), minor image (DC 19), mirror image
+1st (8/day)—comprehend languages, mage armor, protection from evil, shocking grasp, vanish
+0 (at will)—detect magic, light, read magic, 4 more
+STATISTICS
+Str 35, Dex 7, Con 24, Int 24, Wis 26, Cha 25
+Base Atk +24; CMB +40; CMD 48 (52 vs. trip)
+Feats Arcane Strike, Combat Casting, Dazing Assault, Flyby Attack, Improved Initiative, Improved Vital Strike, Multiattack, Power Attack, Quicken Spell-Like Ability (moonstruck), Toughness, Vital Strike, Wingover
+Skills Bluff +34, Diplomacy +34, Fly +11, Intimidate +34, Knowledge (arcana, geography, history, local, nature, planes) +30, Perception +35, Sense Motive +35, Spellcraft +34, Use Magic Device +34
+Languages Aklo, Aquan, Auran, Common, Draconic, Ignan, Terran
+SQ absolute cold, no breath, starflight
+SPECIAL ABILITIES
+Absolute Cold (Su) An old or older lunar dragon’s breath weapon can affect creatures immune to cold damage. A creature immune to cold damage still takes half damage from the breath weapon (no damage with a successful saving throw). Resistant creatures’ cold resistance is treated as 10 less than normal.
+Alien Presence (Su) A lunar dragon’s alien presence affects opponents that fail their saves as touch of idiocy (or as feeblemind for creatures with 4 or fewer Hit Dice) for 5d6 rounds. This is a mind-affecting compulsion effect.
+Bewildering Breath (Su) A creature that fails its saving throw against a lunar dragon’s breath weapon emits light (as faerie fire) and is dazzled for 1d4 rounds. If the lunar dragon is adult or older, the creature is also confused for 1d4 rounds.
+Moonsilver (Ex) A lunar dragon’s natural weapons are treated as silver for the purpose of overcoming damage reduction.
+Reflect Rays (Su) Rays and ranged touch effects that strike an ancient or older lunar dragon but fail to overcome its spell resistance are reflected back at their source, using the original attack roll to determine whether they hit.
+Reflected Light (Ex) A very young or older lunar dragon can’t be blinded or dazzled by bright light or patterns.

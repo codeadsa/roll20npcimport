@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/wraith
+Wraith CR 5
+XP 1,600
+LE Medium undead (incorporeal)
+Init +7; Senses darkvision 60 ft., lifesense; Perception +10
+Aura unnatural aura (30 ft.)
+DEFENSE
+AC 18, touch 18, flat-footed 15 (+5 deflection, +3 Dex)
+hp 47 (5d8+25)
+Fort +6, Ref +4, Will +6
+Defensive Abilities channel resistance +2, incorporeal; Immune undead traits
+Weaknesses sunlight powerlessness
+OFFENSE
+Speed fly 60 ft. (good)
+Melee incorporeal touch +6 (1d6 negative energy plus 1d6 Con drain)
+Special Attack create spawn
+STATISTICS
+Str —, Dex 16, Con —, Int 14, Wis 14, Cha 21
+Base Atk +3; CMB +6; CMD 21
+Feats Blind-Fight, Combat Reflexes, Improved Initiative
+Skills Diplomacy +10, Fly +7, Intimidate +13, Knowledge (planes) +7, Perception +10, Sense Motive +10, Stealth +11
+Languages Common, Infernal
+SPECIAL ABILITIES
+Create Spawn (Su) A humanoid slain by a wraith becomes a wraith in 1d4 rounds. These spawn are less powerful than typical wraiths, and suffer a –2 penalty on all d20 rolls and checks, receive –2 hp per HD, and only drain 1d2 points of Constitution on a touch. Spawn are under the command of the wraith that created them until its death, at which point they lose their spawn penalties and become free-willed wraiths. They do not possess any of the abilities they had in life.
+Constitution Drain (Su) Creatures hit by a wraith’s touch attack must succeed on a DC 17 Fortitude save or take 1d6 points of Constitution drain. On each successful attack, the wraith gains 5 temporary hit points. The save DC is Charisma-based.
+Lifesense (Su) A wraith notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability.
+Sunlight Powerlessness (Ex) A wraith caught in sunlight cannot attack and is staggered.
+Unnatural Aura (Su) Animals do not willingly approach within 30 feet of a wraith, unless a master makes a DC 25 Handle Animal, Ride, or wild empathy check.

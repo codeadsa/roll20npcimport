@@ -1,0 +1,46 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-forest/forest-dragon-great-wyrm
+Great Wyrm Forest Dragon CR 22
+XP 614,400
+CE Colossal dragon (earth)
+Init +2; Senses dragon senses, tremorsense 60 ft.; Perception +38; Aura frightful presence (360 ft., DC 30)
+DEFENSE
+AC 41, touch 0, flat-footed 41 (-2 Dex, +41 natural, -8 size)
+hp 487 (29d12+290)
+Fort +25, Ref +14, Will +24
+DR 15/adamantine; Immune paralysis, poison, sleep; SR 33
+OFFENSE
+Speed 40 ft., burrow 20 ft., climb 30 ft., fly 250 ft. (clumsy)
+Melee bite +38 (4d8+22/19-20), 2 claws +36 (4d6+15), gore +36 (4d8+22), tail slap +34 (4d6+22)
+Space 30 ft.; Reach 20 ft. (30 ft. with bite and gore)
+Special Attacks breath weapon (70-ft. cone, 24d6 piercing damage, DC 33) crush (DC 33, 4d8+22), destructive crush, stony death, tail sweep (2d8+22, DC 33)
+Spell-Like Abilities (CL 29th; concentration +35)
+At will—animate plants, earthquake (DC 24), entangle (DC 17), blight (DC 21), pass without trace, tree stride
+Spells Known (CL 19th; concentration +25)
+9th (4/day)—power word kill, timestop
+8th (6/day)—irresistible dance, power word stun, screen
+7th (6/day)—power word blind, reverse gravity, waves of exhaustion (DC 23)
+6th (7/day)—acid fog, disintegrate (DC 22), move earth
+5th (7/day)—baleful polymorph (DC 21), cloudkill (DC 21), feeblemind (DC 21), passwall
+4th (7/day)—bestow curse (DC 20), charm monster (DC 20), solid fog, stone shape
+3rd (7/day)—lightning bolt (DC 19), wind wall, slow (DC 19), stinking cloud (DC 19)
+2nd (8/day)—fog cloud, glitterdust, hideous laughter, invisibility, touch of idiocy
+1st (8/day)—hypnotism (DC 17), obscuring mist, magic missile, ray of enfeeblement (DC 17), shield
+0 (at-will)—dancing lights, daze (DC 16), detect magic, ghost sound, mage hand, mending, read magic, resistance, touch of fatigue
+STATISTICS
+Str 41, Dex 6, Con 28, Int 22, Wis 23, Cha 22
+Base Atk +29; CMB +52; CMD 60 (64 vs. trip)
+Feats Bleeding Critical, Combat Casting, Critical Focus, Deceitful, Greater Weapon Focus (bite), Improved Critical (bite), Improved Initiative, Improved Natural Armor, Iron Will, Multiattack, Power Attack, Skill Focus (Stealth), Stealthy, Toughness, Weapon Focus (bite)
+Skills Acrobatics +27 (+31 when jumping), Bluff +42, Climb +55, Disguise +8, Escape Artist +31, Fly +14, Intimidate +38, Knowledge (arcana, nature) +38, Perception +38, Spellcraft +38, Stealth +20, Survival +38
+Languages Common, Draconic, Elven, Goblin, Sylvan, Terran plus one other
+SQ change shape, sound imitation, woodland stride
+SPECIAL ABILITIES
+Change Shape (Su) An adult or older forest dragon can assume any humanoid form three times per day as if using polymorph.
+Destructive Crush (Su) When an old or older forest dragon makes a crush attack, the impact kicks up debris in a 20-foot-radius burst for 1d6 rounds. The debris obscures the vision of creatures within the debris field and grants concealment to those creatures. The forest dragon can see normally within and through the debris field.
+Elemental Breath (Su) Once per day, when an ancient or older forest dragon uses its breath weapon, it can summon a greater earth elemental within the cone. The caster level for these effects is the same as the dragon’s caster level.
+Sound Imitation (Ex) A very young or older forest dragon can mimic any voice or sound it has heard by making a successful Bluff check against the listener’s Sense Motive check.
+Stony Death (Su) Any creature reduced to 0 or fewer hit points by a great wyrm forest dragon’s breath weapon must also make a Fortitude save (same DC as the forest dragon’s breath weapon) or be petrified as the flesh to stone spell. This is a death effect.
+Woodland Stride (Ex) As the druid ability of the same name.
+Built by:
+Brett, d20pfsrd Beastmaster I “Chinese Earth Dragon”
+(c) 2012 Shoshanna Bauer http://shoshannabauer.com
+All Rights Reserved.

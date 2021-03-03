@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/fly-giant-TOHC
+Fly, Giant CR 1
+XP 400
+N Medium vermin
+Init +2; Senses darkvision 60 ft., scent; Perception +4
+DEFENSE
+AC 14, touch 12, flat-footed 12 (+2 Dex, +2 natural)
+hp 16 (3d8+3)
+Fort +4; Ref +3; Will +1
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee bite +4 (1d6+3)
+STATISTICS
+Str 14, Dex 15, Con 12, Int -, Wis 10, Cha 9
+Base Atk +2; CMB +4; CMD 16 (24 vs. trip)
+Skills Fly +2, Perception +4; Racial Modifiers +4 Perception

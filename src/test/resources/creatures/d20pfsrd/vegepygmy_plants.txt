@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/vegepygmy
+Vegepygmy
+CR 1/2
+XP 200
+N Small plant
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +7
+DEFENSE
+AC 16, touch 13, flat-footed 14; (+2 Dex, +3 natural, +1 size)
+hp 5 (1d8+1)
+Fort +3, Ref +2, Will +0
+Defensive Abilities plant traits, DR 5/slashing or bludgeoning; Immune electricity
+
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +1 (1d4) or longspear +1 (1d6)
+
+STATISTICS Str 11, Dex 14, Con 12, Int 8, Wis 11, Cha 11
+Base Atk +0; CMB –1; CMD 11
+Feats Skill Focus ( Perception)
+Skills Perception +7, Stealth +10 (+18 in vegetation); Racial Modifiers +4 Stealth (+12 in vegetation)
+Languages Undercommon, Vegepygmy (cannot speak)

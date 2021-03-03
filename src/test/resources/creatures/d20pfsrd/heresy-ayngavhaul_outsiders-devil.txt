@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/heresy-ayngavhaul
+Heresy Devil (Ayngavhaul) CR 12
+XP 19,200
+LE Huge outsider (devil, evil, extraplanar, lawful)
+Init +3; Senses darkvision 60 ft., see in darkness; Perception +21
+DEFENSE
+AC 29, touch 7, flat-footed 29 (+4 armor, –1 Dex, +18 natural,–2 size)
+hp 175 (13d10+104); fast healing 5
+Fort +17, Ref +3, Will +13
+DR 5/good; Immune fire, poison; Resist acid 10, cold 10; SR 22
+OFFENSE
+Speed 10 ft., fly 40 ft. (perfect)
+Melee 2 slams +18 (2d8+7), bite +18 (2d6+7)
+Ranged searing word +10 (3d6)
+Space 15 ft.; Reach 5 ft.
+Special Attacks blasphemous bile
+Spell-Like Abilities (CL 13th, concentration +18, touch +18)
+At will—deathwatch, greater teleport (self plus 50 lbs. of objects only), illusory script (DC 17), mage hand, major image (DC 17), message
+3/day—contagion (DC 19), deeper darkness, dispel good, dispel magic, invisibility purge, magic circle against good, speak with dead (DC 18), telekinesis (DC 20), stinking cloud (DC 17), summon monster V, unholy blight (DC 19), zone of silence
+1/day—blasphemy (DC 20), legend lore, mislead, unhallow, summon (6th level, 2d6 imps, 1d4 bearded devils, or 2 bone devils 80%, contract devil 45%)
+STATISTICS
+Str 24, Dex 8, Con 24, Int 22, Wis 21, Cha 20
+Base Atk +13; CMB +18; CMD +37
+Feats Diehard, Endurance, Great Fortitude, Improved Initiative, Persuasive, Toughness
+Skills Bluff +21, Diplomacy +25, Fly +8, Intimidate +17, Knowledge (arcana) +22, Knowledge (history) +19, Knowledge (planes) +22, Knowledge (religion) +22, Perception +21, Perform (oratory) +18, Profession (librarian) +10, Sense Motive +21, Spellcraft +22
+Languages Abyssal, Celestial, Draconic, Infernal
+SQ Corpulence, Devil Summoner, Throne of Skulls
+SPECIAL ABILITIES
+Corpulence (Ex) Ayngavhauls are greasy and grossly obese. This extraordinary bulk provides them with a +10 bonus on their combat maneuver defense.
+Blasphemous Bile (Su) 30-ft. line, once every 1d4 hours; damage 4d6 acid, Reflex DC 23 half. Those struck by this bile find themselves drenched in liquid corruption so profound it impede the power of non-evil divine magic for 10 minutes. Any non-evil divine spellcaster who casts a spell targeting a creature soaked in an ayngavhaul’s bile must make a DC 23 caster level check or have the spell fail. A creature affected by this bile may wash off the sludge by spending a round and using at least a gallon of fluid to cleanse itself. The save DC is Constitution-based.
+Devil Summoner (Su) Ayngavhauls know the secrets of all breeds of devils, utilizing such leverage in the summoning of their kind. Any devil within 30 feet of an ayngavhaul has half again the normal chance of having a fiend respond to its summon devil ability. For example, an osyluth’s usual 35% chance to summon another bone devil increases to 52% when within 30 feet of an ayngavhaul. Summoning bonuses provided by multiple ayngavahuls do not stack. Ayngavahuls are immune to this ability, from both themselves and others of their kind.
+Searing Word (Su) An ayngavhaul can speak words of torment, giving them shape and sending them streaking toward their enemies in the form of diabolical sigils. Any good-aligned creature struck by one of these infernal words takes 3d6 points of hellfire damage (half fire, half evil energy); nongood creatures take half damage. These words cannot affect creatures affected by protection from evil or within an area of magical silence.
+Throne of Skulls (Su) All ayngavhauls hover upon fearsome infernal thrones. These thrones grant the devils their fly speed and a +4 armor bonus. Should an ayngavhaul be grappled or knocked down, it is unseated from its throne and loses these benefits. An ayngavhaul has telepathic command over its throne and may call its conveyance back and reseat itself as a full-round action.

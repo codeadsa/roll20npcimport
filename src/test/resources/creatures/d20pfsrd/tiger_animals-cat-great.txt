@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/cat-great/tiger
+Tiger CR 4
+XP 1,200
+N Large animal
+Init +6; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 14, touch 11, flat-footed 12 (+2 Dex, +3 natural, –1 size)
+hp 45 (6d8+18)
+Fort +8, Ref +7, Will +3
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +10 (1d8+6 plus grab), bite +9 (2d6+6 plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks pounce, rake (2 claws +10, 1d8+6)
+STATISTICS
+Str 23, Dex 15, Con 17, Int 2, Wis 12, Cha 6
+Base Atk +4; CMB +11 (+15 grapple); CMD 23 (27 vs. trip)
+Feats Improved Initiative, Skill Focus (Perception), Weapon Focus (claw)
+Skills Acrobatics +10, Perception +8, Stealth +7 (+11 in areas of tall grass), Swim +11; Racial Modifiers +4 Acrobatics, +4 Stealth (+8 in tall grass)

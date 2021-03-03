@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/asura/asura-tripurasura
+Tripurasura CR 2
+XP 600
+LE Tiny outsider (asura, evil, extraplanar, lawful)
+Init +2; Senses darkvision 60 ft., detect magic; Perception +10
+DEFENSE
+AC 16, touch 16, flat-footed 13 (+2 Dex, +1 dodge, +1 insight, +2 size)
+hp 19 (3d10+3); fast healing 2
+Fort +4, Ref +3, Will +5; +2 vs. enchantments
+DR 5/cold iron or good; Immune curse effects, disease, poison; Resist acid 10, electricity 10
+OFFENSE
+Speed 20 ft.
+Melee sting +8* (1d4-1 plus poison)
+Spell-Like Abilities (CL 6th; concentration +7)
+Constant—detect magic
+At will—feather fall
+3/day—levitate, locate object, spider climb
+1/week—commune (6 questions, CL 12th)
+STATISTICS
+Str 8, Dex 14, Con 12, Int 13, Wis 15, Cha 13
+Base Atk +3; CMB +3; CMD 13*
+Feats Dodge, Weapon Finesse
+Skills Acrobatics +8 (+4 when jumping), Appraise +4, Bluff +7, Escape Artist +8, Knowledge (arcana) +4, Knowledge (planes) +7, Perception +10, Perform (dance) +5, Spellcraft +4, Stealth +14; Racial Modifiers -4 Acrobatics when jumping, +6 Escape Artist, +4 Perception
+Languages Common, Infernal
+SQ change shape (any Small humanoid; alter self), elusive
+SPECIAL ABILITIES
+Change Shape (Su) The tripurasura has only one alternative form—when it uses change shape, it always appears as the same Small humanoid. Most take the form of gnomes or human children.
+Elusive (Su) The tripurasura and items it carries are considered to be under the effects of a nondetection spell. A caster must succeed at a DC 14 caster level check to overcome this effect.
+Poison (Ex) Tongue—injury; save Fort DC 12; frequency 1/round for 6 rounds; effect 1d2 Wis damage; cure 1 save.
+Editor’s Note
+The attack bonus should be sting +7
+The CMD should be 14 Atk: 3(BAB)+2(Dex)+2(Size)
+CMD: 10+3(BAB)-1(Str)+2(Dex)-2(Size)+1(insight)+1(dodge)

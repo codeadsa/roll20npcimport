@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/tetrolimulus
+Tetrolimulus CR 11
+XP 12,800
+NE Large magical beast (aquatic)
+Init +8; Senses darkvision 60 ft., low-light vision; Perception +7
+DEFENSE
+AC 27, touch 13, flat-footed 23 (+4 Dex, +14 natural, –1 size)
+hp 147 (14d10+70)
+Fort +16, Ref +13, Will +7
+Resist cold 10
+OFFENSE
+Speed 50 ft., swim 50 ft.
+Melee 2 claws +19 (2d6+6/×4), sting +17 (1d6+3 plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks poison, pounce
+STATISTICS
+Str 22, Dex 18, Con 21, Int 3, Wis 12, Cha 9
+Base Atk +14; CMB +21; CMD 35
+Feats Endurance, Great Fortitude, Improved Initiative, Iron Will, Lunge, Multiattack, Run
+Skills Climb +10, Perception +7, Survival +14
+SQ amphibious, shoreline mastery
+SPECIAL ABILITIES
+Poison (Ex) Tetrodotoxin: Sting—injury; save Fort DC 22; frequency once; initial effect staggered for 1 round, secondary effect paralysis for 1d4 rounds; cure 2 consecutive saves.
+Shoreline Mastery (Ex) The multilimbed nature of the crab half of the tetrolimulus allows it to ignore the effects of uneven or difficult terrain. This does not apply to terrain magically manipulated to impede movement.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-brass/brass-dragon-wyrmling
+Brass Dragon, Wyrmling CR 3
+XP 800
+CG Tiny dragon (fire)
+Init +3; Senses dragon senses; Perception +9
+
+DEFENSE
+AC 18, touch 15, flat-footed 15 (+3 Dex, +3 natural, +2 size)
+hp 30 (4d12+4)
+Fort +5, Ref +7, Will +4
+Immune fire, paralysis, sleep
+Weaknesses Vulnerability to cold
+OFFENSE
+Speed 60 ft., burrow 30 ft., fly 100 ft. (average)
+Melee bite +6 (1d4), 2 claws +6 (1d3)
+Space 0 ft.; Reach 0 ft. (5 ft. with bite)
+Special Attacks breath weapon (30-ft. line, DC 13, 2d4 fire), sleep breath
+STATISTICS
+Str 11, Dex 16, Con 13, Int 10, Wis 11, Cha 10
+Base Atk +4; CMB +5; CMD 15 (19 vs. trip)
+Feats Alertness, Hover
+Skills Bluff +7, Diplomacy +7, Fly +14, Linguistics +7, Perception +9, Sense Motive +9
+Languages Common, Draconic, plus any 3 others
+SPECIAL ABILITIES
+Sleep Breath (Su) Instead of a line of fire, a brass dragon can breathe a 15 ft. cone of sleep gas. Creatures within the cone must succeed on a Will save or fall asleep for 1d6+1 rounds.
+

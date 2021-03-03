@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/wight/timber-wight-ap
+Timber Wight CR 5
+XP 1,600
+LE Medium undead
+Init +4; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 22, touch 10, flat-footed 22 (+8 armor, +4 natural)
+hp 52 (8d8+16); regeneration 5 (fire)
+Fort +3, Ref +2, Will +8
+Immune undead traits, plant traits
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft.
+Melee claw +14 (1d8+10)
+Reach 10 ft.
+Spell-like Abilities (CL 8th)
+3/day—diminish plants, warp wood (DC 14)
+1/day—blight (DC 16), horrid wilting (DC 20)
+STATISTICS
+Str 25, Dex 11, Con —, Int 10, Wis 15, Cha 13
+Base Atk +6; CMB +13, CMD 23
+Feats Critical Focus, Improved Initiative, Toughness, Weapon Focus (claw)
+Skills Perception +10, Intimidate +9
+Languages Common, Plant
+SQ rooted foot, wicked thorns
+SPECIAL ABILITIES
+Rooted Foot (Ex) The timber wight can stand up from being prone as a swift action instead of a move action.
+Wicked Thorns (Ex) Any creature striking a timber wight with its body or a hand-held weapon deals damage normally, but at the same time the attacker takes 1d3 points of piercing damage. Any creature involved in a grapple with the timber wight automatically takes this damage once per round at the beginning of the timber wight’s turn.

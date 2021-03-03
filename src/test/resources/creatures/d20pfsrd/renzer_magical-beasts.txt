@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/renzer
+Renzer CR 6
+XP 2,400
+CE Large magical beast (aquatic)
+Init +6; Senses darkvision 60 ft., keen scent, low-light vision; Perception +10
+DEFENSE
+AC 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, -1 size)
+hp 68 (8d10+16 plus 8)
+Fort +8, Ref +8, Will +6
+SR 17
+OFFENSE
+Speed swim 60 ft.
+Melee bite +9 (1d8+2 plus grab) and two claws +9 (1d6+2)
+Space 10 ft.; Reach 5 ft.
+Special Attacks command fish
+Spell-like Abilities (CL 8th):
+At will—control water, water breathing (others only)
+2/day—cone of cold (DC 17 half) (can be used underwater)
+TACTICS
+A renzer usually initiates combat with its spell-like abilities, using a cone of cold to blast its foes. In melee combat, a renzer focuses on bite attacks and once it locks its teeth on an opponent, it rarely lets go until either it or its opponent is dead. If fighting a surface-dwelling race or air-breathing creature, a renzer often grabs the opponent and dives straight down, swimming as fast as it can in hopes of drowning the foe. If outnumbered or overwhelmed, the renzer moves a safe distance away and uses its command fish ability.
+STATISTICS
+Str 17, Dex 15, Con 14, Int 10, Wis 15, Cha 14
+Base Atk +8 CMB +11; CMD 23 (cannot be tripped)
+Feats Improved Initiative, Iron Will, Power Attack, Toughness
+Skills Intimidate +10, Perception +10, Swim +19; Racial Modifiers +8 Swim
+Languages Aquan, Common
+SPECIAL ABILITIES
+Command Fish (Su) Twice per day, a renzer can command fish and aquatic creatures as the mass charm monster spell (caster level 8th). The renzer can communicate with any creature it currently commands as if by speak with animals.

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/ethereal-filcher
+Ethereal Filcher CR 2
+XP 600
+N Medium aberration
+Init +8; Senses darkvision 60 ft., magicsense 60 ft., Perception +9
+DEFENSE
+AC 15, touch 14, flat-footed 11 (+4 Dex, +1 natural)
+hp 22 (5d8)
+Fort +1, Ref +5, Will +5
+OFFENSE
+Speed 40 ft.
+Melee bite +7 (1d6)
+STATISTICS
+Str 10, Dex 18, Con 11, Int 9, Wis 12, Cha 10
+Base Atk +3; CMB +3; CMD 17 (19 vs. trip)
+Feats Deft Hands, Improved Initiative, Weapon Finesse
+Skills Disable Device +11, Perception +9, Sleight of Hand +11
+Languages none
+SQ ethereal escape
+SPECIAL ABILITIES
+Ethereal Escape (Su) The ethereal filcher is able to slip into the Ethereal Plane as a move action. It can remain in the Ethereal Plane for two rounds before it must use a move action to shift back to the Material Plane.
+Magicsense (Su) Ethereal filchers can sense the presence of active magic spells and magic items (as the detect magic) spell within 60 ft. This sense is always active but can be fooled by spells that disguise magic auras or by areas of dead magic.

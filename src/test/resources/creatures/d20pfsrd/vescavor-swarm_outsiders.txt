@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/vescavor-swarm
+Vescavor Swarm CR 5
+XP 1,600
+CE Diminutive outsider (chaotic, evil, extraplanar, swarm)
+Init +3; Senses darkvision 60 ft.; Perception +9; Aura gibber (15 ft.)
+DEFENSE
+AC 19, touch 17, flat-footed 16 (+3 Dex, +2 natural, +4 size)
+hp 47 (5d10+20)
+Fort +7, Ref +9, Will +2
+Immune poison, swarm traits, weapon damage; Resist fire 10, electricity 10; SR 16
+OFFENSE
+Speed 30 ft., fly 40 ft. (good)
+Melee swarm (2d6 plus distraction)
+Space 10 ft.; Reach 0 ft.
+Special Attacks distraction (DC 15), ravenous, traumatizing
+STATISTICS
+Str 7, Dex 17, Con 16, Int 4, Wis 13, Cha 12
+Base Atk +5; CMB —; CMD —
+Feats Blind-Fight, Lightning Reflexes, Toughness
+Skills Fly +21, Perception +9, Stealth +23
+Languages Abyssal
+SPECIAL ABILITIES
+Gibber (Su) Vescavors yammer the endless chorus of the Abyss.
+Any creature within 15 feet of a vescavor swarm or inside it must succeed at a DC 15 Will save or be confused for 1 round. This is a mind-affecting sonic compulsion. A creature that saves cannot be affected by the same vescavor swarm’s gibbering for 24 hours. The save DC is Constitution-based.
+Ravenous (Ex) Vescavors can devour nearly anything. If the swarm attacks an object or structure, the vescavors ignore its hardness if it is made of any substance other than adamantine. Additionally, every round that a creature is in the same space as the swarm, the vescavors begin devouring one object on the creature. Once the vescavors choose an item in this way, they continue to devour that same item until it is destroyed. The object takes half its maximum hit points in damage and gains the broken condition. If the vescavors attack an object with the broken condition, it is destroyed. An attended or magic object can make a DC 15 Reflex save to negate this effect. The save DC is Constitution-based.
+Traumatizing (Su) Enduring the presence of a vescavor swarm is akin to being trapped in the Abyss itself. Any creature that spends more than 3 consecutive rounds inside a vescavor swarm must succeed at a DC 13 Will save or gain a type of madness.
+Roll on the Types of Insanity table to determine which type of insanity affects the creature. Despite each entry listing a DC, the creature does not receive an additional Will save to prevent the insanity. This affliction is permanent, but can be healed as detailed in the Curing Insanity section of the Sanity and Madness rules. The save DC is Charisma-based.
+Get this book AND support this site!

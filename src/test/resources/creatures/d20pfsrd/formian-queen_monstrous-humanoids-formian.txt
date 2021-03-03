@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/formian/formian-queen
+Formian Queen CR 17
+XP 102,400
+LN Large monstrous humanoid
+Init +6 (+10 with hive mind); Senses blindsense 30 ft., darkvision 60 ft., hive mind, tremorsense 60 ft.; Perception +35 (+39 with hive mind)
+DEFENSE
+AC 32, touch 6, flat-footed 32 (–3 Dex, +26 natural, –1 size)
+hp 276 (24d10+144); fast healing 10
+Fort +15, Ref +13, Will +20
+DR 10/—; Resist sonic 10
+OFFENSE
+Speed 5 ft.
+Melee 2 claws +33 (4d8+10)
+Space 10 ft.; Reach 10 ft.
+Special Attacks telepathic feedback
+Spell-Like Abilities (CL 17th; concentration +24)
+At will—magic jar (other formians only), magic missile
+1/day—invisibility, feeblemind (DC 21)
+3/day—commune with nature, empowered cone of cold (DC 22), permanent image, quickened magic missile, repulsion (DC 23), teleport
+STATISTICS
+Str 6, Dex 5, Con 20, Int 19, Wis 18, Cha 25
+Base Atk +24; CMB +35; CMD 42 (50 vs. trip)
+Feats Alertness, Blind-Fight, Combat Casting, Craft Wondrous Item, Empower Spell-Like Ability (cone of cold), Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Quicken Spell-Like Ability (magic missile), Spell Penetration, Toughness
+Skills Diplomacy +31, Intimidate +34, Knowledge (arcana, nature) +28, Knowledge (dungeoneering, engineering, geography, local, planes) +12, Perception +35 (+39 with hive mind), Sense Motive +12, Spellcraft +28
+Languages Common, Dwarven, Terran, Undercommon; telepathy 200 ft.
+SQ formian traits, hive frenzy
+SPECIAL ABILITIES
+Hive Frenzy (Su) Once per day as a standard action, the queen can send out a command to all formians within range of her telepathy. Those formians are affected as if by a haste spell (CL 20th).
+Telepathic Feedback (Su) As a standard action, a queen can unleash debilitating telepathic feedback. Those within her telepathic range who are not members of her hive must succeed at a DC 29 Will save or take a –2 penalty on attack rolls, saving throws, ability checks, and skill checks for 1 minute. A creature that succeeds at the save cannot be affected by telepathic feedback for 24 hours. This is a mind-affecting effect. The save DC is Charisma-based.

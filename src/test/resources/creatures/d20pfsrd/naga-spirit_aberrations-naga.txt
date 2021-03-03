@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/naga/naga-spirit
+Spirit Naga CR 9 (XP 6,400)
+CE Large aberration
+Init +5; Senses darkvision 60 ft.; Perception +22
+DEFENSE
+AC 23, touch 14, flat-footed 18 (+5 Dex, +9 natural, –1 size)
+hp 95 (10d8+50)
+Fort +8, Ref +10, Will +10
+OFFENSE
+Speed 40 ft., swim 20 ft.
+Melee bite +10 (2d6+6 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks charming gaze
+Spells Known (CL 7th)
+3rd (5/day)— displacement, fireball (DC 16)
+2nd (7/day)— cat’s grace, invisibility, summon swarm
+1st (7/day)— charm person (DC 14), cure light wounds, divine favor, magic missile, shield of faith
+0 (at will)— bleed (DC 13) , daze (DC 13), detect magic, mage hand, open/close, ray of frost, read magic
+STATISTICS
+Str 18, Dex 20, Con 21, Int 12, Wis 17, Cha 17
+Base Atk +7; CMB +12; CMD 27 (can’t be tripped)
+Feats Ability Focus (charming gaze), Combat Casting, Eschew Materials B, Lightning Reflexes, Skill Focus ( Perception), Stealthy
+Skills Bluff +13, Escape Artist +13, Intimidate +9, Knowledge (arcana) +14, Perception +22, Spellcraft +11, Stealth +15, Swim +12
+Languages Abyssal, Common
+SPECIAL ABILITIES
+Charming Gaze (Su) As charm person, 30 feet, Will DC 20 negates. The save DC is Charisma-based.
+Poison (Ex) Bite—injury; save Fort DC 20; frequency 1/round for 6 rounds; effect 1d4 Con damage; cure 1 save.
+Spells A spirit naga casts spells as a 7th-level sorcerer, and can cast spells from the cleric list as well as those normally available to a sorcerer. Cleric spells are considered arcane spells for a spirit naga.

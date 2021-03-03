@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/astral-shark
+Astral Shark CR 6
+XP 2,400
+N Large outsider
+Init +2; Senses all-around vision, astral scent, darkvision 60 ft.; Perception +16
+DEFENSE
+AC 19, touch 11, flat-footed 17 (+2 Dex, +8 natural, –1 size)
+hp 68 (8d10+2)
+Fort +5; Ref +8; Will +9
+OFFENSE
+Speed 60 ft.
+Melee bite +13 (2d10+7/19-20)
+Space 10 ft.; Reach 5 ft.
+Special Attacks sever silver cord
+TACTICS
+During Combat An astral shark’s tactics resemble those of its Material Plane counterpart: circling its prey, then darting in and biting with its powerful jaws. An astral shark weakens an opponent and then attacks the opponent’s silver cord, all the while biting and tearing at its opponent with its teeth.
+STATISTICS
+Str 20, Dex 15, Con 17, Int 6, Wis 12, Cha 6
+Base Atk +8; CMB +14; CMD 26 (can’t be tripped)
+Feats Improved Critical (bite), Iron Will, Skill Focus (Stealth), Weapon Focus (bite)
+Skills Knowledge (planes) +9, Perception +16, Stealth +12, Survival +12; Racial Modifiers Perception +4
+SPECIAL ABILITIES
+Astral Scent (Ex) An astral shark is highly attuned to the energy of a traveler in the Astral Plane and can detect such creatures in a 180-ft. radius.
+Sever Silver Cord (Ex) An astral shark can attack an opponent’s silver cord with a normal attack that provokes an attack of opportunity. If the astral shark rolls a natural 20 (and subsequently confirms the critical hit), the traveler’s silver cord is severed and its material body and astral form are both instantly destroyed.

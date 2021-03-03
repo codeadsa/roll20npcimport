@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/salamander
+Salamander CR 6
+XP 2,400
+CE Medium outsider (extraplanar, fire)
+Init +1; Senses darkvision 60 ft.; Perception +16
+DEFENSE
+AC 18, touch 11, flat-footed 17 (+1 Dex, +7 natural)
+hp 76 (8d10+32)
+Fort +10, Ref +7, Will +6
+DR 10/magic; Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 20 ft.
+Melee spear +11/+6 (1d8+4/×3 plus 1d6 fire), tail slap +6 (2d6+1 plus 1d6 fire and grab)
+Space 5 ft.; Reach 5 ft. (10 ft. with tail)
+Special Attacks constrict (2d6+4 plus 1d6 fire), heat
+STATISTICS
+Str 16, Dex 13, Con 18, Int 14, Wis 15, Cha 13
+Base Atk +8; CMB +11 (+15 grapple); CMD 22 (can’t be tripped)
+Feats Cleave, Iron Will, Power Attack, Skill Focus (Perception)
+Skills Acrobatics +12, Bluff +12, Craft (weaponsmithing) +17, Intimidate +12, Knowledge (planes) +13, Perception +16, Sense Motive +13, Stealth +12; Racial Modifiers +4 Craft (armorsmithing, blacksmithing, and weaponsmithing)
+Languages Common, Ignan
+SPECIAL ABILITIES
+Heat (Ex) A salamander generates so much heat that its mere touch deals an additional 1d6 points of fire damage. A salamander’s metallic weapons also conduct this heat.

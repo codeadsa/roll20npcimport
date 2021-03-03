@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/pale-stranger
+Pale Stranger CR 10
+XP 9,600
+NE Medium undead
+Init +9; Senses darkvision 60 ft.; Perception +22; Aura fear (10 ft., DC 21)
+DEFENSE
+AC 25, touch 19, flat-footed 19 (+2 armor, +5 Dex, +1 dodge, +3 luck, +4 natural)
+hp 127 (15d8+60)
+Fort +9, Ref +10, Will +13
+Defensive Abilities channel resistance +4; DR 10/bludgeoning and magic; Immune undead traits; SR 21
+OFFENSE
+Speed 30 ft.
+Ranged +1 pistols +15/+15/+10/+10/+5/+5 (1d8+1/19-20/x4)
+Special Attacks pistols, stranger’s shot
+STATISTICS
+Str 17, Dex 21, Con 10, Int 11, Wis 18, Cha 18
+Base Atk +11; CMB +14; CMD 30
+Feats Deadly Aim, Dodge, Improved Critical (pistol), Improved Initiative, Improved Two-Weapon Fighting, Point-Blank Shot, Precise Shot, Quick Draw, Two-Weapon Fighting
+Skills Acrobatics +13, Climb +11, Intimidate +22, Perception +22, Ride +15, Stealth +13, Swim +8
+Languages Common
+SQ stranger’s luck
+SPECIAL ABILITIES
+Pistols (Su) A pale stranger fights with two pistols. A pistol has a range increment of 20 feet and deals both bludgeoning and piercing damage. At a range of up to 20 feet, a pale stranger’s pistol attacks resolve as touch attacks. While pistols normally consume bullets and black powder when fired, a pale stranger’s pistols supernaturally reload the instant it fires them, allowing the undead to make multiple attacks in a round with the weapons. In addition, any pistol a pale stranger wields functions as a +1 pistol. A pale stranger does not provoke attacks of opportunity when it fires a pistol in melee, and treats pistols as light weapons for the purposes of determining penalties from two-weapon fighting. Further rules for pistols, and firearms in general, can be found in Ultimate Combat.
+Stranger’s Luck (Su) A pale stranger gains a +3 luck bonus to AC and has no chance of misfire when using firearms.
+Stranger’s Shot (Ex) As a full-round action, a pale stranger can take careful aim with one of its firearms and take a single, ruinous shot. This single shot always resolves as a touch attack, regardless of the actual range. If the pale stranger threatens a critical hit with this shot, it automatically confirms the critical hit. Regardless of whether the shot is a critical hit or not, it deals +6d6 points of damage.

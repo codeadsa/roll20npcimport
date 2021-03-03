@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/drakes/drake-desert
+Desert Drake CR 8
+XP 4,800
+NE Large dragon (earth)
+Init +6; Senses darkvision 60 ft., low-light vision, scent, tremorsense 30 ft.; Perception +12
+DEFENSE
+AC 21, touch 11, flat-footed 19 (+2 Dex, +10 natural, -1 size)
+hp 103 (9d12+45)
+Fort +11, Ref +8, Will +8
+Immune paralysis, sleep; Resist electricity 20
+OFFENSE
+Speed 30 ft., burrow 20 ft., fly 60 ft. (average)
+Melee bite +15 (2d6+9/19-20 plus 1d10 electricity), tail slap +9 (1d8+3 plus push)
+Space 10 ft.; Reach 10 ft.
+Special Attacks dazzling emergence, push (tail slap, 10 ft.), sandstorm breath, savage bite
+STATISTICS
+Str 22, Dex 15, Con 21, Int 8, Wis 11, Cha 12
+Base Atk +9; CMB +16; CMD 28
+Feats Dazzling Display, Improved Initiative, Iron Will, Power Attack, Weapon Focus (bite)
+Skills Fly +12, Intimidate +13, Perception +12, Stealth +10, Survival +12
+Languages Draconic
+SQ speed surge
+SPECIAL ABILITIES
+Dazzling Emergence (Ex) During a surprise round, a desert drake can use Dazzling Display as a standard action.
+Sandstorm Breath (Su) As a standard action, a desert drake can spit a ball of electrically charged sand that bursts into a cloud. This attack has a range of 60 feet and deals 3d6 points of damage plus 4d8 points of electricity damage in a 15-foot-radius spread (Reflex DC 19 for half). The cloud remains for 1d4 rounds, dealing no damage but otherwise acting as obscuring mist. Once a desert drake uses its breath, it cannot do so again for 1d6 rounds. The save DC is Constitution-based.
+Savage Bite (Ex) A desert drake applies 1-1/2 times its Strength modifier to damage dealt with its bite attack, and it threatens a critical hit on a 19-20.
+Speed Surge (Ex) Three times per day as a swift action, a desert drake can draw on its draconic heritage for a boost of strength and speed that allows it to take an additional move action that round.

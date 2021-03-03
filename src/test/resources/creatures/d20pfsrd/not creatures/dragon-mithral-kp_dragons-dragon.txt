@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-mithral-kp
+Mithral Dragon
+
+
+N dragon (earth)
+BASE STATISTICS CR 6; Size Small; Hit Dice 7d12
+Speed 50 ft.
+Natural Armor +6; Breath Weapon line, 2d8 damage
+Str 13, Dex 16, Con 13, Int 14, Wis 15, Cha 14
+SPECIAL ABILITIES
+Blindness Aura (Su) Old and older mithral dragons can shift their gleaming scales to blind and disorient opponents. Any creature within 5 ft. of the dragon must make a Fortitude save or be blinded and confused for 1 round. An ancient dragon’s aura extends out to 10 ft. For great wyrm mithral dragons, those opponents that fail their saves are blinded and confused for 1d6 rounds. The DC of this save is equal to the dragon’s breath weapon. A mithral dragon can suppress or activate this aura at will as a free action.
+Breath Weapon (Su) A mithral dragon can fire a line of mithral shards that deal piercing and slashing damage. These shards count as cold iron, good, and silver for purposes of overcoming DR. At young age, a mithral dragon’s shards deal bleed damage equal to half its HD in addition to the normal damage. This bleed damage is not halved with a successful saving throw. At young adult age, these shards additionally count as adamantine for purposes of overcoming DR. These shards dissolve into wisps of smoke 1 round after the breath weapon‘s use.
+Fortification (Su) Young adult or older mithral dragons have a 25% chance of negating critical hits or sneak attacks; 50% for very old or older mithral dragons; great wyrm mithral dragons are immune to critical hits and sneak attacks.
+Perfect Flight (Ex) A young or older mithral dragon’s maneuverability is one step better than normal.
+Razor Claws (Ex) A mithral dragon’s claws are exceptionally sharp. Whenever a mithral dragon makes a successful attack with its claws, it deals bleed damage. The amount of bleed damage a creature takes depends on age category.
+Spell-Like Abilities (Su) A mithral dragon gains the following spell-like abilities, usable at will upon the listed age category. Very young—mage armor; juvenile—bull’s strength; adult— dispel magic; old—dimension door; ancient—break enchantment; great wyrm—true seeing.
+Age Category Special Abilities Caster Level
+Wyrmling bleed, immune to acid and sonic —
+Very young bleed, mage armor —
+Young bleed, perfect flight 1st
+Juvenile bull’s strength, evasion 3rd
+Young adult bleed, DR 5/magic, fortification 25% 5th
+Adult dispel magic, frightful presence 7th
+Mature adult DR 10/magic 9th
+Old bleed, blindness aura, dimension door 11th
+Very old DR 15/magic, fortification 50%
+13th
+Ancient break enchantment, improved evasion 15th
+Wyrm DR 20/magic 17th
+Great wyrm bleed, immune to critical hits, true seeing 19th
+
+Subpages
+Mithral Dragon, Adult Mithral Dragon, Ancient

@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/shark/great-white-shark
+Great White Shark CR 4
+XP 1,200
+N Huge animal (aquatic)
+Init +6; Senses blindsense 30 ft., keen scent, low-light vision; Perception +11
+DEFENSE
+AC 19, touch 10, flat-footed 17 (+2 Dex, +9 natural, –2 size)
+hp 42 (5d8+20)
+Fort +10, Ref +6, Will +4
+OFFENSE
+Speed swim 60 ft.
+Melee bite +9 (2d8+10 plus bleed)
+Space 15 ft.; Reach 10 ft.
+Special Attacks bleed (1d6)
+STATISTICS
+Str 25, Dex 14, Con 19, Int 1, Wis 16, Cha 4
+Base Atk +3; CMB +12; CMD 24 (can’t be tripped)
+Feats Great Fortitude, Improved Initiative, Weapon Focus (bite)
+Skills Perception +11, Swim +15

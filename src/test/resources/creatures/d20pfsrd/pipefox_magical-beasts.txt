@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/pipefox
+Pipefox CR 2
+XP 600
+N Diminutive magical beast
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +5
+DEFENSE
+AC 17, touch 17, flat-footed 13 (+3 Dex, +4 size)
+hp 13 (3d10–3)
+Fort +2, Ref +6, Will +1
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee bite +10 (1d2–5) Space 1 ft.; Reach 0 ft.
+Spell-Like Abilities (CL 3rd; concentration +5)
+Constant—comprehend languages
+3/day—augury, vanish
+1/day—detect thoughts (DC 14), divination, greater invisibility (self only)
+STATISTICS
+Str 1, Dex 16, Con 9, Int 14, Wis 11, Cha 14
+Base Atk +3; CMB +2; CMD 8
+Feats Improved Initiative, Weapon Finesse
+Skills Climb +7, Knowledge (arcana) +5, Knowledge (religion) +5, Perception +5, Sense Motive +2, Stealth +19
+Languages Common, Draconic; comprehend languages
+SQ compression
+SPECIAL ABILITIES
+Familiar Service A spellcaster of at least 7th level who has the Improved Familiar feat may select the pipefox as a familiar, but only after the pipefox has agreed to pledge its services to the spellcaster.

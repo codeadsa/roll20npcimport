@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/vespergaunt
+Vespergaunt CR 12
+XP 19,200
+NE Medium ooze
+Init +9; Senses blindsight 60 ft., true seeing; Perception +19
+Aura madness (60 ft., DC 21)
+DEFENSE
+AC 24, touch 16, flat-footed 18 (+5 Dex, +1 dodge, +8 natural)
+hp 195 (17d8+119)
+Fort +14, Ref +12, Will +9
+Defensive Abilities all-around vision, amorphous; DR 10/aligned; Immune cold, ooze traits
+Weaknesses light sensitivity
+OFFENSE
+Speed 10 ft., fly 60 ft. (perfect)
+Melee 2 slams +21 (2d8+8 plus siphon spirit)
+Space 5 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 17th; concentration +20)
+Constant—tongues, true seeing
+At will—deeper darkness
+3/day—contact other plane 1/month—wish
+STATISTICS
+Str 27, Dex 20, Con 24, Int 15, Wis 15, Cha 16
+Base Atk +12; CMB +20; CMD 36
+Feats Combat Reflexes, Dodge, Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes, Persuasive, Power Attack, Weapon Focus (slam)
+Skills Diplomacy +10, Fly +17, Intimidate +17, Knowledge (geography) +7, Knowledge (planes) +12, Perception +19, Sense Motive +12, Stealth +15
+Languages telepathy 100 ft.; tongues
+SQ no breath
+SPECIAL ABILITIES
+Aura of Madness (Su) Once per round, any creature within a 60-foot radius of the vespergaunt must succeed at a DC 21 Will save or be confused for 1d4 rounds. Once a creature successfully saves, it cannot be affected by the same vespergaunt’s aura again for 24 hours. As a free action, the vespergaunt can suppress its aura. This is a mind-affecting effect. The save DC is Charisma-based.
+Damage Reduction (Su) Weapons that are chaotic-, evil-, good-, or lawful-aligned overcome a vespergaunt’s damage reduction.
+Siphon Spirit (Su) Any creature struck by a vespergaunt must succeed at a DC 21 Will save or gain 1 negative level as the vespergaunt rips away a portion of its soul. A divine spellcaster gains an additional negative level with each failed save. A creature killed by this attack disintegrates except for its eyes and strands of brain matter, which become part of the vespergaunt. Only powerful magic such as miracle, true resurrection, or wish can resurrect a creature slain in this manner. The save DC is Charisma-based.

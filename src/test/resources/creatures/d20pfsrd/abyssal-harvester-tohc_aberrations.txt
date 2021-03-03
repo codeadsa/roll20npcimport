@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/abyssal-harvester-tohc
+Abyssal Harvester CR 17
+XP 102,400
+CE Gargantuan aberration (chaotic, evil, extraplanar)
+Init +0; Senses darkvision 60 ft.; Perception +31
+DEFENSE
+AC 28, touch 6, flat-footed 28 (+22 natural, -4 size)
+hp 283 (21d8+189)
+Fort +16; Ref +9; Will +15
+DR 15/cold iron; Immune poison; Resist acid 10, cold 10, fire 10
+OFFENSE
+Speed 20 ft.
+Melee 6 tentacles +22 (4d6+15/19–20 plus grab)
+Space 20 ft.; Reach 20 ft.
+Special Attacks debilitating constrict, far reaching, harvest
+Spell-Like Abilities (CL 20th)
+At will—plane shift (DC 21, Astral Plane, the Abyss, the Nine Hells, or the Material Plane only)
+STATISTICS
+Str 41, Dex 10, Con 29, Int 10, Wis 16, Cha 13
+Base Atk +15; CMB +29 (+31 bull rush, +35 grapple); CMD 39 (41 vs. bull rush, grapple; can’t be tripped)
+Feats Alertness, Awesome Blow, Blind-Fight, Cleave, Improved Bull Rush, Improved Critical (tentacle), Improved Grapple, Improved Natural Attack (tentacle), Lightning Reflexes, Power Attack, Weapon Focus (tentacle)
+Skills Intimidate +25, Knowledge (planes) +21, Perception +31, Sense Motive +5, Survival +27
+Languages Abyssal
+SQ tentacle regeneration
+SPECIAL ABILITIES
+Debilitating Constriction (Su) An abyssal harvester that has successfully grappled an opponent of its size or smaller deals tentacle damage plus 1d4 points of Constitution damage each round the hold is maintained. A creature reduced to Constitution 0 by an abyssal harvester dies. Note, that the abyssal harvester only deals Constitution damage when constricting a foe.
+Far Reaching (Su) An abyssal harvester can remain on its abyssal plane and inject up to four of its tentacles across the dimensions and into the Ethereal Plane, Astral Plane, material planes, or Nine Hells. It can do this a total of twelve times per day (so it could inject one tentacle twelve times into any plane, or four tentacles up to three times each).
+All of its tentacles must be injected into the same plane, and all appear within the same 20-foot area. While using this ability, it uses sensory organs on its tentacles to see, hear, smell, and feel its surroundings. It can attack normally (at its full attack bonus) while using this ability but it cannot move from its current location. It can withdraw its tentacles as a move action and re-inject them into the same plane (or a different plane) on its next turn.
+A dismissal, dispel chaos, or dispel evil spell (using the second effect of either spell) causes an abyssal harvester to withdraw a single tentacle (whichever one was touched) if it fails its Will save. It cannot re-inject that same tentacle into the same plane for one day.
+A banishment spell forces an abyssal harvester to withdraw all of its tentacles if it fails its Will save. It cannot re-inject any tentacles that were banished into the same plane for one day.
+Harvest (Su) This ability can only be used when the abyssal harvester is on its abyssal plane and injects its tentacles into the Ethereal Plane, Astral Plane, a material plane, or the Nine Hells.
+A grappled foe with 20 or fewer hit points or 4 or fewer Constitution points must succeed on a DC 21 Will save or be drawn through an invisible planar gate (created around the abyssal harvester’s tentacles) onto the same plane where the abyssal harvester currently resides. An opponent drawn into the same plane with the harvester is still grappled upon arrival. The save DC is Charisma-based.
+Tentacle Regeneration (Ex) An abyssal harvester regrows any lost tentacles in 1 week.

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-open-design/beetle-clockwork-mb
+Clockwork Beetle CR 2
+XP 600
+N Tiny construct
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +3
+DEFENSE
+AC 19, touch 15, flat-footed 16 (+3 Dex, +4 natural, +2 size)
+hp 22 (4d10)
+Fort +1, Ref +4, Will +2
+DR 5/slashing; Immune construct traits
+OFFENSE
+Speed 30 ft., fly 50 ft. (good)
+Melee bite +6 (1d4?1 plus poison)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 8, Dex 16, Con —, Int 4, Wis 12, Cha 7
+Base Atk +4; CMB +5; CMD 14 (22 vs. trip)
+Feats Improved Initiative, Weapon Focus (bite)
+Skills Fly +15, Perception +3, Stealth +12
+Languages understands Common; telepathy 100 ft. (creator only)
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 14; frequency 1/round for 4 rounds; effect sleep 1 minute; cure 1 save.

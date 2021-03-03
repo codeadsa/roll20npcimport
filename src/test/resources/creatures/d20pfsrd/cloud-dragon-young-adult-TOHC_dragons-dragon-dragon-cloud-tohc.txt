@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-cloud-tohc/cloud-dragon-young-adult-TOHC
+young Adult Cloud Dragon CR 10
+XP 9,600
+N Huge dragon (air)
+Init +5; Senses cloud vision, dragon senses; Perception +18
+DEFENSE
+AC 25, touch 9, flat-footed 24 (+1 Dex, +16 natural, –2 size)
+hp 126 (12d12+48)
+Fort +12; Ref +9; Will +11
+DR 5/magic; Immune electricity, paralysis, sleep, winds; SR 21
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +17 (2d8+10), 2 claws +17 (2d6+7), 2 wings +12 (1d8+3), tail slap +12 (2d6+10)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50 ft. cone, DC 20, 10d6 cold plus bull rush [Small or smaller]), crush
+Spell-like Abilities (CL 12th):
+At-will—create water, obscuring mist
+Sorcerer Spells Known (CL 3rd)
+1st (6/day)—feather fall, shocking grasp, unseen servant
+0 (at will)—detect magic, daze (DC 13), mage hand, message, open/close
+STATISTICS
+Str 25, Dex 12, Con 19, Int 16, Wis 17, Cha 16
+Base Atk +12; CMB +21; CMD 32 (36 vs. trip)
+Feats Flyby Attack, Hover, Improved Initiative, Power Attack, Skill Focus (Fly), Wingover
+Skills Bluff +18, Diplomacy +18, Fly +14, Intimidate +18, Knowledge (arcana) +18, Knowledge (nature) +18, Perception +18, Sense Motive +18, Spellcraft +18
+Languages Auran, Aquan, Common, Draconic
+SQ cloud form
+SPECIAL ABILITIES
+Breath Weapon (Su) A cloud dragon’s breath weapon is a powerful cone of icy cold air. When a cloud dragon uses its breath weapon, make a single bull rush attack using the dragon’s CMB against the CMD of any creature that failed its Reflex save and is three or more size categories smaller than the dragon. This bull rush does not provoke attacks of opportunity, and the dragon cannot choose to move with any opponent pushed back. In addition to being pushed back, affected creatures are knocked prone and take 1d4 points of nonlethal damage per 10 feet they are pushed back. Flying creatures are buffeted and pushed back twice the distance and sustain 1d6 points of nonlethal damage per 10 feet they are pushed back.
+Cloud Form (Su) As a standard action, a juvenile or older cloud dragon can assume gaseous form at will, but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability.
+Immunity to Winds (Su) A cloud dragon is immune to the effects of wind. It ignores the penalties applied to the Fly skill incurred by wind speed, and is immune to the negative effects of any spell or effect that manipulates wind, such as gust of wind and whirlwind.

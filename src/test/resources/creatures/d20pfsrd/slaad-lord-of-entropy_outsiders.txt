@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/slaad-lord-of-entropy
+Slaad Lord Of Entropy CR 29
+XP 6,560,000
+CN Large outsider (chaotic, extraplanar)
+Init +12; Senses darkvision 60 ft., detect magic, see invisibility; Perception +64
+DEFENSE
+AC 53, touch 26, flat-footed 45 (+8 Dex, +27 natural, -1 size, +9 insight)
+hp 888 (48d10+624); fast healing 15
+Fort +41, Ref +36, Will +27
+DR 25/magic and lawful; Resist acid 10, cold 10, electricity 10, fire 10, sonic 10; SR 40
+OFFENSE
+Speed 40 ft.
+Melee +5 anarchic scythe +66/+61/+56/+51 (2d6+24/19-20/ x4 plus death stroke)
+Space 10 ft.; Reach 10 ft.
+Spell-Like Abilities (CL 29th)
+Constant—detect magic, see invisibility
+At will—animate objects, chaos hammer (DC 22), deeper darkness, dispel law (DC 23), fear (DC 22), fireball (DC 21), fly, identify, invisibility (self only), magic circle against law, mass charm monster (DC 26), plane shift (DC 25)
+3/day—power word blind, silent image (DC 19), summon (level 9, 3 red*, blue* or green slaadi*, or 2 gray* or death slaadi* 100%)
+2/day—circle of death (DC 24), control undead (must be on Material Plane to use), word of chaos (DC 25)
+1/day—cloak of chaos (DC 26), finger of death (DC 25), power word kill, storm of vengeance (DC 27)
+STATISTICS
+Str 36, Dex 27, Con 37, Int 28, Wis 28, Cha 26
+Base Atk +48; CMB +62; CMD 80
+Feats Alertness, Awesome Blow, Bleeding Critical, Blind-Fight, Cleave, Combat Casting, Combat Reflexes, Crippling Critical, Critical Focus, Critical Mastery, Great Cleave, Great Fortitude, Improved Critical (scythe), Improved Disarm, Improved Vital Strike, Improved Initiative, Improved Sunder, Iron Will, Lightning Reflexes, Power Attack, Quicken Spell-Like Ability (fireball), Quicken Spell-Like Ability (power word blind), Vital Strike, Weapon Focus (scythe)
+Skills Climb +61, Diplomacy +56, Escape Artist +56, Fly +54, Handle Animal +56, Intimidate +56, Knowledge (arcana) +57, Knowledge (history) +57, Knowledge (planes) +60, Knowledge (religion) +57, Perception +64, Sense Motive +64, Spellcraft +57, Stealth +55, Survival +57
+Languages Abyssal, Celestial, Common, Daemonic, Draconic, Goblin, Infernal, Slaadi, Terran, Undercommon; telepathy 100 ft.
+Gear +5 anarchic scythe
+SPECIAL ABILITIES
+Death Stroke (Su) If the Slaad Lord of Entropy scores a natural 20 on its attack roll with his scythe and confirms the critical hit, that opponent must succeed on a DC 35 Fortitude save or die. Creatures slain can be raised normally, but there is only a 50% chance that such magic works. Even if the Fortitude save succeeds, a creature struck takes 8d6 points of damage (which may be enough to kill it anyway). This ability only functions in the hands of the Slaad Lord of Entropy.

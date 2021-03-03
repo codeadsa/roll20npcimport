@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/chyzaedu
+Chyzaedu CR 10
+XP 9,600
+LE Gargantuan aberration
+Init +0; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +22; Aura ecstatic hunger (30 ft., DC 19)
+DEFENSE
+AC 24, touch 6, flat-footed 24 (+6 armor, +12 natural, –4 size)
+hp 133 (14d8+70)
+Fort +9, Ref +4, Will +14
+Defensive Abilities 50% chance to negate critical hits and sneak attacks; DR 10/magic; Immune acid, mind-affecting effects; SR 21
+OFFENSE
+Speed 30 ft., burrow 20 ft., climb 20 ft.
+Melee bite +17 (2d8+11 plus grab), claw +17 (2d6+11)
+Space 20 ft.; Reach 20 ft.
+Special Attacks swallow whole (5d6 acid damage, AC 16, 13 hp)
+Cleric Spells Prepared (CL 10th; concentration +15)
+5th—greater command (DC 20), mass inflict light wounds (DC 20), scrying (DC 20)
+4th—air walk, cure critical wounds, dimensional anchor, sending
+3rd—blindness/deafness (DC 18), deeper darkness, magic circle against good, prayer
+2nd—enthrall (DC 17), shatter (DC 17), silence (DC 17), sound burst (DC 17), spiritual weapon
+1st—cause fear (DC 16), command (DC 16), cure light wounds, divine favor, sanctuary (DC 16), shield of faith
+0—bleed, create water, detect magic, resistance
+STATISTICS
+Str 32, Dex 11, Con 21, Int 16, Wis 21, Cha 14
+Base Atk +10; CMB +25 (+27 bull rush); CMD 35 (37 vs. bull rush, can’t be tripped)
+Feats Awesome Blow, Combat Casting, Eschew MaterialsB, Extend Spell, Improved Bull Rush, Intimidating Prowess, Power Attack, Vital Strike
+Skills Climb +16, Diplomacy +16, Intimidate +30, Knowledge (religion) +20, Perception +22, Sense Motive +19, Spellcraft +20, Survival +22
+Languages Aklo, Common, Infernal; telepathy 100 ft.
+SQ alien vestment
+SPECIAL ABILITIES
+Alien Vestment (Su) A chyzaedu wears a sheet of undulating metallic material blessed by its inscrutable gods. The chyzaedu treats this garment as a +1 moderate fortification breastplate that provides immunity to mind-affecting effects. The vestment also serves as a divine focus for any spell the chyzaedu casts. This vestment doesn’t function for any creature other than the chyzaedu for which it was originally crafted. If a chyzaedu’s vestment is stolen or destroyed, the chyzaedu can create a replacement with a month of work.
+Ecstatic Hunger Aura (Su) A chyzaedu’s zealous drive to consume infects the minds of those around it. Any living creature within 30 feet of a chyzaedu must succeed at a DC 19 Will save or immediately consume any food and beverages (including potions and the like) on its person or within its reach. This effect continues for as long as it takes the creature to consume all the food and beverages within its reach. The creature defends itself normally but takes no other actions while eating and drinking. If the creature succeeds at the saving throw, it cannot be affected again by the aura for another 24 hours. This is a mind-affecting compulsion effect. The save DC is Charisma-based.
+Spell Casting Chyzaedu cast divine spells as 10th-level clerics, but they do not gain access to domains or to any other cleric abilities.

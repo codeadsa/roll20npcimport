@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-desert
+Desert Giant CR 9
+XP 6,400
+LN Large humanoid (giant)
+Init +3; Senses low-light vision; Perception +9
+DEFENSE
+AC 24, touch 13, flat-footed 20 (+2 armor, +3 Dex, +1 dodge, +9 natural, -1 size)
+hp 123 (13d8+65)
+Fort +9, Ref +11, Will +5
+Defensive Abilities rock catching; Immune fire
+OFFENSE
+Speed 50 ft.
+Melee mwk scimitars +16/+16/+11/+11 (1d8+8/15-20) or 2 slams +16 (1d8+8)
+Ranged rock +11 (1d8+8)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rock throwing (100 ft.), scimitar training
+STATISTICS
+Str 26, Dex 17, Con 21, Int 13, Wis 12, Cha 10
+Base Atk +9; CMB +18; CMD 32 (36 vs. disarm and sunder)
+Feats Combat Reflexes, Dodge, Improved Critical (scimitar), Improved Two-Weapon Fighting, Mobility, Two-Weapon Fighting, Weapon Focus (scimitar)
+Skills Acrobatics +16 (+24 when jumping), Intimidate +11, Perception +9, Survival +17
+Languages Common, Giant
+SQ sandwalking
+SPECIAL ABILITIES
+Sandwalking (Ex) A desert giant travels at full speed across sand, rocky ground, or dust, and leaves no trail behind unless it chooses to.
+Scimitar Training (Ex) All desert giants are proficient with scimitars, and can wield them as if they were light weapons. A desert giant adds its full Strength bonus to attacks made with a scimitar wielded in its off hand, and gains a +4 bonus to CMD versus disarm and sunder attempts when fighting with a scimitar in each hand.

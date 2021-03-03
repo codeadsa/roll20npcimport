@@ -1,0 +1,14 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-cloud
+Age Category Special Abilities Caster Level
+Wyrmling Immunity to electricity, mistvision —
+Very Young obscuring mist —
+Young fog cloud —
+Juvenile Frightful presence 1st
+Young Adult DR 5/magic, spell resistance 3rd
+Adult Cloudform, solid fog 5th
+Mature Adult DR 10/magic 7th
+Old cloudkill 9th
+Very Old DR 15/magic 11th
+Ancient Thundering Bite, wind walk 13th
+Wyrm DR 20/magic 15th
+Great Wyrm Cloud Breath, storm of vengeance 17th

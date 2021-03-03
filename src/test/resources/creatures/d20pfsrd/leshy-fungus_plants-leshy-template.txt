@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/leshy-template/leshy-fungus
+Fungus Leshy CR 2
+XP 600
+N Small plant (leshy, shapechanger)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +2
+DEFENSE
+AC 13, touch 13, flat-footed 11 (+2 Dex, +1 size)
+hp 15 (2d8+6)
+Fort +6, Ref +2, Will +2
+Immune electricity, sonic, plant traits
+OFFENSE
+Speed 20 ft.
+Melee bite +2 (1d6), 2 claws +2 (1d3)
+Ranged puffball +4 (1 plus spores)
+Special Attacks spores
+Spell-Like Abilities (CL 4th; concentration +6)
+Constant—pass without trace
+STATISTICS
+Str 10, Dex 15, Con 16, Int 7, Wis 14, Cha 15
+Base Atk +1; CMB +0; CMD 12
+Feats Blind-Fight
+Skills Stealth +10 (+14 in swamps and underground), Survival +3 (+7 in swamps and underground); Racial Modifiers +4 Stealth and Survival in swamps and underground
+Languages Druidic, Sylvan; plantspeech (fungi)
+SQ change shape (Small fungus; tree shape), verdant burst
+SPECIAL ABILITIES
+Puffball (Ex) A fungus leshy can spit a puffball as a standard action. If it hits, this attack deals 1 point of damage (this damage is not modified by Strength) and affects the target struck (but not adjacent targets) with the fungus leshy’s spores. The puffball has a range increment of 20 feet.
+Spores (Ex) A fungus leshy is riddled with molds and spores. Anytime a fungus leshy takes damage, a cloud of spores bursts from its body, forcing all adjacent creatures to make a DC 14 Fortitude save or have their vision reduced to 10 feet for 1 minute. Spending a full-round action to wash one’s eyes with water ends this effect. The save DC is Constitution-based.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/udaeus
+Udaeus CR 4/MR 1
+XP 1,200
+N Medium humanoid (Mythic, udaeus)
+Init +1; Senses low-light vision; Perception +5
+DEFENSE
+AC 22, touch 11, flat-footed 21 (+7 armor, +1 Dex, +1 natural, +3 shield)
+hp 38 (4d8+20); fast healing 1
+Fort +7, Ref +2, Will +2; Resist fire 30 (see energy resistance below)
+OFFENSE
+Speed 20 ft.
+Melee +1 shortspear +9 (1d6+6)
+Ranged mwk javelin +5 (1d6+3)
+Special Attacks infuse arms and armor, Mythic Power (1/day, Surge +1d6)
+Spell-Like Abilities (CL 4th; concentration +3)
+1/day—barkskin, true strike
+STATISTICS
+Str 17, Dex 13, Con 16, Int 10, Wis 12, Cha 9
+Base Atk +3; CMB +6; CMD 17
+Feats EnduranceB, Weapon FocusM (shortspear), Weapon Specialization (shortspear)
+Skills Intimidate +3, Perception +5
+Languages Celestial, Common
+SQ armor and weapon training, fighter training
+SPECIAL ABILITIES
+Armor and Weapon Training (Ex) Udaeoi are proficient with simple weapons, martial weapons, light armor, medium armor, heavy armor, and shields (including tower shields).
+Energy Resistance (Ex) An udaeus has resistance 30 against one type of energy. By performing a ritual that takes one day, an udaeus can change its energy resistance to a different energy type (either acid, cold, electricity, or fire). Most udaeoi choose fire resistance unless they expect to fight a creature using a specific energy type.
+Fighter Training (Ex) An udaeus counts its racial Hit Dice as fighter levels for the purpose of qualifying for feats. If it has levels in fighter, these HIt Dice stack.
+Infuse Arms and Armor (Ex) Any improvised weapon an udaeus wields is treated as a comparable normal weapon. Any normal weapon an udaeus wields is treated as a masterwork weapon. Any masterwork weapon it wields is treated as a weapon with a magical +1 enhancement bonus. Any weapon with a magical enhancement bonus it wields is treated as though its enhancement bonus were 1 higher than its actual value (to a maximum of +6). This ability also applies to armor and shields (normal is treated as masterwork, masterwork is treated as +1, and +1 or higher is treated as 1 higher than actual).

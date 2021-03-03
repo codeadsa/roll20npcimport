@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/abyssal-larva-tohc
+Abyssal Larva CR 1
+XP 400
+CE Medium outsider (chaotic, evil, extraplanar)
+Init +0; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 14, touch 10, flat-footed 14 (+4 natural)
+hp 8 (1d10+3)
+Fort +2; Ref +2; Will +0
+Immune mind-affecting effects; Resist acid 5, cold 5, fire 5
+OFFENSE
+Speed 20 ft.
+Melee bite +1 (1d4 plus 1d4 acid)
+Ranged maggot spray +1 (sickened)
+Special Attacks acid, maggot spray
+STATISTICS
+Str 10, Dex 10, Con 11, Int 3, Wis 10, Cha 7
+Base Atk +1; CMB +1; CMD 11 (can’t be tripped)
+Feats Toughness
+Skills Perception +4, Stealth +4
+SQ tortured mind
+SPECIAL ABILITIES
+Acid (Ex) Abyssal larvae use digestive juices to break down their foods. This acid often remains in their mouths and is transferred to a victim bitten by a larva. Any melee bite attack deals acid damage.
+Maggot Spray (Ex) Once per day, an abyssal larva can regurgitate and fire a stream of maggots at a single opponent within 10 feet. This requires the abyssal larva to succeed on a ranged touch attack. If the attack succeeds, the opponent is sickened for 1d2 rounds. A successful DC 10 Reflex save reduces the sickened condition to 1 round. The save DC is Strength-based.
+Tortured Mind (Ex) The mind of an abyssal larva is a warped and tangled mass of chaos. As a result, abyssal larvae are immune to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects). A creature attempting to contact an abyssal larva with a mind-affecting spell or effect (including psionics) must succeed on a DC 14 Will save or be affected as by a confusion spell for 1 minute. The save DC is Constitution-based and includes a +4 racial bonus.

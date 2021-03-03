@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-red/young-red-dragon
+Young Red Dragon CR 10
+XP 9,600
+CE Large dragon (fire)
+Init +5; Senses dragon senses, smoke vision; Perception +15
+DEFENSE
+AC 22, touch 10, flat-footed 21 (+1 Dex, +12 natural, –1 size)
+hp 115 (11d12+44)
+Fort +11, Ref +8, Will +10
+Immune fire, paralysis, sleep
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +17 (2d6+10), 2 claws +17 (1d8+7), 2 wings +12 (1d6+3), tail slap +12 (1d8+10)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (40-ft. cone, DC 19, 6d10 fire)
+Spell-Like Abilities (CL 11th)
+At will—detect magic
+Spells Known (CL 1st)
+1st (3/day)—shield, true strike
+0 (at will)—mage hand, message, prestidigitation, read magic
+STATISTICS
+Str 25, Dex 12, Con 19, Int 12, Wis 13, Cha 12
+Base Atk +11; CMB +19; CMD 30 (34 vs. trip)
+Feats Cleave, Improved Initiative, Improved Vital Strike, Iron Will, Power Attack, Vital Strike
+Skills Appraise +15, Bluff +15, Fly +9, Intimidate +15, Perception +15, Sense Motive +15, Stealth +11
+Languages Common, Draconic

@@ -1,0 +1,40 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/mist-dragon-tohc/mist-dragon-ancient-tohc
+Ancient Mist Dragon CR 16
+XP 76,800
+N Gargantuan dragon (air, fire, water)
+Init +3; Senses dragon senses, mist vision; Perception +38; Aura frightful presence (300 ft., DC 29)
+DEFENSE
+AC 37, touch 5, flat-footed 37 (–1 Dex, +32 natural, –4 size)
+hp 324 (24d12+168)
+Fort +23; Ref +15; Will +23
+Immune fire, paralysis, sleep; DR 10/magic; SR 27
+Weakness vulnerability to cold
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy), swim 20 ft.
+Melee bite +32 (4d6+18 plus 4d6 fire), 2 claws +32 (2d8+12), 2 wings +30 (2d6+6), tail slap +30 (2d8+18)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks boiling bite, breath weapon (cone, Fort DC 29, 10d6 fire plus blindness), crush, tail sweep
+Spell-like Abilities (CL 24th):
+At-will—create water, fog cloud, solid fog, control winds, wind wall
+Sorcerer Spells Known (CL 14th)
+7th (4/day)—control weather
+6th (6/day)—antimagic field, globe of invulnerability
+5th (7/day)—ice storm, teleport, true seeing
+4th (7/day)—divination, lesser globe of invulnerability, rainbow pattern (DC 21), stoneskin
+3rd (8/day)—dispel magic, displacement, protection from energy, speak with dead (DC 20)
+2nd (8/day)—comprehend languages, daze monster (DC 19), detect thoughts (DC 19), protection from arrows, see invisibility
+1st (8/day)—burning hands (DC 18), magic missile, mage armor, obscuring mist, shield
+0th (at will)—acid splash, dancing lights, detect magic, flare (DC 17), ghost sound (DC 17), mage hand, message, resistance, touch of fatigue (DC 17)
+STATISTICS
+Str 35, Dex 8, Con 25, Int 24, Wis 25, Cha 24
+Base Atk +24; CMB +40; CMD 49 (53 vs. trip)
+Feats Alertness, Combat Expertise, Flyby Attack, Great Fortitude, Hover, Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Power Attack, Vital Strike, Wingover
+Skills Bluff +34, Diplomacy +34, Fly +12, Intimidate +34, Knowledge (arcana) +34, Knowledge (history) +34, Knowledge (nature) +34, Knowledge (religion) +34, Perception +38, Sense Motive +38, Spellcraft +34, Swim +47, Use Magic Device +34
+Languages Auran, Aquan, Celestial, Common, Draconic, Elf, Gnome, Ignan, Sylvan
+SQ mist form, water breathing
+SPECIAL ABILITIES
+Boiling Bite (Su) At old age, a mist dragon’s bite deals an additional 2d6 points of fire damage. An ancient dragon’s damage increases to 4d6, and a great wrym’s to 6d6.
+Breath Weapon (Su) A mist dragon’s breath weapon is a cone of cloudy scalding vapor. In still air, the vapor lingers for 1d4 rounds and forms a cloud that covers a radius equal to the cone’s length; on the second round, the vapor condenses into a heated smothering fog that deals 1d6 points of fire damage to creatures each round they remain in the area (Fortitude save halves this damage). The fog also blinds creatures (as the blindness spell) that fail the save as long as they remain within in the cloud and for 2 rounds after they leave the area.
+Mist Form (Su) As a standard action, a juvenile or older mist dragon can assume gaseous form, but it can remain gaseous indefinitely and has a fly speed of 20 feet with perfect maneuverability. A great wyrm mist dragon’s abilities while in mist form improve drastically. As a standard action a great wyrm mist dragon in mist form can make a single melee attack of its choice at its highest attack bonus. This attack deals normal damage. As a full-round action, a great wyrm mist dragon in mist form can attack with its breath weapon.
+Mist Vision (Ex) A very young mist dragon can see perfectly in foggy conditions (such as those created by fog cloud or obscuring mist).
+Water Breathing (Ex) A very young or older mist dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.

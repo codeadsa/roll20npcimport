@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/archon-legion
+Legion Archon CR 7
+XP 3,200
+LG Medium outsider (archon, extraplanar, good, lawful)
+Init +1; Senses darkvision 60 ft. detect evil, low-light vision; Perception +13
+Aura aura of menace (DC 17)
+DEFENSE
+AC 23, touch 11, flat-footed 22 (+9 armor, +1 Dex, +3 natural; +2 deflection vs. evil)
+hp 76 (8d10+32)
+Fort +10, Ref +3, Will +8; +4 vs. poison, +2 vs. evil
+DR 10/evil; Immune electricity, petrification; SR 18
+OFFENSE
+Speed 40 ft., fly 90 ft. (average)
+Melee +1 flaming burst greatsword +13/+8 (2d6+5/17-20 plus 1d6 fire)
+Ranged +1 flaming javelin +10 (1d6+4 plus 1d6 fire)
+Special Attacks flames of faith
+Spell-Like Abilities (CL 8th; concentration +11)
+Constant—detect evil, magic circle against evil
+At will—aid, continual flame, greater teleport (self plus 50 lbs. of objects only), message
+3/day—align weapon, mirror image, versatile weapon
+STATISTICS
+Str 16, Dex 12, Con 19, Int 10, Wis 15, Cha 17
+Base Atk +8; CMB +11; CMD 22
+Feats Improved Bull Rush, Improved Critical (greatsword)B, Power Attack, Vital Strike, Weapon Focus (greatsword), Whirlwind AttackB
+Skills Diplomacy +14, Fly +12, Intimidate +14, Knowledge (religion) +11, Perception +13, Sense Motive +9, Survival +9
+Languages Celestial, Draconic, Infernal; truespeech
+SQ second skin
+SPECIAL ABILITIES
+Flames of Faith (Ex) A legion archon can manifest a +1 flaming burst greatsword or +1 flaming javelin as a move-equivalent action. The legion archon’s sword vanishes if it leaves its hand, and its javelin vanishes after striking or missing its target.
+Second Skin (Ex) A legion archon is proficient in all forms of armor. It takes no reduction to its speed or any armor check penalties from wearing any sort of armor. Most legion archons wear full plate armor. Where shield archons are the bulwarks of the armies of Heaven, legion archons are the swords, sent in file after file to match evil’s boundless hordes.

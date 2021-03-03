@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/caulborn/caulborn-thoughtkeeper
+Caulborn Thoughtkeeper CR 9
+XP 6,400
+N Medium outsider (extraplanar)
+Init +9; Senses blindsense 60 ft., darkvision 60 ft., thoughtsense 60 ft.; Perception +20
+DEFENSE
+AC 22, touch 21, flat-footed 17 (+6 deflection, +5 Dex, +1 natural)
+hp 115 (9d10+44)
+Fort +7, Ref +8, Will +15; +4 vs. psychic spells
+Defensive Abilities psychic deflection, psychic resilience; Immune visual effects
+OFFENSE
+Speed 30 ft.
+Melee bite +17 (2d6+5), 2 claws +16 (1d6+5)
+Special Attacks consume thoughts (DC 21)
+Spell-Like Abilities (CL 9th; concentration +15)
+Constant—detect magic, detect thoughts (DC 18), read magic
+3/day—charm monster (DC 19), daze monster (DC 17), hold monster (DC 20), hypnotic pattern (DC 18), vampiric touch
+1/week—plane shift (willing targets only)
+Psychic Magic (CL 9th; concentration +15)
+10 PE—burst of insight (1 PE), emotive block (3 PE, DC 19), greater oneiric horror (4 PE, DC 20), mind thrust III (3 PE, DC 19), mindscape door (3 PE, DC 19), mindwipe (4 PE, DC 20), telekinetic maneuver (3 PE)
+STATISTICS
+Str 20, Dex 21, Con 18, Int 31, Wis 22, Cha 23
+Base Atk +11; CMB +16; CMD 37
+Feats Combat Casting, Combat Expertise, Combat Reflexes, Improved Initiative, Iron Will, Weapon Focus (bite)
+Skills Acrobatics +15, Appraise +20, Bluff +20, Intimidate +19, Knowledge (all) +20, Perception +20, Sense Motive +20, Stealth +16, Use Magic Device +14
+Languages Abyssal, Aklo, Aquan, Celestial, Common, Draconic, Giant, Infernal, Sylvan, Terran, Undercommon; telepathy 100 ft.
+SQ caulborn traits, cooperative scrying, hive mind
+SPECIAL ABILITIES
+Consume Thoughts (Ex) A caulborn can consume the thoughts of a willing, helpless, or fascinated creature with a touch attack. If the target fails a DC 18 Will save, the caulborn can alter the victim’s memory as if using modify memory. This process deals 1d4 points of Intelligence and Wisdom damage to the target. The save DC is Charisma-based.
+Cooperative Scrying (Sp) Three or more caulborn joining hands can scry on a place or creature as if using the scrying spell (DC 20), but with no limit to the spell’s duration so long as at least three of the caulborn involved continue to join hands and concentrate. This ability functions at CL 7th (or at the highest CL available to the most powerful caulborn in the group). The save DC is Charisma-based, adjusted by the modifier of the caulborn with the highest Charisma score.
+If all caulborn participating in a cooperative scrying are thoughtkeepers, the save DC increases by 2.
+Hive Mind (Ex) As long as there are at least two caulborn within 300 feet of each other, if one caulborn in the group is aware of a particular danger, they all are. No caulborn in a group is considered flanked or flat-footed unless all of them are.
+Psychic Deflection (Su) A caulborn adds its Charisma modifier as a deflection bonus to its AC. The caulborn loses this bonus when unconscious.
+Thoughtsense (Su) A caulborn notices and locates living, conscious creatures within 60 feet, just as if it possessed the blindsight ability. Spells such as nondetection or mind blank make an affected creature undetectable by this sense.

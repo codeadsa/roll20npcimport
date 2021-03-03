@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/animate-dream
+Animate Dream CR 8
+XP 4,800
+NE Medium outsider (extraplanar, incorporeal)
+Init +4; Senses darkvision 60 ft.; Perception +17
+DEFENSE
+AC 20, touch 20, flat-footed 15 (+5 deflection, +4 Dex, +1 dodge)
+hp 90 (12d10+24)
+Fort +10, Ref +8, Will +12
+Defensive Abilities incorporeal; SR 19
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee incorporeal touch +16 (6d8 negative energy plus nightmare curse)
+Spell-Like Abilities (CL 12th; concentration +17)
+3/day—deep slumber (DC 18), dimension door, nightmare (DC 20)
+1/day—confusion (DC 19), fear (DC 19), phantasmal killer (DC 19)
+STATISTICS
+Str —, Dex 18, Con 15, Int 10, Wis 15, Cha 21
+Base Atk +12; CMB +16; CMD 32
+Feats Blind-Fight, Combat Casting, Dodge, Flyby Attack, Iron Will, Mobility
+Skills Bluff +20, Fly +12, Intimidate +20, Knowledge (planes) +15, Perception +17, Sense Motive +17, Stealth +19
+Languages telepathy 100 ft.
+SPECIAL ABILITIES
+Nightmare Curse (Ex) An animate dream’s touch puts horrifying visions in the target’s mind.
+Curse—incorporeal touch; save Will DC 21; frequency 1/day; effect 1d4 Wisdom drain and target is fatigued; cure 3 consecutive saves or dispel evil, dream, or remove curse.

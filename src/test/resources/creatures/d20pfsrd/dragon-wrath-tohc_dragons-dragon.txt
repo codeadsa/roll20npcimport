@@ -1,0 +1,42 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/dragon-wrath-tohc
+Wrath Dragon (Draco Sanctus Benevolentia) CR 20
+XP 307,200
+NG* Huge dragon (extraplanar, good)
+*Wrath dragons can also be lawful good or chaotic good, gaining the lawful or chaotic subtypes respectively
+Init +6; Senses dragon senses, scent; Perception +37; Aura magic circle against evil (10 ft. radius)
+DEFENSE
+AC 30, touch 10, flat-footed 28 (+2 Dex, +20 natural, –2 size)
+hp 465 (30d12+270)
+Fort +26; Ref +19; Will +23
+DR 15/evil; Immune fire, poison, paralysis, sleep; SR 29
+OFFENSE
+Speed 50 ft., fly 200 ft. (poor)
+Melee bite +37 (2d8+15), 2 claws +37 (2d6+10), 2 wings +34 (1d8+5), tail slap +34 (2d6+15)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50 ft. cone, DC 34, 20d6 fire), channel positive energy 8/day (8d6, DC 22), crush, holy lance 2/day (7 rounds), might of the gods +15 (15 rounds/day)
+Spell-like Abilities (CL 8th):
+
+1/day—summon devas (level 9, 1d2 astral devas, or 1d4 movanic or monadic devas, 100% chance)
+Domain Spell-Like Abilities (CL 15th)
+
+7/day—touch of good (+7 bonus), strength surge (+7 bonus)
+Cleric Spells Prepared (CL 15th)
+8th—antimagic field, clenched fistD
+7th—destruction (DC 21), holy wordD (DC 21), repulsion (DC 21)
+6th—banishment (DC 20), blade barrier (DC 20), heal, stoneskinD
+5th—atonement, break enchantment, dispel evilD (DC 19), greater command (DC 19), plane shift (DC 19)
+4th—death ward, dimensional anchor, discern lies (DC 18), dismissal (DC 18), divine power, holy smiteD (DC 18)
+3rd—blindness/deafness (DC 17), invisibility purge, magic vestmentD, remove curse, remove disease, searing light
+2nd—aidD, align weapon, augury, consecrate, enthrall (DC 16), silence (DC 16)
+1st—bless, command (DC 15), divine favor, enlarge personD (DC 15), remove fear, sanctuary (DC 15)
+0th—detect magic, guidance, resistance, virtue
+D – Domain spell; Domains Good, Strength
+STATISTICS
+Str 31, Dex 14, Con 28, Int 16, Wis 18, Cha 20
+Base Atk +30; CMB +44; CMD 56 (60 vs. trip)
+Feats Alignment Channel, Blind-Fight, Cleave, Combat Reflexes, Flyby Attack, Great Cleave, Hover, Improved Initiative, Iron Will, Multiattack, Power Attack, Snatch, Weapon Focus (bite) , Weapon Focus (claw), Turn Undead
+Skills Diplomacy +38, Fly +27, Heal +37, Intimidate +38, Knowledge (religion) +36, Knowledge (planes) +36, Perception +37, Sense Motive +37, Use Magic Device +38
+Languages Celestial, Common, Draconic, Giant, Terran
+SPECIAL ABILITIES
+Breath Weapon (Su) A wrath dragon’s breath weapon is a 50 ft. cone of holy fire. One-half of the damage is from divine force and is not subject to fire resistance or fire immunity.
+Divine Power (Su) A wrath dragon casts spells and channels positive energy as a good-aligned cleric. Its caster level is equal to half its Hit Dice. It has access to the Good and Strength domains and gains the domain power of each domain.

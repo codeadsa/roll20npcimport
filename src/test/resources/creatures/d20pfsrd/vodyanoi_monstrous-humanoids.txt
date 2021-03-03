@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/vodyanoi
+Vodyanoi CR 5
+XP 1,600
+CN Medium monstrous humanoid (aquatic)
+Init +8; Senses darkvision 60 ft.; Perception +14
+DEFENSE
+AC 19, touch 15, flat-footed 14 (+4 Dex, +1 dodge, +4 natural)
+hp 51 (6d10+18)
+Fort +5, Ref +9, Will +10
+OFFENSE
+Speed 30 ft., swim 50 ft.
+Melee shortspear +9/+4 (1d6+3), bite +2 (1d8+1)
+Special Attacks suffocating water
+Spell-Like Abilities (CL 6th; concentration +7)
+3/day control water, dancing lights, grease (DC 12), hydraulic push (DC 12), water breathing
+1/day aqueous orb (DC 14), remove disease, neutralize poison
+STATISTICS
+Str 16, Dex 19, Con 17, Int 13, Wis 20, Cha 12
+Base Atk +6; CMB +9; CMD 24
+Feats Dodge, Improved Initiative, Skill Focus (Heal)
+Skills Diplomacy +3, Heal +18, Knowledge (arcana) +3, Knowledge (nature) +5, Perception +14, Sense Motive +11, Swim +18; Racial Modifiers +4 Heal
+Languages Aquan, Common, Sylvan
+SQ amphibious
+SPECIAL ABILITIES
+Suffocating Water (Su) Once per day as a standard action, a vodyanoi can cause the water surrounding it up to a radius of 30 feet to grow thick and slimy, making it difficult for water-breathing creatures within the area other than vodyanois to breathe. A vodyanoi can control narrow currents of breathable water to provide oxygen to up to 3 other creatures in the area of effect. Vodyanois themselves are immune to this effect. All other creatures in an area of suffocating water must hold their breath or risk suffocation. Once created, an area of suffocating water does not move, it persists for a number of minutes equal to the vodyanoi’s Hit Dice. The slimy water does not impact swim speeds or visibility in any significant manner. A creature can make a DC 20 Perception check to notice the difference between suffocating water and any normal water that may surround it.

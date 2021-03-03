@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/agathion/agathion-cetaceal
+Cetaceal CR 15
+XP 51,200
+NG Medium outsider (agathion, aquatic, extraplanar, good)
+Init +8; Senses blindsense 60 ft., darkvision 60 ft., low-light vision; Perception +28; Aura protective aura (20 ft.)
+DEFENSE
+AC 30, touch 15, flat-footed 25 (+4 Dex, +1 dodge, +15 natural) (+4 deflection vs. evil)
+hp 212 (17d10+119); regeneration 5 (evil weapons and spells)
+Fort +17, Ref +16, Will +9; +4 vs. poison, +4 resistance vs. evil
+DR 10/evil and silver; Immune cold, electricity, petrification; Resist sonic 10; SR 26
+OFFENSE
+Speed 10 ft., swim 80 ft.
+Melee +1 shocking burst shortspear +28/+23/+18/+13 (1d6+14 plus 1d6 electricity), tail slap +22 (1d6+4 plus push and stun)
+Special Attacks shockwave, push (tail slap, 10 ft.)
+Spell-Like Abilities (CL 15th; concentration +18)
+Constant—speak with animals
+At will—detect thoughts (DC 15), light, lightning bolt (DC 16), hold monster (DC 18), message, greater teleport (self plus 50 lbs. of objects only)
+7/day—break enchantment, cure serious wounds, neutralize poison, remove disease
+3/day—cone of cold (DC 18), cure critical wounds, greater restoration, heal
+1/day—awaken, summon monster VIII (water elementals only)
+STATISTICS
+Str 29, Dex 19, Con 24, Int 14, Wis 18, Cha 17
+Base Atk +17; CMB +26; CMD 41 (can’t be tripped)
+Feats Combat Casting, Dodge, Improved Initiative, Lightning Reflexes, Mobility, Spell Penetration, Weapon Focus (shortspear, tail slap), Wind Stance
+Skills Diplomacy +12, Handle Animal +14, Heal +21, Knowledge (arcana) +22, Knowledge (nature) +19, Knowledge (planes) +22, Perception +28, Sense Motive +24, Stealth +24, Swim +17; Racial Modifiers +4 Perception
+Languages Celestial, Draconic, Infernal; speak with animals, truespeech
+SQ amphibious, lay on hands (8d6, 11/day, as a 17th-level paladin)
+SPECIAL ABILITIES
+Protective Aura (Su) Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the cetaceal. Otherwise, it functions as a magic circle against evil effect and a lesser globe of invulnerability, both with a radius of 20 feet (caster level equals cetaceal’s HD). The defensive benefits from the circle are not included in the above stat block.
+Shockwave (Su) Once per day, a cetaceal can release a 100-foot radius burst of energy. All creatures in the area take 17d6 damage; half of this damage is cold, and half is electricity (DC 25 Reflex save halves). The save DC is Constitution-based.
+Stun (Ex) Any creature moved by a cetaceal’s push attack must make a DC 25 Fortitude saving throw or be stunned for 1 round. The DC is Constitution-based.

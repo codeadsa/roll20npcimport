@@ -1,0 +1,32 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/ifrit
+Ifrit CR 1/2
+XP 200
+Ifrit sorcerer 1
+N Medium outsider (native)
+Init +3; Senses darkvision 60 ft.; Perception –2
+DEFENSE
+AC 13, touch 13, flat-footed 10 (+3 Dex)
+hp 8 (1d6+2)
+Fort +1, Ref +3, Will +0
+Resist fire 5
+OFFENSE
+Speed 30 ft.
+Melee scimitar +0 (1d8/18-20)
+Bloodline Spell-Like Abilities (CL 1st; concentration +4)
+6*/day—elemental ray (1d6 fire)
+Bloodline Elemental (fire)
+Ifrit Spell-Like Abilities (CL 1st; concentration +4)
+1/day—burning hands (DC 15)
+Sorcerer Spells Known (CL 1st; concentration +4)
+1st (4/day)—mage armor, magic missile
+0th (at will)—acid splash, detect magic, flare (DC 14), prestidigitation
+STATISTICS
+Str 10, Dex 16, Con 12, Int 13, Wis 6, Cha 17
+Base Atk +0; CMB +0; CMD 13
+Feats Eschew MaterialsB, Martial Weapon Proficiency (scimitar)
+Skills Bluff +7, Knowledge (arcana) +5, Spellcraft +5
+Languages Common, Gnome, Ignan
+SQ bloodline arcana, fire affinity
+SPECIAL ABILITIES
+Fire Affinity (Ex) Ifrit sorcerers with the elemental (fire) bloodline treat their Charisma score as 2 points higher for all sorcerer spells and class abilities. Ifrit spellcasters with the Fire domain use their domain powers and spells at +1 caster level.
+Image used by permission of Purple Duck Games.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-imperial-sky/sky-dragon-very-young-tohc
+Very Young Sky Dragon CR 7
+XP 3,200
+LG Medium dragon (air)
+Init +1; Senses cloud sight, dragon senses; Perception +17
+DEFENSE
+AC 20, touch 11, flat-footed 19 (Dex +1, natural +9)
+hp 68 (8d12+16)
+Fort +8, Ref +9, Will +9
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., fly 150 ft. (good)
+Melee bite +11 (1d8+4), 2 claws +11 (1d6+3), gore +11 (1d6+4)
+Special Attacks breath weapon (30 ft. cone, 4d8 electricity, DC 16)
+STATISTICS
+Str 17, Dex 12, Con 15, Int 16, Wis 17, Cha 16
+Base Atk +8; CMB +11; CMD 22 (26 vs. trip)
+Feats Flyby Attack, Hover, Lightning Reflexes, Skill Focus (Perception)
+Skills Diplomacy +14, Fly +16, Heal +14, Knowledge (arcana, religion) +14, Perception +17, Perform (sing) +11, Sense Motive +14, Spellcraft +14
+Languages Auran, Celestial, Common, Draconic
+SQ borne aloft
+SPECIAL ABILITIES
+Borne Aloft (Su) Old or younger sky dragons fly with good maneuverability while all older sky dragons have perfect.
+Cloud Sight (Su) A very young or older sky dragon’s sight is not impeded by clouds or fog, or by spells that create areas of fog.
+Built by:
+gordon the whale

@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/magnesium-spirit
+Magnesium Spirit CR 5
+XP 1,600
+LE Medium outsider (evil, extraplanar, incorporeal, lawful)
+Init +6; Perception +11
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 deflection)
+hp 45 (6d10+18)
+Fort +8, Ref +5, Will +7
+Immune incorporeal; SR 18
+Weaknesses vulnerability to holy water
+OFFENSE
+Speed 50 ft.
+Melee incorporeal tail slap +8 (1d6 plus 1d6 Str damage)
+Special Attacks blinding flash*, energy drain, soul portal
+STATISTICS
+Str –, Dex 15, Con 17, Int 12, Wis 15, Cha 15
+Base Atk +6; CMB +8; CMD 20 (can’t be tripped)
+Feats Ability Focus (soul portal), Blind-Fight, Improved Initiative
+Skills Bluff +11, Intimidate +8, Knowledge (planes) +10, Perception +11, Sense Motive +11, Stealth +11, Survival +8
+SPECIAL ABILITIES
+Energy Drain (Su) A magnesium spirit possessing a host deals 1 negative level to it each round if the host fails a DC 16 Will save. A magnesium spirit gains 5 temporary hit points for each negative level bestowed. The save DC is Constitution-based.
+Negative levels remain for 24 hours, after which time the host can attempt a DC 16 Fortitude save to remove a negative level.
+Soul Portal (Su) This ability is similar to a magic jar spell (caster level 8th), except that it does not require a receptacle. To use this ability, the magnesium spirit must try move into the target’s space; moving into the target’s space to use this ability does not provoke attacks of opportunity. The target can resist the attack with a successful DC 17 Will save. If the save fails, the magnesium spirit vanishes into the target’s body. The save DC is Charisma-based and includes a +2 bonus from the creature’s Ability Focus feat.
+A magnesium spirit that has possessed an opponent’s body deals a negative level to the host each round (see its energy drain attack above). When the host drops below 1st level, both it and the magnesium spirit vanish in a flash of white light as the spirit completes the ritual needed to return it to its plane of origin. Neither is ever seen again.
+Each round, as a standard action, while the magnesium spirit inhabits its body, the host can attempt to eject the creature by making an opposed Wisdom check against the magnesium spirit’s Wisdom check. If successful, the magnesium spirit is ejected and cannot use its soul portal ability against that creature again for 1 hour.
+A magnesium spirit can be damaged by holy water even while merged with its host. Holy water deals 2d4 points of damage per vial to the creature. If it takes half or more of its current hit points in damage from holy water, it is ejected from the host’s body. The host is stunned for 1d3 rounds.
+Strength Damage (Su) A magnesium spirit’s incorporeal tail slap deals 1d6 points of Strength damage to a living foe. When a foe has taken a total of Strength damage equal to one-half its original Strength total, the magnesium spirit can use its soul portal attack against that opponent.
+Vulnerability to Holy Water (Ex) A magnesium spirit takes 2d4 points of damage from holy water (even while merged with a host).
+Editor’s Note
+This creature seems to be missing the description of its “Blinding Flash” ability. You can find an unofficial version of the ability below adapted from another creature. Blinding Flash (Su) Once every 1d4 rounds, a magnesium spirit can release a burst of pure energy in a 10-foot radius. Creatures viewing this burst must succeed on a DC 16 Fortitude save or be blinded for 1d10 rounds. The save DC is Constitution-based.

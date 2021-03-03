@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/sentinel-marble
+Marble Sentinel CR 4
+XP 1,200
+N Small construct
+Init +7; Senses darkvision 60 ft., low-light vision; Perception +6
+DEFENSE
+AC 20, touch 14, flat-footed 17 (+3 Dex, +6 natural, +1 size)
+hp 43 (6d10+10)
+Fort +2, Ref +5, Will +2
+Immune acid, construct traits, magic
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee 2 claws +12 (1d4+5)
+Ranged paralyzing bolt +10 (paralysis)
+Spell-Like Abilities (CL 2nd; concentration –1)
+Constant— detect magic STATISTICS
+Str 20, Dex 16, Con —, Int 1, Wis 11, Cha 5
+Base Atk +6; CMB +10; CMD 23 (31 vs. trip)
+Feats Ability Focus (paralyzing bolt), Improved Initiative, Skill Focus (Perception)
+Skills Climb +13, Perception +6, Stealth +10
+Languages 1 language (can’t speak)
+SQ alert, freeze
+SPECIAL ABILITIES
+Alert (Su) A marble sentinel can take simple orders and identify intruders, and it possesses the ability to alert its creator or another creature to which it’s keyed. When a marble sentinel detects a trespasser, it can choose to alert the creature to which it’s keyed in one of two ways. The sentinel can create a loud sound like that of a bell, chime, or gong that can be clearly heard at a range of 500 feet. Alternatively, a marble sentinel can send a mental alert to the creature to which it is keyed as long as that creature is within 1 mile of the sentinel. The mental alert wakes the keyed creature from sleep, but doesn’t affect normal concentration. A marble sentinel’s creator is the first creature to which it is keyed, and the creator can pass its link to another creature as part of a 4-hour ritual that uses materials costing 500 gp.
+Immunity to Magic (Ex) A marble sentinel is immune to spells or spell-like abilities that allow spell resistance, save for spells with the force descriptor.
+Paralyzing Bolt (Su) As a standard action, a marble sentinel can fire a green-hued bolt of energy as a ranged touch attack out to a maximum range of 30 feet. A creature struck by this ray must succeed at a DC 12 Fortitude save or be paralyzed for 1d6 rounds. The save DC is Charisma-based.

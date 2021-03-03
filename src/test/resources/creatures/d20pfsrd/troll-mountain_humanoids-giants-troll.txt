@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/troll-mountain
+Troll, Mountain CR 14
+XP 38,400
+CN Huge humanoid (giant)
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +15
+DEFENSE
+AC 29, touch 9, flat-footed 28 (+1 Dex, +20 natural, –2 size)
+hp 207 (18d8+126); regeneration 10 (acid or fire)
+Fort +18, Ref +7, Will +15
+Defensive Abilities rock catching, stubborn
+Weaknesses vulnerable to sonic
+OFFENSE
+Speed 40 ft., burrow 10 ft., climb 40 ft.
+Melee bite +24 (2d10+13), 2 claws +24 (2d6+13)
+Ranged rock +13/+8/+3 (2d8+19)
+Space 15 ft.; Reach 15 ft.
+Special Attacks rend (2 claws, 2d6+13), rock throwing (120 ft.)
+Spell-Like Abilities (CL 14th; concentration +13)
+At will—stone shape
+3/day—spike stones (DC 13), stone tell
+1/day—earthquake (DC 17), flesh to stone (DC 15), summon monster VIII (earth elemental only)
+STATISTICS
+Str 36, Dex 13, Con 25, Int 7, Wis 16, Cha 8
+Base Atk +13; CMB +28; CMD 39
+Feats Awesome Blow, Deadly Aim, Improved Bull Rush, Improved Iron Will, Improved Vital Strike, Iron Will, Power Attack, Quick Draw, Vital Strike
+Skills Climb +33, Perception +15
+Languages Giant
+SPECIAL ABILITIES
+Stubborn (Ex) A mountain troll gains a +4 racial bonus on all Will saving throws. In addition, if the troll fails a saving throw against a charm or compulsion effect, it can immediately attempt a second saving throw against the same effect on the next round to end the duration of the effect early.

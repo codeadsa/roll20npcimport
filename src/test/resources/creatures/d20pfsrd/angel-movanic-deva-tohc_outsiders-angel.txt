@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/angel/angel-movanic-deva-tohc
+Movanic Deva CR 10
+XP 9,600
+NG Medium outsider (angel, extraplanar, good)
+Init +8; Senses darkvision 60 ft., detect evil, low-light vision; Perception +19; Aura protective aura
+DEFENSE
+AC 26, touch 14, flat-footed 22 (+4 Dex, +12 natural; +4 deflection vs. evil)
+hp 76 (8d10+32)
+Fort +10, Ref +10, Will +8; +4 vs. poison, +4 resistance vs. evil
+Defensive Abilities nature’s passivism; DR 10/evil; Immune acid, cold, petrification, death effects; Resist electricity 10, fire 10; SR 21
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee +1 flaming greatsword +13/+8 (2d6+7 plus 1d6 fire)
+Spell-Like Abilities (CL 8th)
+
+Constant—detect evil
+At will—aid, discern lies (DC 18), dispel evil (DC 19), dispel magic, holy smite (DC 18), invisibility (self only), plane shift (DC 21), remove curse (DC 18), remove disease (DC 17), remove fear (DC 15)
+7/day—cure serious wounds
+1/day—antimagic field, holy aura (DC 22)
+STATISTICS
+Str 18, Dex 18, Con 18, Int 18, Wis 18, Cha 18
+Base Atk +8; CMB +12; CMD 26
+Feats Cleave, Improved Initiative, Iron Will, Power Attack
+Skills Diplomacy +15, Fly +19, Heal +15, Intimidate +12, Knowledge (planes) +15, Knowledge (religion) +12, Perception +19, Sense Motive +15, Stealth +15, Survival +15; Racial Modifiers +4 Perception
+Languages Celestial, Common, plus any three; truespeech
+Gear +1 flaming greatsword
+SPECIAL ABILITIES
+Nature’s Passivism (Ex) Animals and plant creatures do not willingly attack a movanic deva, though they can be forced to do so through magical means however. If the movanic deva attacks a plant or animal, its protection against that creature ends.

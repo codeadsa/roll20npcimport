@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/wolf-spider-tohc
+Wolf-Spider CR 4
+XP 1,200
+NE Large magical beast
+Init +7; Senses darkvision 60 ft., low-light vision, scent; Perception +11
+DEFENSE
+AC 15, touch 12, flat-footed 12 (+3 Dex, +3 natural, -1 size)
+hp 45 (6d10+12)
+Fort +7, Ref +8, Will +2
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +8 (1d8+3 plus poison plus trip)
+Space 10 ft.; Reach 5 ft.
+Special Attacks web (+9 ranged, DC 15, 6 hp)
+TACTICS
+Wolf-spiders are very territorial creatures and hunt their prey, kill it, and drag it back to their web lair.
+Wolf-spiders often attack from surprise, dropping from trees to ambush their foes.
+STATISTICS
+Str 15, Dex 17, Con 14, Int 8, Wis 10, Cha 2
+Base Atk +6; CMB +9; CMD 22 (34 vs. trip)
+Feats Alertness, Improved Initiative, Weapon Finesse
+Skills Acrobatics +3, Climb +10, Perception +11, Sense Motive +2, Stealth +8 (+16 in its webs), Survival +2 (+6 tracking by scent), ; Racial Modifiers +4 Perception, +4 Stealth, +4 Survival when tracking by scent
+Languages Common, Goblin
+SPECIAL ABILITIES
+Poison (Ex) Bite—Injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d4 Str; cure 2 consecutive saves. The save DC is Constitution-based.

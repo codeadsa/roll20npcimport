@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/psiwyrm
+Psiwyrm CR 12
+XP 19,200
+NE Large dragon (psionic)
+Init +7; Senses dragon senses, see in darkness; Perception +26; Aura frightful presence (180 ft. , DC 20)
+DEFENSE
+AC 27, touch 12, flat-footed 24 (+3 Dex, +15 natural, -1 size)
+hp 172 (15d12+75 )
+Fort +14, Ref +12, Will +15
+Defensive Abilities power resistance 23; DR 15/magic;
+Immune charm, paralysis, sleep; SR 23
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +22 (2d6+10), 2 claws +21 (1d8+7), 2 wings +19 (1d6+3), tail +19 (1d8+10)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, DC 22, 10d6 force)
+Psi-Like Abilities (ML 14th)
+At will—detect psionics, distract (DC 14), compelling voice (6 targets, DC 15*), read thoughts (DC 15)
+3/day—body adjustment (6d12*), brain lock (any non-mindless, DC 15*), mental barrier (+5 AC, 6 rounds*), mind trap (10 rounds*)
+1/day—mind thrust (14d10, DC 20*)
+*Includes augmentation for the psiwyrm’s manifester level.
+STATISTICS
+Str 24, Dex 17, Con 20, Int 15, Wis 18, Cha 17
+Base Atk +15; CMB +23; CMD 36 (40 vs. trip)
+Feats Alertness, Improved Initiative, Iron Will, Multiattack, Power Attack, Psionic Endowment, Speed of Thought, Weapon Focus (bite)
+Skills Diplomacy +21, Escape Artist +18, Fly +15, Intimidate +21, Knowledge (any one) +20, Perception +26, Sense Motive +26, Use Magic Device +21
+Languages Common, Draconic, Giant

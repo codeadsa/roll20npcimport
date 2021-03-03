@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/karkinoi
+Karkinoi CR 6
+XP 2,400
+CE Large monstrous humanoid (aquatic)
+Init +0; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 19, touch 9, flat-footed 19 (+10 natural, –1 size)
+hp 76 (8d10+32)
+Fort +6, Ref +6, Will +6
+OFFENSE
+Speed 30 ft., swim 40 ft.; sideways scuttle
+Melee claw +13 (1d10+9/19–20 plus grab), slam +13 (1d6+6)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict 1d10+6
+STATISTICS
+Str 22, Dex 10, Con 16, Int 6, Wis 10, Cha 7
+Base Atk +8; CMB +15 (+19 grapple); CMD 25
+Feats Combat Reflexes, Improved Critical (claw), Power Attack, Vital Strike
+Skills Intimidate +9, Perception +11, Swim +21
+Languages Aquan
+SQ water dependency
+SPECIAL ABILITIES
+Sideways Scuttle (Ex) When a karkinoi takes a 5-foot step, it can move up to 10 feet instead of 5 feet as long as it does so in a straight line. It can do this whether it is walking or swimming.
+Water Dependency (Ex) A karkinoi can survive out of the water for 1 hour per point of Constitution. Beyond this limit, it runs the risk of suffocation, as if it were drowning.

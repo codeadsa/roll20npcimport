@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/cockroach/cockroach-giant-hissing
+Giant Hissing Cockroach CR 1
+XP 400
+N Medium vermin
+Init +0; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +4
+DEFENSE
+AC 12, touch 10, flat-footed 12 (+2 natural)
+hp 19 (2d8+10)
+Fort +8, Ref +0, Will +0
+Weaknesses light sensitivity
+OFFENSE
+Speed 30 ft., climb 30 ft., fly 40 ft.
+Melee bite +3 (1d6+3)
+Special Attacks fighting hiss
+STATISTICS
+Str 15, Dex 10, Con 21, Int –, Wis 11, Cha 2
+Base Atk +1; CMB +3; CMD 13
+Feats DiehardB, EnduranceB
+Skills Climb +10, Fly -4, Perception +4, Stealth +4; Racial Modifiers +8 Climb, +4 Perception, +4 Stealth
+SQ hold breath
+SPECIAL ABILITIES
+Fighting Hiss (Ex) As a free action, a monstrous cockroach or cockroach swarm can make a loud hissing noise by forcing air through the breathing pores on its abdomen. This sound can be extremely disconcerting, and any creature within 20 feet with Hit Dice equal to or lower than the cockroach’s must make a DC 14 Will save or be shaken until outside the hiss’s area of effect. This is a sonic attack. The save DC is Constitution-based.

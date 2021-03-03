@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-baal-duke-of-hell-tohc
+Baal CR 22
+XP 615,000
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +11; Senses darkvision 60 ft., detect good, detect magic, see invisibility, see in darkness; Perception +37; Aura fear (20 ft., Will DC 29)
+DEFENSE
+AC 38, touch 19, flat-footed 36 (+9 armor, +2 Dex, +10 natural, +8 profane, –1 size)
+hp 333 (23d10+207); regeneration 10 (good, silver)
+Fort +16, Ref +20, Will +22
+DR 15/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 33
+OFFENSE
+Speed 30 ft. (40 ft. base)
+Melee +4 unholy morningstar +40/+35/+30/+25 (2d6+17/19–20)
+Space 10 ft.; Reach 10 ft. (20 ft. with morningstar)
+Spell-Like Abilities (CL 20th)
+Constant—comprehend languages, detect good, detect magic, see invisibility
+At will—animate dead, blasphemy (DC 25), charm monster (DC 22), disguise self, greater dispel magic, greater invisibility (DC 22), greater teleport (self plus 50 pounds of objects only), inflict serious wounds (DC 21), magic circle against good, produce flame, pyrotechnics (DC 20), suggestion (DC 21), tongues, unhallow (DC 23), unholy aura (DC 26), wall of fire, wind walk
+2/day—shapechange, summon (level 9, 4d10 lemures or nupperibos, 2d4 barbed devils, bearded devils, or gorgons, 1d4 erinyes, or 1 ghaddar devil, horned devil, or pit fiend 100%)
+1/day—fire storm (DC 26), symbol of stunning (DC 25)
+STATISTICS
+Str 37, Dex 25, Con 29, Int 25, Wis 25, Cha 27
+Base Atk +23; CMB +37; CMD 62
+Feats Alertness, Blind-Fight, Cleave, Great Cleave, Improved Critical (morningstar), Improved Initiative, Improved Sunder, Improved Vital Strike, Iron Will, Power Attack, Vital Strike, Weapon Focus (morningstar)
+Skills Bluff +34, Diplomacy +34, Disguise +34, Escape Artist +26, Fly +24, Intimidate +34, Knowledge (arcana) +30, Knowledge (planes) +33, Knowledge (religion) +33, Perception +37, Sense Motive +37, Stealth +25, Survival +30
+Languages Abyssal, Celestial, Common, Daemonic, Draconic, Goblin, Ignan, Infernal; telepathy 100 ft.
+Gear Sheol, +3 chainmail
+GEAR Unique Item: Sheol
+Baal’s unique weapon Sheol is a Large +4 unholy morningstar.
+As a free action, the handle of Sheol can extend 10 feet, thus increasing his reach. Sheol can likewise retract to its normal length as a free action.

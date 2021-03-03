@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/chon-chon
+Chon Chon CR 1/2
+XP 200
+CN Tiny aberration
+Init +2; Senses darkvision 60 ft.; Perception +6
+Aura jabber (15 ft., DC 11)
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 9 (2d8)
+Fort +0, Ref +4, Will +4
+OFFENSE
+Speed 10 ft., fly 60 ft. (good)
+Melee bite +1 (1d3–2)
+Ranged acid spit +5 (1d4 acid)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-Like Abilities (CL 3rd; concentration +4)
+Constant—detect magic
+STATISTICS
+Str 6, Dex 15, Con 10, Int 7, Wis 12, Cha 13
+Base Atk +1; CMB +1; CMD 9
+Feats Lightning Reflexes
+Skills Fly +15, Perception +6 (+10 to listen); Racial Modifiers Perception (+4 to listen)
+Languages Common
+SPECIAL ABILITIES
+Acid Spit (Ex) A chon chon can spit a disgusting blob of acid at a single foe, making a ranged attack with a range of 30 feet and no range increment. A successful attack deals 1d4 points of acid damage and forces the target to make a DC 11 Fortitude saving throw to avoid becoming nauseated for 1 round. The save DC is Constitution-based.
+Jabber (Su) A chon chon endlessly mutters half-remembered spells and meaningless arcane formulae to itself. This jabbering creates a kind of magical static that interferes with spells being cast nearby. Any creature attempting to cast a spell within 15 feet of a chon chon must make a successful DC 11 concentration check or lose the spell. This is a sonic, mind-affecting effect. The concentration DC is Charisma-based.

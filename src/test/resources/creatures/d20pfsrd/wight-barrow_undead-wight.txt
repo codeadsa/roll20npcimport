@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/wight/wight-barrow
+Barrow Wight CR 4
+XP 1,200
+CE Medium undead
+Init +1; Senses darkvision 60 ft.; Perception +12
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+1 Dex, +6 natural)
+hp 37 (5d8+10) plus 5
+Fort +4, Ref +2, Will +5
+Defensive Abilities channel resistance +2; Immune undead traits
+Weaknesses resurrection vulnerability
+OFFENSE
+Speed 30 ft.
+Melee slam +5 (1d4+3 plus energy drain)
+Special Attacks create spawn, energy drain (1 level, DC 14), insanity gaze
+TACTICS
+A barrow wight attempts to use its gaze attack on the closest creature to it when it is first encountered. Creatures not affected by its gaze are pummeled with its fists.
+STATISTICS
+Str 14, Dex 12, Con –, Int 11, Wis 13, Cha 15
+Base Atk +3; CMB +5; CMD 16
+Feats Blind-Fight, Skill Focus (Perception), Toughness
+Skills Intimidate +11, Knowledge (religion) +8, Perception +12, Stealth +17; Racial Modifiers +8 Stealth
+Languages Common
+SQ create spawn
+SPECIAL ABILITIES
+Create Spawn (Su) Any humanoid creature that is slain by a barrow wight becomes a barrow wight itself in only 1d4 rounds. Spawn so created are less powerful than typical barrow wights, and suffer a -2 penalty on all d20 rolls and checks, as well as -2 hp per HD. Spawn are under the command of the barrow wight that created them and remain enslaved until its death, at which point they lose their spawn penalties and become full-fledged and freewilled barrow wights. They do not possess any of the abilities they had in life.
+Insanity Gaze (Su) Anyone with 30 feet that meets a barrow wight’s gaze is affected as if by an insanity spell. A successful DC 14 Will save negates the effect and renders the target immune to the same barrow wight’s insanity gaze for 24 hours. The save DC is Charisma-based.
+Resurrection Vulnerability (Su) A raise dead spell cast on a barrow wight destroys it (Will negates). Using the spell in this way does not require a material component.

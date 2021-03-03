@@ -1,0 +1,46 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-geryon-arch-devil-tohc
+Geryon CR 29
+XP 6,560,000
+LE Huge outsider (devil, evil, extraplanar, lawful)
+Init +9; Senses darkvision 60 ft., detect good, detect magic, see invisibility, see in darkness; Perception +49
+DEFENSE
+AC 46, touch 29, flat-footed 41 (+5 Dex, +7 insight, +17 natural, +9 profane, –2 size)
+hp 612 (35d10+420); regeneration 10 (good, silver)
+Fort +25, Ref +24, Will +28
+DR 20/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 40
+OFFENSE
+Speed 20 ft., fly 50 ft. (average)
+Melee 2 claws +48 (2d8+14 plus grab), sting +48 (4d8+14/19–20 plus poison)
+Space 15 ft.; Reach 15 ft.
+Special Attacks fear gaze (30 ft., Will DC 36), rend (claws, 2d8+21)
+Spell-Like Abilities (CL 28th)
+Constant—detect good, detect magic, read magic, see invisibility
+At will—blasphemy (DC 26), daylight, desecrate, geas/quest (DC 25), greater dispel magic, greater invisibility (DC 23), greater teleport (self plus 50 pounds of objects only), ice storm, locate object, magic circle against good, shapechange, tongues, unholy aura (DC 27), unhallow (DC 24), wall of ice (DC 23)
+3/day—summon (level 9, 4d10 lemures or nupperibos, 2d8 bearded devils, 2d4 bone devils or barbed devils, 2 ghaddar devils or pit fiends 100%)
+1/day—raise dead, symbol of pain (DC 24), wish
+Sorcerer Spells Known (CL 28th)
+9th (7/day)—imprisonment (DC 28), mass hold monster (DC 28), time stop
+8th (7/day)—horrid wilting (DC 27), prismatic wall (DC 27), scintillating pattern
+7th (7/day)—delayed blast fireball (DC 26), power word blind, spell turning
+6th (7/day)—disintegrate (DC 25), mass suggestion (DC 25), shadow walk (DC 25)
+5th (8/day)—false vision, feeblemind (DC 24), passwall, wall of stone (DC 24)
+4th (8/day)—bestow curse (DC 23), confusion (DC 23), crushing despair (DC 23), phantasmal killer (DC 23)
+3rd (8/day)—displacement, hold person (DC 22), lightning bolt (DC 22), major image (DC 22)
+2nd (8/day)—blur (DC 21), continual flame, darkness, hypnotic pattern (DC 21), misdirection (DC 21)
+1st (9/day)—burning hands (DC 20), color spray (DC 20), hold portal, shocking grasp, ventriloquism (DC 20)
+0 (at will)—arcane mark, daze (DC 19), detect poison, detect magic, flare (DC 19), ghost sound, mending, open/close, read magic
+TACTICS
+Geryon attacks with his massive fists and poisonous tail in combat. One of his favorite tactics is to grab an opponent and sting it to death with his tail.
+STATISTICS
+Str 39, Dex 21, Con 35, Int 26, Wis 24, Cha 29
+Base Atk +35; CMB +51 (+55 grapple); CMD 82 (can’t be tripped)
+Feats Alertness, Bleeding Critical, Cleave, Combat Casting, Critical Focus, Extend Spell, Enlarge Spell, Great Fortitude, Improved Critical (sting), Improved Initiative, Improved Vital Strike, Iron Will, Maximize Spell, Power Attack, Quicken Spell-Like Ability (ice storm), Vital Strike, Weapon Focus (claw), Weapon Focus (sting)
+Skills Appraise +43, Bluff +47, Diplomacy +47, Escape Artist +40, Fly +39, Intimidate +47, Knowledge (arcana) +46, Knowledge (planes) +46, Knowledge (religion) +43, Perception +49, Sense Motive +49, Spellcraft +46, Stealth +35, Survival +42
+Languages Abyssal, Celestial, Common, Daemonic, Draconic, Giant, Goblin, Ignan, Infernal, Terran; telepathy 100 ft.
+Combat Gear Bull’s Horn
+SPECIAL ABILITIES
+Fear Gaze (Su) A creature that successfully saves cannot be affected again for one day. The save DC is Charisma-based.
+Poison (Ex) Sting—injury; save Fort DC 39; frequency 1/round for 10 rounds; effect 1d6 Con; cure 3 consecutive saves. The save DC is Constitution-based.
+GEAR Unique Item: Bull’s Horn
+Geryon carries a great horn made of bone.
+As a full-round action, he can blow this horn and summon 5d4 fiendish minotaurs. The minotaurs appear immediately and act on his turn. They remain and do his bidding until their death. This horn can be blown three times per week. Good-aligned creatures touching the horn take 5d6 points of electricity damage each round they touch it (no save).

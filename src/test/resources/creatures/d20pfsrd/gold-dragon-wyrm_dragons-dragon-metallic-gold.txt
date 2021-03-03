@@ -1,0 +1,42 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/metallic-gold/gold-dragon-wyrm
+Gold Dragon Wyrm CR 21
+XP 409,600
+LG Gargantuan dragon (fire)
+Init –2; Senses dragon senses; Perception +42; Aura fire (10 ft., 1d6 fire), frightful presence (330 ft., DC 31)
+DEFENSE
+AC 41, touch 4, flat-footed 41 (-2 Dex, +37 natural, -4 size)
+hp 406 (28d12+224)
+Fort +24, Ref +14, Will +25
+DR 20/magic; Immune fire, paralysis, sleep; SR 32
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 60 ft., fly 250 ft. (clumsy), swim 60 ft.
+Melee bite +39 (4d6+22/19-20), 2 claws +39 (2d8+15/19-20), tail slap +37 (2d8+22/19-20), 2 wings +37 (2d6+7/19-20)
+Space 20 ft.; Reach 15 ft. (20 ft. with bite)
+Special Attacks breath weapon (60-ft. cone, 22d10 fire, DC 32), crush (4d6+22, DC 32), tail sweep (2d6+22, DC 32), weakening breath
+Spell-Like Abilities (CL 28th; concentration +35)
+At will—bless, daylight, detect evil, geas/quest, sunburst (DC 25)
+Spells Known (CL 17th; concentration +24)
+8th (4/day)—greater prying eyes, protection from spells
+7th (7/day)—greater teleport, resurrection, vision
+6th (7/day)—antimagic field, greater dispel magic, heal
+5th (7/day)—dispel evil (DC 24), plane shift, teleport, true seeing
+4th (7/day)—divination, restoration, spell immunity, stoneskin
+3rd (8/day)—dispel magic, haste, invisibility purge, prayer
+2nd (8/day)—aid, cure moderate wounds, lesser restoration, resist energy, silence
+1st (8/day)—alarm, divine favor, mage armor, shield, shield of faith
+0 (at will)—detect magic, detect poison, light, mage hand, mending, open/close, prestidigitation, read magic , stabilize
+STATISTICS
+Str 41, Dex 6, Con 27, Int 24, Wis 25, Cha 24
+Base Atk +28; CMB +47; CMD 55 (59 vs. trip)
+Feats Alertness, Critical Focus, Extend Spell, Hover, Improved Critical (bite, claw, wing, tail), Iron Will, Multiattack, Power Attack, Quicken Spell, Stunning Critical, Vital Strike
+Skills Diplomacy +38, Fly +15, Heal +38, Knowledge (arcana, history, local, nobility, planes, religion) +38, Perception +42, Sense Motive +42, Spellcraft +38, Swim +54; Racial Modifiers +8 Swim
+Languages Celestial, Common, Draconic, Elven, Halfling, 3 more
+SQ change shape, detect gems, fast flight, luck
+SPECIAL ABILITIES
+Change Shape (Su) A very young or older gold dragon can assume any animal or humanoid form three times per day as if using polymorph.
+Detect Gems (Sp) A young or older gold dragon can detect gems three times per day. This functions as locate object, but can only be used to locate gemstones.
+Fast Flight (Ex) A young or older gold dragon is treated as one size category larger when determining his fly speed.
+Fire Aura (Su) An old or older gold dragon is surrounded by an aura of fire. All creatures within 5 feet of the dragon take 1d6 points of fire damage at the beginning of the dragon’s turn. An ancient gold dragon’s aura extends to 10 feet. A great wyrm’s damage increases to 2d6. The dragon can activate or suppress this aura as a free action.
+Luck (Sp) Once per day an adult or older gold dragon can touch a gem, usually one embedded in the dragon’s hide, and enspell it to bring good luck. As long as the dragon carries the gem, it and every good creature within a given radius of it (10 ft. per age category) receives a +1 luck bonus on all saving throws. If the dragon gives an enspelled gem to another creature, only that bearer gets the bonus. The effect lasts 1d3 hours plus 3 hours per age category of the dragon. This ability is the equivalent of a 2nd-level spell.
+Weakening Breath (Su) Instead of a cone of fire, a gold dragon can breathe a cone of weakening gas. Creatures within the cone must succeed on a Fortitude save or take 1 point of Strength damage per age category (Will save half).

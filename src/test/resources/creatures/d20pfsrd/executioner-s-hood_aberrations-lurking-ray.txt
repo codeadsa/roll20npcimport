@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/lurking-ray/executioner-s-hood
+Executioner’s Hood CR 2
+XP 600
+N Tiny aberration
+Init +1; Senses blindsense 10 ft., darkvision 60 ft., scent; Perception +8
+DEFENSE
+AC 16, touch 13, flat-footed 15 (+1 Dex, +3 natural, +2 size)
+hp 11 (2d8+2)
+Fort +1, Ref +1, Will +4
+Defensive Abilities amorphous; Immune sleep effects
+Weaknesses light sensitivity, susceptible to alcohol
+OFFENSE
+Speed 10 ft., climb 5 ft.
+Melee slam +3 (1d4 plus grab)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks constrict (1d4), engulfing drop, strangle
+STATISTICS
+Str 10, Dex 12, Con 12, Int 3, Wis 13, Cha 9
+Base Atk +1; CMB +0 (+4 grapple); CMD 10 (can’t be tripped)
+Feats Skill Focus (Perception)
+Skills Climb +8, Perception +8, Stealth +13
+SPECIAL ABILITIES
+Engulfing Drop (Ex) Though it is a Tiny monster, the hood can drop onto the head of a Medium or smaller creature and make a slam attack as a standard action. If the hood’s attack succeeds, it can immediately attempt a grapple check against the target, and if successful, the executioner’s hood can constrict.
+Strangle (Ex) A grappling executioner’s hood entirely covers its opponent’s head with an airtight grip. A creature that is grappled by the hood cannot speak or cast spells with verbal components and must hold its breath (see Suffocation), unless it doesn’t speak or breathe through its head. Any attacks against the hood deal half damage to the hood and the other half to the creature that it’s strangling.
+Susceptible to Alcohol (Ex) Strong alcohol harms the hood. Every quart poured on it deals 1 point of damage. Four quarts of alcohol incapacitates it and forces it to release a grappled target.

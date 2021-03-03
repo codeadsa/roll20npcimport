@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/herd-animals/aurochs/herd-animal-mountain-auroch
+Mountain Aurochs CR 4
+XP 1,200
+N Huge animal
+Init +1; Senses low-light vision, scent; Perception +11
+DEFENSE
+AC 18, touch 9, flat-footed 17 (+9 natural, –2 size)
+hp 34 (3d8+21)
+Fort +10, Ref +4, Will +3
+OFFENSE
+Speed 40 ft.
+Melee gore +10 (1d10+15)
+Space 15 ft.; Reach 10 ft.
+Special Attacks stampede, trample (2d8+15, DC 21)
+STATISTICS
+Str 31, Dex 12, Con 25, Int 2, Wis 15, Cha 8
+Base Atk +2; CMB +14; CMD 25 (29 vs. trip)
+Feats Altitude AffinityB, Endurance, Skill Focus (Perception)
+Skills Perception +11
+SPECIAL ABILITIES
+Stampede (Ex) A stampede occurs if three or more creatures with stampede make a trample attack while remaining adjacent to each other. While stampeding, the creatures can trample foes of their size or smaller, and the trample’s save DC increases by +2.

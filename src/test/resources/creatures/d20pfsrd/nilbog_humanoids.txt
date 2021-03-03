@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/nilbog
+Nilbog CR 1 (XP 400)
+NE Small humanoid (goblinoid)
+Init +1; Senses darkvision 60 ft.; Perception +5; Aura spatio-temporal reversal (20 ft., Will DC 11)
+DEFENSE
+AC 15, touch 12, flat-footed 14 (+3 armor, +1 Dex, +1 size)
+hp 5 (1d8+1)
+Fort +3, Ref +1, Will -1
+Defensive Abilities damage reversal
+OFFENSE
+Speed 30 ft.
+Melee morningstar +1 (1d6)
+Ranged javelin +2 (1d4)
+STATISTICS
+Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 6
+Base Atk +0; CMB -1; CMD 10
+Feats Alertness
+Skills Perception +5, Ride +5, Sense Motive +1, Stealth +9; Racial Modifiers +4 Stealth
+Languages Goblin
+Gear studded leather armor, morningstar, 3 javelins
+SPECIAL ABILITIES
+Damage Reversal (Ex) When struck by any attack that would normally damage the nilbog, it actually gains hit points equal to the damage the attack would have otherwise dealt. A nilbog gains any extra hit points above its normal total as temporary hit points, though it can never have more than twice its normal hit points. (Excess hit points are simply lost.). The nilbog can only be damaged through the use of curative magic and effects (cure light wounds and healing potions, for instance). Curative magic deals damage equal to the amount it would normally heal.
+Spatio-Temporal Reversal (Ex) A nilbog constantly emanates an aura of confusion in a 20-foot-radius. A creature in the area must succeed on a DC 11 Will save or be affected as if by a confusion spell (caster level 4th). The save DC is Constitution-based.

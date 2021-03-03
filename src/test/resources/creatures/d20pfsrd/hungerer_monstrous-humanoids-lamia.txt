@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/lamia/hungerer
+Hungerer CR 15
+XP 51,200
+CE Huge monstrous humanoid
+Init +5; Senses darkvision 90 ft., low-light vision; Perception +28; Aura stench (30 ft., DC 25)
+DEFENSE
+AC 31, touch 10, flat-footed 29 (+1 Dex, +1 dodge, +21 natural, –2 size)
+hp 220 (21d10+105)
+Fort +12, Ref +15, Will +18
+DR 10/cold iron and piercing; Immune acid, poison; Resist electricity 10, fire 10; SR 26
+OFFENSE
+Speed 10 ft., fly 60 ft. (good)
+Melee bite +29 (2d8+10/19–20/×4 plus 2d6 acid damage and 2 Wisdom drain), 2 claws +29 (1d8+10 plus 2 Wisdom drain)
+Space 15 ft.; Reach 15 ft.
+Special Attacks devastating bite, vile spew
+Spell-Like Abilities (CL 15th; concentration +19)
+Constant—fly
+At will—grease (DC 15), major image (DC 17), ventriloquism (DC 15)
+3/day—charm monster (DC 18), gust of wind (DC 16), quickened stinking cloud (DC 17), suggestion (DC 17)
+1/day—deep slumber (DC 17), mass charm monster (DC 22), mirror image
+STATISTICS
+Str 30, Dex 13, Con 20, Int 13, Wis 18, Cha 19
+Base Atk +21; CMB +33; CMD 45 (can’t be tripped)
+Feats Critical Focus, Dodge, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Power Attack, Quicken Spell-Like Ability (stinking cloud), Staggering Critical, Vital Strike
+Skills Fly +32, Intimidate +28, Perception +28, Sense Motive +25, Stealth +17
+Languages Abyssal, Common, Giant, +1 additional
+SPECIAL ABILITIES
+Devastating Bite (Ex) A hungerer’s bite deals ×4 damage on a successful critical hit. If this damage is enough to reduce a victim to negative hit points, the victim must succeed at a DC 30 Fortitude save to avoid being decapitated, bitten in half, or otherwise instantly killed by the horrific wound. The save DC is Strength-based.
+Vile Spew (Su) Whenever a hungerer takes damage, the resulting wound spews a great gout of vile blood and acid. Any creature adjacent to a hungerer when it is wounded takes 2d6 points of acid damage (Reflex DC 25 negates). The save DC is Constitution-based.
+Wisdom Drain (Su) A hungerer drains 2 points of Wisdom each time it strikes a foe with its bite or claw attacks. Unlike with other kinds of ability drain attacks, a hungerer does not heal any damage when it uses its Wisdom drain.

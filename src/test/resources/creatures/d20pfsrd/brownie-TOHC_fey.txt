@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/brownie-TOHC
+Brownie CR 1
+XP 400
+LG Tiny fey
+Init +8; Senses low-light vision; Perception +9
+DEFENSE
+AC 17, touch 16, flat-footed 13 (+4 Dex, +1 natural, +2 size)
+hp 9 (2d6+2)
+Fort +1; Ref +7; Will +5
+DR 5/cold iron; SR 12
+OFFENSE
+Speed 20 ft.
+Melee longsword +6 (1d4-2)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-like Abilities (CL 2nd)
+1/day— confusion (DC 16), continual flame, dancing lights, dimension door, magic circle against evil, mirror image, ventriloquism (DC 14)
+TACTICS
+Brownies avoid combat unless forced. If unable to employ any spells, brownies attack with tiny long swords.
+STATISTICS
+Str 7, Dex 18, Con 12, Int 14, Wis 14, Cha 16
+Base Atk +0; CMB +2; CMD 10
+Feats Improved Initiative, Weapon FinesseB
+Skills Bluff +8, Craft (blacksmithing) +7, Craft (carpentry) +7, Craft (leather) +7, Escape Artist +9, Perception +9, Sense Motive +7, Stealth +17 (+21 in forests); Racial Modifiers +2 Perception, +4 Stealth in forests
+Languages Common, Halfling, Sylvan

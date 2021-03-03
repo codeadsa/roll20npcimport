@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-lilith-former-queen-of-hell-tohc
+Lilith CR 16
+XP 76,800
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +7; Senses darkvision 60 ft., detect magic; Perception +28; Aura fear (20 ft., Will DC 29)
+DEFENSE
+AC 33, touch 24, flat-footed 30 (+3 Dex, +9 natural, +11 profane)
+hp 178 (17d10+85); regeneration 10 (good, silver)
+Fort +10, Ref +13, Will +16
+DR 15/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 27
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee +2 axiomatic unholy longsword +25/+20/+15/+10 (1d8+7/19–20) or 2 claws +22 (1d6+5)
+Spell-Like Abilities (CL 20th)
+Constant—detect magic
+At will—animate dead, blasphemy (DC 28), charm monster (DC 25), fireball (DC 24), greater dispel magic, greater teleport (self plus 50 pounds of objects only), magic circle against good, mass hold monster (DC 30), see invisibility, suggestion (DC 24), unholy aura (DC 29)
+3/day—lightning bolt (DC 24), unholy blight (DC 25), wall of fire, summon (level 8, 2d4 erinyes, 1d6 lilins, or 1d4 barbed devils 100% or 1 pit fiend 40%)
+1/week—wish
+TACTICS
+Lilith begins combat by peppering her foes with her spell-like abilities. When combat begins, Lilith usually hits the closest opponents (she deems most susceptible) with her mass hold monster ability. Next she unleashes a fireball hoping to engulf as many opponents as possible. She then charges in with her longsword, peppering her foes with lightning bolt and fireballs. If she has time before battle begins, she uses her magic circle against good and her unholy aura on herself. Any foes slain in combat are subjected to her animate dead spell-like ability. Against powerful foes she summons other devils to fight with her.
+STATISTICS
+Str 21, Dex 16, Con 21, Int 19, Wis 19, Cha 33
+Base Atk +17; CMB +22; CMD 46
+Feats Alertness, Combat Casting, Deceitful, Improved Initiative, Iron Will, Persuasive, Quicken Spell-Like Ability (fireball), Power Attack, Weapon Focus (longsword)
+Skills Acrobatics +23, Bluff +35, Diplomacy +32, Disguise +35, Fly +27, Intimidate +35, Knowledge (planes) +24, Knowledge (religion) +24, Perception +28, Sense Motive +28
+Languages Abyssal, Celestial, Common, Infernal, Terran; telepathy 100 ft.
+Gear Amaheuris
+SPECIAL ABILITIES
+Fear Aura (Su) A creature that successfully saves cannot be affected again by her fear aura for one day. Other devils are immune to the aura. The save DC is Charisma-based.
+GEAR Unique Item: Amaheuris
+Lilith carries Amaheuris, a unique +2 axiomatic unholy longsword.
+Once per day, she can fire a finger of death (caster level 15th) from Amaheuris at a single target she can see and that is within 50 feet. A target struck must succeed on a DC 20 Fortitude save or die. Even if the save succeeds, the target takes 3d6+10 points of damage.
+Sidebar
+“…and thus, Lucifer created Infernus, a plane of eternal and everlasting fire and suffering: one plane, one ruler; created by his own hands, his own blood, and a portion of his very essence. From his great keep, Malefacta, Lucifer waits for the day he can challenge for the Throne of Hell again.” —translated from the ‘Infernal Grimoire: The Politics of Hell’

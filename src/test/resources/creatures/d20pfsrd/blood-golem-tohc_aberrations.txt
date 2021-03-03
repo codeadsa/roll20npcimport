@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/blood-golem-tohc
+Blood Golem CR 5
+XP 1,600
+N Large aberration
+Init +5; Senses tremorsense 60 ft.; Perception +13
+DEFENSE
+AC 16, touch 10, flat-footed 15 (+1 Dex, +6 natural, –1 size)
+hp 38 (7d8 plus 7); fast healing 3
+Fort +4; Ref +3; Will +5
+DR 10/magic and bludgeoning; Immune mind-affecting effects; Resist fire 10
+Weaknesses vulnerability to magic
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee 2 slams +7 (1d8+3 plus blood consumption)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 17, Dex 12, Con 10, Int 2, Wis 11, Cha 1
+Base Atk +5; CMB +9; CMD 20 (can’t be tripped)
+Feats Great Fortitude, Improved Initiative, Skill Focus (Perception), Toughness
+Skills Perception +13, Swim +11
+SQ cell division
+SPECIAL ABILITIES
+Blood Consumption (Su) Each time a blood golem hits a living opponent with a slam attack, it gains a number of temporary hit points equal to the damage dealt. These bonus hit points are added to the blood golem’s total even if the addition takes it above its current maximum hit points. A blood golem cannot gain more hit points than the maximum hit points allowed by its HD (not including any bonus hit points it may have from its Con score). For example, a 7-HD blood golem cannot gain more than 56 hit points.
+If a blood golem successfully hits an opponent with both of its slam attacks in a single round, that opponent suffers catastrophic blood expulsion, taking 2d4 points of Constitution damage (DC 15 Fortitude save for half). A blood golem gains 5 hit points per point of Constitution damage it deals. The save DC is Constitution-based and includes a +2 racial bonus.
+When a blood golem reaches its maximum hit points for its Hit Dice, it divides (see cell division, below).
+Cell Division (Ex) When a blood golem absorbs enough blood to raise its hit points to the maximum for its HD, it splits into two identical blood golems, each with half the original’s hit points. For example, a 7-HD blood golem that reaches 56 hit points splits into two 7-HD blood golems with 28 hit points each.
+Vulnerability to Magic (Ex) A blood golem is slowed (as the spell) for 1d4 rounds by any cold-based attacks or effects.
+A purify food and water spell deals 1d6 points of damage per caster level (maximum 10d6) to a blood golem. A blood golem can attempt a Fortitude saving throw (DC 10 + caster’s ability score modifier) to reduce the damage by half.

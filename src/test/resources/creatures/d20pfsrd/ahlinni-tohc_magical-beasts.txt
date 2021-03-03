@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/ahlinni-tohc
+Ahlinni CR 4
+XP 1,200
+CN Medium magical beast
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +7
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+1 Dex, +6 natural)
+hp 30 (4d10+8); fast healing 2
+Fort +6; Ref +5; Will +1
+Resist sonic 10
+OFFENSE
+Speed 40 ft., climb 20 ft.
+Melee bite +7 (1d8+2)
+Special Attacks breath weapon (20-foot cone of gas, fall prone and hideous laughter 1d3 rounds [CL 4th], Fortitude DC 13 negates, usable every 3 rounds), impale
+STATISTICS
+Str 15, Dex 13, Con 14, Int 6, Wis 10, Cha 10
+Base Atk +4; CMB +6; CMD 17
+Feats Skill Focus (Perception), Weapon Focus (bite)
+Skills Acrobatics +5, Climb +14, Perception +7, Stealth +5 (+15 in trees); Racial Modifiers +10 Stealth when in trees large enough to conceal it
+Languages birdsong
+SPECIAL ABILITIES
+Birdsong (Su) An ahlinni can freely communicate with any bird or bird-like creature (such as rocs, giant eagles, and giant owls), perfectly mimicking any bird song or vocalization. Communication with non-intelligent bird creatures is on an empathic level, and can only take place if the bird is within 100 feet of the ahlinni. In these cases, this ability functions as speak with animals (caster level 4th). This ability is always active, but can be negated. The ahlinni can restart it as a free action on its next turn.
+Impale (Ex) When an ahlinni charges a foe, it deals double damage on a successful strike with its bite attack.

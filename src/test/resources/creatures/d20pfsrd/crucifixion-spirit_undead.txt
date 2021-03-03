@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/crucifixion-spirit
+Crucifixion Spirit CR 11
+XP 12,800
+CE Medium undead (incorporeal)
+Init +7; Senses darkvision 60 ft.; Perception +26
+DEFENSE
+AC 19, touch 19, flat-footed 15 (+5 deflection, +3 Dex, +1 dodge)
+hp 142 (15d8+75)
+Fort +10; Ref +10; Will +15
+Defensive Abilities incorporeal; Immune channel energy, undead traits; SR 22
+OFFENSE
+Speed fly 50 ft. (perfect)
+Melee incorporeal touch +14 (1d8 plus paralysis)
+Ranged touch +14 (crucify soul)
+Special Attacks crucify soul, paralysis (1d4 rounds, DC 24)
+STATISTICS
+Str —, Dex 17, Con —, Int 15, Wis 18, Cha 20
+Base Atk +11; CMB +14; CMD 30 (can’t be tripped)
+Feats Ability Focus (paralysis), Alertness, Blind-Fight, Dodge, Improved Initiative, Iron Will, Lightning Reflexes, Mobility
+Skills Escape Artist +18, Fly +29, Intimidate +23, Perception +26, Sense Motive +26, Stealth +19
+SPECIAL ABILITIES
+Crucify Soul (Su) Five times per day as an attack action a crucifixion spirit can point at a single living target within 60 feet and crucify its soul. This requires the crucifixion spirit to succeed at a ranged touch attack. If successful, the target’s soul is ripped from its body, which collapses in a heap on the ground. The target’s soul appears as a translucent copy of the victim and is suspended above the spot its body collapsed, crucified in midair to a translucent, “X” shaped structure, the soul held in place by translucent spikes or nails. The victim is not dead and is visible to all those viewing it.
+A crucified soul cannot be attacked or affected by anything, cannot take any actions (other than trying to escape, see below), and experiences excruciating pain that deals 2 negative levels to it in the round it is crucified, and one negative level each round thereafter. The Fortitude save to remove a negative level has a DC of 22. The save DCs are Charisma-based. A crucifixion spirit does not need to concentrate on this ability for it to continue to affect a target.
+It can direct attacks against a different opponent. A crucified creature can attempt to escape each round by making a DC 22 Will save. If successful, the creature’s soul is freed from its torment and returns to its body in the same round. The target is stunned for one round, but afterwards can act normally. A creature slain with this ability cannot be returned to life except through the casting of a wish, miracle, or true resurrection spell. Even then, there is a 50% chance that such magic fails. If the check fails, the creature cannot be restored to life by mortal magic.
+Immune Channel Energy (Ex) A crucifixion spirit takes no damage from the channel energy ability, and is not affected by effects that mimic channel energy or are based on the channel energy ability (such as turn undead and command undead).

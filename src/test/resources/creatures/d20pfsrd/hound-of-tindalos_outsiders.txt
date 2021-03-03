@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hound-of-tindalos
+Hound of Tindalos CR 7
+XP 3,200
+NE Medium outsider (evil, extraplanar)
+Init +9; Senses darkvision 120 ft.; Perception +18
+DEFENSE
+AC 20, touch 15, flat-footed 15 (+5 Dex, +5 natural)
+hp 85 (10d10+30)
+Fort +10, Ref +12, Will +8
+DR 10/magic; Immune mind-affecting effects, poison
+OFFENSE
+Speed 40 ft.
+Melee bite +15 (2d6+3), 2 claws +15 (1d8+3)
+Special Attacks ripping gaze
+Spell-Like Abilities (CL 10th; concentration +13)
+Constant—air walk
+At will—fog cloud, invisibility, locate creature
+3/day—dimensional anchor, discern location, greater scrying (DC 20), haste, slow (DC 16)
+STATISTICS
+Str 17, Dex 21, Con 16, Int 16, Wis 21, Cha 16
+Base Atk +10; CMB +13; CMD 28 (32 vs. trip)
+Feats Blind-Fight, Combat Reflexes, Improved Initiative, Vital Strike, Weapon Finesse
+Skills Acrobatics +18 (+22 jump), Intimidate +16, Knowledge (arcana) +16, Knowledge (geography) +13, Knowledge (planes) +16, Perception +18, Sense Motive +18, Stealth +18, Survival +18
+Languages Aklo
+SQ angled entry, otherworldly mind
+SPECIAL ABILITIES
+Angled Entry (Su) Hounds of Tindalos move through the dimensions in ways other creatures cannot comprehend. They may use greater teleport (self only) once per round as a swift action and plane shift (self only) 3/day as a standard action (caster level 10th). A Hound of Tindalos can use these powers anywhere, but its destination point must be adjacent to a fixed angle or corner in the physical environment, such as a wall, floor, or ceiling (as determined by the GM); temporary angles created by cloth, flesh, or Small items are not sufficient. It cannot use these abilities to enter curved architecture or open outdoor environments.
+Otherworldly Mind (Ex) Any non-outsider attempting to read the thoughts of a Hound of Tindalos or communicate with it telepathically takes 5d6 points of nonlethal damage and must make a DC 18 Will save or become confused for 2d4 rounds. This is a mind-affecting effect. The save DC is Charisma-based.
+Ripping Gaze (Su) 5d6 slashing damage, 30 feet, Fortitude DC 18 negates. A creature that succeeds on its save is immune to that hound’s gaze for 24 hours. Damage caused by a ripping gaze can be defeated by damage reduction, but it bypasses DR/magic and slashing. The save DC is Charisma-based.

@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghoul/ghoul-corpulent
+Corpulent Ghoul CR 7
+XP 3,200
+Variant shrine-blessed human dread ghoul rogue 6
+CE Medium undead (augmented humanoid)
+Init +5; Senses darkvision 60 ft., scent; Perception +12
+DEFENSE
+AC 21, touch 16, flat-footed 15 (+3 armor, +5 Dex, +1 dodge, +2 natural) (+2 vs. good creatures)
+hp 78 (6d8+48)
+Fort +8, Ref +12, Will +7; +2 vs. good creatures
+Defensive Abilities channel resistance +2, evasion, trap sense +2, uncanny dodge; Immune undead traits
+OFFENSE
+Speed 30 ft., climb 30 ft.
+Melee bite +13 (1d6+6 plus paralysis), 2 claws +12 (1d6+6 plus paralysis)
+Special Attacks command ghouls, create spawn, death burst, paralysis (1d4+1 rounds, DC 17; elves are immune to this effect), sneak attack +3d6
+TACTICS
+During Combat Corpulent ghouls flank with each other in order to sneak attack their opponents. If a ghoul successfully paralyzes an opponent, it abandons this tactic and immediately begins feeding on its victim, ignoring other foes.
+Morale Corpulent ghouls fight until destroyed, exploding in a shower of gore and disease-ridden flesh.
+STATISTICS
+Str 16, Dex 21, Con —, Int 12, Wis 16, Cha 18
+Base Atk +4; CMB +7; CMD 23
+Feats Combat Reflexes, Dodge, Toughness, Weapon Finesse, Weapon Focus (bite)
+Skills Acrobatics +14, Bluff +13, Climb +20, Escape Artist +14, Intimidate +13, Knowledge (religion) +7, Perception +12, Sense Motive +12, Sleight of Hand +14, Stealth +14
+Languages Common, Necril
+SQ rogue talents (bleeding attack +3, finesse rogue, surprise attack), trapfinding +3
+Gear +1 leather armor, amulet of mighty fists +1

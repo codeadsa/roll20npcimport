@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-blue/blue-dragon-juvenile
+Juvenile Blue Dragon CR 10
+XP 9,600
+LE Large dragon (earth)
+Init +5; Senses dragon senses; Perception +17
+Aura frightful presence (120 ft., DC 18)
+DEFENSE
+AC 24, touch 10, flat-footed 23 (+1 Dex, +14 natural, -1 size)
+hp 126 (12d12+48)
+Fort +12, Ref +9, Will +10
+Immune electricity, paralysis, sleep
+OFFENSE
+Speed 40 ft., burrow 20 ft., fly 200 ft. (poor)
+Melee bite +18 (2d6+9), 2 claws +17 (1d8+6), 2 wings +15 (1d6+3), tail slap +15 (1d8+9)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (80-ft. line, DC 20, 8d8 electricity), desert thirst (DC 20)
+Spell-Like Abilities (CL 12th; concentration +14)
+At will—ghost sound (DC 12), minor image (DC 14)
+Spells Known (CL 1st; concentration +3)
+1st (4/day)—mage armor, true strike
+0 (at will)—detect magic, mage hand, read magic, resistance
+TACTICS
+Blue dragons prefer to surprise foes if possible, and are not above retreating if the odds turn against them.
+STATISTICS
+Str 23, Dex 12, Con 19, Int 14, Wis 15, Cha 14
+Base Atk +12; CMB +19; CMD 30 (34 vs. trip)
+Feats Combat Casting, Dazzling Display, Improved Initiative, Multiattack, Shatter Defenses, Weapon Focus (bite)
+Skills Bluff +17, Fly +10, Intimidate +17, Knowledge (local) +17, Perception +17, Spellcraft +17, Stealth +12, Survival +17
+Languages Auran, Common, Draconic
+SQ sound imitation
+SPECIAL ABILITIES
+Desert Thirst (Su) A blue dragon can cast create water at will (CL 12). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC 20) or be destroyed.
+Sound Imitation (Ex) A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Bluff check against a listener’s Sense Motive check.

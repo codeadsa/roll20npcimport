@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/addu
+Addu CR 15
+XP 51,200
+N Gargantuan magical beast (aquatic)
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +21
+DEFENSE
+AC 28, touch 10, flat-footed 24 (+4 Dex, +18 natural, –4 size)
+hp 212 (17d10+119)
+Fort +17, Ref +14, Will +9
+Immune poison; Resist fire 30
+OFFENSE
+Speed 10 ft., swim 80 ft.
+Melee bite +26 (4d6+13/19–20), 2 claw +26 (2d8+13/19–20), tail slap +21 (2d8+6)
+Space 20 ft.; Reach 20 ft. (30 ft. with tail slap)
+Special Attacks capsize, miasmic breath, rip current
+STATISTICS
+Str 36, Dex 18, Con 25, Int 2, Wis 15, Cha 13
+Base Atk +17; CMB +34; CMD 48 (can’t be tripped)
+Feats Critical Focus, Endurance, Improved Critical (bite), Improved Critical (claw), Improved Iron Will, Iron Will, Power Attack, Sickening Critical, Vital Strike
+Skills Perception +21, Swim +25
+SPECIAL ABILITIES
+Miasmic Breath (Su) Once every 1d4 rounds, an addu can exhale a 30-foot cone of poisonous breath. Creatures caught in the area must make a successful DC 25 Fortitude save or take 1d6 points of Constitution damage. This is a poison effect and the save DC is Constitution-based.
+Rip Current (Su) An addu can stir the water in such a way that it creates powerful currents in its immediate area. As a move action, an addu can either push creatures and objects up to 30 feet away from it or draw creatures and objects within 30 feet toward it. Creatures and objects caught in the rip current can resist being moved with a successful DC 25 Reflex save. This ability can only be used in the water, and the save DC is Constitution-based.

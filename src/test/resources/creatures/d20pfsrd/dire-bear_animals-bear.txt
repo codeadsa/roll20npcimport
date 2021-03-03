@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/bear/dire-bear
+Dire (or Cave) Bear CR 7
+XP 3,200
+N Large animal
+Init +5; Senses low-light vision, scent; Perception +12
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 95 (10d8+50)
+Fort +12, Ref +8, Will +4
+OFFENSE
+Speed 40 ft.
+Melee 2 claws +13 (1d6+7 plus grab), bite +13 (1d8+7)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 25, Dex 13, Con 21, Int 2, Wis 12, Cha 10
+Base Atk +7; CMB +15 (+19 grapple); CMD 26 (30 vs. trip)
+Feats Endurance, Improved Initiative, Iron Will, Run, Skill Focus (Perception)
+Skills Perception +12, Swim +19; Racial Modifiers +4 Swim
+Source Wikipedia Variants Giant Advanced Dire Bear (CR 10)

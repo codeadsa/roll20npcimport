@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orcs/orc-blood
+Blood Orc CR 1/3
+XP 135
+Blood orc warrior 1
+CE Medium humanoid (orc)
+Init +1; Senses darkvision 60 ft., scent; Perception -2
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+4 armor, +1 Dex)
+hp 8 (1d10+2 plus 1)
+Fort +4, Ref +2, Will -2
+Defensive Abilities ferocity
+Weaknesses light sensitivity
+OFFENSE
+Speed 30 ft.
+Melee greataxe +5 (1d12+6/x3), bite +0 (1d4+2)
+Ranged javelin +2 (1d6+4)
+Special Attacks frenzy
+STATISTICS
+Str 18, Dex 13, Con 14, Int 8, Wis 6, Cha 6
+Base Atk +1; CMB +5; CMD 16
+Feats Power Attack
+Skills Intimidate +2
+Languages Common, Orc
+Gear chain shirt, greataxe, 3 javelins
+SPECIAL ABILITIES
+Frenzy (Ex) Once per day a blood orc who smells or tastes blood during combat may fly into a frenzy in the following round, biting and attacking with its weapons until it or its opponent is dead. It gains +2 Strength, +2 Constitution, and -2 AC. The creature cannot end its frenzy voluntarily.

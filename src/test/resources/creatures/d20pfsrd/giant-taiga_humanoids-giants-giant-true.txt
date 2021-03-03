@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-taiga
+Taiga Giant CR 12
+XP 19,200
+CN Huge humanoid (giant)
+Init +2; Senses low-light vision; Perception +13
+DEFENSE
+AC 26, touch 14, flat-footed 24 (+4 armor, +4 deflection, +2 Dex, +8 natural, –2 size)
+hp 157 (15d8+90)
+Fort +15, Ref +9, Will +10
+Defensive Abilities rock catching; Immune enchantment and illusion spells
+OFFENSE
+Speed 30 ft. (40 ft. without armor)
+Melee spear +19/+14/+9 (3d6+15/×3) or 2 slams +19 (1d8+10)
+Ranged rock +12 (2d6+15) or spear +11 (3d6+10/×3)
+Space 15 ft.; Reach 15 ft.
+Special Attacks rock throwing (140 ft.)
+STATISTICS
+Str 31, Dex 14, Con 22, Int 12, Wis 17, Cha 15
+Base Atk +11; CMB +23; CMD 39
+Feats Alertness, Cleave, Endurance, Iron Will, Lightning Reflexes, Power Attack, Self-Sufficient, Shot on the RunB, Vital Strike
+Skills Climb +15, Knowledge (religion) +11, Perception +13, Stealth +6 (+12 in undergrowth), Survival +20; Racial Modifiers +6 Stealth in undergrowth
+Languages Common, Giant
+SQ spirit summoning
+SPECIAL ABILITIES
+Spirit Summoning (Su) Once per day, a taiga giant may perform a 10-minute ritual to tap into the power and insight of his ancestral spirits. These spirits provide a +4 deflection bonus to AC, immunity to enchantment and illusion spells, and one of the following spell effects: bless, endure elements, protection from evil, protection from good, or see invisibility. The effects of a spirit summoning persist for 24 hours. The effects of this ability are included in the stat block presented.
+Examples
+Taiga Giant Shaman (Druid 10; CR 17)

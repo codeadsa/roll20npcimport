@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/slug-giant-tohc
+Giant Slug CR 8
+XP 4,800
+N Huge vermin
+Init +0; Senses blindsight 60 ft.; Perception +0
+DEFENSE
+AC 16, touch 8, flat-footed 16 (+0 Dex, +8 natural, -2 size)
+hp 102 (12d8+48)
+Fort +12, Ref +4, Will +4
+Defensive Abilities rubbery hide, DR 10/slashing or piercing;
+Immune mind-affecting effects, vermin traits
+Weaknesses salt vulnerability
+OFFENSE
+Speed 20 ft., burrow 10 ft.
+Melee bite +15 (2d6+12) 1d8 acid)
+Ranged spit +7 touch (4d8 acid)
+Space 15 ft.; Reach 10 ft.
+Special Attacks spit acid
+TACTICS
+A giant slug begins combat by spitting a line of corrosive saliva at an opponent. It then moves into combat and uses its bite attack.
+STATISTICS
+Str 27, Dex 10, Con 18, Int –, Wis 10, Cha 2
+Base Atk +9; CMB +19; CMD 29 (can’t be tripped)
+SQ malleable
+SPECIAL ABILITIES
+Malleable (Ex) A giant slug can squeeze its body through openings a creature its size normally could not. It can squeeze through tight spaces as if it were a Medium-sized creature.
+Rubbery Hide (Ex) A giant slug’s rubbery hide grants it immunity to critical hits and precision-based damage, such as sneak attacks.
+Salt Vulnerability (Ex) A giant slug is highly susceptible to salt, and takes 1d6 points of damage per pound of salt it contacts.
+Spit Acid (Ex) Every 1d4 rounds, a giant slug can spit a line of acid at an opponent within 60 feet (no range increment). A successful ranged touch attack is required to hit. If struck, a target takes 4d8 points of acid damage.

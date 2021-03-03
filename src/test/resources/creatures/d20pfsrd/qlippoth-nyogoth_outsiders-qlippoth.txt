@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/qlippoth/qlippoth-nyogoth
+Nyogoth CR 10
+XP 9,600
+CE Medium outsider (chaotic, evil, extraplanar, qlippoth)
+Init +5; Senses darkvision 60 ft.; Perception +17
+DEFENSE
+AC 24, touch 15, flat-footed 19 (+5 Dex, +9 natural)
+hp 125 (10d10+70)
+Fort +14, Ref +12, Will +7
+Defensive Abilities acid spray; DR 10/lawful; Immune acid, cold, poison, mind-affecting effects; Resist electricity 10, fire 10
+OFFENSE
+Speed 5 ft., fly 30 ft. (good)
+Melee 4 bites +15 (1d6+3/19–20 plus 1d4 acid), bite +15 (2d6+3/19–20 plus 1d4 acid)
+Special Attacks horrific appearance (DC 18)
+Spell-Like Abilities (CL 10th; concentration +13)
+At will— acid arrow
+7/day— fear (DC 17), protection from law
+1/day— acid fog, dimension door STATISTICS
+Str 16, Dex 21, Con 24, Int 9, Wis 19, Cha 16
+Base Atk +10; CMB +13; CMD 28 (can’t be tripped)
+Feats Combat Reflexes, Improved Critical (bite), Power Attack, Vital Strike, Weapon Finesse
+Skills Fly +22, Intimidate +16, Knowledge (planes) +12, Perception +17, Stealth +18
+Languages Abyssal; telepathy 100 ft.
+SQ flight
+SPECIAL ABILITIES
+Acid Spray (Su) A nyogoth’s body is full of highly corrosive digestive fluid. Every time a nyogoth is damaged by a piercing or slashing weapon, all creatures adjacent to the nyogoth take 1d6 points of acid damage (2d6 acid damage if the attack is a critical hit).
+Horrific Appearance (Su) Creatures that succumb to a nyogoth’s horrific appearance become nauseated for 1d8 rounds.

@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-stone-guardian-tohc/spikestone-guardian
+Spikestone Guardian CR 9
+XP 6,400
+Variant advanced stone guardian
+N Large construct
+Init -2; Senses darkvision 60 ft., low-light vision, see invisibility; Perception +0; Aura spikes (5 ft.)
+DEFENSE
+AC 23, touch 8, flat-footed 23 (-2 Dex, +15 natural)
+hp 96 (12d10+30)
+Fort +4, Ref +2, Will +4
+Defensive Abilities construct traits; DR 10/adamantine; Resist cold 10, electricity 10, fire 10
+OFFENSE
+Speed 20 ft.
+Melee 2 slams +17 (3d6+9/19-20)
+Ranged spike volley +6 (2d8+9)
+Space 10 ft.; Reach 10 ft.
+TACTICS
+During Combat The spikestone guardians move to attack anyone not escorted by a shaitan. They prefer to attack foes, but will use spike volleys against those who can avoid melee.
+Morale The spikestone guardians fight until destroyed.
+STATISTICS
+Str 29, Dex 7, Con –, Int –, Wis 11, Cha 1
+Base Atk +9; CMB +19; CMD 27
+SQ geniebound
+SPECIAL ABILITIES
+Aura of Spikes (Su) Natural and worked stone surfaces within 5 feet of a spikestone guardian temporarily reshape themselves into spiky surfaces. This aura moves with the guardian, and the spike stones persist only as long as the guardian is within 5 feet. If the guardian moves adjacent to a creature, that creature is not affected by the spike stones unless it moves. Any creature moving into, out of, or through a square within 5 feet of the guardian moves at half speed and takes 1d8 points of piercing damage for each square crossed. In addition, that creature must make a DC 16 Reflex save or have its movement reduced by half until it receives magical healing or a DC 16 Heal check administered over the course of 10 minutes. The save DC is Constitution-based.
+Geniebound (Su) Unlike most stone guardians, these spikestone guardians are not linked to a specific ring that allows its wearer to command them. Instead, both of these constructs are bound to Obherak—they obey his commands without question, and if the shaitan is slain, a spikestone guardian immediately goes berserk, attacking the closest creature (even another spikestone guardian) for 1d6 rounds before it crumbles apart into rubble.
+See Invisibility (Su) A spikestone guardian can employ see invisibility, as per the spell.
+Spike Volley (Su) A spikestone guardian’s spike volley targets one foe. It has a range increment of 60 feet.

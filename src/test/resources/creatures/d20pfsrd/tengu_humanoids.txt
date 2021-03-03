@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/tengu
+Tengu CR 1/2
+XP 200
+Male tengu rogue 1
+N Medium humanoid (tengu)
+Init +3; Senses low-light vision; Perception +8
+DEFENSE
+AC 15, touch 13, flat-footed 12 (+2 armor, +3 Dex)
+hp 9 (1d8+1)
+Fort +1, Ref +5, Will +2
+OFFENSE
+Speed 30 ft.
+Melee dagger +3 (1d4+1/19–20), bite –2 (1d3)
+Ranged short bow +3 (1d6/×3)
+Special Attacks sneak attack +1d6
+STATISTICS
+Str 12, Dex 17, Con 12, Int 10, Wis 15, Cha 8
+Base Atk +0; CMB +1; CMD 14
+Feats Weapon Finesse
+Skills Acrobatics +7, Appraise +4, Bluff +3, Climb +5, Knowledge (local) +4, Linguistics +8, Perception +8, Stealth +9; Racial Modifiers +2 Perception, +2 Stealth, +4 Linguistics
+Languages Common, Goblin, Halfling, Tengu
+SQ gifted linguist, swordtrained, trapfinding
+SPECIAL ABILITIES
+Gifted Linguist (Ex) Tengus gain a +4 racial bonus on Linguistics checks, and learn 2 languages each time they gain a rank in Linguistics rather than 1 language.
+Swordtrained (Ex) Tengus are trained from birth in swordplay, and as a result are automatically proficient with sword-like weapons (including bastard swords, daggers, elven curve blades, falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short swords, and two-bladed swords).

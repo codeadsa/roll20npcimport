@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orcs/orog
+Orog CR 1
+XP 400
+LE Medium humanoid (orc)
+Init +0; Senses darkvision 60 ft.; Perception +5
+DEFENSE
+AC 18, touch 10, flat-footed 18 (+8 armor)
+hp 23 (3d8+9 plus 3)
+Fort +5, Ref +1, Will +0
+OFFENSE
+Speed 20 ft. (30 ft. base)
+Melee greataxe +5 (1d12+4)
+Ranged javelin +2 (1d6+3)
+TACTICS
+Orogs prefer weapons that deal massive amounts of damage. They try to avoid subterfuge, favoring direct combat to any other tactics.
+STATISTICS
+Str 16, Dex 10, Con 14, Int 10, Wis 8, Cha 8
+Base Atk +2; CMB +5; CMD 15
+Feats Skill Focus (Perception), Toughness
+Skills Perception +5
+Languages Common, orc
+SQ orc/ogre blood
+Gear half-plate, greataxe, 3 javelins
+SPECIAL ABILITIES
+Orc/Ogre Blood (Ex) For all special abilities and effects, an orog is considered an orc or ogre. For example, orogs can use special ogre or orc weapons or magic items with racially specific ogre or orc powers as if they were ogres or orcs.

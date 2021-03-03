@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/jorogumo
+Jorogumo CR 12
+XP 19,200
+NE Medium monstrous humanoid (shapechanger)
+Init +4; Senses darkvision 60 ft.; Perception +18
+DEFENSE
+AC 27, touch 15, flat-footed 22 (+4 Dex, +1 dodge, +12 natural)
+hp 161 (14d10+84)
+Fort +10, Ref +13, Will +14
+DR 10/cold iron and magic; Immune poison
+OFFENSE
+Speed 30 ft., climb 50 ft., swim 40 ft.
+Melee bite +20 (1d4+6/19-20 plus poison), 2 claws +20 (1d6+6)
+Special Attacks sneak attack +3d6, web (+18 ranged, DC 23, 14 hp)
+Spell-Like Abilities (CL 12th; concentration +19)
+At will—charm person (DC 18), detect thoughts (DC 19)
+3/day—bestow curse (DC 21), suggestion (DC 19)
+1/day—hold monster (DC 22), summon nature’s ally V (1 ogre spider or 1d3 giant black widow spiders or 1d4+1 giant spiders)
+STATISTICS
+Str 22, Dex 19, Con 22, Int 15, Wis 17, Cha 24
+Base Atk +14; CMB +20; CMD 35
+Feats Dodge, Improved Critical (bite), Improved Iron Will, Iron Will, Mobility, Power Attack, Spring Attack
+Skills Acrobatics +14, Bluff +19, Climb +29 (+37 with spider legs), Diplomacy +18, Perception +18, Perform (string) +10, Sense Motive +15, Stealth +19, Swim +14; Racial Modifiers +8 Climb with spider legs
+Languages Aklo, Common, Sylvan
+SQ change shape (giant spider; vermin shape I), spider empathy +21, swift shapechanger
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 23; frequency 1/round for 6 rounds; effect 1d6 Wisdom damage; cure 3 saves.
+Spider Empathy (Ex) This ability functions as a druid’s wild empathy, save that it works only on spiders. A jorogumo gains a racial bonus on this check equal to her Hit Dice (normally +14). Spiders are normally mindless, but this empathic communication imparts upon them a modicum of implanted intelligence, allowing the jorogumo to train them and use them as guardians (though it does not grant them skills or feats).
+Spider Legs (Ex) A jorogumo’s spider legs can emerge or retract as a free action. When a jorogumo’s spider legs are present, she gains a +8 circumstance bonus on Climb checks and gains Deflect Arrows as a bonus feat.
+Swift Shapechanger (Ex) A jorogumo can assume spider or human form as a swift action.

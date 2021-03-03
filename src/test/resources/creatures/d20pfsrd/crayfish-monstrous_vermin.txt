@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/crayfish-monstrous
+Giant (Monstrous) Crayfish CR 3
+XP 800
+N Large vermin (aquatic)
+Init +0; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 15, touch 9, flat-footed 15 (–1 size, +6 natural)
+hp 26 (4d8+8)
+Fort +6, Ref +1, Will +1
+Immune vermin traits
+Weaknesses water dependency
+OFFENSE
+Speed 20 ft., swim 40 ft.
+Melee 2 claws +5 (1d6+3 plus grab/19-20)
+Space 10 ft.; Reach 5 ft.
+Special Attacks constrict (claw) 1d6+3
+STATISTICS
+Str 16, Dex 10, Con 14, Int –, Wis 10, Cha 2
+Base Atk +3; CMB +7 (+11 to grapple); CMD 17 (29 vs. trip)
+Feats Improved CriticalB (claw)
+Skills Perception +4, Stealth +4, Swim +19; Racial Modifiers +4 Perception , +4 Stealth, +8 Swim
+SPECIAL ABILITIES
+Water Dependency (Ex) A monstrous crayfish can survive out of the water for 1 hour per 2 points of Constitution. Beyond this limit, a monstrous crayfish runs the risk of suffocation, as if it were drowning.

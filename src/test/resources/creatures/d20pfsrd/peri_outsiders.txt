@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/peri
+Peri CR 14
+XP 38,400
+NG Medium outsider (good, native)
+Init +7; Senses darkvision 60 ft., low-light vision, smoke sight; Perception +26
+DEFENSE
+AC 30, touch 18, flat-footed 22 (+7 Dex, +1 dodge, +12 natural)
+hp 180 (19d10+76)
+Fort +12, Ref +18, Will +17
+DR 10/cold iron and evil; Immune electricity, fire; Resist acid 10, cold 10; SR 25
+OFFENSE
+Speed 30 ft., fly 90 ft. (good)
+Melee +2 flaming burst scimitar +27/+22/+17/+12 (1d6+8/18-20 plus 1d6 fire), 2 wings +20 (1d6+3 plus burn)
+Special Attacks burn (2d6, DC 23), whirlwind dance
+Spell-Like Abilities (CL 15th; concentration +23)
+Constant—fire shield (warm shield)
+At will—aid, flame jump (see below), pyrotechnics (DC 20), scorching ray
+3/day—fireball (DC 21), flame strike (DC 23), wall of fire
+STATISTICS
+Str 22, Dex 24, Con 19, Int 21, Wis 19, Cha 26
+Base Atk +19; CMB +25; CMD 43
+Feats Combat Expertise, Combat Reflexes, Dodge, Great Fortitude, Improved Disarm, Iron Will, Mobility, Power Attack, Spring Attack, Whirlwind Attack
+Skills Acrobatics +29, Diplomacy +30, Fly +33, Heal +23, Knowledge (planes) +27, Knowledge (religion) +24, Perception +26, Perform (any one) +30, Sense Motive +26, Spellcraft +27, Stealth +29
+Languages Celestial, Common, Draconic, Elven, Ignan; telepathy 100 ft.
+SPECIAL ABILITIES
+Flame Jump (Sp) A peri can enter any fire equal to the peri’s size or larger and travel any distance to another fire in a single round, regardless of the distance between the two. This ability otherwise functions as greater teleport (caster level 14th), but the peri can transport only itself and up to 50 pounds of objects.
+Smoke Sight (Su) A peri can see through fire, fog, and smoke without penalty.
+Whirlwind Dance (Su) Once per day as a full-round action, a peri can spin in an ever-faster, whirling dance, transforming itself into a spinning vortex of flame 10 to 40 feet high for up to 9 rounds. This ability functions as the whirlwind ability (DC 26 Reflex save), but any creature that comes in contact with the whirlwind or is caught inside it takes 2d6+6 points of fire damage and is subject to the peri’s burn special attack. The save DC is Dexterity-based.

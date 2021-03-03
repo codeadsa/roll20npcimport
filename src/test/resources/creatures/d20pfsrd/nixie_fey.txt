@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/nixie
+Nixie CR 1
+XP 400
+N Small fey (aquatic)
+Init +3; Senses low-light vision; Perception +6
+DEFENSE
+AC 14, touch 14, flat-footed 11 (+3 Dex, +1 size)
+hp 9 (2d6+2)
+Fort +1, Ref +6, Will +4
+DR 5/cold iron; SR 12
+OFFENSE
+Speed 20 ft., swim 30 ft.
+Melee short sword +5 (1d4-2/19-20)
+Ranged light crossbow +5 (1d6/19-20)
+Spell-Like Abilities (CL 6th; concentration +10)
+3/day—charm person (DC 15)
+1/day—water breathing (CL 12th)
+STATISTICS
+Str 7, Dex 16, Con 13, Int 12, Wis 13, Cha 18
+Base Atk +1; CMB -2; CMD 11
+Feats Weapon Finesse
+Skills Bluff +9, Craft (any one) +5, Escape Artist +8, Handle Animal +6, Perception +6, Perform (sing) +8, Sense Motive +5, Stealth +12, Swim +10
+Languages Aquan, Sylvan
+SQ amphibious, wild empathy +12
+SPECIAL ABILITIES
+Wild Empathy (Ex) This ability works like the druid ability of the same name. The nixie’s total includes a +8 racial bonus on wild empathy checks.
+Lure (Su) This ability functions just like a harpy’s captivating song. A DC 15 Will save negates this effect. The save DC is Charisma-based.
+Shapeshift (Su) A nixie can change shape to become any Small or Medium aquatic creature as if using beast shape I (CL 5th). A nixie can maintain this form indefinitely and can return to its normal shape as a free action.

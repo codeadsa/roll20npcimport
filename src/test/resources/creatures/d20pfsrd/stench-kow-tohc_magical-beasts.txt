@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/stench-kow-tohc
+Stench Kow CR 3
+XP 800
+N Large magical beast (extraplanar)
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +10; Aura stench (DC 14, 5 rounds)
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+0 Dex, +8 natural, -1 size)
+hp 25 (3d10+9)
+Fort +6, Ref +3, Will +2
+Immune cold, fire, poison
+OFFENSE
+Speed 40 ft.
+Melee gore +6 (1d8+6)
+Space 10 ft.; Reach 5 ft.
+Special Attacks powerful charge, trample (1d8+6, DC 15)
+TACTICS
+Stench kows attack only if threatened, if the herd is threatened, or if the young calves are in danger. A stench kow attacks by charging and trampling, or butting its opponents with its horns.
+STATISTICS
+Str 18, Dex 10, Con 17, Int 2, Wis 12, Cha 4
+Base Atk +3; CMB +8; CMD 18 (22 vs. trip)
+Feats Great Fortitude, Skill Focus (Perception)
+Skills Perception +10
+SPECIAL ABILITIES
+Powerful Charge (Ex) On a successful charge attack, a stench kow deals double damage with its gore. This damage is tripled (not quadrupled) on a critical hit.

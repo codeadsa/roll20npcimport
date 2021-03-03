@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/basidirond-TOHC
+Basidirond CR 4
+XP 1,200
+N Medium plant (fungus)
+Init +1; Senses low-light vision, tremorsense 60 ft.; Perception +0
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+1 Dex, +6 natural)
+hp 37 (5d8+15)
+Fort +7; Ref +2; Will +1
+Immune cold, plant traits
+Weakness cold vulnerability
+OFFENSE
+Speed 20 ft.
+Melee slam +7 (1d8+6 plus spores)
+Special Attacks hallucination cloud, spores
+TACTICS
+The basidirond attacks by striking with its cone-shaped cap or by firing a line of spores at an opponent.
+STATISTICS
+Str 18, Dex 13, Con 16, Int —, Wis 11, Cha 1
+Base Atk +3; CMB +7; CMD 18
+SPECIAL ABILITIES
+Cold Vulnerability (Ex) A basidirond takes no damage from a cold, but is slowed (as the spell) for 1 round per two caster levels. During this time, a basidirond cannot use its spores or hallucination cloud special attacks.
+Hallucination Cloud (Ex) As a standard action, a basidirond can release a cloud of invisible spores in a 20-foot radius centered on its form. Creatures within the area must succeed on a DC 15 Fortitude save or be confused for as long as they remain in the cloud plus 1d4 rounds after leaving the area. A new save must be made each round a creature remains within the affected area. The save DC is Constitution-based.
+Variant Option Rather than confusing an opponent, you can randomly determine hallucinations for each creature affected. The duration remains the same.
+Table: Basidirond Hallucination Cloud d8 Hallucination
+1 Individual believes he is in a swamp and strips off gear and armor to avoid sinking.
+2 Individual believes he is being attacked by a swarm of spiders. He attacks the floor and surrounding area.
+3 Individual believes item held has turned into a viper; drops item and retreats back from it.
+4 Suffocation—Individual believes he is suffocating and gasps for air and clutches throat.
+5 Individual believes he has shrunk to 1/10 normal size. He begins yelling for help.
+6 Individual believes his associates have contracted a disease. He will not come closer than 10 feet.
+7 Individual believes he is melting; grasps self in attempt to hold together.
+8 Individual believes his back is covered with leeches. He tears armor, clothing, etc. from his back to get at them.
+Spores (Ex) A basidirond’s slam attack transfers poisonous spores to its opponent. A creature struck must succeed on a DC 15 Fortitude save or these spores take root in his flesh and deal the listed amount of Constitution damage. The save DC is Constitution-based. A remove disease spell cast on an affected character halts the Constitution damage.
+Basidirond Spores: Disease—contact; save Fort DC 15; frequency 1/round for 5 rounds; effect 1d4 Con damage; secondary effect 1 Con damage; cure 1 save.

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/azata/yamah
+Yamah CR 5
+XP 1,600
+CG Medium outsider (azata, chaotic, extraplanar, good)
+Init +5; Senses darkvision 60 ft., detect evil, detect magic, low-light vision; Perception +11
+DEFENSE
+AC 19, touch 15, flat-footed 14 (+5 Dex, +4 natural)
+hp 45 (6d10+12)
+Fort +4, Ref +10, Will +7
+DR 5/cold iron or evil; Immune electricity, petrification; Resist cold 10, fire 10
+OFFENSE
+Speed 30 ft., fly 100 ft. (perfect)
+Melee +1 returning starknife +12/+7 (1d4+4/×3)
+Ranged +1 returning starknife +12 (1d4+4/×3)
+Special Attacks steal magic
+Spell-Like Abilities (CL 6th; concentration +11)
+Constant—detect evil, detect magic
+3/day—cure moderate wounds, invisibility
+1/day—charm person (DC 16), remove paralysis
+STATISTICS
+Str 17, Dex 20, Con 14, Int 13, Wis 15, Cha 20
+Base Atk +6; CMB +9; CMD 24
+Feats Point-Blank Shot, Precise Shot, Weapon Finesse
+Skills Acrobatics +14, Bluff +11, Diplomacy +14, Escape Artist +11, Fly +22, Knowledge (planes) +10, Perception +11, Sense Motive +8, Stealth +11
+Languages Celestial, Draconic, Infernal; truespeech
+SQ returning weapons
+SPECIAL ABILITIES
+Returning Weapons (Su) Any throwing weapon wielded by a yamah gains the returning weapon special ability as long as the yamah wields it.
+Steal Magic (Su) As a standard action, a yamah can make a touch attack against a creature under the effect of a spell or spells and attempt to dispel the effect as per the dispel magic spell (CL 6th). If the attempt is successful, the yamah absorbs the magical energy and converts it into a bolt of force. A yamah can use a force bolt to make a ranged touch attack that deals 1d6 points of force damage for every spell level of the effect dispelled by the yamah (for example, if a yamah dispels a 2nd-level spell with its steal magic ability, the resulting force bolt deals 2d6 points of force damage; 0-level spells count as being 1st-level for the purpose of this ability). These force bolts have a range of 100 feet with no range increment. A yamah can only carry a number of force bolts equal to its Charisma bonus (5 for most yamahs), and any force bolts not used within 24 hours of obtaining them disappear and are wasted.

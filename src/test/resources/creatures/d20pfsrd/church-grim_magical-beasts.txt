@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/church-grim
+Church Grim
+CR 5
+XP 1,600
+LG Small magical beast (incorporeal)
+Init +2; Senses darkvision 60 ft., know alignment, low-light vision; Perception +12
+DEFENSE
+AC 15, touch 15, flat-footed 13 (+2 deflection, +2 Dex, +1 size)
+hp 37 (5d10+10)
+Fort +6; Ref +6; Will +5
+Defensive Abilities incorporeal, rejuvenation; DR 10/evil
+Weaknesses limited domain
+OFFENSE
+Speed fly 40 ft. (perfect)
+Melee incorporeal bite +8 (1d6 holy plus 1d4 Wisdom)
+Special Attacks howl
+STATISTICS
+Str —, Dex 15, Con 15, Int 12, Wis 15, Cha 14
+Base Atk +5; CMB +6; CMD 18
+Feats Ability Focus (howl), Alertness, Iron Will
+Skills Fly +16, Knowledge (religion) +5, Perception +12, Sense Motive +9
+SQ soul defender
+SPECIAL ABILITIES
+Howl (Su) The howl of a church grim causes any evil creature within its limited domain (its churchyard; see below) to make a successful DC 16 Will save or become panicked for 2d4 rounds. Good or neutral creatures are completely unaffected by the howl as long as they are not there to steal from the dead or attack the church. Whether or not the save is successful, a creature cannot be affected by the same church grim’s howl for one day. The save DC is Charisma-based.
+Know Alignment (Su) A church grim makes automatically knows the alignment of any creature that enters its churchyard. This ability can be dispelled, but the church grim can reactivate it the following round as a free action. It cannot extend this ability beyond the limits of its domain, however.
+Limited Domain (Ex) The realm of a church grim encompasses only the churchyard it defends; it can wander freely in its cemetery and any adjoining church grounds, but it cannot move beyond; it must stop at the boundary of consecrated land.
+Rejuvenation (Su) It is difficult to destroy a church grim through simple combat. A slain church grim restores itself within 24 hours. Even the most powerful spells are often only temporary solutions. A church grim that would otherwise be destroyed returns to its churchyard with a successful level check (1d20 + the church grim’s HD) against DC 16. The only sure way to get rid of a church grim is to raze the church it protects and cast unhallow on the churchyard.
+Soul Defender (Su) It is the sacred duty of a church grim to defend the bodies and souls of those buried in its churchyard. Any attempts to cast an animate dead or similar spell to create undead within the confines of an area guarded by a church grim requires the caster to make a successful DC 20 caster level check. If the check fails, the spell fizzles away just as if it had been cast. Whether the check succeeds or not, the caster incurs the full wrath of the church grim immediately.
+Wisdom Damage (Su) The incorporeal bite of a church grim deals 1d6 points of holy damage and 1d4 points of Wisdom damage to the target. A successful DC 14 Fortitude save negates the Wisdom damage. The save DC is Constitution-based. On each successful attack that does Wisdom damage, the church grim gains 5 temporary hit points.

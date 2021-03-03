@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-frost
+Frost Giant CR 9
+XP 6,400
+CE Large humanoid (cold, giant)
+Init –1; Senses low-light vision; Perception +10
+DEFENSE
+AC 21, touch 8, flat-footed 21 (+4 armor, –1 Dex, +9 natural, –1 size)
+hp 133 (14d8+70)
+Fort +14, Ref +3, Will +6
+Defensive Abilities rock catching; Immune cold
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 40 ft.
+Melee greataxe +18/+13 (3d6+13) or 2 slams +18 (1d8+9)
+Ranged rock +9 (1d8+13)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rock throwing (120 ft.)
+STATISTICS
+Str 29, Dex 9, Con 21, Int 10, Wis 14, Cha 11
+Base Atk +10; CMB +20; CMD 29
+Feats Cleave, Great Cleave, Improved Overrun, Improved Sunder, Martial Weapon Proficiency (greataxe), Power Attack, Skill Focus (Stealth)
+Skills Climb +13, Craft (any one) +7, Intimidate +7, Perception +10, Stealth +2 (+6 in snow); Racial Modifiers +4 Stealth in snow
+Languages Common, Giant

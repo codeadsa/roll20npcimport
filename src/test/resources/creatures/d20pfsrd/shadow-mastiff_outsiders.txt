@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/shadow-mastiff
+Shadow Mastiff CR 5
+XP 1,600
+NE Medium outsider (evil, extraplanar)
+Init +6; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 51 (6d10+18)
+Fort +8, Ref +7, Will +5
+Defensive Abilities shadow blend
+OFFENSE
+Speed 50 ft.
+Melee bite +10 (1d8+6 plus trip), tail slap +5 (1d6+3)
+Special Attacks bay
+STATISTICS
+Str 19, Dex 15, Con 17, Int 4, Wis 12, Cha 13
+Base Atk +6; CMB +10; CMD 22 (26 vs. trip)
+Feats Improved Initiative, Iron Will, Power Attack
+Skills Perception +10, Stealth +11, Survival +10
+Languages Common (cannot speak)
+SPECIAL ABILITIES
+Bay (Su) When a shadow mastiff howls or barks, all creatures within a 300-foot spread except evil outsiders must succeed at a DC 16 Will save or become panicked for 1d4 rounds. This is a sonic, mind-affecting fear effect. A creature that successfully saves cannot be affected by the same mastiff’s bay for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based.
+Shadow Blend (Su) In any condition of illumination other than full daylight, a shadow mastiff disappears into the shadows, giving it concealment (50% miss chance). Artificial illumination, even a light or continual flame spell, does not negate this ability; a daylight spell, however, does. A shadow mastiff can suspend or resume this ability as a free action.

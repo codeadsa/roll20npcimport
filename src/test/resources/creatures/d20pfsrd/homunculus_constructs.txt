@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/homunculus
+Homunculus CR 1
+XP 400
+Any alignment (same as creator)
+Tiny construct
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +3
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 11 (2d10)
+Fort +0, Ref +4, Will +1
+Defensive Abilities construct traits
+OFFENSE
+Speed 20 ft., fly 50 ft. (good)
+Melee 1 bite +3 (1d4–1 plus poison)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 8, Dex 15, Con —, Int 10, Wis 12, Cha 7
+Base Atk +2; CMB +2; CMD 11
+Feats Lightning Reflexes
+Skills Fly +10, Perception +3, Stealth +12
+Languages Common (cannot speak); telepathic link
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 13; frequency 1/minute for 60 minutes; effect sleep for 1 minute; cure 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+Telepathic Link (Su) A homunculus cannot speak, but the process of creating one links it telepathically with its creator. A homunculus knows what its master knows and can convey to him or her everything it sees and hears, out to a distance of 1,500 feet.

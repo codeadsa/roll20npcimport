@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/lich-shade
+Lich Shade CR 9
+XP 6,400
+NE Medium undead
+Init +8; Senses darkvision 60 ft., spell sense 100 ft.; Perception +17
+DEFENSE
+AC 20, touch 15, flat-footed 15 (+4 Dex, +1 dodge, +5 natural)
+hp 104 (11d8+55)
+Fort +10, Ref +9, Will +12
+Defensive Abilities channel resistance +2; DR 10/ bludgeoning and magic; Immune undead traits; Resist cold 10, electricity 10; SR 20
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +15 (1d6+7 plus 1d6 cold)
+Special Attacks chill, death throes, spell leech
+STATISTICS
+Str 24, Dex 19, Con –, Int 19, Wis 16, Cha 20
+Base Atk +8; CMB +15; CMD 30
+Feats Combat Reflexes, Dodge, Great Fortitude, Improved Initiative, Iron Will, Lightning Reflexes
+Skills Intimidate +19, Knowledge (arcana) +18, Knowledge (religion) +18, Perception +17, Sense Motive +19, Spellcraft +18, Stealth +20, Use Magic Device +16; Racial Modifiers +2 Sense Motive, +2 Stealth
+Languages Common, Infernal, plus any four
+SPECIAL ABILITIES
+Chill (Su) A lich shade’s claws inflict an additional 1d6 points of cold damage on a hit, and any creature that takes this additional cold damage must make a DC 20 Fortitude save or be staggered for 1 round by the numbing chill. The save DC is Charisma-based.
+Death Throes (Su) When a lich shade is destroyed, it explodes into a burst of choking dust. All creatures within 10 feet must make a DC 20 Fortitude save or take 1d6 points of Constitution damage from the violent choking and necromantic scouring of this supernaturally vile dust. Those who fail the save are also nauseated for 1d6 rounds, while those who succeed are merely sickened for 1d6 rounds. The save DC is Charisma-based.
+Spell Leech (Su) Whenever a spellcaster within 50 feet of a lich shade casts a spell, the spellcaster must make a DC 20 Will save or the spell is lost, as if it were counterspelled. The lost spell’s energy is transferred to the lich shade, who can use the magical energy in one of the following three ways. A lich shade can only store the energy of one spell at a time.
+Cast: A lich shade can cast the spell on his turn at caster level 11th. When casting spells in this manner, he ignores the spell’s material component requirements, but not its focus requirements. Eldritch Bolt: A lich shade can release the spell as an eldritch bolt of pure magic energy as a standard action (range 50 ft., ranged touch +12, 1d6 damage per 2 levels of the spell used to create it). Healing: A lich shade can absorb the spell’s energy to heal hit points equal to the spell’s level × 4. Hit points in excess of his maximum are instead gained as temporary hit points. These temporary hit points last for 1 hour before fading. Spell Sense (Su) A lich shade can automatically pinpoint the location of any spellcaster within 100 feet who has cast a spell within the previous round. It can also identify spells as they are being cast and all existing spell effects as if it were under the effects of greater arcane sight.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/skulleton
+Skulleton CR 3
+XP 800
+NE Tiny undead
+Init +0; Senses darkvision 60 ft.; Perception +11
+DEFENSE
+AC 14, touch 12, flat-footed 14 (+2 natural, +2 size)
+hp 26 (4d8+8)
+Fort +3, Ref +1, Will +5
+Immune undead traits
+OFFENSE
+Speed fly 10 ft. (perfect)
+Melee bite +5 (1d3-2 plus disease)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks dust
+STATISTICS
+Str 6, Dex 10, Con –, Int 10, Wis 12, Cha 14
+Base Atk +3; CMB +1; CMD 9 (can’t be tripped)
+Feats Dazzling Display, Weapon FinesseB, Skill Focus (Intimidate)B, Weapon Focus (bite)
+Skills Fly +19, Intimidate +12, Perception +11, Stealth +16
+Languages Common (cannot speak)
+SPECIAL ABILITIES
+Disease (Ex) Filth fever: Bite–injury; save Fort DC 12, onset 1d3 days, frequency 1/day, effect 1d3 Dex damage and 1d3 Con damage, cure 2 consecutive saves.
+Dust (Ex) The skulleton can use its crumbled remains to attack any creature that comes within 10 feet. Twice per day as a standard action, it can billow forth a cloud of dust that surrounds it in a 10-foot radius. Creatures caught within the area must succeed on a DC 14 Fortitude save or be nauseated for 6 rounds. The dust cloud remains for 2 rounds and can be affected by wind. The save DC is Charisma-based.

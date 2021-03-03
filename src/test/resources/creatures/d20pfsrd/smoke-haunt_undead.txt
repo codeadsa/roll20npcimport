@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/smoke-haunt
+Smoke Haunt CR 5
+XP 1,600
+Always CE Small Undead (fire)
+Init +9; Senses Darkvision 60 ft., Flame seer ½ mile; Perception +7; Aura Lifedrinking 20 ft.; Smoke Patterns 20 ft.
+DEFENSE
+
+AC 21, touch 17, flat-footed 15 (+5 Dex., +1 Dodge, +4 Natural, +1 Size
+hp 51 (6d8+24 Cha.)
+Fort +6, Ref +9, Will +7
+Defensive Abilities undead traits; Immune fire;
+Weaknesses Vulnerability to cold
+OFFENSE
+Speed fly 50 ft. (perfect)
+Melee Slam +10 (1d3+2d6 negative energy)
+Spell-Like Abilities (CL 5, +10 Concentration, + 10 ranged touch)
+3/day— ghost sound (DC 14), heat metal (DC 16), scorching ray
+1/day— deep slumber (DC 17), fire shield, suggestion (DC 17)
+TACTICS
+
+Before Combat: A smoke haunt uses its flameseer ability to find prospective prey, then teleports nearby.
+During Combat: A smoke haunt hides in flames, letting its lifedrinking ability weaken those nearby.
+Morale: A smoke haunt flees if detected.
+STATISTICS Str -, Dex 20, Con -, Int 8, Wis 15, Cha 19
+Base Atk +4; CMB +3; CMD 18
+Feats Dodge, Improved Initiative, Lightning Reflexes
+Skills Acrobatics +12, Fly +16, Perception +7, Stealth +18
+Languages Common
+SQ Flameseer, Flamewalker
+SPECIAL ABILITIES Flameseer (Su) A smoke haunt can sense any fire of torch size or larger within a half mile. By concentrating, it can peer through such flames as if using clairaudience and clairvoyance.
+Flamewalker (Su) Once per day, a smoke haunt can use greater teleport to appear in any fire of Small size or larger. When a smoke haunt teleports into a fire, it can make a Stealth check as part of the teleportation to avoid notice from any creatures nearby.
+Lifedrinking (Su) A smoke haunt feeds on the heat of the living. A haunt seems to shed soothing warmth, but this is actually the sensation of life being absorbed by the ravenous undead. Any living creature within 20 feet of a smoke haunt must make a DC 17 Fortitude save or take 2d6 points of negative energy damage. A victim who fails to resist this attack feels warm and complacent, having no idea he has taken any damage unless he makes a DC 15 Wisdom check. If a victim makes this save, he feels strangely weak, but does not necessarily notice the smoke haunt. The save DCs are Charisma-based.
+Smoke Patterns (Su) A smoke haunt exudes coils of smoke whenever it is surrounded by a fire of Small size or larger. Anyone within 20 feet of a smoke haunt immersed in fire must make a DC I 7 Will save or become entranced by the eerie patterns formed amid the rising smoke, taking a -4 penalty on Perception checks and a -2 penalty on Will saves for as long as the smoke haunt remains in range. This is a mind-affecting pattern. A creature that successfully saves against this ability cannot be affected by the same smoke haunt’s smoke patterns for 24 hours. The save DC is Charisma-based.

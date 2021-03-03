@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/grodair
+Grodair CR 5
+XP 1,600
+CN Medium magical beast (aquatic, extraplanar)
+Init -1; Senses darkvision 60 ft., low-light vision; Perception +1
+DEFENSE
+AC 16, touch 9, flat-footed 16 (-1 Dex, +7 natural)
+hp 66 (7d10+28)
+Fort +11, Ref +4, Will +5
+OFFENSE
+Speed 30 ft., swim 60 ft.
+Melee bite +11 (1d8+4), 2 tentacles +6 (1d4+2 plus trip)
+Ranged water blast +7 touch (1d8 plus push)
+Special Attacks death flood, push (water blast, 5 ft.)
+Spell-Like Abilities (CL 7th; concentration +9)
+At will—control water
+STATISTICS
+Str 18, Dex 8, Con 19, Int 12, Wis 13, Cha 15
+Base Atk +7; CMB +11; CMD 20 (24 vs. trip)
+Feats Combat Reflexes, Great Fortitude, Iron Will, Weapon Focus (water blast)
+Skills Knowledge (nature) +8, Survival +8, Swim +22
+Languages Aquan, Sylvan
+SQ amphibious, muddy field
+SPECIAL ABILITIES
+Death Flood (Su) When a grodair is killed, it immediately explodes in a 15-foot-radius burst of highly pressurized water that deals 5d6 points of damage (DC 17 Reflex for half). After the explosion, a successful DC 25 Survival check allows a creature to recover a cluster of strange organs from the remains. This cluster functions as a decanter of endless water for 2d6 hours, but can only produce a “stream” or “fountain” effect. Failing this Survival check by 5 or more causes the cluster to burst, dealing an additional 2d6 points of damage to that creature (no save) and destroying the organs entirely. The save DC is Constitution-based.
+Muddy Field (Su) As a standard action when on sand, soil, or other types ofloose earth, a grodair can gush standing water into the area surrounding it. Upon doing so, the land within 15 feet of the grodair is treated as a shallow bog. This water remains as long as the grodair is within 15 feet and wishes to maintain the water. The bog instantly disperses as soon as the grodair is killed or moves out of the area.
+Water Blast (Ex) The grodair’s ranged attack is a pressurized blast of water. This attack has a range of 60 feet with no range increment.

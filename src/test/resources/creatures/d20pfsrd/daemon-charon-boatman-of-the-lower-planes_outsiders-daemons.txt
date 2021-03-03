@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/daemon-charon-boatman-of-the-lower-planes
+Charon (Boatman of the lower planes)
+CR 23
+XP 820,000
+NE Medium outsider (daemon, evil, extraplanar)
+Init +9; Senses darkvision 60 ft., detect evil, detect good, detect magic, detect thoughts; Perception +47
+DEFENSE
+AC 40, touch 24, flat-footed 35 (+5 Dex, +16 natural, +9 profane)
+hp 464 (32d10+288)
+Fort +29, Ref +25, Will +20
+DR 20/good; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 33
+OFFENSE
+Speed 50 ft.
+Melee +3 quarterstaff +46/+41/+36/+31 (1d6+13 plus paralysis/19-20)
+Special Attacks fear gaze (30 ft., DC 35 Will or affected by fear spell)
+Spell-Like Abilities (CL 23rd)
+Constant—detect evil, detect good, detect magic, detect thoughts (DC 21), see invisibility
+At will—alter self, deeper darkness, desecrate, fear (DC 23), greater teleport (self plus skiff only), plane shift (self plus skiff only), silent image (DC 20), suggestion (DC 22)
+3/day—wall of fire, mass suggestion (DC 25)
+1/day—symbol of fear (DC 25), symbol of pain (DC 24), summon (level 9, 2d4 charonadaemons or piscodaemons, or 2d6 hydrodaemons 100%)
+STATISTICS
+Str 31, Dex 20, Con 28, Int 26, Wis 26, Cha 28
+Base Atk +32; CMB +42 [+32 BAB +10 Str ]; CMD 57 [10 base +42 CMB +5 Dex]
+Feats Alertness, Blind-Fight, Combat Reflexes, Combat Expertise, Great Fortitude, Improved Critical (quarterstaff), Improved Initiative, Improved Sunder, Iron Will, Lightning Reflexes, Persuasive, Power Attack, Quicken Spell-Like Ability (suggestion), Skill Focus (Bluff), Skill Focus (Diplomacy), Weapon Focus (quarterstaff)
+Skills Appraise +40, Bluff +50, Diplomacy +54, Escape Artist +37, Intimidate +45, Knowledge (arcana) +40, Knowledge (history) +40, Knowledge (local) +43, Knowledge (planes) +43, Perception +47, Sense Motive +47, Spellcraft +43, Stealth +40, Survival +43
+Languages Abyssal, Aquan, Celestial, Common, Daemonic, Draconic, Ignan, Infernal; telepathy 100 ft.
+SQ control Styx, immortality
+Gear +3 quarterstaff
+SPECIAL ABILITIES
+Paralysis (Ex) A creature hit by Charon’s staff takes normal damage and must succeed on a DC 30 Fortitude save or be paralyzed for 2d6 minutes. The paralysis ability only functions in Charon’s hands.
+Control Styx (Su) Charon can control the waters of the River Styx as if using the control water spell (CL 23rd). Additionally, he can form a Huge 16 HD water elemental (known as a Styx elemental) as a standard action using this ability. A Styx elemental uses the standard 16 HD water elemental statistics with the following additional special attack:
+An opponent hit by a Styx elemental’s slam attack must succeed on a DC 23 Will save or forget everything about its past life (treat this as a feeblemind spell). The save DC is Constitution-based. Even if the save is successful, the opponent acts as if affected by a confusion spell (CL 20th) for one day. The confusion effects can be removed using break enchantment, dispel magic, or greater magic. Charon can have only one Styx elemental in existence at one time. A Styx elemental is CR 8.
+Immortality (Ex) Charon is native to five Lower Planes (Abyss, Gehenna, Hades, Nine Hells, and Tarterus), thus when his form is destroyed on one plane, he ceases to exist there, but still exists on the other four. When destroyed on one of the aforementioned planes, it takes but a single day for him to reform and return to that plane. To be permanently destroyed, Charon must be slain on all five Lower Planes within a single day.

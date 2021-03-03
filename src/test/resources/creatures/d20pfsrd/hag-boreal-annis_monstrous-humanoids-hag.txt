@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/hag/hag-boreal-annis
+Boreal Annis Hag CR 7
+XP 3,200
+CE Large monstrous humanoid (cold)
+Init +1; Senses darkvision 60 ft.; Perception +13
+DEFENSE
+AC 20, touch 10, flat-footed 19 (+1 Dex, +10 natural, –1 size)
+hp 73 (7d10+35)
+Fort +9, Ref +6, Will +6
+DR 5/bludgeoning; Immune cold; SR 17
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft.
+Melee bite +14 (1d6+8 plus 1d6 cold), 2 claws +14 (1d6+8 plus 1d6 cold)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 1d6+12)
+Spell-Like Abilities (CL 7th; concentration +7)
+3/day—alter self, fog cloud
+STATISTICS
+Str 27, Dex 12, Con 20, Int 13, Wis 13, Cha 10
+Base Atk +7; CMB +16; CMD 26
+Feats Alertness, Blind-Fight, Great Fortitude, Intimidating Prowess
+Skills Bluff +7, Diplomacy +7, Intimidate +18, Perception +13, Sense Motive +3, Stealth +7 (+11 in snow); Racial Modifiers +4 Stealth (in snow), +4 Survival (in snow)
+Languages Common, Giant
+SQ trackless step
+SPECIAL ABILITIES
+Trackless Step (Ex) A boreal annis hag does not leave a trail in snow and cannot be tracked. She can choose to leave a trail if she so desires.

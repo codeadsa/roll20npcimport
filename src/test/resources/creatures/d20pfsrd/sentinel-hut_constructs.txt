@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/sentinel-hut
+Sentinel Hut CR 8
+XP 4,800
+N Huge construct
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 21, touch 11, flat-footed 18 (+3 Dex, +10 natural, –2 size)
+hp 95 (10d10+40)
+Fort +3, Ref +6, Will +3
+Defensive Abilities dancing evasion; DR 5/adamantine; Immune acid, cold, construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee bite +15 (2d4+7 plus grab), slam +15 (2d6+7)
+Space 15 ft.; Reach 15 ft.
+Special Attacks stir crazy, swallow whole (1d2 Wisdom damage, AC 15, 9 hp), trample (2d6+10, DC 22)
+STATISTICS
+Str 25, Dex 17, Con —, Int —, Wis 11, Cha 16
+Base Atk +10; CMB +19 (+23 grapple); CMD 32
+SPECIAL ABILITIES
+Dancing Evasion (Ex) The sentinel hut’s dancing and hopping movements give it a +3 bonus on all Reflex saves.
+Immune to Magic (Ex) Sentinel huts are immune to any spell or spell-like ability that allows spell resistance, with the exception of spells with the fire descriptor, which affect it normally.
+Stir Crazy (Su) A victim swallowed whole by a sentinel hut is trapped in a plain, 10-foot-square room. A trapped creature is not considered grappled, and can move freely about the room. Every round, it is bombarded with a powerful psychic force that causes 1d2 points of Wisdom damage. To escape, the victim must deal damage on the sentinel hut’s door (AC 15, 12 hp).
+Damage dealt to any part of the interior other than the door still adds to the damage dealt to the construct overall, but won’t free the victim. If sufficient damage is dealt to the hut to destroy it (from without or within), the trapped creature is freed, but must succeed at a DC 22, Will save or be afflicted by insanity. Victims who break through the door from within are not subject to this latter effect.

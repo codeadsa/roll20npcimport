@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/dark-creeper
+Dark Creeper CR 2
+XP 600
+CN Small humanoid (dark folk)
+Init +3; Senses see in darkness; Perception +4
+DEFENSE
+AC 16, touch 14, flat-footed 13 (+2 armor, +3 Dex, +1 size)
+hp 19 (3d8+6)
+Fort +3, Ref +6, Will +1
+Weaknesses light blindness
+OFFENSE
+Speed 30 ft.
+Melee dagger +6 (1d3/19–20 plus poison)
+Special Attacks death throes, sneak attack (+1d6)
+Spell-Like Abilities (CL 3rd)
+At will—darkness, detect magic
+STATISTICS
+Str 11, Dex 17, Con 14, Int 9, Wis 10, Cha 8
+Base Atk +2; CMB +1; CMD 14
+Feats Skill Focus (Sleight of Hand), Weapon Finesse
+Skills Climb +8, Perception +4, Sleight of Hand +7, Stealth +12; Racial Modifiers +4 Climb, +4 Perception, +4 Stealth
+Languages Dark Folk
+SQ poison use, rag armor
+SPECIAL ABILITIES
+Death Throes (Su) When a dark creeper is slain, its body combusts in a flash of bright white light, leaving its gear in a heap on the ground. All creatures within a 10-foot burst must make a DC 13 Fortitude save or be blinded for 1d6 rounds. Other dark creepers within 10 feet are automatically blinded for at least 1 round, due to their light blindness. The save is Constitution-based.
+Poison Use (Ex) Dark creepers are skilled in the use of poison and never risk accidentally poisoning themselves. Dark creepers favor a foul-smelling black paste distilled from certain deep-underground fungi known as black smear—injury; save Fort DC 15; frequency 1/round for 6 rounds; effect 1d2 Str; cure 1 save.
+Rag Armor (Ex) A dark creeper’s multiple layers of filthy rags function as leather armor when worn by one of their kind.
+See in Darkness (Su) A dark creeper can see perfectly in darkness of any kind, including that created by deeper darkness.

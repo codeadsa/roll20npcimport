@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/derro/derro-magister
+Derro Magister CR 5
+XP 1,600
+CE Small humanoid (derro)
+Init +7; Senses darkvision 60 ft.; Perception +4
+DEFENSE
+AC 19, touch 14, flat-footed 16 (+2 armor, +3 Dex, +3 natural, +1 size)
+hp 52 (7d8+21)
+Fort +7, Ref +5, Will +8
+Immune mind-affecting effects; SR 16
+Weaknesses vulnerable to sunlight
+OFFENSE
+Speed 20 ft.
+Melee mwk quarterstaff +10 (1d4+3)
+Special Attacks cytillesh stare, puppeteer, sneak attack +3d6
+Psychic Magic (CL 6th; concentration +9)
+20 PE—babble (2 PE, DC 15), battlemind link (4 PE), greater synaptic pulse (4 PE, DC 17), mad hallucination (2 PE, DC 15), mind probe (4 PE, DC 17), mindwipe (4 PE, DC 17), paranoia (1 PE, DC 14), placebo effect (2 PE), synaptic overload (4 PE, DC 17), synaptic scramble (3 PE, DC 16), synesthesia (3 PE, DC 16)
+Spell-Like Abilities (CL 6th; concentration +9)
+At will—id insinuation II (DC 16), modify memory (DC 17)
+STATISTICS
+Str 15, Dex 17, Con 16, Int 16, Wis 5, Cha 16
+Base Atk +5; CMB +6; CMD 19
+Feats Combat Casting, Great Fortitude, Improved Initiative, Weapon Finesse
+Skills Craft (alchemy) +13, Knowledge (arcana) +10, Perception +4, Spellcraft +10, Stealth +14
+Languages Aklo, Undercommon
+SQ psychic incoherence
+SPECIAL ABILITIES
+Cytillesh Stare (Ex) Spores of cytillesh fungus in a derro magister’s blood grant it a powerful stare. This works like the hypnotic stare of an 8th-level mesmerist with the painful stare ability and all seven of the base mesmerist’s bold stares. When the cytillesh stare ends, the affected creature automatically forgets all that occurred while it was under the stare’s effects. This is a mind-affecting effect.
+Psychic Incoherence (Su) A derro magister uses its Charisma modifier on Will saves instead of its Wisdom modifier. Creatures attempting to read a magister’s mind must succeed at a DC 16 Will save or take 5d6 points of damage from mental anguish; this is a mind-affecting effect. The save DC is Charisma-based.
+Puppeteer (Su) As a standard action, a derro magister can target one willing creature within 30 feet, which can take an immediate action to perform one full turn’s worth of actions of the magister’s choice. Creatures do not obey obviously self-destructive orders. While affected, the creature does not suffer from incapacitating effects such as stun or paralysis; such effects don’t prevent it from taking this immediate action.
+Vulnerable to Sunlight (Ex) A derro magister takes 2 points of Constitution damage after every hour it’s exposed to sunlight.

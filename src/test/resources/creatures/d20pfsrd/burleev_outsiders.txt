@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/burleev
+Burleev CR 4
+XP 1,200
+N Medium outsider (cold or fire, extraplanar)
+Init +4; Senses darkvision 60 ft., detect magic; Perception +9
+DEFENSE
+AC 16, touch 10, flat-footed 16 (+6 natural)
+hp 32 (5d10+5)
+Fort +5, Ref +3, Will +5
+Defensive Abilities frostfire spirit, DR 5/magic; Immune cold or fire; SR 15 Weaknesses vulnerable to cold or fire
+OFFENSE
+Speed 30 ft.
+Melee 2 slams +5 (1d6 plus 1d6 cold or fire)
+Spell-Like Abilities (CL 5th; concentration +8)
+At will—detect magic, read magic
+3/day—cure light wounds
+1/day—invisibility
+Sorcerer Spells Known (CL 5th; concentration +8)
+2nd (5)—acid arrow, daze monster (DC 15)
+1st (7)—chill touch (DC 14), color spray (DC 14), magic missile, sleep (DC 14)
+0 (at will)—dancing lights, daze (DC 13), disrupt undead, ghost sound (DC 13), mage hand, prestidigitation
+STATISTICS
+Str 11, Dex 10, Con 13, Int 10, Wis 13, Cha 16
+Base Atk +5; CMB +5; CMD 15
+Feats Combat Casting, Improved Initiative, Lightning Reflexes
+Skills Intimidate +11, Knowledge (arcana) +8, Knowledge (planes) +8, Perception +9, Spellcraft +8, Stealth +4, Use Magic Device +11; Racial Modifiers +4 Stealth
+Languages Abyssal, Celestial, Draconic, Protean; read magic
+SPECIAL ABILITIES
+Frostfire Spirit (Su) A burleev is surrounded by either cold or fire energy. The burleev can change the energy type as a swift action. When surrounded by fire, the burleev has the fire subtype, it adds fire damage to its attacks, and creatures striking it with melee weapons, natural attacks, or unarmed strikes take 1d6 points of fire damage; when surrounded by cold, it instead gains the cold subtype and deals cold damage rather than fire damage. It can also completely dampen its aura for 1d6 rounds, but cannot reactivate it until this time has passed.
+Spells A burleev cast spells as a 5th-level sorcerer.

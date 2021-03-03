@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/derro
+Derro CR 3
+XP 800
+CE Small humanoid (derro)
+Init +6; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 17, touch 13, flat-footed 15 (+2 armor, +2 Dex, +2 natural, +1 size)
+hp 25 (3d8+12)
+Fort +5, Ref +3, Will +6
+SR 14
+Weaknesses vulnerability to sunlight
+OFFENSE
+Speed 20 ft.
+Melee short sword +5 (1d4) or aklys +5 (1d6)
+Ranged repeating light crossbow +5 (1d6/19–20 plus poison) or aklys +5 (1d6)
+Special Attacks sneak attack +1d6
+Spell-Like Abilities (CL 3rd)
+At will—darkness, ghost sound (DC 13)
+1/day—daze (DC 13), sound burst (DC 15)
+STATISTICS
+Str 11, Dex 15, Con 18, Int 10,Wis 5, Cha 16
+Base Atk +2; CMB +1; CMD 13
+Feats Improved Initiative, Weapon Finesse
+Skills Perception +0, Stealth +9
+Languages Aklo, Undercommon
+SQ madness, poison use
+SPECIAL ABILITIES
+Madness (Ex) Derros use their Charisma modifier on Will saves instead of their Wisdom modifier, and are immune to insanity and confusion effects. Only a miracle or wish can remove a derro’s madness. If this occurs, the derro gains 6 points of Wisdom and loses 6 points of Charisma.
+Poison Use (Ex) Derros are not at risk of poisoning themselves when handling poison. They use Medium spider venom to poison their crossbow bolts, and generally carry 10 pre-poisoned bolts at all times.
+Medium Spider Venom—injury; save Fort DC 14; frequency 1/round for 4 rounds; effect 1d2 Strength damage; cure 1 save.
+Vulnerability to Sunlight (Ex) A derro takes 1 point of Con damage after every hour it is exposed to sunlight.

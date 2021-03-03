@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/atomie-3PP
+Atomie CR 1
+XP 400
+CN Tiny fey
+Init +7; Senses low-light vision; Perception +7
+DEFENSE
+AC 15, touch 15, flat-footed 12 (+3 Dex, +2 size)
+hp 10 (3d6)
+Fort +1; Ref +6; Will +4
+DR 5/cold iron; SR 12
+OFFENSE
+Speed 40 ft., fly 60 ft. (good)
+Melee short sword +6 (1d3-3)
+Ranged light crossbow +6 (1d4)
+Space 2-1/2 ft.; Reach 0 ft.
+Spell-Like Abilities (CL 3rd)
+
+3/day—blink, entangle (DC 13), invisibility (self only), pass without trace, speak with animals
+STATISTICS
+Str 5, Dex 17, Con 11, Int 12, Wis 13, Cha 14
+Base Atk +1; CMB +2; CMD 9
+Feats Improved Initiative, Weapon Finesse
+Skills Acrobatics +9, Bluff +8, Craft (any) +7, Escape Artist +9, Fly +11, Knowledge (nature) +7, Perception +7, Perform (dance) +8, Stealth +11 (+15 in forests); Racial Modifiers +4 Stealth in forests
+Languages Common, Sylvan

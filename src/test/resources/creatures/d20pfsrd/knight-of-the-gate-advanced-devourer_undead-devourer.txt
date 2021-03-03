@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/devourer/knight-of-the-gate-advanced-devourer
+Knight of the Gate (Unique Advanced Devourer)
+CR 12
+XP 19,200
+Advanced devourer
+NE Large undead (extraplanar)
+Init +9; Senses darkvision 60 ft.; Perception +22
+DEFENSE
+AC 30, touch 12, flat-footed 27 (+3 armor, +3 Dex, +15 natural, –1 size)
+hp 161 (14d8+98)
+Fort +11, Ref +9, Will +14
+Defensive Abilities spell deflection, undead traits; SR 23
+OFFENSE
+Speed 30 ft., fly 20 ft. (perfect)
+Melee 2 claws +20 (1d8+11 plus energy drain)
+Space 10 ft.; Reach 10 ft.
+Special Attacks devour soul, energy drain (1 level, DC 24)
+Spell-Like Abilities (CL 18th; concentation +25)
+At will—animate dead 4th, bestow curse 4th (DC 21), confusion 4th (DC 21), control undead 7th (DC 24), death knell 2nd (DC 19), ghoul touch 2nd (DC 19), inflict serious wounds 3rd (DC 20), lesser planar ally 4th, ray of enfeeblement 1st, spectral hand 2nd, suggestion 3rd (DC 20), true seeing 6th, vampiric touch 3rd (DC 20)
+STATISTICS
+Str 32, Dex 20, Con —, Int 23, Wis 20, Cha 25
+Base Atk +10; CMB +22; CMD 37
+Feats Blind-Fight, Cleave, Combat Casting, Combat Expertise, Improved Initiative, Improved Sunder, Power Attack
+Skills Bluff +21, Diplomacy +21, Fly +24, Intimidate +24, Knowledge (arcana) +23, Knowledge (planes) +20, Perception +22, Sense Motive +22, Spellcraft +23, Stealth +14
+Languages Abyssal, Celestial, Common, Infernal; telepathy 100 ft.
+Gear broken masterwork breastplate
+SPECIAL ABILITIES
+Devour Soul (Su) By making a touch attack as a standard action, a devourer can deal 12d6+18 points of damage as if using a slay living spell. A DC 24 Fortitude save reduces this damage to 3d6+18. The soul of a creature slain by this attack becomes trapped within the devourer’s chest. The creature cannot be brought back to life until the devourer’s destruction (or a spell deflection—see below) releases its soul. A devourer can hold only one soul at a time. The trapped essence provides a devourer with 5 essence points for each Hit Die possessed by the soul. A devourer must expend essence points when it uses a spell-like ability equal to the spell’s level (for sake of ease, spell levels for its spell-like abilities are included in its stats in superscript).
+At the start of an encounter, a devourer generally has 3d4+3 essence points available. The trapped essence gains one permanent negative level for every 5 points of essence drained—these negative levels remain if the creature is brought back to life (but they do not stack with any negative levels imparted by being brought back to life). A soul that is completely consumed may only be restored to life by a miracle or wish. The save DC is Charisma-based.
+Spell Deflection (Su) If any of the following spells are cast at the devourer and overcome its spell resistance, they instead affect a devoured soul: banishment, chaos hammer, confusion, crushing despair, detect thoughts, dispel evil, dominate person, fear, geas/quest, holy word, hypnotism, imprisonment, magic jar, maze, suggestion, trap the soul, or any form of charm or compulsion.
+While none of these effects harms the soul, the caster makes a DC 25 caster level check when a spell is deflected—success indicates that the trapped soul is released from its prison and the creature whose body it belonged to can now be restored to life as normal.

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/diger-tohc
+Diger CR 2
+XP 600
+N Large ooze
+Init +0; Senses blindsight 60 ft.; Perception –5
+DEFENSE
+AC 14, touch 9, flat-footed 14 (+5 natural, –1 size)
+hp 31 (3d8+18);
+Fort +7; Ref +1; Will –4
+Defensive Abilities transparent; Immune ooze traits
+OFFENSE
+Speed 5 ft., fly 30 ft (poor), swim 40 ft.
+Melee slam +3 (1d4+3 plus 1d4 acid plus paralysis)
+Space 10 ft.; Reach 5 ft.
+Special Attacks engulf (DC 17, 1d4 acid and paralysis), paralysis (1d6 rounds, DC 17)
+STATISTICS
+Str 15, Dex 10, Con 23, Int —, Wis 1, Cha 1
+Base Atk +2; CMB +5; CMD 15 (can’t be tripped)
+Skills Fly –6, Stealth +4, Swim +10; Racial Modifiers +8 Stealth
+SQ limited flight
+SPECIAL ABILITIES
+Limited Flight (Ex) By releasing naturally occurring helium from its body, a diger is able to fly for a number of rounds equal to 1 + 1/2 its current Constitution score (12 rounds for the average diger). After that, it must land and cannot fly again until it has rested for 2 minutes (20 rounds).
+Transparent (Ex) A diger is transparent in water. It takes a successful DC 15 Perception check to recognize a motionless diger for what it really is.

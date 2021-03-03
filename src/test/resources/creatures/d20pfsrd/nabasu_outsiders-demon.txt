@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/nabasu
+Nabasu CR 8
+XP 4,800
+CE Medium outsider (chaotic, demon, evil, native)
+Init +7; Senses darkvision 60 ft.; Perception +23
+DEFENSE
+AC 22, touch 14, flat-footed 18 (+3 Dex, +1 dodge, +8 natural)
+hp 103 (9d10+54)
+Fort +9, Ref +9, Will +9
+DR 10/cold iron or good; Immune death effects, electricity, paralysis, poison; Resist acid 10, cold 10, fire 10; SR 19
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee 2 claws +15 (1d6+6), bite +15 (1d8+6)
+Special Attacks consume life, death-stealing gaze, sneak attack +2d6
+Spell-Like Abilities (CL 8th)
+At will—deeper darkness, greater teleport (self plus 50 lbs. of objects only), telekinesis (DC 19)
+3/day—enervation, silence (DC 16), vampiric touch
+1/day—mass hold person (DC 21), regenerate, summon (level 4, 1 nabasu 30% or 1d4 babaus 30%)
+STATISTICS
+Str 22, Dex 17, Con 22, Int 15, Wis 16, Cha 19
+Base Atk +9; CMB +15; CMD 29
+Feats Cleave, Combat Expertise, Dodge, Improved Initiative, Power Attack
+Skills Acrobatics +15, Fly +15, Knowledge (arcana) +14, Knowledge (planes) +14, Perception +23, Sense Motive +15, Stealth +15 (+23 in shadowy areas), Survival +15; Racial Modifiers +8 Perception, +8 Stealth in shadowy areas
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SPECIAL ABILITIES
+Consume Life (Su) When a nabasu creates a ghoul with its gaze attack, it gains a growth point. It gains a bonus equal to its growth point total on attack rolls, CMB rolls, saving throws, caster level checks, and skill checks. Its maximum hit points increase by 10 for each growth point, and its caster level for spell-like abilities increases by 1. For every 2 growth points, its natural armor bonus, SR, and CR increase by 1. Every time it gains a growth point it makes a DC 30 caster level check—success indicates it matures (gaining both the advanced and the giant simple templates) and plane shifts to the Abyss in a burst of smoke. A nabasu can have a maximum of 20 growth points—it automatically matures if it has not done so already when it reaches 20 growth points.
+Death-Stealing Gaze (Su) As a free action once per day per growth point (minimum of 1/day), a nabasu can activate its death-stealing gaze for a full round. All living creatures within 30 feet must succeed on a DC 18 Fortitude save or gain a negative level. A humanoid slain in this manner immediately transforms into a ghoul under the nabasu’s control. A nabasu’s gaze can only create one ghoul per round—if multiple humans perish from the gaze in a round, the nabasu picks which human becomes a ghoul. The save DC is Charisma-based.
+Variants and Examples
+
+Advanced Nabasu (CR 17)

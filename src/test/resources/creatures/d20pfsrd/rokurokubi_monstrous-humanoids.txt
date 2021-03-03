@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/rokurokubi
+Rokurokubi CR 14
+XP 38,400
+LE Medium monstrous humanoid
+Init +10; Senses darkvision 60 ft.; Perception +21; Aura nightfall (15 ft.)
+DEFENSE
+AC 28, touch 16, flat-footed 22 (+6 Dex, +12 natural)
+hp 195 (17d10+102)
+Fort +11, Ref +16, Will +13
+DR 5/cold iron; Immune sleep; SR 25
+OFFENSE
+Speed 30 ft.
+Melee bite +24 (2d6+4/19–20 plus rokurokubi’s curse), 2 claws +23 (1d6+4)
+Space 5 ft.; Reach 5 ft. (20 ft. with bite)
+Special Attacks elongate neck, rokurokubi’s curse
+Sorcerer Spells Known (CL 12th; concentration +17)
+6th (3)—permanent image (DC 21)
+5th (6)—feeblemind (DC 20), nightmare (DC 20)
+4th (7)—charm monster (DC 19), confusion (DC 19), locate creature
+3rd (7)—dispel magic, fly, keen edge, wind wall
+2nd (7)—ghoul touch (DC 17), invisibility, knock, touch of idiocy
+1st (8)—charm person (DC 16), disguise self, obscuring mist, shocking grasp, sleep (DC 16)
+0 (at will)—arcane mark, detect magic, detect poison, ghost sound (DC 15), mage hand, message, open/close, prestidigitation, read magic
+STATISTICS
+Str 18, Dex 23, Con 22, Int 15, Wis 12, Cha 21
+Base Atk +17; CMB +21; CMD 37
+Feats Combat Casting, Combat Expertise, Combat Reflexes, Deceitful, Improved Critical (bite), Improved Initiative, Iron Will, Weapon Finesse, Weapon Focus (bite)
+Skills Bluff +26, Climb +24, Disguise +26, Intimidate +25, Perception +21, Stealth +26
+Languages Aklo, Common
+SQ no sleep
+SPECIAL ABILITIES
+Elongate Neck (Ex) A rokurokubi can stretch her neck from a normal human length up to 20 feet, giving her reach with her bite attack and threatening all squares within that range.
+Nightfall Aura (Su) A rokurokubi can create an aura of darkness and silence (CL 12th) with a radius of 15 feet. The rokurokubi is immune to the effects of her aura, and can activate or suppress this ability as a free action. These aura effects can be dispelled as if they were spells.
+No Sleep (Ex) A rokurokubi does not need to sleep and is immune to all sleep effects.
+Rokurokubi’s Curse (Su) Bite—injury; save Will DC 23; frequency 1 day; effect 1 Cha damage and permanently silenced after 4 Cha damage. Fully healing the Cha damage cures the silence. The save DC is Charisma-based.
+Spells A rokurokubi casts spells as a 12th-level sorcerer.

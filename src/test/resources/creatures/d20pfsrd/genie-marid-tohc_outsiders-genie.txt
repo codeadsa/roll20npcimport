@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/genie/genie-marid-tohc
+Marid Genie CR 9
+XP 6,400
+CN Large outsider (extraplanar, water)
+Init +8; Senses darkvision 60 ft.; Perception +17
+DEFENSE
+AC 23, touch 14, flat-footed 18 (+4 Dex, +1 dodge, +9 natural, –1 size)
+hp 114 (12d10+48)
+Fort +10; Ref +12; Will +10
+OFFENSE
+Speed 20 ft., swim 60 ft.
+Melee 2 slams +17 (2d6+6) or masterwork trident +18/+13/+8 (2d6+9)
+Space 10 ft.; Reach 10 ft.
+Special Attacks vortex (1/10 minutes, 10–50 ft. tall, 1d8+4 damage, DC 22), water mastery, water’s fury
+Spell-Like Abilities (CL 12th)
+Constant—detect evil, detect good, detect magic, water walk
+At-will—create water, invisibility, plane shift (willing targets to elemental planes, Astral Plane, or Material Plane only), purify food and drink (liquids only), quench
+5/day—control water, gaseous form, obscuring mist, water breathing
+3/day—see invisibility
+1/day—persistent image (DC 18)
+1/year—grant 1 wish (to non-genies only)
+STATISTICS
+Str 23, Dex 19, Con 18, Int 14, Wis 15, Cha 16
+Base Atk +12; CMB +19; CMD 34
+Feats Combat Casting, Combat Reflexes, Dodge, Great Fortitude, Improved InitiativeB, Power Attack, Wind Stance
+Skills Craft (any one) +17, Diplomacy +18, Knowledge (planes) +17, Perception +17, Sense Motive +17, Spellcraft +17, Stealth +15, Swim +29
+Languages Aquan, Auran, Common, Ignan, Terran; telepathy 100 ft.
+SQ change shape (water elemental, humanoid or giant, alter self, elemental body III, or giant form I)
+Gear masterwork trident
+SPECIAL ABILITIES
+Vortex (Su) A marid can transform into a vortex of swirling, churning water once every 10 minutes. This ability functions identically to the whirlwind ability, save that it can only be used while the marid is underwater; a marid cannot leave a body of water while in vortex form.
+Water Mastery (Ex) A marid gains a +1 bonus on attack and damage rolls if both it and its opponent are touching water. If the opponent or the marid is touching the ground, the marid takes a –4 penalty on attack and damage rolls.
+Water’s Fury (Su) As a standard action, a marid can release a jet of water in a 60-foot line that deals 1d6 points of damage and blinds the target struck for 1d6 rounds. A DC 20 Reflex save reduces the damage by half and negates the blinding effect. The save DC is Constitution-based.
+Noble Marid
+Noble marids are the princes and pashas of the marid homeland. Noble marids have at least 15 HD and gain the following spell-like abilities in addition to the ones listed above:
+3/day—cone of cold, ice storm;
+1/day—elemental swarm (water elementals only), permanent image.
+A noble marid’s caster level for its spell-like abilities is 20th. Noble marid are CR 11.

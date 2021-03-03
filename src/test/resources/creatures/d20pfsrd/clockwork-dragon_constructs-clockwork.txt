@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork/clockwork-dragon
+Clockwork Dragon CR 16
+XP 76,800
+N Huge construct (clockwork)
+Init +8; Senses darkvision 60 ft., low-light vision, see invisibility; Perception +8
+DEFENSE
+AC 34, touch 14, flat-footed 28 (+4 Dex, +2 dodge, +20 natural, –2 size)
+hp 177 (25d10+40)
+Fort +8, Ref +14, Will +8
+DR 15/adamantine; Immune construct traits; Resist fire 20; SR 27
+Weaknesses vulnerable to electricity
+OFFENSE
+Speed 60 ft., fly 100 ft. (average), swim 60 ft.
+Melee bite +35 (4d6+12), 2 claws +35 (2d8+12), tail slap +30 (2d6+6), 2 wings +30 (2d6+6)
+Space 15 ft.; Reach 15 ft. (15 ft. with bite)
+Special Attacks adamantine weapons, breath weapon (100-ft. line, 14d6 fire damage, Reflex DC 22 half, usable every 1d4 rounds), self-destruction
+STATISTICS
+Str 34, Dex 19, Con —, Int —, Wis 11, Cha 1
+Base Atk +25; CMB +39; CMD 55 (59 vs. trip)
+Feats Improved InitiativeB, Lightning ReflexesB
+Skills Fly +8, Perception +8, Swim +20; Racial Modifiers +8 Fly, +8 Perception
+SQ difficult to create, efficient winding, swift reactions
+SPECIAL ABILITIES
+Adamantine Weapons (Ex) The teeth and claws of a clockwork dragon are made of adamantine and have the qualities of a weapon made from that material.
+Efficient Winding (Ex) Built for long and dangerous missions, a clockwork dragon can function for 3 days per Hit Die each time it’s wound.
+Self-Destruction (Ex) When a clockwork dragon’s hit points are reduced to 10% of its total (17 in the case of most clockwork dragons) or less but are still above 0, the creature self-destructs on its next turn, bursting into an explosion of metal scraps and steam that deals 10d6 points of slashing damage plus 10d6 points of fire damage to all creatures within a 20-foot-radius burst. A successful DC 22 Reflex save halves the damage. The save is Charisma-based.

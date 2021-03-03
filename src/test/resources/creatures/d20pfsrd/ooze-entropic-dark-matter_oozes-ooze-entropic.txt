@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-entropic/ooze-entropic-dark-matter
+Dark Matter Entropic Ooze CR 14
+XP 38,400
+N Huge ooze (extraplanar)
+Init -3; Senses blindsight 60 ft., soulsight 120 ft.; Perception -5
+DEFENSE
+AC 13, touch 5, flat-footed 13 (-3 Dex, +8 natural, -2 size)
+hp 391 (27d8+270)
+Fort +19, Ref +6, Will +4
+Immune negative energy, ooze traits; SR 24 (against positive energy)
+OFFENSE
+Speed 20 ft. (4 squares), climb 20 ft.
+Melee slam +28 (2d8+15 plus energy drain)
+Space 15 ft.; Reach 10 ft.
+Special Attacks devour soul, energy drain (3 levels, DC 23)
+STATISTICS
+Str 31, Dex 4, Con 30, Int –, Wis 1, Cha 10
+Base Atk +20; CMB +32; CMD 39 (can’t be tripped)
+Skills Climb +18
+SPECIAL ABILITIES
+Devour Soul (Su) A living creature slain by an entropic ooze has its soul devoured by the ooze. Such a creature cannot be returned to life until the entropic ooze that contains its soul is slain.
+Soulsight (Su) An entropic ooze can automatically detect the location of any living creature within 120 feet. It also senses the strength of their life force automatically, as if it had cast deathwatch.
+Base Creature
+Entropic Ooze

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/warsworn
+Warsworn CR 16
+XP 76,800
+NE Gargantuan undead
+Init +3; Senses darkvision 60 ft.; Perception +27; Aura frightful presence (60 ft., DC 26)
+DEFENSE
+AC 29, touch 9, flat-footed 26 (+3 Dex, +20 natural, –4 size)
+hp 207 (18d8+126)
+Fort +13, Ref +9, Will +17
+Defensive Abilities channel resistance +4; DR 10/bludgeoning and magic; Immune undead traits
+OFFENSE
+Speed 40 ft.
+Melee 4 slams +21 (2d6+12 plus energy drain)
+Ranged 1 scrap ball +12 (2d6+12)
+Space 20 ft.; Reach 5 ft.
+Special Attacks absorb dying creature, energy drain (1 level, DC 26), trample (2d6+18, DC 31)
+Spell-Like Abilities (CL 18th; concentration +25
+3/day—extended animate objects (7 Medium weapons only), telekinesis (violent thrust, heavy armor only)
+STATISTICS
+Str 34, Dex 17, Con —, Int 9, Wis 22, Cha 25
+Base Atk +13; CMB +29; CMD 42 (can’t be tripped)
+Feats Awesome Blow, Blind-Fight, Greater Overrun, Improved Bull Rush, Improved Overrun, Lightning Reflexes, Power Attack, Step Up, Strike Back
+Skills Climb +33, Perception +27, Swim +30
+Languages Common (can’t speak)
+SQ profane magic
+SPECIAL ABILITIES
+Absorb Dying Creature (Su) A warsworn can consume any dying creature by moving into the same space. This immediately kills the creature, absorbs the corpse into the warsworn, and heals the warsworn by an amount equal to the creature’s Constitution score. Absorbed corpses can’t be resurrected by any effect short of a miracle or wish until the warsworn that consumed them is destroyed.
+Profane Magic (Su) Protection from evil blocks attacks from a warsworn’s spell-like abilities. Weapons animated by the warsworn are damaged by channeled energy as if undead.
+Scrap Ball (Ex) The warsworn can throw a mass of broken weapons and armor. This deals an amount of damage equal to 2d6 + the warsworn’s Strength modifier, and has a range increment of 20 feet.

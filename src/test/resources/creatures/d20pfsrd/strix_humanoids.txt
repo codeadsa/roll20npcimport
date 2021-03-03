@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/strix
+Strix CR 1/3
+XP 135
+Strix warrior 1
+N Medium humanoid (strix)
+Init +6; Senses darkvision 60 ft., low-light vision; Perception +0 (+2 at night)
+DEFENSE
+AC 12, touch 12, flat-footed 10 (+2 Dex)
+hp 5 (1d10)
+Fort +2, Ref +2, Will +0; +2 vs. illusions
+OFFENSE
+Speed 30 ft., fly 60 ft. (average)
+Melee spear +2 (1d8+1/×3)
+Special Attacks hatred
+STATISTICS
+Str 12, Dex 15, Con 10, Int 8, Wis 11, Cha 7
+Base Atk +1; CMB +2; CMD 14
+Feats Improved Initiative
+Skills Fly +6; Racial Modifiers +2 Perception and +2 Stealth in dim light or darkness
+Languages Common, Strix
+SQ nocturnal
+SPECIAL ABILITIES
+Hatred (Ex) Strix receive a +1 bonus on attack rolls against humanoid creatures of the human subtype due to special training against these hated foes.
+Nocturnal (Ex) Strix gain a +2 racial bonus on Perception and Stealth checks at night.

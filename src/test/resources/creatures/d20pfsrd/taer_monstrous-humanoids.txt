@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/taer
+Taer CR 2
+XP 600
+N Medium monstrous humanoid (cold)
+Init +2; Senses darkvision 60 ft., scent; Perception +9; Aura stench (DC 13, 10 rounds)
+DEFENSE
+AC 17, touch 12, flat-footed 15 (+2 Dex, +5 natural)
+hp 25 (3d10+6 plus 3)
+Fort +3, Ref +5, Will +4
+Immune cold
+Weaknesses vulnerability to fire
+OFFENSE
+Speed 50 ft.
+Melee 2 slams +6 (1d4+3), bite +6 (1d4+3)
+Ranged shortspear +5 (1d6+3)
+STATISTICS
+Str 16, Dex 15, Con 15, Int 6, Wis 12, Cha 6
+Base Atk +3; CMB +6; CMD 18
+Feats Skill Focus (Perception), Toughness
+Skills Climb +8, Perception +9, Stealth +6
+Taer Characters
+Taer characters possess the following racial traits.
++6 Strength, +4 Dexterity, +4 Constitution, -4 Intelligence, +2 Wisdom, -4 Charisma. Cold Subtype: This grants taer immunity to cold and vulnerability to fire. Darkvision: Taer can see in the dark out to a range of 60 ft. Aura: Stench (see above). Racial Hit Dice: A taer begins with three levels of monstrous humanoid, which provide 3d10 Hit Dice, a base attack bonus of +3, and base saving throw bonuses of Fort +1, Ref +3, and Will +3. Racial Skills: A taer’s monstrous humanoid levels give it skill points equal to 3 x (4 + Int modifier). Racial Feats: A taer’s monstrous humanoid levels give it two feats. AC: +5 natural armor bonus. Speed: Taer have a base land speed of 50 ft. Natural Weapons: Taer can fight with 2 slam attacks that deal base 1d4 damage, as well as a bite attack that deals a base 1d4 damage. They are naturally proficient with clubs, shortspears, and spears. Languages: Taer begin play knowing only their own primitive vocalizations and gestures that pass for a language. Taer with an intelligence of at least 10 also begin knowing Common. Bonus languages for taer are Draconic, Giant, Goblin, and Orc.

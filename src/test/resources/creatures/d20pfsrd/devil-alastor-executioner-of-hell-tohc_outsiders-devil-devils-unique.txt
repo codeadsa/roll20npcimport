@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devils-unique/devil-alastor-executioner-of-hell-tohc
+Alastor CR 23
+XP 820,000
+LE Large outsider (devil, evil, extraplanar, lawful)
+Init +12; Senses darkvision 60 ft., detect good, detect thoughts; Perception +57; Aura fear (20 ft., DC 38)
+DEFENSE
+AC 48, touch 25, flat-footed 40 (+8 Dex, +23 natural, –1 size, +8 profane)
+hp 660 (40d10+440); regeneration 10 (good, silver)
+Fort +26, Ref +32, Will +34
+DR 20/good and silver; Immune fire, poison; Resist acid 10, cold 10; SR 34
+OFFENSE
+Speed 40 ft., fly 60 ft. (average)
+Melee +3 unholy vorpal battleaxe +59/+54/+49/+44 (2d6+19/19–20/x3) or 2 claws +55 (2d6+16), bite +55 (4d6+16 plus poison and disease), 2 wings +53 (2d6+16), tail slap +53 (2d8+24 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (2d8+32)
+Spell-Like Abilities (CL 20th)
+Constant—detect good, detect thoughts (DC 20)
+At will—blasphemy (DC 25), create undead, fireball (DC 21), greater dispel magic, greater teleport (self plus 50 pounds of objects only), invisibility, magic circle against good, mass hold monster (DC 27), persistent image (DC 23), power word stun, true seeing, unholy aura (DC 26), wall of fire (DC 22)
+3/day—insanity (DC 25), summon (level 9, 4 lemures, bone devils, or bearded devils, or 3 erinyes, horned devils, or ice devils, or 2 pit fiends 100%)
+1/day—meteor swarm (DC 27), power word kill
+1/week—wish.
+TACTICS
+Alastor rarely engages in combat; not because he cannot, but because most such encounters are trivial to him and he becomes bored with it very easily. If pressed into battle, he uses his power word kill ability immediately against his closest opponent. Next, he unleashes a meteor storm, followed by a fireball, before finishing his spell-like abilities with a mass hold monster against as many foes as possible. Next he wades into battle with Grimfang and his array of natural attacks. When he finally becomes bored with the battle, he seeks to quickly end it by calling in other devils to finish off any remaining opponents. Should Alastor be in danger at any time, he uses his greater teleport to escape, remembering his foes for a later time, which he will invariably hunt down with a retinue of pit fiends and kill.
+STATISTICS
+Str 43, Dex 27, Con 33, Int 28, Wis 30, Cha 26
+Base Atk +40; CMB +57 (+61 grapple); CMD 83
+Feats Alertness, Awesome Blow, Bleeding Critical, Cleave, Critical Focus, Diehard, Endurance, Great Cleave, Great Fortitude, Improved Bull Rush, Improved Critical (battleaxe), Improved Initiative, Iron Will, Lightning Reflexes, Multiattack, Persuasive, Power Attack, Quicken Spell-Like Ability (power word stun), Quicken Spell-Like Ability (fireball), Weapon Focus (battleaxe)
+Skills Acrobatics +51, Bluff +51, Diplomacy +55, Disguise +51, Fly +49, Intimidate +55, Knowledge (arcana) +49, Knowledge (local) +49, Knowledge (planes) +52, Knowledge (religion) +49, Perception +57, Sense Motive +57, Spellcraft +49, Stealth +47, Survival +50
+Languages Abyssal, Common, Celestial, Draconic, Giant, Ignan, Infernal, Terran; telepathy 100 ft.
+Gear Grimfang
+SPECIAL ABILITIES
+Poison (Ex) Bite—injury; save Fort DC 41; frequency 1/round for 10 rounds; effect 2d6 Con damage; cure 3 consecutive saves. The save is Constitution-based.
+Disease (Su) Devil Chills: Bite—injury; save Fort DC 41; onset immediate; frequency 1/day; effect 1d4 Str; cure 3 consecutive saves. The save DC is Constitution-based.
+GEAR Unique Item: Grimfang
+Grimfang is a Large +3 unholy vorpal battleaxe.
+A creature subjected to the vorpal effects of Grimfang can only be returned to life by the casting of a miracle, wish, or a true resurrection spell (the last of which must be cast on consecrated ground).

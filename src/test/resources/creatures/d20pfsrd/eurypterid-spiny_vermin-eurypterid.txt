@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/eurypterid/eurypterid-spiny
+Spiny Eurypterid CR 9
+XP 6,400
+N Huge vermin (aquatic)
+Init +3; Senses low-light vision, tremorsense 30 ft.; Perception +1
+DEFENSE
+AC 22, touch 7, flat-footed 22 (–1 Dex, +15 natural, –2 size)
+hp 114 (12d8+60)
+Fort +13, Ref +3, Will +5
+Immune mind-affecting effects
+Defensive Abilities spiny carapace
+OFFENSE
+Speed 10 ft., swim 40 ft.
+Melee 2 claws +15 (1d8+8/19–20), sting +15 (1d6+8 plus poison)
+Space 15 ft.; Reach 15 ft. (20 ft. with sting)
+Special Attacks rend (2 claws, 1d6+12)
+STATISTICS
+Str 26, Dex 9, Con 20, Int —, Wis 13, Cha 2
+Base Atk +9; CMB +19; CMD 28
+Feats Improved Critical (claw)B, Improved InitiativeB
+Skills Swim +16
+SQ amphibious
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d4 Con and 1d2 Dex; cure 2 consecutive saves.
+Spiny Carapace (Ex) The spiny eurypterid’s carapace is covered with thousands of razor-sharp spines. Any creature that attacks a spiny eurypterid with a light weapon, unarmed strike, or natural attack takes 1d6 points of piercing damage. Any creature that grapples or is grappled by a spiny eurypterid automatically takes 2d6 points of piercing damage per round the grapple is maintained.

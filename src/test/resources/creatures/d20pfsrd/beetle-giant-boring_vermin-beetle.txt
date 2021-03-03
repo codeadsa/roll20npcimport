@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/beetle/beetle-giant-boring
+Giant Boring Beetle CR 3
+XP 800
+N Large vermin
+Init +0; Senses darkvision 60 ft.; Perception +0
+DEFENSE
+AC 15, touch 9, flat-footed 15 (+6 natural, -1 size)
+hp 30 (4d8+12)
+Fort +7; Ref +1; Will +1
+Defensive Abilities hive mind; Immune mind-affecting effects
+OFFENSE
+Speed 20 ft.
+Melee bite +6 (2d6+6)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 18, Dex 10, Con 16, Int —, Wis 10, Cha 9
+Base Atk +3; CMB +8; CMD 18 (26 vs. trip)
+SPECIAL ABILITIES
+Hive Mind (Ex) All boring beetles within 1 mile of each other are in constant communication. If one is aware of a particular danger, they all are. If one in the group is not flatfooted, then none of them are. No boring beetle in a group is considered flanked unless all of them are.

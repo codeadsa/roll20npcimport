@@ -1,0 +1,42 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-cloud/cloud-dragon-great-wyrm
+Cloud Dragon, Great Wyrm CR 21
+XP 409,600
+CN Colossal dragon (air)
+Init +1; Senses dragon senses, mist vision; Perception +39; Aura frightful presence (360 ft., DC 31)
+DEFENSE
+AC 37, touch -1, flat-footed 37 (–3 Dex, +38 natural, –8 size)
+hp 406 (28d12+224)
+Fort +24, Ref +13, Will +24
+DR 20/magic; Immune electricity, paralysis, sleep; SR 32
+OFFENSE
+Speed 40 ft., fly 250 ft. (clumsy), swim 40 ft.
+Melee bite +34 (4d8+19/19–20 plus 4d6 sonic), 2 claws +34 (4d6+13), tail slap +31 (4d6+19), 2 wings +31 (2d8+6)
+Space 30 ft.; Reach 20 ft. (30 ft. with bite)
+Special Attacks breath weapon (70-ft. cone, 24d8 electricity, DC 32), cloud breath, crush (4d8+19), tail sweep (2d8+19)
+Spell-Like Abilities (CL 28th; concentration +35)
+At will—fog cloud, obscuring mist, solid fog, wind walk
+3/day—cloudkill (DC 22)
+1/day—storm of vengeance
+Spells Known (CL 17th; concentration +24)
+8th (4/day)—prismatic wall, stormbolts
+7th (7/day)—control weather, power word blind, spell turning
+6th (7/day)—chain lightning (DC 23), greater dispel magic, mass eagle’s splendor
+5th (7/day)—cone of cold (DC 22), dismissal (DC 22), mind fog, teleport
+4th (7/day)—elemental body, ice storm, lesser geas (DC 21), river of wind*
+3rd (8/day)—arcane sight, cloak of winds*, stinking cloud (DC 20), suggestion (DC 20)
+2nd (8/day)—eagle’s splendor, glitterdust (DC 19), gust of wind, locate object, see invisibility
+1st (8/day)—alter winds*, charm person (DC 18), detect secret doors, erase, true strike
+0 (at will)—dancing lights, detect poison, light, mage hand, message, prestidigitation, read magic, resistance, touch of fatigue
+* This spell is from the Pathfinder RPG Advanced Player’s Guide.
+STATISTICS
+Str 36, Dex 5, Con 27, Int 22, Wis 26, Cha 25
+Base Atk +28; CMB +49; CMD 56 (60 vs. trip)
+Feats Critical Focus, Dazzling Display, Flyby Attack, Hover, Improved Critical (bite), Improved Initiative, Multiattack, Power Attack, Skill Focus (Diplomacy), Snatch, Stunning Critical, Weapon Focus (bite, claws), Wingover
+Skills Appraise +37, Diplomacy +44, Fly +12, Intimidate +38, Knowledge (geography) +37, Knowledge (local) +37, Knowledge (planes) +37, Perception +39, Sense Motive +39, Stealth +12, Survival +39, Swim +52; Racial Modifiers +8 Swim
+Languages Auran, Common, Draconic, Elven, Giant, Sylvan
+SQ cloud form (28 rounds/day)
+SPECIAL ABILITIES
+Cloud Breath (Su) A great wyrm cloud dragon’s breath weapon creates a cloud that persists in its cone shape for 1d4 rounds. Treat this cloud as a fog cloud that deals electricity damage equal to half the Dragon’s breath weapon damage to any creature that ends its turn still within the cloud (Reflex save halves the damage—DC equals the dragon’s breath weapon save DC).
+Cloud Form (Su) An adult or older cloud dragon can change itself into a cloudy vapor as a swift action for a number of rounds per day equal to its Hit Dice. This ability functions as gaseous form but the dragon’s fly speed is unchanged.
+Mist Vision (Su) A cloud dragon can see through fog, clouds, and similar obscuring effects with perfect clarity.
+Thundering Bite (Su) An ancient or older cloud dragon’s bite makes a thundering crash whenever it attacks, dealing an additional 2d6 points of sonic damage. A great wyrm’s thundering bite deals an additional 4d6 sonic damage.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/catfolk
+Catfolk CR 1/2
+XP 200
+Catfolk ranger 1
+NG Medium humanoid (catfolk)
+Init +3; Senses low-light vision; Perception +2
+DEFENSE
+AC 16, touch 13, flat-footed 13 (+3 armor, +3 Dex)
+hp 12 (1d10+2)
+Fort +3, Ref +5, Will +0
+OFFENSE
+Speed 30 ft.
+Melee longsword +3 (1d8+2/19-20)
+Ranged longbow +5 (1d8/x3)
+Special Attacks favored enemy (magical beasts +2)
+STATISTICS
+Str 14, Dex 17, Con 12, Int 8, Wis 11, Cha 12
+Base Atk +1; CMB +3; CMD 16
+Feats Weapon Focus (longbow)
+Skills Climb +5, Handle Animal +5, Knowledge (nature) +3, Perception +2, Stealth +8, Survival +6; Racial Modifiers +2 Perception, +2 Stealth, +2 Survival
+Languages Catfolk, Common
+SQ cat’s luck, sprinter, track +1, wild empathy +2
+SPECIAL ABILITIES
+Cat’s Luck (Ex) Once per day when a catfolk makes a Reflex saving throw, it can roll the saving throw twice and take the better result. It must decide to use this ability before the saving throw is attempted.
+Sprinter (Ex) A catfolk gains a 10-foot racial bonus to its speed when using the charge, run, or withdraw actions.

@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/gnoll/gnoll-flind-TOHC
+Flind CR 2 (XP 600)
+LE Medium humanoid (gnoll)
+Init +2; Senses darkvision 60 ft.; Perception +3
+DEFENSE
+AC 20, touch 12, flat-footed 18 (+5 armor, +2 Dex, +3 natural)
+hp 15 (2d8+6)
+Fort +6; Ref +2; Will +2
+OFFENSE
+Speed 20 ft.
+Melee flindbar +5 (1d8+4)
+Ranged longbow +3 (1d8/x3)
+STATISTICS
+Str 19, Dex 14, Con 17, Int 12, Wis 15, Cha 12
+Base Atk +1; CMB +5 (+7 disarm with flindbar); CMD 17
+Feats Power Attack
+Skills Handle Animal +6, Intimidate +3, Perception +3
+Languages Common, Gnoll
+Gear scale mail armor, flindbar, longbow with 20 arrows

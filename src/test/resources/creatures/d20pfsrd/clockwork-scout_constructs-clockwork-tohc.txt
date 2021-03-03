@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork-tohc/clockwork-scout
+CLOCKWORK SCOUT CR 1/2
+XP 200
+N Tiny construct
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +3
+DEFENSE
+AC 16, touch 15, flat-footed 13 (+3 Dex, +1 natural, +2 size)
+hp 5 (1d10)
+Fort +0; Ref +3; Will +1
+Immune construct traits
+OFFENSE
+Speed 40 ft.
+Melee slam +1 (1d6-2)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 6, Dex 17, Con —, Int —, Wis 12, Cha 10
+Base Atk +1; CMB +2; CMD 10
+Skills Perception +3; Racial Modifiers +2 Perception
+SQ animal appearance

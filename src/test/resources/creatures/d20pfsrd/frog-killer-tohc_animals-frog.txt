@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/frog/frog-killer-tohc
+Killer Frog CR 1
+XP 400
+N Small animal
+Init +1; Senses low-light vision, scent; Perception +3
+DEFENSE
+AC 14, touch 12, flat-footed 13 (+1 Dex, +2 natural, +1 size)
+hp 6 (1d8+2)
+Fort +4; Ref +3; Will –1
+OFFENSE
+Speed 10 ft., swim 30 ft.
+Melee 2 claws +2 (1d4+1 plus grab), bite +2 (1d4+1)
+Special Attacks rake (2 claws +2, 1d4+1)
+STATISTICS
+Str 12, Dex 13, Con 14, Int 2, Wis 9, Cha 6
+Base Atk +0; CMB +0 (+4 grapple); CMD 11 (15 vs. trip)
+Feats Improved Natural Attack (claw)
+Skills Acrobatics +5 (+9 jumping), Perception +3, Stealth +9, Swim +12; Racial Modifiers +4 Acrobatics (+8 jumping), +4 Stealth

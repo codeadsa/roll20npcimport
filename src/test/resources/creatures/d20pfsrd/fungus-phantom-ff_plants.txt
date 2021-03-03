@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/fungus-phantom-ff
+Phantom Fungus CR 4
+XP 800
+N Medium plant
+Init +4; Senses low-light vision; Perception +8
+DEFENSE
+AC 14, touch 10, flat-footed 14 (+4 natural)
+hp 30 (4d8+12)
+Fort +7, Ref +1, Will +1
+Defensive Abilities greater invisibility; Immune plant immunities
+OFFENSE
+Speed 20 ft.
+Melee bite +5 (1d6+3)
+STATISTICS
+Str 14, Dex 10, Con 16, Int 2, Wis 11, Cha 9
+Base Atk +3; CMB +5; CMD 15 (19 vs. trip)
+Feats Improved Initiative, Skill Focus (Perception)
+Skills Perception +8, Sense Motive +2, Stealth +9; Racial Modifier +4 to Stealth
+Languages none
+SPECIAL ABILITIES
+Greater Invisibility (Su) The phantom fungus is always invisible, even when attacking. This ability works like greater invisibility (CL 12th) and lasts as long as the phantom fungus is alive. Invisibility purge does not dispel this effect. A phantom fungus becomes visible one minute after death.

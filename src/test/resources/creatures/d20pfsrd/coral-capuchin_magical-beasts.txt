@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/coral-capuchin
+Coral Capuchin CR 1
+XP 400
+N Tiny magical beast (aquatic)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +1
+DEFENSE
+AC 15, touch 15, flat-footed 12 (+3 Dex, +2 size)
+hp 13 (2d10+2)
+Fort +4, Ref +6, Will +1
+Weaknesses moisture dependency
+OFFENSE
+Speed 30 ft., climb 30 ft., fly 40 ft. (good), swim 30 ft.
+Melee bite +7 (1d3–2 plus cursed bite)
+Space 2-1/2 ft.; Reach 0 ft.
+Special Attacks cursed bite
+STATISTICS
+Str 6, Dex 17, Con 12, Int 6, Wis 13, Cha 7
+Base Atk +2; CMB +3; CMD 11
+Feats Weapon Finesse
+Skills Climb +6, Fly +11, Sleight of Hand +8, Stealth +15 (+19 within coral reefs), Swim +6; Racial Modifiers +4 Sleight of Hand, +4 Stealth within coral reefs
+SQ amphibious
+SPECIAL ABILITIES
+Cursed Bite (Su) A coral capuchin can deliver a bite that bestows some of the creature’s benefits and weaknesses upon the victim. The curse delivered by this bite persists for 1d6 hours, and cannot affect the same creature more than once in a 24-hour period. Affected creatures begin drying out when exposed to air, but can hold their breath for double the normal amount of time. Targets of this cursed bite take 1d6 points of damage for every 10 minutes they are out of water, though spending a full-round action to bathe the victim in any sort of water halts this damage. Victims must succeed at a DC 12 Constitution check to avoid this effect. Remove curse ends this curse’s effect as normal. The save DC is Constitution-based.
+Moisture Dependency (Ex) A coral capuchin can breathe both air and water and survive indefinitely on land, but the creature must regularly be either submerged in water or thoroughly wetted down, or else it dries out in the air. A coral capuchin can survive out of water for a number of hours of equal to its Constitution score before it takes any negative effects. After this time, the creature takes 1d6 points of damage for every hour it remains dry. Bathing the creature in water of any sort resets this time frame.

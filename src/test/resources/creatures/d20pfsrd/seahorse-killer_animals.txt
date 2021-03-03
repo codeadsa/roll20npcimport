@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/seahorse-killer
+Killer Seahorse CR 5
+XP 1,600
+N Huge animal (aquatic)
+Init +1; Senses low-light vision; Perception +13
+DEFENSE
+AC 17, touch 9, flat-footed 16 (+8 armor, +1 Dex, –2 size)
+hp 63 (6d8+36)
+Fort +10, Ref +6, Will +3
+Defensive Abilities anchor (see giant seahorse)
+OFFENSE
+Speed swim 40 ft.
+Melee bite +10 (1d8+8 plus bleed), tail slap +5 (1d6+4 plus grab)
+Space 15 ft.; Reach 10 ft.
+Special Attacks bleed 1d6, constrict (1d6+8)
+STATISTICS
+Str 26, Dex 12, Con 21, Int 1, Wis 12, Cha 7
+Base Atk +4; CMB +14; CMD 25
+Feats Endurance, Skill Focus (Perception), Toughness
+Skills Perception +13, Swim +16

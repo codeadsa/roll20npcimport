@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/oozes/ooze-glacial
+Glacial Ooze CR 6
+XP 2,400
+N Large ooze (cold)
+Init -5; Senses blindsight 60 ft.; Perception -5
+DEFENSE
+AC 4, touch 4, flat-footed 4 (-5 Dex, -1 size)
+hp 69 (6d8+42)
+Fort +9, Ref -3, Will -3
+DR 5/bludgeoning; Immune cold, ooze traits
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 20 ft. (4 squares), swim 20 ft.
+Melee slam +5 (2d4+3 plus 1d6 cold)
+Space 10 ft.; Reach 5 ft.
+Special Attacks cold, engulf (DC 15, 1d6 cold and freezing embrace), freeze
+STATISTICS
+Str 15, Dex 1, Con 24, Int –, Wis 1, Cha 1
+Base Atk +4; CMB +7; CMD 12 (can’t be tripped)
+Skills Swim +10
+SPECIAL ABILITIES
+Cold (Ex) A glacial ooze’s form is extremely cold, dealing 1d6 cold damage with its slam attack. Creatures attacking a glacial ooze unarmed or with natural weapons take this cold damage each time one of their attacks hits.
+Freezing Embrace (Ex) As a free action, a glacial ooze can encase an engulfed opponent in ice. A frozen creature takes 2d4 points of cold damage each round. A frozen creature can break free of the ice by making a successful DC 19 Strength check. The ice is AC 10, hardness 0, and has 10 hit points per 5-foot section. A frozen creature cannot use a weapon to break free even if it was holding it when it was frozen. Spells with verbal, material, or somatic components cannot be cast by a creature encased in ice. The check DC is Strength-based and includes a +4 racial bonus.
+Transparent (Ex) A glacial ooze is hard to identify, even under ideal conditions, and it takes a DC 20 Perception check to notice one. Creatures who fail to notice a glacial ooze and walk into it are automatically engulfed.

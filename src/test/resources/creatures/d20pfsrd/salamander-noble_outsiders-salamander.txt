@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/salamander/salamander-noble
+Noble Salamander CR 10
+XP 9,600
+Advanced (14 HD) Large salamander
+CE Large outsider (extraplanar, fire)
+Init +0; Senses darkvision 60 ft.; Perception +29
+DEFENSE
+AC 18, touch 9, flat-footed 18 (+0 Dex, +9 natural, -1 size)
+hp 161 (14d10+84)
+Fort +10, Ref +9, Will +13
+DR 15/magic; Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 20 ft.
+Melee +3 longspear +23/+18/+13 (2d6+13/x3 plus 1d8 fire), tail slap +18 (2d8+3 plus 1d8 fire and grab)
+Melee (Power Attack) +3 longspear +19/+14/+9 (2d6+25/x3 plus 1d8 fire), tail slap +14 (2d8+7 plus 1d8 fire and grab)
+Space 10 ft.; Reach 10 ft. (20 ft. with tail or longspear)
+Special Attacks constrict (2d8+10 plus 1d8 fire), heat (1d8 fire)
+Spell-Like Abilities (CL 15th; concentration +16)
+3/day—burning hands (DC 12), fireball (DC 14), flaming sphere (DC 13), wall of fire (DC 15)
+1/day—dispel magic, summon monster VI (huge fire elemental only)
+STATISTICS
+Str 25, Dex 11, Con 22, Int 14, Wis 15, Cha 13
+Base Atk +14; CMB +22 (+26 grapple); CMD 32 (can’t be tripped)
+Feats Alertness, Cleave, Great Cleave, Iron Will, Multiattack, Power Attack, Skill Focus (Perception)
+Skills Acrobatics +17, Bluff +18, Craft (weaponsmithing) +23, Intimidate +18, Knowledge (planes) +19, Perception +29, Sense Motive +23, Stealth +13; Racial Modifiers +4 Craft (armorsmithing, blacksmithing, and weaponsmithing)
+Languages Common, Ignan
+Gear +3 longspear
+Examples
+Unique Noble Salamander (CR 10)

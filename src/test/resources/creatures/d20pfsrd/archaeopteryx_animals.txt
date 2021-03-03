@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/archaeopteryx
+Archaeopteryx CR 1/4
+XP 100
+N Tiny animal
+Init +2; Senses low-light vision; Perception +1
+DEFENSE
+AC 14, touch 14, flat-footed 12 (+2 Dex, +2 size)
+hp 4 (1d8)
+Fort +2, Ref +4, Will +1
+OFFENSE
+Speed 40 ft., climb 10 ft., fly 40 ft. (poor)
+Melee bite +4 (1d4–4)
+Space 2-1/2 ft.; Reach 0 ft.
+STATISTICS
+Str 3, Dex 15, Con 10, Int 2, Wis 12, Cha 7
+Base Atk +0; CMB +0; CMD 6
+Feats Weapon Finesse
+Skills Climb +10, Fly +6
+SQ weak flier
+SPECIAL ABILITIES
+Familiar The master of an archaeopteryx familiar gains a +2 bonus on Reflex saves.
+Weak Flier (Ex) An archaeopteryx can’t hover or fly up at an angle greater than 45 degrees while flying.

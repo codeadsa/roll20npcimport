@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-coloxus
+Coloxus CR 12
+XP 19,200
+CE Medium outsider (chaotic, demon, evil, extraplanar)
+Init +13; Senses darkvision 60 ft., scent; Perception +31
+DEFENSE
+AC 26, touch 19, flat-footed 17 (+9 Dex, +7 natural)
+hp 168 (16d10+80)
+Fort +15, Ref +19, Will +9
+DR 10/good; Immune electricity, disease, poison; Resist acid 10, cold 10, fire 10; SR 23
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee bite +25 (1d6+4 plus siphon), 2 slams +25 (1d4+4)
+Special Attacks droning wings, siphon, sneak attack +4d6
+Spell-Like Abilities (CL 12th; concentration +18)
+Constant—tongues
+At will—contagion (DC 20), invisibility, suggestion (DC 19)
+3/day—confusion (DC 20), haste, quickened invisibility, mind fog (DC 21)
+1/day—giant vermin, shadow evocation (DC 21)
+STATISTICS
+Str 19, Dex 28, Con 20, Int 17, Wis 18, Cha 23
+Base Atk +16; CMB +25; CMD 39
+Feats Agile Maneuvers, Combat Reflexes, Deceitful, Flyby Attack, Hover, Improved Initiative, Quicken Spell-Like Ability (invisibility), Weapon Finesse
+Skills Acrobatics +28, Appraise +14, Bluff +29, Diplomacy +14, Disguise +19, Fly +32, Knowledge (arcana, history, planes, and religion) +14, Perception +31, Sleight of Hand +17, Stealth +28; Racial Modifiers +8 Perception
+Languages Abyssal, Celestial, Common, Infernal; telepathy 100 ft., tongues
+SPECIAL ABILITIES
+Droning Wings (Ex) Once per day, when it flutters its wings as a standard action, a coloxus can create a mesmerizing display of color and a sound-dampening buzzing drone. All creatures within 30 feet that can see the coloxus must make a DC 24 Will save or be slowed for up to 6 rounds. Each subsequent round, the coloxus must take a swift action to maintain the effect or the effect ceases at the end of its turn. Additionally, the sound creates a buffer against sonic energy, granting the fly demon immunity to sonic attacks or effects while it continues to drone. The save DC is Charisma-based.
+Siphon (Su) Any creature bitten by a coloxus must make a DC 23 Fortitude save or take 1d4 points of Charisma damage. A coloxus heals itself of 5 points of damage for every point of Charisma damage it deals. The save DC is Constitution-based.

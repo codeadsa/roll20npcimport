@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/robot/machine-soldier-animated-object-fighter-1
+Machine Soldier CR 4
+XP 1,200
+Animated object fighter 1
+N Medium construct (robot)
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +3
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 42 (4d10+21)
+Fort +3, Ref +3, Will –3
+Defensive Abilities hardness 10; Immune construct traits
+Weaknesses vulnerable to critical hits and electricity
+OFFENSE
+Speed 30 ft.
+Melee mwk longsword +8 (1d8+4/19–20), mwk short sword +7 (1d6+2/19–20)
+Ranged mwk light crossbow +8 (1d8/19–20)
+TACTICS
+During Combat A machine soldier moves to engage the enemy in melee, resorting to its crossbow only when faced with enemies capable of remaining out of close combat.
+Morale A machine soldier fights until it is destroyed.
+STATISTICS
+Str 18, Dex 15, Con —, Int 13, Wis 3, Cha 1
+Base Atk +4; CMB +8; CMD 20
+Feats Power Attack, Two-Weapon Fighting, Weapon Focus (longsword)
+Skills Climb +11, Perception +3, Sense Motive +3
+Languages Common, Goblin
+SQ Construction Points (metal)
+Gear masterwork light crossbow with 10 bolts, masterwork longsword, masterwork short sword

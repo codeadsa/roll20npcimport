@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/sphinx/criosphinx
+Criosphinx CR 7
+XP 3,200
+N Large magical beast
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +10
+DEFENSE
+AC 20, touch 9, flat-footed 20 (+11 natural, -1 size)
+hp 85 (10d10+30)
+Fort +10, Ref +7, Will +4
+OFFENSE
+Speed 30 ft., fly 60 ft. (poor)
+Melee 2 claws +15 (1d6+6), gore +16 (2d4+6/19-20)
+Space 10 ft.; Reach 5 ft.
+Special Attacks swooping charge (gore, 4d6+12)
+Spell-Like Abilities (CL 10th; concentration +10)
+Constant—speak with animals
+STATISTICS
+Str 23, Dex 10, Con 17, Int 12, Wis 12, Cha 11
+Base Atk +10; CMB +17; CMD 27 (31 vs. trip)
+Feats Improved Bull Rush, Improved Critical (gore), Power Attack, Skill Focus (Intimidate), Weapon Focus (gore)
+Skills Bluff +10, Fly +1, Intimidate +16, Perception +10
+Languages Common, Sphinx; speak with animals
+SPECIAL ABILITIES
+Swooping Charge (Ex) A charging criosphinx deals 4d4+12 points of damage with its gore attack. A flying criosphinx who drops at least 20 feet in altitude as part of a charge deals 6d4+18 points instead.

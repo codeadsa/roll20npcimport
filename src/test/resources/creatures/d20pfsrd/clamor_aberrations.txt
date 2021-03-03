@@ -1,0 +1,15 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/clamor
+Clamor CR 4
+XP 1,200
+N Medium aberration (extraplanar, incorporeal)
+Init +11; Senses darkvision 60 ft.; Perception +5 (+13 to detect noises)
+DEFENSE
+AC 20, touch 20, flat-footed 13 (+3 deflection, +7 Dex)
+hp 30 (4d8+12)
+Fort +4; Ref +10; Will +5
+Defensive Abilities natural invisibility; Vulnerable sound-related vulnerabilities
+OFFENSE
+Speed fly 50 ft. (perfect); speed of sound
+Ranged sonic ray +10 touch (2d6 sonic)
+Special Attacks sonic burst
+SQ sound mimicry

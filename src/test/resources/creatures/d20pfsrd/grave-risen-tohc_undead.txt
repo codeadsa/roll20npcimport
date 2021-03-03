@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/grave-risen-tohc
+Grave Risen CR 4
+XP 1,200
+CE Medium undead
+Init +6; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 15, touch 12, flat-footed 13 (+2 Dex, +3 natural)
+hp 42 (5d8+15 plus 5)
+Fort +4; Ref +3; Will +6
+Defensive Abilities channel resistance +2; Immune undead traits
+OFFENSE
+Spd 30 ft.
+Melee 2 claws +6 (1d4+2 plus blood poisoning)
+Spell-like Abilities (CL 5th):
+1/day—animate dead
+STATISTICS
+Str 14, Dex 15, Con —, Int 13, Wis 14, Cha 16
+Base Atk +3; CMB +5; CMD 17
+Feats Improved Initiative, Toughness, Weapon Focus (claw)
+Skills Acrobatics +7, Climb +10, Escape Artist +7, Perception +10, Stealth +10
+SPECIAL ABILITIES
+Blood Poisoning (Ex) A creature hit by a claw attack must succeed on a DC 15 Fortitude save or contract blood poisoning. This deals 1 point of Constitution damage to the victim per minute until the victim dies or the blood poisoning is healed. A neutralize poison or remove disease spell rids the victim of blood poisoning, as does a DC 15 Heal check. Multiple wounds to the same foe do not result in multiple instances of blood poisoning. The save DC and check DC are both Charisma-based.

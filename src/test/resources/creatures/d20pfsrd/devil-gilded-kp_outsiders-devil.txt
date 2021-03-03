@@ -1,0 +1,41 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-gilded-kp
+Gilded Devil CR 8
+XP 4,800
+LE Medium outsider (devil, evil, extraplanar, lawful)
+Init +2; Senses darkvision 60 ft., see in darkness; Perception +15
+DEFENSE
+AC 24, touch 12, flat-footed 22 (+6 armor, +2 Dex, +6 natural)
+hp 95 (10d10+40)
+Fort +7, Ref +9, Will +9
+Immune fire, poison; Resist acid 10, cold 10
+OFFENSE
+Speed 30 ft.
+Melee +2 heavy flail +17/+12 (1d10+8/17–20 plus 1 Wis), or slam +14 (1d4+6)
+Special Attacks betrayal of riches, scourge of avarice, voracious greed
+Spell-Like Abilities (CL 11th; concentration +17)
+At will—detect thoughts (DC 18), greater teleport (self plus 50 lb. of objects only), major image (DC 19), misdirection, polymorph (humanoid form only), suggestion (DC 18)
+3/day—dominate person (DC 21), greater scrying (DC 23)
+STATISTICS
+Str 18, Dex 15, Con 19, Int 17, Wis 14, Cha 22
+Base Atk +10; CMB +14; CMD 26
+Feats Deceitful, Improved Critical (heavy flail), Power Attack, Skill Focus (Bluff), Weapon Focus (heavy flail)
+Skills Appraise +14, Bluff +29, Diplomacy +17, Disguise +8, Knowledge (planes) +16, Perception +15, Sense Motive +15, Sleight of Hand +11, Spellcraft +14, Stealth +10, Use Magic Device +19
+Languages Celestial, Common, Draconic, Infernal; telepathy
+SQ liar’s largess, scorn base metals
+Other Gear chainmail made of tainted coins
+SPECIAL ABILITIES
+Betrayal of Riches (Su) A gilded devil can turn rings, necklaces, and other jewelry against their wearer as a standard action. The devil can affect any visible item of jewelry within 200 ft., twisting and constricting it into cruel barbs and spikes. The item receives a DC 21 Will save (Cha-based) to avoid this effect. The victim takes 3d6 damage and a possible additional effect based on the item slot targeted.
+Slot Save Effect
+Arms or Wrist Fort 1d4 Strength damage
+Hand Fort 1d4 Dexterity damage
+Eyes Reflex Permanently blinded
+Head Fort 1d4 Charisma damage
+Feet Reflex Speed halved for 24 hours
+Neck Fort Stunned, unable to breathe for 1 round
+Other slot — No additional effect
+An item is treated as jewelry if it is made of a precious material (such as silver, gold, ivory, and adamantine), adorned with gems, or both, and is worth at least 100 gp.
+All save DCs are Charisma-based.
+Liar’s Largess (Su) A gilded devil has influence over the recipient of a gift for as long as that creature retains the gift. The recipient receives a -2 penalty on saving throws against the gilded devil’s abilities and a further -10 penalty against scrying attempts made by the gilded devil. A successful remove curse or break enchantment against CL 11th removes this effect.
+Scorn Base Metals (Su) A gilded devil’s attacks ignore any armor or shield bonus provided by armor made of bronze, iron, steel, or similar metals. Armor and shield bonuses provided by valuable metals such as adamantine, mithral, and gold apply, as do bonuses provided by non-metallic objects or cold iron.
+Scourge of Avarice (Su) As a free action, a gilded devil wearing jewelry worth at least 1,000 gp can reshape it into a +2 heavy flail. A creature struck by this jeweled flail takes 1 point of Wisdom damage, in addition to normal weapon damage. The flail reverts to its base components 1 minute after it leaves the devil’s grasp, or upon the gilded devil’s death.
+Voracious Greed (Ex) As a standard action, a gilded devil can consume precious metals or gems worth up to 1,000 gp. For each 200 gp consumed, it heals 5 hp of damage. A gilded devil can use this ability against the worn items of an opponent by pinning a foe and succeeding at an opposed grapple check. Magical or attended items receive a DC 19 Reflex save (Con-based) to avoid being consumed.

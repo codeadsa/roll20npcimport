@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-brine/brine-dragon-juvenile
+Brine Dragon, Juvenile CR 8
+XP 4,800
+LN Medium dragon (water)
+Init +5; Senses dragon senses; Perception +15
+
+DEFENSE
+AC 23, touch 11, flat-footed 22 (+1 Dex, +12 natural)
+hp 95 (10d12+30)
+Fort +10, Ref +10, Will +9
+Immune acid, paralysis, sleep
+OFFENSE
+Speed 60 ft., fly 150 ft. (average), swim 60 ft.
+Melee bite +18 (1d8+12), 2 claws +18 (1d6+8), 2 wings +13 (1d4+4)
+Special Attacks breath weapon (60-ft. line, 8d6 acid, DC 18)
+Spell-Like Abilities (CL 10th; concentration +12)
+At will—obscuring mist, speak with animals (fish only), water breathing
+
+Spells Known (CL 3rd; concentration +5)
+1st (6/day)—color spray (DC 13), flare burst* (DC 13), touch of the sea*
+0 (at will)—detect magic, mage hand, open/close, prestidigitation, read magic
+* – denotes spell from Advanced Player’s Guide. STATISTICS
+Str 26, Dex 13, Con 17, Int 17, Wis 14, Cha 15
+Base Atk +10; CMB +18; CMD 29 (33 vs. trip)
+Feats Hover, Improved Initiative, Lightning Reflexes, Power Attack, Skill Focus (Swim)
+Skills Bluff +15, Diplomacy +15, Fly +14, Heal +15, Knowledge (nature) +16, Perception +15, Sense Motive +15, Survival +15, Swim +35; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic, Elven
+SQ water breathing
+
+
+

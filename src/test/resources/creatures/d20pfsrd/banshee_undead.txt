@@ -1,0 +1,35 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/banshee
+Banshee CR 13
+XP 25,600
+CE Medium undead (incorporeal)
+Init +15; Senses darkvision 60 ft., hear heartbeat; Perception +31
+DEFENSE
+AC 26, touch 26, flat-footed 14 (+4 deflection, +11 Dex, +1 dodge)
+hp 161 (19d8+76)
+Fort +10, Ref +19, Will +18
+Defensive Abilities incorporeal; Immune undead traits
+Weaknesses sunlight powerlessness
+OFFENSE
+Speed fly 60 ft. (perfect)
+Melee incorporeal touch +26 (14d6 negative energy plus terror)
+Special Attacks wail
+STATISTICS
+Str —, Dex 32, Con —, Int 5, Wis 20, Cha 19
+Base Atk +14; CMB +25; CMD 40
+Feats Alertness, Combat Reflexes, Dodge, Improved Initiative, Iron Will, Lightning Reflexes, Mobility, Step Up, Weapon Focus (touch), Wind Stance
+Skills Fly +19, Perception +31, Sense Motive +7
+Languages Common, Elven
+SPECIAL ABILITIES
+Hear Heartbeat (Ex) A banshee can sense the beating hearts of living creatures within 60 feet, as if it had the blindsight ability.
+Terror (Su) A creature damaged by the banshee’s touch attack must make a DC 23 Will save. Failure means that the victim cowers in fear for 1d3 rounds. If a target is protected against fear by a dispellable effect (such as heroes’ feast or mind blank), the banshee’s touch attempts to dispel one such effect with greater dispel magic (CL 14th). Negative energy damage caused by a banshee’s touch can only harm the living; it cannot heal undead. This is a mind-affecting fear effect. The save DC is Charisma-based.
+Wail (Su) Once per minute, a banshee may wail as a full-round action. The wail lasts until the beginning of her next turn. All creatures within 40 feet of the banshee when she begins her wail, as well as all creatures that end their turn within that radius, must make a DC 23 Fortitude save. (This save is only required once per wail.) Creatures under the effects of a fear effect take a –4 penalty on this save. Creatures that make their save are sickened for 1d6 rounds. Those that fail take 140 points of damage (as if affected by a CL 14 wail of the banshee). If a wailing banshee is damaged during a wail, she must make a Will save (DC 15 + damage taken) to maintain the wail; otherwise it ends. This is a sonic death effect. Banshee wails are supernaturally powerful, and penetrate the effect of any spell of 3rd level or lower that creates silence. The save DC is Charisma-based.
+Unhallowed Banshee (CR 13) Variants Greater Banshee (CR 15) When a female elven bard of at least 10th level perishes under conditions that would normally transform her spirit into a standard banshee, she instead becomes a much rarer and more dangerous variant of the banshee. Known variously as dread banshees, white women, caoineags, or simply as greater banshees, these spirits have the abilities of standard banshees, but with the following three additional abilities.
+Improved Wail Those who fail to save against a greater banshee’s wail are slain immediately rather than being reduced to –1 hit points. Any female elf slain by a greater banshee’s wail rises in 1d4 rounds as a banshee under the control of the greater banshee who slew her. These newly created banshees are always standard banshees—a greater banshee cannot spawn another greater banshee.
+Intelligent Greater banshees retain their minds and are capable of executing long and complex plots to spread death and dismay. A greater banshee has an Intelligence score of 16 rather than 5, and gains additional skill points as appropriate for her Intelligence score. She gains Bluff, Intimidate, Knowledge (any), and Perform as class skills.
+Bardic Magic A greater banshee casts spells as a 10th-level bard. A typical greater banshee knows the following spells:
+4th (1/day)—dimension door, hallucinatory terrain (DC 19)
+3rd (3/day)—crushing despair (DC 18), dispel magic, fear (DC 18), slow (DC 18)
+2nd (4/day)—darkness, minor image (DC 17), shatter (DC 17), whispering wind
+1st (5/day)—animate rope, lesser confusion (DC 16), silent image (DC 16), unseen servant
+0th (3/day)—dancing lights, ghost sound (DC 15), mage hand, message, open/close, prestidigitation
+A greater banshee is a CR 15 monster, although many of them are advanced in Hit Dice beyond the standard banshee, increasing their CR by 1 for each additional 4 Hit Dice gained. The most powerful greater banshees also have additional bard levels—these bard levels stack for the purposes of determining what caster level and additional spells the greater banshee has access to.

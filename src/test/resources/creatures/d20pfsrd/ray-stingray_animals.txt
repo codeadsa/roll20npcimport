@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/ray-stingray
+Stingray CR 1/2
+XP 200
+N Medium animal (aquatic)
+Init +1; Senses blindsense 30 ft., low-light vision; Perception +8
+DEFENSE
+AC 12, touch 11, flat-footed 11 (+1 Dex, +1 natural)
+hp 13 (2d8+4)
+Fort +5, Ref +4, Will +1
+OFFENSE
+Speed swim 40 ft.
+Melee sting +1 (1d4 plus poison)
+STATISTICS
+Str 10, Dex 13, Con 15, Int 1, Wis 13, Cha 2
+Base Atk +1; CMB +1; CMD 12
+Feats Skill Focus (Perception)
+Skills Perception +8, Stealth +5 (+13 in sand or mud), Swim +8; Racial Modifier +8 Stealth in sand or mud, +8 Swim
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 13; frequency 1/round for 4 rounds; effect 1d2 Dex and 1 Con; cure 1 save.
+The save DC is Constitution-based.
+Stingray Animal Companion Starting Statistics: Size Small; Speed swim 40 ft.; Attack sting (1d3 plus poison); Ability Scores Str 6, Dex 15, Con 13, Int 1, Wis 13, Cha 2; Special Qualities low-light vision.
+4th-Level Advancement: Size Medium; AC +1 natural armor; Attack sting (1d4 plus poison); Ability Scores Str +4, Dex –2, Con +2; Special Qualities blindsense 30 ft.

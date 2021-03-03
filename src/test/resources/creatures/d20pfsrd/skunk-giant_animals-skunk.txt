@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/skunk/skunk-giant
+Giant Skunk CR 3
+XP 800
+N Large animal
+Init +3; Senses low-light vision, scent; Perception +7
+DEFENSE
+AC 15, touch 12, flat-footed 12 (+3 Dex, +3 natural, -1 size)
+hp 27 (5d8+5)
+Fort +5, Ref +7, Will +2
+OFFENSE
+Speed 30 ft.
+Melee bite +5 (1d8+3), 2 claws +5 (1d6+3)
+Ranged spray +5 touch (musk)
+Space 10 ft.; Reach 5 ft.
+Special Attacks musk
+STATISTICS
+Str 17, Dex 16, Con 13, Int 2, Wis 12, Cha 9
+Base Atk +3; CMB +7; CMD 20
+Feats Ability Focus (musk), Power Attack, Weapon Finesse
+Skills Climb +7, Perception +7, Survival +2
+SPECIAL ABILITIES
+Musk (Ex) Up to twice per day, a giant skunk can spray a stream of noxious musk at a single target within 30 feet as a standard action. With a successful ranged touch attack, the creature struck by this spray must make a DC 15 Fortitude save or be nauseated for 1d6 rounds and then sickened for 1d6 minutes by the horrific stench. A successful save reduces the effect to only 1d4 rounds of being sickened. A creature cannot use the scent ability as long as it is affected by this musk. The save DC is Constitution-based, and includes a +2 racial bonus.

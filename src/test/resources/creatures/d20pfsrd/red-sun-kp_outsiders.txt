@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/red-sun-kp
+Red Sun (Baba Yaga Horseman) CR 14
+XP 38,400
+Male human horseman fighter 12
+LN Medium outsider (native)
+Init +5; Senses Perception +12
+DEFENSE
+AC 28, touch 15, flat-footed 23 (+8 armor, +5 Dex, +5 shield)
+hp 161 (12d10+84)
+Fort +14, Ref +9, Will +6; +3 vs. fear, +4 resistance vs. paralysis and poison
+Defensive Abilities DR 15/chaos; Immune aging, electricity, fire; SR 25
+OFFENSE
+Speed 30 ft.
+Melee +1 flaming burst longsword +22/+17/+12 (1d8+10/20/×2 plus 1d6 fire)
+Ranged +1 composite longbow +19/+14/+9 (1d8+5/19-20/×3)
+Special Attacks temporal strike
+Spell-Like Abilities (CL 12th; concentration +14)
+1/day—dimension door, fire shield, haste, slow (DC 15)
+2/day—burning gaze (DC 14), daylight, horseman’s steed (see text)
+3/day—ethereal jaunt, plane shift (self and steed only).
+STATISTICS
+Str 20, Dex 20, Con 23, Int 15, Wis 15, Cha 14
+Base Atk +12; CMB +17; CMD 35
+Feats Critical Focus, Dazzling Display, Deadly Stroke, Greater Weapon Focus (longsword), Mounted Combat, Power Attack, Ride-by Attack, Shatter Defenses, Shield Focus, Shield Specialization (heavy shield), Spirited Charge, Toughness, Weapon Focus (longsword), Weapon Specialization (longsword)
+Skills Climb +11, Handle Animal 13, Intimidate +12, Knowledge (history) +5, Knowledge (local) +5, Perception +12, Ride +19, Survival +16, Swim +10
+Languages Common, Sylvan
+SQ armor training 3, bravery +3, light insensitivity, perpetual, temporally susceptible, timebound, weapon training 2
+SPECIAL ABILITIES
+Horseman’s Steed (Sp) A horseman can summon a horse, as phantom steed (CL 12) 2/day with the following changes: the creature appears to be a normal horse colored white, red, or black, matching its rider. The effect does not end if the horseman moves to another plane, providing he is actively riding it.
+Source Template
+Baba Yaga’s Horseman (CR +3)

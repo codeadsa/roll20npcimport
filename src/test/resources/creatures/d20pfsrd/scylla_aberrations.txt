@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/scylla
+Scylla CR 16
+XP 76,800
+CE Huge aberration (aquatic)
+Init +11; Senses all-around vision, blindsight 30 ft., darkvision 60 ft., low-light vision, see invisibility; Perception +29
+Aura frightful presence (30 ft., DC 26)
+
+DEFENSE
+AC 30, touch 20, flat-footed 18 (+11 Dex, +1 dodge, +10 natural, –2 size)
+hp 250 (20d8+160); fast healing 10
+Fort +14, Ref +17, Will +18
+Defensive Abilities freedom of movement, improved evasion; DR 10/cold iron and lawful; Immune cold, charm effects, confusion and insanity effects; Resist acid 20, fire 20; SR 27
+OFFENSE
+Speed 30 ft., swim 50 ft.
+Melee 4 bites +25 (1d8+8/19–20 plus bleed), 4 tentacles +23 (1d6+4 plus grab)
+Space 15 ft.; Reach 15 ft.
+Special Attacks bleed (1d6), constrict (1d6+8)
+Spell-Like Abilities (CL 16th; concentration +22)
+Constant—freedom of movement, nondetection, see invisibility
+At will—acid arrow, control water, fog cloud, Greater dispel magic, major image (DC 19)
+3/day—black tentacles, charm monster (DC 20), insanity (DC 23), mirage arcana (DC 21), solid fog
+1/day—control weather, power word stun, project image (DC 23), summon (level 8, 1 charybdis)
+STATISTICS
+Str 27, Dex 32, Con 27, Int 20, Wis 23, Cha 22
+Base Atk +15; CMB +25 (+29 grapple); CMD 47 (can’t be tripped)
+Feats Combat Reflexes, Dodge, Improved Critical (bite), Mobility, Multiattack, Power Attack, Vital Strike, Weapon Finesse, Weapon Focus (bite), Weapon Focus (tentacles)
+Skills Acrobatics +34, Bluff +26, Intimidate +29, Knowledge (nature)* +25, Perception +29, Sense Motive +26, Stealth +26, Swim +39, Use Magic Device +26
+Languages Abyssal, Aquan, Common
+SQ amphibious, change shape (1 humanoid form, alter self), undersized weapons*
+
+

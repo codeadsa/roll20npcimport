@@ -1,0 +1,37 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/shedu-TOHC/shedu-greater-TOHC
+Greater Shedu CR 10
+XP 9,600
+LG Large magical beast
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +21; Aura magic circle against evil
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, -1 size)
+hp 147 (14d10+70)
+Fort +14, Ref +10, Will +10
+Defensive Abilities DR 10/evil; SR 18
+OFFENSE
+Speed 40 ft., fly 80 ft. (average)
+Melee 2 hooves +20 (1d6+7)
+Space 10 ft.; Reach 5 ft.
+Spell-like Abilities (CL 14th) (save DC 15 + spell level)
+At will—astral projection (self only), clairaudience/clairvoyance, detect evil, detect magic, detect thoughts (DC 15), invisibility (self only)
+2/day—dominate person (DC 20), telekinesis (DC 20)
+Typical Spells Prepared (CL 10th) (save DC 15 + spell level; save DCs are Charisma-based; spells are chosen from the cleric spell list, as well as domain spells from two of the following domains: Good, Healing, Knowledge, Law).
+5th—breath of lifeD, greater command (DC 20), mass cure light wounds (DC 20), righteous might
+4th—divination, divine power, holy smiteD (DC 19), restoration, spell immunity
+3rd—create food and water, cure serious woundsD (DC 18), dispel magic, prayer, protection from energy
+2nd—bull’s strength, calm emotions (DC 17), cure moderate woundsD (DC 17), eagle’s splendor, remove paralysis, resist energy
+1st—bless, command (DC 16), cure light woundsD (DC 16), divine favor, endure elements, remove fear, sanctuary (DC 16)
+0 (at will)—light, guidance, read magic, resistance
+Typical Domains Good, Healing
+STATISTICS
+Str 24, Dex 12, Con 20, Int 18, Wis 18, Cha 20
+Base Atk +14; CMB +22; CMD 33 (37 vs. trip)
+Feats Blind-Fight, Combat Casting, Flyby Attack, Hover, Improved Initiative, Iron Will, Power Attack
+Skills Diplomacy +23, Knowledge (arcana) +22, Knowledge (planes) +22, Fly +16, Perception +21, Sense Motive +22; Racial Modifiers +4 Diplomacy, +4 Knowledge (any two); +4 Sense Motive
+Languages Celestial, Common, Draconic; telepathy 100 ft.
+SQ ethereal jaunt
+SPECIAL ABILITIES
+Ethereal Jaunt (Su) A shedu can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move-equivalent action. This ability is otherwise identical with the ethereal jaunt spell (caster level 18th).
+Magic Circle against Evil (Su) A greater shedu radiates a continuous magic circle against evil at caster level 14th. This effect can be dispelled, but the greater shedu can resume the magic circle as a free action at will.
+Base Creature
+Shedu

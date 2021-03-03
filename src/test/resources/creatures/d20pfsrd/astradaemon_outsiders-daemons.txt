@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/daemons/astradaemon
+Astradaemon
+CR 16
+
+XP 76,800
+NE Large outsider (daemon, evil, extraplanar)
+Init +7; Senses darkvision 60 ft., deathwatch, true seeing; Perception +22; Aura soul siphon (10 ft.)
+DEFENSE
+AC 29, touch 17, flat-footed 21 (+7 Dex, +1 dodge, +12 natural, –1 size)
+hp 212 (17d10+119)
+Fort +12, Ref +17, Will +14
+Defensive Abilities displacement; DR 10/good and silver; Immune acid, death effects, disease, poison; Resist cold 10, electricity 10, fire 10; SR 27
+OFFENSE
+Speed 90 ft., fly 90 ft. (good)
+Melee bite +23 (2d6+5 plus energy drain and grab), 2 claws +23 (1d8+5 plus energy drain), tail +18 (1d12+2 plus energy drain)
+Space 10 ft.; Reach 10 ft. (15 ft. with tail)
+Special Attacks devour soul, energy drain (1 level, DC 25)
+Spell-Like Abilities (CL 17th; concentration +24)
+Constant—deathwatch, displacement, true seeing
+At will—enervation, fear (DC21), greater teleport (self plus 50 lbs. of objects only), vampiric touch
+3/day—locate creature, plane shift (DC 24)
+1/day—energy drain (DC 24), finger of death (DC 24), summon (level 6, 1d3 derghodaemons 50%)
+STATISTICS
+Str 21, Dex 25, Con 24, Int 14, Wis 15, Cha 24
+Base Atk +17; CMB +23; CMD 41
+Feats Combat Reflexes, Dodge, Flyby Attack, Iron Will, Mobility, Nimble Moves, Power Attack, Spring Attack, Weapon Finesse
+Skills Acrobatics +24 (+48 jump), Escape Artist +27, Fly +9, Intimidate +27, Knowledge (planes) +22, Perception +22, Sense Motive +22, Stealth +23, Survival +22
+Languages Abyssal, Infernal; telepathy 100 ft.
+SPECIAL ABILITIES
+Devour Soul (Su) As a standard action, an astradaemon that begins its turn with a grappled opponent can attempt to draw out and consume the soul of its victim, killing it instantly. This ability only works on living creatures, who may resist with a DC 25 Fortitude saving throw. The save is Constitution-based. For every 5 HD of the slain Creature, the daemon gains a +1 profane bonus on attacks, saving throws, and checks for 24 hours. This ability does not consume all of the soul, and pieces of it still exist after the daemon completes its feast (enough to be able to resurrect the slain victim normally).
+Soul Siphon (Su) If a Small or larger living creature dies within 10 feet of an astradaemon, the daemon gains 1d8 temporary hit points and a +2 bonus to Strength for 10 minutes. These bonuses stack with themselves. Incorporeal undead and living spirits traveling outside the body (such as a person using astral projection or magic jar) take 1d8 points of damage each round within the daemon’s aura.

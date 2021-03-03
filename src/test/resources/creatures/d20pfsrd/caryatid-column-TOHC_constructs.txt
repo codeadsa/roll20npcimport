@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/caryatid-column-TOHC
+Caryatid Column CR 3
+XP 800
+N Medium construct
+Init –1; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 14, touch 9, flat-footed 14 (–1 Dex, +5 natural)
+hp 42 (4d10+20)
+Fort +1; Ref –1; Will +0
+Defensive Abilities shatter weapons; DR 5/—; Immune construct traits, magic
+OFFENSE
+Speed 20 ft.
+Melee type +6 (1d8+2)
+STATISTICS
+Str 14, Dex 9, Con —, Int —, Wis 11, Cha 1
+Base Atk +4; CMB +6; CMD 15
+SPECIAL ABILITIES
+Immunity to Magic (Ex) A caryatid column is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+A transmute rock to mud spell deals 1d6 points of damage per caster level to a caryatid column, with no saving throw, while transmute mud to rock heals all of its lost hit points.
+A stone to flesh spell does not actually change the column’s structure but negates its damage reduction and immunity to magic for 1 full round.
+Shatter Weapons (Ex) Whenever a character strikes a caryatid column with a weapon (magical or non-magical), the weapon must succeed on a DC 14 Fortitude save or shatter into pieces. A magic weapon uses its own save bonus or that of the wielder, whichever is higher. If the weapon breaks, the caryatid column takes no damage from the attack. The save DC is Constitution-based and includes a +2 racial bonus.
+Construction A caryatid column’s body is chiseled from a single block of hard stone, such as granite, weighing at least 1,500 pounds. The stone must be of exceptional quality, and costs 2,000 gp.
+Caryatid Column CL 12th; Price 17,000 gp
+Requirements Craft Construct, lesser geas, limited wish, polymorph any object, shatter; Special creator must be caster level 12th; Skill Craft (sculptures) or Craft (stonemasonry) DC 15; Cost 9,500 gp

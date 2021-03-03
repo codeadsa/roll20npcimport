@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/yellow-musk-creeper-tohc/yellow-musk-zombie-tohc
+Yellow Musk Zombie CR 2
+XP 600
+N Medium plant
+Init –1; Senses darkvision 60 ft.; Perception +6
+DEFENSE
+AC 17, touch 9, flat-footed 17 (+6 armor, –1 Dex, +2 natural)
+hp 19 (3d8+6)
+Fort +5; Ref +2; Will +1
+Immune plant traits
+OFFENSE
+Speed 20 ft. (30 ft. unarmored)
+Melee longsword +5 (1d8+3/19–20) or slam +5 (1d6+4)
+STATISTICS
+Str 16, Dex 8, Con 14, Int 2, Wis 10, Cha 1
+Base Atk +2; CMB +5; CMD 14
+Feats Lightning Reflexes, Skill Focus (Perception)
+Skills Perception +6
+SQ link to creator, sprout new creeper
+Gear chainmail, longsword
+SPECIAL ABILITIES
+Link to Creator (Ex) A yellow musk zombie is linked to the yellow musk creeper that created it and can never move more than 200 feet from it.
+Sprout New Creeper (Ex) After about 2 months of service to a yellow musk creeper, the yellow musk zombie wanders up to 1 mile away from its creator (the link to creator is broken) and dies. Where it falls, new yellow musk seedlings sprout from its head and the corpse, take root, and within one hour, a new fully grown yellow musk creeper blossoms.

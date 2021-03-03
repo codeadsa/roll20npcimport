@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/basilisk/basilisk-crimson
+Crimson Basilist CR 6
+XP 2,400
+N Medium magical beast
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +11
+DEFENSE
+AC 19, touch 10, flat-footed 10 (+9 natural)
+hp 68 (8d10+24)
+Fort +11; Ref +6; Will +5
+OFFENSE
+Speed 20 ft.
+Melee bite +11 (2d6+4 plus 1d6 acid)
+Special Attacks acidic bite, blood frenzy, wounding gaze
+STATISTICS
+Str 16, Dex 10, Con 16, Int 2, Wis 12, Cha 10
+Base Atk +8; CMB +11; CMD 21 (33 vs. trip)
+Feats Blind-Fight, Great Fortitude, Iron Will, Skill Focus (Perception)
+Skills Perception +11, Stealth +7 (+17 against stone backgrounds); Racial Modifiers +10 Stealth against stone backgrounds
+SPECIAL ABILITIES
+Acidic Bite (Ex) A crimson basilisk’s saliva is corrosive. Any melee bite attack deals acid damage.
+Blood Frenzy (Ex) A crimson basilisk that detects fresh blood within 30 feet enters a frenzied state the following round, along with all other crimson basilisks within 30 feet. Frenzied crimson basilisks fight until they or their opponents are dead.
+A frenzied crimson basilisk gains a +2 bonus on attack rolls and damage rolls and –2 AC for 1 minute. The creature cannot end the frenzy voluntarily. A crimson basilisk can enter a frenzy only once per encounter.
+Wounding Gaze (Su) A living creature within 30 feet that meets the gaze of a crimson basilisk must succeed on a DC 14 Fortitude saving throw or take 1d3 points of Constitution damage as blood weeps from the victim’s eyes, ears, nose, and mouth. Creatures without blood (undead, plants, oozes) and other crimson basilisks are immune to the effects of this gaze. The save DC is Charisma-based.

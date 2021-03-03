@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon-outer/outer-dragon-lunar/lunar-dragon-young
+Young Lunar Dragon CR 9
+XP 6,400
+CN Large dragon
+Init +0; Senses dragon senses, see in darkness; Perception +17
+DEFENSE
+AC 21, touch 9, flat-footed 21 (+12 natural, –1 size)
+hp 105 (10d12+40)
+Fort +10, Ref +7, Will +11
+Defensive Abilities reflected light; Immune cold, paralysis, sleep
+OFFENSE
+Speed 40 ft., burrow 20 ft., fly 200 ft. (poor)
+Melee bite +14 (2d6+7), 2 claws +14 (1d8+5), 2 wings +12 (1d6+2), tail slap +12 (1d8+7)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks bewildering breath, breath weapon (80-ft. line, 6d8 cold, DC 18), moonsilver
+Spell-Like Abilities (CL 10th; concentration +13)
+At will—dancing lights
+Sorcerer Spells Known (CL 1st; concentration +4)
+1st (4/day)—comprehend languages, mage armor
+0 (at will)—detect magic, light, mage hand, read magic
+STATISTICS
+Str 21, Dex 11, Con 16, Int 16, Wis 18, Cha 17
+Base Atk +10; CMB +16; CMD 26 (30 vs. trip)
+Feats Flyby Attack, Multiattack, Power Attack, Step Up, Toughness
+Skills Diplomacy +16, Fly +7, Intimidate +16, Knowledge (arcana, geography, history, local, nature) +10, Perception +17, Sense Motive +17, Spellcraft +16, Use Magic Device +16
+Languages Aklo, Auran, Common, Draconic
+SQ no breath, starflight
+SPECIAL ABILITIES
+Alien Presence (Su) A lunar dragon’s alien presence affects opponents that fail their saves as touch of idiocy (or as feeblemind for creatures with 4 or fewer Hit Dice) for 5d6 rounds. This is a mind-affecting compulsion effect.
+Bewildering Breath (Su) A creature that fails its saving throw against a lunar dragon’s breath weapon emits light (as faerie fire) and is dazzled for 1d4 rounds. If the lunar dragon is adult or older, the creature is also confused for 1d4 rounds.
+Moonsilver (Ex) A lunar dragon’s natural weapons are treated as silver for the purpose of overcoming damage reduction.
+Reflect Rays (Su) Rays and ranged touch effects that strike an ancient or older lunar dragon but fail to overcome its spell resistance are reflected back at their source, using the original attack roll to determine whether they hit.
+Reflected Light (Ex) A very young or older lunar dragon can’t be blinded or dazzled by bright light or patterns.

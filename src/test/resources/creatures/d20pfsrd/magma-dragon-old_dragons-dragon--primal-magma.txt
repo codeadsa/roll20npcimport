@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/-primal-magma/magma-dragon-old
+Magma Dragon, Old CR 15
+XP 51,200
+CN Huge dragon (fire)
+Init +4; Senses dragon senses; Perception +27; Aura frightful presence (240 ft., DC 23)
+DEFENSE
+AC 33, touch 8, flat-footed 33 (+25 natural, -2 size)
+hp 237 (19d12+114)
+Fort +19, Ref +11, Will +18
+DR 10/magic; Immune fire, paralysis, sleep; SR 26
+Weaknesses vulnerable to cold
+OFFENSE
+Speed 40 ft., fly 200 ft. (poor)
+Melee bite +27 (2d8+15/19-20 plus 8 fire), 2 claws +27 (2d6+10/19-20), tail slap +25 (2d6+15), 2 wings +25 (1d8+5)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (50-ft. cone, DC 25, 16d6 fire), crush (DC 25, 2d8+15)
+Spell-Like Abilities (CL 19th; concentration +23)
+Constant—fire shield (warm)
+At will—burning hands (DC 15), scorching ray, wall of fire
+
+Sorcerer Spells Known (CL 11th; concentration +15)
+5th (4/day)—hungry pit* (DC 19), teleport
+4th (7/day)—acid pit* (DC 18), fire shield, wall of fire (DC 18)
+3rd (7/day)—displacement, dispel magic, fireball (DC 17), wind wall
+2nd (7/day)—darkness, dust of twilight*, flaming sphere (DC 16), glitterdust (DC 16),scorching ray
+1st (7/day)—feather fall, flare burst* (DC 15), grease (DC 15), shield, true strike
+0 (at will)—bleed (DC 14), detect magic, detect poison, ghost sound, light, open/close, read magic, spark*, touch of fatigue
+* This spell is from the Pathfinder RPG Advanced Player’s Guide
+STATISTICS
+Str 31, Dex 10, Con 23, Int 20, Wis 20, Cha 19
+Base Atk +19; CMB +31 (+33 bull rush); CMD 41 (43 vs. bull rush, 45 vs. trip)
+Feats Great Fortitude, Improved Bull Rush, Improved Critical (bite, claws), Improved Initiative, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Vital Strike
+Skills Acrobatics +19 (+23 jump), Climb +32, Escape Artist +19, Fly +14, Intimidate +26, Perception +27, Sense Motive +27, Sleight of Hand +19, Stealth +14, Survival +27, Swim +32
+Languages Common, Draconic, Dwarven, Elven, Gnome, Ignan
+SQ superheated
+SPECIAL ABILITIES
+Superheated (Su) At young age and older, a magma dragon’s bite attack deals additional fire damage equal to its age category.
+

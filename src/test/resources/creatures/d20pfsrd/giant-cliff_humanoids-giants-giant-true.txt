@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/giant-true/giant-cliff
+Cliff Giant CR 9
+XP 6,400
+NG Large humanoid (giant)
+Init +5; Senses low-light vision, tremorsense 30 ft.; Perception +15
+DEFENSE
+AC 23, touch 10, flat-footed 22 (+4 armor, +1 Dex, +9 natural, –1 size)
+hp 133 (14d8+70)
+Fort +9, Ref +7, Will +11
+Defensive Abilities rock catching; Resist acid 10, fire 10
+OFFENSE
+Speed 40 ft.
+Melee greatclub +17/+12 (2d8+12) or 2 slams +17 (1d8+8)
+Ranged rock +12 (1d8+8)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rock throwing (120 ft.)
+Spell-Like Abilities (CL 14th; concentration +15)
+At will—detect poison, know direction
+3/day—animal messenger, cure moderate wounds, detect animals or plants, speak with animals, stone shape
+1/day—commune with nature
+STATISTICS
+Str 26, Dex 13, Con 21, Int 13, Wis 14, Cha 12
+Base Atk +10; CMB +19; CMD 30
+Feats Improved Initiative, Lightning Reflexes, Martial Weapon Proficiency (greatclub), Power Attack, Skill Focus (Climb), Skill Focus (Perception), Weapon Focus (rock)
+Skills Climb +18, Diplomacy +8, Handle Animal +11, Knowledge (geography) +5, Knowledge (nature) +11, Perception +15, Survival +12; Racial Modifiers +4 Knowledge (geography)
+Languages Common, Giant, Terran
+SQ earth attunement
+SPECIAL ABILITIES
+Earth Attunement (Su) A cliff giant has tremorsense 30 feet when standing on unworked stone or natural earth. Knowledge (nature) is a class skill for cliff giants.

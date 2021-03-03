@@ -1,0 +1,18 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/hippogriff
+Hippogriff CR 2
+XP 600
+N Large magical beast
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +9
+DEFENSE
+AC 14, touch 12, flat-footed 11 (+2 Dex, +1 dodge, +2 natural, –1 size)
+hp 22 (3d10+6)
+Fort +5, Ref +5, Will +2
+OFFENSE
+Speed 40 ft., fly 100 ft. (average)
+Melee bite +4 (1d6+2), 2 claws +4 (1d4+2)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 15, Dex 15, Con 14, Int 2, Wis 12, Cha 9
+Base Atk +3; CMB +6; CMD 19
+Feats Dodge, Wingover
+Skills Fly +5, Perception +9; Racial Modifiers +4 Perception

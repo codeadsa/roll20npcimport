@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/barbegazi-ice-gnome
+Ice Gnome (Barbegazi)
+CR 1
+XP 400
+N(E) Small humanoid (cold, gnome)
+Init +1; Senses low-light vision; Perception +0
+DEFENSE
+AC 14, touch 12, flat-footed 13 (+1 Dex, +2 natural, +1 size)
+hp 11 (2d8+2)
+Fort +4; Ref +1; Will +0
+Immune cold
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 20 ft., burrow 20 ft.
+Melee short sword +3 (1d4) or dagger +3 (1d3)
+Ranged dagger +3 (1d3)
+Spell-Like Abilities (CL 3rd)
+1/day—chill metal (DC 13), icicle blast (as burning hands, but deals cold damage) (DC 13)
+STATISTICS
+Str 10, Dex 13, Con 13, Int 11, Wis 11, Cha 8
+Base Atk +1; CMB +0; CMD 11
+Feats Weapon Finesse
+Skills Craft (trapmaking) +7, Handle Animal +3, Stealth +12 (+15 in native environment), Survival +7; Racial Modifiers +3 Craft (trapmaking) and Survival, +3 Stealth or +6 Stealth in their native environment
+Languages Common, Barbegazi
+SPECIAL ABILITIES
+Snow Move (Ex) Because of its oversized flat feet, a barbegazi can walk on top of deep snow and suffers no penalties when moving through snowy or icy terrain.

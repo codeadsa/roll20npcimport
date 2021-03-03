@@ -1,0 +1,38 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/the-mantis-god
+The Mantis God CR 30
+XP 3,688,400
+LE Colossal outsider (lawful, evil, extraplanar)
+Init +21; Senses darkvision 240 ft; deathwatch, true seeing; Perception +44
+Aura unweaving aura (360 ft)
+DEFENSE
+AC 46, touch 16, flat-footed 32 (+13 Dex, +1 dodge, +30 natural, -8 size)
+hp 805 (34d10+612); regeneration 40
+Fort +37, Ref +32, Will +20
+Defensive Abilities freedom of movement, improved evasion; DR 20/epic; Immune ability damage, ability drain, blindness, death effects, energy drain, fire, mind-affecting effects, paralysis, poison Resist acid 20, cold 20, electricity 20; SR 42
+OFFENSE
+Speed 180 ft., climb 80 ft., fly 180 ft (average).
+Melee 4 claws +42 (2d8+16/15-20) and bite +42 (4d6+16/15-20) and sting +42 (2d8+16/15-20 plus poison)
+Ranged 2 spikes +39 (2d8+16/18-20 plus poison)
+Space 20 ft.; Reach 20 ft.
+Special Attacks create gate, rend (two claws, 4d8+24)
+TACTICS
+During Combat The Mantis God focuses its fury solely upon its intended target, attacking other foes only in response to legitimate threats or in order to reach its primary target. Matched against a particularly dangerous foe, the Mantis God sometimes creates a gate and bull rushes its foe through it, then ceases concentration to strand the foe in a distant, inhospitable plane. It prefers melee attacks over ranged attacks. The Mantis God fights to the death.
+STATISTICS
+Str 43, Dex 36, Con 46, Int 6, Wis 24, Cha 20
+Base Atk +34; CMB +58 (60 on bull rush); CMD 86 (88 vs. bull rush, 94 vs trip)
+Feats Awesome Blow, Bull Rush Strike, Combat Reflexes, Dodge, Hover, Improved Bull Rush, Improved Critical (bite). Improved Critical (claws), Improved Critical (sting), Improved Initiative, Improved Sidestep, Iron Will, Mobility, Power Attack, Sidestep, Spring Attack, Wingover
+Skills Acrobatics +50, Climb +36, Fly +25, Perception +44, Stealth +34
+Languages Infernal
+SQ savage critical
+SPECIAL ABILITIES
+Create Gate (Su) Once per minute, as a move action, the Mantis God can create a portal between planes by raking one of its claws through the air. This duplicates the effects of a gate spell used for planar travel. The gate remains open as long as he concentrates.
+Deathwatch (Su) The mantis god can sense life and death, as if under the effects of a deathwatch spell at all times.
+Freedom of Movement (Su) The Mantis God is constantly protected by freedom of movement, as per the spell.
+Improved Evasion (Ex) This ability works like the monk special ability of the same name.
+Poison (Su) Sting or spikes – injury, save Fortitude DC 45, frequency 1/round for 4 rounds, effect 1d2 negative levels, cure 2 consecutive saves.
+Creatures that are immune to poison can still be affected by this supernatural venom, although they gain a +10 circumstance bonus on their saving throw to resist the toxin. The save DC is Constitution-based.
+Regeneration (Su) Only damage dealt by a creature of demigod or greater status deals lethal damage to the Mantis God. The Mantis God regenerates even if it fails a saving throw against a disintegrate spell or a death effect. If the Mantis God fails its save against a spell or effect that would kill it instantly, the effect instead deals nonlethal damage equal to the Mantis God’s full normal hit point total +46 (normally 851 points of damage). The mantis god is also immune to effects that produce incurable or bleeding wounds (such as a clay golem’s cursed wound or a wounding weapon). There are rumors of specific weapons or legendary monsters capable of dealing lethal damage to the Mantis God as well.
+Savage Criticals (Ex) All of the Mantis God’s natural weapons threaten a critical hit on a roll of 18–20 (and with its Improved Critical feats, these attacks threaten on a 15–20). Any creature the Mantis God strikes with a critical hit must make a DC 43 Fortitude save to avoid being stunned for 1 round from the force of the blow. The save DC is Strength-based.
+Tail Spike (Ex) As a standard action, the Mantis God can hurl two poisoned spikes from its stinger. Spikes hurled are replenished immediately. This ranged attack has a range increment of 100 feet.
+True Seeing (Su) The Mantis God continuously uses this ability, as the spell.
+Unweaving Aura (Su) The Mantis God is surrounded by an invisible aura of abjuration energy to a radius of 360 feet. Each round, a creature in this area must make a DC 32 Will save. Failure indicates that a random ongoing magical effect on that creature is dispelled, as if by a successful dispel magic effect. If the creature has no applicable magic auras to be dispelled, it takes 2 points of Charisma drain instead on a failed save. The save DC is Charisma-based.

@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-vavakia
+Vavakia CR 18
+XP 153,600
+CE Huge outsider (chaotic, demon, evil, extraplanar)
+Init +2; Senses darkvision 60 ft., true seeing; Perception +34
+Aura frightful presence (60 ft., DC 25), unholy aura
+DEFENSE
+AC 35, touch 14, flat-footed 33 (+8 armor, +4 deflection, +2 Dex, +13 natural, –2 size)
+hp 297 (18d10+198)
+Fort +26, Ref +12, Will +22
+DR 15/cold iron and good; Immune electricity, fire, poison; Resist acid 10, cold 10; SR 29
+OFFENSE
+Speed 45 ft., fly 60 ft. (average)
+Melee +1 unholy ranseur +28/+23/+18/+13 (3d6+17/×3) or bite +27 (3d6+11 plus smoking wound), 2 claws +27 (1d8+11), tail slap +22 (2d8+5 plus stun)
+Space 15 ft.; Reach 15 ft. (30 ft. with ranseur)
+Special Attacks breath weapon, trample (4d8+16, DC 30)
+Spell-Like Abilities (CL 18th; concentration +24)
+Constant—true seeing, unholy aura (DC 24)
+At will—enervation, greater teleport (self plus worn armor plus 50 additional lbs. of objects only), telekinesis (DC 21)
+3/day—blasphemy (DC 23), quickened enervation, power word stun (DC 24)
+1/day—earthquake, summon (level 6, 1 marilith 40% or 1d3 nalfeshnees 60%)
+STATISTICS
+Str 32, Dex 14, Con 33, Int 18, Wis 21, Cha 23
+Base Atk +18; CMB +31 (+33 bull rush); CMD 47 (49 vs. bull rush)
+Feats Awesome Blow, Greater Vital Strike, Improved Bull Rush, Improved Iron Will, Improved Vital Strike, Iron Will, Power Attack, Quicken Spell-Like Ability (enervation), Vital Strike
+Skills Bluff +27, Fly +16, Intimidate +27, Knowledge (arcana, planes) +25, Perception +34, Sense Motive +26, Spellcraft +25, Stealth +20, Swim +26; Racial Modifiers +8 Perception, +8 Stealth
+Languages Abyssal, Celestial, Draconic; telepathy 100 ft.
+SPECIAL ABILITIES
+Breath Weapon (Su) Once every 1d4 rounds, a vavakia can breathe out a 60-foot cone of green fire that seems to writhe and coil with the tortured shapes of a thousand screaming ghosts. This green fire comprises countless souls the vavakia has consumed, and these vomited souls consume flesh as surely as they consume sanity. A creature struck by this breath weapon takes 20d6 points of damage (Reflex DC 30 half) as the raw profane power blackens and melts its flesh and skin. Evil creatures take half damage from the breath weapon, but good creatures that take any damage from a vavakia’s breath weapon are automatically staggered for 1 round by the excruciating sensation. In addition, any living creature that takes damage from a vavakia’s breath weapon must also succeed at a DC 30 Fortitude save or take 1d8 points of Wisdom drain as its sanity slips away into madness.
+Immediately after the vavakia expels this green soulfire, the wailing flames flow in reverse into the demon’s gullet through its open maw. This restores 1d8 hit points to the vavakia for each creature that was damaged by its breath weapon.
+The Wisdom drain element of this breath weapon is a mind-affecting effect. The save DC is Constitution-based.
+Smoking Wound (Su) The wounds caused by a vavakia’s fangs result in terrible, eerie wounds that constantly weep wisps of green smoke rather than blood, a grim manifestation of the demon’s effect on a mortal soul. Each time a vavakia bites a creature, it inflicts 2 negative levels. The wounds continue to smoke as long as the victim suffers those negative levels, causing the victim to become sickened from the hideous sensation and rank smell of the vapors. An effect that removes this sickened condition without restoring the negative levels only temporarily causes the wounds to stop smoking—they begin smoking again in 1d6 rounds. Nonliving creatures bitten by a vavakia are immune to its energy-draining bite and do not exhibit smoking wounds. The Fortitude save to remove these negative levels is DC 25. The save DC is Charisma-based.
+Stun (Ex) A creature struck by a vavakia’s tail slap must succeed at a DC 30 Fortitude save or be stunned for 1 round.
+On a critical hit, the stun effect lasts for 1d4 rounds on a failed save and 1 round on a successful save. The save DC is Constitution-based.

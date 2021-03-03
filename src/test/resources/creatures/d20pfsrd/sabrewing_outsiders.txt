@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/sabrewing
+Sabrewing CR 6
+XP 2,400
+NE Medium outsider (evil, extraplanar)
+Init +6; Senses darkvision 60 ft. see invisible; Perception +13
+DEFENSE
+AC 19, touch 12, flat-footed 17 (+2 Dex, +7 natural)
+hp 63 (6d10+30)
+Fort +10, Ref +7, Will +4
+DR 5/good or silver;
+OFFENSE
+Speed 30 ft., fly 60ft. (good)
+Melee 2 wing slashes +11 (1d6+5/19-20/x3)
+Special Attacks augmented critical (wing slash), lasting wound
+Spell-like Abilities (CL 8th):
+1/day—greater magic weapon*
+3/day—align weapon*, magic weapon*
+*The sabrewing can use the above effects on its wings to imbue them with the magic qualities bestowed by each of these spell-like abilities
+TACTICS
+Sabrewings prefer to attack from the air, using speed to their advantage while also staying out of the reach of their opponents. Before combat, sabrewings usually cast magic weapon or greater magic weapon on their wings before engaging in combat so they can use their wings to the utmost advantage. Multiple sabrewings work in concert with one another to bring down foes; one draws an opponent’s attention while another swoops in from behind and slashes with its deadly wings.
+STATISTICS
+Str 21, Dex 15, Con 20, Int 12, Wis 14, Cha 15
+Base Atk +6; CMB +11; CMD 23
+Feats Flyby Attack, Improved Initiative, Power Attack
+Skills Escape Artist +11, Intimidate +11, Knowledge (the planes) +10, Perception +13, Sense Motive +11, Stealth +11, Survival +11; Racial Modifiers +2 Perception
+Languages Common, Sabrewing
+SPECIAL ABILITIES
+Lasting Wound (Su) A wound caused by a sabrewing’s wing slash does not heal naturally and resists healing spells. A creature attempting to cast a cure spell or heal spell on a creature damaged by the sabrewing’s wing slash must make a successful caster level check (DC 18), or the spell has no effect on the injured character. The check DC is Constitution-based.
+See Invisible (Sp) A sabrewing can see invisible creatures as if using the see invisibility spell. This ability is always active. It can be negated, but the sabrewing can restart it as a free action on its next turn.

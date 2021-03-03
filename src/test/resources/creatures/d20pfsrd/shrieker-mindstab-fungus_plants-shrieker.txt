@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/shrieker/shrieker-mindstab-fungus
+Mindstab Fungus CR 3
+XP 800
+N Small plant
+Init +0; Senses blindsight 60 ft.; Perception +1
+DEFENSE
+AC 14, touch 11, flat-footed 13 (+3 natural, +1 size)
+hp 11 (2d8+2)
+Fort +4, Ref +0, Will +1
+Immune sonic, plant traits
+OFFENSE
+Speed 5 ft.
+Space 5 ft.; Reach 0 ft.
+Special Attacks shriek (DC 13 Fort, 1d4 sonic), mental blast (DC 14 Will)
+STATISTICS
+Str 9, Dex 10, Con 13, Int –, Wis 12, Cha 10
+Base Atk +1; CMB -1; CMD 9 (can’t be tripped)
+Languages none
+SPECIAL ABILITIES
+Shriek (Ex) Light sources or movement within 10 feet of a shrieker causes it to emit a piercing sound that lasts for 1d3 rounds. All creatures within 30 feet of a shrieker when it emits this noise must succeed on a DC 12 Fortitude save or take 1d4 sonic damage each round. A creature that successfully saves is not subject to the same shrieker’s noise for 24 hours. The save DC is Constitution-based.
+Mental Blast (Ex) These shriekers emit a high, piercing sound, but also send out penetrating mental waves that stun nearby creatures. All creatures within 30 feet of a mindstab fungus when it shrieks must succeed on a DC 14 Will save or become stunned for 1d4+1 round. The mindstab fungus can emit this mental blast every 1d6 rounds. A creature that successfully saves is not subject to the same mindstab fungus’s stun for 24 hours. This is a sonic, mind-affecting charm effect.

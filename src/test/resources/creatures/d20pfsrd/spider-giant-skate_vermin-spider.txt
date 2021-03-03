@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/spider/spider-giant-skate
+Giant Skate Spider CR 5
+XP 1,600
+N Huge vermin
+Init +0; Senses darkvision 60 ft., tremorsense 60 ft. (aquatic only), Perception +0
+DEFENSE
+AC 16, touch 9, flat-footed 15 (+1 Dex, +7 natural, -2 size)
+hp 66 (7d8+35)
+Fort +10, Ref +3, Will +2
+Immune mind-affecting effects, vermin traits
+OFFENSE
+Speed 50 ft.
+Melee bite +11 (2d6+8 plus grab and poison)
+Space 15 ft.; Reach 10 ft.
+SA poison
+STATISTICS
+Str 27, Dex 13, Con 20, Int -, Wis 11, Cha 3
+Base Atk +5; CMB +15; CMD 26 (34 vs trip)
+SQ water walking
+SPECIAL ABILITIES
+Poison (Ex) Bite-injury; save Fort DC 18; frequency 1/round for 6 rounds; effect unconscious for 1d2 minutes cure 2 consecutive saves. The save DC is Constitution-based.
+Water walking (Ex) Oil-covered hairs at the bottom its feet allows a skate spider to glide across the surface of still or slow-moving water. It can move on water at its normal land speed but will sink if it moves less than half of its normal movement in a turn. Fast moving water is treated like difficult terrain for the skate spider. A skate spider cannot swim and can drown if it becomes submerged in water.

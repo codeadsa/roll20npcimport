@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/archon/lantern-archon
+Lantern Archon CR 2
+XP 600
+LG Small outsider (archon, extraplanar, good, lawful)
+Init +4; Senses darkvision 60 ft., low-light vision; Perception +4
+Aura aura of menace (DC 13)
+DEFENSE
+AC 15, touch 11, flat-footed 15 (+4 natural, +1 size; +2 deflect vs. evil)
+hp 13 (2d10+2)
+Fort +4, Ref +3, Will +0; +4 vs. poison, +2 resistance vs. evil
+DR 10/evil; Immune electricity, petrification
+OFFENSE
+Speed fly 60 ft. (perfect)
+Ranged 2 light rays +3 ranged touch (1d6)
+Spell-Like Abilities (CL 3rd)
+At Will—aid, continual flame, detect evil, greater teleport (self plus 50 lbs. of objects only)
+STATISTICS
+Str 1, Dex 11, Con 12, Int 6, Wis 11, Cha 10
+Base Atk +2; CMB –4; CMD 6
+Feats Improved Initiative
+Skills Diplomacy +5, Fly +14, Knowledge (planes) +3, Perception +4, Sense Motive +5
+Languages Celestial, Draconic, Infernal; truespeech
+SQ gestalt
+SPECIAL ABILITIES
+Gestalt (Su) Nine lantern archons can fuse together as a full-round action, becoming a single Large entity that is more powerful than the individual archons that make up its parts. Looking like a whirlwind of dancing firefly lights, the gestalt has all the powers and abilities of a Large air elemental plus the following: archon, good, and lawful subtypes; archon traits (aura of menace DC 16); 2 light rays (2d6); DR 5/evil and magic. The archons can remain in this form for 2d4 rounds. When the gestalt separates back into individual lantern archons, its remaining hit points are divided evenly among them; if it had less than 9 hit points, some of the component archons die when the gestalt ends.
+Light Ray (Ex) A lantern archon can fire beams of light to damage foes. These light rays have a maximum range of 30 feet. This attack overcomes damage reduction of any type.

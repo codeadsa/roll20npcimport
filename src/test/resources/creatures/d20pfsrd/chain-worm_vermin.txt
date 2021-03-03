@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/chain-worm
+Chain Worm CR 12
+XP 19,200
+N Large vermin
+Init +3; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +0
+DEFENSE
+AC 27, touch 12, flat-footed 24 (+3 Dex, 15 natural, –1 size)
+hp 161 (17d8+68 plus 17)
+Fort +14; Ref +8; Will +6
+Immune mind-affecting effects
+OFFENSE
+Speed 30 ft., climb 20 ft.
+Melee bite +19 (2d8+8 plus grab), tail sting +19 (2d6+8 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks trilling
+STATISTICS
+Str 26, Dex 16, Con 19, Int —, Wis 12, Cha 4
+Base Atk +12; CMB +21 (+25 grapple); CMD 34
+Feats ToughnessB
+Skills Climb +16
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save Fort DC 22; frequency 1/round for 4 rounds; effect 1d4 Con; cure 2 saves. The save DC is Constitution-based.
+Trilling (Ex) By rapidly vibrating its carapace, a chain worm emits a high-pitched trilling sound that stuns and deafens all creatures within range. All living creatures within 30 feet that hear it must succeed on a DC 22 Fortitude save or be stunned for 1d4 rounds and deafened for 24 hours. The save DC is Constitution-based.

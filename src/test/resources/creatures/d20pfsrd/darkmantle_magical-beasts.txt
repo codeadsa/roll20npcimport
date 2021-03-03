@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/darkmantle
+Darkmantle CR 1
+XP 400
+N Small magical beast
+Init +6; Senses blindsight 90 ft., darkvision 60 ft., low-light vision; Perception +4
+DEFENSE
+AC 15, touch 13, flat-footed 13 (+2 Dex, +2 natural, +1 size)
+hp 15 (2d10+4)
+Fort +5, Ref +3, Will +0
+OFFENSE
+Speed 20 ft., fly 30 ft. (poor)
+Melee slam +3 (1d4 plus grab)
+Special Attacks constrict (1d4+4), grab (any size)
+Spell-Like Abilities (CL 5th)
+1/day—darkness
+STATISTICS
+Str 11, Dex 15, Con 14, Int 2, Wis 11, Cha 10
+Base Atk +2; CMB +1 (+5 grapple); CMD 13 (can’t be tripped)
+Feats Improved Initiative
+Skills Fly +5, Perception +4, Stealth +10; Racial Modifiers +4 Perception, +4 Stealth

@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/death-worm-tohc
+Death Worm CR 6
+XP 2,400
+N Large magical beast (earth)
+Init +5; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +7
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 66 (7d10+21 plus 7)
+Fort +8, Ref +6, Will +4
+OFFENSE
+Speed 20 ft., burrow 10 ft.
+Melee bite +10 (1d8+6 plus 1d6 acid)
+Space 10 ft.; Reach 5 ft.
+Special Attacks spit acid, spit lightning
+STATISTICS
+Str 18, Dex 13, Con 16, Int 3, Wis 11, Cha 5
+Base Atk +7; CMB +12; CMD 23 (cannot be tripped)
+Feats Improved Initiative, Iron Will, Power Attack, Toughness
+Skills Perception +7, Stealth +3 (+11 in desert environs); Racial Modifiers +8 Stealth in desert environs
+SPECIAL ABILITIES
+Spit Acid (Ex) Once every 1d4 rounds, a death worm can spit a stream of acid in a 30-foot line; damage 4d6 acid, Reflex DC 16 half. The save DC is Constitution based. Death worms are immune to their own acid and that of other death worms.
+Spit Lightning (Ex) Once per minute on a round in which it does not spit acid, a death worm can spit a stroke of lightning in a 20-foot line; damage 3d6 electricity, Reflex DC 16 half. The save DC is Constitution-based.

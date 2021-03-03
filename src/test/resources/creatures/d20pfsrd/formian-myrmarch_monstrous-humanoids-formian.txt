@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/formian/formian-myrmarch
+Formian Myrmarch CR 10
+XP 9,600
+LN Large monstrous humanoid
+Init +8 (+12 with hive mind); Senses blindsense 30 ft., darkvision 60 ft., hive mind; Perception +18 (+22 with hive mind)
+DEFENSE
+AC 27, touch 16, flat-footed 22 (+2 deflection, +4 Dex, +1 dodge, +11 natural, –1 size)
+hp 126 (12d10+60)
+Fort +11, Ref +14, Will +13; Resist sonic 10
+OFFENSE
+Speed 50 ft.
+Melee sting +16 (1d8+5 plus poison), 2 claws +16 (1d4+5/19–20), bite +16 (1d6+5)
+Ranged javelin +15/+10/+5 (1d6+5 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks poison
+Spell-Like Abilities (CL 12th; concentration +15)
+At will—charm monster (DC 17), clairaudience/clairvoyance, detect thoughts (DC 15)
+3/day—hold monster (DC 18)
+1/day—feeblemind (DC 18)
+STATISTICS
+Str 20, Dex 19, Con 20, Int 17, Wis 16, Cha 17
+Base Atk +12; CMB +18; CMD 35 (39 vs. trip)
+Feats Dodge, Improved Initiative, Mobility, Quick Draw, Spring Attack, Vital Strike
+Skills Climb +20, Diplomacy +15, Knowledge (arcana) +15, Perception +18 (+22 with hive mind), Sense Motive +15, Spellcraft +15, Stealth +15
+Languages Common, telepathy 150 ft.
+SQ formian traits, inspire hive, undersized weapons
+SPECIAL ABILITIES
+Inspire Hive (Su) Once per day, a myrmarch can affect all warriors and workers in its telepathic range as if they were under the effect of a greater heroism spell (CL 12th).
+Poison (Ex) Javelin or sting—injury; save Fort DC 21; frequency 1/round for 6 rounds; effect 1d4 Dex and sickened; cure 2 saves. The save DC is Constitution-based.

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/manticore/manticore-boreal
+Boreal Manticore CR 6
+XP 2,400
+LE Large magical beast (cold)
+Init +2; Senses darkvision 60 ft., low-light vision, scent; Perception +9
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, –1 size)
+hp 63 (6d10+30)
+Fort +10, Ref +7, Will +3
+Immune cold
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft., fly 50 ft. (clumsy)
+Melee bite +11 (1d8+6 plus 1d6 cold), 2 claws +11 (2d4+6 plus 1d6 cold)
+Ranged 4 spikes +8 (1d6+5 plus 1d6 cold)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 22, Dex 15, Con 20, Int 7, Wis 12, Cha 9
+Base Atk +6; CMB +13; CMD 23 (27 vs. trip)
+Feats Flyby Attack, Hover, Weapon Focus (spikes)
+Skills Fly –3, Perception +9, Stealth –2 (+2 in snow), Survival +4 (+8 in snow or when tracking); Racial Modifiers +4 Perception, +4 Stealth (in snow), +4 Survival (in snow or when tracking)
+Languages Common
+SQ trackless step
+SPECIAL ABILITIES
+Spikes (Ex) With a snap of its tail, a manticore can loose a volley of four spikes as a standard action (make an attack roll for each spike). This attack has a range of 180 feet with no range increment. All targets must be within 30 feet of each other. The creature can launch only 24 spikes in any 24-hour period.
+Trackless Step (Ex) A boreal manticore does not leave a trail in snow and cannot be tracked. It can choose to leave a trail if it so desires.
+Template Applied
+Boreal (CR+1) Base Creature
+Manticore

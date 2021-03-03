@@ -1,0 +1,41 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/river-dragon/river-dragon-wyrm
+Wyrm River Dragon CR 17
+XP 102,400
+CN Huge Dragon (aquatic, fire)
+Init +4; Senses dragon senses, watersight; Perception +37; Aura boiling (10 ft., 2d6 fire), frightful presence (330 ft., DC 27)
+DEFENSE
+AC 41, touch 7, flat-footed 41 (-1 Dex, +34 natural, -2 size)
+hp 324 (24d12+168)
+Fort +21, Ref +15, Will +20
+DR 20/magic; Immune fire, dragon traits; SR 28
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 30 ft., swim 60 ft.
+Melee bite +35 (2d8+18), tail +34 (2d6+18)
+Space 15 ft.; Reach 10 ft. (15 ft. with bite)
+Special Attacks breath weapon (100-ft. line, DC 29, 22d6 fire), spit (60 ft)
+Spell-Like Abilities (CL 24th; concentration +29)
+At will— control water, obscuring mist, passwall, soften earth and stone, water breathing
+Sorcerer Spells Known (CL 15th; concentration +20)
+7th (4/day)— power word blind, vortex [APG] (DC 22)
+6th (6/day)— antimagic field, move earth, contagious flame [APG]
+5th (7/day)— baleful polymorph (DC 20), mind fog (DC 20), transmute rock to mud, suffocation [APG] (DC 20)
+4th (7/day)— fire shield, hallucinatory terrain (DC 19), solid fog, wall of fire (DC 19)
+3rd (7/day)— dispel magic, fireball (DC 18), gaseous form, haste
+2nd (7/day)— blur, cat’s grace, hideous laughter (DC 17), pyrotechnics (DC 17), resist energy
+1st (8/day)— color spray (DC 16), expeditious retreat, identify, magic missile, reduce person
+0 (at will)— arcane mark, detect magic, flare, ghost sound, mage hand, message, prestidigitation, read magic, resistance
+STATISTICS
+Str 35, Dex 9, Con 24, Int 19, Wis 22, Cha 20
+Base Atk +24; CMB +38 (+40 on bull rush); CMD 47 (49 vs bull rush, cannot be tripped)
+Feats Alertness, Arcane Strike, Athletic, Awesome Blow, Cleave, Great Cleave, Improved Bull Rush, Improved Initiative, Lightning Reflexes, Lunge, Power Attack, Weapon Focus (bite)
+Skills Appraise +31, Diplomacy +32, Intimidate +32, Linguistics +31, Knowledge (nature) +31, Perception +37, Spellcraft +31, Stealth +18, Survival, +33, Swim +51; Racial Modifiers +8 Swim
+Languages Aquan, Common, Draconic, Ignan, Sylvan and 31 others
+SQ air breathing, speak with aquatic, watersight
+SPECIAL ABILITIES
+Air Breathing (Ex) The river dragon can breathe air just as naturally as water. This dragon can freely use its breath weapon, spells and other abilities in both air and water.
+Boiling Aura (Su) This river dragon radiates heat causing any water around it to boil. All creatures within 10 ft. of the dragon take 2d6 points of fire damage at the beginning of the dragon’s turn. The river dragon can suppress or activate this ability at will as a free action.
+Speak with Aquatic (Ex) This river dragon has a constant spell-like ability to speak with animals of the aquatic subtype. This otherwise functions as speak with animals.
+Spit (Ex) This river dragon has the ability to spit water at any target within 60 ft. as a ranged overrun attempt. The CMB check for the spit is the river dragon’s CMB but is one size category smaller than the river dragon and gains the benefits of the Improved Overrun feat. This does not grant the river dragon the benefits of the Improved Overrun feat when making a overrun attempt and not spitting.
+Watersight (Ex) This river dragon can see underwater four times better than a human.
+

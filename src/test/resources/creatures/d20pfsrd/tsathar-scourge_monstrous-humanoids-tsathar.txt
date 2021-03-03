@@ -1,0 +1,36 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/tsathar/tsathar-scourge
+Tsathar Scourge CR 3
+XP 800
+CE Medium monstrous humanoid (aquatic)
+Init +6; Senses darkvision 90 ft., scent; Perception +9
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 armor, +2 Dex, +4 natural)
+hp 33 (4d10+8 plus 4)
+Fort +3, Ref +6, Will +5
+Defensive Abilities slimy
+Weaknesses light blindness
+OFFENSE
+Speed 30 ft., swim 30 ft.
+Melee shortspear +6 (1d6+2) or kukri +6 (1d4+2/18-20) or 2 claws +6 (1d6+2); and bite +6 (1d4+2)
+Ranged shortspear +6 (1d6+2) or net +6 touch (entangled)
+Special Attacks leap
+TACTICS
+Scourges prefer to loose their servant frogs on opponents, allowing common tsathar soldiers to engage opponents hand-to-hand. This is not to say that they are not capable fighters, for they certainly are. They favor barbed shortspears, twisted kukri-like daggers, and light armor such as leather or studded leather. They also often carry nets to snare their charges or foes. If their frogs are in danger, they leap in with their spears and attack.
+STATISTICS
+Str 14, Dex 14, Con 14, Int 12, Wis 14, Cha 12
+Base Atk +4; CMB +6; CMD 18 (30 vs. grapple)
+Feats Skill Focus (Perception)B, Improved Initiative, Toughness
+Skills Acrobatics +3 (+17 long jumping, +27 high jumping), Climb +6, Escape Artist +15, Handle Animal +7 (+15 with amphibians) , Perception +11, Stealth +8, Swim +16; Racial Modifiers +12 Escape Artist, +14 Acrobatics when long jumping or +24 Acrobatics when high jumping, +8 Handle Animal (amphibians only)
+Languages Abyssal, Tsathar
+SQ amphibious, implant (DC 21)
+Gear leather armor, shortspear, kukri, net
+SPECIAL ABILITIES
+Implant (Ex) Tsathar are sexless, reproducing by injecting eggs into living hosts. An egg can be implanted only into a helpless host creature. The host must be of Small size or larger. Giant frogs, bred for this very purpose, are the most common host. Implanting an egg requires one minute to perform.
+Accompanying the egg is an anaesthetizing poison that causes the host to fall unconscious for the two-week gestation period of the egg unless the host succeeds on a DC 21 Fortitude saving throw; this save DC includes a +8 racial bonus. If the save succeeds, the host remains conscious, but is violently ill (-10 penalty on attack rolls, saving throws, ability checks, and skill checks) 24 hours before the eggs hatch. When the eggs mature, the young tsathar emerges from the host, killing it in the process.
+A remove disease spell rids the victim any implanted eggs. A DC 21 Heal check can be attempted to surgically extract an egg from a host. If the check fails, the healer can try again, but each attempt (successful or not) deals 1d6 points of damage to the patient.
+Leap (Ex) Tsathar are incredible jumpers, able to leap up to 30 feet horizontally or 10 feet vertically. They have a +14 racial bonus on horizontal jumps, or +24 on vertical jumps, and they do not need to make a 10-foot minimum running start before jumping to avoid doubling the jumping DCs. Tsathar can always take 10 when making an Acrobatics check to jump.
+When a tsathar begins its round by jumping next to an opponent it can make a full attack in the same round. A tsathar wearing medium or heavy armor or carrying a medium or heavy load cannot use this ability.
+Slimy (Ex) Because tsathar continuously cover themselves with muck and slime, they are difficult to grapple. Webs, magic or otherwise, do not affect tsathar, and they usually can wriggle free from most other forms of confinement. This grants them a +12 racial bonus to their CMD to escape grapples, and to their Escape Artist checks.
+Variant
+Tsathar Tsathar Scourge Characters Tsathar scourges also favor barbarian, ranger, rogue, and fighter classes.
++2 Strength, +4 Dexterity, +4 Constitution, +2 Intelligence, +4 Wisdom, and +2 Charisma. Darkvision: Tsathar can see in the dark up to 90 feet. Scent. Racial Hit Dice: Tsathar scourges begin with four levels of monstrous humanoid, providing 4d10 Hit dice, a base attack bonus of +4, and base saving throw bonuses of Fort +1, Ref +4, and Will +4. Racial Skills: A tsathar scourge’s monstrous humanoid levels give it skill points equal to 4 x (4 + Int modifier) for scourges. Scourges have Handle Animal as a class skill. Tsathar scourges gain a +12 racial bonus on Escape Artist checks from their slimy ability, a +8 racial bonus to Swim checks from their Swim speed, a +14 racial bonus on Acrobatic checks when making long jumps, and a +24 racial bonus on Acrobatic checks when making high jumps. In addition, tsathar scourges have a +8 racial bonus on Handle Animal checks when dealing with amphibians such as frogs and toads. Racial Feats: A tsathar scourge’s monstrous humanoid levels give it two feats. In addition, all tsathar gain Skill Focus (Perception) as a bonus feat. AC: +4 natural armor bonus. Weaknesses: Light blindness. Natural Weapons: Tsathar scourges can fight with 2 claws that deal 1d6 base damage and a bite that deals 1d4 base damage. Weapon Proficiency: Tsathar scourges are automatically proficient with the kukri, net, and shortspear. Special Attacks: Leap (see above). Special Qualities: Amphibious, implant, slimy (see above). Languages: All tsathar begin play speaking Abyssal and Tsathar. Bonus languages for tsathar are Aklo, Common, Draconic, Gnome, Terran, and Undercommon.

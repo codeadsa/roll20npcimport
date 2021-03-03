@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/thriae/thriae-seer
+Thriae Seer CR 11
+XP 12,800
+LN Medium monstrous humanoid
+Init +5; Senses darkvision 60 ft., detect secret doors, low-light vision; Perception +27
+DEFENSE
+AC 25, touch 15, flat-footed 20 (+5 Dex, +10 natural)
+hp 133 (14d10+56)
+Fort +8, Ref +16, Will +15
+Immune poison, sonic; Resist acid 10; SR 22
+OFFENSE
+Speed 30 ft., fly 60 ft. (good)
+Melee +2 quarterstaff +16/+11/+6 (1d6+4), +2 quarterstaff +16/+11 (1d6+3), sting +11 (1d8+3 plus mind sting)
+Special Attacks merope consumption
+Spell-Like Abilities (CL 14th; concentration +22)
+Constant—detect secret doors
+At will—calm emotions (DC 20), detect thoughts (DC 20), sound burst (DC 20)
+3/day—divination, invisibility purge, locate object, misdirection (DC 20), symbol of sleep (DC 23)
+1/day—summon bees (level 5, 1d3 giant queen bees or 1d4 wasp swarms), true seeing
+STATISTICS
+Str 14, Dex 20, Con 19, Int 19, Wis 22, Cha 27
+Base Atk +14; CMB +19; CMD 31
+Feats Agile Maneuvers, Alertness, Combat Casting, Combat Reflexes, Improved Two-Weapon Fighting, Lightning Reflexes, Two-Weapon Fighting
+Skills Bluff +22, Diplomacy +22, Fly +26, Knowledge (arcana) +18, Perception +27, Sense Motive +24, Spellcraft +18, Use Magic Device +22
+Languages Common, Sylvan, Thriae
+SPECIAL ABILITIES
+Merope Consumption (Su) Three times per day as a standard action, a thriae seer can consume a dose of merope in order to further tap into her spiritual powers for 1d6+3 rounds. Starting on the round after she consumes the merope, the thriae seer gains an insight bonus to her AC and on damage done with melee attacks equal to her Wisdom modifier (+6 for most thriae seers).
+Mind Sting (Su) A target stung by a thriae seer becomes confused for 1d4 rounds unless it makes a successful DC 21 Will save. This is a mind-affecting effect. The save DC is Constitution-based.

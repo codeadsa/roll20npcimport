@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/squid
+Squid CR 1
+XP 400
+N Medium animal (aquatic)
+Init +6; Senses low-light vision; Perception +7
+DEFENSE
+AC 13, touch 12, flat-footed 11 (+2 Dex, +1 natural)
+hp 13 (3d8)
+Fort +3, Ref +7, Will +2
+Defensive Ability ink cloud (5-ft. radius)
+OFFENSE
+Speed swim 60 ft., jet 240 ft.
+Melee bite +4 (1d3+2), tentacles +2 (1d4+1 plus grab)
+STATISTICS
+Str 15, Dex 15, Con 11, Int 2, Wis 12, Cha 2
+Base Atk +2; CMB +4 (+8 grapple); CMD 16
+Feats Improved Initiative, Lightning Reflexes, MultiattackB
+Skills Perception +7, Swim +10
+SPECIAL ABILITIES
+Ink Cloud (Ex) A squid can emit a 5-foot-radius cloud of ink once per minute as a free action while underwater. This cloud provides total concealment. The ink persists for 1 minute.
+Jet (Ex) A squid can jet in a straight line as a full-round action. It does not provoke attacks of opportunity while jetting.
+Squid Companions Starting Statistics: Size Medium; AC +1 natural; Speed swim 60 ft., jet 240 ft.; Attack tentacles (1d4 plus grab), bite (1d3); Ability Scores Str 14, Dex 15, Con 11, Int 2, Wis 12, Cha 2; Special Qualities low-light vision, ink cloud.
+4th-Level Advancement: Ability Scores Str +2, Con +2.

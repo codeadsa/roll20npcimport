@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/dodo
+Dodo CR 1/4
+XP 100
+N Small animal
+Init +0; Senses low-light vision; Perception +3
+DEFENSE
+AC 11, touch 11, flat-footed 11 (+1 size)
+hp 6 (1d8+2)
+Fort +4, Ref +2, Will –1
+OFFENSE
+Speed 20 ft.
+Melee bite +0 (1d3–2)
+STATISTICS
+Str 7, Dex 11, Con 14, Int 2, Wis 9, Cha 6
+Base Atk +0; CMB –3; CMD 7
+Feats Weapon Focus (bite)
+Skills Perception +3

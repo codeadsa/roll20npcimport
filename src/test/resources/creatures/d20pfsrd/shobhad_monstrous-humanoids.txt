@@ -1,0 +1,21 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/shobhad
+Shobhad CR 4
+XP 1,200
+N Large monstrous humanoid
+Init +5; Senses darkvision 60 ft.; Perception +8
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+4 armor, +1 Dex, +4 natural, –1 size)
+hp 47 (5d10+20)
+Fort +5, Ref +5, Will +4
+Defensive Abilities ferocity; Resist cold 5
+OFFENSE
+Speed 40 ft. (30 ft. in armor)
+Melee longsword +5 (2d6+5/19–20), longsword +5 (2d6+2/19–20), 2 slams +4 (1d6+2)
+Ranged shobhad longrifle +6 (2d6/×4) or 2 javelins +5 (1d8+5)
+Space 10 ft.; Reach 10 ft.
+STATISTICS
+Str 20, Dex 13, Con 18, Int 10, Wis 11, Cha 13
+Base Atk +5; CMB +11; CMD 22
+Feats Combat Reflexes, Improved Initiative, Multiweapon Fighting, Weapon FocusB (shobhad longrifle)
+Skills Intimidate +9, Perception +8, Stealth +2, Survival +8
+Languages Giant

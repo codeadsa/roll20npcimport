@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/hell-hound/nessian-hell-hound
+Nessian WarhoundCR 9
+XP 6,400
+LE Large outsider ( evil, extraplanar, fire, lawful)
+Init +6; Senses darkvision 60 ft., scent; Perception +12
+DEFENSE
+AC 24, touch 11, flat-footed 22 (+6 armor, +2 Dex, +7 natural, –1 size)
+hp 126 (12d10+60)
+Fort +13, Ref +10, Will +5
+Immune fire
+Weaknesses vulnerability to cold OFFENSE
+Speed 40 ft.
+Melee bite +20 (2d6+12/19–20 plus 2d6 fire)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (30-ft. cone, once every 1d4 rounds, 10d6 fire damage, Reflex DC 21 half) STATISTICS
+Str 27, Dex 15, Con 21, Int 4, Wis 12, Cha 6
+Base Atk +12; CMB +21; CMD 33 (37 vs. trip)
+Feats Alertness, Improved Critical (bite), Improved Initiative, Skill Focus ( Stealth, Survival), Weapon Focus (bite)
+Skills Acrobatics +16, Perception +12, Stealth +21, Survival +13; Racial Modifiers +5 Stealth
+Languages Infernal

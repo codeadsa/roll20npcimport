@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/kami/kami-kaminari
+Kaminari Kami CR 17
+XP 102,400
+CN Huge outsider (air, kami, native)
+Init +9; Senses darkvision 60 ft.; Perception +29
+DEFENSE
+AC 32, touch 13, flat-footed 27 (+5 Dex, +19 natural, –2 size)
+hp 264 (23d10+138); fast healing 15
+Fort +19, Ref +12, Will +18
+DR 15/cold iron; Immune bleed, electricity, mind-affecting effects, petrification, polymorph, sonic; Resist acid 10, fire 10; SR 28
+Weaknesses vulnerable to silence
+OFFENSE
+Speed 30 ft., fly 60 ft. (perfect)
+Melee 2 slams +30 (2d8+9 plus cacophonous blow)
+Space 15 ft.; Reach 15 ft.
+Special Attacks trample (2d8+13 plus cacophonous blow, DC 30)
+Spell-Like Abilities (CL 20th; concentration +27)
+At will—invisibility (self only), shatter (DC 19), sound burst (DC 19)
+3/day—control weather, deafening song bolt, discordant blast, greater dispel magic, mass cacophonous call (DC 22)
+1/day—empowered chain lightning (DC 23), greater shout (DC 25), storm of vengeance (DC 26)
+STATISTICS
+Str 28, Dex 21, Con 22, Int 16, Wis 17, Cha 25
+Base Atk +23; CMB +34; CMD 49
+Feats Blind-Fight, Cleave, Combat Reflexes, Empower Spell-Like Ability (chain lightning), Great Cleave, Improved Initiative, Improved Vital Strike, Iron Will, Power Attack, Stand Still, Trample, Vital Strike
+Skills Bluff +33, Diplomacy +33, Fly +35, Intimidate +33, Knowledge (nature) +29, Knowledge (planes) +29, Perception +29, Perform (percussion) +30, Sense Motive +29
+Languages Auran, Common; telepathy 100 ft.
+SQ merge with ward, storm ward
+SPECIAL ABILITIES
+Cacophonous Blow (Su) Whenever a kaminari deals damage with a slam or trample attack, it also deals 11d6 points of sonic damage. In addition, a creature struck with this ability is rendered permanently deaf. A creature that makes a successful DC 27 Reflex save takes half damage and avoids the deafening effect. The save DC is Constitution-based.
+Storm Ward (Su) A kaminari treats a specific mass of transient storm clouds as its ward. This storm is about 1 mile in diameter, and a kaminari can observe the world from any point within its storm ward, whether merged with it or in its physical form. A kaminari can only control the movement of its ward to a minimal extent, willing it to remain in one place or move in a cardinal direction for up to 2d4 hours every day. After this time, the ward continues on its natural course for 24 hours, after which the kaminari may will it to remain stationary again. When a kaminari is in its physical form and within its ward or within 120 feet of its ward’s boundaries, it gains the power to call down bolts of lightning. The kaminari can call up to a total of 15 bolts of lightning each day, each of which deals 5d10 points of electricity damage. This ability is otherwise identical to call lightning storm.
+Vulnerable to Silence (Su) A kaminari constantly surrounds itself with sound and music, and can’t stand any form of silence. Whenever a kaminari is affected by a silence spell or effect or is rendered deaf by any means, it loses its cacophonous blow ability and its fast healing for the duration of the effect. But because a kaminari possesses incredible resilience to such effects, any silence or deafening effect lasts only 2d4 rounds or as long as the effect’s duration states, whichever is shorter.

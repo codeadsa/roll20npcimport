@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/assassin-vine
+Assassin Vine CR 3
+XP 800
+N Large plant
+Init +0; Senses blindsight 30 ft., low-light vision; Perception +1
+DEFENSE
+AC 15, touch 9, flat-footed 15 (+6 natural, –1 size)
+hp 30 (4d8+12)
+Fort +7, Ref +1, Will +2
+Immune electricity, plant traits; Resist cold 10 and fire 10
+OFFENSE
+Speed 5 ft.
+Melee slam +7 (1d8+7 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks constrict (1d8+7), entangle
+STATISTICS
+Str 20, Dex 10, Con 16, Int —, Wis 13, Cha 9
+Base Atk +3; CMB +9 (+13 grapple); CMD 19 (can’t be tripped)
+SQ camouflage
+SPECIAL ABILITIES
+Camouflage (Ex) Since an assassin vine looks like a normal plant when at rest, a DC 20 Perception check is required to notice it before it attacks for the first time. Anyone with ranks in Survival or Knowledge (nature) can use either of those skills instead of Perception to notice the plant.
+Entangle (Su) An assassin vine can, as a free action, cause plants within 30 feet of it to animate and grasp at foes. This ability is otherwise similar to entangle (CL 4th, DC 13). The save DC is Wisdom-based.

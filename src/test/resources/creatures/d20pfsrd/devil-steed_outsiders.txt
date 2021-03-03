@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil-steed
+Devil Steed
+CR 8
+XP 4,800
+NE Large outsider (native)
+Init +3; Senses darkvision 60 ft., low-light vision, scent; Perception +18
+DEFENSE
+AC 22, touch 13, flat-footed 18 (+3 Dex, +1 dodge, +9 natural, –1 size)
+hp 114 (12d10+48)
+Fort +12, Ref +7, Will +11
+DR 5/cold iron; Immune fire, fear effects; SR 19
+OFFENSE
+Speed 40 ft., fly 60 ft. (poor)
+Melee bite +17 (2d6+6/19–20), 2 hooves +17 (1d8+6)
+Space 10 ft.; Reach 5 ft.
+Special Attacks bay, hellfire breath, kick, trample (2d6+9, DC 22)
+Spell-Like Abilities (CL 10th; concentration +13)
+At will—fog cloud, gust of wind, pyrotechnics (DC 15)
+3/day—dimension door, phantasmal killer (DC 17)
+STATISTICS
+Str 22, Dex 17, Con 19, Int 8, Wis 17, Cha 16
+Base Atk +12; CMB +19; CMD 33 (37 vs. trip)
+Feats Dodge, Hover, Improved Vital Strike, Mobility, Spring Attack, Vital Strike
+Skills Fly +12, Intimidate +12, Knowledge (geography) +5, Perception +18, Stealth +14, Survival +18
+Languages Abyssal, +1 additional
+SPECIAL ABILITIES
+Bay (Su) When the devil steed screams as a standard action, all creatures within a 300-foot-radius spread must succeed on a DC 19 Will save or become panicked for 2d4 rounds. This is a sonic, mind-affecting fear effect. Whether or not the save is successful, creatures within the effect are immune to the Devil Steed’s bay for 24 hours thereafter. The save DC is Charisma-based.
+Hellfire Breath (Su) Once every 1d4 rounds, the devil steed can unleash a blast of infernal flame from its mouth as a standard action. This hellfire fills a 30-foot cone and causes 10d6 points of fire damage (Reflex DC 20 half). Anyone who takes damage from this breath weapon must also make a DC 20 Will save to avoid becoming cursed by the infernal flames—those who become cursed take a –4 penalty on all attack rolls, saving throws, and skill checks for a number of days equal to the damage taken—during this time, the victim’s skin appears to be horribly burned in places regardless of any healing applied. This curse effect functions at caster level 12th. The save DC for both saves is Constitution-based.
+Kick (Ex) The devil steed’s hoof attacks are primary attacks that deal bludgeoning and slashing damage.

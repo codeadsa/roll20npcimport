@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/giants/troll/troll-rock-TOHC
+Rock Troll CR 6
+XP 2,400
+CE Large humanoid (earth, giant)
+Init +1; Senses darkvision 60 ft., low-light vision, scent; Perception +5
+DEFENSE
+AC 20, touch 10, flat-footed 19 (+1 Dex, +10 natural, -1 size)
+hp 92 (8d8+56); fast healing 5 (while underground)
+Fort +13, Ref +3, Will +1
+Weaknesses vulnerability to sunlight
+OFFENSE
+Speed 30 ft., burrow 20 ft.
+Melee 2 claws +12 (1d6+7) and bite +12 (1d8+7)
+Space 10 ft.; Reach 10 ft.
+Special Attacks rend (2 claws, 2d6+10)
+TACTICS
+Rock trolls attack any living thing that enters their territory, usually doing so for food. They have no strategy or organization in their attacks; a rock troll flails relentlessly at its foes with its powerful claws until either it or its opponent is dead.
+STATISTICS
+Str 25, Dex 12, Con 25, Int 6, Wis 9, Cha 6
+Base Atk +6; CMB +14; CMD 25
+Feats Alertness, Intimidating Prowess, Power Attack, Skill Focus (Intimidate)
+Skills Intimidate +8, Linguistics -2, Perception +5, Sense Motive +3
+Languages Common, Giant
+SPECIAL ABILITIES
+Fast Healing (Ex) A rock troll heals only if it is underground and touching dirt or earth.
+Vulnerability to Sunlight (Ex) A rock troll exposed to sunlight (not merely a daylight spell) can only take a single move or attack action and is instantly turned to stone (as if by a flesh to stone spell) in the next round if its fails a DC 17 Fortitude save. This effect is permanent, but can be dispelled if the rock troll is removed from the source of the sunlight and stone to flesh is cast on it. A rock troll must make a new saving throw each round it remains in sunlight.
+Rock Troll Characters Rock trolls have racial Hit Dice and can have class levels. Rock troll characters possess the following racial traits.
++14 Strength, +2 Dexterity, +14 Constitution, -6 Intelligence (minimum 3), -2 Wisdom, -4 Charisma. Rock trolls are extremely powerful creatures but are often vulnerable to trickery. Large size: Rock trolls are Large and have the following adjustments -1 penalty to Armor Class, -1 penalty on attack rolls, -4 penalty on Stealth checks, +1 bonus on CMB/CMD, lifting and carrying limits double those of Medium characters. Space/Reach: 10 feet/10 feet. Base speed: A rock troll’s base land speed is 30 feet. Its burrow speed is 20 feet. Darkvision: Rock trolls can see in the dark up to 60 feet. Low-light vision: Rock trolls can see twice as far as humans in conditions of dim light. Scent: Rock trolls can detect opponents within 30 feet by sense of smell. Racial Hit Dice: A rock troll begins with eight levels of humanoid, which provide 8d8 Hit Dice, a base attack bonus of +6, and base saving throw bonuses of Fort +6, Ref +2, and Will +2. Racial Skills: A rock troll’s humanoid levels give it skill points equal to 8 x (2 + Int modifier, minimum 1). Racial Feats: A rock troll’s humanoid levels give it four feats. AC: Rock trolls have a +10 natural armor bonus. Natural Weapons: Rock troll scan fight with 2 claw (1d6) and bite (1d6). Special Attacks: rend (2 claws, 2d6+1-1/2 times Str modifier). Special Qualities: fast healing 5, vulnerability to sunlight. (see above) Languages: Rock trolls begin play speaking Giant. Rock trolls with high Intelligence scores can choose from the following bonus languages: Common, Orc.

@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/urchin/sea-urchin-great-diadem
+Great Diadem Urchin CR 5
+XP 1,600
+N Medium vermin (aquatic)
+Init –4; Senses all-around vision, low-light vision, scent, tremorsense 30 ft.; Perception +1
+DEFENSE AC 20, touch 6, flat-footed 20 (–4 Dex, +14 natural)
+hp 57 (6d8+30); regeneration 3 (fire, acid)
+Fort +10, Ref –2, Will +3
+Defensive Abilities stability; Immune mind-affecting effects
+OFFENSE Speed 10 ft.
+Melee 3 spines +9 (1d8+5 plus poison)
+Special Attacks spines
+STATISTICS Str 21, Dex 3, Con 20, Int —, Wis 13, Cha 2
+Base Atk +4; CMB +9; CMD 15 (23 vs. bull rush or trip)
+Skills Perception +5; Racial Modifiers +4 Perception
+SQ amphibious
+SPECIAL ABILITIES Poison (Ex) Great diadem urchin venom is shockingly painful and feels acidic at the moment of contact—though the worst of the pain fades after a moment. The save DC is Constitution-based.
+Spines—injury; save Fort DC 18; frequency 1/round for 6 rounds; effect 1d2 Con and stunned for 1 round; cure 1 save.
+Spines (Ex) A great diadem urchin’s spines can swivel to face any approaching creature. Any creature that attacks a great diadem urchin with an unarmed strike or a natural attack, or any Large or smaller creature that attacks with a one-handed weapon or light weapon, is automatically attacked by the hunter urchin’s spines as an immediate action. If the spines hit, they can poison the target as well.
+Get this book AND support this site!

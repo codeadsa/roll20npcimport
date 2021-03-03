@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/dragons/dragon/chromatic-black/adult-black-dragon
+Adult Black Dragon CR 11
+XP 12,800
+CE Large dragon (water)
+Init +5; Senses dragon senses; Perception +24; Aura frightful presence (180 ft., DC 19)
+DEFENSE
+AC 28, touch 10, flat-footed 27 (+1 Dex, +18 natural, –1 size)
+hp 161 (14d12+70)
+Fort +14, Ref +10, Will +12
+DR 5/magic; Immune acid, paralysis, sleep; SR 22
+OFFENSE
+Speed 60 ft., fly 200 ft. (poor), swim 60 ft.
+Melee bite +21 (2d6+10), 2 claws +20 (1d8+7), 2 wings +15 (1d6+3), tail +15 (1d8+10)
+Space 10 ft.; Reach 5 ft. (10 ft. with bite)
+Special Attacks breath weapon (80-ft. line, DC 22, 12d6 acid), corrupt water
+Spell-Like Abilities (CL 14th)
+At will—darkness (60-ft. radius)
+Spells Known (CL 3rd)
+1st (6/day)—alarm, mage armor, obscuring mist
+0 (at will)—dancing lights, detect magic, mending, message, read magic
+STATISTICS
+Str 25, Dex 12, Con 21, Int 14, Wis 17, Cha 14
+Base Atk +14; CMB +22; CMD 33 (37 vs. trip)
+Feats Alertness, Improved Initiative, Improved Vital Strike, Power Attack, Skill Focus (Stealth), Vital Strike, Weapon Focus (bite)
+Skills Fly +12, Handle Animal +16, Intimidate +19, Knowledge (arcana) +19, Perception +24, Spellcraft +19, Stealth +20, Swim +32
+Languages Common, Draconic, Giant
+SPECIAL ABILITIES
+Corrupt Water (Sp) Once per day an adult or older black dragon can stagnate 10 cubic feet of still water, making it foul and unable to support water-breathing life. The ability spoils liquids containing water. Liquid-based magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC 19) or become ruined. This ability is the equivalent of a 1st-level spell. Its range is 180 ft.
+Speak with Reptiles (Sp) A young or older black dragon gains the constant spell-like ability to speak with reptiles. This functions as speak with animals, but only with reptilian animals. swamp stride, water breathing
+Swamp Stride (Ex) A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed.
+Water Breathing (Ex) A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.

@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/rast
+Rast CR 5
+XP 1,600
+N Medium outsider (extraplanar, fire)
+Init +5; Senses darkvision 60 ft.; Perception +10
+DEFENSE
+AC 18, touch 11, flat-footed 17 (+1 Dex, +7 natural)
+hp 51 (6d10+18)
+Fort +8, Ref +6, Will +3
+Immune fire
+Weaknesses vulnerability to cold
+OFFENSE
+Speed 5 ft., fly 60 ft. (good)
+Melee bite +8 (1d6+2 plus grab), 4 claws +9 (1d4+2)
+Special Attacks blood drain (1d2 Con), paralyzing gaze
+STATISTICS
+Str 14, Dex 12, Con 17, Int 3, Wis 13, Cha 12
+Base Atk +6; CMB +8 (+12 grapple); CMD 19 (can’t be tripped)
+Feats Flyby Attack, Improved Initiative, Weapon Focus (claw)
+Skills Fly +5, Perception +10, Stealth +10
+Languages Ignan (cannot speak)
+SPECIAL ABILITIES
+Paralyzing Gaze (Su) Paralyzed for 1d6 rounds, 30 feet, Fortitude (DC 14) negates. The save DC is Charisma-based.

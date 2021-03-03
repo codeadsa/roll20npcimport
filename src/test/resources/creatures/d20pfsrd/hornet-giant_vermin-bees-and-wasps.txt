@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/bees-and-wasps/hornet-giant
+Giant Hornet CR 5
+XP 1,600
+N Large vermin
+Init +1; Senses darkvision 60 ft.; Perception +9
+DEFENSE
+AC 15, touch 10, flat-footed 14 (+1 Dex, +5 natural, –1 size)
+hp 45 (7d8+14)
+Fort +7; Ref +3; Will +3
+Immune vermin traits
+STATISTICS
+Speed 20 ft., fly 60 ft. (good)
+Melee bite +9 (1d3+5), sting +9 (1d4+5 plus poison)
+Space 10 ft.; Reach 5 ft.
+Special Attacks poison
+STATISTICS
+Str 20, Dex 12, Con 15, Int — Wis 13, Cha 11
+Base Atk +5; CMB +11; CMD 22
+Skills Perception +9, Survival +1 (+4 orient direction); Racial Modifiers +8 Perception, +4 Survival to orient direction
+SQ pheromone
+SPECIAL ABILITIES
+Poison (Ex) Sting—injury; save DC 21; frequency 1/round for 6 rounds; effect 1d3 Dexterity damage; cure 2 consecutive saves. The save DC is Constitution-based and includes a +2 racial bonus.
+Pheromone (Ex) The first time a giant hornet is successfully hit in combat, it releases a fear pheromone that heightens the aggressiveness of all giant hornets within 50 feet. All affected giant hornets receive a +1 morale bonus on attack rolls for the remainder of the encounter and fight without penalty even while disabled or dying.

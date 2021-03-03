@@ -1,0 +1,17 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/tuatara-giant-tohc
+Giant Tuatara CR 4 (XP 1,200)
+N Large animal
+Init +1; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 15, touch 10, flat-footed 14 (+1 Dex, +5 natural, –1 size)
+hp 42 (5d8+20)
+Fort +10, Ref +7, Will +2
+OFFENSE
+Speed 30 ft., burrow 10 ft.
+Melee bite +7 (1d8+7)
+Space 10 ft.; Reach 5 ft.
+STATISTICS
+Str 21, Dex 13, Con 19, Int 2, Wis 12, Cha 2
+Base Atk +3; CMB +9; CMD 20 (24 vs. trip)
+Feats Great Fortitude, Lightning Reflexes, Skill Focus (Perception)
+Skills Acrobatics +5, Climb +9, Perception +8, Stealth +1, Swim +9

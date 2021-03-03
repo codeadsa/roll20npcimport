@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/weaverworm
+Weaverworm (CR 8)
+XP 4,800
+NE Huge aberration
+Init +18ERROR?; Senses darkvision 60 ft., tremorsense 30 ft.; Perception +10
+DEFENSE
+AC 20, touch 12, flat-footed 16 (+6 Dex, +8 natural, –2 size)
+hp 95 (10d8+50)
+Fort +7, Ref +7, Will +9
+OFFENSE
+Speed 30 ft., burrow 10 ft., climb 30 ft.
+Melee 1 bite +9 (2d6+7), 2 claw +9 (1d8+7 plus paralytic nails)
+Space 15 ft.; Reach 15 ft.
+Special Attacks drag, weaver’s song, paralytic nails, web (+11 ranged, DC 19, 10 hp)
+STATISTICS
+Str 24, Dex 18, Con 18, Int 13, Wis 14, Cha 17
+Base Atk +7; CMB +16; CMD 30 (can’t be tripped)
+Feats Far Shot, Improved Initiative, Point-Blank Shot, Toughness, Weapon Finesse
+Skills Bluff +8, Climb +19, Intimidate +16, Knowledge (dungeoneering) +7, Perception +10, Perform (string) +14, Spellcraft +13, Stealth +6 Languages Common
+SPECIAL ABILITIES
+Drag (Ex) A weaverworm that successfully entangles a victim with its web attack can retract the web, dragging the victim into its clutches. Each round, the entangled victim can attempt a CMD check to escape. Upon a failed check, the weaverworm forcibly drags its victim 20 feet toward it.
+Paralytic Nails (Ex) A weaverworm’s nails secrete a potent paralytic agent. Any creature damaged by its claw attacks must make a DC 19 Fortitude save or be paralyzed for 1 round. In addition, the weaverworm’s nails break off in the bodies of those it paralyzes. A paralyzed creature must make another save to avoid being paralyzed again at the beginning of its round, doing so every round until the nail is removed as a full-round action. A weaverworm’s nail can be removed with either a DC 12 Strength check, which removes the nail and deals 1d4 points of damage to the victim, or a DC 14 Heal check, which deals no damage. A weaverworm’s paralytic nails don’t affect any creature that is immune to poison. The save DC is Constitution-based.
+Weaver’s Song (Su) A weaverworm can play its webs like a grotesque musical instrument. When doing so, all non-weaverworms within 300 feet must make DC 18 Will saves. Those who make their saves are unaffected. Those who fail are fascinated, and on their turn, move toward the weaverworm by the most direct means available. If the path leads into a dangerous area, such as through fire or off a cliff, that creature receives a second saving throw to end the effect before moving into peril. A victim within 5 feet of the weaverworm simply stands and listens. This effect continues for as long as the weaverworm performs and for 1d4 rounds thereafter. This is a sonic mind-affecting charm effect. Whether or not the save is successful, the victim is immune to the same weaverworm’s song for 24 hours. The save DC is Charisma-based.

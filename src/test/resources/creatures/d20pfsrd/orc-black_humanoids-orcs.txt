@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/orcs/orc-black
+Black Orc (CR 1/3)
+XP 135
+Black orc warrior 1
+CE Medium humanoid (orc)
+Init +1; Senses darkvision 60 ft.; Perception -1
+DEFENSE
+AC 17, touch 11, flat-footed 16 (+5 armor, +1 Dex, +1 natural)
+hp 8 (1d10+2 plus 1)
+Fort +4, Ref +1, Will -1; +4 vs. undead attacks
+Defensive Abilities blessing of Orcus, ferocity; DR 1/—
+OFFENSE
+Speed 20 ft.
+Melee longspear +5 (1d8+6/x3)
+Ranged light crossbow +2 (1d8, 19-20/x2)
+TACTICS
+Black orcs have a decent understanding of tactics. They are adept in the use of reach weapons such as longspears and glaives. Many of their number are proficient in the use of light crossbows. In melee they prefer to gang up on powerful opponents and dispatch them quickly before moving on to lesser foes whenever possible. As they are often led by clerics and necromancers in the service of Orcus, they are likely to take prisoners if possible with the intent of sacrificing them to the Demon Lord of Undead at some future time.
+STATISTICS
+Str 19, Dex 12, Con 14, Int 9, Wis 8, Cha 6
+Base Atk +1; CMB +5; CMD 16
+Feats Power Attack
+Skills Intimidate +2
+Languages Common, Orc
+Gear scale mail, longspear, light crossbow, 10 bolts
+SPECIAL ABILITIES
+Blessing of Orcus (Su) Black orcs gain a +4 racial bonus on all saving throws made to resist any attack or effect created by an undead creature.

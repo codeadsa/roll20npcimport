@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/midnight-peddler
+Midnight Peddler CR 6
+XP 2,400
+N Medium outsider (extraplanar)
+Init +5; Senses darkvision 60 ft.; Perception +16
+DEFENSE
+AC 16, touch 11, flat-footed 15 (+1 Dex, +1 dodge, +5 natural)
+hp 52 (7d10+14)
+Fort +6, Ref +6, Will +9
+OFFENSE
+Speed 20 ft.
+Melee touch +7 (death chill)
+Special Attacks death chill
+STATISTICS
+Str 11, Dex 13, Con 15, Int 16, Wis 18, Cha 15
+Base Atk +7; CMB +7; CMD 19
+Feats Alertness, Dodge, Great Fortitude, Improved Initiative
+Skills Bluff +12, Craft (wood) +12, Diplomacy +8, Knowledge (history) +9, Knowledge (local) +9, Knowledge (planes) +12, Perception +16, Profession (peddler) +10, Sense Motive +16, Survival +10
+Languages Common, Celestial, Abyssal, Terran
+SQ divination, plane shift
+SPECIAL ABILITIES
+Death Chill (Su) The touch of the midnight peddler deals 1d4 negative levels to a living creature. The DC is 15 for the Fortitude save to remove a negative level. The save DC is Constitution-based. The midnight peddler gains 5 temporary hit points for each negative level bestowed.
+Divination (Su) The peddler provides advice and answers correctly any one question asked of him by any creature who buys something from his cart. This ability functions similar to a divination spell (caster level 12th).
+Plane Shift (Su) The midnight peddler can plane shift (as the spell) to any inner or outer plane as a move action. His cart (and any non-living matter contained therein) shifts with him. This ability otherwise functions as the spell of the same name.

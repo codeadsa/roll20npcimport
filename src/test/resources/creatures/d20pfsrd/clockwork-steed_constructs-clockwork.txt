@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/clockwork/clockwork-steed
+Clockwork Steed CR 6
+XP 2,400
+N Large construct (clockwork)
+Init +5; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 20, touch 12, flat-footed 17 (+1 Dex, +2 dodge, +8 natural, –1 size)
+hp 74 (8d10+30)
+Fort +2, Ref +5, Will +2
+Immune construct traits
+Weaknesses vulnerable to electricity
+OFFENSE
+Speed 50 ft.
+Melee bite +14 (1d8+7), 2 hooves +9 (1d6+3)
+Space 10 ft.; Reach 5 ft.
+Special Attacks powerful kick, trample (1d6+7, DC 21)
+STATISTICS
+Str 24, Dex 13, Con —, Int —, Wis 10, Cha 1
+Base Atk +8; CMB +16; CMD 29 (33 vs. trip)
+Feats Improved InitiativeB, Lightning ReflexesB
+SQ difficult to create, swift reactions, winding
+SPECIAL ABILITIES
+Powerful Kick (Ex) As a standard action, the clockwork steed can make two hoof attacks with its rear hooves; if both hit, it can perform an awesome blow combat maneuver as the Awesome Blow feat. A clockwork steed gains a +4 racial bonus on this combat maneuver check.

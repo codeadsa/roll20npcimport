@@ -1,0 +1,19 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/mongrelman
+Mongrelman CR 1
+XP 400
+LN Medium monstrous humanoid
+Init +1; Senses darkvision 60 ft., low-light vision; Perception +6
+DEFENSE
+AC 13, touch 11, flat-footed 12 (+1 Dex, +2 natural)
+hp 15 (2d10+4)
+Fort +2, Ref +4, Will +4
+OFFENSE
+Speed 30 ft.
+Melee club +4 (1d6+3) or slam +4 (1d4+3)
+STATISTICS
+Str 14, Dex 13, Con 15, Int 10, Wis 12, Cha 7
+Base Atk +2; CMB +4; CMD 15
+Feats Skill Focus (Stealth)
+Skills Climb +6, Perception +6, Sleight of Hand +7, Stealth +13, Survival +5; Racial Modifiers +4 Sleight of Hand, +4 Stealth
+Languages Common, Undercommon
+SQ sound mimicry (voices)

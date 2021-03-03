@@ -1,0 +1,26 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/bedlam
+Bedlam CR 9
+XP 6,400
+CN Large aberration (chaotic)
+Init +12; Senses darkvision 60 ft., detect law; Perception +24; Aura chaotic resonance 20 ft.
+DEFENSE
+AC 26, touch 18, flat-footed 17 (+8 Dex, +8 natural, –1 size, +1 dodge)
+hp 84 (13d8+26)
+Fort +8; Ref +12; Will +10
+DR 10/lawful; Immune petrification, polymorph, spells and effects with chaotic or anarchic descriptor; SR 20 (vs. spells with lawful descriptor only)
+OFFENSE
+Speed fly 50 ft. (perfect)
+Melee 2 slams +11 (2d4+3)
+Space 10 ft.; Reach 10 ft.
+Special Attacks chaos burst, chaotic resonance
+STATISTICS
+Str 17, Dex 26, Con 15, Int 15, Wis 15, Cha 12
+Base Atk +9; CMB +13; CMD 32 (can’t be tripped)
+Feats Ability Focus (chaos burst), Ability Focus (chaotic resonance), Blind-Fight, Dodge, Great Fortitude, Improved Initiative, Skill Focus (Perception)
+Skills Fly +30, Knowledge (the planes) +18, Perception +24, Stealth +20 (+28 in areas of smoke or fog), Use Magic Device +14, plus 13 ranks in one additional randomly chosen skills. Racial Modifiers +8 Stealth in areas of fog or smoke
+Languages Common plus two others, chosen randomly
+SPECIAL ABILITIES
+Chaos Burst (Su) Once per round as a standard action, a bedlam can release a burst of crackling gray energy in a 20-foot radius around itself. Lawful creatures caught in the area take 5d8 points of damage and are staggered for 1d6 rounds. Non-lawful and non-chaotic creatures take 3d8 points of damage, but are not staggered. A successful DC 18 Will save halves the damage and negates the staggered effect. Chaotic-aligned creatures are immune to this effect. The save DC is Constitution-based.
+Chaotic Resonance (Su) A bedlam emanates an aura of pure chaos; an invisible and ever-changing ring of chaotic energy. This aura disrupts spells and magic items (except those of a chaotic nature) used within 20 feet of the bedlam. Spellcasters in the area must make a successful DC 18 caster level check each time they attempt to cast a spell. If the check fails, the spell fizzles away just as if it had been cast. Any magic item used within this area must make a successful DC 18 Fortitude save or lose its magical properties for that round. A new save must be made each round the item remains within the area. These DCs are Constitution-based.
+Spells with the chaotic descriptor that are cast within this area function as if they were empowered (as by the Empower Spell feat). Chaotically-aligned weapons (anarchic weapons) deal an additional +1d6 points of chaotic damage while in this aura (e.g., an anarchic weapon deals 3d6 total points of chaotic damage while in this aura). Lawful-aligned weapons are unaffected by this aura and also bypass the bedlam’s damage reduction.
+Detect Law (Su) A bedlam can continuously detect law as the spell (caster level 10th), though there is no chance of it becoming stunned by overwhelming lawful auras. It can suppress or resume this ability as a free action.

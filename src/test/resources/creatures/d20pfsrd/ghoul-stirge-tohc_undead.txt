@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ghoul-stirge-tohc
+Ghoul-Stirge CR 3
+XP 800
+CE Medium undead
+Init +3; Senses darkvision 60 ft., scent; Perception +11
+DEFENSE
+AC 15, touch 13, flat-footed 12 (+3 Dex, +2 natural)
+hp 22 (4d8+4)
+Fort +2; Ref +4; Will +6
+Immune undead traits
+OFFENSE
+Speed 20 ft., fly 50 ft. (average)
+Melee bite +6 (1d6 plus paralysis)
+Special Attacks blood drain (1d4 Constitution), paralysis (1d4+1 rounds, DC 13)
+STATISTICS
+Str 10, Dex 17, Con —, Int 6, Wis 14, Cha 12
+Base Atk +3; CMB +3; CMD 16 (28 vs. trip)
+Feats Skill Focus (Perception), Weapon Finesse
+Skills Fly +7, Perception +11, Stealth +10
+Languages Common (cannot speak)

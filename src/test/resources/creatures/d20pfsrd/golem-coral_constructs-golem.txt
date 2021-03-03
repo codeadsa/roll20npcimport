@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/golem/golem-coral
+Coral Golem CR 9
+XP 6,400
+N Large construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 21, touch 9, flat-footed 21 (+12 natural, –1 size)
+hp 96 (12d10+30)
+Fort +4, Ref +4, Will +4
+DR 10/adamantine; Immune construct traits, magic
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +18 (1d6+10/19–20 plus bleed)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bleed (1d6)
+STATISTICS
+Str 24, Dex 11, Con —, Int —, Wis 11, Cha 1
+Base Atk +12; CMB +20; CMD 30
+Feats Improved Critical B (claw)
+SQ aquatic reconstruction, powerful blows (slam)
+SPECIAL ABILITIES
+Aquatic Reconstruction (Ex) Whenever a coral golem is touching a body of saltwater of a size equal to or greater than its own size, it gains fast healing 5.
+Immunity to Magic (Ex) A coral golem is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature, as noted below.
+Any spell with the water descriptor heals a coral golem 1d6 points of damage per level of the caster (maximum 10d6). Transmute rock to mud slows a coral golem (as the slow spell) for 1d6 rounds (no save). Transmute mud to rock increases the golem’s bleed damage to 2d6 for 3 rounds. Soften earth and stone causes a coral golem to lose its damage reduction for 3 rounds.

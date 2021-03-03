@@ -1,0 +1,27 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/devil/devil-ink-kp
+Ink Devil CR 3
+XP 800
+LE Small outsider (devil, evil, extraplanar, lawful)
+Init +5; Senses darkvision 60 ft., see in darkness; Perception +6; Aura fear (5 ft., DC 13)
+DEFENSE
+AC 18, touch 16, flat-footed 13 (+5 Dex, +2 natural, +1 size)
+hp 26 (4d10+4 HD)
+Fort +5, Ref +9, Will +0
+Immune fire and poison; Resist acid 10, cold 10
+OFFENSE
+Speed 30 ft.
+Melee bite +9 (1d6+1) and 2 claws +9 (1d4)
+Special Attacks corrupt scroll, devil’s mark, disrupt concentration
+Spell-Like Abilities (CL 4th; concentration +8)
+At will—arcane mark, detect magic, erase, greater teleport (self plus 50 lb. of objects only), invisibility (self only), read magic
+1/day—explosive runes (DC 17), summon (level 4, 1d4+1 lemures 40% or 1 ink devil 25%)
+STATISTICS
+Str 12, Dex 20, Con 12, Int 20, Wis 8, Cha 18
+Base Atk +4; CMB +4; CMD 19
+Feats Deceitful, Scribe ScrollB, Weapon Finesse
+Skills Appraise +9, Bluff +18, Craft (books) +12, Diplomacy +11, Disable Device +9, Disguise +15, Escape Artist +9, Intimidate +6, Knowledge (arcana) +17, Knowledge (history) +6, Knowledge (local) +6, Knowledge (religion) +6, Knowledge (planes) +10, Linguistics +15, Stealth +6, Perception +6, Sense Motive +7, Use Magic Device +11 (+13 scrolls); Racial Modifiers +8 Bluff, +8 Knowledge (arcana), +8 Linguistics, +8 Sense Motive
+Languages Abyssal, Celestial, Common, Draconic, Infernal; telepathy 120 ft.
+SPECIAL ABILITIES
+Corrupt Scroll (Su) An ink devil can corrupt the magic within any scroll by touch. Any such corrupted scroll requires a DC 16 CL check to use successfully. If the check fails, the scroll’s spell affects the caster if it is a ranged spell or affects the nearest devil if it is a personal spell.
+Devil’s Mark (Ex) Ink devils can throw ink from their fingertips as a ranged touch attack. If it hits, the affected creature takes no damage but gains a devil’s mark—a black, red, or purple tattoo in the shape of an archduke’s personal seal. Any devil’s magic performed against the marked creature gains a +4 competency bonus due to the mark, including touch spells, innate spell-like or supernatural abilities (which increase their save DC by 4), and magic drawn from a scroll or other item by a devil. The mark can be removed only by remove curse (CL 7th), followed immediately by erase (that must make a CL check against a 4th-level caster). In addition, the mark detects as faintly evil and often shifts its position on the body. Paladins, witchfinders, and clerics of an inquisition may consider such a mark proof that a character has made a pact with a devil.
+Disrupt Concentration (Ex) Their sharp, shrill tongues and sharper claws make ink devils more distracting than their own combat prowess might indicate. As a swift action, an ink devil can force a single foe to make a DC 16 concentration check or suffer spell failure for a spell cast that round. This is a sonic effect and is Cha-based.

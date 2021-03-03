@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/fey/satyr/satyr-blighted-fey
+Blighted Fey Satyr
+CR 6
+XP 2,400
+CE Medium fey
+Init +2; Senses darkvision 60 ft., low-light vision; Perception +20
+DEFENSE
+AC 20, touch 13, flat-footed 17 (+2 Dex, +1 dodge, +7 natural)
+hp 76 (8d8+40)
+Fort +6, Ref +8, Will +8
+Defensive Abilities fungal rejuvenation; DR 10/cold iron and good; Immune disease, paralysis, poison, polymorph; Resist cold 10, electricity 10; SR 17
+OFFENSE
+Speed 40 ft.
+Melee dagger +6 (1d4+4/19–20), horns +1 (1d6+2)
+Ranged shortbow +6 (1d6/x3)
+Special Attacks parasitic bond, pipes, thorn throw
+Spell-Like Abilities (CL 8th; concentration +13)
+At will–charm person (DC 16), dancing lights, ghost sound (DC 15), sleep (DC 16), suggestion (DC 17)
+1/day–fear (DC 18), summon nature’s ally III
+STATISTICS
+Str 18, Dex 15, Con 19, Int 12, Wis 14, Cha 21
+Base Atk +4; CMB +8; CMD 21
+Feats Dodge, Mobility, Skill Focus (Perception), ToughnessB, Weapon Finesse
+Skills Bluff +16, Diplomacy +16, Disguise +10, Intimidate +10, Knowledge (nature) +12, Perception +20, Perform (wind) +20, Stealth +19, Survival +7; Racial Modifiers +2 Knowledge (nature), +6 Perception, +4 Perform (wind), +6 Stealth
+Languages Common, Sylvan
+SQ hive mind, tainted blood
+SPECIAL ABILITIES
+Pipes (Su) A satyr can focus and empower his magic by playing haunting melodies on his panpipes. When he plays, all creatures within a 60-foot radius must make a successful DC 18 Will save or be affected by charm person, fear, sleep, or suggestion, depending on which tune the satyr chooses. A creature that successfully saves against any of the pipes’ effects cannot be affected by the same set of pipes for 24 hours, but can still be affected by the satyr’s other spell-like abilities as normal. The satyr’s use of his pipes does not count toward his uses per day of his spell-like abilities, and if separated from them, he may continue to use his standard abilities. The pipes themselves are masterwork, and a satyr can craft a replacement with 1 week of labor. The save DC is Charisma-based.
+Hive Mind (Su) Blighted fey within 100 feet of each other can communicate through a shared fungal hive mind. This does not permit blighted fey to see and hear through each other’s senses, but they can share specific situational information and tactics through telepathy. If one blighted fey within range is aware of danger, they are all aware of danger and cannot be surprised.
+Editor’s Note
+This creature uses the Blighted Fey Template (CR+2).

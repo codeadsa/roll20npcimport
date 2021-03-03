@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/toad/toad-giant
+Giant Toad
+CR 2
+XP 600
+N Large animal
+Init +1; Senses low-light vision, scent; Perception +8
+DEFENSE
+AC 14, touch 10, flat-footed 13 (+1 Dex, +4 natural, –1 size)
+hp 22 (3d8+9)
+Fort +6, Ref +6, Will +0
+Defensive Abilities poison skin
+OFFENSE
+Speed 30 ft., swim 15 ft.
+Melee bite +5 (1d6+6 plus grab)
+Space 10 ft.; Reach 10 ft.
+Special Attacks swallow whole (1d4 bludgeoning, AC 12, 2 hp)
+STATISTICS
+Str 19, Dex 13, Con 16, Int 1, Wis 8, Cha 6
+Base Atk +2; CMB +7 (+11 grapple); CMD 18 (22 vs. trip)
+Feats Lightning Reflexes, Skill Focus (Perception)
+Skills Acrobatics +5 (+9 jump), Perception +8, Stealth* +5, Swim +12; Racial Modifiers +4 Acrobatics (+8 jump), +4 Stealth, +8 Swim
+SPECIAL ABILITIES
+Poison Skin (Ex) A creature that strikes a giant toad with an unarmed strike or natural weapon exposes itself to the toad’s poisonous skin.
+Skin—contact; save Fort DC 14; frequency 1/round for 4 rounds; effect 1d2 Wisdom damage; cure 1 save.
+
+
+Giant Toad Companions
+
+Giant toad companions are identical to giant frog animal companions, save that they lack the frog’s tongue and pull abilities. Instead, they gain the poison skin ability at 4th level.
+Starting Statistics: Size Medium; Speed 30 ft., swim 30 ft.; AC +1 natural armor; Attack bite (1d6); Ability Scores Str 15, Dex 13, Con 16, Int 1, Wis 9, Cha 6; Special Qualities low-light vision, scent . 4th–Level Advancement: Ability Scores Str +2, Dex +2; Special Qualities poison skin, swallow whole.

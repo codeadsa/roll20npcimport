@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demodand-tohc/demodand-slime-tohc
+Slime Demodand CR 13
+XP 25,600
+CE Medium outsider (chaotic, demodand, evil, extraplanar)
+Init +4; Senses darkvision 120 ft.; Perception +22; Aura stench (DC 21, 2d6 rounds)
+DEFENSE
+AC 28, touch 14, flat-footed 24 (+4 Dex, +14 natural)
+hp 136 (13d10+65)
+Fort +13, Ref +8, Will +10
+DR 10/good and magic; Immune acid, poison, mind-affecting effects; Resist cold 10, fire 10; SR 24
+OFFENSE
+Speed 40 ft., fly 50 ft. (average)
+Melee 2 claws +22 (1d6+8 plus 1d6 acid), bite +21 (1d8+8 plus 1d6 acid)
+Special Attacks enslime
+Spell-Like Abilities (CL 13th)
+At will—detect good, detect magic, detect thoughts (DC 16), fear (DC 18), gaseous form, invisibility (self only), magic circle against good, see invisibility, tongues
+3/day—acid fog, dispel magic, fog cloud, ray of enfeeblement
+1/day—summon (level 6, 1d4 tarry demodands 50%; or 1 slime demodand 20%)
+STATISTICS
+Str 26, Dex 18, Con 20, Int 14, Wis 14, Cha 18
+Base Atk +13; CMB +21; CMD 35
+Feats Alertness, Cleave, Critical Focus, Great Cleave, Power Attack, Sickening Critical, Weapon Focus (claws)
+Skills Acrobatics +12, Bluff +20, Fly +14, Knowledge (arcana) +18, Knowledge (planes) +18, Perception +22, Sense Motive +8, Spellcraft +18, Stealth +20, Survival +18
+Languages Abyssal, Common, Infernal
+SQ slimy hide
+SPECIAL ABILITIES
+Enslime (Ex) If a slime demodand hits an opponent with all of its natural attacks in the same round, it deals an extra 1d6 points of acid damage (in addition to the acid damage dealt by its natural attacks).
+Slimy Hide (Ex) A slime demodand’s hide is covered in acidic slime. Creatures attacking it unarmed or with natural weapons take 1d6 points of acid damage each time one of their attacks hits.

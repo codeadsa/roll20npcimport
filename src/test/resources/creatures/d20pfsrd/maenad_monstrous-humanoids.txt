@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/maenad
+Maenad CR 8
+XP 4,800
+CE Medium monstrous humanoid
+Init +8; Senses darkvision 60 ft.; Perception +15
+DEFENSE
+AC 20, touch 15, flat-footed 15 (+4 Dex, +1 dodge, +5 natural)
+hp 94 (9d10+45)
+Fort +8, Ref +10, Will +9; +4 vs. mind-affecting effects
+Immune calm emotions; Resist fire 10; SR 19
+OFFENSE
+Speed 30 ft.
+Melee bite +13 (1d6+4 plus poison), 2 claws +13 (1d4+4/19–20 plus poison)
+Special Attacks infectious dance, poison
+Spell-Like Abilities (CL 12th; concentration +17)
+At will—murderous command (DC 16), polypurpose panacea, rage
+3/day—bull’s strength, charm monster (DC 19), mad hallucination (DC 17), vampiric touch
+STATISTICS
+Str 19, Dex 18, Con 20, Int 13, Wis 16, Cha 21
+Base Atk +9; CMB +13; CMD 28
+Feats Dodge, Improved Critical (claw), Improved Initiative, Persuasive, Power Attack
+Skills Bluff +14, Diplomacy +13, Disguise +11, Intimidate +19, Perception +15, Sense Motive +9
+Languages Common, Sylvan
+SQ mad feast
+SPECIAL ABILITIES
+Infectious Dance (Su) Any creature viewing a dancing maenad from within 60 feet of her must succeed at a DC 19 Will save or be affected as if by confusion for 1 hour. For every four creatures affected by this ability, the maenad gains 1d10 temporary hit points and her Charisma score increases by 1; these benefits end if the affected creatures break free of the dance.
+Mad Feast (Su) As a full-round action, a maenad can conjure a supernatural feast. Creatures eating from this feast gain a +2 bonus to Strength and Constitution, 1d8 temporary hit points, and a +4 morale bonus on fear saves for 12 hours. Creatures affected also take a –4 penalty on Will saving throws (this penalty does not apply on saves against fear), and find it more compelling to engage in debauchery, excess, and violence.
+Poison (Ex) Bite—injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d3 Con; cure 2 consecutive saves.

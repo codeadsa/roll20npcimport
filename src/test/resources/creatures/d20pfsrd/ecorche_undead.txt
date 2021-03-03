@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/ecorche
+Ecorche CR 16
+XP 76,800
+CE Large undead
+Init +9; Senses darkvision 60 ft.; Perception +25; Aura frightful presence (60 ft., DC 26)
+DEFENSE
+AC 30, touch 14, flat-footed 25 (+5 Dex, +16 natural, -1 size)
+hp 209 (22d8+110); fast healing 5
+Fort +12, Ref +12, Will +15
+Defensive Abilities channel resistance +2; DR 15/good and silver; Immune acid, undead traits
+OFFENSE
+Speed 30 ft.
+Melee 2 claws +27 (3d6+11/19-20)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bleed (1 Con drain), rend (2 claws, 3d6+11 plus bleed and seize skin)
+STATISTICS
+Str 32, Dex 20, Con —, Int 9, Wis 11, Cha 21
+Base Atk +16; CMB +28; CMD 43
+Feats Awesome Blow, Blinding Critical, Combat Reflexes, Critical Focus, Improved Bull Rush, Improved Critical (claw), Improved Initiative, Iron Will, Power Attack, Stand Still, Weapon Focus (claw)
+Skills Disguise +30, Perception +25, Stealth +26
+Languages Common
+SQ wear skin
+SPECIAL ABILITIES
+Seize Skin (Su) Whenever an ecorche damages a target with its rend ability, the target must succeed at a DC 25 Fortitude save to resist being skinned alive. Those who fail the save become staggered and take 1 point of Constitution drain per round. Both of these effects are permanent but can be removed with a regenerate or heal spell (or 1 round of regeneration). The ecorche can use its wear skin ability to don a skin stolen in this way as a full-round action. The save DC is Dexterity-based.
+Wear Skin (Su) An ecorche can steal the skin of a dead Small, Medium, or Large humanoid and wear it as its own. When it does this, the ecorche takes on the creature’s size and appearance and gains a +10 bonus on Disguise checks made to impersonate the victim. While wearing a stolen skin, an ecorche cannot use its frightful presence. This stolen skin is preserved while the ecorche wears it, but is destroyed if the ecorche takes more than 10 points of damage or if the ecorche chooses to destroy the skin as a standard action. Those within 60 feet who see an ecorche’s stolen skin destroyed are immediately subjected to its frightful presence and take a -5 penalty on the related Will save. An ecorche reverts to its normal size if its stolen skin is destroyed.

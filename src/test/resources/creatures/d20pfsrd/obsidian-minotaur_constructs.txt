@@ -1,0 +1,23 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/obsidian-minotaur
+Obsidian Minotaur CR 9
+XP 6,400
+N Large construct
+Init +0; Senses darkvision 60 ft., low-light vision; Perception +0
+DEFENSE
+AC 25, touch 9, flat-footed 25 (+16 natural, -1 size)
+hp 96 (12d10+30)
+Fort +4, Ref +4, Will +4
+DR 10/adamantine; Immune magic, construct traits
+OFFENSE
+Speed 20 ft.
+Melee 2 claws +17 (2d8+6 plus 1d6 fire)
+Space 10 ft.; Reach 10 ft.
+Special Attacks breath weapon (10-ft. cube, DC 16, 1d4 Dex damage, useable every 1d4+1 rounds), burn
+STATISTICS
+Str 22, Dex 10, Con –, Int –, Wis 11, Cha 1
+Base Atk +12; CMB +19; CMD 29
+SPECIAL ABILITIES
+Breath Weapon (Su) As a free action, once every 1d4+1 rounds, an obsidian minotaur can expel a cloud of gas directly in front of it. The cloud fills a 10-ft. cube and lasts for 1 round before dispersing. Any creature in the area must succeed on a DC 16 Fortitude save or take 1d4 points of Dexterity damage. The save DC is Constitution-based.
+Burn (Ex) The claws of an obsidian minotaur deal 1d6 points of fire damage each time they hit. A creature hit must succeed on a DC 16 Reflex save or take 1d6 points of fire damage for 1d4+1 rounds as clothes ignite and armor becomes searing hot. The save DC is Constitution-based.
+Immunity to Magic (Ex) An obsidian minotaur is immune to any spell or spell-like ability that allows spell resistance. In addition, certain spells and effects function differently against the creature as noted below.
+A transmute rock to mud spell slows it (as the slow spell) for 2d6 rounds, with no saving throw, while transmute mud to rock heals all of its hit points. A stone to flesh spell does not actually change the obsidian minotaur’s structure but negates its damage reduction and immunity to magic for 1 full round.

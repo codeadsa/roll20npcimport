@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/demon/demon-hala
+Hala Demon CR 4
+XP 1,200
+CE Medium outsider (air, chaotic, demon, evil, extraplanar)
+Init +4; Senses darkvision 60 ft.; Perception +8; Aura stormwind aura
+DEFENSE
+AC 18, touch 14, flat-footed 14 (+4 Dex, +4 natural)
+hp 37 (5d10+10)
+Fort +6, Ref +8, Will +1
+Defensive Abilities vengeful wind; DR 10/cold iron or good; Immune electricity, poison; Resist acid 10, cold 10, fire 10; SR 15
+Weaknesses enemy of dragons and eagles
+OFFENSE
+Speed 30 ft., fly 60 ft. (perfect)
+Melee 2 claws +9 (1d4+3), bite +9 (1d6+3)
+Special Attacks hailstorm
+Spell-Like Abilities (CL 5th; concentration +7)
+At will—alter winds (DC 13)
+3/day—gust of wind (DC 14), river of wind (DC 16)
+1/day—control winds (DC 17), summon (level 3, 1 hala 40%)
+STATISTICS
+Str 16, Dex 19, Con 14, Int 12, Wis 11, Cha 15
+Base Atk +5; CMB +8; CMD 22
+Feats Flyby Attack, Hover, Weapon FinesseB, Wingover
+Skills Acrobatics +12, Escape Artist +12, Fly +20, Intimidate +10, Knowledge (planes) +9, Perception +8, Stealth +12
+Languages Abyssal, Celestial, Draconic, telepathy 100 ft.
+SPECIAL ABILITIES
+Enemy of Dragons and Eagles (Ex) Halas are hated enemies of dragons and eagles. Those creatures gain a +2 bonus on attack and damage rolls against hala demons.
+Hailstorm (Su) A hala can call down hailstones from surrounding clouds once every 1d4 rounds as a standard action. These hailstones deal 1d6 points of bludgeoning damage and 1d6 points of cold damage to all creatures within a 20-foot radius that have no overhead cover. A DC 14 Reflex save halves this damage. The save DC is Constitution-based. To use this ability, the hala must be outside and there must be clouds in the sky.
+Stormwind Aura (Su) Halas surround themselves with a buffeting shroud of supernatural, windstorm-force winds. These winds shield a hala from any other wind effects and form a shell of breathable air around it, allowing the hala to breathe underwater. Ranged weapons and gases directed toward a hala are affected as the spell wind wall.
+Vengeful Wind (Su) Anytime a hala takes damage from a critical hit, a powerful blast of wind explodes forth in the direction of the attacker. This blast takes the form of a 60-foot-long gale, treated as a gust of wind spell, directed from the hala toward the opponent that scored the critical hit against it (if that creature is more than 60 feet away, the wind is aimed in its direction but doesn’t come close enough to affect it). This wind is also charged with electricity. Any creature in or that enters the area of effect must make a DC 14 Reflex save or take 3d6 points of electricity damage. The save DC is Constitution-based.

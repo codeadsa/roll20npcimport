@@ -1,0 +1,34 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/deific-guard/
+Deific Guard CR 21
+XP 409,600
+NE Medium undead (dwarf)
+Init +9; Senses darkvision 60 ft.; Perception +34
+DEFENSE
+AC 37, touch 19, flat-footed 28 (+9 Dex, +18 natural)
+hp 425 (34d8+272)
+Fort +18; Ref +20; Will +32
+DR 20/—; Immune undead traits; SR 36
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 20 ft., climb 20 ft., spider climb
+Melee +3 unholy gold and silver battleaxe +36/+31/+26/+21 (1d8+10/19–20/x3), unholy slam (+28 1d6+3 plus mummy rot/19–20) or 2 unholy slams +33 (1d6+7 plus mummy rot/19–20)
+Special Attacks channel negative energy 10/day (DC 25, 7d6), unholy attacks
+Spell-like Abilities (CL 13th, concentration +20)
+Constant—spider climb
+At will—inflict serious wounds (DC 20)
+3/day—mass inflict serious wounds (DC 23)
+1/day—blasphemy (DC 24), harm (DC 23)
+STATISTICS
+Str 24, Dex 28, Con —, Int 19, Wis 18, Cha 22
+Base Atk +25; CMB +32 (+36 sunder); CMD 51 (53 vs disarm, sunder, 55 vs bull rush, trip)
+Feats Bleeding Critical, Combat Expertise, Critical Focus, Greater Disarm, Greater Spell Penetration, Greater Sunder, Improved Channel, Improved Critical (battleaxe, slam), Improved Disarm, Improved Sunder, Power Attack (–7/+14), Skill Focus (Perception), Spell Penetration, Toughness, Weapon Focus (battleaxe, slam)
+Skills Climb +52, Intimidate +37, Knowledge (arcana, religion) +41, Perception +34, Sense Motive +41, Spellcraft +41, Stealth +46
+Languages Common, Draconic, Dwarven,
+SQ stability, stonecunning
+SPECIAL ABILITIES
+Channel Negative Energy (Su) This ability works like the cleric ability of the same name The deific guard channels energy as a 13th-level cleric.
+Gold and Silver Battleaxe A gold and silver battleaxe provides a +2 bonus to Intimidate checks, counts as an alchemical silver weapon, is always considered masterwork, and costs 360 gp (before adding the cost of any magical enhancements).
+Mummy Rot (Su) Curse and disease—slam; save Fort DC 34; onset 1 minute; frequency 1/day; effect 1d6 Con and 1d6 Cha; cure —. Mummy rot is both a curse and disease and can only be cured if the curse is first removed, at which point the disease can be magically removed. Even after the curse element of mummy rot is lifted, a creature suffering from it cannot recover naturally over time. Anyone casting a conjuration (healing) spell on the afflicted creature must succeed on a DC 30 caster level check, or the spell is wasted and the healing has no effect. Anyone who dies from mummy rot turns to dust and cannot be raised without a resurrection or greater magic. The save DC is Charisma-based.
+Stability (Ex) This ability works like the dwarf racial ability of the same name.
+Stonecunning (Ex) This ability works like the dwarf racial ability of the same name.
+Unholy Attacks (Su) All attacks from a deific guard are considered to have the unholy quality, dealing an additional 2d6 points of damage to creatures of good alignment.

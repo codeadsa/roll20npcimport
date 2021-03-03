@@ -1,0 +1,30 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/undead/spectral-rock-troll-tohc
+Spectral Rock Troll CR 7
+XP 3,200
+CE Large undead (incorporeal)
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +16
+DEFENSE
+AC 11, touch 11, flat-footed 10 (+1 deflection, +1 Dex, –1 size)
+hp 52 (8d8+8 plus 8)
+Fort +7; Ref +3; Will +1
+Defensive Abilities channel resistance +4, incorporeal, rejuvenation; Immune undead traits
+OFFENSE
+Speed 30 ft., fly 30 ft. (perfect)
+Melee corrupting touch +6 (7d6, Fort DC 15 half)
+Space 10 ft.; Reach 10 ft.
+Special Attacks create spawn
+STATISTICS
+Str —, Dex 12, Con —, Int 6, Wis 9, Cha 12
+Base Atk +6; CMB +7; CMD 19
+Feats Alertness, Improved InitiativeB, Intimidating Prowess, Power Attack, Skill Focus (Intimidate), ToughnessB
+Skills Fly +7, Intimidate +8, Linguistics –2 , Perception +16, Sense Motive +3, Stealth +5; Racial Modifiers +8 Perception, +8 Stealth
+Languages Common, Giant
+SQ vanish
+SPECIAL ABILITIES
+Corrupting Touch (Su) Spectral trolls gain an incorporeal touch attack. As a standard action a troll inflicts a number of d6s equal to its CR in damage. The damage is not negative energy—it manifests in the form of physical wounds and aches from supernatural aging. Creatures immune to magical aging are immune to this damage, but otherwise the damage bypasses all forms of damage reduction. A Fortitude save (DC = 10 + 1/2 the spectral troll’s Hit Dice + spectral troll’s Charisma modifier) halves the damage inflicted.
+Create Spawn (Su) Any humanoid killed by a spectral troll rises 1d3 days later as a free-willed spectre unless a cleric of the victim’s religion casts bless or consecrate on the corpse before such time.
+Rejuvenation (Su) In most cases, it’s difficult to destroy a spectral troll through simple combat: The “destroyed” spirit often restores itself in 2d4 days. Even the most powerful spells are usually only temporary solutions. The only way to get rid of a spectral troll for sure is to determine the reason for its existence and set right whatever prevents it from resting in peace. The exact means varies with each spirit and may require a good deal of research.
+Vanish (Su) Spectral trolls vanish in direct sunlight. They are not harmed by it, nor does it cause them any discomfort: they simply do not appear in sunlight. Spectral trolls that are held, restrained, confined, or imprisoned (including magical means such as temporal stasis) vanish in direct sunlight. Once night has fallen, a spectral troll reappears. (If the spectral troll was magically held or restrained, the magic does not resume when it reappears.)
+
+Editor’s Note
+Base template: Spectral Troll (CR +1)

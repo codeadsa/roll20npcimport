@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/animals/tortoise-giant
+Giant Tortoise CR 1
+XP 400
+N Medium animal
+Init –2; Senses low-light vision; Perception +7
+DEFENSE
+AC 16, touch 8, flat-footed 16 (–2 Dex, +8 natural)
+hp 22 (3d8+9)
+Fort +8, Ref +1, Will +2
+OFFENSE
+Speed 10 ft.
+Melee bite +4 (1d6+3)
+STATISTICS
+Str 14, Dex 7, Con 16, Int 2, Wis 13, Cha 9
+Base Atk +2; CMB +4; CMD 12 (16 vs. trip)
+Feats Endurance, Great Fortitude
+Skills Perception +7 (+3 for sound–based checks); Racial Modifiers –4 Perception for sound–based checks
+SQ buoyant, shell, slow and steady
+SPECIAL ABILITIES
+Buoyant (Ex) A tortoise that fails a Swim check by 5 or more does not sink.
+Shell (Ex) As a move action, a tortoise can pull its extremities and head into its shell. It can’t move or attack as long as it remains in this state, but its armor bonus from natural armor increases by 4 as long as it does. It may end this state as a move action.
+Slow and Steady (Ex) A tortoise’s speed is never modified by armor or encumbrance.

@@ -1,0 +1,25 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/leucrotta
+Leucrotta CR 5
+XP 1,600
+CE Large magical beast
+Init +5; Senses darkvision 60 ft., low-light vision, scent; Perception +2
+DEFENSE
+AC 18, touch 10, flat-footed 17 (+1 Dex, +8 natural, –1 size)
+hp 57 (6d10+24)
+Fort +9, Ref +6, Will +4
+Immune disease, poison
+OFFENSE
+Speed 60 ft., climb 30 ft.
+Melee bite +10 (2d6+7/19–20), 2 hooves +5 (1d6+2)
+Space 10 ft.; Reach 5 ft.
+Special Attacks lure, powerful bite
+STATISTICS
+Str 21, Dex 12, Con 18, Int 11, Wis 14, Cha 17
+Base Atk +6; CMB +12; CMD 23 (27 vs. trip)
+Feats Improved Initiative, Skill Focus (Bluff), Skill Focus (Stealth)
+Skills Bluff +12, Climb +13, Stealth +9
+Languages Common
+SQ sound mimicry (voices)
+SPECIAL ABILITIES
+Lure (Su) At any point that a leucrotta’s targets are unaware of it (for example, if the leucrotta is hiding or concealed in darkness), the leucrotta can call out to the targets, who must be in line of sight and within 60 feet. When the leucrotta calls out, the targets must make a DC 16 Will save or fall under the effects of a suggestion to approach the sound of the leucrotta’s voice. This effect functions identically to a mass suggestion spell with a caster level equal to the leucrotta’s Hit Dice. A creature that saves cannot be affected again by the same leucrotta’s lure for 24 hours. The lure is a language-dependent effect, and if the leucrotta uses the victim’s name during the lure, the victim takes a –4 penalty on its saving throw. This is a sonic mind-affecting charm effect. The save DC is Charisma-based.
+Powerful Bite (Ex) A leucrotta’s bite attack always applies 1-1/2 times its Strength modifier on damage rolls and threatens a critical hit on a roll of 19–20. When a leucrotta bites an object, its bite treats the object as having a hardness of 5 less than the object’s actual hardness rating.

@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/onyx-deer
+Onyx Deer CR 5
+XP 1,600
+N Large magical beast
+Init +6; Senses darkvision 60 ft., low-light vision, scent; Perception +14
+DEFENSE
+AC 17, touch 11, flat-footed 15 (+2 Dex, +6 natural, -1 size)
+hp 59 (7d10+21)
+Fort +8, Ref +7, Will +3
+Immune petrification
+OFFENSE
+Speed 40 ft.
+Melee bite +10 (1d8+4 plus onyx bite), gore +10 (1d8+4), 2 hooves +5 (1d8+2)
+Space 10 ft.; Reach 5 ft.
+Special Attacks bellow, onyx bite
+STATISTICS
+Str 19, Dex 15, Con 17, Int 5, Wis 12, Cha 13
+Base Atk +7; CMB +12; CMD 24 (28 vs. trip)
+Feats Ability Focus (onyx bite), Improved Initiative, Improved Natural Attack (hooves), Skill Focus (Perception)
+Skills Perception +14
+Languages Sylvan (cannot speak)
+SPECIAL ABILITIES
+Bellow (Su) Twice per day, an onyx deer can unleash a rumbling bellow that instills fear in any creature within 100 feet that hears it. All creatures in the area must succeed on a DC 14 Will save or be shaken as long as they remain within the area and for 2d4 rounds afterward. A creature that succeeds on its saving throw is immune to the bellow of that onyx deer for 24 hours. The save DC is Charisma-based. Onyx deer are immune to their own bellow and that of other onyx deer.
+Onyx Bite (Su) An onyx deer’s bite deals 1d4 points of Constitution damage against a living creature if it fails a DC 18 Fortitude save. A living creature reduced to Constitution 3 or less transforms into onyx, resembling nothing more than a statue. A stone to flesh spell returns a transformed creature to its original form, though if it was reduced to Constitution 0 by the onyx deer’s bite it immediately dies upon returning to its natural form. The save DC is Constitution-based.

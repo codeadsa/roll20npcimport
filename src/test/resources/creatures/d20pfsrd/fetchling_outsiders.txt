@@ -1,0 +1,33 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/fetchling
+Fetchling (Kayal)
+CR 1/2
+
+XP 200
+Fetchling rogue 1
+N Medium outsider (native)
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +3
+DEFENSE
+AC 17, touch 13, flat-footed 14 (+4 armor, +3 Dex)
+hp 10 (1d8+2)
+Fort +2, Ref +5, Will –1
+Defensive Abilities shadow blending; Resist cold 5, electricity 5
+OFFENSE
+Speed 30 ft.
+Melee dagger +3 (1d4+1/19–20)
+Special Attacks sneak attack +1d6
+Spell-Like Abilities (CL 1st; concentration +3)
+1/day—disguise self (humanoid only)
+STATISTICS
+Str 13, Dex 17, Con 14, Int 8, Wis 8, Cha 14
+Base Atk +0; CMB +1; CMD 14
+Feats Weapon Finesse
+Skills Appraise +3, Bluff +6, Diplomacy +6, Knowledge (local) +3, Knowledge (planes) +2, Perception +3, Sense Motive +3, Stealth +7; Racial Modifiers +2 Knowledge (planes), +2 Stealth
+Languages Common
+SQ trapfinding +1
+SPECIAL ABILITIES
+Shadow Blending (Su)
+Attacks against a fetchling in dim light have a 50% miss chance instead of the normal 20% miss chance. This ability does not grant total concealment; it just increases the miss chance.
+Image used by permission of Purple Duck Games. Fetchling Characters Fetchlings are defined by their class levels—they do not possess racial HD. They have the following racial traits.
++2 Dexterity, +2 Charisma, –2 Wisdom: Fetchlings are quick and forceful, but often strange and easily distracted by errant thoughts. Darkvision: Fetchlings see in the dark up to 60 feet. Low-Light Vision: Fetchlings can see twice as far as humans in conditions of dim light.
+Skilled: Fetchlings have a +2 racial bonus on Knowledge (planes) and Stealth checks. Shadow Blending: Attacks against a fetchling in dim light have a 50% miss chance instead of the normal 20% miss chance. This ability does not grant total concealment; it just increases the miss chance. Shadowy Resistance: Fetchlings have cold resistance 5 and electricity resistance 5. Spell-Like Abilities (Sp): A fetchling can use disguise self once per day as a spell-like ability. It can assume the form of any humanoid creature using this spell-like ability. When a fetchling reaches 9th level in any combination of classes, it gains shadow walk (self only) as a spell-like ability usable once per day, and at 13th level, it gains plane shift (self only, to the Plane of Shadow or the Material Plane only) usable once per day. A fetchling’s caster level is equal to its total Hit Dice. Languages Fetchlings begin play speaking Common. A fetchling with a high Intelligence score can choose any of the following languages: Aklo, Aquan, Auran, Draconic, D’ziriak (understanding only, cannot speak), Ignan, Terran, and any regional human tongue.
+

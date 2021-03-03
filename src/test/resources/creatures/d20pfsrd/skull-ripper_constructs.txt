@@ -1,0 +1,31 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/constructs/skull-ripper
+Skull Ripper CR 9
+XP 6,400
+CN Large construct
+Init +3; Senses darkvision 60 ft., low-light vision; Perception +1; Aura dread visage (30 ft., DC 18)
+DEFENSE
+AC 24, touch 12, flat-footed 21 (+3 Dex, +12 natural, –1 size)
+hp 112 (15d10+30)
+Fort +5, Ref +10, Will +6
+DR 5/adamantine; Immune construct traits; Resist cold 10; SR 20
+OFFENSE
+Speed 40 ft., climb 40 ft.
+Melee 2 claws +20 (2d6+6/19–20 plus grab), sting +20 (1d10+6 plus poison)
+Space 10 ft.; Reach 10 ft.
+Special Attacks behead, constrict 2d6+9
+STATISTICS
+Str 22, Dex 16, Con —, Int 5, Wis 13, Cha 12
+Base Atk +15; CMB +22 (+26 grapple); CMD 35 (47 vs. trip)
+Feats Bleeding Critical, Combat Reflexes, Critical Focus, Improved Critical (claw), Lightning Reflexes, Power Attack, Skill Focus (Stealth), Vital Strike
+Skills Climb +19, Stealth +15
+Languages Common (cannot speak)
+SPECIAL ABILITIES
+Behead (Ex) A skull ripper is an expert at collecting its favorite trophies—skulls. Once it has pinned a foe, it can attempt to behead the victim with a single gut-wrenching rip of its claws. This attempt is made as part of the grapple check to maintain an existing pin, and if successful, deals 4d6+18 points of damage to the victim. If this damage is enough to bring the target below 0 hit points, the victim must succeed at a DC 23 Fortitude save to resist having its head torn from its body, which results in instant death for most creatures. The save DC is Strength-based.
+Dread Visage (Su) All creatures within 30 feet that can see a skull ripper must make a DC 18 Will save at the start of their turn in order to avoid becoming frightened for 1 round. If the victim recognizes any of the heads affixed to the skull ripper’s body as having once belonged to friends or allies, that victim takes a –4 penalty on the save.
+A creature that succeeds at the save is immune to the dread visage of that particular skull ripper for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based.
+Poison (Su) Sting—injury; save Fort DC 17; frequency 1/round for 6 rounds; effect 1d4 Dex; cure 2 consecutive saves. The save DC is Constitution-based.
+Skull Ripper Construction
+A skull ripper is made from the carcasses of dead vermin and skulls, either harvested by the creator or purchased from shady adventurers for roughly 500 gp in total.
+CL 13th; Price 30,500 gp
+CONSTRUCTION REQUIREMENTS
+Craft Construct, animate dead, fear, geas/quest, keen edge, limited wish; Skill Heal or Knowledge (engineering) DC 15; Cost 15,500 gp

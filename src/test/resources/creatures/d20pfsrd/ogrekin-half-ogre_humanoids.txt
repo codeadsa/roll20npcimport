@@ -1,0 +1,24 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/humanoids/ogrekin-half-ogre
+Ogrekin (Half-Ogre) CR 2
+XP 600
+Male human ogrekin fighter 2
+CE Medium humanoid (giant)
+Init +5; Senses low-light vision; Perception +1
+DEFENSE
+AC 14, touch 11, flat-footed 13 (+1 Dex, +3 natural)
+hp 25 (2d10+10)
+Fort +7, Ref +1, Will+1; +1 vs fear
+Defensive Abilities bravery +1
+OFFENSE
+Speed 30 ft.
+Melee shortspear +7 (1d6+5), bite +2 (1d4+2)
+STATISTICS
+Str 21, Dex 13, Con 18, Int 8, Wis 12, Cha 6
+Base Atk +2; CMB +7; CMD 18
+Feats Cleave, Improved Initiative, Iron Will, Power Attack
+Skills Climb* +10, Swim* +10
+Languages Giant
+SQ deformities (oversized maw, weak mind)
+SPECIAL ABILITIES
+Oversized Maw (Ex) This ogrekin has a bite attack.
+Weak Mind (Ex) This ogrekin’s head is huge and misshapen. It has a –2 penalty on Will saving throws.

@@ -1,0 +1,29 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/aberrations/arcanoplasm-tohc
+Arcanoplasm CR 7
+XP 3,200
+N Large aberration
+Init +4; Senses arcane sense, darkvision 60 ft.; Perception +12
+DEFENSE
+AC 16, touch 9, flat-footed 16 (+7 natural, –1 size)
+hp 73 (7d8+42)
+Fort +8; Ref +2; Will +7
+Defensive Abilities absorb arcane energy, amorphous; Immune paralysis, poison, polymorph, sleep effects, stunning
+OFFENSE
+Speed 30 ft., climb 10 ft.
+Melee slam +7 (2d4+3 plus 1d6 acid plus grab)
+Space 10 ft.; Reach 5 ft.
+Special Attacks arcane spell mimicry, constrict (2d4+3 plus 1d6 acid)
+TACTICS
+During Combat Arcanoplasms always target arcane spellcasting creatures first. Their innate ability to detect such creatures allows them to do so with precision accuracy. Because of its ability to replicate spells cast near it, the arcanoplasm always tries to stay within 30 feet of an arcane caster. Mimicked spells are cast at the foe deemed most threatening.
+Note that because an arcanoplasm’s arcane spell mimicry is a supernatural ability and not actual spellcasting, it cannot absorb arcane energy from spells it casts itself.
+STATISTICS
+Str 15, Dex 11, Con 22, Int 10, Wis 14, Cha 14
+Base Atk +5; CMB +8; CMD 18 (can’t be tripped)
+Feats Ability Focus (arcane spell mimicry), Combat Casting, Improved Initiative, Weapon Focus (slam)
+Skills Climb +20, Perception +12, Spellcraft +18, Stealth +7; Racial Modifiers +8 Spellcraft
+Languages understands Common and Draconic (cannot speak)
+SPECIAL ABILITIES
+Absorb Arcane Energy (Su) Any arcane spell targeted at an arcanoplasm is automatically absorbed into its body. This cures 1 point of damage per 3 points of damage the spell would otherwise deal (non-damaging spells cure 1 point of damage per spell level). Spells that affect an area are not absorbed, but neither do they affect the arcanoplasm. The arcanoplasm cannot absorb divine magic and is affected normally by such magic.
+Acid (Ex) An arcanoplasm secretes a highly corrosive acid that dissolves only flesh.
+Arcane Spell Mimicry (Su) An arcanoplasm can mimic any arcane spell cast within 30 feet of it on its next turn. The spell takes effect as if cast by a 7th-level sorcerer (save DC 14 + spell level) and does not require any components. The arcanoplasm cannot mimic spells a 7th-level arcane caster could not normally cast (i.e., it cannot mimic divine spells, or arcane spells of 5th level or higher). The save DC is Charisma-based. Due to their innately magical nature, an arcanoplasm adds its Constitution modifier in addition to its Charisma modifier to all concentration checks to cast a spell using arcane spell mimicry.
+Arcanesense (Su) An arcanoplasm can automatically detect the location of any arcane spellcaster within 100 feet. This functions like blindsense but is not blocked by stone, lead, or other material, and can only sense the location of arcane spellcasters.

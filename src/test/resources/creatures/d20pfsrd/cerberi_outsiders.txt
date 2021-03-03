@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/outsiders/cerberi
+Cerberi CR 6
+XP 2,400
+LE Medium outsider (evil, extraplanar, lawful)
+Init +6; Senses soul scent; Perception +15
+DEFENSE
+AC 18, touch 12, flat-footed 16 (+2 Dex, +6 natural)
+hp 76 (8d10+32)
+Fort +10, Ref +8, Will +4
+OFFENSE
+Speed 40 ft.
+Melee 3 bites +11 (1d6+4 plus cerberus’s jaws)
+Special Attacks rend (2 bites, 1d6+4 or 3 bites, 1d6+8)
+STATISTICS
+Str 16, Dex 14, Con 19, Int 6, Wis 15, Cha 9
+Base Atk +8; CMB +11; CMD 23 (27 vs. trip)
+Feats Alertness, Combat Reflexes, Improved Initiative, Stand Still
+Skills Acrobatics +13 (+17 when jumping), Perception +15, Sense Motive +4, Stealth +13, Survival +10 (+14 when tracking undead); Racial Modifiers +4 Survival when tracking undead
+Languages Infernal (cannot speak)
+SPECIAL ABILITIES
+Cerberus’s Jaws (Su) Curse—bite; save Fort DC 18; effect dimensional anchoring. A creature affected by this curse cannot utilize extradimensional travel such as teleport, as if it were under the effect of a dimensional anchor spell. The save DC is Constitution-based.
+Soul Scent (Su) This ability functions as the scent ability, save that it also grants the cerberi a +4 racial bonus on Survival checks made to track undead. This ability even allows a cerberi to track the passage of an incorporeal creature.

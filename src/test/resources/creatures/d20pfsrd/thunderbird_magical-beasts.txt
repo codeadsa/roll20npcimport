@@ -1,0 +1,28 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/magical-beasts/thunderbird
+Thunderbird CR 11
+XP 12,800
+N Gargantuan magical beast
+Init +7; Senses darkvision 60 ft., low-light vision, stormsight; Perception +20; Aura storm aura (100 ft.)
+DEFENSE
+AC 25, touch 10, flat-footed 21 (+3 Dex, +1 dodge, +15 natural, –4 size)
+hp 147 (14d10+70)
+Fort +14, Ref +12, Will +9
+Immune electricity, sonic
+OFFENSE
+Speed 30 ft., fly 120 ft. (good)
+Melee 2 claws +18 (2d6+8/19–20 plus grab), bite +18 (2d8+8/19–20)
+Ranged thunderbolt +13 ranged touch (6d6 electricity and 6d6 sonic)
+Space 20 ft.; Reach 20 ft.
+Spell-Like Abilities (CL 11th; concentration +12)
+At will—control weather
+STATISTICS
+Str 26, Dex 17, Con 21, Int 12, Wis 16, Cha 13
+Base Atk +14; CMB +26 (+30 grapple); CMD 40
+Feats Critical Focus, Dodge, Improved Critical (bite), Improved Critical (claw), Improved Initiative, Iron Will, Power Attack
+Skills Acrobatics +13, Fly +11, Perception +20, Perform (sing) +8, Sense Motive +10
+Languages Auran
+SPECIAL ABILITIES
+Thunderbolt (Su) A thunderbird can fire a ray of thunder and lightning from its outspread wings as a standard action. This attack has a range of 200 feet with no range increment, and requires a ranged touch attack to hit. A creature critically hit by a thunderbolt is stunned and deafened for 1 round if it fails a DC 22 Fortitude save. The save DC is Constitution-based.
+Storm Aura (Su) A thunderbird is surrounded by a 100-foot-radius spread of severe winds that blow out from the center, dissipating swiftly at the limit of the aura’s range. In this area, ranged weapons (but not siege weapons) take a –4 penalty on attack rolls, Fly checks are made at a –4 penalty, and exposed flames are extinguished. Small creatures must make a DC 10 Strength check (if on the ground) or a DC 20 Fly check to move toward the thunderbird, while Tiny or Smaller creatures can be knocked backward (1d4 × 10 feet if they are on the ground and fail a DC 15 Strength check, or 2d6 × 10 feet if they are flying and fail a DC 25 Fly check). Creatures on the ground that are pushed back take 1d4 points of nonlethal damage per 10 feet, and flying creatures that are pushed back take 2d6 points of nonlethal damage regardless of the distance they are pushed.
+In addition, once every 1d4 rounds, a bolt of lightning strikes a random creature (other than the thunderbird) within the area of its storm aura. This bolt of lightning deals 12d6 points of electricity damage (DC 22 Reflex halves). The save DC for the lightning bolt is Constitution-based, while those for resisting the wind effects are fixed.
+Stormsight (Ex) A thunderbird ignores all vision penalties and concealment from weather effects, including those created by fog cloud, obscuring mist, and similar spells.

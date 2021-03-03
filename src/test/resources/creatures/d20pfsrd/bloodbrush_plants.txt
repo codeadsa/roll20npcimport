@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/plants/bloodbrush
+Bloodbrush CR 2
+XP 600
+N Small plant
+Init +0; Senses low-light vision; Perception +0
+DEFENSE
+AC 13, touch 11, flat-footed 13 (+2 natural, +1 size)
+hp 26 (4d8+8)
+Fort +6, Ref +1, Will +1
+Defensive Abilities all-around vision, barbs, flammable; DR 5/slashing; Immune plant traits
+Weaknesses vulnerable to fire
+OFFENSE
+Speed 30 ft.
+Melee slam +6 (1d3+3 plus grab)
+Special Attacks grab (Medium), poison, powerful charge (slam, 2d4+3 plus grab)
+STATISTICS
+Str 14, Dex 11, Con 15, Int —, Wis 10, Cha 1
+Base Atk +3; CMB +4 (+8 grapple); CMD 14 (can’t be tripped)
+SPECIAL ABILITIES
+Barbs (Ex) A creature that strikes a bloodbrush with a melee weapon, an unarmed strike, or a natural weapon takes 1d4 points of piercing damage and 1 point of bleed damage, and is exposed to the bloodbrush’s poison. Any creature that attempts a combat maneuver or Escape Artist check against a bloodbrush also takes this barb damage, regardless of success. Melee weapons with reach do not endanger an attacker in this way. A grappled creature takes barb damage at the start of the bloodbrush’s turn.
+Flammable (Ex) If a bloodbrush takes fire damage, it catches fire, but does not take damage for catching fire in the round it ignites. It takes 1d6 points of fire damage at the start of each turn unless it succeeds at a DC 15 Reflex save to extinguish the flame. A burning bloodbrush inflicts 1d6 points of fire damage with its barbs and slam attacks and to any creature that strikes it with a melee attack as its barbs ability.
+Poison (Ex) Barbs—injury; save Fort DC 14; frequency 1/round for 4 rounds; effect dazed; cure 1 save; no effect on creatures immune to mind-affecting effects.

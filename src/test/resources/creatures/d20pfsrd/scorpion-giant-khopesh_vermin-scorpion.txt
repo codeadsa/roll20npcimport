@@ -1,0 +1,22 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/vermin/scorpion/scorpion-giant-khopesh
+Giant Khopesh Scorpion CR 5
+XP 1,600
+N Large vermin
+Init +1; Senses darkvision 60 ft., tremorsense 60 ft.; Perception +4
+DEFENSE
+AC 17, touch 10, flat-footed 16 (+1 Dex, +7 natural, –1 size)
+hp 45 (7d8+14)
+Fort +7, Ref +3, Will +2
+Immune mind-affecting effects
+OFFENSE
+Speed 50 ft.
+Melee 2 claws +8 (1d6+4 plus grab), tail +8 (1d8+4/19–20 plus bleed)
+Space 10 ft.; Reach 10 ft.
+Special Attacks bleed (1d6), constrict (1d6+4)
+STATISTICS
+Str 19, Dex 12, Con 14, Int —, Wis 10, Cha 3
+Base Atk +5; CMB +10 (+14 grapple); CMD 21 (33 vs. trip)
+Skills Climb +8, Perception +4, Stealth +5 (+9 in deserts); Racial Modifiers +4 Climb, +4 Perception, +8 Stealth (+12 in deserts)
+SQ khopesh tail blade
+SPECIAL ABILITIES
+Khopesh Tail Blade (Ex) Instead of a poisonous stinger, a giant khopesh scorpion’s tail ends in a curved blade with a keen edge. The scorpion’s tail attack has a critical threat range of 19–20 and deals slashing damage like a khopesh sword. Furthermore, the damage a giant khopesh scorpion deals with its tail attack causes persistent wounds that deal 1d6 points of bleed damage.

@@ -1,0 +1,20 @@
+https://www.d20pfsrd.com/bestiary/monster-listings/monstrous-humanoids/grimlock
+Grimlock CR 1
+XP 400
+NE Medium monstrous humanoid
+Init+1;Senses blindsight 40 ft., scent; Perception +9
+DEFENSE
+AC 15, touch 11, flat-footed 14 (+1 Dex, +4 natural)
+hp13 (2d10+2)
+Fort +1, Ref +4, Will +2
+Immune gaze attacks, visual effects
+Weaknesses blind
+OFFENSE
+Speed 30 ft.
+Melee battleaxe +4 (1d8+3/x3)
+STATISTICS
+Str 15, Dex 13, Con 13, Int 10, Wis 8, Cha 6
+Base Atk+2; CMB +4; CMD 15
+Feats Alertness, Skill Focus (Perception)
+Skills Climb +7, Perception +9, Sense Motive +1, Stealth +6 (+16 in mountains and underground), Survival +4; Racial Modifier +10 to Stealth in mountains and underground
+Languages Grimlock, Undercommon
